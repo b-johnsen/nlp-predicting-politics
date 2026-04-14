@@ -2,6 +2,7 @@ import spacy
 from pathlib import Path
 
 model = spacy.load("en_core_web_sm")
+model.max_length = 5000000
 
 # Uncomment to see list of labels
 # print(model.pipe_labels['ner'])
@@ -18,8 +19,8 @@ def remove_entities(text, labels_to_remove={"PERSON", "GPE", "DATE", "ORG", "NOR
     return clean
 
 # This is if you are in the /scripts directory running the program
-input_dir = Path("../unclean_data/all_executive_orders_txt_clean/")
-output_dir = Path("../clean_data/clean_eo/")
+input_dir = Path("../unclean_data/congress_bills_txt_113_119/")
+output_dir = Path("../clean_data/clean_congress/")
 
 for txt_file in input_dir.rglob("*.txt"):
     text = txt_file.read_text(encoding="utf-8")

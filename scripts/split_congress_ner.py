@@ -2,6 +2,7 @@ import spacy
 from pathlib import Path
 
 model = spacy.load("en_core_web_sm")
+model.max_length = 5000000
 
 # Uncomment to see list of labels
 # print(model.pipe_labels['ner'])
