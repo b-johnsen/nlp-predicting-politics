@@ -1,0 +1,205 @@
+1.
+Short title
+This Act may be cited as the
+Saving Americans from Vehicle Energy Costs Act
+.
+2.
+Advanceable refundable credit for individuals who own or lease certain motor vehicles
+(a)
+In general
+Subpart C of part IV of subchapter A of
+chapter 1
+of the Internal Revenue Code of 1986 is amended by inserting after section 36B the following new section:
+36C.
+Refundable credit for owning or leasing certain motor vehicles
+(a)
+In general
+In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for any taxable year the sum of the monthly credit amounts determined with respect to such individual for specified months during such taxable year.
+(b)
+Monthly credit amount
+The term
+monthly credit amount
+means, with respect to any individual for any specified month, the product ofâ
+(1)
+$300, multiplied by
+(2)
+the number of qualified motor vehicles owned or leased by such individual as the close of such month.
+(c)
+Limitation based on adjusted gross income
+No credit shall be allowed under this section for any taxable year if the adjusted gross income of the taxpayer for such taxable year exceeds $200,000 ($400,000 in the case of a joint return).
+(d)
+Other definitions
+For purposes of this sectionâ
+(1)
+Eligible individual
+The term
+eligible individual
+means any individual (other than an estate or trust) who resides in the United States.
+(2)
+Specified month
+The term
+specified month
+means the first 3 calendar months beginning after the date of the enactment of this section.
+(3)
+Qualified motor vehicle
+The term
+qualified motor vehicle
+means any vehicle whichâ
+(A)
+is treated as a motor vehicle for purposes of title II of the Clean Air Act, and
+(B)
+is registered for highway use.
+(e)
+Rules related to ownership and leasing
+For purposes of this sectionâ
+(1)
+In general
+An individual shall be treated as owning a motor vehicle only if such person is the registered owner of such motor vehicle.
+(2)
+Leases
+Notwithstanding paragraph (1), any motor vehicle subject to a lease shall be treated as owned by the lessee (and only by the lessee).
+(3)
+Treatment of multiple owners or lessees
+Except as otherwise provided by the Secretary, if more than one individual is listed on any ownership registration or lease as being the owner or lessee (as the case may be) only the first individual so listed shall be treated as the owner or lessee (as the case may be) for purposes of this section.
+(f)
+Coordination with advance payment of credit
+With respect to any taxable year, the amount which (but for this subsection) would be allowed as a credit to a taxpayer under subsection (a) shall be reduced (but not below zero) by the aggregate amount paid to such taxpayer under section 7527B with respect to months during such taxable year.
+.
+(b)
+Advance payment
+Chapter 77 of such Code is amended by inserting after section 7527A the following new section:
+7527B.
+Advance payment of credit for owning or leasing certain motor vehicles
+(a)
+In general
+The Secretary shall establish a program for making monthly payments of the monthly credit amounts determined under section 36C (without regard to subsection (f) thereof) with respect to taxpayers.
+(b)
+Income based on prior year
+For purposes of determining any payment under this section, section 36C(c) shall be applied by substituting
+the preceding taxable year
+for
+such taxable year
+.
+(c)
+On-Line portal
+The Secretary shall establish an on-line portal which allows taxpayers to submit such information as the Secretary may require to allow the Secretary to determine the proper amount of each monthly payment to such taxpayer under this section.
+(d)
+Notice of payments
+Not later than January 31 of the calendar year following any calendar year during which the Secretary makes one or more payments to any taxpayer under this section, the Secretary shall provide such taxpayer with a written notice which includes the taxpayer's taxpayer identity (as defined in section 6103(b)(6)), the aggregate amount of such payments made to such taxpayer during such calendar year, and such other information as the Secretary determines appropriate.
+(e)
+Administrative Provisions
+(1)
+Application of electronic funds payment requirements
+Any payment under this section shall be made by electronic funds transfer to the same extent and in the same manner as if such payment were a Federal payment not made under this title.
+(2)
+Application of certain rules
+Rules similar to the rules of subparagraphs (B) and (C) of section 6428A(f)(3) shall apply for purposes of this section.
+(3)
+Treatment of payments
+Any payment under this section shall be treated for purposes of section 1324 of title 31, United States Code, in the same manner as a refund due from a credit provision which is described in subsection (b)(2) of such section.
+(4)
+Exception from reduction or offset
+Any payment under this section shall not beâ
+(A)
+subject to reduction or offset pursuant to section 3716 or 3720A of title 31, United States Code,
+(B)
+subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of
+section 6402
+of the Internal Revenue Code of 1986, or
+(C)
+reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.
+(5)
+Assignment of benefits
+(A)
+In general
+The right of any person to any applicable payment under this section shall not be transferable or assignable, at law or in equity, and no applicable payment shall be subject to, execution, levy, attachment, garnishment, or other legal process, or the operation of any bankruptcy or insolvency law.
+(B)
+Encoding of payments
+In the case of an applicable payment that is paid electronically by direct deposit through the Automated Clearing House (ACH) network, the Secretary shallâ
+(i)
+issue the payment using a unique identifier that is reasonably sufficient to allow a financial institution to identify the payment as an applicable payment, and
+(ii)
+further encode the payment pursuant to the same specifications as required for a benefit payment defined in section 212.3 of title 31, Code of Federal Regulations.
+(C)
+Garnishment
+(i)
+Encoded payments
+In the case of a garnishment order that applies to an account that has received an applicable payment that is encoded as provided in subparagraph (B), a financial institution shall follow the requirements and procedures set forth in part 212 of title 31, Code of Federal Regulations, exceptâ
+(I)
+notwithstanding section 212.4 of title 31, Code of Federal Regulations (and except as provided in subclause (II)), a financial institution shall not fail to follow the procedures of sections 212.5 and 212.6 of such title with respect to a garnishment order merely because such order has attached, or includes, a notice of right to garnish federal benefits issued by a State child support enforcement agency, and
+(II)
+a financial institution shall not, with regard to any applicable payment, be required to provide the notice referenced in sections 212.6 and 212.7 of title 31, Code of Federal Regulations.
+(ii)
+Other payments
+In the case of a garnishment order (other than an order that has been served by the United States) that has been received by a financial institution and that applies to an account into which an applicable payment that has not been encoded as provided in subparagraph (B) has been deposited electronically on any date during the lookback period or into which an applicable payment that has been deposited by check on any date in the lookback period, the financial institution, upon the request of the account holder, shall treat the amount of the funds in the account at the time of the request, up to the amount of the applicable payment (in addition to any amounts otherwise protected under part 212 of title 31, Code of Federal Regulations), as exempt from a garnishment order without requiring the consent of the party serving the garnishment order or the judgment creditor.
+(iii)
+Liability
+A financial institution that acts in good faith in reliance on clauses (i) or (ii) shall not be subject to liability or regulatory action under any Federal or State law, regulation, court or other order, or regulatory interpretation for actions concerning any applicable payments.
+(D)
+No reclamation rights
+This paragraph shall not alter the status of applicable payments as tax refunds or other nonbenefit payments for purpose of any reclamation rights of the Department of the Treasury or the Internal Revenue Service as per part 210 of title 31, Code of Federal Regulations.
+(E)
+Definitions
+For purposes of this paragraphâ
+(i)
+Account holder
+The term
+account holder
+means a natural person whose name appears in a financial institutionâs records as the direct or beneficial owner of an account.
+(ii)
+Account review
+The term
+account review
+means the process of examining deposits in an account to determine if an applicable payment has been deposited into the account during the lookback period. The financial institution shall perform the account review following the procedures outlined in section 212.5 of title 31, Code of Federal Regulations and in accordance with the requirements of section 212.6 of title 31, Code of Federal Regulations.
+(iii)
+Applicable payment
+The term
+applicable payment
+means any payment made pursuant to subsection (a) of this section.
+(iv)
+Garnishment
+The term
+garnishment
+means execution, levy, attachment, garnishment, or other legal process.
+(v)
+Garnishment order
+The term
+garnishment order
+means a writ, order, notice, summons, judgment, levy, or similar written instruction issued by a court, a State or State agency, a municipality or municipal corporation, or a State child support enforcement agency, including a lien arising by operation of law for overdue child support or an order to freeze the assets in an account, to effect a garnishment against a debtor.
+(vi)
+Lookback period
+The term
+lookback period
+means the two month period that begins on the date preceding the date of account review and ends on the corresponding date of the month two months earlier, or on the last date of the month two months earlier if the corresponding date does not exist.
+(f)
+Regulations
+The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this section and section 36C(f), including regulations or other guidance which provides for the application of such sections where the filing status of the taxpayer for a taxable year is different from the status used for determining monthly payments under this section.
+.
+(c)
+Conforming amendments
+(1)
+Section 6211(b)(4)(A)
+of the Internal Revenue Code of 1986 is amended by inserting
+36C,
+after
+36B,
+.
+(2)
+Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting
+36C,
+after
+36B,
+.
+(3)
+The table of sections for subpart C of part IV of subchapter A of
+chapter 1
+of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 36B the following new item:
+Sec. 36C. Refundable credit for owning or leasing certain motor vehicles.
+.
+(4)
+The table of sections for chapter 77 of such Code is amended by inserting after the item relating to section 7527A the following new item:
+Sec.â7527B.âAdvance payment of credit for owning or leasing certain motor vehicles.
+.
+(d)
+Effective date
+The amendments made by this section shall apply to months beginning after the date of the enactment of this Act, in taxable years ending after such date.

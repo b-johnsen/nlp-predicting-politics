@@ -1,0 +1,216 @@
+1.
+Short title
+This Act may be cited as
+Samiâs Law
+.
+2.
+Definitions
+In this Act, the terms
+machine-readable code or image
+,
+personal mobile device
+,
+QR code
+,
+TNC driver
+,
+TNC platform
+,
+TNC vehicle
+,
+trade dress
+, and
+transportation network company
+have the meanings given those terms in section 171(a) of title 23, United States Code.
+3.
+Sanctions for States without transportation network company vehicle identification laws
+(a)
+In general
+Chapter 1
+of title 23, United States Code, is amended by adding at the end the following:
+171.
+Sanctions for States without transportation network company vehicle identification laws
+(a)
+Definitions
+In this section:
+(1)
+Machine-readable code or image
+The term
+machine-readable code or image
+means a machine-readable optical label thatâ
+(A)
+is unique to each TNC driver and the vehicle of the TNC driver; and
+(B)
+can be scanned using a special scanner or a personal mobile device with a built-in camera.
+(2)
+Personal mobile device
+The term
+personal mobile device
+means any mobile device that an individual uses to connect to a TNC platform.
+(3)
+QR code
+The term
+QR code
+means a machine-readable code or image thatâ
+(A)
+is also known as a quick response code; and
+(B)
+consists of a matrix or 2-dimensional barcode.
+(4)
+TNC driver
+The term
+TNC driver
+means an individual who is employed or contracted by a transportation network company to provide transportation services to the public through a TNC platform.
+(5)
+TNC platform
+The term
+TNC platform
+means an online-enabled application or digital network used to connect passengers with drivers using vehicles for the purpose of providing prearranged transportation services for compensation.
+(6)
+TNC vehicle
+The term
+TNC vehicle
+means a vehicle of a TNC driver that the TNC driver uses to provide TNC services (also known as a ride-hailing vehicle).
+(7)
+Trade dress
+The term
+trade dress
+means anything designed or used to promote or signify a transportation network company or a vehicle used to provide transportation services to the public, such as the logo of the company, and includes the color, shape, size, or any other feature that makes the presentation of the service distinctive.
+(8)
+Transportation network company
+The term
+transportation network company
+means a company that uses an online-enabled application platform or digital network to connect passengers with drivers using personal, noncommercial vehicles of the drivers to provide transportation services.
+(b)
+Withholding of funds for noncompliance
+(1)
+First fiscal year
+On October 1 of second full fiscal year beginning after the date of enactment of this section, the Secretary shall withhold 1 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) for that fiscal year if the State is not in compliance with subsection (c) on that date.
+(2)
+Subsequent fiscal years
+On October 1 of the third full fiscal year beginning after the date of enactment of this section, and each October 1 thereafter, the Secretary shall withhold 2.5 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) for that fiscal year if the State is not in compliance with subsection (c) on that date.
+(3)
+Effect of withholding of funds
+No funds withheld under this section from an apportionment to a State shall be available to that State.
+(c)
+Requirements
+A State shall be in compliance with this subsection if the State has in effect the following laws with respect to transportation network companies operating in that State:
+(1)
+Front and rear license plates
+A law requiring that each TNC vehicle display a State-issued license plate on both the front and rear of the vehicle.
+(2)
+Inspection and signage requirements
+A law requiring TNC drivers to present TNC vehicles for inspection by not later than 180 days after the date of enactment of that law, or, in the case of a State that already has in effect a law that meets the requirements of this paragraph, not later than 180 days after the date of enactment of this section, and annually thereafter, including each of the following:
+(A)
+A provision requiring each TNC driver to affix a sticker with a machine-readable code or image, provided to that driver pursuant to section 4(b)(2) of
+Samiâs Law
+, on each window of the vehicle of the TNC driver adjacent to where passengers may sit.
+(B)
+A provision that prohibits a TNC driver from providing TNC services if the TNC vehicle does not pass the inspection.
+(C)
+A provision that requires periodic safety inspections of the TNC vehicle performed at intervals of not less frequently than once each year.
+(D)
+A provision that requires, at all times when the TNC driver is active on the TNC platform or providing any TNC service, each TNC vehicle to display a consistent and distinctive signage or emblem thatâ
+(i)
+is recognized as a trade dress for the transportation network company;
+(ii)
+is readable during daylight hours at a distance of 50 feet;
+(iii)
+includes an illuminated transportation network company sign that displays the proprietary trademark or logo of the company that is patently visible so as to be seen in darkness; and
+(iv)
+may be magnetic or removable in nature.
+(3)
+Unlawful display
+A law providing that an individual who is not a TNC driver may be charged with a misdemeanor for displaying the illuminated sign described in paragraph (2)(D)(iii) on any vehicle with the intent to impersonate a TNC driver operating a TNC vehicle.
+.
+(b)
+Clerical amendment
+The analysis for
+chapter 1
+of title 23, United States Code, is amended by adding at the end the following:
+171. Sanctions for States without transportation network company vehicle identification laws
+.
+4.
+Access and other requirements for transportation network company vehicles and transportation
+network companies
+(a)
+In general
+Not later than 180 days after the date of enactment of this Act, each transportation network company shallâ
+(1)
+establish and implement a system that requiresâ
+(A)
+each individual who uses the TNC platform of a transportation network company to verify the identity of the TNC driver assigned to the individual via the TNC platform for the trip; and
+(B)
+that TNC driver to confirm the identity of the individual prior to the beginning of a trip.
+(b)
+Inclusions
+A system under subsection (a) shall includeâ
+(1)
+a machine-readable code or image that is unique to each TNC driver and the vehicle of the TNC driver, such as a QR code or a successor technology, that can be scanned by the individual hailing the driver, using a personal mobile device with a built-in camera;
+(2)
+forward-facing window stickers containing the machine-readable code or image described in paragraph (1) that shall be provided to each TNC driver;
+(3)
+the ability, via the TNC platform of the transportation network companyâ
+(A)
+to provide to each individual who is assigned a TNC driver the unique machine-readable code or image of that driver; and
+(B)
+to provide a means by which that individual may scan the machine-readable code or image displayed on the window sticker of the TNC vehicle, using the TNC platform on the personal mobile device of the individual, to confirm the identity of the TNC driver who is assigned to the individual prior to entering the vehicle; and
+(4)
+policies or procedures thatâ
+(A)
+restrict each TNC driver from commencing a trip until the individual who has requested the trip successfully verifies the identity of the TNC driver by scanning the machine-readable code or image;
+(B)
+prohibit a TNC driver from providing TNC services if the TNC vehicle or TNC driver is not in compliance with this section;
+(C)
+require a periodic safety inspection of the TNC vehicle performed at intervals of not less frequently than once each year; and
+(D)
+require each TNC vehicle, at all times when the TNC driver is active on the TNC platform or providing any TNC service, to display a consistent and distinctive signage or emblem thatâ
+(i)
+is recognized as a trade dress for the transportation network company;
+(ii)
+is readable during daylight hours at a distance of 50 feet;
+(iii)
+includes an illuminated transportation network company sign displaying the proprietary trademark or logo of the company that is patently visible so as to be seen in darkness; and
+(iv)
+may be magnetic or removable in nature.
+(c)
+Signage policy
+Not later than 180 days after the date of enactment of this Act, each transportation network company shall implement a policy to require that any illuminated signage described in section 171(c)(2)(D)(iii) of title 23, United States Code, be returned to the transportation network company when a TNC driver ceases to be employed or contracted by the company.
+5.
+Prohibition on sale of transportation network company signage
+It shall be unlawful for any person to sell or offer for sale any illuminated sign described in section 171(c)(2)(D)(iii) of title 23, United States Code.
+6.
+Unfair or deceptive act or practice
+(a)
+In general
+A violation of section 4 or section 5 shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(b)
+Powers of Federal Trade Commission
+(1)
+In general
+The Federal Trade Commission shall enforce sections 4 and 5 in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of such sections.
+(2)
+Privileges and immunities
+Any person who violates section 4 or section 5 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+7.
+GAO study on the incidence of assault and abuse of transportation network company passengers and
+drivers
+The Comptroller General of the United States shallâ
+(1)
+conduct a study on the incidence of assault and abuse perpetrated on drivers by passengers using TNC vehicles, and on passengers by drivers of TNC vehicles, including an examination ofâ
+(A)
+incidences in which individuals who are not TNC drivers attempt to pose as TNC drivers;
+(B)
+incidences of passengers who hailed a ride through a TNC platform entering the wrong vehicle, whether or not the vehicle was a TNC vehicle;
+(C)
+efforts by transportation network companies, States, and local governments to implement additional safety measures, practices, and requirements, and the efficacy of those measures, practices, and requirements; and
+(D)
+the nature and specifics of any background checks conducted by transportation network companies on potential TNC drivers, including any State laws that may require such background checks; and
+(2)
+submit to Congress a report on the results of the study under paragraph (1) by not later than 1 year after the date of enactment of this Act.

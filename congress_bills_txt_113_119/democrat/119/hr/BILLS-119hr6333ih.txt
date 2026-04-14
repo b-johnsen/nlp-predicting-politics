@@ -1,0 +1,236 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Parents Over Platforms Act
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec.â1.âShort title; table of contents.
+Sec.â2.âDefinitions.
+Title IâAPPLICATION DISTRIBUTOR AND DEVELOPER RESPONSIBILITIES
+Sec.â101.âAge assurance.
+Sec.â102.âApplication distributor and developer obligations.
+Title IIâLIABILITY AND ENFORCEMENT
+Sec.â201.âLimitations on liability.
+Sec.â202.âEnforcement.
+Sec.â203.âPreemption.
+Sec.â204.âSeverability.
+Sec.â205.âEffective date.
+2.
+Definitions
+In this Act:
+(1)
+Adult
+The term
+Adult
+means an account holder who is or is estimated to be 18 years of age or older.
+(2)
+Age category
+The term
+Age Category
+means categorization of an individual based on age or estimated age, including a description of the user as a Minor, Adult, or being within a given age range.
+(3)
+Age signal
+The term
+Age Signal
+means a signal that indicates an account holderâs Age Category, which the account holder or the account holderâs parent has agreed to share.
+(4)
+Application
+The term
+Application
+means a software program that isâ
+(A)
+designed to be run on a Connected Device, and to perform, or to help the user perform a specific task on the Connected Device; and
+(B)
+distributed through an Application Distribution Provider.
+The term does not include websites or internet Browser extensions, or software with a primary purpose of extending the functionality of an internet Browser.
+(5)
+Application distributor
+The term
+Application Distributor
+means a software application that distributes Applications from Developers to users of a Connected Device. The term does not include internet Browsers.
+(6)
+Application distribution provider
+The term
+Application Distribution Provider
+means an entity, company, or organization that owns, operates, or controls an Application Distributor.
+(7)
+Connected device
+The term
+Connected Device
+means a smartphone, tablet, gaming console, or virtual reality device that enables users to connect to the internet and download software applications.
+(8)
+Covered application
+The term
+Covered Application
+means an Application that is not an Application Distributor and that a Developer provides, whether legally required or not, a different experience for Adults than for Minors or an experience that is intended only for Adults. This includes, but is not limited to, Developers that provide different account types, content, or features or engage in different advertising or data practices depending on a userâs age. The term does not include internet Browsers or Online Search Engines.
+(9)
+Developer
+The term
+Developer
+means any person, entity, company, or organization that creates, owns, or controls an Application.
+(10)
+Minor
+The term
+Minor
+means an account holder who is or is estimated to be under the age of 18.
+(11)
+Covered website
+The term
+Covered Website
+means a website that provides a URL-accessible or web version of a Covered Application. The term does not include internet Browsers or Online Search Engines.
+(12)
+Personalized advertising
+Personalized Advertising
+means displaying advertisements to an account holder where the advertisement is selected based on personal data obtained from that account holderâs activities over time and across non-affiliated websites or online applications to predict such account holderâs preferences or interests.
+Personalized Advertising
+does not include:
+(1)
+Advertising based on an account holderâs activities within a Developerâs own Application or Applications;
+(2)
+Advertising based on the context of an account holderâs current interaction with an Application;
+(3)
+Advertising directed to an account holder in response to the account holderâs direct request for information or feedback; or
+(4)
+The processing of personal data solely for measuring or reporting advertising performance, reach, or frequency.
+I
+APPLICATION DISTRIBUTOR AND DEVELOPER RESPONSIBILITIES
+101.
+Age assurance
+(a)
+Responsibilities of application distribution providers
+An Application Distribution Providerâ
+(1)
+shall ask account holders to declare their age when creating an account with the Application Distribution Provider;
+(2)
+may use commercially reasonable efforts to obtain the Age Category of an account holder with a reasonable level of certainty;
+(3)
+may provide account holders with a mechanism to obtain their Age Category and the ability to request an update if they believe their Age Category is incorrect; and
+(4)
+shall provide Developers of Covered Applications the technical ability to call an Age Signal where the account holder or the account holderâs parent has agreed to such sharing.
+(b)
+Rule of construction
+(1)
+Nothing in this section shall be construed to preclude an Application Distribution Provider from using multiple commercially reasonable methods to obtain, estimate, or provide the Age Category of an account holder.
+(2)
+Nothing in this section shall be construed to restrict an Application Distribution Providerâs ability to satisfy this section by obtaining a Minor account holderâs age from the Minorâs parent.
+102.
+Application distributor and developer obligations
+(a)
+Application distribution providers
+An Application Distribution Providerâ
+(1)
+shall provide the account holderâs parent with the ability to prevent account holders who are not Adults from acquiring or using the Developerâs Covered Application from the Application Distributor;
+(2)
+shall provide the Developer of a Covered Application with the ability to prevent account holders who are not Adults from acquiring or using the Developerâs Covered Application from the Application Distributor.
+(A)
+Nothing in this section shall prevent Application Distribution Providers from creating a user interface or centralized page for account holderâs parents to block categories by age rating of Covered Applications based on the content and features of the Covered Application.
+(2)
+shall provide the capability to Developers to provide information regarding their relevant parental controls for a Covered Application through a centralized product page or user interface, hosted by the Application Distribution Provider, that provides relevant information about a Covered Application;
+(3)
+shall comply with the obligations set out in subsection (b) for its own Covered Applications for which the Application Distribution Provider is also the Developer; and
+(4)
+shall not use data collected from third-party Covered Applications in the course of compliance with this section to give the Application Distribution Provider preference relative to those of third parties, or to otherwise use such data in an anticompetitive manner.
+(b)
+Developers of covered applications
+A Developer of a Covered Applicationâ
+(1)
+shall report to the Application Distribution Provider whether their Applications provide a different experience for Adults than for users who are not Adults or is intended only for Adults;
+(2)
+shall provide information regarding privacy and online safety settings to help parents support Minors using their Covered Applications, unless their Application is intended only for Adults and blocks Minors;
+(3)
+shall use commercially reasonable efforts to determine whether a user is an Adult or a Minor with a reasonable level of certainty;
+(A)
+For the purposes of this section, an Age Signal provided by an Application Distribution Provider shall be considered a commercially reasonable effort, unless a Developerâs Application is intended only for Adults and blocks Minors and is required by law to restrict access to Adults, in which caseâ
+(i)
+an Age Signal provided by an Application Distribution Provider indicating a user is a Minor shall be sufficient basis to block access; and
+(ii)
+an Age Signal provided by an Application Distribution Provider indicating a user is an Adult shall not, by itself, satisfy the requirement to determine whether a user is an Adult with a reasonable level of certainty, including for purposes of other laws that require access restrictions based on age.
+(4)
+shall make a reasonable effort to ensure that users who are Minors cannot engage in any activity that has been restricted by the developer for Adults only;
+(5)
+shall obtain consent prior to permitting Minor account holders from accessing a Covered Application or portion thereof that the Developer has designated as unsuitable for use by Minors without parental guidance or supervision, or from accessing content that is age-gated by law;
+(6)
+shall not deliver personalized advertising to Minors; and
+(7)
+if the Developer determines that it is a Covered Application, and chooses to call an Age Signal facilitated by an Application Distribution Provider to satisfy the requirements of this section, the Developerâ
+(A)
+shall request the minimum amount of information needed for purposes of compliance with this Act;
+(B)
+may not willfully disregard any information regarding an individualâs age or Age Category that is otherwise available to the Developer;
+(C)
+may not share the information obtained from the Age Signal with third parties, except for a service provider, but only if necessary for such service provider to implement safety measures or privacy protections for minors or otherwise required to do so by law; and
+(D)
+may not use the Age Signal for any purpose beyond that intended by this Act, including but not limited to using the Age Signal to back into or attempt to back into a userâs date of birth.
+(8)
+if the Developer uses a method other than an Age Signal provided by an Application Distribution Provider to satisfy the requirements of this section, the Developerâ
+(A)
+shall request the minimum amount of information needed for purposes of compliance with this Act;
+(B)
+may not willfully disregard any information regarding an individualâs age or Age Category that is available to the Developer;
+(C)
+may not share the information obtained in the course of complying with this section with third parties, except for a service provider, but only if necessary for such service provider to implement safety measures or privacy protections for minors or otherwise required to do so by law; and
+(D)
+may not use age data for any purpose beyond that intended by this Act, including but not limited to using age data to back into or attempt to back into a userâs date of birth.
+(c)
+Rule of construction
+If the Developer and an Application Distribution Provider are controlled by the same entity, the Developer may rely on age determinations made by that entity.
+(d)
+Rule of Construction
+Developers of Covered websites shall have the same requirements as Developers of Covered Applications in this Act and may carry over to Covered websites an Age Signal received from an Application Distribution Provider to fulfill such requirements.
+II
+LIABILITY AND ENFORCEMENT
+201.
+Limitations on liability
+(a)
+Application distribution providers and operating system providers
+An Application Distribution Provider or Operating System Provider that makes a good faith effort to comply with the obligations of this Act, taking into consideration available technology, shall not be liable under any provision of this Act, or otherwise liable for its actions taken in attempt to comply with this Act, including but not limited to the following with regard to facilitation of the provision of an Age Signal:
+(1)
+Any erroneous Age Signal.
+(2)
+Any conduct by a Developer of a Covered Application that receives any Age Signal.
+(3)
+Failing to provide an Age Signal due to any reasonable technical limitations or outages that prevent the provision of the Age Signal upon request.
+(4)
+Not providing the Age Signal to Developers that do not adhere to reasonable safety standards and Application Distributor policies.
+(b)
+Developers
+A Developer of a Covered Applicationâ
+(1)
+as between the Developer of a Covered Application and the Application Distribution Provider, is solely liable for correctly identifying whether their Applications are Covered Applications under this Act. No Application Distributor is required to proactively identify Covered Applications, and an Application Distributor will not be held liable in cases where a Developer provides inaccurate information about its Applications; and
+(2)
+shall not be liable for an erroneous Age Signal provided by an Application Distribution Provider, if the Developer makes a reasonable effort, taking into consideration available technology, to properly use the Age Signal and carry out commercially reasonable methods to obtain or estimate the age of an account holder.
+202.
+Enforcement
+(a)
+Unfair or deceptive acts or practices
+A violation of this Act or a regulation promulgated thereunder shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(b)
+Powers of the commission
+(1)
+In general
+The Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+) were incorporated into and made a part of this Act.
+(2)
+Privileges and immunities
+Any person who violates this Act or a regulation promulgated thereunder shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+).
+(3)
+Authority preserved
+Nothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.
+203.
+Preemption
+No State or political subdivision of a State may maintain, enforce, prescribe, or continue in effect any law, rule, regulation, requirement, standard, or other provision having the force and effect of law of any State, or political subdivision of a State, related to the provisions of this Act.
+204.
+Severability
+If any provision of this Act or the application of any provision to any person or circumstance is held invalid by a final decision of a court of competent jurisdiction, the remainder of this Act shall be given effect without the invalid provision or application.
+205.
+Effective date
+This Act shall take effect not later than 24 months after the date of its enactment.

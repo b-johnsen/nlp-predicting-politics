@@ -1,0 +1,478 @@
+1.
+Short title
+This Act may be cited as the
+Water Power Research and Development Act
+.
+2.
+Water power research and development
+(a)
+In general
+Subtitle C of title VI of the Energy Independence and Security Act of 2007 (
+42 U.S.C. 17211
+et seq.) is amended to read as follows:
+C
+Water Power Research and Development
+631.
+Short title
+This subtitle may be cited as the
+Water Power Research and Development Act
+.
+632.
+Definitions
+In this subtitle:
+(1)
+Eligible entity
+The term
+eligible entity
+means any of the following entities:
+(A)
+An institution of higher education.
+(B)
+A National Laboratory.
+(C)
+A Federal research agency.
+(D)
+A State research agency.
+(E)
+A nonprofit research organization.
+(F)
+An industrial entity or a multi-institutional consortium thereof.
+(2)
+Institution of higher education
+The term
+institution of higher education
+has the meaning given such term in section 101 of the Higher Education Act of 1965 (
+20 U.S.C. 1001
+).
+(3)
+Marine energy
+The term
+marine energy
+means energy fromâ
+(A)
+waves, tides, and currents in oceans, estuaries, and tidal areas;
+(B)
+free flowing water in rivers, lakes, streams, and man-made channels;
+(C)
+differentials in salinity and pressure gradients; and
+(D)
+differentials in water temperature, including ocean thermal energy conversion.
+(4)
+National laboratory
+The term
+National Laboratory
+has the meaning given such term in section 2(3) of the Energy Policy Act of 2005 (
+42 U.S.C. 15801(3)
+).
+(5)
+Water power
+The term
+water power
+refers to hydropower, including conduit power, pumped storage, and marine energy technologies.
+(6)
+Microgrid
+The term
+microgrid
+has the meaning given such term in section 641 of the Energy Independence and Security Act of 2007 (
+42 U.S.C. 17231
+).
+633.
+Water power technology research, development, and demonstration
+The Secretary shall carry out a program to conduct research, development, demonstration, and commercial application of water power technologies in support of each of the following purposes:
+(1)
+To promote research, development, demonstration, and commercial application of water power generation technologies in order to increase capacity and reduce the cost of those technologies.
+(2)
+To promote research and development to improve the environmental impact of water power technologies.
+(3)
+To provide grid reliability and resilience, including through technologies that facilitate new market opportunities, such as ancillary services, for water power.
+(4)
+To promote the development of water power technologies to improve economic growth in the water power sector, including in coastal communities.
+634.
+Hydropower research, development, and demonstration
+The Secretary shall conduct a program of research, development, demonstration, and commercial application for technologies that improve the capacity, efficiency, resilience, security, reliability, affordability, and environmental impact, including potential cumulative environmental impacts, of hydropower systems. In carrying out such program, the Secretary shall prioritize activities designed toâ
+(1)
+develop technology forâ
+(A)
+non-powered dams, including aging and potentially hazardous dams;
+(B)
+pumped storage;
+(C)
+constructed waterways;
+(D)
+new stream-reach development;
+(E)
+modular and small dams;
+(F)
+increased operational flexibility; and
+(G)
+enhancement of relevant existing facilities;
+(2)
+develop new strategies and technologies, including analytical methods, physical and numerical tools, and advanced computing, as well as methods to validate such methods and tools, in order toâ
+(A)
+extend the operational lifetime of hydropower systems and their physical structures, while improving environmental impact, including potential cumulative environmental impacts;
+(B)
+assist in device and system design, installation, operation, and maintenance; and
+(C)
+reduce costs, limit outages, and increase unit and plant efficiencies, including by examining the impact of changing water and electricity demand on hydropower generation, flexibility, and provision of grid services;
+(3)
+study, in conjunction with other relevant Federal agencies as appropriate, methods to improve the hydropower licensing process, including by compiling current and accepted best practices, public comments, and methodologies to assess the full range of potential environmental and economic impacts;
+(4)
+identify opportunities for joint research, development, and demonstration programs between hydropower systems, which may includeâ
+(A)
+pumped storage systems and other renewable energy systems;
+(B)
+small hydro facilities and other energy storage systems;
+(C)
+other hybrid energy systems;
+(D)
+small hydro facilities and critical infrastructure, including water infrastructure; and
+(E)
+hydro facilities and responsive load technologies, which may include smart buildings and city systems;
+(5)
+improve the reliability of hydropower technologies, including during extreme weather events;
+(6)
+develop methods and technologies to improve environmental impact, including potential cumulative environmental impacts, of hydropower and pumped storage technologies, including potential impacts on wildlife, such asâ
+(A)
+fisheries;
+(B)
+aquatic life and resources;
+(C)
+navigation of waterways; and
+(D)
+upstream and downstream environmental conditions, including sediment movement, water quality, and flow volumes;
+(7)
+identify ways to increase power generation byâ
+(A)
+diversifying plant configuration options;
+(B)
+improving pump-back efficiencies;
+(C)
+investigating multi-phase systems;
+(D)
+developing, testing, and monitoring advanced generators with faster cycling times, variable speeds, and improved efficiencies;
+(E)
+developing, testing, and monitoring advanced turbines capable of improving environmental impact, including potential cumulative environmental impacts, including small turbine designs;
+(F)
+developing standardized powertrain components;
+(G)
+developing components with advanced materials and manufacturing processes, including additive manufacturing; and
+(H)
+developing analytical tools that enable hydropower to provide grid services that, amongst other services, improve grid integration of other energy sources;
+(8)
+advance new pumped storage technologies, includingâ
+(A)
+systems with adjustable speed and other new pumping and generating equipment designs;
+(B)
+modular systems;
+(C)
+alternative closed-loop systems, including mines and quarries; and
+(D)
+other innovative equipment and materials as determined by the Secretary;
+(9)
+reduce civil works costs and construction times for hydropower and pumped storage systems, including comprehensive data and systems analysis of hydropower and pumped storage construction technologies and processes in order to identify areas for whole-system efficiency gains;
+(10)
+advance efficient and reliable integration of hydropower and pumped storage systems with the electric grid byâ
+(A)
+improving methods for operational forecasting of renewable energy systems to identify opportunities for hydropower applications in pumped storage and hybrid energy systems, including forecasting of seasonal and annual energy storage;
+(B)
+considering aggregating small distributed hydropower assets; and
+(C)
+identifying barriers to grid scale implementation of hydropower and pumped storage technologies;
+(11)
+improve computational fluid dynamic modeling methods;
+(12)
+improve flow measurement methods, including maintenance of continuous flow measurement equipment;
+(13)
+identify best methods for compiling data on all hydropower resources and assets, including identifying potential for increased capacity; and
+(14)
+identify mechanisms to test and validate performance of hydropower and pumped storage technologies.
+635.
+Marine energy research, development, and demonstration
+(a)
+In general
+The Secretary, in consultation with the Department of Defense, Secretary of Commerce (acting through the Under Secretary of Commerce for Oceans and Atmosphere) and other relevant Federal agencies, shall conduct a program of research, development, demonstration, and commercial application of marine energy technology, including activities toâ
+(1)
+assist technology development to improve the components, processes, and systems used for power generation from marine energy resources at a variety of scales;
+(2)
+establish and expand critical testing infrastructure and facilities necessary toâ
+(A)
+demonstrate and prove marine energy devices at a range of scales in a manner that is cost-effective and efficient; and
+(B)
+accelerate the technological readiness and commercial application of such devices;
+(3)
+address marine energy resource variability issues, including through the application of energy storage technologies;
+(4)
+advance efficient and reliable integration of marine energy with the electric grid, which may include smart building systems;
+(5)
+identify and study critical short-term and long-term needs to maintaining a sustainable marine energy supply chain based in the United States;
+(6)
+increase the reliability, security, and resilience of marine energy technologies;
+(7)
+validate the performance, reliability, maintainability, and cost of marine energy device designs and system components in an operating environment;
+(8)
+consider the protection of critical infrastructure, such as adequate separation between marine energy devices and submarine telecommunications cables, including through the development of voluntary, consensus-based standards for such purposes;
+(9)
+identify opportunities for crosscutting research, development, and demonstration programs between existing energy research programs;
+(10)
+identify and improve, in conjunction with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, and other relevant Federal agencies as appropriate, the environmental impact, including potential cumulative environmental impacts, of marine energy technologies, includingâ
+(A)
+potential impacts on fisheries and other marine resources; and
+(B)
+developing technologies, including mechanisms for self-evaluation, and other means available for improving environmental impact, including potential cumulative environmental impacts;
+(11)
+identify, in consultation with relevant Federal agencies, potential navigational impacts of marine energy technologies and strategies to prevent possible adverse impacts, in addition to opportunities for marine energy systems to aid the United States Coast Guard, such as remote sensing for coastal border security;
+(12)
+develop numerical and physical tools, including models and monitoring technologies, to assist industry in device and system design, installation, operation, and maintenance, including methods to validate such tools;
+(13)
+support materials science as it relates to marine energy technology, such as the development of corrosive-resistant materials;
+(14)
+improve marine energy resource forecasting and general understanding of aquatic system behavior, including turbulence and extreme conditions;
+(15)
+develop metrics and voluntary, consensus-based standards, in coordination with the National Institute of Standards and Technology and appropriate standard development organizations, for marine energy components, systems, and their testing, includingâ
+(A)
+sensors and instrumentation used in measuring impacts and performance of marine energy technologies; and
+(B)
+sensors and instrumentation used to measure environmental conditions;
+(16)
+enhance integration with hybrid energy systems, including desalination;
+(17)
+identify opportunities to integrate marine energy technologies into new and existing infrastructure; and
+(18)
+to develop technology necessary to support the use of marine energyâ
+(A)
+for the generation and storage of power at sea; and
+(B)
+for the generation and storage of power to promote the resilience of coastal communities, including in applications relating toâ
+(i)
+desalination;
+(ii)
+disaster recovery and resilience; and
+(iii)
+community microgrids in isolated power systems.
+(b)
+Study of non-Power sector applications for advanced marine energy technologies
+(1)
+In general
+The Secretary, in consultation with the Secretary of Transportation and the Secretary of Commerce, shall conduct a study to examine opportunities for research and development in advanced marine energy technologies for non-power sector applications, including applications with respect toâ
+(A)
+the maritime transportation sector;
+(B)
+associated maritime energy infrastructure, including infrastructure that serves ports, to improve system resilience and disaster recovery; and
+(C)
+enabling scientific missions at sea and in extreme environments, including the Arctic.
+(2)
+Report
+Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that describes the results of the study conducted under paragraph (1).
+636.
+National Marine Energy Centers
+(a)
+In general
+The Secretary shall award grants, each such grant up to $10,000,000 per year, to institutions of higher education (or consortia thereof) forâ
+(1)
+the continuation and expansion of the research, development, demonstration, testing, and commercial application activities at the National Marine Energy Centers (referred to in this section as
+Centers
+) established as of January 1, 2020; and
+(2)
+the establishment of new National Marine Energy Centers.
+(b)
+Location selection
+In selecting institutions of higher education for new Centers, the Secretary shall consider the following criteria:
+(1)
+Whether the institution hosts an existing marine energy research and development program.
+(2)
+Whether the institution has proven technical expertise to support marine energy research.
+(3)
+Whether the institution has access to marine resources.
+(c)
+Purposes
+The Centers shall coordinate among themselves, the Department, and National Laboratories toâ
+(1)
+advance research, development, demonstration, and commercial application of marine energy technologies in response to industry and commercial needs;
+(2)
+support in-water testing and demonstration of marine energy technologies, including facilities capable of testingâ
+(A)
+marine energy systems of various technology readiness levels and scales;
+(B)
+a variety of technologies in multiple test berths at a single location;
+(C)
+arrays of technology devices; and
+(D)
+interconnectivity to an electrical grid, including microgrids; and
+(3)
+collect and disseminate information on best practices in all areas relating to developing and managing marine energy resources and energy systems.
+(d)
+Coordination
+To the extent practicable, the Centers shall coordinate their activities with the Secretary of Commerce, acting through the Undersecretary of Commerce for Oceans and Atmosphere, and other relevant Federal agencies.
+(e)
+Termination
+To the extent otherwise authorized by law, the Secretary may terminate funding for a Center described in paragraph (a) if such Center is under-performing.
+637.
+Organization and administration of programs
+(a)
+Coordination
+In carrying out this subtitle, the Secretary shall coordinate activities, and effectively manage cross-cutting research priorities across programs of the Department and other relevant Federal agencies, including the National Laboratories and the National Marine Energy Centers.
+(b)
+Collaboration
+(1)
+In general
+In carrying out this subtitle, the Secretary shall collaborate with industry, National Laboratories, other relevant Federal agencies, institutions of higher education, including Minority Serving Institutions, National Marine Energy Centers, Tribal entities, including Alaska Native Corporations, and international bodies with relevant scientific and technical expertise.
+(2)
+Participation
+To the extent practicable, the Secretary shall encourage research projects that promote collaboration between entities specified in paragraph (1) and include entities not historically associated with National Marine Energy Centers, such as Minority Serving Institutions.
+(3)
+International collaboration
+The Secretary of Energy, in coordination with other appropriate Federal and multilateral agencies (including the United States Agency for International Development) shall support collaborative efforts with international partners to promote the research, development, and demonstration of water power technologies used to develop hydropower, pump storage, and marine energy resources.
+(c)
+Dissemination of results and public availability
+The Secretary shallâ
+(1)
+publish the results of projects supported under this subtitle through Department websites, reports, databases, training materials, and industry conferences, including information discovered after the completion of such projects, withholding any industrial proprietary information; and
+(2)
+share results of such projects with the public except to the extent that the information is protected from disclosure under section 552(b) of title 5, United States Code.
+(d)
+Award frequency
+The Secretary shall solicit applications for awards under this subtitle no less frequently than once per fiscal year.
+(e)
+Education and outreach
+In carrying out the activities described in this subtitle, the Secretary shall support education and outreach activities to disseminate information and promote public understanding of water power technologies and the water power workforce, including activities at the National Marine Energy Centers.
+(f)
+Technical assistance and workforce development
+In carrying out this subtitle, the Secretary may also conduct, for purposes of supporting technical, non-hardware, and information-based advances in water power systems development and operationsâ
+(1)
+technical assistance and analysis activities with eligible entities, including activities that support expanding access to advanced water power technologies for rural, Tribal, and low-income communities; and
+(2)
+workforce development and training activities, including to support the dissemination of standards and best practices for enabling water power production.
+(g)
+Strategic plan
+In carrying out the activities described in this subtitle, the Secretary shallâ
+(1)
+not later than one year after the date of the enactment of the Water Power Research and Development Act, draft a plan, considering input from relevant stakeholders such as industry and academia, to implement the programs described in this subtitle and update the plan on an annual basis; and
+(2)
+the plan shall address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of water power systems.
+(h)
+Report to congress
+Not later than 1 year after the date of the enactment of the Water Power Research and Development Act, and at least once every 2 years thereafter, the Secretary shall provide, and make available to the public and the relevant authorizing and appropriations committees of Congress, a report on the findings of research conducted and activities carried out pursuant to this subtitle, including the most current strategic plan under subsection (g) and the progress made in implementing such plan.
+638.
+Applicability of other laws
+Nothing in this subtitle shall be construed as waiving, modifying, or superseding the applicability of any requirement under any environmental or other Federal or State law.
+639.
+Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out this subtitleâ
+(1)
+$152,750,000 for fiscal year 2021, including $112,580,000 for marine energy and $40,170,000 for hydropower research, development, and demonstration activities;
+(2)
+$157,678,300 for fiscal year 2022, including $116,303,200 for marine energy and $41,375,100 for hydropower research, development, and demonstration activities;
+(3)
+$162,791,915 for fiscal year 2023, including $120,175,562 for marine energy and $42,616,353 for hydropower research, development, and demonstration activities;
+(4)
+$168,098,139 for fiscal year 2024, including $124,203,295 for marine energy and $43,894,844 for hydropower research, development, and demonstration activities; and
+(5)
+$173,604,558 for fiscal year 2025, including $128,392,869 for marine energy and $45,211,689 for hydropower research, development, and demonstration activities.
+.
+(b)
+Conforming table of contents amendment
+The table of contents for the Energy Independence and Security Act of 2007 is amended by striking the items relating to subtitle C of title VI and inserting the following:
+Subtitle CâWater Power Research and Development
+Sec. 631. Short title.
+Sec. 632. Definitions.
+Sec. 633. Water power technology research, development, and demonstration.
+Sec. 634. Hydropower research, development, and demonstration.
+Sec. 635. Marine energy research, development, and demonstration.
+Sec. 636. National Marine Energy Centers.
+Sec. 637. Organization and administration of programs.
+Sec. 638. Applicability of other laws.
+Sec. 639. Authorization of appropriations.
+.
+3.
+Conforming amendments
+(a)
+Energy policy act of 2005
+The Energy Policy Act of 2005 (
+42 U.S.C. 15801
+et seq.) is amendedâ
+(1)
+in section 201(a), by striking
+ocean (including tidal, wave, current, and thermal)
+and inserting
+marine
+;
+(2)
+in section 203(b)(2)â
+(A)
+by striking
+ocean (including tidal, wave, current, and thermal)
+and inserting
+marine
+; and
+(B)
+by adding at the end the following:
+For purposes of this Act, the term
+marine
+has the meaning given the term
+marine energy
+in section 632 of the Water Power Research and Development Act.
+;
+(3)
+in section 931(a)(2)(E)(i), by striking
+ocean energy, including wave energy
+and inserting
+marine energy (as defined in section 632 of the Water Power Research and Development Act)
+; and
+(4)
+in section 1833(a), by striking
+ocean energy resources (including tidal, wave, and thermal energy)
+and inserting
+marine energy resources
+.
+(b)
+Energy Policy Act of 1992
+Section 1212 of the Energy Policy Act of 1992 (
+42 U.S.C. 13317
+) is amendedâ
+(1)
+in subsection (a)(4)(A)(i), by striking
+ocean (including tidal, wave, current, and thermal)
+and inserting
+marine (as defined in section 632 of the Water Power Research and Development Act)
+;
+(2)
+in subsection (b), in the matter preceding paragraph (1), by striking
+ocean (including tidal, wave, current, and thermal)
+and inserting
+marine (as defined in section 632 of the Water Power Research and Development Act)
+; and
+(3)
+in subsection (e)(1), in the first sentence, by striking
+ocean (including tidal, wave, current, and thermal)
+and inserting
+marine (as defined in section 632 of the Water Power Research and Development Act)
+.
+(c)
+Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989
+The Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989 (
+42 U.S.C. 12001
+et seq.) is amendedâ
+(1)
+in section 9(c) (
+42 U.S.C. 12006(c)
+), by striking
+ocean,
+and inserting
+marine,
+; and
+(2)
+in section 4 (
+42 U.S.C. 12003
+)â
+(A)
+in subsection (a)(5), by striking
+Ocean
+and inserting
+Marine
+; and
+(B)
+in subsection (c), in the matter preceding paragraph (1), by striking
+Ocean
+and inserting
+Marine
+.

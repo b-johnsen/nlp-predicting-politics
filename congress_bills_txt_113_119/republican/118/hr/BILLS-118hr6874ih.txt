@@ -1,0 +1,121 @@
+1.
+Short title
+This Act may be cited as the
+Department of Veterans Affairs Watching over Electronic Benefits Act
+or the
+VA WEB Act
+.
+2.
+System or process to actively monitor certain functions of the covered website for adverse events
+(a)
+In general
+Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall develop and implement a system or process to actively monitor certain functions of the covered website, including covered features and any underlying interface or system, for adverse events. The Secretary may use the authority under section 701(a) of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (
+Public Law 117â168
+;
+38 U.S.C. 324
+note) to carry out this subsection.
+(b)
+System or process requirements
+The Secretary shall ensure that the system or process developed under subsection (a) is designed to monitor, and log and store data, with respect toâ
+(1)
+the volume of traffic to the covered website;
+(2)
+the number of submissions made using a covered feature;
+(3)
+software updates or other modifications to a covered feature or underlying interface or system;
+(4)
+needs, deficiencies, or obsolescence of a covered feature or underlying interface or system;
+(5)
+adverse events, includingâ
+(A)
+the date and time of any such adverse event;
+(B)
+the number of users of the covered website who were affected by the adverse event;
+(C)
+the number of submissions affected by the adverse event; and
+(D)
+any factor related to an underlying interface or system that caused or contributed to the adverse event; and
+(6)
+any other factors, as determined by the Secretary.
+(c)
+Notice and report regarding certain adverse events
+(1)
+Notice
+In the case of any significant adverse event affecting the covered website, not later than 30 days after the date of such event, the Secretary shall submit to the Committees on Veteransâ Affairs of the Senate and House of Representatives notice of the event, including a description of the event.
+(2)
+Report
+Not later than 30 days after receiving a request from the Chair of the Committee on Veteransâ Affairs of the Senate or the Chair of the Committee on Veteransâ Affairs of the House of Representatives for a report about an adverse event, including a significant adverse event, the Secretary shall submit to the Committees on Veteransâ Affairs of the Senate and the House of Representatives a report on the adverse event covered by the request. Each such report shall includeâ
+(A)
+a description of the adverse event;
+(B)
+the date and time when the adverse event began and ended;
+(C)
+the number of users of the covered website who were affected;
+(D)
+the number of submissions made using a covered feature that were affected; and
+(E)
+a description of any underlying interface or system that was affected.
+(3)
+Sunset
+The requirements under this subsection shall expire on the date that is seven years after the date of the enactment of this Act.
+(d)
+Report regarding exercise of certain authority
+If the Secretary exercises authority under section 701(a) of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (
+Public Law 117â168
+;
+38 U.S.C. 324
+note) to carry out subsection (a), not later than 30 days after the date on which the Secretary first exercises such authority for such purpose, the Secretary shall submit to the Committees on Veteransâ Affairs of the Senate and the House of Representatives and the Committees on Appropriations of the Senate and the House of Representatives a report about the exercise of such authority. Such report shall includeâ
+(1)
+the cost of implementing the system or process developed under subsection (a);
+(2)
+a description of any modernization or replacement of an underlying interface or system necessary to implement the system or process;
+(3)
+an identification of any ways in which the covered website and any underlying interface or system is susceptible to any adverse event; and
+(4)
+a description of how the Secretary plans to eliminate or mitigate, to the extent possible, any such susceptibility.
+(e)
+Testing strategy
+Not later than one year after the date of the enactment of this Act, the Assistant Secretary for Information and Technology of the Department of Veterans Affairs shall submit to the Committees on Veteransâ Affairs of the Senate and the House of Representatives a strategy to reduce the occurrence of adverse events by improving testing for each modification or software update to a covered feature or underlying system or interface.
+(f)
+Definitions
+In this section:
+(1)
+The term
+adverse event
+means, with respect to the covered website, including covered featuresâ
+(A)
+a failure to properly receive or process a submission;
+(B)
+a system outage;
+(C)
+an error in an underlying interface or system that prevents the transmission of data;
+(D)
+a deficiency in information storage capacity;
+(E)
+a loss of data;
+(F)
+a presentation of incorrect information;
+(G)
+an error regarding a status notification; or
+(H)
+any similar event that affects a function of the covered website, as determined by the Secretary.
+(2)
+The term
+covered feature
+means any feature or function of the covered website for use in the facilitation of the application, maintenance, or receipt of benefits under the laws administered by the Secretary.
+(3)
+The term
+covered website
+means the main internet website of the Department of Veterans Affairs.
+(4)
+The term
+significant adverse event
+, with respect to the covered website, including covered features, means an adverse event that affects 1,000 or more users of, or submissions to, the covered website.
+(5)
+The term
+underlying interface or system
+meansâ
+(A)
+any information technology system that transmits data through, or accepts data from, a covered feature; or
+(B)
+any mechanism through which any such information technology system connects and interacts with the covered website.

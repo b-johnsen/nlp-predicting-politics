@@ -1,0 +1,345 @@
+1.
+Short title
+This Act may be cited as the
+Competition and Transparency in Digital Advertising Act
+.
+2.
+Digital advertising trading transparency and competition
+The Clayton Act (
+15 U.S.C. 12 et seq.
+) is amended by inserting after section 8 (
+15 U.S.C. 19
+) the following:
+8A.
+Competition and transparency in digital advertising
+(a)
+Definitions
+In this section:
+(1)
+Brokerage customer
+The term
+brokerage customer
+means a person who has purchased or sold digital advertisements, or directly related goods or services, through a buy-side brokerage or a sell-side brokerage.
+(2)
+Buy-side brokerage
+The term
+buy-side brokerage
+means a person in the business of effecting transactions on digital advertising exchanges, including by offering software or services that assist in serving or displaying digital advertisements, for other buyers.
+(3)
+Digital advertisement
+The term
+digital advertisement
+means an advertisement that is served electronically over a computer network, including the internet.
+(4)
+Digital advertising exchange
+The term
+digital advertising exchange
+means a person who constitutes, maintains, or provides a marketplace for or facilitates bringing together buyers and 1 or more sellers of digital advertisements, or for otherwise performing with respect to digital advertising the functions commonly performed by a digital advertising marketplace.
+(5)
+Digital advertising revenue
+The term
+digital advertising revenue
+means the greater ofâ
+(A)
+global revenue derived from or directly related to the operation of a digital advertising exchange, a buy-side brokerage, or a sell-side brokerage; or
+(B)
+the greater ofâ
+(i)
+the sum of the clearing prices of all digital advertisements bought or sold from or through a digital advertising exchange;
+(ii)
+the total value of the gross advertising spending managed by a buy-side brokerage; or
+(iii)
+the total value of the gross advertising sales managed by a sell-side brokerage.
+(6)
+Divestiture deadline
+The term
+divestiture deadline
+means the later ofâ
+(A)
+30 days after the date on which the Attorney General approves or denies a required divestiture; or
+(B)
+30 days after the expiration of any applicable waiting period under section 7A.
+(7)
+Effective date
+The term
+effective date
+means the date that is 1 year after the date of enactment of this section.
+(8)
+Own
+The term
+own
+means to own, operate, or control, directly or indirectly, in whole or in part.
+(9)
+Person
+The term
+person
+includesâ
+(A)
+any subsidiary of an entity; and
+(B)
+any corporate parent of an entity.
+(10)
+Required divestiture
+The term
+required divestiture
+â
+(A)
+means a divestiture, sale, or other transaction undertaken to comply with any provision of this Act; and
+(B)
+does not include any action required by a court of the United States.
+(11)
+Sell-side brokerage
+The term
+sell-side brokerage
+means a person in the business of effecting transactions on digital advertising exchanges, including by offering software or services that assist in serving or displaying digital advertisements, for other sellers.
+(12)
+Third-party
+The term
+third-party
+means, for each person subject to this Act, an entity thatâ
+(A)
+neither owns nor is owned by that person; and
+(B)
+is not affiliated with the person through direct or indirect ownership or control.
+(b)
+Prohibitions
+No person with more than $20,000,000,000 (as adjusted each year on January 1 by an amount equal to the percentage increase, if any, in the Consumer Price Index, as determined by the Department of Labor or its successor) in digital advertising revenue during the previous calendar year may, after the effective dateâ
+(1)
+own a digital advertising exchange if that person owns either a sell-side brokerage or a buy-side brokerage, or is a seller of digital advertising space;
+(2)
+own a sell-side brokerage if that person owns a buy-side brokerage; or
+(3)
+own a buy-side brokerage or a sell-side brokerage if that person is also a buyer or seller of digital advertising space.
+(c)
+Requirements
+Any person with more than $5,000,000,000 (as adjusted each year on January 1 by an amount equal to the percentage increase, if any, in the Consumer Price Index, as determined by the Department of Labor or its successor) in digital advertising revenue during the previous calendar year shall be subject to, as of the effective date, the following requirements:
+(1)
+Best interest duty
+A buy-side brokerage or sell-side brokerage shall, in the course of providing services as a brokerage, use reasonable diligence, care, and skill to act in the best interests of their brokerage customers, and may not put their own interests ahead of those of their brokerage customers.
+(2)
+Best execution duty
+A buy-side brokerage or sell-side brokerage shall seek the most favorable terms reasonably available under the circumstances for each order transaction of the brokerage customer.
+(3)
+Transparency requirements
+(A)
+In general
+Upon written request from a brokerage customer, a buy-side brokerage or sell-side brokerage shall supply to that brokerage customer, within a reasonable time, information sufficient to permit the brokerage customer to verify compliance of the brokerage with its obligations under paragraphs (1) and (2).
+(B)
+Contents
+The information described in subparagraph (A) shall include, if requested and to the extent such information is collected by the brokerage in the ordinary course of businessâ
+(i)
+in the case of a sell-side brokerage providing information to a sell-side brokerage customerâ
+(I)
+a unique and persistent identifier that identifies each unique digital advertising space for sale;
+(II)
+for each identifier described in subclause (I), all bids received, and, for each bid received, the bid submitted to the digital advertising exchange on behalf of the buy-side brokerage customer, the winning price, the uniform resource locator or other property identifier at the lowest level of granularity, the identity of the digital advertising exchange or other digital advertising venue returning the bid, date, time that the bid response was received in microseconds or a lower level of granularity, web domain associated with the advertising creative, the advertising creative size and format, and whether the bid won the sellerâs impression;
+(III)
+the nature of any data collected or derived from the brokerage customer or any user or customer of the brokerage customer, and the ways in which that data is used by the sell-side brokerage;
+(IV)
+the order or bid routing practices or processes, including any material exceptions to the standard practice of the brokerage; and
+(V)
+the source and nature of any compensation paid or received in connection with transactions; and
+(ii)
+in the case of a buy-side brokerage providing information to a buy-side brokerage customerâ
+(I)
+all bids won by the buy-side brokerage customer, and for each bid won, the maximum allowed bid of the advertiser, if any, the uniform resource locator or other property identifier at the lowest level of granularity, date, the digital advertising exchange, the web domain associated with the advertising creative, the advertising creative size and format, the winning price, the bid submitted to the digital advertising exchange on behalf of the buy-side brokerage customer, and, if possible, whether the ad served and whether the ad rendered;
+(II)
+the order or bid routing practices or processes; and
+(III)
+the source and nature of any compensation paid or received in connection with transactions.
+(C)
+Retention of records
+Brokerages shall retain the records specified in subparagraph (B), where applicable and when collected in the ordinary course of business, until provided to a requesting brokerage customer but not longer than 90 days. Brokerages shall retain billing information for their brokerage customers for not fewer than 12 months.
+(D)
+User privacy
+(i)
+In general
+When providing information to a brokerage customer in response to a request authorized by subparagraph (A), the brokerage shall, to the greatest extent possible consistent with the purpose of subparagraph (A), anonymize, hash, or otherwise render the information incapable of being tied to an individual web user.
+(ii)
+Prohibiting tracking
+A brokerage customer may not use data or information received in response to a request made under subparagraph (A) for any purpose other thanâ
+(I)
+verifying compliance of a brokerage with its obligations under paragraphs (1) and (2); or
+(II)
+bringing an action under subsection (d)(3).
+(4)
+Firewalls
+(A)
+Buy-side and sell-side brokerages
+Buy-side brokerages and sell-side brokerages shall establish, maintain, and enforce written policies and procedures reasonably designed to ensure compliance with the obligations under this subsection.
+(B)
+Other persons
+Persons not subject to prohibitions under subsection (b) shall establish, maintain, and enforce written policies and procedures reasonably designed to ensure that their buy-side brokerage, sell-side brokerage, digital advertising exchange, and role as a buyer or seller of digital advertising, where applicable, operate separate and independent from one another and transact business at armâs length.
+(5)
+Fair access duty
+A digital advertising exchange shall provide every buyer and seller in the exchange fair access, including with respect to operations of the exchange, co-location, any technology systems or data, information related to transactions, service, or products offered, exchange processes, and functionality.
+(6)
+Time synchronization
+A digital advertising exchange, buy-side brokerage, or sell-side brokerage shallâ
+(A)
+synchronize its business clocks at a minimum to within a 2 milliseconds tolerance of the time maintained by the atomic clock of the National Institute of Standards and Technology; and
+(B)
+maintain the synchronization described in subparagraph (A).
+(7)
+Data ownership
+All records pertaining to an order solicited or submitted by a brokerage customer, and the subsequent result of that order, shall remain the property of that customer, including any bids solicited from or submitted to any digital advertising exchange, unless the information is otherwise publicly available.
+(8)
+Routing practices disclosure
+(A)
+In general
+Every sell-side brokerage and buy-side brokerage shallâ
+(i)
+make publicly available for each calendar quarter a report on the order routing practices of the sell-side brokerage or buy-side brokerage, as applicable, for digital advertisements during that quarter broken down by calendar month; and
+(ii)
+retain the report described in clause (i) posted on an internet website that is free and readily accessible to the public for 3-year period beginning on the date on which the report is posted.
+(B)
+Format
+Reports made available pursuant to subparagraph (A) shallâ
+(i)
+be rendered in a format that makes the reports readily informative to the average brokerage customer; and
+(ii)
+include for the 10 venues to which the largest number of total bid requests or bid responses were routed for execution and for any venue to which 5 percent or more of bid requests or bid responses were routed for executionâ
+(I)
+the total number of bids routed;
+(II)
+the total number of bids executed;
+(III)
+the fill rate of bids;
+(IV)
+the average net execution fee or rebate per 1,000 impressions;
+(V)
+the average time in milliseconds between when a bid request is sent and when a bid response is received; and
+(VI)
+the value and form of any compensation given in exchange for routing or execution.
+(9)
+Certification
+A digital advertising exchange, buy-side brokerage, or sell-side brokerage shall certify to the Attorney General on an annual basis that the digital advertising exchange has complied with the requirements under this subsection.
+(d)
+Enforcement
+(1)
+Attorney general and state attorneys general
+(A)
+In general
+The Attorney General and State attorneys general may bring an action on behalf of persons in the United States injured in their business or property by reason of any violation of this Act in any district court of the United States in the district in which the defendant resides or is found or has an agent, without respect to the amount in controversy, and shallâ
+(i)
+in a case brought by the Attorney General or a State attorney general, be entitled to injunctive relief; and
+(ii)
+in a case brought by the Attorney General, recover damages sustained by such persons.
+(B)
+Damages
+(i)
+In general
+The court may award under this subsection, pursuant to a motion by the Attorney General promptly made, simple interest on actual damages in accordance with the requirements under subparagraph (A).
+(ii)
+No duplicative award
+A court may not award any damages under this subparagraph that are duplicative of damages awarded before the date of the award under this subparagraph in a separate civil action pertaining to the same conduct and injured party.
+(iii)
+Payments
+A court awarding damages to a person in a civil action after the date of an award of damages under this subsection that would be duplicative of damages awarded to the Attorney General on behalf of the person shall direct that such damages shall first be paid by the Attorney General from amounts in the Fund and, to the extent such damages are not fully paid from amounts in the Fund, shall be paid by the defendant.
+(C)
+Antitrust consumer damages fund
+(i)
+In general
+There is established in the Treasury of the United States a fund to be known as the
+Antitrust Consumer Damages Fund
+(in this subsection referred to as the
+Fund
+), which shall consist of amounts deposited under clause (ii).
+(ii)
+Deposits and availability
+Notwithstanding section 3302 of title 31, United States Code, any amounts received by the Attorney General under an award under this subsectionâ
+(I)
+shall be deposited in the Fund; and
+(II)
+shall be available to the Attorney General, without further appropriation, for distribution to persons in the United States harmed by the applicable violation of the Sherman Act (
+15 U.S.C. 1 et seq.
+).
+(iii)
+Deposits into general fund
+Effective on the day after the date that is 10 years after the date on which an award is received under this paragraph, the unobligated balances in the Fund of amounts that were received under the award are rescinded and shall be deposited in the general fund of the Treasury.
+(2)
+Divestiture enforcement
+The Attorney General may bring an action on behalf of the United States in any district court of the United States in the district in which the defendant resides or is found or has an agent, and may obtain injunctive relief upon showing by a preponderance of the evidence that the defendant hasâ
+(A)
+violated a requirement of subsection (e); or
+(B)
+undertaken a required divestiture that unnecessarily harms or threatens competition in any market.
+(3)
+Private right of action
+(A)
+In general
+A brokerage customer harmed by a knowing violation of subsection (c) by a person with more than $20,000,000,000 (as adjusted each year on January 1 by an amount equal to the percentage increase, if any, in the Consumer Price Index, as determined by the Department of Labor or its successor) in digital advertising revenue during the previous calendar year may bring a civil action in an appropriate court to obtain injunctive relief, where appropriate, and recover damages in the amount of the greater ofâ
+(i)
+$1,000,000 for each month in which a violation of this Act occurred and reasonable attorneyâs fees; or
+(ii)
+actual damages and reasonable attorneyâs fees.
+(B)
+No class action waiver
+No person covered by this Act may require a class action waiver for claims under this Act, including for arbitration.
+(C)
+Timing
+A civil action for a violation of subsection (b) may be brought at any time after the later ofâ
+(i)
+the expiration of any applicable divestiture deadline; or
+(ii)
+the expiration of the deadline in subsection (e)(1) if no filing has been made.
+(e)
+Divestiture
+(1)
+Filing
+Any agreement or other document setting out the terms of a required divestiture shall be filed with the Attorney General not later than the later ofâ
+(A)
+the effective date; or
+(B)
+the earlier ofâ
+(i)
+30 days after the date on which an agreement making a required divestiture under this Act is executed; or
+(ii)
+180 days after meeting the criteria specified in any paragraph of subsection (b).
+(2)
+Attorney general review
+The Attorney General shall approve a required divestiture upon a showing by the person making the divestiture that the terms of the divestiture, including the qualifications of any counter parties thereto, will not unnecessarily harm or threaten competition in any market.
+(3)
+Timing
+(A)
+In general
+The Attorney General shall grant or deny approval of a required divestiture, unless agreed to by the parties, no later than the later ofâ
+(i)
+60 days after receipt of all information obtained pursuant to subparagraph (5); or
+(ii)
+60 days after receipt of the filing made under subparagraph (1).
+(B)
+Completion
+A divestiture shall be completed not later than the divestiture deadline.
+(4)
+Guidance
+The Attorney General shallâ
+(A)
+not later than 120 days after the date of enactment of this section, issue guidance on the divestiture process under this subsection and the certification requirement under subsection (c)(6); and
+(B)
+update the guidance described in subparagraph (A) as the Attorney General determines is appropriate.
+(5)
+Compulsory process
+The Attorney General may request or issue a civil investigative demand under section 3 of the Antitrust Civil Process Act (
+15 U.S.C. 1312
+) for documents from any person involved in a required divestiture to determine the competitive effects of the divestiture.
+(f)
+Rules of construction
+Nothing in this section shallâ
+(1)
+prohibit a person fromâ
+(A)
+selling their own inventory of advertising space ifâ
+(i)
+the inventory was not acquired solely for the purposes of resale, except to monetize the personâs own content or intellectual property; and
+(ii)
+the person does not also assist a third-party in the sale or purchase of advertising space, other than purchasing advertising space from that person; or
+(B)
+buying inventory to market the products or services of the person;
+(2)
+abridge or supersede any provision of or rules issued pursuant to section 7A;
+(3)
+prohibit a person from, consistent with the antitrust laws, entering into a joint venture or other collaboration to prevent harm from spam, fraud, or other forms of abuse in digital advertising; or
+(4)
+require the disclosure of information if such disclosure would violate a law of the United States or a foreign country.
+.

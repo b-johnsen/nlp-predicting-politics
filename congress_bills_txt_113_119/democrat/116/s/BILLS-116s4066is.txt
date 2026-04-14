@@ -1,0 +1,412 @@
+1.
+Short title
+This Act may be cited as the
+Platform Accountability and Consumer Transparency Act
+or the
+PACT Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Commission
+Except as otherwise provided, the term
+Commission
+means the Federal Trade Commission.
+(2)
+Demonetize
+The term
+demonetize
+, with respect to content on an interactive computer service, means to take action to prohibit the information content provider that generated or disseminated the content from receiving financial benefit based on the content.
+(3)
+Deprioritize
+The term
+deprioritize
+, with respect to content on an interactive computer service, means to take action or use certain techniques to reduce the priority level of the content in response to potentially policy-violating content.
+(4)
+Illegal activity
+The term
+illegal activity
+means activity conducted by an information content provider that has been determined by a Federal or State court to violate Federal criminal or civil law.
+(5)
+Illegal content
+The term
+illegal content
+means information provided by an information content provider that has been determined by a Federal or State court to violateâ
+(A)
+Federal criminal or civil law; or
+(B)
+State defamation law.
+(6)
+Interactive computer service
+The term
+interactive computer service
+has the meaning given the term in section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+).
+(7)
+Information content provider
+The term
+information content provider
+has the meaning given the term in section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+).
+(8)
+Potentially policy-violating content
+The term
+potentially policy-violating content
+means content that may violate the acceptable use policy of the provider of an interactive computer service.
+(9)
+Small business provider
+The term
+small business provider
+means a provider of an interactive computer service that, during the most recent 24-month periodâ
+(A)
+received fewer than 1,000,000 monthly active users or monthly visitors; and
+(B)
+accrued revenue of less than $25,000,000.
+3.
+Findings
+Congress finds the following:
+(1)
+Technological advancements involving the internet and interactive computer service providers have led to innovations that offer substantial benefit to the people and the economy of the United States.
+(2)
+People in the United States increasingly rely on the internet and other interactive computer services to communicate, gather information, and conduct transactions that are central to many aspects of economic, political, social, and cultural life.
+(3)
+The decisions made by providers of interactive computer services shape the online information ecosystem available to people in the United States and impact the environment for free expression.
+(4)
+The people of the United States benefit from understanding the choices that interactive computer service providers make in maintaining their services, including by removing, blocking, amplifying, or otherwise modifying information provided by other users.
+(5)
+Online consumers are not adequately protected in the United States because, with the exception of Federal criminal statutes, providers of interactive computer services are immune from the enforcement of most Federal statutes and regulations.
+(6)
+Federal and State court decisions and Federal statutes and regulations that apply to offline commerce do not always govern online commerce and communications.
+(7)
+The rights of consumers should extend to online commerce and communications to provide a level playing field for all consumers and companies, and to prevent wrongdoing and victimization of people in the United States.
+4.
+Policy
+It is the policy of the United Statesâ
+(1)
+to preserve the internet and other interactive computer services as forums for diversity of political discourse, unique opportunities for cultural development, and myriad avenues for intellectual and commercial activity;
+(2)
+to ensure consumers have easily accessible and clear information about the acceptable use policies of interactive computer services to inform consumer decisions on participation in, or engagement with, those services through accountability and transparency measures;
+(3)
+to encourage the development and use of technologies that minimize illegal activities and content and potentially policy-violating content; and
+(4)
+to ensure that the consumer rights of users of interactive computer services are maintained and extended to activities that the users may participate in online.
+5.
+Transparency and process requirements
+(a)
+Acceptable use policy
+(1)
+Publication of acceptable use policy
+A provider of an interactive computer service shall publish an acceptable use policy in accordance with paragraph (2) in a location that is easily accessible to the user.
+(2)
+Contents of policy
+The acceptable use policy of a provider of an interactive computer service shallâ
+(A)
+reasonably inform users about the types of content that are allowed on the interactive computer service;
+(B)
+explain the steps the provider takes to ensure content complies with the acceptable use policy;
+(C)
+explain the means by which users can notify the provider of potentially policy-violating content, illegal content, or illegal activity, which shall includeâ
+(i)
+subject to subsection (e), making available a live company representative to take user complaints through a toll-free telephone number during regular business hours for not fewer than 8 hours per day and 5 days per week;
+(ii)
+an email address or relevant intake mechanism to handle user complaints; and
+(iii)
+a complaint system described in subsection (b); and
+(D)
+include publication of a quarterly transparency report outlining actions taken to enforce the policy, as described in subsection (d).
+(b)
+Complaint system
+A provider of an interactive computer service shall provide a system that is easily accessible to a user through which the user may submit a complaint in good faith and track the status of the complaint, including a complaint regardingâ
+(1)
+potentially policy-violating content, illegal content, or illegal activity; or
+(2)
+a decision of the interactive computer service provider to remove content posted by the information content provider.
+(c)
+Processing of complaints
+(1)
+Complaints regarding illegal content, illegal activity, or potentially policy-violating content
+(A)
+Illegal content or illegal activity
+Subject to subsection (e), if a provider of an interactive computer service receives notice of illegal content or illegal activity on the interactive computer service that substantially complies with the requirements under paragraph (3)(B)(ii) of section 230(c) of the Communications Act of 1934 (
+47 U.S.C. 230(c)
+), as added by section 6(a), the provider shall remove the content or stop the activity within 24 hours of receiving that notice, subject to reasonable exceptions based on concerns about the legitimacy of the notice.
+(B)
+Potentially policy-violating content
+Subject to subsection (e), if a provider of an interactive computer service receives notice of potentially policy-violating content on the interactive computer service, the provider shall, not later than 14 days after receiving that noticeâ
+(i)
+review the content;
+(ii)
+determine whether the content adheres to the acceptable use policy of the provider; and
+(iii)
+take appropriate steps based on the determination made under clause (ii).
+(2)
+Process after removal of content
+(A)
+Removal based on user complaint
+(i)
+In general
+Subject to clause (ii), if a provider of an interactive computer service removes potentially policy-violating content based on a user complaint, the provider of the interactive computer service shall, concurrently with the removalâ
+(I)
+notify the information content provider and the complainant of the removal and explain why the content was removed;
+(II)
+allow the information content provider to appeal the decision; and
+(III)
+notify the information content provider and the complainant ofâ
+(aa)
+the determination regarding the appeal under subclause (II); and
+(bb)
+in the case of a reversal of the decision to remove the content in question, the reason for the reversal.
+(ii)
+Exceptions
+A provider of an interactive computer service shall not be required to provide an information content provider with notice or an opportunity to appeal under clause (i)â
+(I)
+if the provider of the interactive computer service is unable to contact the information content provider after taking reasonable steps to do so; or
+(II)
+if the provider of the interactive computer service knows that the potentially policy-violating content relates to an ongoing law enforcement investigation.
+(B)
+Removal based on moderation decisions of interactive computer service provider
+If a provider of an interactive computer service receives notice, through a complaint from the information content provider, that the provider of the interactive computer service removed content of the information content provider that the information content provider believes was not potentially policy-violating content, the provider of the interactive computer service shall, not later than 14 days after receiving noticeâ
+(i)
+review the content;
+(ii)
+determine whether the content adheres to the acceptable use policy of the provider of the interactive computer service;
+(iii)
+take appropriate steps based on the determination made under clause (ii); and
+(iv)
+notify the information content provider regarding the determination made under clause (ii) and steps taken under clause (iii).
+(d)
+Quarterly transparency report
+(1)
+In general
+Subject to subsection (e), as part of the acceptable use policy required under subsection (a), a provider of an interactive computer service shall publish a quarterly transparency report in accordance with paragraph (2) of this subsection.
+(2)
+Requirements
+A provider of an interactive computer service shall include in the report required under paragraph (1), with respect to the preceding 3-month periodâ
+(A)
+the total number of instances in which illegal content, illegal activity, or potentially policy-violating content was flaggedâ
+(i)
+due to a user complaint; or
+(ii)
+internally, byâ
+(I)
+an employee or contractor of the provider; or
+(II)
+an internal automated detection tool;
+(B)
+the number of instances in which the interactive computer service provider took action with respect to illegal content, illegal activity, or known potentially policy-violating content due to its nature as illegal content, illegal activity, or known potentially policy-violating content, including content removal, content demonetization, content deprioritization, appending content with an assessment, account suspension, account removal, or any other action taken in accordance with the acceptable use policy of the provider, categorized byâ
+(i)
+the category of rule violated;
+(ii)
+the source of the flag, including government, user, internal automated detection tool, coordination with other interactive computer service providers, or personnel employed or contracted for by the provider;
+(iii)
+the country of the information content provider; and
+(iv)
+coordinated campaign, if applicable;
+(C)
+(i)
+the number of instances in which an information content provider appealed the decision to remove potentially policy-violating content; and
+(ii)
+the percentage of appeals described in clause (i) that resulted in the restoration of content; and
+(D)
+a description of each tool, practice, action, or technique used in enforcing the acceptable use policy.
+(3)
+Format
+A provider of an interactive computer service shall publish the information described in paragraph (2) with an open license, in a machine-readable and open format, and in a location that is easily accessible to consumers.
+(e)
+Small business provider exemptions
+(1)
+Live company representative; transparency report
+Subsections (a)(2)(C)(i) and (d) shall not apply to a small business provider.
+(2)
+Processing of complaints
+Notwithstanding the deadlines under subsection (c)(1), a small business provider shall take action with respect to illegal content, illegal activity, or potentially policy-violating content under subparagraph (A) or (B) of that subsection, as applicable, within a reasonable period of time based on the size and capacity of the provider.
+(f)
+Internet infrastructure service exemption
+Subsections (a) through (e) shall not apply to a provider of an interactive computer service that is used by another interactive computer service for the management, control, or operation of that other interactive computer service, including for services such as web hosting, domain registration, content delivery networks, caching, back-end data storage, and cloud management.
+(g)
+Enforcement by Commission
+(1)
+Unfair or deceptive acts or practices
+(A)
+In general
+A violation of subsection (c)(1)(B), (c)(2), or (d) shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(B)
+Limitation on authority
+Nothing in subparagraph (A) shall be construed to supersede paragraph (1) or (2) of section 230(c) of the Communications Act of 1934 (
+47 U.S.C. 230(c)
+) or to otherwise authorize the Commission to review any action or decision by a provider of an interactive computer service related to the application of the acceptable use policy of the provider.
+(2)
+Powers of Commission
+(A)
+In general
+Except as provided in subparagraph (C), the Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of this Act.
+(B)
+Privileges and immunities
+Except as provided in subparagraph (C), any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+(C)
+Nonprofit organizations
+Notwithstanding section 4 of the Federal Trade Commission Act (
+15 U.S.C. 44
+) or any jurisdictional limitation of the Commission, the Commission shall also enforce this section, in the same manner provided in subparagraphs (A) and (B) of this paragraph, with respect to organizations not organized to carry on business for their own profit or that of their members.
+(h)
+GAO report on whistleblower protection and awards
+Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit a report to Congress assessing the viability, including the anticipated cost and benefit to consumers, of establishing a whistleblower protection and award program for employees and contractors of interactive computer services, to be administered by the Commission, that would enable reporting and enforcement of violations of consumer protections that take place online.
+(i)
+NIST voluntary framework
+(1)
+In general
+Not later than 18 months after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall develop a voluntary framework, with input from relevant experts, that consists of nonbinding standards, guidelines, and best practices to manage risk and shared challenges related to, for the purposes of this Act, good faith moderation practices by interactive computer service providers.
+(2)
+Contents
+The framework developed under paragraph (1) shall includeâ
+(A)
+technical standards and processes for the sharing of information among providers of an interactive computer service;
+(B)
+recommendations on automated detection tools and the appropriate nature and level of human review to correct for machine error in assessing nuanced or context-specific issues;
+(C)
+standards and processes for providing researchers access to data to conduct scientific, historical, statistical, and other relevant research, including with respect to content that is removed, demonetized, or deprioritized by the provider of an interactive computer service; and
+(D)
+methods to strengthen the capacity of a provider of an interactive computer service to authenticate documentation of a determination by a court that content or an activity violates Federal law or State defamation law.
+6.
+Intermediary liability
+(a)
+Intermediary liability standard
+Section 230(c) of the Communications Act of 1934 (
+47 U.S.C. 230(c)
+) is amended by adding at the end the following:
+(3)
+Intermediary liability standard
+(A)
+In general
+The protection under paragraph (1) shall not apply to a provider of an interactive computer service, with respect to illegal content shared or illegal activity occurring on the interactive computer service, if the providerâ
+(i)
+has knowledge of the illegal content or illegal activity; and
+(ii)
+subject to subparagraph (C), does not remove the illegal content or stop the illegal activity within 24 hours of acquiring that knowledge, subject to reasonable exceptions based on concerns about the legitimacy of the notice.
+(B)
+Notification of illegal content or illegal activity
+(i)
+In general
+A provider of an interactive computer service shall be deemed to have knowledge of illegal content or illegal activity for purposes of subparagraph (A) only if the provider receives a notification of such content or activity that substantially complies with the requirements under clause (ii) of this subparagraph.
+(ii)
+Elements
+A notification of illegal content or illegal activity provided to a provider of an interactive computer service as described in clause (i) shall be in writing and include the following:
+(I)
+A copy of the order of a Federal or State court under which the content or activity was determined to violate Federal law or State defamation law, and to the extent available, any references substantiating the validity of the order, such as the web addresses of public court docket information.
+(II)
+Identification of the illegal content or illegal activity, and information reasonably sufficient to permit the provider to locate the content or each account involved.
+(III)
+Information reasonably sufficient to permit the provider to contact the complaining party, which shall includeâ
+(aa)
+if the complaining party is a user of the interactive computer service, information identifying the user account; and
+(bb)
+if the complaining party is not a user of the interactive computer service, an email address of the complaining party.
+(IV)
+A statement by the complaining party, made under penalty of perjury in accordance with section 1746 of title 28, United States Code, thatâ
+(aa)
+the content in the notification is accurate; and
+(bb)
+the content or activity described in the notification has been determined by a Federal or State court to be illegal.
+(C)
+Exemptions
+(i)
+Small business providers
+Notwithstanding the deadline under clause (ii) of subparagraph (A), a small business provider shall take action with respect to illegal content or illegal activity under that subparagraph within a reasonable period of time based on the size and capacity of the provider.
+(ii)
+Internet infrastructure services
+Subparagraph (A) shall not apply with respect to an interactive computer service that is used by another interactive computer service for the management, control, or operation of that other interactive computer service, including for services such as web hosting, domain registration, content delivery networks, caching, back-end data storage, and cloud management.
+(D)
+Monitoring or affirmative fact-seeking not required
+Nothing in this paragraph shall be construed to condition the applicability of paragraph (1) to a provider of an interactive computer service on the provider monitoring the interactive computer service or affirmatively seeking facts indicating illegal content or illegal activity in order to identify instances of noticed activity or content additional to any instances about which the provider has received a notification.
+(E)
+Enforcement exemption
+Nothing in this paragraph shall be construed to impair or limit the application of subsection (e)(1) or (g).
+.
+(b)
+Definitions
+Section 230(f) of the Communications Act of 1934 (
+47 U.S.C. 230(f)
+) is amended by adding at the end the following:
+(5)
+Illegal activity
+The term
+illegal activity
+means activity conducted by an information content provider that has been determined by a Federal or State court to violate Federal criminal or civil law.
+(6)
+Illegal content
+The term
+illegal content
+means information provided by an information content provider that has been determined by a Federal or State court to violate Federal criminal or civil law or State defamation law.
+(7)
+Small business provider
+The term
+small business provider
+means a provider of an interactive computer service that, during the most recent 24-month periodâ
+(A)
+received fewer than 1,000,000 monthly active users or monthly visitors; and
+(B)
+accrued revenue of less than $25,000,000.
+.
+(c)
+Technical correction
+Section 230(c)(2)(B) of the Communications Act of 1934 (
+47 U.S.C. 230(c)(2)(B)
+) is amended by striking
+paragraph (1)
+and inserting
+subparagraph (A)
+.
+7.
+Federal and State enforcement
+(a)
+Federal enforcement
+Section 230(e)(1) of the Communications Act of 1934 (
+47 U.S.C. 230(e)
+) is amendedâ
+(1)
+in the heading, by striking
+criminal law
+and inserting
+Federal criminal or civil law
+;
+(2)
+by inserting
+by the Federal Government
+after
+enforcement
+; and
+(3)
+by striking
+or any other Federal criminal statute
+and inserting
+any other Federal criminal or civil statute, or any regulations of an Executive agency (as defined in section 105 of title 5, United States Code) or an establishment in the legislative or judicial branch of the Federal Government
+.
+(b)
+Enforcement of Federal civil laws by State attorneys general
+Section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+) is amended by adding at the end the following:
+(g)
+Enforcement of Federal civil laws by State attorneys general
+(1)
+In general
+Notwithstanding any other provision of this section, and in consultation with the Attorney General, the attorney general of a State alleging a violation by a provider of an interactive computer service of a Federal civil law that affects or may affect the State or the residents of the State may bring a civil action on behalf of the residents of the State in any district court of the United States for the district in which the provider is found or transacts business if the underlying claim would constitute a violation of the substantive, nonjurisdictional elements of a civil law of the State.
+(2)
+Relation to other laws
+Nothing in paragraph (1) shall be construed to impair or limit the authority of the attorney general of a State under any other Federal law to bring a civil action on behalf of the residents of the State against a provider of an interactive computer service for violation of a Federal civil law.
+.
+8.
+Severability
+If any provision of this Act or an amendment made by this Act, or the application of such a provision or amendment to any person or circumstance, is held to be unenforceable or invalid, the remaining provisions of this Act and amendments made by this Act, and the application of the provision or amendment so held to other persons not similarly situated or to other circumstances, shall not be affected thereby.
+9.
+Effective date
+This Act and the amendments made by this Act shall take effect on the date that is 1 year after the date of enactment of this Act.

@@ -1,0 +1,182 @@
+1.
+Short title
+This Act may be cited as the
+Ensuring Patient Access to Healthcare Records Act of 2017
+.
+2.
+Promotion of access to data, via research and user friendly presentations and applications
+(a)
+In general
+Subtitle D of the Health Information Technology for Economic and Clinical Health Act (
+42 U.S.C. 17921
+et seq.) is amended by adding at the end the following:
+3
+Health care clearinghouses; data processing to empower patients and improve the health care system
+13451.
+Modernizing the role of clearinghouses in health care
+(a)
+Efforts To promote access to and leveraging of health information
+(1)
+In general
+The Secretary shall, through the updating of existing policies and development of policies that support dynamic technology solutions, promote patient access to information related to their care, including real world outcomes and economic data (including claims, eligibility, and payment data), in a manner that would ensure that such information is available in a form convenient for the patient, in a reasonable manner, and without burdening the health care provider involved.
+(2)
+Requirement
+Activities carried out under paragraph (1) shall include the development of policies to enable covered entities with access to health information toâ
+(A)
+provide patient access to information related to their care, including real world outcomes and economic data;
+(B)
+develop, in accordance with HIPAA-related provisions (as defined in subsection (j)), patient engagement tools, reports, analyses, and presentations based on population health, epidemiological, and health services outcomes data, that may demonstrate a fiscal or treatment benefit to patients and health plan enrollees; and
+(C)
+promote transparency regarding the use and disclosure of health information by health care clearinghouses in accordance with the notice provisions of subsection (e).
+(b)
+Treatment as covered entity for specified functions
+(1)
+In general
+With respect to the use and disclosure of protected health information, the Secretary shallâ
+(A)
+not consider health care clearinghouses that engage in the functions described in paragraph (3) to be business associates, including subcontractor business associates, under HIPAA-related provisions (as defined in subsection (j)(3)) regardless of the role of such clearinghouses in collecting or receiving the information; and
+(B)
+consider such clearinghouses to be covered entities under such provisions of law for all purposes.
+Such clearinghouses shall not be considered business associates, or subcontractor business associates, for translation of data into and out of standard format, analytic, cloud computing, or any other purpose.
+(2)
+Data accuracy and security requirement
+In order to use health data as authorized by this section, a clearinghouse or other covered entity engaging in activities authorized under this section shall be certified to have the necessary expertise and technical infrastructure to ensure the accuracy and security of such claims, eligibility, and payment data through receipt of an accreditation by the Electronic Healthcare Network Accreditation Commission, or by an equivalent accreditation program determined appropriate by the Secretary.
+(3)
+Enhancing treatment, quality improvement, research, public health efforts and other functions
+(A)
+Equivalent authority to other covered entities
+Subject to paragraph (2), a health care clearinghouse shallâ
+(i)
+in addition to carrying out claims processing functions, be permitted to use and disclose protected health information without obtaining individual authorization to the same extent as other covered entities, including for purposes of treatment, payment, health care operations as permitted by section 164.506 of title 45, Code of Federal Regulations, research, and public health as permitted by section 164.512 of title 45, Code of Federal Regulations, and creating de-identified information as permitted by section 164.502(d) of title 45, Code of Federal Regulations; and
+(ii)
+use or disclose protected health information as required by section 164.502(a)(2) of title 45, Code of Federal Regulations.
+(B)
+Additional authority
+(i)
+A health care clearinghouse shall be permitted to provide an individual or the personal representative of such individual access to the protected health information of such individual as described in subsection (d).
+(ii)
+All covered entities, including a health care clearinghouse, shall, subject to subsection (c)(2), be permitted toâ
+(I)
+on behalf of covered entities, use and disclose protected health information for health care operations purposes (as defined by section 164.501 of title 45, Code of Federal Regulations) without respect to whether the recipient of the information has or had a relationship with the individual;
+(II)
+upon the request of a covered entity, benchmark (as defined by the Secretary pursuant to rulemaking) the operations of such covered entity against the operations of one or more other covered entities that have elected to participate in such benchÂ­markÂ­ing; and
+(III)
+use and disclose protected health information to facilitate clinical trial recruitment, except that in the case the covered entity provides a consumer-facing portal or website that informs individuals of clinical trials conducted by the covered entity, the covered entity shall secure opt-in consent from the individual, or the individualâs personal representative, prior to contacting an individual regarding such clinical trials unless such covered entity already has a relationship with the individual.
+(C)
+Clarification
+Nothing in this paragraph shall expand the authority of a health care clearinghouse or any other covered entity to use or disclose protected health information for marketing purposes under sections 164.501 and 164.508(a)(3) of title 45, Code of Federal Regulations.
+(c)
+Authorities relating to data processing
+(1)
+In general
+In carrying out HIPAA-related provisions, the Secretary shall permit a health care clearinghouse to aggregate protected health information, within the clearinghouse and among other clearinghouses, that the clearinghouse possesses in order to carry out the functions described in subsection (b)(3). Subject to section 164.502(a)(5)(i) of title 45, Code of Federal Regulations, a health care clearinghouse may carry out the functions described in subsection (b)(3) without obtaining individual authorization under section 164.508 of title 45, Code of Federal Regulations.
+(2)
+Privacy
+For purposes of clauses (ii) through (iv) of subsection (b)(3)(B), with respect to any report, analysis, or presentation provided by the covered entity to a third party, such report, analysis, or presentationâ
+(A)
+shall include only de-identified data; or
+(B)
+shall include, subject to a qualifying data use agreement (as defined in subsection (j)), protected health information.
+(3)
+Clarification; Fee permitted
+(A)
+In general
+Nothing in this paragraph shall be construed as affecting an individualâs right to access claims and payment records in HIPAA standard format, in accordance with section 164.524 of title 45, Code of Federal Regulations.
+(B)
+Fee permitted
+If an individual or a personal representative of the individual requests a copy of records in HIPAA standard format a health care clearinghouse may charge a reasonable, cost-based fee so far as such fee is in accordance with section 164.524(c)(4) of title 45, Code of Federal Regulations.
+(d)
+Comprehensive records at the request of an individual
+(1)
+In general
+When a health care clearinghouse receives a written request from an individual or the personal representative of the individual for the protected health information of the individual, the clearinghouse shall provide to the individual a comprehensive record of such information (across health care providers and health plans and longitudinal in scope), unless the clearinghouse determines in its sole discretion that providing a comprehensive record is not technologically feasible.
+(2)
+Purchase from other clearinghouses
+In preparing a comprehensive record for an individual under paragraph (1), a health care clearinghouse may, with the permission of the individual, purchase the protected health information of the individual from one or more other health clearinghouses (and the amount of such purchase may be included in a fee that is fair market value, as defined in subsection (j)(2), charged to the individual.
+(e)
+Situations not involving direct interaction with individuals
+Sections 164.400 through 164.414 (relating to breach notification) and sections 164.520 through 164.528 (relating to individual rights) of title 45, Code of Federal Regulations, shall apply to a health care clearinghouse that engages in the functions described in subsection (b)(3) to the extent that such clearinghouse has current contact information pursuant to direct interaction with the individual involved. If the clearinghouse does not have direct interaction with the individual involved, the clearinghouse shall provide notice of any breach of unsecured protected health information to the covered entity that does have direct interaction with the individual involved. The clearinghouse shall not be required to report a breach if the protected health information is rendered unusable, unreadable, or indecipherable to unauthorized persons through the use of a technology or methodology specified by the Secretary in the guidance issued under section 13402(h)(2). The clearinghouse shall also provide a notice of privacy practices on its website.
+(f)
+Transition
+(1)
+In general
+Except where specifically stated, nothing in this section shall be construed to apply to clearinghouses to the exclusion of other covered entities or to provide a health care clearinghouse greater authority to use and disclose protected health information than that provided to another covered entity.
+(2)
+Existing agreements
+With respect to agreements entered into by a health care clearinghouse prior to the date of enactment of this section, a provision of such an agreement that conflicts with this section shall not have any legal force or effect. The preceding sentence may not be construed as affecting any provision of an agreement that does not conflict with this section.
+(g)
+Safe harbor and clarification of liability
+In the case of a health care clearinghouse that engages in a function described in subsection (b), only that clearinghouse may be held liable for a violation of a HIPAA-related provision (and a covered entity that provided data or data access to the clearinghouse shall not be liable for such violations).
+(h)
+Enforcement
+Section 13410(a)(2) shall apply to this section in the same manner as such section applies to parts 1 and 2.
+(i)
+Relation to other laws
+(1)
+Application of HITECH rule
+Section 13421 shall apply to this section in the same manner as such section applies to parts 1 and 2, except to the extent that such section 13421 concerns section 1178(a)(2)(B) of the Social Security Act.
+(2)
+State laws regarding unfair or deceptive acts or practices
+This part shall not be construed to preempt the law of any State that prohibits unfair or deceptive acts or practices or limit the authority of State attorneys general to enforce such laws.
+(j)
+Definitions
+In this part:
+(1)
+De-identified
+The term
+de-identified
+, with respect to health information, means such information that is not individually identifiable as determined in accordance with the standards under section 164.514(b) of title 45, Code of Federal Regulations.
+(2)
+Fair market value
+The term
+fair market value
+means the price that a person reasonably knowledgeable and interested in buying a given product or service would pay to a person reasonably knowledgeable and interested in selling the product or service.
+(3)
+Health care clearinghouse
+The term
+health care clearinghouse
+has the meaning given such term in section 1171 of the Social Security Act.
+(4)
+HIPAA-related provision
+The term
+HIPAA-related provision
+means the provisions of each of the following:
+(A)
+This subtitle.
+(B)
+Part C of title XI of the Social Security Act.
+(C)
+Regulations promulgated pursuant to sections 262(a) and 264(c) of the Health Insurance Portability and Accountability Act of 1996 or this subtitle.
+(5)
+Individual
+The term
+individual
+, with respect to protected health information, has the meaning applicable under section 160.103 of title 45, Code of Federal Regulations.
+(6)
+Qualifying data use agreement
+The term
+qualifying data use agreement
+means an agreement, which may be electronic, thatâ
+(A)
+establishes the permitted uses and disclosures of protected health information by the recipient;
+(B)
+limits such uses and disclosures to the original purpose of disclosure under subsection (b)(3)(B); and
+(C)
+provides that the data recipient willâ
+(i)
+not use or further disclose the information other than as permitted by the qualifying data use agreement or as otherwise required by law;
+(ii)
+use appropriate safeguards to prevent use or disclosure of the information other than as provided for by the qualifying data use agreement; and
+(iii)
+ensure that any agents to whom it provides the data agree to the same restrictions and conditions that apply to the data recipient with respect to such information.
+.
+(b)
+Regulations
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services shall promulgate regulations to carry out the amendment made by subsection (a).
+(c)
+Conforming amendment
+Section 1171(2) of the Social Security Act (
+42 U.S.C. 1320d(2)
+) is amended by inserting before the period the following:
+or receives a standard transaction from another entity and processes or facilitates the processing of health information into nonstandard format or nonstandard data content for the receiving entity. Such term also includes an entity that carries out such processing functions, transmits standard health care claims, transmits health care claim payments or provides advice on such, and transmits any standard transactions on behalf of a HIPAA-covered entity and in addition, engages in any authority of such entity described in subsection (b)(3) of section 13451 of the Health Information Technology for Economic and Clinical Health Act
+.

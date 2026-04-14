@@ -1,0 +1,110 @@
+1.
+Short title
+This Act may be cited as the
+Map Improvement Act of 2019
+.
+2.
+Definitions
+In this Act:
+(1)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(2)
+Broadband internet service
+The term
+broadband internet service
+â
+(A)
+means mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service;
+(B)
+includes any service that the Commission finds to be providing a functional equivalent of the service described in subparagraph (A) or that is used to evade the protections set forth in part 8 of title 47, Code of Federal Regulations, or any successor thereto; and
+(C)
+does not include dial-up internet service.
+(3)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(4)
+End user
+The term
+end user
+means any individual or entity that uses a broadband internet service.
+(5)
+Fixed broadband internet service
+The term
+fixed broadband internet service
+meansâ
+(A)
+a broadband internet service that serves end users primarily at fixed endpoints using stationary equipment; and
+(B)
+includes fixed wireless services, including fixed unlicensed wireless services, and fixed satellite services.
+(6)
+GIS
+The term
+GIS
+means geographic information systems.
+(7)
+Mobile broadband internet service
+The term
+mobile broadband internet service
+shall have the meaning given such term by the Commission for purposes of this Act.
+(8)
+State
+The term
+State
+means each State of the United States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.
+3.
+Collection and mapping of fixed and mobile broadband internet service coverage
+(a)
+Standardized methodology rule
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, the Commission, in coordination with the Assistant Secretary, shall promulgate a final rule to establish a standardized methodology for collecting and mapping accurate fixed broadband internet service and mobile broadband internet service coverage data in the United States, which shallâ
+(A)
+ensure that coverage data for fixed broadband internet service and mobile broadband internet service is collected in a standardized, consistent, and robust manner;
+(B)
+improve the validity and reliability of coverage data;
+(C)
+increase the efficiency of coverage data collection;
+(D)
+contain standard definitions for different speed tiers, such as the 2G, 3G, 4G, and 4G LTE tiers and the equivalent for fixed broadband internet service;
+(E)
+ensure that the collection and validation process occurs on a regular basis; and
+(F)
+establish a standardized ongoing validation process and public feedback mechanism that will allow for consumers, State and local officials, and broadband internet service providers to submit data to the Commission to verify coverage data from broadband internet service providers and challenge any aspects of such data believed to be inaccurate.
+(2)
+Considerations
+In promulgating the rule required under paragraph (1), the Commission shall considerâ
+(A)
+coordinating with the Postmaster General, the heads of other Federal agencies that operate delivery fleet vehicles, and the Director of the Bureau of the Census for assistance with data collection and the feasibility of using more granular address level data; and
+(B)
+creating 1 centralized national map with multiple layers, including a layer each for fixed broadband internet service and mobile broadband internet service, which may be used in determining eligibility for all Federal broadband internet service grant, loan, and subsidy programs.
+(3)
+Establishment of Office
+The Commission shall establish an Office of Broadband Data Collection and Mapping within the Commission to serve as the central point of collection, aggregation, and validation of data collected under the standardized methodology established under this subsection.
+(b)
+Technical assistance program
+(1)
+In general
+The Assistant Secretary shall establish a technical assistance program under which the Assistant Secretary shall provide grants to State and local entities, such as regional planning organizations, toâ
+(A)
+assist such entities with mapping and the development of a GIS-based map of existing fixed broadband internet service and mobile broadband internet service; and
+(B)
+assess current broadband internet service adoption rates and advertised broadband internet service pricing in the community.
+(2)
+Use of funds
+Funds received under this subsectionâ
+(A)
+shall be used toâ
+(i)
+carry out the activities described in subparagraphs (A) and (B) of paragraph (1); and
+(ii)
+participate in the standardized ongoing validation process and public feedback mechanism described in subsection (a)(1)(F); and
+(B)
+may be used to purchase GIS software and for technical assistance with that software.
+(3)
+Other uses for GIS software
+A grantee may use GIS software acquired using funds received under this subsection for other purposes in addition to broadband internet service mapping.

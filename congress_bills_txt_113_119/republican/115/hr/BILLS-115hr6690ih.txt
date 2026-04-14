@@ -1,0 +1,146 @@
+1.
+Short title
+This Act may be cited as the
+Fighting Fraud to Protect Care for Seniors Act of 2018
+.
+2.
+Medicare smart card pilot program
+Part E of title XVIII of the Social Security Act is amended by inserting after section 1866E the following new section:
+1866F.
+Smart card pilot program
+(a)
+Implementation
+(1)
+In general
+Not later than 36 months after the date of the enactment of this section, the Secretary shall establish a pilot program (in this section referred to as the
+pilot program
+) to evaluate the feasibility of using smart card technology under this title.
+(2)
+Smart card technology defined
+In this section, the term
+smart card technology
+means the following:
+(A)
+Beneficiary smart card
+A machine readable, tamper-resistant card (in this section referred to as a
+smart card
+) that includes an embedded integrated circuit chip with a secure micro-controller (as defined by the National Institute on Standards and Technology) that enables the verification and secure, electronic authentication of the identity of a Medicare beneficiary at the point of service through a combination of the smart card and a personal identification number known by or associated with such beneficiary.
+(B)
+Card reader technology
+Information technology that enables a supplier and provider to authenticate the identity of a Medicare beneficiary through presentation of such a smart card and such components, with such authentication to be reflected through the use of a modifier or in another appropriate manner, as determined by the Secretary, in the claims adjudication process.
+(3)
+Program design elements
+The pilot program shall be conducted for a period of 3 years consistent with the following:
+(A)
+Selection of area
+In consultation with the Inspector General of the Department of Health and Human Services, the Secretary shall select at least 3 geographic areas in which the pilot program will operate.
+(B)
+Selection of supplier and provider types
+In consultation with the Inspector General of the Department of Health and Human Services, the Secretary shall select supplier and provider types that will be required to participate in the pilot program (referred to in this section as
+participating suppliers and providers
+). In selecting such supplier and provider types, the Secretary shallâ
+(i)
+take into account the risk of fraud, waste, and abuse (as described in section 1866(j)(2)(B)) with respect to the category of provider or supplier) and other factors as determined appropriate by the Secretary; and
+(ii)
+limit the pilot program to no more than 2,000 suppliers and providers.
+(C)
+Supplier and provider hardship exemptions
+The Secretary shall exempt from participation in the pilot program a supplier or provider that eitherâ
+(i)
+does not have access to card reader technology (as described in paragraph (2)(B));
+(ii)
+does not have sufficient internet access; or
+(iii)
+has a low volume (as determined by the Secretary) of Medicare claims for which payment is made under this title.
+(D)
+Smart card and smart card reader issuance
+(i)
+Beneficiary smart card issuance
+The Secretary shall provide for, at no cost, the issuance (and, if necessary, replacement) of beneficiary smart cards described in paragraph (2)(A) to all Medicare beneficiaries residing in a geographic area in which the pilot program is conducted under subparagraph (A). Information that appears on Medicare cards used outside the pilot program may appear on the face of the beneficiary smart card.
+(ii)
+Supplier and provider smart card reader issuance
+At the request of a participating supplier or provider, the Secretary shall provide for, at no cost, the issuance to such supplier or provider of smart card hardware and software necessary to participate in the pilot program.
+(E)
+Information on operation of pilot program
+The Secretary shall provide participating suppliers and providers and Medicare beneficiaries who are furnished items and services by such suppliers and providers, with information on the operation of the pilot program, including privacy protections described in subparagraph (I).
+(F)
+Access to services outside the pilot program
+(i)
+Beneficiaries
+Medicare beneficiaries who receive beneficiary smart cards may receive items and services from suppliers and providers not participating in the pilot program.
+(ii)
+Suppliers and provider claims
+(I)
+Suppliers and providers not participating in pilot
+Suppliers and providers not participating in the pilot program may submit claims under this title for items and services furnished without use of smart card technology to Medicare beneficiaries who receive beneficiary smart cards.
+(II)
+Participating suppliers and providers furnishing services to non-participating beneficiaries
+Supplier and providers participating in the pilot program may submit claims under this title for items and services furnished to Medicare beneficiaries who do not receive beneficiary smart cards.
+(G)
+Clarification on access to services without smart cards
+In the case of a Medicare beneficiary who receives a beneficiary smart card and does not present such card at the time of receipt of items or services from a participating supplier or provider, the participating supplier or providerâ
+(i)
+shall furnish such items or services to such Medicare beneficiary as if such beneficiary does present such card;
+(ii)
+may submit claims under this title for such items or services; and
+(iii)
+shall provide, in accordance with such manner, process, and timing as specified by the Secretary, information to the Secretary (through the contractor described in subparagraph (H)) that such beneficiary received such a smart card but did not have the smart card at the time the items or services were furnished.
+(H)
+Private sector implementation
+The Secretary shall select, by using a competitive procurement process in accordance with the provisions of
+chapter 1
+of title 48, Code of Federal Regulations (or any successor regulations), a private sector contractor to implement and operate the pilot program.
+(I)
+Privacy protections
+The Secretary shall ensure that the pilot program complies with applicable Federal laws and regulations concerning individually identifiable health information, including the Privacy Act of 1974 and regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 and such individually identifiable information shall be exempt from disclosure under section 552(b)(3) of title 5, United States Code.
+(J)
+Mandatory participation
+Subject to subparagraph (C), in the case of items or services furnished by a provider or supplier included in a supplier or provider type selected under subparagraph (B) in a geographic area selected under subparagraph (A), payment may only be made under this title for such items or services during the period of the pilot program if the provider or supplier is participating in the pilot program.
+(K)
+Prohibition of smart card fees
+No transaction, utilization, or other fees may be imposed on Medicare beneficiaries or participating suppliers and providers with respect to the use of smart cards under the pilot program.
+(4)
+Stakeholder input
+(A)
+In general
+Not later than 6 months after the date of the enactment of this section, the Secretary shall convene a panel consisting of stakeholders (including representatives of providers, suppliers, Medicare beneficiaries, and claims processing contractors) selected by the Secretary for purposes of providing input to the Secretary on the implementation of the pilot program (including on the selection of areas and participants under subparagraphs (A) and (B) of paragraph (3) and the development of exemptions and requirements described in such paragraph).
+(B)
+Nonapplicability of FACA
+The Federal Advisory Committee Act shall not apply to the panel convened pursuant to subparagraph (A).
+(5)
+Definitions
+In this section:
+(A)
+The terms
+supplier
+and
+provider
+have the meanings given the terms
+supplier
+and
+provider of services
+in subsections (d) and (u), respectively, of section 1861.
+(B)
+The term
+Medicare beneficiary
+means an individual who is enrolled in the original Medicare fee-for-service program under parts A and B and is not enrolled in an MA plan under part C, an eligible organization under section 1876, or a PACE program under section 1894.
+(b)
+Reports to Congress
+The Secretary shall submit to Congress the following reports:
+(1)
+Interim performance report
+Not later than 2 years after the date the pilot program is implemented, an interim report on the performance of such program.
+(2)
+Final performance report
+Not later than 18 months after the date of the completion of the pilot program, a final evaluation on the effectiveness of the pilot program. The report shall include the following:
+(A)
+An evaluation of the extent to which health care fraud schemes were affected by the use of smart card technology.
+(B)
+A description of any barriers to implementation of the pilot program.
+(C)
+Participant feedback on the pilot program.
+(D)
+Recommendations regarding the future use of smart cards to address fraud under this title.
+(E)
+Data on the information provided under subsection (a)(3)(G)(iii).
+.

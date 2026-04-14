@@ -1,0 +1,266 @@
+1.
+Short title
+This Act may be cited as the
+Customer Online Notification for Stopping Edge-provider Network Transgressions
+or the
+CONSENT Act
+.
+2.
+Privacy of customers of edge providers
+(a)
+Definitions
+In this sectionâ
+(1)
+the term
+breach of security
+means any instance in which a person, without authorization or in violation of any authorization provided to the person, gains access to, uses, or discloses sensitive customer proprietary information;
+(2)
+the term
+Commission
+means the Federal Trade Commission;
+(3)
+the term
+customer
+meansâ
+(A)
+an individual who is a customer of an edge provider; and
+(B)
+an individual who is a user of an edge service provided by an edge provider;
+(4)
+the term
+edge provider
+means a person that provides an edge service, but only to the extent to which the person provides that service;
+(5)
+the term
+edge service
+â
+(A)
+means a service that is provided over the Internetâ
+(i)
+for which the edge provider requires the customer to subscribe or establish an account in order to use the service;
+(ii)
+that the customer purchases from the edge provider without a subscription or account;
+(iii)
+through which a program searches for and identifies items in a database that correspond to keywords or characters specified by the customer; or
+(iv)
+through which a customer divulges sensitive customer proprietary information of the customer; and
+(B)
+includes any service that is providedâ
+(i)
+through a software program, including a mobile application; or
+(ii)
+over the Internet, directly or indirectly, through a connected device;
+(6)
+the term
+opt-in consent
+means a method by which an edge provider may obtain from a customer affirmative, express consent to use, disclose, or permit access to the sensitive customer proprietary information of the customer after the customer has received explicit notification of the request of the edge provider with respect to that information;
+(7)
+the term
+personally identifiable information
+means any information that is linked, or reasonably may be linked, to a specific individual or device; and
+(8)
+the term
+sensitive customer proprietary information
+includesâ
+(A)
+financial information;
+(B)
+health information;
+(C)
+information pertaining to children;
+(D)
+Social Security numbers;
+(E)
+precise geolocation information;
+(F)
+content of communications;
+(G)
+call detail information;
+(H)
+web browsing history, application usage history, and the functional equivalents of either; and
+(I)
+any other personally identifiable information that the Commission determines to be sensitive.
+(b)
+Privacy of customers of edge providers
+(1)
+Act prohibited
+It is unlawful for an edge provider to violate the privacy of a customer in a manner that violates a regulation prescribed under paragraph (2).
+(2)
+Regulations
+(A)
+In general
+In carrying out this Act, the Commission shallâ
+(i)
+not later than 1 year after the date of enactment of this Act, promulgate, under section 553 of title 5, United States Code, regulations to protect the privacy of customers of edge providers; and
+(ii)
+ensure that the regulations promulgated under clause (i) take effect not later than 180 days after the date on which the regulations are promulgated.
+(B)
+Requirements under regulations
+In promulgating regulations under subparagraph (A), the Commission shallâ
+(i)
+require an edge provider to notify a customer about the collection, use, and sharing of the sensitive customer proprietary information of the customer, including byâ
+(I)
+notifying the customer about the types of sensitive customer proprietary information the edge provider collects;
+(II)
+specifying how and for what purposes the edge provider uses and shares sensitive customer proprietary information; and
+(III)
+identifying the types of entities with which the edge provider shares sensitive customer proprietary information;
+(ii)
+require an edge provider toâ
+(I)
+supply the information described in clause (i) when a customer initially subscribes to, establishes an account for, purchases, or begins receiving an edge service; and
+(II)
+update a customer when the policies of the edge provider relating to the information described in clause (i) change in a significant way;
+(iii)
+require an edge provider to obtain opt-in consent from a customer to use, share, or sell the sensitive customer proprietary information of the customer;
+(iv)
+implement strong protection for sensitive customer proprietary information that has been de-identified to prevent the restoration of any personally identifiable information that has been previously removed, including byâ
+(I)
+requiring an edge provider to alter the customer information so that the customer information cannot be reasonably linked to a specific individual or device;
+(II)
+requiring an edge provider to publically commit to maintain and use sensitive customer proprietary information in an unidentifiable format and to not attempt to restore any personally identifiable information that has been previously removed from the sensitive customer proprietary information; and
+(III)
+requiring an edge provider to contractually prohibit the practice of restoring any personally identifiable information that has been previously removed from sensitive customer proprietary information;
+(v)
+determine on a case-by-case basis the reasonableness of any program that relates the price of an edge service to the privacy protections afforded to customers, and require an edge provider to fully disclose plans that provide discounts or other incentives in exchange for a express affirmative consent of the customer to the use and sharing of the sensitive customer proprietary information of the customer;
+(vi)
+prohibit an edge provider from refusing to serve a customer who does not consent to the use and sharing of the customer proprietary information of the customer for commercial purposes (commonly known as a
+take-it-or-leave-it offer
+) on the basis of that refusal to consent by the customer; and
+(vii)
+require an edge provider toâ
+(I)
+develop reasonable data security practices; and
+(II)
+notify a customer if a breach of security has occurred if the edge provider determines that an unauthorized disclosure of the sensitive customer proprietary information of the customer has occurred and harm is reasonably likely to occur.
+(c)
+Enforcement by the Commission
+(1)
+In general
+Except as otherwise provided, this Act and the regulations prescribed under this Act shall be enforced by the Commission under the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+(2)
+Unfair or deceptive acts or practices
+Subject to subsection (d), a violation of this Act or a regulation prescribed under this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(3)
+Actions by the Commission
+Subject to subsection (d), and except as provided in subsection (f)(1), the Commission shall prevent any person from violating this Act or a regulation prescribed under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of this Act, and any person who violates this Act or such regulation shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+(d)
+Enforcement by certain other agencies
+Compliance with the requirements imposed under this Act shall be enforced as follows:
+(1)
+Under section 8 of the Federal Deposit Insurance Act (
+12 U.S.C. 1818
+) by the appropriate Federal banking agency, with respect to an insured depository institution (as those terms are defined in section 3 of that Act (
+12 U.S.C. 1813
+)).
+(2)
+Under the Federal Credit Union Act (
+12 U.S.C. 1751
+et seq.) by the National Credit Union Administration Board, with respect to any Federal credit union.
+(3)
+Under part A of subtitle VII of title 49, United States Code, by the Secretary of Transportation, with respect to any air carrier or foreign air carrier subject to that part.
+(4)
+Under the Packers and Stockyards Act, 1921 (
+7 U.S.C. 181
+et seq.) (except as provided in section 406 of that Act (
+7 U.S.C. 226
+; 227)) by the Secretary of Agriculture, with respect to any activities subject to that Act.
+(5)
+Under the Farm Credit Act of 1971 (
+12 U.S.C. 2001
+et seq.) by the Farm Credit Administration, with respect to any Federal land bank, Federal land bank association, Federal intermediate credit bank, or production credit association.
+(e)
+Enforcement by State attorneys general
+(1)
+In general
+(A)
+Civil actions
+In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates this Act or a regulation prescribed under this Act, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction toâ
+(i)
+enjoin that practice;
+(ii)
+enforce compliance with this Act or such regulation;
+(iii)
+obtain damages, restitution, or other compensation on behalf of residents of the State; or
+(iv)
+obtain such other relief as the court may consider to be appropriate.
+(B)
+Notice
+(i)
+In general
+Before filing an action under subparagraph (A), the attorney general of the State involved shall provide to the Commissionâ
+(I)
+written notice of that action; and
+(II)
+a copy of the complaint for that action.
+(ii)
+Exemption
+(I)
+In general
+Clause (i) shall not apply with respect to the filing of an action by an attorney general of a State under this paragraph if the attorney general determines that it is not feasible to provide the notice described in that clause before the filing of the action.
+(II)
+Notification
+In an action described in subclause (I), the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.
+(2)
+Intervention
+(A)
+In general
+On receiving notice under paragraph (1)(B), the Commission shall have the right to intervene in the action that is the subject of the notice.
+(B)
+Effect of intervention
+If the Commission intervenes in an action under paragraph (1), it shall have the rightâ
+(i)
+to be heard with respect to any matter that arises in that action; and
+(ii)
+to file a petition for appeal.
+(3)
+Construction
+For purposes of bringing any civil action under paragraph (1), nothing in this Act shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State toâ
+(A)
+conduct investigations;
+(B)
+administer oaths or affirmations; or
+(C)
+compel the attendance of witnesses or the production of documentary and other evidence.
+(4)
+Actions by the Commission
+In any case in which an action is instituted by or on behalf of the Commission for violation of this Act or a regulation prescribed under this Act, no State may, during the pendency of that action, institute an action under paragraph (1) against any defendant named in the complaint in the action instituted by or on behalf of the Commission for that violation.
+(5)
+Venue; service of process
+(A)
+Venue
+Any action brought under paragraph (1) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code.
+(B)
+Service of process
+In an action brought under paragraph (1), process may be served in any district in which the defendantâ
+(i)
+is an inhabitant; or
+(ii)
+may be found.
+(f)
+Telecommunications carriers
+(1)
+Definition
+In this subsection, the term
+telecommunications carrier
+has the meaning given the term in section 3 of the Communications Act of 1934 (
+47 U.S.C. 153
+).
+(2)
+Enforcement by the commission
+Notwithstanding section 5(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(2)
+), compliance with the requirements imposed under this Act shall be enforced by the Commission with respect to any telecommunications carrier, but only to the extent that the telecommunications carrier is operating as an edge provider.
+(3)
+Relationship to other law
+To the extent that the applicability of section 222, 338(i), or 631 of the Communications Act of 1934 (
+47 U.S.C. 222
+, 338(i), 551) to a telecommunications carrier is inconsistent with this Act, this Act shall supersede those sections only to the extent that the telecommunications carrier is operating as an edge provider.

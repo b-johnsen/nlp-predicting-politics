@@ -1,0 +1,94 @@
+1.
+Short title
+This Act may be cited as the
+JADC2 Implementation Act
+.
+2.
+Roles and responsibilities for components of Office of Secretary of Defense for joint all-domain command and control in support of integrated joint warfighting
+(a)
+In general
+The Secretary of Defense shall establish the roles and responsibilities of components of the Office of the Secretary of Defense for development and delivery to combatant commands of capabilities that are essential to integrated joint warfighting capabilities, as follows:
+(1)
+The Deputy Chief Technology Officer for Mission Capabilities of the Office of the Under Secretary of Defense for Research and Engineering (in this section referred to as the
+Deputy Chief
+) shall be responsible forâ
+(A)
+identifying new technology and operational concepts for experimentation and prototyping for delivery to the Joint Force to address key operational challenges;
+(B)
+providing technical support for the Joint Force in exploring and analyzing new capabilities, operational concepts, and systems-of-systems composition, including through advanced modeling and simulation; and
+(C)
+executing associated experimentation, through the Rapid Defense Experimentation Reserve (RDER) or another mechanism.
+(2)
+The Executive Director for Acquisition, Integration, and Interoperability of the Office of the Under Secretary of Defense for Acquisition and Sustainment shall be responsible forâ
+(A)
+enabling the acquisition of cross-domain, joint, and cross-system kill chains and mission capabilities, including resourcing of modifications necessary for integration and interoperability among kill chain and mission components; and
+(B)
+ensuring the effectiveness of cross-domain, joint, and cross-system kill chains and mission capabilities through analysis and testing.
+(3)
+The Chief Digital and Artificial Intelligence Officer shall be responsible for creating and operating a factory-based approach for software development that allows for iterative, secure, and continuous deployment of developmental, prototype, and operational tools and capabilities from multiple vendors to test networks and operational networks for combatant commanders toâ
+(A)
+gain operational awareness, make decisions, and take actions;
+(B)
+integrate relevant data sources to support target selection, target prioritization, and weapon-target pairing; and
+(C)
+prosecute targets through military service and combat support agency networks, tools, and systems.
+(b)
+Additional Deputy Chief authorities
+(1)
+In general
+The Deputy Chief may exercise the authorities described in paragraph (2) in accordance with this subsection to carry out the responsibilities of the Deputy Chief described in subsection (a)(1).
+(2)
+Authorities described
+The authorities described in this paragraph areâ
+(A)
+the authority to enter contracts to acquire goods and services; and
+(B)
+except as otherwise provided by this subsection, the authority to appoint, prescribe rates of pay for, and provide additional pay to highly qualified experts.
+(3)
+Acquisition authority
+The laws and regulations applicable to acquisitions of goods and services by the Secretary of Defense shall apply to the acquisition of goods and services by the Deputy Chief pursuant to paragraph (2)(A).
+(4)
+Hiring authorities
+(A)
+Appointment limits
+When exercising the authority described in paragraph (2)(B), the Deputy Chief mayâ
+(i)
+appoint only individuals with demonstrated expertise in the development, testing, production, and delivery or integration of modular systems and major system components (as defined in section 4401(b) of title 10, United States Code), including autonomous vehicles, advanced sensors and radio systems, and software systems; and
+(ii)
+appoint individuals to not more than 12 positions as program managers in the Office of the Under Secretary of Defense for Research and Engineering.
+(B)
+Term extension
+The Deputy Chief may extend the period which an employee appointed pursuant to paragraph (2)(B) may serve by up to seven additional years.
+(C)
+Excepted service positions
+Each position to which the Deputy Chief may appoint an individual pursuant to paragraph (2)(B) shall be in the excepted service.
+(c)
+Coordination
+The officials referred to in paragraphs (1), (2), and (3) of subsection (a) shall coordinate and align their plans and activities to implement subsection (a) among themselves and with the combatant commanders.
+(d)
+Initial prioritization
+In developing an initial set of capabilities described in subsection (a), the officials referred to in paragraphs (1), (2), and (3) of that subsection shall prioritize the requirements of the United States Indo-Pacific Command.
+(e)
+Briefings required
+Not later than 90 days after the date of the enactment of this Act, and every 180 days thereafter through December 31, 2026, the officials referred to in paragraphs (1), (2), and (3) of subsection (a) shall provide briefings to the congressional defense committees on their plans and activities to implement subsection (a).
+(f)
+Report required
+Not later than March 1, 2024, the Chief Data and Artificial Intelligence Officer, in consultation with the Deputy Chief and the Executive Director for Acquisition, Integration, and Interoperability of the Office of the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees a report that includesâ
+(1)
+a plan and associated timelines for deploying and demonstrating a joint data integration layer prototype in the United States Indo-Pacific Command area of operations;
+(2)
+a plan and associated timelines for transitioning such a prototype, upon its successful demonstration, to fielding as soon as practicable given the urgent need for a joint all-domain command and control (commonly referred to as
+JADC2
+) capability;
+(3)
+a plan and associated timelines for reaching initial operational capability for a joint data integration layer within the United States Indo-Pacific Command area of operations;
+(4)
+a plan and associated timelines for scaling that capability to future areas of operation across the combatant commands;
+(5)
+an assessment of the required type and number of personnel at the United States Indo-Pacific Command to enable sustained growth in JADC2 capabilities; and
+(6)
+a plan and associated timelines forâ
+(A)
+identifying specific critical effects chains necessary to overcome anti-access and area denial capabilities and offensive military operations of foreign adversaries; and
+(B)
+creating, demonstrating, deploying, and sustaining such chains.

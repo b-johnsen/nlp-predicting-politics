@@ -1,0 +1,174 @@
+1.
+Short title
+This Act may be cited as the
+NDO Fairness Act
+.
+2.
+Preclusion of notice
+Section 2705(b) of title 18, United States Code, is amended to read as follows:
+(b)
+Preclusion of Notice
+(1)
+Application
+(A)
+In general
+A governmental entity that is seeking a warrant, order, or subpoena under section 2703, when it is not required to notify the customer or subscriber, or to the extent that it may delay such notice pursuant to subsection (a), may apply to a court for an order, subject to paragraph (6), directing a provider of electronic communications service or remote computing service to which a warrant, order, or subpoena under section 2703 is directed not to notify any other person of the existence of the warrant, order, or subpoena.
+(B)
+Length
+(i)
+In general
+Subject to clause (ii), an order granted under subparagraph (A) shall be in effect for a period of not more than 90 days.
+(ii)
+Exception
+An order granted under subparagraph (A) shall be in effect for a period of not more than 1 year if the nature of the offense for which the governmental entity is seeking a warrant, order, or subpoena pertains to child sexual abuse material under section 2256(8), sexual exploitation of children under section 2251, or any Federal, State, Tribal, or military offense that is the substantial equivalent.
+(C)
+Other requirements
+(i)
+In general
+An application for an order under subparagraph (A) shall state, to the best of the applicantâs knowledge, whether the named customer or subscriber whose information is sought by the warrant, order, or subpoena under section 2703â
+(I)
+is aware of the warrant, order, subpoena, or underlying investigation; and
+(II)
+is suspected of involvement in the commission of the crime under investigation.
+(ii)
+Orders
+An order granted under subparagraph (A) may not direct, or otherwise require, a provider of electronic communications service or remote computing service to provide notification of the expiration of the order to the court or to the government entity that sought the order.
+(2)
+Determination
+(A)
+In general
+The court may not grant a request for an order made under paragraph (1), or a request for an extension of such order made under paragraph (3), unlessâ
+(i)
+subject to subparagraph (B)(ii), the court issues a written determination, based on specific and articulable facts and including written findings of fact and conclusions of law, that it is likely that not granting the request will result inâ
+(I)
+endangering the life or physical safety of an individual;
+(II)
+flight from prosecution;
+(III)
+destruction of or tampering with evidence;
+(IV)
+intimidation of potential witnesses; or
+(V)
+otherwise seriously jeopardizing an investigation or unduly delaying a trial;
+(ii)
+the order is narrowly tailored and there is no less restrictive alternative, including notification to an individual or organization within or providing legal representation to the named customer or subscriber, that is not likely to result in an adverse result as described in subclauses (I) through (V) of clause (i); and
+(iii)
+the court has reviewed the individual warrant, order, or subpoena issued under section 2703 to which the order issued under paragraph (1) applies.
+(B)
+Nature of the offense
+(i)
+In general
+Subject to clause (ii), the court may consider the nature of the offense in issuing a determination under subparagraph (A).
+(ii)
+Presumption
+If the court determines there is a reasonable belief that the nature of the offense pertains to child sexual abuse material under section 2256(8), sexual exploitation of children under section 2251, or any Federal, State, Tribal, or military offense that is the substantial equivalent, the court may presume that 1 or more of the factors described in subclauses (I) through (V) of subparagraph (A)(i) are met and may issue an order consistent with this subsection without a written decision under subparagraph (A)(i).
+(3)
+Extension
+(A)
+Request
+A governmental entity may request 1 or more extensions of an order granted under paragraph (1) of not more than 90 days for each such extension.
+(B)
+Written determination required
+The court may grant a request under subparagraph (A) if the court makes a written determination in accordance with paragraph (2)(A).
+(4)
+Notification of changed circumstances
+If the need for the order issued under paragraph (1) or an extension issued under paragraph (3) changes materially, the governmental entity that requested the order shall notify the court within a reasonable period of time (not to exceed 14 days) of the changed circumstances, and the court shall reassess the order and modify or vacate the order as appropriate.
+(5)
+Opportunity to be heard
+(A)
+In general
+Upon an application, petition, or motion by a provider of electronic communications service or remote computing service or person acting on behalf of the provider to which an order under paragraph (1) or an extension under paragraph (3) has been issued, the court may modify or vacate the order ifâ
+(i)
+the order does not meet requirements provided in paragraph (2) or (3); or
+(ii)
+compliance with the order is unreasonable or otherwise unlawful.
+(B)
+Stay of disclosure of named customer or subscriber communications or records
+The obligation of a provider of electronic communications service or remote computing service to disclose the information requested in the warrant, order, or subpoena to which the order in paragraph (1) applies is stayed upon the filing of the application, petition, or motion under this paragraph pending resolution of the application, petition, or motion, unless the court with jurisdiction over the challenge determines, based on a showing by the governmental entity, that the stay should be lifted in whole or in part prior to resolution.
+(C)
+Finality of order
+The decision of the court resolving an application, petition, or motion under this paragraph shall constitute a final, appealable order.
+(6)
+Exception
+(A)
+In general
+A provider of electronic communications service or remote computing service to which an order under paragraph (1) applies, or an officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement toâ
+(i)
+those persons to whom disclosure is necessary in order to comply with the warrant, order, or subpoena;
+(ii)
+an attorney, in order to obtain legal advice or assistance relating to the order issued under paragraph (1) or the warrant, order, or subpoena to which the order applies; and
+(iii)
+any person the court determines can be notified of the warrant, order, or subpoena.
+(B)
+Scope of nondisclosure
+(i)
+Recipients of information
+Any person to whom disclosure is made under subparagraph (A), other than the governmental entity, shall be subject to the nondisclosure requirements applicable to the person to whom the order is issued.
+(ii)
+Notification
+Any recipient authorized under this paragraph to disclose to a person information otherwise subject to a nondisclosure requirement shall notify the person of the applicable nondisclosure requirement.
+(7)
+Supporting documentation
+Upon serving a provider of electronic communications service or remote computing service with an order granted under paragraph (1), or an extension of such order granted under paragraph (3), the governmental entity shall include a copy of the warrant, order, or subpoena to which the nondisclosure order applies.
+(8)
+Expiration of order precluding notice
+Upon expiration of an order issued under paragraph (1) or, if an extension has been granted under paragraph (3), expiration of the extension, the governmental entity shall deliver to the named customer or subscriber, by not less than 2 methods, which shall be personal service, registered or first-class mail, electronic mail, or other means approved by the court as reasonably calculated to reach the named customer or subscriber within 5 business days of the expiration of the orderâ
+(A)
+a copy of the warrant, order, or subpoena; and
+(B)
+notice that informs the named customer or subscriberâ
+(i)
+of the nature of the law enforcement inquiry with reasonable specificity;
+(ii)
+that information maintained for such customer or subscriber by the provider of electronic communications service or remote computing service to which the warrant, order, or subpoena under section 2703, was directed, supplied to, or requested by the government entity;
+(iii)
+that notification of such customer or subscriber was precluded by court order;
+(iv)
+of the identity of the court authorizing the preclusion of notice;
+(v)
+of the provision of this chapter under which the preclusion of notice was authorized; and
+(vi)
+that the government will, upon request by the customer or subscriber made within 180 days after receiving notification under this paragraph, provide the named customer or subscriber with a copy of the information that was disclosed in response to the warrant, order or subpoena, or in the event that no information was disclosed, a written certification that no information was disclosed.
+(9)
+Copy of information disclosed
+Upon expiration of the order precluding notice issued under paragraph (1) or (3), and at the request of the named customer or subscriber made within 180 days of receiving notification under paragraph (8), the governmental entity shall promptly provide the named customer or subscriberâ
+(A)
+with a copy of the information that was disclosed in response to the warrant, order, or subpoena, except forâ
+(i)
+illicit records;
+(ii)
+records or materials pertaining to child sexual abuse material under section 2256(8), sexual exploitation of children under section 2251, or any Federal, State, Tribal, or military offense that is the substantial equivalent; or
+(iii)
+other illegal material; or
+(B)
+in the event that no information was disclosed, a written certification that no information was disclosed.
+(10)
+Redactions
+Any information disclosed under paragraph (8) or (9) may be redacted only if a court finds such redactions necessary to preserve the secrecy or integrity of an investigation.
+.
+3.
+Additional provisions regarding delayed notice
+Section 2705 of title 18, United States Code, is amended by adding at the end the following:
+(c)
+Annual report
+(1)
+In general
+On an annual basis, the Attorney General shall provide to the
+Committee on the Judiciary of the Senate
+, the
+Committee on the Judiciary of the House of Representatives
+, and the Director of the Administrative Office of the United States Courts, which the Attorney General shall publish on the website of the Department of Justice, in a manner consistent with the protection of national security, a report setting forth, with respect to the preceding calendar year, for each Federal judicial districtâ
+(A)
+the number of named customers or subscribers with respect to whom, in that calendar year, a warrant, subpoena, or court order was issued pursuant to section 2703;
+(B)
+the aggregate number of applications requesting delay of notification pursuant to subsection (a)(1), preclusion of notice pursuant to subsection (b)(1), and extensions pursuant to subsection (b)(3);
+(C)
+the aggregate number of orders under this section either granting, extending, or denying a request for delay of notification or preclusion of notice;
+(D)
+the aggregate number of orders under this section affecting a member of the news media, including any conduct related to activities protected under the First Amendment to the Constitution of the United States; and
+(E)
+the aggregate number of arrests, trials, and convictions, resulting from investigations in which orders under this section were obtained, including the offenses for which individuals were arrested, tried, or convicted.
+(2)
+Inclusion
+The Attorney General shall include in the report under this subsection a description of the process and the information used to determine the numbers for each of subparagraphs (A) through (E) of paragraph (1).
+.

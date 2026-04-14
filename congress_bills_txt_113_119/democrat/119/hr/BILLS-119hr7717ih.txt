@@ -1,0 +1,201 @@
+1.
+Short title
+This Act may be cited as the
+Community Health Profiles Act
+.
+2.
+Community health data pilot program
+(a)
+Establishment
+Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention (in this section referred to as the
+Secretary
+), shall establish a pilot program (in this section referred to as the
+Program
+) to award grants, on a competitive basis, to not more than 25 eligible entities to develop or enhance neighborhood-level, publicly accessible health data platforms. Such platforms shall submit de-identified, aggregated data to the National Neighborhood Health Data Repository established under subsection (h), consistent with applicable Federal, State, and local privacy laws.
+(b)
+Program objectives
+The objectives of the Program shall be toâ
+(1)
+promote equitable access to local health data;
+(2)
+support the integration of Federal, State, and local surveillance systems into user-friendly, publicly accessible health data platforms;
+(3)
+facilitate data-driven public health planning and community engagement;
+(4)
+provide actionable insights at the State and local level, with a focus on addressing health disparities; and
+(5)
+support the establishment and maintenance of the National Neighborhood Health Data Repository to enable national comparability while upholding local data privacy standards.
+(c)
+Eligible entities
+To be eligible for a grant under the Program, an entity shall beâ
+(1)
+a State or local health department; or
+(2)
+a municipality or county government.
+(d)
+Partnership with academic and nonprofit institutions
+In administering a grant under the Program, an eligible entity may partner with an academic or nonprofit institution.
+(e)
+Priority
+In awarding grants under the Program, the Secretaryâ
+(1)
+shall prioritize eligible entities thatâ
+(A)
+serve populations experiencing health disparities, such as medically underserved communities, low-income communities, or environmentally burdened communities;
+(B)
+lack a neighborhood-level, publicly accessible health data system; and
+(C)
+demonstrate plans to use the data collected from such a system to reduce health disparities; and
+(2)
+may prioritize eligible entities that propose innovative indicators beyond traditional public health surveillance (pursuant to subsection (f)(1)).
+(f)
+Use of funds
+A grant under the Program may only be used toâ
+(1)
+develop or expand a publicly accessible health data platform to provide neighborhood-level data across key domains, includingâ
+(A)
+social and economic conditions, such as education, economic stress, neighborhood, violence, and incarceration;
+(B)
+housing and neighborhood conditions, such as the prevalence and quality of air conditioners, housing quality, and the quality of the built environment;
+(C)
+maternal and child health;
+(D)
+healthy living, such as self-reported health status;
+(E)
+health care, such as access to care and avoidable hospitalization and vaccination; and
+(F)
+health outcomes, such as chronic conditions, the prevalence or treatment of human immunodeficiency virus (commonly known as
+HIV
+) and Hepatitis C, binge drinking and psychiatric hospitalizations, infant mortality and premature death, and life expectancy;
+(2)
+integrate data from multiple sources, includingâ
+(A)
+Federal surveillance systems;
+(B)
+State and local administrative survey data; and
+(C)
+local education, housing, and public safety data;
+(3)
+ensure data disaggregation by neighborhood, ZIP code, or census tract, and support comparability across local jurisdictions where feasible;
+(4)
+design neighborhood-level, publicly accessible health data platforms with clear citation of sources and transparent methodology;
+(5)
+incorporate into such platformsâ
+(A)
+visualization tools, such as charts, maps, and trend lines; and
+(B)
+downloadable datasets for public use;
+(6)
+provide training or technical assistance to community and local institutions to ensure sustainability and usability of such platforms, including assistance in aligning such platforms with Federal interoperability standards and model legal frameworks for privacy, confidentiality, and data-sharing compliance; and
+(7)
+submit de-identified, aggregated data collected or generated using grant funds under the Program to the National Neighborhood Health Data Repository, in such standardized format as the Secretary may require.
+(g)
+Administration and evaluation
+(1)
+Administration
+In administering the Program, the Secretary shallâ
+(A)
+issue program guidance and technical assistance for platform development, data integration, and public accessibility, includingâ
+(i)
+standards for secure data reporting to the National Neighborhood Health Data Repository and alignment with Federal, State, and local laws; and
+(ii)
+model provisions on confidentiality and comparability;
+(B)
+provide technical assistance to grant recipients on data methodology, privacy protection, and system interoperability; and
+(C)
+facilitate collaboration and peer learning among grant recipients to share best practices and promote replicability.
+(2)
+Evaluation
+(A)
+Initial report
+Not later than 1 year after the establishment of the Program, the Secretary shall submit to Congress a report thatâ
+(i)
+summarizes the outcomes of the Program and the progress made on the development of neighborhood-level, publicly accessible health data platforms;
+(ii)
+assesses improvements the Program has made in public access to health data, data usability, and community engagement; and
+(iii)
+identifies lessons learned and makes recommendations for whether and how the Program could be expanded nationally or extended beyond the 4-year termination period described in subsection (k).
+(B)
+Updates
+The Secretary may update or supplement the report described in subparagraph (A) as the Secretary determines appropriate.
+(h)
+National Neighborhood Health Data Repository
+(1)
+Establishment
+The Secretary shall establish and maintain a publicly accessible, searchable National Neighborhood Health Data Repository to aggregate de-identified, neighborhood-level health data from recipients of grants under the Program.
+(2)
+Elements
+The Repository shallâ
+(A)
+display data submitted by recipients of grants under the Program;
+(B)
+enable comparisons across local jurisdictions; and
+(C)
+include tools for visualization, filtering, and downloading of data.
+(3)
+Oversight
+The Secretary shall provide oversight of the Repository byâ
+(A)
+reviewing data submissions;
+(B)
+developing and implementing a methodology for the aggregation of health data as described in paragraph (4); and
+(C)
+in consultation with States and local jurisdictions, enforcing national data standards for quality and consistency.
+(4)
+Review of methodology by independent panel
+(A)
+Establishment
+The Secretary shall establish an independent advisory panel (in this paragraph referred to as the
+panel
+) for the purposes of reviewing the methodology developed by the Secretary under subparagraph (C).
+(B)
+Appointment of members
+The Comptroller General of the United States shall develop, maintain, and make publicly available a list of nominees to serve as members of the panel. The Secretary shall appoint a member of the panel only after reviewing such list. Such members shall be experts in epidemiology, statistics, public health surveillance, and data privacy.
+(C)
+Review authority
+The Secretary shall develop and implement a methodology for the aggregation of health data for the purposes of the Repository, which shall go into effect only upon certification by the panel that such methodologyâ
+(i)
+reflects scientific best practices; and
+(ii)
+maintains public accessibility, privacy protections, and data comparability across jurisdictions.
+(i)
+Definitions
+In this section:
+(1)
+Health disparity
+The term
+health disparity
+means a difference in health outcomes or access to health services that is closely linked to social, economic, environmental, racial, ethnic, or other demographic factors.
+(2)
+Local jurisdiction
+The term
+local jurisdiction
+means a municipality, county, local health department, or regional public health authority with the capacity to implement a neighborhood-level, publicly accessible health data platform.
+(3)
+Medically underserved community
+The term
+medically underserved community
+has the meaning given such term in section 799B of the Public Health Service Act (
+42 U.S.C. 295p
+).
+(4)
+National Neighborhood Health Data Repository
+The term
+National Neighborhood Health Data Repository
+means the National Neighborhood Health Data Repository established under subsection (h).
+(5)
+Neighborhood-level
+The term
+neighborhood-level
+means, with respect to a publicly accessible health data platform, that such health data platform focuses on a geographic area within a local jurisdiction that is smaller than the municipal or county level, such as a ZIP code, census tract, or community district.
+(6)
+Publicly accessible health data platform
+The term
+publicly accessible health data platform
+means an online tool, website, or dashboard that makes health data accessible to the general public through visualizations, downloadable datasets, or written summaries.
+(j)
+Rule of construction
+Nothing in this section shall be construed to preempt or supersede any applicable Federal, State, or local privacy laws.
+(k)
+Termination
+The Program shall terminate on the date that is 4 years after the date on which the Secretary establishes the Program.

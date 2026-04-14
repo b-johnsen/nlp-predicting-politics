@@ -1,0 +1,248 @@
+1.
+Short title
+This Act may be cited as the
+Consumer Data Protection Act
+.
+2.
+Data security
+(a)
+In general
+The Fair Credit Reporting Act (
+15 U.S.C. 1681
+et seq.) is amended by inserting after section 605B (
+15 U.S.C. 1681câ2
+) the following:
+605C.
+Data security at consumer reporting agencies
+(a)
+Definitions
+In this sectionâ
+(1)
+the term
+affected individual
+means an individual, the sensitive personal information of whom is lost, stolen, or accessed without authorization because of a data breach;
+(2)
+the term
+appropriate committees of Congress
+meansâ
+(A)
+the Committee on the Judiciary of the Senate;
+(B)
+the Committee on Banking, Housing, and Urban Affairs of the Senate;
+(C)
+the Committee on the Judiciary of the House of Representatives; and
+(D)
+the Committee on Financial Services of the House of Representatives;
+(3)
+the term
+covered action
+means an action that restricts the legal rights available to a consumer, includingâ
+(A)
+requiring the consumer toâ
+(i)
+waive the right of the consumer toâ
+(I)
+file a civil action in an appropriate court; or
+(II)
+bring, or participate in, a class action; or
+(ii)
+engage in settlement negotiations before bringing an action under subsection (c)(3); and
+(B)
+offering a financial inducement in exchange for the consumer waiving any right of the consumer;
+(4)
+the term
+credit freeze
+â
+(A)
+except as provided in subparagraph (B), means a restriction placed on the consumer report of a consumer at the request of the consumer, or a personal representative of the consumer, that prohibits a consumer reporting agency from releasing the consumer report for any purpose; and
+(B)
+with respect to the consumer report of a consumer, shall not apply to the use of the consumer report byâ
+(i)
+a person, or a subsidiary, affiliate, agent, subcontractor, or assignee of the person, with which the consumer has, or before assignment had, an account, contract, or debtor-creditor relationship for the purposes ofâ
+(I)
+reviewing the active account; or
+(II)
+collecting the financial obligation owed on the account, contract, or debt;
+(ii)
+any person acting under a court order, warrant, or subpoena;
+(iii)
+a Federal, State, or local government or an agent or assignee of a Federal, State, or local government;
+(iv)
+any person for the sole purpose of providing a credit monitoring or identity theft protection service to which the consumer has subscribed;
+(v)
+any person for the purpose of providing a consumer with a copy of the consumer report, credit score, or educational credit score of the consumer upon request by the consumer;
+(vi)
+any person or entity for insurance purposes, including use in setting or adjusting a rate, adjusting a claim, or underwriting; and
+(vii)
+any person acting under an authorization from a consumer to use the consumer report of the consumer for employment purposes;
+(5)
+the term
+data breach
+means the loss, theft, or other unauthorized access, other than access that is incidental to the scope of employment, of data containing sensitive personal information, in electronic or printed form, that results in the potential compromise of the confidentiality or integrity of the data; and
+(6)
+the term
+sensitive personal information
+means, with respect to an individual, informationâ
+(A)
+about the individual relating to the education, financial transactions, medical history, criminal history, or employment history of the individual; and
+(B)
+that can be used to distinguish or trace the identity of the individual, including the name, social security number, date and place of birth, motherâs maiden name, and biometric records of the individual.
+(b)
+Data breaches at consumer reporting agencies
+With respect to a data breach at a consumer reporting agency, the consumer reporting agencyâ
+(1)
+subject to paragraph (2), shall notifyâ
+(A)
+not later than 2 days after the date on which the consumer reporting agency discovers the data breachâ
+(i)
+the Federal Trade Commission;
+(ii)
+the Bureau; and
+(iii)
+appropriate law enforcement and intelligence agencies, as identified by the Secretary of Homeland Security; and
+(B)
+not later than 3 days after the date on which the consumer reporting agency discovers the data breach, and as quickly and efficiently as is practicable, each affected individual with respect to the data breach;
+(2)
+may receive an extension of the 2-day deadline described in paragraph (1)(A) or the 3-day deadline described in paragraph (1)(B) if the Federal Trade Commission and the intelligence agencies identified under paragraph (1)(A)(iii) determine that there is a national security concern that requires granting such an extension;
+(3)
+shall, upon request by any affected individual with respect to the data breach, provide, without charge to the affected individual and during the lifetime of the affected individualâ
+(A)
+a credit freeze, including the cost relating to imposing, lifting, or permanently removing a credit freeze, with respect to the consumer report of the affected individual at any consumer reporting agency described in section 603(p); and
+(B)
+credit monitoring services for the affected individual at any consumer reporting agency described in section 603(p); and
+(4)
+shall, in consultation with the Bureau, establish a consumer assistance unitâ
+(A)
+that shallâ
+(i)
+be carried out, and paid for, by the consumer reporting agency; and
+(ii)
+provide assistance, free of charge and for a period of 10 years beginning on the date on which the consumer reporting agency submits the notifications required under paragraph (1)(A), to any affected individual who wants to dispute an item in the file of the affected individual that was entered into that file after the date on which the data breach occurred; and
+(B)
+with respect to which the consumer reporting agency shall, as soon as practicable after the date on which the consumer assistance unit is established, notify each affected individual with respect to the data breach by mail and e-mail.
+(c)
+Enforcement
+(1)
+In general
+Subject to subtitle B of the Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5511
+et seq.), the Federal Trade Commission or the Bureau may bring a civil action to recover a civil penalty in an appropriate district court of the United States against any person that negligently, knowingly, or willingly causes a data breach at a consumer reporting agency.
+(2)
+Penalty amount
+(A)
+In general
+In a successful action brought under paragraph (1), the person against which the action is brought shall be liable for a civil penalty of not more thanâ
+(i)
+$2,500 for each affected individual with respect to the data breach caused by the person; and
+(ii)
+$25,000,000 in total.
+(B)
+Considerations
+In determining the amount of a civil penalty in a successful action brought under paragraph (1), the court shall consider, with respect to the person against which the action is broughtâ
+(i)
+the degree of culpability of the person;
+(ii)
+any history of similar prior conduct by the person;
+(iii)
+the ability of the person to pay;
+(iv)
+the effect of the penalty on the ability of the person to continue to do business; and
+(v)
+any other factor as justice may require.
+(3)
+Private cause of action
+(A)
+Definition
+In this paragraph, the term
+actual loss
+means the total cost to an affected individual as a result of a data breach at a consumer reporting agency, includingâ
+(i)
+the costs incurred by the affected individualâ
+(I)
+in responding to the data breach; and
+(II)
+as a result ofâ
+(aa)
+reviewing accounts of the affected individual for fraudulent charges;
+(bb)
+closing accounts of the affected individual that may have been compromised by the data breach; and
+(cc)
+imposing credit freezes and obtaining credit monitoring services; and
+(ii)
+any revenue lost, or cost or consequential damage incurred, by the affected individual relating to the interruption of the ability of the affected individual to obtain credit.
+(B)
+Cause of action
+(i)
+In general
+An affected individual may bring an action in an appropriate district court of the United States against any person that negligently, knowingly, or willingly caused a data breach at a consumer reporting agency in which the sensitive personal information of the affected individual was lost, stolen, or accessed without authorization.
+(ii)
+Damages
+In a successful action brought by an affected individual under clause (i), the affected individual may recoverâ
+(I)
+the greater ofâ
+(aa)
+the actual loss to the affected individual with respect to the data breach described in that clause; or
+(bb)
+$1,000 in liquidated damages;
+(II)
+punitive damages, as the court may allow; and
+(III)
+the costs of the action, together with reasonable attorneyâs fees, as determined by the court.
+(d)
+Review of compliance with standards for safeguarding customer information
+(1)
+Definition
+In this subsection, the term
+covered person
+has the meaning given the term in section 1002 of the Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5481
+).
+(2)
+Examination
+The Bureau may examine any consumer reporting agency that is a covered person subject to supervision under section 1024 of the Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5514
+) for compliance by that agency with the standards established by the Federal Trade Commission under section 501(b) of the Gramm-Leach-Bliley Act (
+15 U.S.C. 6801(b)
+).
+(e)
+Protection of legal rights of consumers
+A consumer reporting agency may not take a covered actionâ
+(1)
+as a condition of providing any service or product to, or on behalf of, a consumer; and
+(2)
+that relates to the rights of a consumer after a data breach at the consumer reporting agency in which the sensitive personal information of the consumer is lost, stolen, or accessed without authorization.
+(f)
+Annual study and report
+(1)
+In general
+Beginning in the first full year after the date of enactment of this section, and annually thereafter, the Bureau and the Federal Trade Commission, in consultation with the Attorney General, shall conduct a study regarding the costs to affected individuals from data breaches at consumer reporting agencies, includingâ
+(A)
+the economic costs to those affected individuals;
+(B)
+the effects onâ
+(i)
+the ability of those affected individuals to obtain credit and housing; and
+(ii)
+the reputations of those affected individuals; and
+(C)
+the costs relating to the emotional and psychological stress of those affected individuals from having the sensitive personal information of those affected individuals lost, stolen, or accessed without authorization.
+(2)
+Submission to Congress
+Not later than 30 days after the date on which each study conducted under paragraph (1) is completed, the Bureau and the Federal Trade Commission shall submit to the appropriate committees of Congress a report that contains the results of the study.
+(3)
+Contents
+Each study conducted under paragraph (1) and each report submitted under paragraph (2) shall contain a survey of affected individuals who were contacted for the purposes of conducting the study.
+(4)
+Authority
+In conducting any study under paragraph (1), the Bureau, the Federal Trade Commission, and the Attorney General may compel a consumer reporting agency to disclose nonproprietary information.
+(g)
+Rule of construction
+Nothing in this section may be construed as modifying, limiting, or superseding any provision of State law if the protection that the provision of State law provides to consumers is greater than the protection provided to consumers under this section.
+.
+(b)
+Technical and conforming amendment
+The table of contents for the Fair Credit Reporting Act (
+15 U.S.C. 1681
+et seq.) is amended by inserting after the item relating to section 605B the following:
+605C. Data security at consumer reporting agencies.
+.

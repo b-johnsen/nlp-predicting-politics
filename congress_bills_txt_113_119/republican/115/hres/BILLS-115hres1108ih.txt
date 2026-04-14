@@ -1,0 +1,83 @@
+115 HRES 1108 IH: Expressing the sense of the House of Representatives that blockchain has incredible potential that must be nurtured through support for research and development and a thoughtful and innovation-friendly regulatory approach.
+U.S. House of Representatives
+2018-09-28
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+IV
+115th CONGRESS
+2d Session
+H. RES. 1108
+IN THE HOUSE OF REPRESENTATIVES
+September 28, 2018
+Mr. Schweikert
+(for himself,
+Mr. Polis
+, and
+Mr. Emmer
+) submitted the following resolution; which was referred to the
+Committee on Energy and Commerce
+, and in addition to the
+Committee on Science, Space, and Technology
+, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+provisions as fall within the jurisdiction of the committee concerned
+RESOLUTION
+Expressing the sense of the House of Representatives that blockchain has incredible potential that
+must be nurtured through support for research and development and a
+thoughtful and innovation-friendly regulatory approach.
+Whereas blockchain refers to software that uses a distributed digital ledger of cryptographically signed transactions that are grouped into blocks, each of whichâ
+(1)
+is cryptrographically linked to the previous block after validation and undergoing a consensus decision;
+(2)
+when added as a new block, makes any older blocks more difficult to modify; and
+(3)
+is replicated across all copies of the ledger within the relevant network, with any conflicts in such blocks resolved automatically using established rules;
+Whereas blockchain canâ
+(1)
+reduce transaction costs by removing intermediaries;
+(2)
+increase the transparency of a transaction;
+(3)
+reshape value chains;
+(4)
+improve organizational efficiency through trustworthy decentralization;
+(5)
+provide individuals with greater control over personally identifiable information through encryption while conducting transparent, secure, and efficient transactions;
+(6)
+accurately capture asset ownership and location throughout the lifetime of an asset, protecting owners and improving tax compliance;
+(7)
+improve public safety and administration by providing a tamper-proof audit trail;
+(8)
+reduce the efficacy of cyber-attacks by storing data in numerous distributed copies; and
+(9)
+improve the quality of public services by providing a better customer experience and reducing transaction costs;
+Whereas because blockchain is an evolving technology, it requires a framework that facilitates innovation, provides for legal certainty, and respects the principle of technology neutrality while also providing protection for consumers, businesses, investors, society, and the environment;
+Whereas uncertainty related to the application of horizontal regulations related to data protection and taxation can inhibit the development of blockchain;
+Whereas blockchain has the potential to provide widespread, mainstream improvements in digital services;
+Whereas because the risks and challenges of blockchain are not yet known, more research and development is necessary;
+Whereas blockchain has many potential applications, includingâ
+(1)
+production and peer-to-peer exchange of environmentally friendly energy and scalability and flexibility for energy plant operators, suppliers, and consumers;
+(2)
+improvements in the transportation sector, including with respect to mobility and logistics, registration and administration of vehicles, verification of driving distances, smart insurance, and charging of electronic vehicles;
+(3)
+improvements in the healthcare sector, including improved reporting on clinical trials, and digital data exchange controlled by patients;
+(4)
+supply chain improvements, including improved shipment tracking and monitoring, transparency, and compliance with legal and ethical standards;
+(5)
+improvements in education including degree verification, encrypted educational certifications, and credit transfer mechanisms; and
+(6)
+assistance in protecting control of creative content by copyright holders and ensuring copyright holders are compensated for use of the content;
+Whereas blockchain can allow users to control information about themselves shared on the internet, choosing the appropriate degree of transparency for a particular application;
+Whereas blockchain can support the development of a new architecture for digital identities;
+Whereas because digital identities are imperative to the future, best practices should be established to ensure that data is secure;
+Whereas blockchain is protected by cryptography that replaces third-party intermediaries, validating, safeguarding, and preserving transactions;
+Whereas public trust in blockchain is improved by the development and use of open-source protocols and platforms;
+Whereas a smart contract is a collection of code and data stored on blockchain that enables the automatic execution of the terms of a contract upon the occurrence of a pre-programmed condition;
+Whereas a thorough assessment of the potential uses and the legal implications of smart contracts is necessary;
+Whereas it is necessary to closely monitor emerging cyber-threats to ensure the reliability of blockchain platforms;
+Whereas the appropriate agencies should develop mechanisms to stress test blockchain applications;
+Whereas different blockchain processes and applications can benefit from efforts by organizations like the National Institute of Standards and Technology and the International Organization for Standardization in creating common standards to ensure interoperability and efficiency in working with legacy platforms;
+Whereas regulation of blockchain should be innovation friendly and should avoid giving preference to a particular technological approach or business model; and
+Whereas digital skill training is necessary to help make full use of the potential of blockchain; Now, therefore, be it
+That it is the sense of the House of Representatives that blockchain has incredible potential that must be nurtured through support for future research and development and a thoughtful and innovation-friendly regulatory approach.

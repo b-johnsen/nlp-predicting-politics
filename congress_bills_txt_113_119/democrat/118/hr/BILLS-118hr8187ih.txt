@@ -1,0 +1,198 @@
+1.
+Short title
+This Act may be cited as the
+Critical Material Transparency and Reporting in Advanced Clean Energy Act of 2024
+.
+2.
+Advanced energy technology supply chain transparency program
+(a)
+In general
+(1)
+Establishment
+Not later than 1 year after the date of enactment of this Act, the Secretary shall establish and carry out a program to support the development, maintenance, implementation, and adoption of digital identification systems for advanced energy technologies to improve the transparency of the supply chains of advanced energy technologies by tracking and tracing the flow of critical materials used in such technologies.
+(2)
+Financial and technical assistance
+The Secretary may provide financial and technical assistance to entities to support the development, maintenance, implementation, and adoption of digital identification systems under paragraph (1).
+(3)
+Interagency coordination
+The Secretary shall consult with the Administrator of the Environmental Protection Agency, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of Defense, the Secretary of the Interior, the Secretary of Labor, the Secretary of State, the Director of the United States Geological Survey, the Chair of the Federal Trade Commission, and other Federal agencies the Secretary determines are relevant to align the program established under paragraph (1) withâ
+(A)
+any existing regulations, rules, guidelines, and funding opportunities related to advanced energy technologies or critical materials; and
+(B)
+other efforts that support recycling, reuse, refurbishment, repurposing, and the sustainable sourcing, manufacturing, and use of advanced energy technologies.
+(4)
+External engagement
+In establishing and carrying out the program under paragraph (1), the Secretary shall engage with external stakeholders, including potentially impacted communities, digital identification system developers and users, mining organizations, national security organizations, consumer privacy experts, advanced energy technology manufacturers, and nongovernmental organizations.
+(b)
+Digital battery identification systems
+(1)
+In general
+In carrying out the program established under subsection (a), the Secretary shall support the development, maintenance, implementation, and adoption of digital battery identification systems, which shall contain the data and other information required under paragraph (4).
+(2)
+Purposes
+The purposes of a digital battery identification system developed, maintained, implemented, or adopted pursuant to this subsection includeâ
+(A)
+enabling demonstration and verification of compliance with the applicable mineral percentages under section 30D(e) of the Internal Revenue Code (
+26 U.S.C. 30D(e)
+);
+(B)
+enabling and improving effective and responsible battery collection and end-of-life management, including the reuse and recycling of critical materials;
+(C)
+reducing safety concerns relating to the improper disposal of batteries;
+(D)
+improving and harmonizing global supply chain data collection and verification processes; and
+(E)
+enabling the reduction of global greenhouse gas emissions.
+(3)
+Program requirements
+In carrying out paragraph (1), the Secretary shallâ
+(A)
+establish a framework for responsible data governance, including developing, identifying, documenting, and establishing best practices, methods, and standards for data collection, access, ownership, verification, sharing, collation, reporting, and security, including the protection of confidential business information;
+(B)
+engage with stakeholders, including potentially impacted communities, digital identification system developers and users, mining organizations, national security organizations, consumer privacy experts, advanced energy technology manufacturers, in collaborative platforms, including workshops and forums;
+(C)
+consider best practices for use and administration of digital battery identification systems, including display format; and
+(D)
+encourage digital battery identification systems to be comparable and interoperable through harmonized data collection, verification methods, and standards.
+(4)
+Requirements for digital battery identification systems
+A digital battery identification system developed, maintained, implemented, or adopted pursuant to this subsection shallâ
+(A)
+identify and provide detailed information on the battery components and battery materials, including cathode and anode chemistry;
+(B)
+identify the country of origin for each battery component and battery material identified under subparagraph (A);
+(C)
+identify the geographical location of the batteryâs final manufacturing facility and include the full material journey of each battery component and battery material identified under subparagraph (A), which may include locations of extraction, production, processing, manufacturing, recycling, and refurbishment;
+(D)
+identify the recycled content of battery components identified under subparagraph (A);
+(E)
+as applicable, provide the information necessary to demonstrate and verify compliance with the applicable mineral percentages under section 30D(e) of the Internal Revenue Code (
+26 U.S.C. 30D(e)
+);
+(F)
+provide information on how to assemble, disassemble, remove, recycle, repair, repurpose, reuse, and dispose of the battery;
+(G)
+provide appropriate diagnostic, maintenance, safety, and performance data with respect to the battery, including data determined to be useful for facilitating second use applications, such as data on the minimum voltage, rated capacity, date of manufacture, and battery manufacturer;
+(H)
+provide information on, as determined in consultation with the Secretary of State and the Secretary of Laborâ
+(i)
+environmental concerns and impacts, which may include the carbon footprint, related to the full material journey of each battery component and battery material identified under subparagraph (A); and
+(ii)
+any labor and human rights issues and violations related to the processing, manufacturing, and sourcing of each battery component and battery material identified under subparagraph (A);
+(I)
+not collect or share data that risks consumer privacy; and
+(J)
+provide any other information the Secretary determines necessary to meet the purposes described in paragraph (2).
+(5)
+Other standards and laws
+The development, maintenance, implementation, and adoption of digital battery identification systems pursuant to this subsection shall be compatible withâ
+(A)
+the labeling guidelines and other forms of communication materials developed pursuant to section 70401(c) of the Infrastructure Investment and Jobs Act (
+42 U.S.C. 6966c(c)
+);
+(B)
+international standards and programs relevant to battery labeling and digital identification systems;
+(C)
+the Mercury-Containing and Rechargeable Battery Management Act (
+42 U.S.C. 14301 et seq.
+); and
+(D)
+other relevant standards and laws as determined appropriate by the Secretary.
+(6)
+Financial and technical assistance
+(A)
+In general
+The Secretary may provide financial and technical assistance to entities under this subsection to support the development, maintenance, implementation, and adoption of digital battery identification systems.
+(B)
+Inclusions
+Financial and technical assistance provided under this paragraph may includeâ
+(i)
+grants and other types of financial assistance; and
+(ii)
+conducting outreach and education on digital battery identification systems.
+(c)
+Report to Congress
+Not later than 4 years after the date of enactment of this Act, the Secretary shall submit to Congress a report describing the activities of the program established under subsection (a).
+(d)
+Authorization of appropriations
+There is authorized to be appropriated to the Secretary to carry out this Act $20,000,000 for each of fiscal years 2024 through 2028.
+(e)
+Definitions
+In this section:
+(1)
+Advanced energy technology
+The term
+advanced energy technology
+â
+(A)
+meansâ
+(i)
+a technology used to produce energy from the sun, water, wind, a geothermal or hydrothermal resource, an enhanced geothermal system, or another renewable resource;
+(ii)
+a microturbine or energy storage system, including a fuel cell and battery;
+(iii)
+electric grid modernization equipment;
+(iv)
+technology used to capture, remove, use, or sequester carbon dioxide;
+(v)
+equipment that refines, electrolyzes, or blends any fuel, chemical, or product that isâ
+(I)
+renewable; or
+(II)
+low-carbon and low-emission;
+(vi)
+an energy conservation technology, including such a technology used for residential, commercial, or industrial applications;
+(vii)
+a light-, medium-, or heavy-duty electric or fuel cell vehicle, an electric or fuel cell locomotive, an electric or fuel cell maritime vessel, or an electric or fuel cell plane, including charging or refueling infrastructure associated with such a vehicle, locomotive, maritime vessel, or plane; or
+(viii)
+a hybrid vehicle with a gross vehicle weight rating of not less than 14,000 pounds, including charging or refueling infrastructure associated with such a hybrid vehicle; and
+(B)
+includes any other technology that is designed to reduce greenhouse gas emissions, as determined by the Secretary.
+(2)
+Battery
+The term
+battery
+means a device thatâ
+(A)
+consists of 1 or more electrochemical cells that are electrically connected;
+(B)
+stores and delivers electric energy; and
+(C)
+has a capacity of at least 2 kilowatt-hours.
+(3)
+Battery component
+The term
+battery component
+â
+(A)
+means a component of a battery; and
+(B)
+includes materials, enhancements, enclosures, anodes, cathodes, electrolytes, cells, and other associated technologies that comprise a battery.
+(4)
+Battery material
+The term
+battery material
+means the raw and processed form of a mineral, metal, chemical, or other material used in a battery component.
+(5)
+Critical material
+The term
+critical material
+has the meanings given such term in section 7002(a) of the Energy Act of 2020 (
+30 U.S.C. 1606(a)
+).
+(6)
+Geothermal; hydrothermal; enhanced geothermal system
+The terms
+geothermal
+,
+hydrothermal
+, and
+enhanced geothermal system
+have the meanings given such terms in section 612 of the Energy Independence and Security Act of 2007 (
+42 U.S.C. 17191
+).
+(7)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.

@@ -1,0 +1,1539 @@
+1.
+Short title; table of contents; definitions
+(a)
+Short title
+This Act may be cited as the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents; definitions.
+Sec. 2. Definitions.
+Sec. 3. Chemical Facility Anti-Terrorism Standards Program requirements.
+Sec. 4. Purpose.
+Sec. 5. Employee input regarding security measures.
+Sec. 6. Strategy to improve cybersecurity and outreach to local emergency responders.
+Sec. 7. Site security plan assessments.
+Sec. 8. Expedited approval program.
+Sec. 9. CFATS recognition program.
+Sec. 10. Standards for auditors and inspectors.
+Sec. 11. Personnel surety program.
+Sec. 12. Security risk assessment approach and corresponding tiering methodology.
+Sec. 13. Data collection, recording, and lessons learned.
+Sec. 14. Semiannual performance reporting.
+Sec. 15. Responsibilities of the Secretary.
+Sec. 16. Amendments relating to Appendix A of part 27 of title 6, United States Code.
+Sec. 17. Informal consultations and assessments.
+Sec. 18. Protection and sharing of information.
+Sec. 19. CFATS regulations.
+Sec. 20. Employee awareness.
+Sec. 21. Notification relating to the Chemical Facility Anti-Terrorism Standards Program.
+Sec. 22. Bidirectional information sharing platform.
+Sec. 23. Updated retrospective estimate on costs.
+Sec. 24. CFATS security harmonization waiver program.
+Sec. 25. Implementation plan and report to Congress.
+Sec. 26. Effective date.
+Sec. 27. Termination.
+Sec. 28. Technical and conforming amendment.
+(c)
+Definitions
+In this Act:
+(1)
+Appropriate congressional committees
+The term
+appropriate congressional committees
+meansâ
+(A)
+the Committee on Homeland Security and Governmental Affairs of the Senate;
+(B)
+the Committee on Homeland Security of the House of Representatives; and
+(C)
+the Committee on Energy and Commerce of the House of Representatives.
+(2)
+Chemical Facility Anti-Terrorism Standards Program
+The term
+Chemical Facility Anti-Terrorism Standards Program
+means the Chemical Facility Anti-Terrorism Standards Program established under section 2102(a) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(a)
+).
+(3)
+Chemical facility of interest; chemical of interest; covered chemical facility
+The terms
+chemical facility of interest
+,
+chemical of interest
+, and
+covered chemical facility
+have the meanings given those terms in section 2101 of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+), as amended by section 2 of this Act.
+(4)
+Lessons learned
+The term
+lessons learned
+means the lessons learned, developed, and disseminated by the Secretary under section 2103(e)(4) of the Homeland Security Act of 2002, as added by section 13 of this Act.
+(5)
+Secretary
+The term
+Secretary
+means the Secretary of Homeland Security.
+2.
+Definitions
+(a)
+In general
+Section 2101 of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+) is amendedâ
+(1)
+in paragraph (2)(A), by striking
+, as designated under Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto,
+;
+(2)
+by striking paragraph (14);
+(3)
+by redesignating paragraphs (10) through (13) as paragraphs (13) through (16), respectively;
+(4)
+by redesignating paragraph (9) as paragraph (11);
+(5)
+by redesignating paragraphs (3) through (8) as paragraphs (4) through (9), respectively;
+(6)
+by inserting after paragraph (2) the following:
+(3)
+the term
+chemical of interest
+means a chemical designated as a chemical of interest under Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto;
+;
+(7)
+in paragraph (9), as so redesignated, by striking
+section 2102(c)(4)(B)(i)
+and inserting
+section 2102(c)(4) by the Secretary that identifies specific security measures that are sufficient to meet the risk-based performance standards for facilities in tiers 3 and 4 that elect to utilize the expedited approval program
+;
+(8)
+by inserting after paragraph (9), as so redesignated, the following:
+(10)
+the term
+hybrid physical-cybersecurity vulnerability
+â
+(A)
+means a vulnerability in the security of a covered chemical facility that relates to the combination of the physical operations and cybersecurity operations of the covered chemical facility; and
+(B)
+includes a vulnerability of a covered chemical facility toâ
+(i)
+a physical threat to a cybersecurity operation affecting the chemical of interest of the covered chemical facility; or
+(ii)
+a cybersecurity threat to a physical operation of the covered chemical facility;
+;
+(9)
+by inserting after paragraph (11), as so redesignated, the following:
+(12)
+the term
+security vulnerability assessment
+means an assessment of the vulnerabilities of a covered chemical facility toâ
+(A)
+physical threats; and
+(B)
+cybersecurity threats relating toâ
+(i)
+the information technology or operational technology of the covered chemical facility; and
+(ii)
+(I)
+a chemical of interest;
+(II)
+an operation involving a chemical of interest; or
+(III)
+a security measure of the covered chemical facility;
+;
+(10)
+in paragraph (15), as so redesignated, by inserting
+and
+after the semicolon; and
+(11)
+in paragraph (16), as so redesignated, by striking
+; and
+and inserting a period.
+(b)
+Conforming amendments
+Title XXI of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+et seq.) is amendedâ
+(1)
+in section 2102(e)(5)(B)(i)(I)(bb) (6 U.S.C. 622(e)(5)(B)(i)(I)(bb)), as so redesignated by section 13 of this Act, by striking
+section 2101(3)
+and inserting
+section 2101(4)
+; and
+(2)
+in section 2103 (
+6 U.S.C. 623
+)â
+(A)
+in subsection (a), by inserting
+security
+before
+vulnerability assessments
+; and
+(B)
+in subsection (d), by inserting
+security
+before
+vulnerability assessments
+.
+3.
+Chemical Facility Anti-Terrorism Standards Program requirements
+Section 2102(a)(2)(C) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(a)(2)(C)
+) is amended by inserting
+eliminate or mitigate physical, cybersecurity, and hybrid physical-cybersecurity vulnerabilities in order to
+before
+address
+.
+4.
+Purpose
+Section 2102(a) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(a)
+) is amended by adding at the end the following:
+(3)
+Purpose
+The purpose of the Chemical Facility Anti-Terrorism Standards Program is toâ
+(A)
+enhance the security of the United States by lowering the security risks posed by chemicals designated under Appendix A to part 27 of title 6, United States Code, or any successor thereto, at covered chemical facilities; and
+(B)
+prevent the chemicals described in subparagraph (A) from being exploited in terrorist attacks.
+.
+5.
+Employee input regarding security measures
+Section 2102(b) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(b)
+) is amended by striking paragraph (2) and inserting the following:
+(2)
+Employee input
+(A)
+In general
+The security vulnerability assessment and site security plan of a covered chemical facility shall include input from not less than 1 employee of the covered chemical facility, and, where applicable, 1 employee representative from the bargaining agent at that covered chemical facility, each of whom possesses chemical terrorism vulnerability information training and, in the determination of the security officer of the covered chemical facility, relevant knowledge, experience, or education as pertains to matters of site security.
+(B)
+Scope of employee consultation
+Any recommendation offered by an employee or employee representative under this paragraphâ
+(i)
+shall be limited to the purpose of the development of the security vulnerability assessment and site security plan of the covered chemical facility as required under this title; and
+(ii)
+shall not be considered protected information or a protected disclosure under section 2105.
+(C)
+Employee awareness
+The Secretary shall produce a poster for display in a restricted area of a covered chemical facility that is accessible to employees of the covered chemical facility to inform those employees of the consultation requirements under this paragraph.
+.
+6.
+Strategy to improve cybersecurity and outreach to local emergency responders
+(a)
+Strategy
+Not later than 1 year after the date of enactment of this Act, and every 2 years thereafter, the Secretary shall issue a strategy that includes the strategic and operational goals and priorities of the Department of Homeland Security for covered chemical facilities to improve the cybersecurity of covered chemical facilities and the sharing of information with the local emergency manager, the local emergency response provider, and any on site emergency response provider for a covered chemical facility.
+(b)
+Contents
+The strategy issued under subsection (a) shall includeâ
+(1)
+an unclassified assessment of cybersecurity threats relating toâ
+(A)
+the information technology or operational technology affecting the security risk of a chemical of interest of the covered chemical facility;
+(B)
+processes and operations relating to a chemical of interest; and
+(C)
+security measures of the covered chemical facility relating to a chemical of interest;
+(2)
+processes for periodic mitigation of security vulnerabilities, as defined in section 102 of the Cybersecurity Information Sharing Act of 2015 (
+6 U.S.C. 1501
+), to the information technology or operational technology affecting the security risk of a chemical of interest of the covered chemical facility to cybersecurity threats that affect the processes and operations relating to a chemical of interest or the security measures of the covered chemical facility relating to a chemical of interest;
+(3)
+guidance on further improving outreach to the local emergency manager, the local emergency response provider, and any on site emergency response provider for a covered chemical facility, which shall includeâ
+(A)
+a statement of the name or title, organizational affiliation, and phone number of a local emergency manager or local emergency response provider, and any on site emergency response provider, for the covered chemical facility;
+(B)
+the documented policy of the covered chemical facility to coordinate access to the facility with the local emergency manager, local emergency response provider, and any on site emergency response provider described in subparagraph (A), for purposes of training and pre-incident planning; and
+(C)
+written documentation by the covered chemical facility that the owner or operator has provided the local emergency manager or local emergency response provider with need to know (within the meaning of section 27.400(e) of title 6, Code of Federal Regulations, or any successor thereto) and appropriate chemical-terrorism vulnerability information credentials the name and amount of each chemical of interest held, stored, or manufactured at the covered chemical facility.
+(c)
+Stakeholder input
+In issuing the strategy issued under subsection (a), the Secretary shall solicit input from covered chemical facilities and local emergency managers, local emergency response providers, and on site emergency response providers for covered chemical facilities.
+7.
+Site security plan assessments
+Section 2102(c)(3) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(c)
+) is amendedâ
+(1)
+in subparagraph (B), by striking
+2014
+and inserting
+2020
+; and
+(2)
+by adding at the end the following:
+(C)
+Review of compliance
+In approving or disapproving a site security plan under this subsection, the Secretary shall confirm that the covered chemical facility has complied with the employee consultation requirements under subsection (b)(2), including by reviewing and recording compliance with the documentation requirements under subsection (b)(2)(D).
+.
+8.
+Expedited approval program
+Section 2102(c)(4) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(c)(4)
+) is amendedâ
+(1)
+in subparagraph (A)(i), by striking
+subparagraph (C)
+and inserting
+subparagraph (C)(i)
+;
+(2)
+in subparagraph (B)â
+(A)
+in clause (i), by striking
+Not later than
+and all that follows through
+the Secretary shall issue
+and inserting
+The Secretary shall maintain
+; and
+(B)
+by striking clause (iii);
+(3)
+in subparagraph (C)â
+(A)
+in clause (iii), by redesignating subclauses (I) through (III) as items (aa) through (cc), respectively, and adjusting the margins accordingly;
+(B)
+by redesignating clauses (i) through (viii) as subclauses (I) through (VIII), respectively, and adjusting the margins accordingly;
+(C)
+in the matter preceding subclause (I), as so redesignated, by striking
+The owner
+and inserting the following:
+(i)
+In general
+The owner
+; and
+(D)
+by adding at the end the following:
+(ii)
+Risk-based performance standards
+In submitting a site security plan and certification under subparagraph (A)(i), an owner or operator of an expedited approval facility shall use the guidance for expedited approval facilities to determine appropriate measures for the site security plan of the expedited approval facility.
+;
+(4)
+in subparagraph (D)â
+(A)
+in clause (i), by striking
+subparagraph (C)
+and inserting
+subparagraph (C)(i)
+; and
+(B)
+in clause (iii)â
+(i)
+by striking
+30
+and inserting
+15
+; and
+(ii)
+by striking
+subparagraph (C)
+and inserting
+subparagraph (C)(i)
+;
+(5)
+in subparagraph (E)(i), in the matter preceding subclause (I), by striking
+(C)
+and inserting
+(C)(i)
+;
+(6)
+in subparagraph (F)(i)(I), by striking
+subparagraph (C)
+and inserting
+subparagraph (C)(i)
+; and
+(7)
+by striking subparagraph (I) and inserting the following:
+(I)
+Notice by the Secretary
+The Secretary shall provide notice to each covered chemical facility of the expedited approval program under this paragraph.
+.
+9.
+CFATS recognition program
+(a)
+In general
+Section 2102(c) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(c)
+) is amended by adding at the end the following:
+(5)
+CFATS recognition program
+(A)
+Definitions
+In this paragraphâ
+(i)
+the term
+CFATS Recognition Program
+means the program established under subparagraph (B);
+(ii)
+the term
+participating facility
+means a covered chemical facility that is a member of a participating industry stewardship program;
+(iii)
+the term
+participating industry stewardship program
+means an industry stewardship program thatâ
+(I)
+meets the eligibility requirements under subparagraph (C)(i); and
+(II)
+is reviewed and certified by the Secretary to participate in the CFATS Recognition Program; and
+(iv)
+the term
+sponsor organization
+means the governing body of a participating industry stewardship program.
+(B)
+Establishment
+(i)
+In general
+Not later than 2 years after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall prescribe regulations, including guidance if appropriate, to establish a program that shall be known as the CFATS Recognition Programâ
+(I)
+with the goal of leveraging current and future industry stewardship programs to further enhance the security at covered chemical facilities;
+(II)
+to provide incentives for greater regulatory relief while ensuring that the overarching security objectives of the Chemical Facility Anti-Terrorism Standards Program are satisfied; and
+(III)
+under which the Secretary shallâ
+(aa)
+establishâ
+(AA)
+eligibility criteria under subparagraph (C)(i) for industry stewardship programs seeking to participate in the CFATS Recognition Program; and
+(BB)
+performance requirements under subparagraph (C)(ii) for participating facilities;
+(bb)
+provide incentives under subparagraph (C)(iii) to encourage participation in the CFATS Recognition Program; and
+(cc)
+prescribe such regulations and guidance as the Secretary determines to be necessary or appropriate for the implementation of the CFATS Recognition Program.
+(ii)
+Interim rules
+The Secretary may issue the regulations required under clause (i) by interim final rule to the extent necessary to expedite the establishment of the CFATS Recognition Program under that clause.
+(iii)
+Applicability of other laws
+During the period before the Secretary has met the deadline under clause (i), in developing and prescribing, or amending, the regulations relating to carrying out the CFATS Recognition Program and collecting information from industry stewardship programs, sponsor organizations, and participating facilities, the Secretary shall not be subject toâ
+(I)
+section 553 of title 5, United States Code;
+(II)
+subchapter I of
+chapter 35
+of title 44, United States Code; or
+(III)
+section 2107(b) of this Act.
+(C)
+Eligibility criteria; facility performance requirements; incentives
+(i)
+Eligibility criteria for industry stewardship programs
+Not later than 2 years after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall establish minimum eligibility criteria for industry stewardship programs desiring to be considered by the Secretary for participation in the CFATS Recognition Program that shall includeâ
+(I)
+a requirement that any industry stewardship program desiring to participate in the CFATS Recognition Program be governed by an industry association or technical organization that is an entity described in paragraph (3) or (6) of
+section 501(c)
+of the Internal Revenue Code of 1986;
+(II)
+a documented top management commitment to chemical facility security; and
+(III)
+criteria relating toâ
+(aa)
+program auditing requirements and frequency;
+(bb)
+security vulnerability assessment requirements and frequency;
+(cc)
+security measures that align with the risk-based performance standards established under subsection (a)(2)(C); and
+(dd)
+reporting required to be done by any industry stewardship program desiring to participate in the CFATS Recognition Program.
+(ii)
+Performance requirements for participating facilities
+The Secretary shall require that each participating facilityâ
+(I)
+submit an acknowledgment by the sponsor organization of the participating industry steward program, of which the participating facility is a member, that the participating facility isâ
+(aa)
+a member in good standing of the participating industry stewardship program; and
+(bb)
+in full compliance with the requirements of the participating industry stewardship program; and
+(II)
+promptly notify the Secretary if the participating facility ceases to beâ
+(aa)
+a member in good standing of the participating industry stewardship program; or
+(bb)
+in full compliance with the requirements of the participating industry stewardship program.
+(iii)
+Program incentives
+Not later than 2 years after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shallâ
+(I)
+establish incentives for participation in the CFATS Recognition Program, which shall includeâ
+(aa)
+a reduction in the frequency of compliance inspections through adjustments to the inspection frequency algorithm of the Department, except with respect to any inspectionâ
+(AA)
+relating to a planned measure in the site security plan of a participating facility that has not been fully implemented; or
+(BB)
+of a participating facility that is not in full compliance with the requirements under the Chemical Facility Anti-Terrorism Standards Program;
+(bb)
+streamlined vulnerability assessment and site security plan processes; and
+(cc)
+any other regulatory relief as determined appropriate by the Secretary; and
+(II)
+provide written guidance on any incentive established under subclause (I).
+(D)
+Evaluation
+Not later than 1 year after the date on which the CFATS Recognition Program is established under subparagraph (B)(i), the Secretary shall provide a briefing to the appropriate congressional committees on the progress in carrying out the CFATS Recognition Program.
+.
+(b)
+GAO review and report
+(1)
+Review
+Not later than 3 years after the date on which the Secretary establishes the CFATS Recognition Program under paragraph (5) of section 2102(c) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(c)
+), as added by subsection (a), the Comptroller General of the United States shall conduct a review of the program, which shall includeâ
+(A)
+an assessment of the effectiveness of the program, includingâ
+(i)
+the result of leveraging industry stewardship programs to further secure covered chemical facilities;
+(ii)
+any security improvements or deficiencies at covered chemical facilities participating in the program; and
+(iii)
+the estimated cost savings of the program to the Federal Government;
+(B)
+recommendations on additional incentives that the Secretary should provide for covered chemical facilities participating in the program; and
+(C)
+recommendations for any changes to the program.
+(2)
+Report
+Not later than 270 days after the date on which the Comptroller General of the United States begins the review required under paragraph (1), the Comptroller General shall submit to the appropriate congressional committees a report on the review.
+10.
+Standards for auditors and inspectors
+Section 2102(d)(1) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(d)(1)
+) is amendedâ
+(1)
+in subparagraph (D), by inserting
+, or any successor organization,
+after
+Infrastructure Security Compliance Division
+each place that term appears;
+(2)
+in subparagraph (E)â
+(A)
+by redesignating clauses (i) through (vii) as subclauses (I) through (VII), respectively, and adjusting the margins accordingly;
+(B)
+in the matter preceding subclause (I), as so redesignated, by striking
+The Secretary
+and inserting the following:
+(i)
+In general
+The Secretary
+;
+(C)
+in clause (i), as so designatedâ
+(i)
+in subclause (I), as so redesignated, by striking the semicolon at the end and inserting the following: âthat includeâ
+(aa)
+requirements relating to trainingâ
+(AA)
+in inspection methods evaluating performance-based measures to determine whether a chemical facility is in compliance with this title, including examples of such training; and
+(BB)
+with respect to consistency in the application of inspection methods described in subitem (AA); and
+(bb)
+requirements relating to training in alternative security plans and programs;
+;
+(ii)
+in subclause (II), as so redesignated, by inserting
+, including periodic performance reviews of each such individual
+after
+retraining requirements
+;
+(iii)
+in subclause (VI), as so redesignated, by striking
+and
+;
+(iv)
+by redesignating subclause (VII), as so redesignated, as subclause (VIII); and
+(v)
+by inserting after subclause (VI), as so redesignated, the following:
+(VII)
+a requirement that each such individual who is not a trained auditor or inspector carry out inspections as a trainee to an experienced auditor or inspector until the experienced auditor or inspector ensures that the trainee is qualified to carry out any other audit or inspection under this subsection; and
+; and
+(D)
+by adding at the end the following:
+(ii)
+Annual review
+(I)
+In general
+Not later than 2 years after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, and every 2 years thereafter, the Secretary shall conduct a review of audits and inspections carried out under this subsection to evaluate the consistency of the manner in which auditors and inspectors carry out the audits and inspections, which shall include an analysis of any inconsistency in the manner in which the auditors and inspectors carry out the audits and inspections in different regions of the United States.
+(II)
+Briefing
+Not later than 60 days after the date on which each review is conducted under subclause (I), the Secretary shall brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives on the results of the review.
+(III)
+Incorporation in training
+The Secretary shall, as appropriate, incorporate the findings of each review under subclause (I) in developing the standards for the training and retraining of auditors and inspectors under clause (i).
+(iii)
+Definition
+In this subparagraph, the term
+trained auditor or inspector
+means an individual whoâ
+(I)
+has completed the training required to be an auditor or inspector used by the Department; and
+(II)
+is or was used as an auditor or inspector by the Department on or before the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+.
+; and
+(3)
+by adding at the end the following:
+(G)
+Evaluation standard
+(i)
+In general
+Not later than 1 year after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall develop an official standard to evaluate the consistency of the manner in which auditors and inspectors carry out the audits and inspections under this subsection.
+(ii)
+Briefing
+Not later than 3 months after the Secretary develops the standard under clause (i), the Secretary shall brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives on the standard.
+.
+11.
+Personnel surety program
+(a)
+In general
+Section 2102(d)(2) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(d)(2)
+) is amendedâ
+(1)
+in subparagraph (A)â
+(A)
+in clause (i)â
+(i)
+by inserting
+to the Secretary for vetting
+after
+information about an individual
+; and
+(ii)
+by striking
+1 time;
+and inserting the following:
+1 time, except that the covered chemical facility shall supply additional information requested by the Secretary ifâ
+(I)
+any information submitted about an individual with access to restricted areas and critical assetsâ
+(aa)
+is incorrect or incomplete; or
+(bb)
+changes;
+(II)
+an individual who previously had access to restricted areas and critical assets, no longer has such access;
+(III)
+an individual regains access to restricted areas and critical assets; or
+(IV)
+the Secretary requests information toâ
+(aa)
+verify compliance with screening for terrorist ties under the Personnel Surety Program; or
+(bb)
+complete or respond to terrorist ties vetting;
+; and
+(B)
+in clause (ii), by inserting
+who will have access to restricted areas and critical assets,
+after
+about an individual
+;
+(2)
+in subparagraph (B)(i)(I), by inserting
+, provided that, if an individual screened through the Federal screening program legally changes his or her name, the owner or operator of the covered chemical facility may not rely on a credential containing the previous name of the individual after the date that 90 days after the date on which the owner or operator is notified of the change in the name of the individual
+before the semicolon; and
+(3)
+by adding at the end the following:
+(D)
+Requirement to update
+Not later than 30 days after the date on which the Secretary receives additional information requested by the Secretary under subparagraph (A)(i)(I), the Secretary shall update the information accordingly within the terrorist screening database, which shall include removing an individual from the terrorist screening database if the individual no longer has access to a restricted area or critical asset and adding an individual to the terrorist screening database if the individual regains that access.
+(E)
+Timeline for Tier 3 and 4 facilities
+(i)
+In general
+Not later than 7 years after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall implement the Personnel Surety Program established under subparagraph (A) with respect to covered chemical facilities assigned to tier 3 and tier 4 at which the Personnel Surety Program is not implemented as of the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, except that the Secretary may not, in any fiscal year, implement the Personnel Surety Program with respect to more than 15 percent of such covered chemical facilities, except that if an owner or operator of any such covered chemical facility voluntarily chooses to implement the Personnel Surety Program, such covered chemical facility shall not be counted against that percent.
+(ii)
+Federal information policy
+The Secretary shall not be subject to subchapter I of
+chapter 35
+of title 44, United States Code, until the date that is 3 years after the date on which clause (i) is implemented.
+(F)
+Briefing to Congress
+Not later than 1 year after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, and annually thereafter until the Personnel Surety Program established under subparagraph (A) is implemented with respect to all covered chemical facilities assigned to tier 3 and 4 at which the Personnel Surety Program is not implemented as of the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives on the implementation of the Personnel Surety Program, includingâ
+(i)
+the effectiveness of the Personnel Surety Program;
+(ii)
+the cost of the Personnel Surety Program; and
+(iii)
+the results of implementing the Personnel Surety Program.
+.
+(b)
+Guidance
+Not later than 270 days after the date of enactment of this Act, the Secretary shall develop and make publicly available written guidance for seasonal employees of covered chemical facilities for purposes of complying with the requirements under section 2102(d)(2) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(d)(2)
+), as amended by subsection (a).
+12.
+Security risk assessment approach and corresponding tiering methodology
+Section 2102(e) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(e)
+) is amendedâ
+(1)
+in paragraph (2)(A), by striking
+develop
+and inserting
+maintain
+; and
+(2)
+in paragraph (3)â
+(A)
+in subparagraph (B)â
+(i)
+by striking
+information on
+and all that follows through the end and inserting
+information onâ
+; and
+(ii)
+by adding at the end the following:
+(i)
+how the Secretary confirmed the information was the basis for the change or determination described in subparagraph (A);
+(ii)
+all relevant inputs and assumptions under the tiering methodology;
+(iii)
+the rationale for each of those relevant inputs and assumptions;
+(iv)
+the output of the tiering methodology; and
+; and
+(B)
+by adding at the end the following:
+(C)
+Notice
+(i)
+In general
+If an owner or operator of a chemical facility of interest submits a Top-Screen and the Secretary has not made a determination with respect to the tiering of the chemical facility of interest, or notified the owner or operator of any specific deficiency or omission of required information in the Top-Screen, by the date that is 1 year after the date on which the owner or operator submitted the Top-Screen, the Secretary shall, in writing, notify the owner or operator thatâ
+(I)
+the Secretary has not made such a determination; and
+(II)
+the chemical facility of interest is no longer pending tiering determination but, until further notice, is deemed a chemical facility of interest.
+(ii)
+Retroactivity
+With respect to each owner and operator of a chemical facility of interest who submitted a Top-Screen on or before the date that is 1 year before the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, if the Secretary has not made a determination with respect to the tiering of the chemical facility or notified the owner or operator of any specific deficiency or omission of required information in the Top-Screen as of such date of enactment, the Secretary shall provide the notification described in clause (i) to the owner and operator.
+(D)
+Reports
+(i)
+Reports to chemical facilities
+(I)
+In general
+Not later than 60 days after the Secretary makes a determination that tiering for a covered chemical facility is changed, or that a covered chemical facility is no longer subject to the requirements under this title, the Secretary shall, upon the request of the owner or operator of the covered chemical facility, submit to the owner or operator of the covered chemical facility a written report that containsâ
+(aa)
+the information described in subparagraphs (A) and (B); and
+(bb)
+a controlled unclassified statementâ
+(AA)
+of the criteria under paragraph (2)(B) and how the security risk of terrorism associated with the covered chemical facility was evaluated under those criteria; and
+(BB)
+that includes any chemical-terrorism vulnerability information (as defined in section 27.105 of title 6, Code of Federal Regulations, or any successor thereto) relating to the determination.
+(II)
+Public disclosure
+Each report submitted to an owner or operator of a covered chemical facility to which the report pertains under subclause (I) shall be protected from public disclosure under section 2103.
+(ii)
+Congressional notification
+If an owner or operator of a chemical facility of interest submits a Top-Screen and the Secretary has not made a determination with respect to the tiering of the chemical facility of interest or notified the owner or operator of any specific deficiency or omission of required information in the Top-Screen by the date that is 270 days after the date on which the owner or operator submitted the Top-Screen, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representativesâ
+(I)
+a written notification that the Secretary has not made the determination or issued the notification, as applicable; and
+(II)
+an explanation of why the Secretary has not made the determination or issued the notification, as applicable.
+.
+13.
+Data collection, recording, and lessons learned
+Section 2102(e) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(e)
+), as amended by section 12 of this Act, is amendedâ
+(1)
+in paragraph (3)â
+(A)
+in subparagraph (A)â
+(i)
+by redesignating clauses (i) and (ii) as clauses (ii) and (iii), respectively;
+(ii)
+by inserting before clause (ii), as so redesignated, the following:
+(i)
+the Secretary determines that a facility that was a covered chemical facility no longer presents a high level of security risk;
+; and
+(iii)
+in clause (iii), as so redesignated, by inserting
+or chemical facility of interest
+after
+covered chemical facility
+;
+(B)
+in subparagraph (B), as amended by section 12 of this Act, by adding at the end the following:
+(v)
+any action taken or practice employed by a facility described in subparagraph (A)(i) to reduce or remove terrorism-related chemical security risks.
+; and
+(C)
+by adding at the end the following:
+(E)
+Treatment of certain information
+(i)
+Protected information
+Information described in subparagraph (B) shall be protected from public disclosure in accordance with section 2103(a).
+(ii)
+Federal information policy
+In collecting information under subparagraph (B)(v), the Secretary shall not be subject to subchapter I of
+chapter 35
+of title 44, United States Code.
+;
+(2)
+by redesignating paragraph (4) as paragraph (5);
+(3)
+by inserting after paragraph (3) the following:
+(4)
+Lessons learned relating to reducing chemical security risks
+(A)
+In general
+Based on the information maintained under paragraph (3)(B)(v) relating to actions taken and practices employed by facilities described in paragraph (3)(A)(i) to successfully reduce, remove, or otherwise prevent chemical security risks, the Secretary shallâ
+(i)
+develop, and, not less frequently than every 2 years, update, publicly available lessons learned that voluntarily may be used to assist owners and operators of covered chemical facilities and chemical facilities of interest in preventing and reducing chemical security risks; and
+(ii)
+disseminate the lessons learned and developed under clause (i) to owners and operators of covered chemical facilities and chemical facilities of interest through an appropriate medium or system, including by making the lessons learned available to the public to the greatest extent practicable.
+(B)
+Treatment of sensitive information
+In developing and disseminating the lessons learned under subparagraph (A), the Secretary shall protect from public disclosureâ
+(i)
+security vulnerability assessments, site security plans, and all other security-related information, records, and documents; and
+(ii)
+any information from which the identity of the covered chemical facility or chemical facility of interest could be reasonably ascertained.
+; and
+(4)
+in paragraph (5)(B)(i)(I), as so redesignatedâ
+(A)
+in item (aa), by striking
+or
+;
+(B)
+in item (bb), by striking
+and
+and inserting
+or
+; and
+(C)
+by adding at the end the following:
+(cc)
+determined that a facility that was a covered chemical facility no longer presents a high level of security risk.
+.
+14.
+Semiannual performance reporting
+Section 2102(e)(5) of the Homeland Security Act of 2002, as so redesignated by section 13 of this Act, is amendedâ
+(1)
+in the matter preceding subparagraph (A), by striking
+2014
+and inserting
+2020
+;
+(2)
+by striking subparagraph (C);
+(3)
+by redesignating subparagraph (D) as subparagraph (C);
+(4)
+by inserting after subparagraph (C), as so redesignated, the following:
+(D)
+the effectiveness of the Chemical Facility Anti-Terrorism Standards Program atâ
+(i)
+managing security risks; and
+(ii)
+developing and using appropriate metrics and analysis capabilities to measure risk reduction attributable to the Chemical Facility Anti-Terrorism Standards Program, includingâ
+(I)
+analysis capabilities relating to a reduction in the vulnerability of high-risk covered chemical facilities to terrorist attack; and
+(II)
+outcome metrics that measure cumulative risk reduction over time for high-risk covered chemical facilities;
+;
+(5)
+by striking subparagraph (E);
+(6)
+by redesignating subparagraph (F) as subparagraph (E);
+(7)
+in subparagraph (E), as so redesignated, by striking the period at the end and inserting a semicolon; and
+(8)
+by adding at the end the following:
+(F)
+the number of chemical facilities of interest that have submitted Top-Screens and are awaiting tiering designation;
+(G)
+with respect to each chemical facility of interest described in subparagraph (F), the number of days during which the tiering designation for the chemical facility of interest has been pending;
+(H)
+information relating to covered products or mixtures, as defined in paragraph (7)(A), that the Secretary has excluded from the designation as chemicals of interest for purposes of the definition of the term
+chemical facility of interest
+, includingâ
+(i)
+the total number of petitions submitted under the regulations prescribed under paragraph (5)(C);
+(ii)
+the total number of covered products or mixtures that the Secretary has affirmatively excluded from the designation;
+(iii)
+the rationale for affirmatively excluding each covered product or mixture for which a petition described in clause (i) was submitted; and
+(iv)
+the rationale for not affirmatively excluding each covered product or mixture for which a petition described in clause (i) was submitted;
+(I)
+information related to the security harmonization waiver program established under section 2114, includingâ
+(i)
+the total number of covered chemical facilities that have applied for a waiver under that section;
+(ii)
+the total number of covered chemical facilities that the Secretary has granted a waiver under that section;
+(iii)
+the total number of waivers applied for and, separately, total number of waivers granted for all or part of the regulatory requirements under this title;
+(iv)
+the rationale for granting a covered facility a waiver; and
+(v)
+the rationale for not granting a covered chemical facility a waiver; and
+(J)
+the number of individuals who have been checked for possible ties to terrorism via the terrorist screening database and, of those individuals, the number of positive matches, provided that such information shall be submitted in a separate annex to the report, which may contain national security information, and appropriately safeguarded from public disclosure.
+.
+15.
+Responsibilities of the Secretary
+(a)
+Sharing information with emergency response providers
+Section 2102(e) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(e)
+), as amended by section 13 of this Act, is amended by adding at the end the following:
+(6)
+Sharing information with emergency response providers
+(A)
+Definition of fusion center
+In this paragraph, the term
+fusion center
+has the meaning given the term in section 210A(j).
+(B)
+Sharing information
+The Secretary shall, in a secure and expeditious manner, make available to State, local, and regional fusion centers and State and local government officials, including officials of State or local law enforcement agencies and emergency response providers, with a need to know (within the meaning of section 27.400(e) of title 6, Code of Federal Regulations, or any successor thereto) with appropriate chemical-terrorism vulnerability information training, such information as the Secretary determines necessary to ensure that emergency response providers are capable to effectively prepare for, respond to, and mitigate chemical security incidents at covered chemical facilities, which shall include, with respect to each covered chemical facilityâ
+(i)
+the name of the covered chemical facility;
+(ii)
+the address of the covered chemical facility;
+(iii)
+the phone number of the covered chemical facility;
+(iv)
+the name and Chemical Abstract Service number of each chemical of interest used, stored, or manufactured as specified in the Top-Screen submitted by the covered chemical facility;
+(v)
+the quantity and concentration of each chemical of interest specified in the Top-Screen submitted by the covered chemical facility; and
+(vi)
+the name or title, organizational affiliation, and phone number of a local emergency manager or local emergency response provider for the covered chemical facility specified in the site security plan of the covered chemical facility.
+(C)
+Existing platform or website
+(i)
+In general
+In sharing information under subparagraph (B), the Secretary shall use a single information technology infrastructure, information technology platform, online platform, or website in existence on the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+.
+(ii)
+Determination
+When determining which single infrastructure, platform, or website to use under clause (i), the Secretary shall solicit input from covered chemical facilities, State, local, and regional fusion centers, and State and local government officials, including officials of State or local law enforcement agencies and emergency response providers.
+(D)
+Updates
+Not less frequently than every 90 days, the Secretary shall update the information shared under subparagraph (B) to include covered chemical facilities in existence as of the date of the update.
+(E)
+Outreach to first responders
+Concurrent with a compliance inspection or audit conducted at covered chemical facilities under subsection (d)(1), the Secretary or a designee of the Secretary shallâ
+(i)
+contact and notify the local emergency manager or local emergency response provider, and any on-site emergency response provider, identified by the covered chemical facility that there is a covered chemical facility in their response area; and
+(ii)
+inform the response officials identified by the covered chemical facility of the available secure communications and information technology infrastructure platforms or other mechanisms to obtain additional information.
+.
+(b)
+Report
+Not later than 270 days after the date of enactment of this Act, the Secretary shall report to the appropriate congressional committees on the plan of the Secretary toâ
+(1)
+implement the amendment made by subsection (a); and
+(2)
+in accordance with the amendment made by subsection (a), communicate with emergency response providers with a need to know (within the meaning of section 27.400(e) of title 6, Code of Federal Regulations, or any successor thereto) in a secure and expeditious manner in order to inform the emergency response providers that covered chemical facilities exist in the locations in which the emergency response providers operate.
+16.
+Amendments relating to Appendix A of part 27 of title 6, United States
+Code
+(a)
+Specific products and mixtures containing chemicals of interest
+Section 2102(e) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(e)
+), as amended by section 15 of this Act, is amended by adding at the end the following:
+(7)
+Specific products and mixtures containing chemicals of interest
+(A)
+Definition
+In this paragraph, the term
+covered product or mixture
+means a specific product or mixture that contains a chemical of interest at or above the minimum concentration listed under Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto.
+(B)
+Exclusion
+Subject to the regulations prescribed under subparagraph (C), the Secretary may exclude a covered product or mixture from the designation as a chemical of interest for the purposes of the definition of the term
+chemical facility of interest
+if the Secretary determines that the covered product or mixture does not present the same security concern on the basis of which the chemical of interest contained in the covered product or mixture was designated as a chemical of interest.
+(C)
+Regulations
+(i)
+Authority to prescribe
+Not later than 1 year after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall prescribe regulations, including guidance as necessary, under whichâ
+(I)
+an interested party may petition the Secretary for exclusion of a covered product or mixture under subparagraph (B);
+(II)
+during the period beginning on the effective date of such regulations, and ending on the date that is 1 year after such date, not later than 180 days after an interested party submits a petition under subclause (I), the Secretary shallâ
+(aa)
+determine whether the covered product or mixture shall be excluded under subparagraph (B); and
+(bb)
+if the Secretary determines that the covered product or mixture shall be excluded under subparagraph (B) and so excludes the covered product or mixture;
+(III)
+after the date that is 1 year after the effective date of such regulations, not later than 90 days after an interested party submits a petition under subclause (I), the Secretary shallâ
+(aa)
+determine whether the covered product or mixture shall be excluded under subparagraph (B); and
+(bb)
+if the Secretary determines that the covered product or mixture shall be excluded under subparagraph (B)â
+(AA)
+document any such determination and make publicly available on an established and secure platform to those individuals with a need to know within the meaning of section 27.400(e) of title 6, Code of Federal Regulations, or any successor thereto; and
+(BB)
+so exclude the covered product or mixture; and
+(IV)
+if an interested party submits a petition under subclause (I) and the Secretary has not made a determination as to whether the relevant covered product or mixture shall be excluded under subparagraph (B) by the date required under subclause (II) or (III) of this subparagraph, as applicable, the Secretary may extend the period in which the determination is to be madeâ
+(aa)
+upon the request of the interested party; or
+(bb)
+if the Secretary requires additional time to make the determination.
+(ii)
+Federal information policy
+In collecting information from petitioners under this subparagraph, the Secretary shall not be subject to subchapter I of
+chapter 35
+of title 44, United States Code.
+.
+(b)
+Flammable liquid measures
+Not later than 180 days after the date of enactment of this Act, the Secretary shall prescribe a regulation to amend Appendix A to part 27 of title 6, United States Code, to provide that when calculating whether a chemical facility of interest holds a release-flammable chemical of interest in an amount that meets a threshold quantity, only a release-flammable chemical of interest in liquid mixtures with a flammability hazard rating of 4 under the document entitled
+NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response
+published in 2017 by the National Fire Protection Association, or any successor thereto, shall be included in the calculation.
+(c)
+Evaluation of designated chemicals of interest
+Section 2102(e) of the Homeland Security Act of 2002 (
+6 U.S.C. 622(e)
+), as amended by subsection (a) of this section, is amended by adding at the end the following:
+(8)
+Chemicals of interest
+Not later than 180 days after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, and not less frequently than every 5 years thereafter, the Secretary shallâ
+(A)
+review Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, to determine whether, in the opinion of the Secretaryâ
+(i)
+any chemical that is not designated as a chemical of interest should be designated as a chemical of interest;
+(ii)
+any chemical of interest should not be designated as a chemical of interest; and
+(iii)
+any chemical amount, concentration, or threshold quantity described in Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, should be modified; and
+(B)
+submit to Congress and publish on the internet website of the Department a report that contains the proposals of the Secretary relating to designations and modifications under subparagraph (A).
+.
+(d)
+Changes to Appendix A to part 27 of
+title 6, Code of Federal Regulations
+(1)
+In general
+Title XXI of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+et seq.) is amended by adding at the end the following:
+2110.
+Changes to Appendix A to part 27 of title 6, Code of Federal
+Regulations
+(a)
+In general
+The Secretary shall prescribe, through notice and comment rulemaking under section 553 of title 5, United States Code, regulations relating to any proposed change to Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, if the Secretary determines thatâ
+(1)
+a chemical should be designated as a chemical of interest;
+(2)
+a chemical designated as a chemical of interest should not be so designated; or
+(3)
+a chemical amount, concentration, or threshold quantity described in Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, should be modified.
+(b)
+Interim rules
+Notwithstanding subsection (a), the Secretary may publish in the Federal Register an interim final rule relating to a proposed change to Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, if the Secretary determines thatâ
+(1)
+an emergency or immediate threat directly relating to a specific chemical, chemical amount, chemical concentration, and chemical threshold quantity exists; and
+(2)
+the chemical described in paragraph (1) should be designated as a chemical of interest; and
+(3)
+the chemical amount, chemical concentration, and chemical threshold quantity described in paragraph (1) should be designated or modified, as applicable, under Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto.
+(c)
+Duration of authority
+(1)
+In general
+Any proposed change to Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, published in an interim rule under subsection (b) shall only be in effect for the 180-day period following publication of the interim rule.
+(2)
+Rule making
+If, after the 180-day period described in paragraph (1), the Secretary determines that a chemical designated as a chemical of interest under an interim rule published under subsection (b) should be designated as a chemical interest, the Secretary shall issue a final rule designating the chemical as a chemical of interest in accordance with the notice and comment rule making procedures under section 553 of title 5, United States Code.
+.
+(2)
+Technical and conforming amendment
+The table of contents in section 1(b) of the Homeland Security Act of 2002 (
+Public Law 107â196
+; 116 Stat. 2135) is amended by inserting after the item relating to section 2109 the following:
+Sec. 2110. Changes to Appendix A to part
+27 of title 6, Code of Federal
+Regulations.
+.
+(e)
+Explosive materials
+(1)
+Findings
+Congress finds the following:
+(A)
+On September 10, 2007, the Department of Justice submitted comments to the Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, opposing the inclusion of chemicals regulated as explosives under
+chapter 40
+of title 18, United States Code, and stated that it is unnecessarily duplicative, confusing, and
+does not effectively serve to enhance public safety or reduce the risk of criminal or terrorist misuse of explosives.
+(B)
+The Committee on Homeland Security and Governmental Affairs of the Senate has conducted oversight of the Chemical Facility Anti-Terrorism Standards Program (in this paragraph referred to as the
+Program
+) throughout the 115th and 116th Congresses and found that duplicative regulations of the Program and the Bureau of Alcohol, Tobacco, Firearms, and Explosives come at a significant and unnecessary cost to the explosives industry.
+(C)
+The Government Accountability Office is conducting a review of fragmentation, overlap, and duplication of the Program with other Federal regulatory programs. Preliminary findings of the Government Accountability Office indicate duplication between regulations and elements of the Program and those of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, as the Government Accountability Office found that regulations and elements of the Bureau addressing the storage and maintenance of explosives generally align with 11 of the 18 risk-based performance standards of the Program.
+(2)
+Amendment to Homeland Security Act of 2002
+(A)
+In general
+Title XXI of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+et seq.) is amended by striking section 2109 (
+6 U.S.C. 629
+) and inserting the following:
+2109.
+Explosive materials
+(a)
+In general
+The Secretary may not designate any explosive material regulated by the Department of Justice under
+chapter 40
+of title 18, United States Code, or by the Bureau of Alcohol, Tobacco, Firearms, and Explosives under part 555 of title 27, Code of Federal Regulations, as a chemical of interest under Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto.
+(b)
+Explosive material regulated after designation
+If any explosive material that is designated as a chemical of interest under Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, becomes regulated by the Department of Justice under
+chapter 40
+of title 18, United States Code, or by the Bureau of Alcohol, Tobacco, Firearms, and Explosives under part 555 of title 27, Code of Federal Regulations, or any successor thereto, the Secretary shall remove the designation of such explosive material as a chemical of interest.
+.
+(3)
+Technical and conforming amendment
+The table of contents in section 1(b) of the Homeland Security Act of 2002 (
+Public Law 107â196
+; 116 Stat. 2135) is amended by striking the item relating to section 2109 and inserting the following:
+Sec. 2109. Explosive materials.
+.
+17.
+Informal consultations and assessments
+(a)
+In general
+Section 2102 of the Homeland Security Act of 2002 (
+6 U.S.C. 622
+) is amended by adding at the end the following:
+(f)
+Informal consultations and assessments
+(1)
+In general
+The Secretary shall implement a system under which, in accordance with this paragraph and except as provided in paragraph (2), the Secretary shall provide an owner or operator of a covered chemical facility the opportunity for an informal consultation relating to a preliminary deficiency determination under subsection (c) with respect to the covered chemical facility.
+(A)
+Written explanation and request procedure
+(i)
+Written explanation
+Upon making a preliminary deficiency determination under subsection (c) with respect to a site security plan of a covered chemical facility, the Secretary shall provide to the owner or operator of the covered chemical facility a written explanation of the reasons for the determination.
+(ii)
+Request
+Not later than 10 days after receiving a written explanation of a preliminary deficiency determination under clause (i), an owner or operator of a covered chemical facility may request an informal consultation with the Secretary to seek a modification of the preliminary deficiency determination.
+(iii)
+Civil enforcement
+Upon receipt of a request under clause (ii), the Secretary shall not seek civil enforcement under section 2104 with respect to the preliminary deficiency determination under subsection (c) of this section to which the request pertains, except as provided in subparagraph (D)(ii) of this paragraph.
+(B)
+Opportunity for resubmission
+(i)
+In general
+An owner or operator of a covered chemical facility requesting an informal consultation under subparagraph (A)(ii) may, during the period beginning on the date on which the owner or operator submits the request and ending at the conclusion of the informal consultation, submit to the Secretaryâ
+(I)
+any written explanation, information, or other materials relating to the preliminary deficiency determination under subsection (c) to which the request pertains; and
+(II)
+a revised site security plan for the covered chemical facility.
+(ii)
+Consideration
+The Secretary shall take into consideration any written explanation, information, other materials, or revised site security plan submitted by an owner or operator under clause (i) inâ
+(I)
+reviewing the preliminary deficiency determination under subsection (c); and
+(II)
+assessing a revised site security plan for the covered chemical facility.
+(C)
+Scheduling
+Upon receipt of a request under subparagraph (A)(ii) by an owner or operator of a covered chemical facility, the Secretary shall arrange for an informal consultation with the owner or operatorâ
+(i)
+not later than 30 days after the date on which the Secretary receives the request; and
+(ii)
+by telephone or electronic means, or at a location of mutual convenience.
+(D)
+Determination
+(i)
+In general
+Not later than 30 days after an informal consultation with an owner or operator of a covered chemical facility under this paragraph, the Secretary, taking into consideration the information submitted by the owner or operator under subparagraph (B)â
+(I)
+shall assess the preliminary deficiency determination under subsection (c);
+(II)
+may modify the preliminary deficiency determination under subsection (c), in whole or in part; and
+(III)
+shall issue a formal determination with respect to the site security plan of the covered chemical facility.
+(ii)
+Civil enforcement
+If, after a final determination under clause (i), the Secretary determines that the covered chemical facility to which the final determination pertains is not in compliance with this title, the Secretary shall proceed with civil enforcement under section 2104(a)(1), as appropriate.
+(2)
+Emergency or exigent circumstances
+The Secretary shall not be required to comply with a request for an informal consultation under paragraph (1) if the Secretary determines that an emergency or exigent circumstance necessitates immediate enforcement with respect to a covered chemical facility under section 2104.
+.
+(b)
+Conforming amendment
+Section 2104(a)(1) of the Homeland Security Act of 2002 (
+6 U.S.C. 624(a)(1)
+) is amended, in the matter preceding subparagraph (A), by striking
+If the Secretary
+and inserting
+Subject to section 2102(f), if the Secretary
+.
+18.
+Protection and sharing of information
+Section 2103(f) of the Homeland Security Act of 2002 (
+6 U.S.C. 623(f)
+) is amendedâ
+(1)
+in the subsection heading, by inserting
+and the Comptroller General
+after
+Congress
+;
+(2)
+by inserting
+or the Comptroller General of the United States
+before
+in response
+; and
+(3)
+by inserting
+or the Comptroller General, respectively
+before the period at the end.
+19.
+CFATS regulations
+Section 2107(b) of the Homeland Security Act of 2002 (
+6 U.S.C. 627(b)
+) is amendedâ
+(1)
+in paragraph (1), by inserting
+(
+Public Law 113â254
+; 128 Stat. 2919)
+after
+2014
+; and
+(2)
+in paragraph (2), by striking
+2014
+and inserting
+2020
+.
+20.
+Employee awareness
+(a)
+In general
+Title XXI of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+et seq.), as amended by section 16 of this Act, is amended by adding at the end the following:
+2111.
+Employee awareness
+Not later than 180 days after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall produce a posterâ
+(1)
+that each owner or operator of a covered chemical facility shall display in a restricted area of the covered chemical facility accessible to individuals who have access to restricted areas or critical assets; and
+(2)
+that provides to the individuals described in paragraph (1) information relating toâ
+(A)
+reporting potential concerns under this title; and
+(B)
+whistleblower protections under section 2105.
+.
+(b)
+Technical and conforming amendment
+The table of contents in section 1(b) of the Homeland Security Act of 2002 (
+Public Law 107â196
+; 116 Stat. 2135) is amended by inserting after the item relating to section 2110 the following:
+Sec. 2111. Employee
+awareness.
+.
+21.
+Notification relating to the Chemical Facility Anti-Terrorism Standards
+Program
+(a)
+In general
+Title XXI of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+et seq.), as amended by section 20 of this Act, is amended by adding at the end the following:
+2112.
+Notification
+(a)
+Definition
+In this section, the term
+recipient
+means any facility to which a covered chemical facility sells or distributes a chemical of interest.
+(b)
+Development and provision of notification relating to the Chemical
+Facility Anti-Terrorism Standards Program
+Not later than 30 days after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall develop a notificationâ
+(1)
+that each covered chemical facility may, in consultation with the Secretary, provide to each recipient at the time at which the covered chemical facility sells or distributes a chemical of interest to the recipient; and
+(2)
+that is sufficient to, with respect to the recipient described in paragraph (1)â
+(A)
+make the recipient aware of the Chemical Facility Anti-Terrorism Standards Program; and
+(B)
+notify the recipient that the recipient may be required to submit a Top-Screen as a result of the receipt of a chemical of interest by the recipient.
+.
+(b)
+Technical and conforming amendment
+The table of contents in section 1(b) of the Homeland Security Act of 2002 (
+Public Law 107â296
+; 116 Stat. 2135) is amended by inserting after the item relating to section 2111 the following:
+Sec. 2112.
+Notification.
+.
+22.
+Bidirectional information sharing platform
+(a)
+In general
+Title XXI of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+et seq.), as amended by section 21 of this Act, is amended by adding at the end the following:
+2113.
+Bidirectional information sharing platform
+(a)
+In general
+Not later than 120 days after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall provide a secure communications and information technology infrastructure, platform, or other mechanism that allows covered chemical facilities to report, on a voluntary basis, information on suspicious activities, including threats posed by unmanned aircraft systems (as defined in section 44801 of title 49, United States Code).
+(b)
+Information sharing with Federal entities
+The Secretary shall share information received under subsection (a) with appropriate Federal entities to inform and support a common threat picture across the Federal Government.
+(c)
+Information sharing with chemical facility owners and operators
+The Secretary shall share with owners and operators of chemical facilities of interest information resulting in an elevated threat environment for chemical facilities.
+(d)
+Platform capabilities
+The Secretary shall ensure that the secure communications and information technology infrastructure, platform, or other mechanism established under subsection (a) is designed to support data mining and other advanced analytic tools to access, receive, and analyze data and information to facilitate the reporting of the information described in subsection (a).
+(e)
+Existing platform or website
+The Secretary may maintain the secure communications and information technology infrastructure or platform required under subsection (a) on an online platform or website in existence on the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+.
+.
+(b)
+Technical and conforming amendment
+The table of contents in section 1(b) of the Homeland Security Act of 2002 (
+Public Law 107â296
+; 116 Stat. 2135) is amended by inserting after the item relating to section 2112 the following:
+Sec. 2113.
+Bidirectional information sharing
+platform.
+.
+23.
+Updated retrospective estimate on costs
+(a)
+Updated retrospective estimate on costs
+Not later than 1 year after the date of enactment of this Act, the Secretary shall complete a retrospective estimate of the costs, including costs to the Government, regulated entities, and the public, of carrying out the Chemical Facility Anti-Terrorism Standards Program during the period beginning on the first day of fiscal year 2006 and ending on the last day of fiscal year 2020.
+(b)
+Repeal
+Section 3 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (
+Public Law 113â254
+; 128 Stat. 2917) is repealed.
+24.
+CFATS security harmonization waiver program
+(a)
+In general
+Title XXI of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+et seq.), as amended by section 22 of this Act, is amended by adding at the end the following:
+2114.
+Security harmonization waiver program
+(a)
+In general
+Subject to the regulations prescribed under subsection (f), the Secretary shall establish a waiver program to harmonize with the security mandates of other Federal regulatory programs under which an owner or operator of a covered chemical facility may apply to the Secretary to waive all or part of the regulatory requirements under this title.
+(b)
+Procedures To grant waiver
+Not later than 180 days after the date on which an owner or operator of a covered chemical facility submits an application for a waiver under subsection (a), the Secretary shall grant the waiver if the covered chemical facility is subject to the security requirements of another Federal regulatory program that the Secretary determinesâ
+(1)
+have the effect intended by the risk-based performance standards to which the covered chemical facility is subject under this title; or
+(2)
+are substantially equivalent to or exceed those risk-based performance standards.
+(c)
+Procedures To deny waiver
+The Secretary shall deny an application submitted by an owner or operator of a covered chemical facility for a waiver under subsection (a) if the Secretary determines thatâ
+(1)
+the risk-based performance standard to which the covered chemical facility is subject under this title are not met by the security requirements of another Federal regulatory program under which the owner or operator of a covered chemical facility is required to comply;
+(2)
+following the administrative proceedings of the other Federal regulatory program described in paragraph (1), the covered chemical facility is determined to not be in compliance with the security requirements of the other Federal regulatory program, as demonstrated through inspections, audits, or other supporting evidence by the Federal agency with jurisdiction for enforcing the security requirements under the other Federal regulatory program; or
+(3)
+during the 3-year period ending on the date on which the owner or operator of the covered chemical facility submits an application for the waiver, the covered chemical facility has been found to beâ
+(A)
+the subject of a civil or criminal enforcement action brought by the other Federal regulatory program; and
+(B)
+non-compliant with the regulatory requirements under this title and the security mandates of the other Federal regulatory program.
+(d)
+Waiver duration
+(1)
+In general
+A waiver granted under subsection (b) shall be valid unless the Secretary determines that the owner or operator of a covered chemical facility is ineligible for a waiver in accordance with paragraph (1), (2), or (3) of subsection (c).
+(2)
+Written verification
+A covered chemical facility that is granted a waiver under subsection (b) shall, not later than 18 months after the waiver is granted and every 18 months thereafter, provide written verification to the Secretary that, to the satisfaction of the Secretary, demonstrates the covered chemical facilityâ
+(A)
+is in compliance with the security requirements of the other Federal regulatory program; and
+(B)
+has not been the subject of a civil or criminal enforcement action brought by the another Federal regulatory program.
+(e)
+Redress
+If the Secretary denies a waiver requested by an owner or operator of a covered chemical facility under subsection (c) or a waiver is determined to be no longer valid under subsection (d)â
+(1)
+the Secretary shall, not later than 90 days after the date on which the application for a waiver is submitted or the date on which the Secretary invalidates the waiver, provide the owner or operator of the covered chemical facility a justification for the denial or invalidation; and
+(2)
+the Secretary shall provide an opportunity for the process of informal consultation relating to a preliminary deficiency determination under section 2101.
+(f)
+Regulations
+(1)
+Interim regulations
+Not later than 1 year after the date of enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, the Secretary shall develop and issue interim final regulations, including guidance as necessary, under which an owner or operator of a covered chemical facility may apply to the Secretary for a waiver under subsection (a).
+(2)
+Final regulations
+Not later than 2 years after enactment of the
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2020
+, and after consideration of comments received in response to the interim final regulations, the Secretary shall develop and issue a detailed final regulation for the waiver program under this section.
+(g)
+GAO review
+Not later than 3 years after the effective date of the interim final regulation prescribed under subsection (f)(1), the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the waiver program under this section, includingâ
+(1)
+how effectively the Secretary has implemented the waiver program under this section, and recommendations for improvements;
+(2)
+the extent to which the waiver program under this section hasâ
+(A)
+resulted in cost savings to the whole of the Federal Government and covered chemical facilities; and
+(B)
+created any security improvements or deficiencies at covered chemical facilities;
+(3)
+recommendations for the Secretary to waive covered chemical facilities subject to the security requirements under other Federal regulatory programs and remove chemicals of interest from Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, that are covered by the security requirements of other Federal regulatory programs; and
+(4)
+any other issues as determined appropriate by the Comptroller General.
+.
+(b)
+Technical and conforming amendment
+The table of contents in section 1(b) of the Homeland Security Act of 2002 (
+Public Law 107â296
+; 116 Stat. 2135) is amended by inserting after the item relating to section 2113 the following:
+Sec. 2114.
+Security harmonization waiver
+program.
+.
+25.
+Implementation plan and report to Congress
+(a)
+Implementation plan
+Not later than 180 days after the date of enactment of this Act, the Secretary shall develop and submit to the appropriate congressional committees an implementation plan that describes how the Secretary plans toâ
+(1)
+aggregate, anonymize, and analyze data that the Secretary collects under section 2102(e)(3)(B)(ii) of the Homeland Security Act of 2002, as added by section 12 of this Act;
+(2)
+develop the lessons learned; and
+(3)
+disseminate the lessons learned under section 2102(e)(4)(A)(ii) of the Homeland Security Act of 2002, as added by section 13 of this Act.
+(b)
+Report
+(1)
+Initial report
+Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the appropriate congressional committees and the Comptroller General of the United States a report that includesâ
+(A)
+a description ofâ
+(i)
+the status of implementing the plan developed under subsection (a);
+(ii)
+the lessons learned as of the date on which the Secretary submits the report; and
+(iii)
+the system or medium used to disseminate the lessons learned under section 2102(e)(4)(A)(ii) of the Homeland Security Act of 2002, as added by section 13 of this Act;
+(B)
+a detailed summary ofâ
+(i)
+the reports and other information generated under section 2102(e)(3) of the Homeland Security Act of 2002 (
+6 U.S.C. 623(e)(3)
+), as amended by this Act; and
+(ii)
+the lessons learned developed and disseminated under section 2102(e)(4) of the Homeland Security Act of 2002, as added by section 13 of this Act; and
+(C)
+to the extent feasible, information relating to, with respect to covered chemical facilities and chemical facilities of interest that implemented the lessons learned developed and disseminated under section 2102(e)(4) of the Homeland Security Act of 2002, as added by section 13 of this Actâ
+(i)
+actions taken by the covered chemical facilities and chemical facilities of interest to implement the lessons learned; and
+(ii)
+results produced because the covered chemical facilities and chemical facilities of interest implemented the lessons learned.
+(2)
+Annual updates
+(A)
+In general
+Not later than 1 year after the date on which the Secretary submits the initial report under paragraph (1), and annually thereafter, the Secretary shall submit to the appropriate congressional committees a report that includes, with respect to the period for which the report is submittedâ
+(i)
+information relating toâ
+(I)
+each change to the lessons learned made during that period, and the basis for the change;
+(II)
+any feedback collected during that period from owners and operators of covered chemical facilities and chemical facilities of interest regarding the extent to which the owners and operators implemented the lessons learned;
+(III)
+the impact the dissemination of the lessons learned has had on the effectiveness of the Chemical Facility Anti-Terrorism Standards Program during that period; and
+(ii)
+the information described in subparagraphs (B) and (C) of paragraph (1).
+(B)
+Obtaining information
+In obtaining information from covered chemical facilities and chemical facilities of interest under subparagraph (A), the Secretary shall create, subject to approval from the Director of the Office of Management and Budget, a voluntary feedback survey.
+26.
+Effective date
+This Act, and the amendments made by this Act, shall take effect on the date that is 30 days after the date of enactment of this Act.
+27.
+Termination
+(a)
+In general
+The authority provided under title XXI of the Homeland Security Act of 2002 (
+6 U.S.C. 621
+et seq.), as amended by this Act, shall terminate on the date that is 5 years after the effective date of this Act.
+(b)
+Conforming repeals
+(1)
+Protecting and Securing Chemical Facilities from Terrorist Attacks Act of
+2014
+Section 5 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (
+Public Law 113â254
+;
+6 U.S.C. 621
+note) is repealed.
+(2)
+Chemical Facility Anti-Terrorism Standards Program Extension Act
+The Chemical Facility Anti-Terrorism Standards Program Extension Act (
+Public Law 116â2
+; 133 Stat. 5) is repealed.
+28.
+Technical and conforming amendment
+The table of contents in section 1(b) of the Homeland Security Act of 2002 (
+Public Law 107â196
+; 116 Stat. 2135) is amended, in the item relating to section 2103, by striking the em dash at the end.

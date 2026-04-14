@@ -1,0 +1,128 @@
+1.
+Short title
+This Act may be cited as the
+DEA Order Clearinghouse Act of 2018
+.
+2.
+Required clearinghouse for registrant orders
+(a)
+In general
+The Controlled Substances Act (
+21 U.S.C. 801
+et seq.) is amendedâ
+(1)
+in section 303(f), in the matter preceding paragraph (1), by striking
+The Attorney General
+and inserting
+Subject to section 303A, the Attorney General
+; and
+(2)
+by inserting after section 303 the following:
+303A.
+Required clearinghouse for registrant orders
+(a)
+In general
+Not later than 2 years after the date of enactment of this section, the Attorney General shallâ
+(1)
+establish a clearinghouse that would subject all orders of controlled substances and listed chemicals to the clearinghouse for recording and review, prior to final review by the registrant;
+(2)
+amend the regulations relative to controlled substances in schedule II ordering requirements that would allow for uniform electronic ordering of controlled substances in schedule II, III, IV and V electronically to the clearinghouse; and
+(3)
+may deny, suspend, or revoke a registration issued under section 303(f), or the registration of a distributor under section 303(b) or 303(e), if the practitioner or distributor, as applicable, is not substantially in compliance with the requirements of this section.
+(b)
+Clearinghouse
+(1)
+In general
+An order for a controlled substance may not be filled by the registrant unlessâ
+(A)
+the order is first transmitted electronically to the Attorney General, acting through the Administrator of the Drug Enforcement Administration (referred to in this section as the
+Administrator
+);
+(B)
+the Administrator uses the algorithm described in paragraph (2) to determine if the order is an outlier and is potentially suspicious;
+(C)
+the Administrator relays the order to the registrant with whom the order is placed, regardless of whether the algorithm was exceeded, for further analysis of the order under section 1301.74(b) of title 21, Code of Federal Regulations; and
+(D)
+the registrant has received a waiver from the Administrator exempting the registrant from this section.
+(2)
+Algorithm
+(A)
+In general
+The clearinghouse established under this section shall use an input-based algorithm, including techniques such as artificial intelligence, machine learning, and other methods of analyzing large data, thatâ
+(i)
+automatically identifies orders that exceed the metrics of the algorithm;
+(ii)
+notifies the registrant if the order is an outlier and is potentially suspicious;
+(iii)
+is informed by all data available to the Administrator and uses pharmacy best practices;
+(iv)
+takes into consideration existing State and Federal law; and
+(v)
+establishes different parameters for different registrants using relevant information based on pharmacy type, location, and size.
+(B)
+Refinement
+The Administrator of the Drug Enforcement Administration (referred to in this section as the
+Administrator
+) shall review, update, and revise the algorithm biannually based on feedback from industry and relevant stakeholders to ensure functionality.
+(3)
+Consultation
+The Administrator shall consult with the Director of the National Institute of Standards and Technology for technical assistance in establishing the clearinghouse.
+(c)
+Responsibilities of distributors and manufacturers regarding suspicious orders
+This section may not be construed as relieving any distributor or manufacturer from the requirements established in section 1301.74(b) of title 21, Code of Federal Regulations, or any successor regulation, with respect to suspicious orders.
+(d)
+Contractor regarding data analytics
+(1)
+In general
+The Administrator shall award a contract to a public or private entity enabling the Administrator to carry out the technological aspects of tracking, processing and evaluating orders under this section.
+(2)
+Eligible entities
+An entity is eligible for an award under paragraph (1) if the entity has significant experience in data analytics and in processing the volume of electronic data involved in reviewing orders under this section within the timeframe required in subsection (c).
+(3)
+Capabilities
+A contract awarded under paragraph (1) shallâ
+(A)
+provide a data management and configurable visual analytics solution capable of ingesting and managing data entities, including manufacturers, and distributors, retail dispensers across relevant data maintained by the Administrator;
+(B)
+standardize the data format, with the ability to flexibly model data for analyses and link data across sources; and
+(C)
+provide an environment for analysis that is interoperable.
+(4)
+Commercial items
+The Administrator shall comply with section 3307 of title 41, United States Code, in awarding a contract under paragraph (1). The Administrator may not enter into a contract for any capabilities sought under paragraph (1) that are not for commercial items unless the Administrator first determines in writing that no commercial items are suitable to meet the needs of the Drug Enforcement Administration.
+(5)
+Timeline of contract
+Any contract awarded under paragraph (1) for a data management and visual analytics solution shall require the public or private entity awarded such contract to deliver a functioning solution sufficient to fulfill the purposes of this section not later than 180 days after the date on which the contract is awarded, unless the Administrator grants an extension for unforeseen delays.
+(6)
+Federal Acquisition Regulation
+A contract awarded under this subsection shall be in accordance with the Federal Acquisition Regulation.
+(7)
+Access to data
+An entity that is awarded a contract under this subsection shall have access to the relevant data to create the system.
+(e)
+Waiver
+(1)
+In general
+Beginning on the date on which the 36-month period described in subsection (b)(1)(A)(ii) expires, a pharmacy may submit to the Administrator an application for a waiver from the requirements of subsection (b)(1)(A) if the pharmacy is unable to transmit orders electronically.
+(2)
+Response
+The Administrator shall approve or deny an application submitted under paragraph (1) not later than the 90-day period beginning on the date on which the application is received.
+(3)
+Liability
+No waiver issued under paragraph (1) shall mitigate the liability of the pharmacy for any drugs diverted that did not pass through the clearinghouse.
+(f)
+Funding
+(1)
+Diversion control fee account
+The activities performed under this section shall be considered to be elements of the diversion control program for purposes of section.
+(2)
+Prohibition
+No registrant may pass on the cost of the clearinghouse to its customers.
+.
+(b)
+Technical and conforming amendment
+The table of contents for the Controlled Substances Act (
+21 U.S.C. 801
+et seq.) is amended by inserting after the item relating to section 303 the following:
+Sec. 303A. Required clearinghouse for registrant orders.
+.

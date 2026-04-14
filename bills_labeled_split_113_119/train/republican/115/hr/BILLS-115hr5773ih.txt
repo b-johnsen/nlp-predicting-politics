@@ -1,0 +1,197 @@
+1.
+Short title
+This Act may be cited as the
+Preventing Addiction for Susceptible Seniors Act of 2018
+or the
+PASS Act of 2018
+.
+2.
+Requiring prescription drug plan sponsors under Medicare to establish drug management programs for at-risk beneficiaries
+Section 1860Dâ4(c) of the Social Security Act (
+42 U.S.C. 1395wâ104(c)
+) is amendedâ
+(1)
+in paragraph (1), by inserting after subparagraph (E) the following new subparagraph:
+(F)
+With respect to plan years beginning on or after January 1, 2021, a drug management program for at-risk beneficiaries described in paragraph (5).
+; and
+(2)
+in paragraph (5)(A), by inserting
+(and for plan years beginning on or after January 1, 2021, a PDP sponsor shall)
+after
+A PDP sponsor may
+.
+3.
+Electronic prior authorization for covered part D drugs
+(a)
+Inclusion in electronic prescription program
+Section 1860Dâ4(e)(2) of the Social Security Act (
+42 U.S.C. 1395wâ104(e)(2)
+) is amended by adding at the end the following new subparagraph:
+(E)
+Electronic prior authorization
+(i)
+In general
+Not later than January 1, 2021, the program shall provide for the secure electronic transmittal ofâ
+(I)
+a prior authorization request from the prescribing health care professional for coverage of a covered part D drug for a part D eligible individual enrolled in a part D plan (as defined in section 1860Dâ23(a)(5)) to the PDP sponsor or Medicare Advantage organization offering such plan; and
+(II)
+a response, in accordance with this subparagraph, from such PDP sponsor or Medicare Advantage organization, respectively, to such professional.
+(ii)
+Electronic transmission
+(I)
+Exclusions
+For purposes of this subparagraph, a facsimile, a proprietary payer portal that does not meet standards specified by the Secretary, or an electronic form shall not be treated as an electronic transmission described in clause (i).
+(II)
+Standards
+In order to be treated, for purposes of this subparagraph, as an electronic transmission described in clause (i), such transmission shall comply with technical standards adopted by the Secretary in consultation with the National Council for Prescription Drug Programs, other standard setting organizations determined appropriate by the Secretary, and stakeholders including PDP sponsors, Medicare Advantage organizations, health care professionals, and health information technology software vendors.
+.
+(b)
+Sense of Congress regarding electronic prior authorization
+It is the sense of the Congress thatâ
+(1)
+there should be increased use of electronic prior authorizations for coverage of covered part D drugs for part D eligible individuals enrolled in prescription drug plans under part D of title XVIII of the Social Security Act and MAâPD plans under part C of such title to reduce access delays by resolving coverage issues before prescriptions for such drugs are transmitted; and
+(2)
+greater priority should be placed on increasing the adoption of use of such electronic prior authorizations among prescribers of such drugs, pharmacies, PDP sponsors, and Medicare Advantage organizations.
+4.
+Program integrity transparency measures under Medicare parts C and D
+(a)
+In general
+Section 1859 of the Social Security Act (
+42 U.S.C. 1395wâ28
+) is amended by adding at the end the following new subsection:
+(i)
+Program integrity transparency measures
+(1)
+Program integrity portal
+(A)
+In general
+Not later than two years after the date of the enactment of this subsection, the Secretary shall, after consultation with stakeholders, establish a secure Internet website portal (or other successor technology) that would allow a secure path for communication between the Secretary, MA plans under this part, prescription drug plans under part D, and an eligible entity with a contract under section 1893 (such as a Medicare drug integrity contractor or an entity responsible for carrying out program integrity activities under this part and part D) for the purpose of enabling through such portal (or other successor technology)â
+(i)
+the referral by such plans of substantiated fraud, waste, and abuse for initiating or assisting investigations conducted by the eligible entity; and
+(ii)
+data sharing among such MA plans, prescription drug plans, and the Secretary.
+(B)
+Required uses of portal
+The Secretary shall disseminate the following information to MA plans under this part and prescription drug plans under part D through the secure Internet website portal (or other successor technology) established under subparagraph (A):
+(i)
+Providers of services and suppliers that have been referred pursuant to subparagraph (A)(i) during the previous 12-month period.
+(ii)
+Providers of services and suppliers who are the subject of an active exclusion under section 1128 or who are subject to a suspension of payment under this title pursuant to section 1862(o) or otherwise.
+(iii)
+Providers of services and suppliers who are the subject of an active revocation of participation under this title, including for not satisfying conditions of participation.
+(iv)
+In the case of such a plan that makes a referral under subparagraph (A)(i) through the portal (or other successor technology) with respect to activities of substantiated fraud, waste, or abuse of a provider of services or supplier, if such provider or supplier has been the subject of an administrative action under this title or title XI with respect to similar activities, a notification to such plan of such action so taken.
+(C)
+Rulemaking
+For purposes of this paragraph, the Secretary shall, through rulemaking, specify what constitutes substantiated fraud, waste, and abuse, using guidance such as what is provided in the Medicare Program Integrity Manual 4.7.1. In carrying out this subsection, a fraud hotline tip (as defined by the Secretary) without further evidence shall not be treated as sufficient evidence for substantiated fraud, waste, or abuse.
+(D)
+HIPAA compliant information only
+For purposes of this subsection, communications may only occur if the communications are permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
+(2)
+Quarterly reports
+Beginning two years after the date of enactment of this subsection, the Secretary shall make available to MA plans under this part and prescription drug plans under part D in a timely manner (but no less frequently than quarterly) and using information submitted to an entity described in paragraph (1) through the portal (or other successor technology) described in such paragraph or pursuant to section 1893, information on fraud, waste, and abuse schemes and trends in identifying suspicious activity. Information included in each such report shallâ
+(A)
+include administrative actions, pertinent information related to opioid overprescribing, and other data determined appropriate by the Secretary in consultation with stakeholders; and
+(B)
+be anonymized information submitted by plans without identifying the source of such information.
+(3)
+Clarification
+Nothing in this subsection shall be construed as precluding or otherwise affecting referrals described in subparagraph (A) that may otherwise be made to law enforcement entities or to the Secretary.
+.
+(b)
+Contract requirement To communicate plan corrective actions against opioid over-Prescribers
+Section 1857(e)(4)(C) of the Social Security Act (
+42 U.S.C. 1395wâ27(e)(4)(C)
+) is amended by adding at the end the following new paragraph:
+(5)
+Communicating plan corrective actions against opioids over-prescribers
+(A)
+In general
+Beginning with plan years beginning on or after January 1, 2021, a contract under this section with an MA organization shall require the organization to submit to the Secretary, through the process established under subparagraph (B), information on the investigations and other actions taken by such plans related to providers of services who prescribe a high volume of opioids.
+(B)
+Process
+Not later than January 1, 2021, the Secretary shall, in consultation with stakeholders, establish a process under which MA plans and prescription drug plans shall submit to the Secretary information described in subparagraph (A).
+(C)
+Regulations
+For purposes of this paragraph, including as applied under section 1860Dâ12(b)(3)(D), the Secretary shall, pursuant to rulemakingâ
+(i)
+specify a definition for the term
+high volume of opioids
+and a method for determining if a provider of services prescribes such a high volume; and
+(ii)
+establish the process described in subparagraph (B) and the types of information that shall be submitted through such process.
+.
+(c)
+Reference under part D to program integrity transparency measures
+Section 1860Dâ4 of the Social Security Act (
+42 U.S.C. 1395wâ104
+) is amended by adding at the end the following new subsection:
+(m)
+Program integrity transparency measures
+For program integrity transparency measures applied with respect to prescription drug plan and MA plans, see section 1859(i).
+.
+5.
+Expanding eligibility for medication therapy management programs under part D
+Section 1860Dâ4(c)(2)(A)(ii) of the Social Security Act (
+42 U.S.C. 1395wâ104(c)(2)(A)(ii)
+) is amendedâ
+(1)
+by redesignating subclauses (I) through (III) as items (aa) through (cc), respectively, and adjusting the margins accordingly;
+(2)
+by striking
+are part D eligible individuals whoâ
+and inserting
+are the following:
+(I)
+Part D eligible individuals whoâ
+; and
+(3)
+by adding at the end the following new subclause:
+(II)
+Beginning January 1, 2021, at-risk beneficiaries for prescription drug abuse (as defined in paragraph (5)(C)).
+.
+6.
+Medicare notifications to outlier prescribers of opioids
+Section 1860Dâ4(c)(4) of the Social Security Act (
+42 U.S.C. 1395wâ104(c)(4)
+) is amended by adding at the end the following new paragraph:
+(D)
+Outlier prescriber notification
+(i)
+Notification
+Beginning not later than two years after the date of the enactment of this subparagraph, the Secretary shall, in the case of a prescriber identified by the Secretary under clause (ii) to be an outlier prescriber of opioids, provide, subject to clause (iv), an annual notification to such prescriber that such prescriber has been so identified and that includes resources on proper prescribing methods and other information specified in accordance with clause (iii).
+(ii)
+Identification of outlier prescribers of opioids
+(I)
+In general
+The Secretary shall, subject to subclause (III), using the valid prescriber National Provider Identifiers included pursuant to subparagraph (A) on claims for covered part D drugs for part D eligible individuals enrolled in prescription drug plans under this part or MAâPD plans under part C and based on the threshold established under subclause (II), conduct an analysis to identify prescribers that are outlier opioid prescribers for a period specified by the Secretary.
+(II)
+Establishment of threshold
+For purposes of subclause (I) and subject to subclause (III), the Secretary shall, after consultation with stakeholders, establish a threshold, based on prescriber specialty and geographic area, for identifying whether a prescriber in a specialty and geographic area is an outlier prescriber of opioids as compared to other prescribers of opioids within such specialty and area.
+(III)
+Exclusions
+The Secretary may exclude the following individuals and prescribers from the analysis under this clause:
+(aa)
+Individuals receiving hospice services.
+(bb)
+Individuals with a cancer diagnosis.
+(cc)
+Prescribers who are the subject of an investigation by the Centers for Medicare & Medicaid Services or the Office of Inspector General of the Department of Health and Human Services.
+(iii)
+Contents of notification
+The Secretary shall, based on input from stakeholders, specify the resources and other information to be included in notifications provided under clause (i).
+(iv)
+Modifications and expansions
+(I)
+Frequency
+Beginning 5 years after the date of the enactment of this subparagraph, the Secretary may change the frequency of the notifications described in clause (i) based on stakeholder input.
+(II)
+Expansion to other prescriptions
+The Secretary may expand notifications under this subparagraph to include identifications and notifications with respect to concurrent prescriptions of covered Part D drugs used in combination with opioids that are considered to have adverse side effects when so used in such combination, as determined by the Secretary.
+(v)
+Opioids defined
+For purposes of this subparagraph, the term
+opioids
+has such meaning as specified by the Secretary through program instruction or otherwise.
+.

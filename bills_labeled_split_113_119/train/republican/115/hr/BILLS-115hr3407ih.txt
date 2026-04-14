@@ -1,0 +1,101 @@
+1.
+Cybersecurity of automated driving systems
+(a)
+In general
+Chapter 301 of subtitle VI of title 49, United States Code, is amended by inserting after section 30129 (as added by section 4) the following new section:
+30130.
+Cybersecurity of automated driving systems
+(a)
+Cybersecurity plan
+A manufacturer may not sell, offer for sale, introduce or deliver for introduction into commerce, or import into the United States, any highly automated vehicle, vehicle that performs partial driving automation, or automated driving system unless such manufacturer has developed a cybersecurity plan that includes the following:
+(1)
+A written cybersecurity policy with respect to the practices of the manufacturer for detecting and responding to cyber attacks, unauthorized intrusions, and false and spurious messages or vehicle control commands. This policy shall includeâ
+(A)
+a process for identifying, assessing, and mitigating reasonably foreseeable vulnerabilities from cyber attacks or unauthorized intrusions, including false and spurious messages and malicious vehicle control commands; and
+(B)
+a process for taking preventive and corrective action to mitigate against vulnerabilities in a highly automated vehicle or a vehicle that performs partial driving automation, including incident response plans, intrusion detection and prevention systems that safeguard key controls, systems, and procedures through testing or monitoring, and updates to such process based on changed circumstances.
+(2)
+The identification of an officer or other individual of the manufacturer as the point of contact with responsibility for the management of cybersecurity.
+(3)
+A process for limiting access to automated driving systems.
+(4)
+A process for employee training and supervision for implementation and maintenance of the policies and procedures required by this section, including controls on employee access to automated driving systems.
+(b)
+Effective date
+This section shall take effect 180 days after the date of enactment of this section.
+.
+(b)
+Enforcement authority
+Section 30165(a)(1) of title 49, United States Code, is amended by inserting
+30130,
+after
+30127,
+.
+(c)
+Clerical amendment
+The analysis for chapter 301 of subtitle VI of title 49, United States Code, is amended by inserting after the item relating to section 30129 (as added by section 4) the following new item:
+30130. Cybersecurity of automated driving systems.
+.
+(d)
+Definitions
+Section 30102 of title 49, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+by redesignating paragraphs (1) through (13) as paragraphs (2), (3), (4), (5), (8), (9), (10), (11), (12), (13), (15), (16), and (17), respectively;
+(B)
+by inserting before paragraph (2) (as so redesignated) the following:
+(1)
+automated driving system
+means the hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether such system is limited to a specific operational design domain.
+;
+(C)
+by inserting after paragraph (5) (as so redesignated) the following:
+(6)
+dynamic driving task
+means all of the real time operational and tactical functions required to operate a vehicle in on-road traffic, excluding the strategic functions such as trip scheduling and selection of destinations and waypoints, and includingâ
+(A)
+lateral vehicle motion control via steering;
+(B)
+longitudinal vehicle motion control via acceleration and deceleration;
+(C)
+monitoring the driving environment via object and event detection, recognition, classification, and response preparation;
+(D)
+object and event response execution;
+(E)
+maneuver planning; and
+(F)
+enhancing conspicuity via lighting, signaling, and gesturing.
+(7)
+highly automated vehicle
+â
+(A)
+means a motor vehicle equipped with an automated driving system; and
+(B)
+does not include a commercial motor vehicle (as defined in section 31101).
+;
+(D)
+by inserting after paragraph (13) (as so redesignated) the following:
+(14)
+operational design domain
+means the specific conditions under which a given driving automation system or feature thereof is designed to function.
+; and
+(E)
+by adding at the end the following:
+(18)
+vehicle that performs partial driving automation
+does not include a commercial motor vehicle (as defined in section 31101).
+; and
+(2)
+by adding at the end the following:
+(c)
+Revisions to certain definitions
+(1)
+If SAE International (or its successor organization) revises the definition of any of the terms defined in paragraph (1), (6), or (14) of subsection (a) in Recommended Practice Report J3016, it shall notify the Secretary of the revision. The Secretary shall publish a notice in the Federal Register to inform the public of the new definition unless, within 90 days after receiving notice of the new definition and after opening a period for public comment on the new definition, the Secretary notifies SAE International (or its successor organization) that the Secretary has determined that the new definition does not meet the need for motor vehicle safety, or is otherwise inconsistent with the purposes of this chapter. If the Secretary so notifies SAE International (or its successor organization), the existing definition in subsection (a) shall remain in effect.
+(2)
+If the Secretary does not reject a
+definition revised by SAE International (or its successor organization) as described in paragraph (1), the Secretary shall promptly make any conforming amendments to the regulations and standards of the Secretary that are necessary. The revised definition shall apply for purposes of this chapter. The requirements of section 553 of title 5 shall not apply to the making of any such conforming amendments.
+(3)
+Pursuant to section 553 of title 5, the Secretary may update any of the definitions in paragraph (1), (6), or (14) of subsection (a) if
+the Secretary determines that materially changed circumstances regarding highly automated vehicles have impacted motor vehicle safety such that the definitions need to be updated to reflect such circumstances.
+.

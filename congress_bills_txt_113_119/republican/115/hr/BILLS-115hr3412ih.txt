@@ -1,0 +1,111 @@
+1.
+Short title
+This Act may be cited as the
+Let NHTSA Enforce Automated Vehicle Driving Regulations Act
+or the
+LEADâR Act
+.
+2.
+Purpose
+The purpose of this Act is to memorialize the Federal role in ensuring the safety of highly automated vehicles as it relates to design, construction, and performance, by encouraging the testing and deployment of such vehicles.
+3.
+NHTSA authority and State preemption for autonomous motor vehicles
+(a)
+Relationship to other laws
+Section 30103 of title 49, United States Code, is amendedâ
+(1)
+by amending subsection (b) to read as follows:
+(b)
+Preemption
+(1)
+Highly automated vehicles
+No State or political subdivision of a State may maintain, enforce, prescribe, or continue in effect any law or regulation regarding the design, construction, or performance of highly automated vehicles, automated driving systems, or components of automated driving systems unless such law or regulation is identical to a standard prescribed under this chapter.
+(2)
+Motor vehicle standard
+When a motor vehicle safety standard is in effect under this chapter a State or political subdivision of a State may prescribe or continue in effect a standard applicable to the same aspect of performance of a motor vehicle or motor vehicle equipment only if the standard is identical to the standard prescribed under this chapter.
+(3)
+Rules of construction
+(A)
+In general
+Nothing in this subsection may be construed to prohibit a State or a political subdivision of a State from maintaining, enforcing, prescribing, or continuing in effect any law or regulation regarding registration, licensing, driving education and training, insurance, law enforcement, crash investigations, safety and emission inspections, congestion management of vehicles on the street within a State or political subdivision of a State, or traffic unless the law or regulation is an unreasonable restriction on the design, construction, or performance of highly automated vehicles, automated driving systems, or components of automated driving systems.
+(B)
+Motor vehicle dealers
+Nothing in this subsection may be construed to prohibit a State or political subdivision of a State from maintaining, enforcing, prescribing, or continuing in effect any law or regulation regarding the sale, distribution, repair, or service of highly automated vehicles, automated driving systems, or components of automated driving systems by a dealer, manufacturer, or distributor.
+(C)
+Conformity with Federal law
+Nothing in this subsection shall be construed to preempt, restrict, or limit a State or political subdivision of a State from acting in accordance with any other Federal law.
+(4)
+Higher performance requirement
+However, the United States Government, a State, or a political subdivision of a State may prescribe a standard for a motor vehicle, motor vehicle equipment, highly automated vehicle, or automated driving system obtained for its own use that imposes a higher performance requirement than that required by the otherwise applicable standard under this chapter.
+(5)
+State enforcement
+A State may enforce a standard that is identical to a standard prescribed under this chapter.
+; and
+(2)
+by amending subsection (e) to read as follows:
+(e)
+Common law liability
+(1)
+In general
+Compliance with a motor vehicle safety standard prescribed under this chapter does not exempt a person from liability at common law.
+(2)
+Rule of construction
+Nothing in this section shall be construed to preempt common law claims.
+.
+(b)
+Definitions
+Section 30102 of title 49, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+by redesignating paragraphs (1) through (13) as paragraphs (2), (3), (4), (5), (8), (9), (10), (11), (12), (13), (15), (16), and (17), respectively;
+(B)
+by inserting before paragraph (2) (as so redesignated) the following:
+(1)
+automated driving system
+means the hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether such system is limited to a specific operational design domain.
+;
+(C)
+by inserting after paragraph (5) (as so redesignated) the following:
+(6)
+dynamic driving task
+means all of the real time operational and tactical functions required to operate a vehicle in on-road traffic, excluding the strategic functions such as trip scheduling and selection of destinations and waypoints, and includingâ
+(A)
+lateral vehicle motion control via steering;
+(B)
+longitudinal vehicle motion control via acceleration and deceleration;
+(C)
+monitoring the driving environment via object and event detection, recognition, classification, and response preparation;
+(D)
+object and event response execution;
+(E)
+maneuver planning; and
+(F)
+enhancing conspicuity via lighting, signaling, and gesturing.
+(7)
+highly automated vehicle
+â
+(A)
+means a motor vehicle equipped with an automated driving system; and
+(B)
+does not include a commercial motor vehicle (as defined in section 31101).
+; and
+(D)
+by inserting after paragraph (13) (as so redesignated) the following:
+(14)
+operational design domain
+means the specific conditions under which a given driving automation system or feature thereof is designed to function.
+; and
+(2)
+by adding at the end the following:
+(c)
+Revisions to certain definitions
+(1)
+If SAE International (or its successor organization) revises the definition of any of the terms defined in paragraph (1), (6), or (14) of subsection (a) in Recommended Practice Report J3016, it shall notify the Secretary of the revision. The Secretary shall publish a notice in the Federal Register to inform the public of the new definition unless, within 90 days after receiving notice of the new definition and after opening a period for public comment on the new definition, the Secretary notifies SAE International (or its successor organization) that the Secretary has determined that the new definition does not meet the need for motor vehicle safety, or is otherwise inconsistent with the purposes of this chapter. If the Secretary so notifies SAE International (or its successor organization), the existing definition in subsection (a) shall remain in effect.
+(2)
+If the Secretary does not reject a
+definition revised by SAE International (or its successor organization) as described in paragraph (1), the Secretary shall promptly make any conforming amendments to the regulations and standards of the Secretary that are necessary. The revised definition shall apply for purposes of this chapter. The requirements of section 553 of title 5 shall not apply to the making of any such conforming amendments.
+(3)
+Pursuant to section 553 of title 5, the Secretary may update any of the definitions in paragraph (1), (6), or (14) of subsection (a) if
+the Secretary determines that materially changed circumstances regarding highly automated vehicles have impacted motor vehicle safety such that the definitions need to be updated to reflect such circumstances.
+.

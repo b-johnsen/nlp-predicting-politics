@@ -1,0 +1,119 @@
+1.
+Short title
+This Act may be cited as the
+Justice in Forensic Algorithms Act of 2019
+.
+2.
+Computational Forensic Algorithm Standards
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall establish a program to provide for creation and maintenance of standards for the development and use of computational forensic software, to be known as the Computational Forensic Algorithm Standards, consistent with the following:
+(1)
+Standards shall include an assessment for the potential for disparate impact, on the basis of race, ethnicity, socioeconomic status, gender, and other demographic features, in the development and use of the computational forensic software.
+(2)
+Standards shall addressâ
+(A)
+(i)
+the underlying scientific principles and methods implemented in computational forensic software; and
+(ii)
+if, in the case of a particular method, there are insufficient studies supporting its use, what studies the Director has conducted to do so, and the results of such studies;
+(B)
+requirements for testing the software including the conditions under which it needs to be tested, types of testing data to be used, testing environments, testing methodologies, and system performance statistics required to be reported includingâ
+(i)
+accuracy, including false positive and false negative error rates;
+(ii)
+precision;
+(iii)
+reproducibility;
+(iv)
+robustness; and
+(v)
+sensitivity;
+(C)
+requirements for publicly available documentation by developers of computational forensic software of the purpose and function of the software, the development process, including source and description of training data, and internal testing methodology and results, including source and description of testing data;
+(D)
+requirements for laboratories and any other entities using computational forensic software to validate it for use, including to specify the conditions under which the lab has validated it for their use, requirements for what information needs to be included in a public report on the lab or other entityâs validation, and requirements for internal validation updates when there are material changes to the software; and
+(E)
+requirements for reports provided to defendants by prosecution produced documenting the use and results of computational forensic software in individual cases.
+(3)
+Standards shall be issued as a rulemaking under section 553 of title 5, United States Code.
+(4)
+The Director shall consult with outside experts in forensic science, bioethics, algorithmic discrimination, data privacy, racial justice, criminal justice reform, exonerations, and other relevant areas of expertise identified through public input.
+(b)
+Protection of trade secrets
+The Federal Rules of Evidence are amended by adding at the end of article V the following:
+Rule 503.
+Protection of trade secrets in a criminal proceeding
+In any criminal case, trade secrets protections do not apply when defendants would otherwise be entitled to obtain evidence.
+.
+(c)
+Requirements for Federal use of forensic algorithms
+Any Federal law enforcement agency or crime laboratory providing services to a Federal agency using computational forensic software may use only software that has been tested under the National Institute of Standards and Technologyâs Computational Forensic Algorithm Testing Program and shall conduct an internal validation according to the requirements outlined in the Computational Forensic Algorithm Standards and make the results publicly available. The internal validation shall be updated when there is a material change in the software that triggers a retesting by the Computational Forensic Algorithm Testing Program.
+(d)
+Requirements for testing
+The Director of the National Institute of Standards and Technology shall establish a Computational Forensic Algorithm Testing Program, whose activities include the following:
+(1)
+Testing individual software programs using the testing requirements established in the Computational Forensic Algorithm Standards.
+(2)
+Using realistic sample testing data similar to what would be used by law enforcement in criminal investigations in performing such testing, including incomplete and contaminated samples.
+(3)
+Using testing data that represents diversity of racial, ethnic, and gender identities and intersections of these identities in performing such testing.
+(4)
+Using testing data that tests the limits of the software and demonstrates the boundaries of reliability described in the performance measures defined in the Computational Forensic Algorithm Standards in performing such testing.
+(5)
+Publishing the results of testing the software online including results under conditions specified in the standards and across diversity of racial, ethnic, and gender identities and intersections of these identities in a publicly available format.
+(e)
+Testing frequency
+Retesting shall be conducted when a material change is made to the software that impacts its performance and may affect its outputs. The Director shall establish requirements for determining whether changes are material or nonmaterial.
+(f)
+Discovery in criminal cases
+Rule 16 of the Federal Rules of Criminal Procedure is amendedâ
+(1)
+in subdivision (a)(1), by adding at the end the following:
+(H)
+Use of Computational Forensic Software
+. Any results or reports resulting from analysis by computational forensic software shall be provided to the defendant, and the defendant shall be accorded access to an executable copy of the version of the computational forensic software, as well as earlier versions of the software, necessary instructions for use and interpretation of the results, and relevant files and data, used for analysis in the case and suitable for testing purposes. Such a report on the results shall includeâ
+(i)
+the name of the company that developed the software;
+(ii)
+the name of the lab where test was run;
+(iii)
+the version of the software that was used;
+(iv)
+the dates of the most recent changes to the software and record of changes made, including any bugs found in the software and what was done to address those bugs;
+(v)
+documentation of procedures followed based on procedures outlined in internal validation;
+(vi)
+documentation of conditions under which software was used relative to the conditions under which software was tested; and
+(vii)
+any other information specified by the Director of the National Institute of Standards and Technology in the Computational Forensic Algorithm Standards.
+.
+(g)
+Inadmissibility of certain evidence
+The Federal Rules of Evidence are amended by adding at the end of article I the following:
+Rule 107.
+Inadmissibility of certain evidence that is the result of analysis by computational forensic software
+In any criminal case, evidence that is the result of analysis by computational forensic software is admissible only ifâ
+(1)
+the computational forensic software used has been submitted to the Computational Forensic Algorithm Testing Program of the Director of the National Institute of Standards and Technology and there have been no material changes to that software since it was last tested; and
+(2)
+the developers and users of the computational forensic software agree to waive any and all legal claims against the defense or any member of its team for the purposes of the defense analyzing or testing the computational forensic software.
+.
+(h)
+Definitions
+In this Act:
+(1)
+Computational forensic software
+The term
+computational forensic software
+means software that relies on an automated or semiautomated computational process, including one derived from machine learning, statistics, or other data processing or artificial intelligence techniques, to process, analyze, or interpret evidence.
+(2)
+material change
+The term
+material change
+means an update to computational forensic software that may affect the performance measures defined in the Computational Forensic Algorithm Standards or the use or output of the software.
+(3)
+nonmaterial change
+The term
+nonmaterial change
+means an update to computational forensic software that does not affect the performance measures, use, or output of the software.

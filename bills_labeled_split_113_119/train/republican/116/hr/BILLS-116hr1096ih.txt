@@ -1,0 +1,73 @@
+1.
+Short title
+This Act may be cited as the
+Promoting Internet Freedom and Innovation Act of 2019
+.
+2.
+Open internet requirements
+Title I of the Communications Act of 1934 (
+47 U.S.C. 151
+et seq.) is amended by adding at the end the following:
+14.
+Open internet requirements
+(a)
+Transparency
+Any person providing broadband internet access service shall publicly disclose accurate information regarding the network management practices, performance characteristics, and commercial terms of its broadband internet access services sufficient to enable consumers to make informed choices regarding the purchase and use of such services and entrepreneurs and other small businesses to develop, market, and maintain internet offerings. The disclosure shall be made via a publicly available, easily accessible website.
+(b)
+Prohibition on blocking, impairment and degradation, and paid prioritization
+A person engaged in the provision of broadband internet access service, insofar as the person is so engaged, may notâ
+(1)
+block lawful content, applications, services, or nonharmful devices, subject to reasonable network management;
+(2)
+impair or degrade lawful internet traffic on the basis of internet content, application, or service, or use of a nonharmful device, subject to reasonable network management; or
+(3)
+engage in paid prioritization.
+(c)
+Savings clause
+Nothing in this sectionâ
+(1)
+supersedes any obligation or authorization a provider of broadband internet access service may have to address the needs of emergency communications or law enforcement, public safety, or national security authorities, consistent with or as permitted by applicable law, or limits the providerâs ability to do so; or
+(2)
+prohibits reasonable efforts by a provider of broadband internet access service to address copyright infringement or other unlawful activity.
+(d)
+Definitions
+In this section:
+(1)
+Broadband internet access service
+(A)
+In general
+The term
+broadband internet access service
+means a mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up internet access service.
+(B)
+Functional equivalent; evasion
+The term includes any service thatâ
+(i)
+the Commission finds to be providing a functional equivalent of the service described in subparagraph (A); or
+(ii)
+is used to evade the protections set forth in this section.
+(2)
+Edge provider
+The term
+edge provider
+means any individual or entity that provides any content, application, or service over the internet, and any individual or entity that provides a device used for accessing any content, application, or service over the internet.
+(3)
+End user
+The term
+end user
+means any individual or entity that uses a broadband internet access service.
+(4)
+Paid prioritization
+The term
+paid prioritization
+means the management of a broadband providerâs network to directly or indirectly favor some traffic over other traffic, including through the use of techniques such as traffic shaping, prioritization, resource reservation, or other forms of preferential traffic management, eitherâ
+(A)
+in exchange for consideration, monetary or otherwise, from a third party; or
+(B)
+to benefit an affiliated entity.
+(5)
+Reasonable network management
+The term
+reasonable network management
+means a practice that has a primarily technical network management justification, but does not include other business practices. A network management practice is reasonable if it is primarily used for and tailored to achieving a legitimate network management purpose, taking into account the particular network architecture and technology of the broadband internet access service.
+.

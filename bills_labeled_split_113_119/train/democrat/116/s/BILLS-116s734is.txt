@@ -1,0 +1,127 @@
+1.
+Short title
+This Act may be cited as the
+Internet of Things Cybersecurity Improvement Act of 2019
+or the
+IoT Cybersecurity Improvement Act of 2019
+.
+2.
+Definitions
+In this Act:
+(1)
+Agency
+The term
+agency
+has the meaning given such term in section 3502 of title 44, United States Code.
+(2)
+Covered device
+(A)
+In general
+The term
+covered device
+means a physical object thatâ
+(i)
+is capable of connecting to and is in regular connection with the Internet;
+(ii)
+has computer processing capabilities that can collect, send, or receive data; and
+(iii)
+is not a general-purpose computing device, including personal computing systems, smart mobile communications devices, programmable logic controls, and mainframe computing systems.
+(B)
+Modification of definition
+The Director of the Office of Management and Budget shall establish a process by whichâ
+(i)
+interested parties may petition for a device that is not described in subparagraph (A) to be considered a device that is not a covered device; and
+(ii)
+the Director acts upon any petition submitted under clause (i) in a timely manner.
+(3)
+Security vulnerability
+The term
+security vulnerability
+means any attribute of hardware, firmware, software, or combination of 2 or more of these factors that could enable the compromise of the confidentiality, integrity, or availability of an information system or its information or physical devices to which it is connected.
+3.
+National Institute of Standards and Technology considerations and recommendations regarding
+managing Internet of Things cybersecurity risks
+(a)
+Completion of ongoing efforts relating to considerations for managing internet of things
+cybersecurity risks
+(1)
+In general
+The Director of the National Institute of Standards and Technology shall ensure that the efforts of the Institute in effect on the date of the enactment of this Act regarding considerations for managing Internet of Things cybersecurity risks, especially regarding examples of possible cybersecurity capabilities of Internet of Things devices, are completed no later than September 30, 2019.
+(2)
+Matters addressed
+In ensuring efforts are completed under paragraph (1), the Director shall also ensure that such efforts address, at a minimum, the following considerations for covered devices:
+(A)
+Secure Development.
+(B)
+Identity management.
+(C)
+Patching.
+(D)
+Configuration management.
+(b)
+Development of recommended standards for use of internet of things devices by Federal Government
+(1)
+In general
+Not later than March 31, 2020, the Director of the Institute shall develop recommendations for the Federal Government on the appropriate use and management by the Federal Government of Internet of Things devices owned or controlled by the Federal Government, including minimum information security requirements for managing cybersecurity risks associated with such devices.
+(2)
+Consistency with ongoing efforts
+The Director of the Institute shall ensure that the recommendations and standards developed under paragraph (1) are consistent with the efforts referred to in subsection (a), especially with respect to the examples of possible cybersecurity capabilities referred to in such subsection.
+(c)
+Institute Report on cybersecurity considerations stemming from the convergence of Information
+Technology, Internet of Things, and Operational Technology devices,
+networks and systems
+Not later than 180 days following the enactment of this Act, the Director of the Institute shall publish a draft report related to the increasing convergence of traditional Information Technology devices, networks, and systems with Internet of Things devices, networks and systems and Operational Technology devices, networks and systems, including considerations for managing cybersecurity risks associated with such trends.
+4.
+Policies for Federal agencies on use and management of Internet of Things devices
+(a)
+Revisions to the federal acquisition regulation
+Not later than 180 days after the date on which the Director of the National Institute of Standards and Technology completes the development of the recommendations required under section 3(b), the Director of the Office of Management and Budget shall issue guidelines for each agency that are consistent with such recommendations.
+(b)
+Requirement
+In issuing the guidelines required under subsection (a), the Director of the Office of Management and Budget shall ensure that the guidelines are consistent with the information security requirements in subchapter II of
+chapter 35
+of title 44, United States Code.
+(c)
+Quinquennial reviews and revisions
+Not less frequently than once every 5 yearsâ
+(1)
+the Director of the Office of Management and Budget and the Director of the National Institute of Standards and Technology shall review the policies issued under subsection (a); and
+(2)
+the Director of the Office of Management and Budget shall, in consultation with the Director of the National Institute of Standards and Technology, revise such policies.
+5.
+National Institute of Standards and Technology guidance on coordinated disclosure of security
+vulnerabilities relating to Internet of Things devices
+(a)
+In general
+Not later than 180 days after the date of the enactment of this Act, the Director of the National Institute of Standards and Technology shall, in consultation with such cybersecurity researchers and private-sector industry experts as the Director considers appropriate, publish guidance on policies and procedures for the reporting, coordinating, publishing, and receiving of information aboutâ
+(1)
+a security vulnerability relating to a covered device used by the Federal Government; and
+(2)
+the resolution of such security vulnerability.
+(b)
+Elements
+The guidance published under subsection (a) shall include the following:
+(1)
+Policies and procedures described in subsection (a) that, to the maximum extent practicable, are aligned with Standards 29147 and 30111 of the International Standards Organization, or any successor standards. Such policies and procedures shall include policies and procedures for a contractor or vendor providing a covered device to the Federal Government onâ
+(A)
+receiving information about a potential security vulnerability relating to the covered device; and
+(B)
+disseminating information about the resolution of a security vulnerability relating to the covered device.
+(2)
+Guidance, including example content, on the information items that should be produced through the implementation of the security vulnerability disclosure process of the contractor.
+6.
+Guidelines for Federal agencies on coordinated disclosure of security vulnerabilities relating to
+Internet of Things devices
+(a)
+Agency guidelines required
+Not later than 180 days after the date on which the guidance required under section 4 is published, the Director of the Office of Management and Budget shall, in consultation with the Administrator of the General Services Administration, issue guidelines for each agency on reporting, coordinating, publishing, and receiving information aboutâ
+(1)
+a security vulnerability relating to a covered device used by the agency; and
+(2)
+the resolution of such security vulnerability.
+(b)
+Contractor and vendor compliance with National Institute of Standards and Technology guidance
+The guidelines required by subsection (a) shall include a limitation that prohibits an agency from acquiring or using any covered device from a contractor or vendor if the contractor or vendor fails to comply with the guidance published under section 5(a).
+(c)
+Consistency with guidance from National Institute of Standards and Technology
+The Director shall ensure that the guidelines issued under subsection (a) are consistent with the guidance published under section 5(a).

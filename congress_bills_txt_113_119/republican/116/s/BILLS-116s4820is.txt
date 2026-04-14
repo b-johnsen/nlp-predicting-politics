@@ -1,0 +1,228 @@
+1.
+Short title
+This Act may be cited as the
+Long-Term Care Affordability Act
+.
+2.
+Long-term care contracts purchased with retirement plan distributions
+(a)
+In general
+Section 402
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+(m)
+Distributions with respect to long-Term care insurance
+(1)
+Exclusion
+(A)
+In general
+Gross income of an individual for the taxable year does not include any distribution from an eligible retirement plan to the extent that the aggregate amount of such distributions does not exceed the amount paid by or assessed to such individual during the taxable year for or with respect to coverage described in subparagraph (B) for the individual, the individualâs spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of the individual.
+(B)
+Coverage described
+Coverage described in this subparagraph isâ
+(i)
+a qualified long-term care insurance contract (as defined in section 7702B(b)) covering qualified long-term care services (as defined in section 7702B(c)), and
+(ii)
+coverage of the risk that an insured individual would become a chronically ill individual (within the meaning of section 101(g)(4)(B)) under a rider or other provision of a life insurance contract which satisfies the requirements of section 101(g)(3) (determined without regard to subparagraph (D) thereof).
+(2)
+Limitation
+(A)
+In general
+The amount excluded from gross income under paragraph (1) for any taxable year shall not exceed $2,500 with respect to payments for coverage for any insured individual.
+(B)
+Exclusion available only to 1 taxpayer
+The exclusion under paragraph (1) shall be allowed to only 1 taxpayer for any taxable year with respect to any 1 insured individual.
+(C)
+Adjustment for inflation
+(i)
+In general
+In the case of any taxable year beginning after December 31, 2020, the $2,500 amount in subparagraph (A) shall be increased by an amount equal toâ
+(I)
+such dollar amount, multiplied by
+(II)
+the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting
+calendar year 2019
+for
+calendar year 2016
+in subparagraph (A)(ii) thereof.
+(ii)
+Rounding
+If any increase determined under clause (i) is not a multiple of $10, such increase shall be rounded to the nearest multiple of $10.
+(3)
+Eligible retirement plan
+For purposes of this subsection, the term
+eligible retirement plan
+means any plan whichâ
+(A)
+is described in clause (i),(ii), (iv), (v), or (vi) of subsection (c)(8)(B), or
+(B)
+is a defined contribution plan described in clause (iii) of subsection (c)(8)(B).
+(4)
+Distributions must otherwise be includible
+Rules similar to the rules of subsection (l)(3) shall apply for purposes of this subsection.
+(5)
+Separately stated portions of a contract
+For purposes of this subsection, the amount taken into account as paid during the taxable year for coverage described in paragraph (1)(B)(i) includes premiums paid and charges assessed during such taxable year for any such coverage which is treated as a separate contract under section 7702B(e)(1), if such separate contract is a qualified long-term care insurance contract (as defined in section 7702B(b)).
+(6)
+Coordination with other deductions
+The amounts excluded from gross income under paragraph (1) shall not be taken into account under section 162(l) or 213.
+.
+(b)
+Amounts treated as required minimum distribution
+Section 401(a)(9)
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+(I)
+Treatment of distributions for long-term care insurance
+For purposes of this title, if a distribution is required under this paragraph for a taxable year, any distribution which is excluded from gross income under section 402(m) for the taxable year shall be treated as a distribution required under this paragraph.
+.
+(c)
+Conforming amendments
+(1)
+Section 401(k)(2)(B)(i)
+of the Internal Revenue Code of 1986 is amended by striking
+or
+at the end of subclause (IV), by striking
+and
+at the end of subclause (V) and inserting
+or
+, and by adding at the end the following new subclause:
+(VI)
+as provided in section 402(m), and
+.
+(2)
+Section 403(b)(11) of such Code is amended by striking
+or
+at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting
+, or
+, and by inserting after subparagraph (C) the following new subparagraph:
+(D)
+for distributions to which section 402(m) applies.
+.
+(3)
+Section 457(d)(1)(A) of such Code is amended by striking
+or
+at the end of clause (ii), by striking the comma at the end of clause (iii) and inserting
+, or
+, and by adding at the end the following new clause:
+(iv)
+as provided in section 402(m),
+.
+(d)
+Reporting
+(1)
+In general
+Subpart B of part III of subchapter A of
+chapter 61
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
+6050Z.
+Certain withdrawals from qualified arrangements for long-term care insurance
+(a)
+Requirement of reporting
+Any issuer of a qualified long-term care insurance contract (as defined in section 7702B(b)), including a rider or other provision that is treated as a qualified long-term care insurance contract under section 7702B(e)(1), or of coverage described in section 402(m)(1)(B)(ii), shall make a return, according to forms or regulations prescribed by the Secretary, setting forth for each insured individualâ
+(1)
+the aggregate amount of premiums and charges paid for the contract or coverage covering such individual during the calendar year,
+(2)
+the name, address, and TIN of the owner of the contract, if applicable, and
+(3)
+the name, address, and TIN of the insured under the contract.
+(b)
+Statement To be furnished to persons with respect to whom information is required
+Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showingâ
+(1)
+the name, address, and phone number of the information contact of the issuer of the qualified long-term care insurance contract or coverage described in section 402(m)(1)(B)(ii), and
+(2)
+the aggregate amount of premiums and charges paid under the contract or coverage covering the insured individual during the calendar year.
+The written statement required under the preceding sentence shall be furnished to the individual or individuals on or before January 31 of the year following the calendar year for which the return required under subsection (a) was required to be made.
+(c)
+Contracts or coverage covering more than one insured
+In the case of contracts or coverage covering more than one insured, the return and statement required by subsections (a) and (b) shall identify only the portion of the premium that is properly allocable to the insured in respect of whom the return or statement is made.
+.
+(2)
+Clerical amendment
+The table of sections for subpart B of part III of subchapter A of chapter 61 of such Code is amended by adding after the item relating to section 6050Y the following new item:
+Sec. 6050Z. Certain withdrawals from qualified arrangements for long-term care insurance.
+.
+(e)
+Effective date
+The amendment made by this section shall apply to distributions received after the date of the enactment of this Act.
+3.
+Information about long-term care insurance
+Section 516 of the Employee Retirement Income Security Act of 1974 (
+29 U.S.C. 1146
+) is amendedâ
+(1)
+in the section heading, by inserting
+and participation in long-term care insurance
+after
+savings
+;
+(2)
+in subsection (a), by inserting
+and long-term care insurance
+after
+income savings
+;
+(3)
+in subsection (c)â
+(A)
+in paragraph (1), by striking
+; and
+and inserting a semicolon;
+(B)
+in paragraph (2), by striking the period and inserting
+; and
+; and
+(C)
+by adding at the end the following:
+(3)
+a description of long-term care insurance arrangements, and information regarding matters relevant to enrolling in such insurance, includingâ
+(A)
+a fact sheet for employers, in an easily accessible format; and
+(B)
+a fact sheet for workers, in an easily accessible format.
+; and
+(4)
+in subsection (d)â
+(A)
+in the matter preceding paragraph (1), by inserting
+and long-term care insurance
+before the period at the end of the first sentence;
+(B)
+in paragraph (3), by adding
+and
+after the semicolon;
+(C)
+in paragraph (4), by striking
+; and
+and inserting a period;
+(D)
+by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and adjusting the margins accordingly;
+(E)
+by redesignating paragraph (5) as paragraph (3);
+(F)
+by inserting before subparagraph (A), as so redesignated, the following:
+(1)
+With respect to retirement income savingsâ
+;
+(G)
+by inserting before paragraph (3), as so redesignated by subparagraph (E), the following:
+(2)
+With respect to long-term care insuranceâ
+(A)
+a description in simple terms of the common types of long-term care insurance available to both individuals and employers (specifically including small employers), including information on the tax benefits of such insurance under the Internal Revenue Code of 1986; and
+(B)
+materials explaining to employers in simple terms, the characteristics and operation of the different long-term care insurance for their workers and what the basic legal requirements are under this Act and the Internal Revenue Code of 1986, including the steps to enroll in such insurance and including links to the fact sheets described in subsection (c)(3).
+; and
+(H)
+in paragraph (3), as so redesignated by subparagraph (E)â
+(i)
+by striking
+links to other
+and inserting
+Links to other
+; and
+(ii)
+by inserting
+and long-term care insurance
+after
+retirement income savings arrangements
+.

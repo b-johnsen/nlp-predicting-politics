@@ -1,0 +1,227 @@
+1.
+Short title
+This Act may be cited as the
+No Harm Data Centers Act
+.
+2.
+Findings
+Congress finds thatâ
+(1)
+data centers, while creating potentially economically valuable tools, impose costs upon other electricity customers, in the form of higher costs for the generation of electricity, along with necessary investments in electric infrastructure; and
+(2)
+the costs imposed by data centers upon the bulk-power system should be fully borne by data centers and that other residential and small commercial electricity customers should be economically protected from the impacts of data centers.
+3.
+Ensuring data centers pay their fair share
+(a)
+Data center defined
+Section 3 of the Federal Power Act (
+16 U.S.C. 796
+) is amended by adding at the end the following:
+(30)
+Data center
+The term
+data center
+meansâ
+(A)
+any facility thatâ
+(i)
+is behind a single point of interconnection;
+(ii)
+primarily contains electronic equipment used to process, store, and transmit digital information; and
+(iii)
+has a peak electricity demand of greater than 50 megawatts; or
+(B)
+any group of facilitiesâ
+(i)
+that are behind a single point of interconnection;
+(ii)
+the majority of which primarily contain electronic equipment used to process, store, and transmit digital information; and
+(iii)
+that, in the aggregate, have a peak electricity demand of greater than 50 megawatts.
+.
+(b)
+Ensuring data centers pay their fair share
+The Federal Power Act is amended by inserting after section 223 (
+16 U.S.C. 824w
+) the following:
+224.
+Ensuring data centers pay their fair share
+(a)
+Authority
+(1)
+In general
+Notwithstanding subsection (a) and subsection (b)(1) of section 201, and subject to subsection (d), the Commission shall, beginning on the date that is 90 days after the date of enactment of this section, have the sole authority to approve rates and charges for the retail sale of electric energy from a covered electric utility to a data center.
+(2)
+Just and reasonable requirement
+All rates and charges approved by the Commission pursuant to paragraph (1) shall be just and reasonable, and not unduly discriminatory or preferential. If the Commission finds, after a hearing held upon its own motion or upon complaint, that any rate or charge approved by the Commission is unjust or unreasonable, or unduly discriminatory or preferential, the Commission shall fix a new rate or charge that is just and reasonable and not unduly discriminatory or preferential.
+(b)
+Full allocation of costs
+Any rate or charge approved pursuant to subsection (a) shall includeâ
+(1)
+the full costs of constructing, upgrading, and expanding any transmission or distribution facility to facilitate the interconnection of data centers to the bulk-power system;
+(2)
+the full costs of constructing, upgrading, and expanding any transmission or distribution facility to ensure the reliability of the bulk-power system during periods of increasing demand for electric energy from data centers; and
+(3)
+the full costs of constructing, upgrading, and expanding any generating facility to facilitate the reliability of the bulk-power system during periods of increasing demand for electric energy from data centers.
+(c)
+Prohibition on cost-shifting
+No covered electric utility may shift the costs described in paragraphs (1) through (3) of subsection (b) onto their retail rates or charges for any customer other than a data center.
+(d)
+Inapplicability
+This section shall not apply within the area referred to in section 212(k)(2)(A).
+(e)
+Definitions
+In this section:
+(1)
+Commission
+The term
+Commission
+means the Federal Energy Regulatory Commission.
+(2)
+Covered electric utility
+The term
+covered electric utility
+means a person that sells electric energy, exceptâ
+(A)
+an electric cooperative described in section 201(f);
+(B)
+an electric utility that is owned or operated by a State or political subdivision thereof;
+(C)
+the Tennessee Valley Authority; and
+(D)
+each Federal power marketing administration.
+.
+(c)
+Penalties
+The Federal Power Act (
+16 U.S.C. 792 et seq.
+) is amendedâ
+(1)
+in section 221, by inserting
+, the price of electricity sold to data centers at retail and inputs to such price,
+after
+sold at wholesale
+;
+(2)
+in section 307(a), by inserting
+, the sale of electric energy at retail to data centers,
+after
+at wholesale in interstate commerce
+;
+(3)
+in section 311, by striking
+and industrial
+and inserting
+data center, and industrial
+; and
+(4)
+in section 316A(b)â
+(A)
+by striking
+Any person who violates any provision of part II
+and inserting the following:
+(1)
+In general
+Any person who violates any provision of part II, except for section 224,
+;
+(B)
+by striking
+Such penalty
+and inserting the following:
+(2)
+Data center violations
+Any person who violates any provision of section 224 or any provision of any rule or order thereunder shall be subject to a civil penalty of not more than $10,000,000 for each day that such violation continues.
+(3)
+Assessment
+A penalty under this subsection
+; and
+(C)
+by striking
+In determining the amount of a proposed penalty,
+and inserting the following:
+(4)
+Penalty amount
+In determining the amount of a proposed penalty under this subsection,
+.
+(d)
+Conforming amendment
+Section 201(e) of the Federal Power Act (
+16 U.S.C. 824(e)
+) is amended by striking
+or 222
+and inserting
+222, or 224
+.
+4.
+Limitation on judicial enforceability of predispute nondisclosure contract clauses relating to the construction of data centers
+(a)
+In general
+(1)
+Enforceability against public officials
+With respect to the construction of a data center, no predispute nondisclosure clause shall be judicially enforceable against a public official.
+(2)
+Continued applicability of state law
+This section shall not be construed to supersede a provision of State law that establishes, implements, or continues in effect a requirement or prohibition except to the extent that such requirement or prohibition prevents the application of this section.
+(b)
+Applicability
+This section shall apply with respect to a claim that is filed under Federal, State, or Tribal law on or after the date of the enactment of this Act.
+5.
+Assessment of environmental and public health effects of data centers
+The Administrator of the Environmental Protection Agency shall seek to enter into an agreement with the National Academies under which the National Academies shallâ
+(1)
+conduct an assessment of the impacts of data centers on the environment and public health, including with respect toâ
+(A)
+noise pollution;
+(B)
+air pollution;
+(C)
+water consumption;
+(D)
+water supply;
+(E)
+carbon emissions; and
+(F)
+waste, including electronic waste;
+(2)
+develop recommendations to mitigate such impacts; and
+(3)
+not later than 180 days after the date of the enactment of this Act, submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the results of the assessment conducted under paragraph (1) and the recommendations developed under paragraph (2).
+6.
+Definitions
+For purposes of this Act:
+(1)
+Data center
+The term
+data center
+meansâ
+(A)
+any facility thatâ
+(i)
+is behind a single point of interconnection;
+(ii)
+primarily contains electronic equipment used to process, store, and transmit digital information; and
+(iii)
+has a peak electricity demand of greater than 50 megawatts; or
+(B)
+any group of facilitiesâ
+(i)
+that are behind a single point of interconnection;
+(ii)
+the majority of which primarily contain electronic equipment used to process, store, and transmit digital information; and
+(iii)
+that, in the aggregate, have a peak electricity demand of greater than 50 megawatts.
+(2)
+National Academies
+The term
+National Academies
+means the National Academies of Sciences, Engineering, and Medicine.
+(3)
+Predispute nondisclosure clause
+The term
+predispute nondisclosure clause
+means a provision in a contract or agreement agreed to before a lawsuit is filed under Federal, State, or Tribal law, that requires the parties to the contract or agreement not to disclose or discuss conduct, the existence of a settlement involving conduct, or information covered by the terms and conditions of the contract or agreement.
+(4)
+Public official
+The term
+public official
+means an individual who, at the time a contract or agreement was agreed to, was an elected official of a Federal, State, or local unit of government in the United States.

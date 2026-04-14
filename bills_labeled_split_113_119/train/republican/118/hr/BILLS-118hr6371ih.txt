@@ -1,0 +1,152 @@
+1.
+Short title
+This Act may be cited as the
+Provider Reimbursement Stability Act of 2023
+.
+2.
+Updating the budget neutrality threshold
+Section 1848(c)(2)(B)(ii)(II) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)(ii)(II)
+) is amendedâ
+(1)
+by striking
+Subject to
+and inserting the following:
+(aa)
+In general
+Subject to
+;
+(2)
+in item (aa), as inserted by subparagraph (A), by striking
+$20,000,000
+and inserting
+the amount specified in item (bb) for such year
+; and
+(3)
+by adding at the end the following new items:
+(bb)
+Amount specified
+For purposes of item (aa), subject to item (cc), the amount specified in this item isâ
+(AA)
+for years before 2025, $20,000,000;
+(BB)
+for 2025, $53,000,000; and
+(CC)
+for 2026 and each subsequent year, the amount specified in this item for the preceding year.
+(cc)
+Indexing limitation on annual adjustments
+For 2030 and every subsequent fifth year, the Secretary shall increase the amount specified in item (bb) for such year by the cumulative increase in the MEI (as defined in section 1842(i)(3)) applicable to physiciansâ services over the 5-year period ending on the last day of the preceding year.
+.
+3.
+Budget neutrality corrections for overestimates and underestimates in utilization
+(a)
+In general
+Section 1848(c)(2)(B) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)
+) is amended by adding at the end the following new clause:
+(vii)
+Budget neutrality corrections for overestimates and underestimates in utilization
+(I)
+In general
+In the case of a budget neutrality adjustment applied pursuant to clause (ii)(II) for an adjustment application year (as defined in clause (viii)(I)) beginning with 2025, with respect to an adjustment to relative value units made under clause (ii)(I), that is determined using estimated utilization (as defined in clause (viii)(III))â
+(aa)
+the Secretary shall, by not later than September 1 of the subsequent yearâ
+(AA)
+compare such estimated utilization to actual utilization occurring during such adjustment application year with respect to the adjustment to the relative value units made under clause (ii)(I); and
+(BB)
+if applicable, determine the extent to which, if any, the difference between the estimated utilization and such actual utilization affected the amount of such budget neutrality adjustment applied for such adjustment application year; and
+(bb)
+in the case that the Secretary determines under subclause (I)(bb) that the difference between the estimated utilization and such actual utilization affected the amount of the budget neutrality adjustment applied for such adjustment application year, the Secretary shall adjust the amount of payment made under this section for services furnished during the adjustment correction period (as defined in clause (viii)(II)) with respect to such year by such amount as determined necessary by the Secretary to reconcile the difference (which may be positive or negative) betweenâ
+(AA)
+the budget neutrality adjustment that had been applied for such application adjustment year, using the estimated utilization; and
+(BB)
+the budget neutrality adjustment that would have been applied for such year if such adjustment had been calculated using such actual utilization.
+(II)
+Definitions
+For purposes of this clause:
+(aa)
+Adjustment application year
+The term
+adjustment application year
+means, with respect to an adjustment to relative value units made under clause (ii)(I) for which a budget neutrality adjustment under clause (ii)(II) is required, the year for which such adjustments are applied.
+(bb)
+Adjustment correction period
+The term
+adjustment correction period
+means, with respect to an adjustment application year, the second year beginning after such adjustment application year.
+(cc)
+Estimated utilization
+The term
+estimated utilization
+means, with respect to an adjustment to relative value units made under clause (ii)(I), an estimate of utilization associated with such adjustment used for purposes of applying clause (ii)(II).
+.
+(b)
+Nonapplication of budget neutrality to reconciliation adjustments
+Section 1848(c)(2)(B) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)
+) is amendedâ
+(1)
+in clause (iv)â
+(A)
+in subclause (V), by striking
+and
+at the end;
+(B)
+in subclause (VI), by striking the period and inserting
+; and
+; and
+(C)
+by adding at the end the following new subclause:
+(VII)
+clause (vii)(I)(bb) for an adjustment correction period shall not be taken into account in applying clause (ii)(II) with respect to such period.
+; and
+(2)
+in clause (v), by adding at the end the following new subclause:
+(XII)
+Reductions attributable to an adjustment correction
+For an adjustment correction period, reduced expenditures attributable to application of clause (vii)(I)(bb) with respect to such period.
+.
+4.
+Timely updates to direct costs used to calculate practice expense RVUs
+Section 1848(c)(2)(B) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)
+), as amended by section 3, is further amended by adding at the end the following new clause:
+(viii)
+Timely updates to direct costs used to calculate practice expense relative value units
+(I)
+Simultaneous updates to direct cost inputs at least once every 5 years
+The Secretary shall, not less often than every 5 years, update the prices and rates, as applicable, for each of the direct costs inputs described in subclause (II) used in the methodology for calculating the practice expense relative value units under this subsection for physiciansâ services. Updates made pursuant to the previous sentence shall be made in the same year for all direct cost inputs described in such subclause.
+(II)
+Direct costs input categories described
+For purposes of this clause, the direct costs inputs described in this subclause are clinical staff wage rates, prices of medical supplies, and prices of equipment.
+(III)
+Consultation
+In making the updates under this clause, the Secretary shall consult with relevant stakeholders, including physician specialty societies.
+.
+5.
+Limitation on year-to-year conversion factor variance
+Section 1848(c)(2)(B) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)
+), as amended by sections 3 and 4, is further amendedâ by adding at the end the following new clause:
+(ix)
+Limitation on conversion factor variance
+(I)
+In general
+In the case that application of clause (ii)(II) for a year (beginning with 2025) would result in a conversion factor established under subsection (d) for such year, not taking into account any adjustment provided under such subsection, to vary by more than 2.5 percent compared to such factor so established for the preceding year (in this subclause referred to as the
+preceding yearâs conversion factor
+), the Secretary shallâ
+(aa)
+if such application would result in a decrease in such conversion factor, modify any budget neutrality adjustment applied to such conversion factor pursuant to such clause such that such conversion factor is decreased by 2.5 percent, not taking into account any adjustment provided under such subsection, compared to the preceding yearâs conversion factor; and
+(bb)
+if such application would result in an increase in such conversion factor, modify any budget neutrality adjustment applied to such conversion factor pursuant to such clause such that such conversion factor is increased by 2.5 percent, not taking into account any adjustment provided under such subsection, compared to the preceding yearâs conversion factor.
+(II)
+Special rule for 2025
+In applying subclause (I) with respect to the conversion factor established under subsection (d) for 2025, in determining whether the application of clause (ii)(II) for such year would result in such conversion factor varying by more than 2.5 percent compared to such factor so established for 2024, the Secretary shall take into account the increase to such conversion factor so established for 2024 provided under subsection (t).
+(III)
+Clarification relating to transition to multiple conversion factors
+For 2026, in applying subclause (I) with respect to the qualifying APM conversion factor (as described in subsection (d)(1)(A)) and the nonqualifying APM conversion factor (as so described) established under subsection (d) for such year, each reference in such subclause to the
+preceding yearâs conversion factor
+shall be deemed to be a reference to
+the single conversion factor (as described in subsection (d)(1)(A)) so established for 2025
+.
+.

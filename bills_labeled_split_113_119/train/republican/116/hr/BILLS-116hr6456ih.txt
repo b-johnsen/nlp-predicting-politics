@@ -1,0 +1,194 @@
+1.
+Short title
+This Act may be cited as the
+Serving Rural America Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Broadband service
+The term
+broadÂ­band service
+has the same meaning as Broadband internet access service in section 8.1(b) of the rules of the Federal Communications Commission (47 C.F.R. 8.1(b)).
+(2)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(3)
+Eligible broadband project
+The term
+eligible broadband project
+means a project proposed by an eligible partnership to provide, to a proposed service area, that is identified as unserved pursuant to section 3, subsection (c)(4), a retail fixed terrestrial broadband service of a capability determined by the Commission and that meets at least the minimum acceptable level for such service as established by the Secretary of Agriculture pursuant to section 601(e) of the Rural Electrification Act of 1936.
+(4)
+Eligible partnership
+The term
+eligible partnership
+means a partnershipâ
+(A)
+that includesâ
+(i)
+at least 1 political subdivision of a State or a federally recognized Indian Tribe (such as a city, county, wireless authority, or planning district commission); and
+(ii)
+at least 1 internet service provider who provides retail fixed terrestrial broadband service and is unaffiliated with the political subdivision of a State; and
+(B)
+where the political subdivision or federally recognized Indian Tribe uses an open and transparent process and applies criteria that does not discriminate against any entity to select the internet service provider as a partner or impose any requirement on such entity other than an agreement to meet the project requirements as described in section 3(j).
+3.
+Broadband grant program
+(a)
+Program established
+Not later than 1 year after the date of enactment of this Act, the Federal Communications Commission shall establish a program that provides grants, from amounts made available to carry out this Act, to eligible partnerships for eligible broadband projects.
+(b)
+Applications
+To be eligible to receive a grant under subsection (a), an eligible partnership shall submit an application at such time, in such manner, and containing such information as the Commission may require, includingâ
+(1)
+a description of the eligible broadband project (including the proposed broadband speed(s) and proposed cost) that such eligible partnership intends to undertake if awarded a grant under this Act (in this Act referred to as the
+proposed broadband project
+); and
+(2)
+a description of the proposed service area to be served by the proposed broadband project (in this Act referred to as the
+proposed service area
+).
+(c)
+Selection
+(1)
+In general
+The Commission shall award grants to eligible partnerships for eligible broadband projects on a competitively and technologically neutral basis.
+(2)
+Priority
+In awarding grants under subsection (a), the Commission shall give priority to applications for proposed broadband projects designed to provide the maximum level of broadband service in terms of peak speed, consistent speed, latency, reliability, and upgradability to the greatest proportion of households in a proposed service area.
+(3)
+Nondiscrimination
+In awarding grants under subsection (a), the Commissionâ
+(A)
+shall not discriminate against eligible partnerships that have not previously received a grant under this section; and
+(B)
+shall not require grant recipients to be designated as eligible telecommunications carriers pursuant to section 214 of the Communications Act of 1934.
+(4)
+Identification of unserved communities
+(A)
+In general
+For the purpose of awarding grants under subsection (a), the Commission shall find a proposed service area to be unserved and eligible to receive a grant ifâ
+(i)
+fixed terrestrial broadband service capacity, including any planned capacity or any capacity under construction in accordance with applicable deadlines imposed by a State or political subdivision, is not available within the proposed service area at 25 megabits per second downstream transmission capacity and 3 megabits per second upstream transmission capacity or greater; and
+(ii)
+any Federal, State, or local government agency is not already providing financial support in that area to a broadband service provider (including the internet service provider applicant or any affiliate thereof) to deploy and offer broadband service capacity to locations in such area.
+(B)
+Finding
+In making a finding under subparagraph (A), the Commission shallâ
+(i)
+use available data on broadband coverage (including the universal service funding) authorizations overseen by the Commission and confer with and obtain data from the Rural Utilities Service with respect to existing service capacity in the proposed service area;
+(ii)
+review any other mapping data that is relevant to service capacity validation, as determined by the Commission;
+(iii)
+provide reasonable opportunities, as described in subsection (d)(2) for input and presentation of data with respect to existing or already-planned service availability by providers and other stakeholders includingâ
+(I)
+analysis of third-party daÂ­taÂ­sets;
+(II)
+data collected through crowd sourcing of public input regarding mapping accuracy of proposed service area; and
+(III)
+site specific testing where mapping data is contested as incorrect; and
+(iv)
+post on the Commissionâs website and publish in the Federal Register the proposed service area and provide the public a period of at least 45 days after Federal Register publication to submit comments, including with information that the Commission shall keep confidential upon request of the commenting party, to the Commission on the proposed service area.
+(d)
+Ineligible uses of grant funds
+The Commission shall not award a grant, or other assistance for the deployment of broadband-capable infrastructure by a service provider that would be used to provide retail fixed terrestrial broadband service and that would overbuild or otherwise duplicate broadband-capable infrastructure that another service provider is using to provide retail fixed terrestrial broadband service in that same area as identified consistent with subsection (c)(4), except that any other proposed area covered by the same application as the ineligible area and that is identified as unserved consistent with subsection (c)(4) shall remain eligible for a grant or other such assistance.
+(e)
+Public notice
+The Commission shall establish a process through which, before the Commission awards a grant to such eligible partnership, members of the public and or any service providerâ
+(1)
+are notified that the Commission is considering awarding a grant to an eligible partnership for a proposed broadband project;
+(2)
+are notified they may participate in a challenge process to address claims about the eligibility of the area for a grant based upon existing or already-planned provision of retail fixed terrestrial broadband services; and
+(3)
+have an opportunity to inform the Commission that such proposed broadband project would duplicate existing broadband service in the proposed project area.
+(f)
+Broadband build-Out data and reporting
+(1)
+In general
+The Commission shall establish broadband build-out, reporting, and accountability requirements.
+(2)
+Build-out data
+Any eligible partnership that receives a grant under this Act shall provide to the Commission complete, reliable, and precise information in a format specified by the Commission that indicates the location of new broadband service the eligible partnership is providing through the eligible broadband project.
+(3)
+Date
+The information described in subsection (f)(2) shall be provided to the Commission not later than 90 days after the earlier ofâ
+(A)
+the date of completion of any eligible broadband project milestones established by the Commission; or
+(B)
+the date of completion of the eligible broadband project.
+(g)
+Federal contribution
+The amount of any grant provided to an eligible partnership under this Act may not exceed 75 percent of the total proposed cost of the eligible broadband project.
+(h)
+Technical assistance
+(1)
+In general
+The Commission may provide technical assistance and training to any eligible partnership applying for a grant under this Act.
+(2)
+Funding
+Not more than 5 percent of amounts appropriated to carry out this Act for a fiscal year may be used for technical assistance and training.
+(3)
+Coordination
+When providing technical assistance and training to an eligible partnership, the Commission shall coordinate with any State official responsible for broadband expansion in the State containing the proposed service area.
+(i)
+Relation to other federal broadband programs
+(1)
+Universal service fund
+The Commission shall coordinate to ensure that any grants made under this Act complement and do not conflict with the high-cost universal service support provided under section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+).
+(2)
+Rural utilities service
+The Commission shall coordinate with the Secretary of Agriculture to ensure that any grants made under this Act complement and do not conflict with loans and grants provided by the Department of Agriculture under title VI of the Rural Electrification Act of 1936 (
+7 U.S.C. 950bb
+et seq.), including the BroadÂ­band Grants, Loans, and Loan Guarantees program and the Community Connect Programs, and the ReConnect Program.
+(j)
+Project requirements
+Any project funded through the program shall meet the following requirements:
+(1)
+The project shall offer broadband service with a download speed of at least 100 megabits per second, an upload speed of at least 20 megabits per second, and a latency sufficient to real time applications.
+(2)
+For any project that involves underground fiber-optic cable along a roadway, the project shall include consistent conduit access points, as defined by the Commission.
+(3)
+The project shall incorporate best management practices, as defined by the Commission, for buildout and maintenance.
+(4)
+The network shall be capable of, and the provider shall offer to any broadband customer in the proposed service area, fixed terrestrial voice service that includes the ability to dial 911 without a mandate for the user to subscribe to broadband as well.
+(k)
+Exceptions
+The Commission shall grant an exception to project broadband speed requirements in section 3(j) as deemed necessary to allow participation by eligible partnerships in Alaska.
+(l)
+Dates and rulemaking
+(1)
+Rulemaking
+Not later than 120 days after the enactment of the
+Serving Rural America Act
+, the Commission shall announce a Notice of Proposed Rulemaking in the Federal Register, that establishesâ
+(A)
+requirements of this section, in addition to requirements of subsections (a), (b), (c), (d), (e), (f), (g), (h), (i) and (j);
+(B)
+notice requirements for which entities have applied to bid for funding;
+(C)
+the results of the grant program, including identifying funding recipients, the service area the project will service, the type of service the recipient will provide, and the amount of funding the recipient will receive;
+(D)
+broadband buildout milestones; and
+(E)
+annual certification from award recipients that identifies speed of service provided in each service area of a project to ensure compliance with the broadband buildout milestones established under subparagraph (D).
+(2)
+Funding opportunity announcement
+Not later than 1 year after the enactment of this Act, the Commission shall announce a Funding Opportunity Announcement in the Federal Register.
+4.
+Information sharing
+(a)
+Information Sharing with Federal Communications Commission and Rural Utilities Service
+The Commission shall share with the Rural Utilities Service information received pursuant to subsections (f)(2) and (k)(1)(E).
+(b)
+National Broadband Map
+The Commission shall incorporate build-out data received pursuant to subsections (f)(2) and (k)(1)(E) into the National Broadband Map.
+5.
+Authorization of appropriations
+There is authorized to be appropriated to carry out this Act $100,000,000 for each of the first 5 fiscal years after the date of enactment of this Act.
+6.
+FCC report to Congress
+FCC shall report to Congress annually on the progress of the program based on broadband build-out data provided by grant participants and data as reflected by the National Broadband Map.

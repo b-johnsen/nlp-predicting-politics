@@ -1,0 +1,200 @@
+1.
+Short title
+This Act may be cited as the
+Sensible Management of Archives, Records, and Technologies Government Act
+or the
+SMART Government Act
+.
+2.
+Increased management of data centers and inventory of software
+(a)
+Data center consolidation and optimization
+(1)
+Strategic plan
+Not later than 6 months after the date of the enactment of this Act, the chief information officer of each agency shall develop and publish a strategic plan to consolidate and optimize data centers at the agency. The strategic plan shall include the following:
+(A)
+Annual metrics to consolidate and optimize data center locations.
+(B)
+An estimation of the annual costs related to the development and operation of data centers at the agency.
+(C)
+An estimation of the annual savings related to implementing the strategic plan.
+(2)
+Annual update
+The chief information officer of each agency shall annually update the plan described in paragraph (1).
+(3)
+Certification
+Not later than 9 months after the date of the enactment of this Act, and annually thereafter, the inspector general of each agency shall submit to Congress a certification that the agency has taken action to achieve the annual metrics described in paragraph (1)(A).
+(4)
+Report
+Not later than 9 months after the date of the enactment of this Act, and annually thereafter, the head of each agency shall submit to Congress and the Director of the Office of Management and Budget a report that includesâ
+(A)
+the certification described in paragraph (3);
+(B)
+if applicable, the reason that an annual metric under paragraph (1)(A) was not met in the previous fiscal year;
+(C)
+the annual costs related to the development and operation of data centers at each agency, including any cost related to implementing the strategic plan described in paragraph (1); and
+(D)
+the annual savings related to implementing the strategic plan.
+(b)
+Software asset management
+Not later than 6 months after the date of the enactment of this Act, the chief information officer of a covered entity shall inventory software applications used in the information technology systems of the covered entity. With respect to each application, the inventory shall include the following:
+(1)
+Name.
+(2)
+Description.
+(3)
+Type.
+(4)
+Owner.
+(5)
+Support function.
+(c)
+Compliance
+(1)
+In general
+Notwithstanding any other provision of law, including section 5318 of title 5, United States Code, any chief information officer of an agency that does not meet the requirements under subsection (a)(1), (a)(2), or (b) may not receive an increase in the rate of pay until such requirements are met.
+(2)
+Enforcement
+The head of the applicable agency shall ensure that the chief information officer described in paragraph (1) meets the provisions under this subsection.
+3.
+Transfer of copies of Federal records
+(a)
+Transfer
+(1)
+In general
+The head of each agency, in coordination with the Archivist of the United States, shall, to the extent practicable and in accordance with this sectionâ
+(A)
+create copies of all records controlled by the agency; and
+(B)
+transfer such copies to a records center maintained and operated by the Archivist.
+(2)
+Standards and guidelines
+Not later than September 30, 2020, the Archivist shallâ
+(A)
+develop standards for the heads of each agency to create copies of records under paragraph (1)(A), including standards with respect to determining whether the record from which the copy was created is inactive, temporary, or permanent;
+(B)
+develop guidelines for the heads of each agency toâ
+(i)
+store metadata with respect to copies of records under paragraph (1)(A); and
+(ii)
+transfer such copies pursuant to paragraph (1)(B); and
+(C)
+make exemptions to the standards developed pursuant to subparagraph (A), taking into considerationâ
+(i)
+any burden to the public;
+(ii)
+costs; and
+(iii)
+statutory, regulatory, and policy barriers.
+(3)
+Initial phase
+(A)
+In general
+Not later than December 31, 2020, the head of each agency shall begin to transfer electronic copies of records, including any metadata related to a record, pursuant to paragraph (1)(B).
+(B)
+Analog format deadline
+After December 31, 2020, each head of an agency may not transfer a copy of a record that is in an analog format to a records center maintained and operated by the Archivist.
+(4)
+Second phase
+Not later than December 31, 2022, each head of an agency shall transferâ
+(A)
+all copies of records to a records center maintained and operated by the Archivist; and
+(B)
+all copies of inactive and temporary records exempt under paragraph (2)(C) to a Federal records center or a commercial record storage facility.
+(b)
+Penalty to Federal agencies
+If, during any fiscal year, an agency is not in compliance with the requirements of this section, during the corresponding period in the following fiscal year, the agency may not obligate discretionary appropriations at a rate higher than the rate of obligation for the applicable appropriations accounts during the period of noncompliance in the previous fiscal year.
+(c)
+Designation of record management official
+(1)
+In general
+Section 3101 of title 44, United States Code, is amended to read as follows:
+3101.
+Records management by agency heads; general duties
+(a)
+In general
+The head of each Federal agency shall make and preserve records containing adequate and proper documentation of the organization, functions, policies, decisions, procedures, and essential transactions of the agency and designed to furnish the information necessary to protect the legal and financial rights of the Government and of persons directly affected by the agency's activities.
+(b)
+Designation of record management official
+To carry out subsection (a), the head of each Federal agency shall designate a senior officialâ
+(1)
+whose position is at the Assistant Secretary-level or equivalent;
+(2)
+who shall carry out the duties under subsection (c); and
+(3)
+who has training in records management certified by the Archivist to assist the official in carrying out the duties under this subsection.
+(c)
+Duties of record management official
+The duties of the senior official under subsection (b) shall include the following:
+(1)
+Train employees of the Federal agency on an annual basis onâ
+(A)
+the responsibilities of each such employee with respect to the management of a record; and
+(B)
+the laws, regulations, and policies of the agency with respect to the management of a record.
+(2)
+Ensure records under the control of such agency are covered by a general records schedule that is approved by the Archivist.
+(3)
+Ensure that each copy of a record transferred to a records center maintained and operated by the Archivist is transferred in accordance with any standard developed by the Archivist.
+.
+(2)
+Effective date
+The amendments made by this section shall take effect on December 30, 2020.
+4.
+Definitions
+In this Act:
+(1)
+Agency
+The term
+agency
+has the meaning given to that term under section 3502 of title 44, United States Code.
+(2)
+Covered entity
+The term
+covered entity
+means the following:
+(A)
+The Department of Agriculture.
+(B)
+The Department of Commerce.
+(C)
+The Department of Education.
+(D)
+The Department of Energy.
+(E)
+The Department of Health and Human Services.
+(F)
+The Department of Housing and Urban Development.
+(G)
+The Department of the Interior.
+(H)
+The Department of Labor.
+(I)
+The Department of State.
+(J)
+The Department of Transportation.
+(K)
+The Department of the Treasury.
+(L)
+The Department of Veterans Affairs.
+(M)
+The Social Security Administration.
+(N)
+The Small Business Administration.
+(O)
+The Environmental Protection Agency.
+(P)
+The National Aeronautics and Space Administration.
+(Q)
+The Agency for International Development.
+(R)
+The Nuclear Regulatory Commission.
+(S)
+The Office of Personnel Management.
+(T)
+The National Science Foundation.
+(3)
+Information technology
+The term
+information technology
+has the meaning given to that term under section 11101 of title 40, United States Code.

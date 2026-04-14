@@ -1,0 +1,270 @@
+1.
+Short title
+This Act may be cited as the
+Access to Consumer Energy Information Act
+or the
+E-Access Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Electric consumer
+The term
+electric consumer
+has the meaning given the term in section 3 of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2602
+).
+(2)
+Electric meter app store
+The term
+electric meter app store
+means the meter of an electric utility and any accompanying software that allows the electric utility or electric consumers to have software applications execute on the grid edge computer in order to analyze or transmit retail electric energy information or grid edge consumer insights.
+(3)
+Electric utility
+The term
+electric utility
+has the meaning given the term in section 3 of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2602
+).
+(4)
+Gas consumer
+The term
+gas consumer
+has the meaning given the term in section 302 of the Public Utility Regulatory Policies Act of 1978 (
+15 U.S.C. 3202
+).
+(5)
+Gas utility
+The term
+gas utility
+has the meaning given the term in section 302 of the Public Utility Regulatory Policies Act of 1978 (
+15 U.S.C. 3202
+).
+(6)
+Grid edge computer
+The term
+grid edge computer
+means a device, whether part of, or separate from, a meter, thatâ
+(A)
+measures power, voltage, current, or other aspects of electric energy at or near the premises of an electric consumer; and
+(B)
+is capable of running 1 or more software applications to analyze, in real time, any measurement described in subparagraph (A) in order to derive grid edge consumer insights or information about the status or operation of the electric grid.
+(7)
+Grid edge consumer insight
+The term
+grid edge consumer insight
+meansâ
+(A)
+the power, voltage, current, or other aspects of electric energy measured and analyzable by a grid edge computer; and
+(B)
+any calculation, estimate, or inference from a grid edge computer that pertains to, or reflects the characteristics of, the use of electric energy by a particular electric consumer.
+(8)
+Meter
+The term
+meter
+means a device that measures and records energy usage data at any interval.
+(9)
+Retail electric energy information
+The term
+retail electric energy information
+meansâ
+(A)
+the electric energy usage of an electric consumer over a time interval, as measured and recorded by the applicable meter;
+(B)
+the retail electric energy prices and applicable rate applied to the electric energy usage for the time interval described in subparagraph (A) for the electric consumer;
+(C)
+the costs of service provided to an electric consumer, as displayed on billing information provided to that electric consumer at the level of each line item;
+(D)
+in the case of nonresidential electric meters, any other electrical information that the meter is programmed to record that is used for billing purposes (such as demand measured in kilowatts, voltage, frequency, current, and power factor);
+(E)
+grid edge consumer insights; and
+(F)
+customer-specific information including, at a minimumâ
+(i)
+customer name, mailing address, premises address, contact information, payment history, and account number; and
+(ii)
+any information that may be necessary for participation in, or to determine customer eligibility for, bill payment assistance, renewable energy, demand-side management, load management, or energy efficiency programs.
+(10)
+Retail natural gas information
+The term
+retail natural gas information
+meansâ
+(A)
+the natural gas usage of a gas consumer, as measured and recorded by the applicable gas utility;
+(B)
+the retail natural gas prices and applicable rate applied to the natural gas usage described in subparagraph (A) for the gas consumer;
+(C)
+the cost of service provided to a gas consumer, as displayed on billing information provided to that gas consumer at the level of each line item;
+(D)
+in the case of nonresidential natural gas meters, any other information that the meter is programmed to record that is used for billing purposes; and
+(E)
+customer-specific information including, at a minimumâ
+(i)
+customer name, mailing address, premises address, contact information, payment history, and account number; and
+(ii)
+any information that might be necessary for participation in, or to determine customer eligibility for, bill payment assistance, demand-side management, or energy efficiency programs.
+(11)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(12)
+State energy office
+The term
+State energy office
+means the office or agency of a State responsible for developing the State energy conservation plan for the State under section 362 of the Energy Policy and Conservation Act (
+42 U.S.C. 6322
+).
+3.
+Consumer access to electric energy and natural gas information
+(a)
+Eligibility for State energy plans
+Section 362(d) of the Energy Policy and Conservation Act (
+42 U.S.C. 6322(d)
+) is amendedâ
+(1)
+in paragraph (17), by striking
+and
+after the semicolon at the end;
+(2)
+by redesignating paragraph (18) as paragraph (19); and
+(3)
+by inserting after paragraph (17) the following:
+(18)
+programs to promote competition in the area of digital energy management toolsâ
+(A)
+to enhance consumer access to, and understanding of, electric energy and natural gas usage and cost information, including, with respect to each particular customerâ
+(i)
+the residential and commercial retail electric energy information (as defined in section 2 of the
+E-Access Act
+) of that customer; and
+(ii)
+the retail natural gas information (as defined in that section) of that customer;
+(B)
+to facilitate the development and adoption of innovative products and services to assist consumers in managing energy consumption and expenditures; and
+(C)
+to increase the adoption of measured, performance-based energy efficiency and demand response programs, such as a program described in section 50121 of
+Public Law 117â169
+(commonly known as the
+Inflation Reduction Act of 2022
+) (
+42 U.S.C. 18795
+); and
+.
+(b)
+Guidelines for electric consumer and gas consumer access
+(1)
+In general
+Not later than 180 days after the date of enactment of this Act and subject to paragraph (2), the Secretary shall issue guidelines that establish model data sharing standards and policies for States to provide electric consumers and gas consumers, and third-party designees of those electric consumers and gas consumers, with access to retail electric energy information and retail natural gas information.
+(2)
+Consultation
+Before issuing guidelines under paragraph (1), the Secretary shallâ
+(A)
+consult withâ
+(i)
+State and local regulatory authorities;
+(ii)
+other appropriate Federal agencies, including the National Institute of Standards and Technology and the Federal Trade Commission;
+(iii)
+consumer and privacy advocacy groups;
+(iv)
+electric utilities and gas utilities;
+(v)
+the National Association of State Energy Officials; and
+(vi)
+other appropriate entities, including groups representing public utility commissions, commercial and residential building owners, residential contractors, and groups that represent demand response and electricity data devices and services; and
+(B)
+provide notice and opportunity for comment.
+(3)
+State and local regulatory action
+In issuing guidelines under paragraph (1), the Secretary, to the maximum extent practicable, shall be guided by actions taken by State and local regulatory authorities to ensure electric consumer and gas consumer access to retail electric energy information and retail natural gas information, including actions taken after consideration of the standard established under section 111(d)(19) of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2621(d)(19)
+).
+(4)
+Contents
+In carrying out paragraph (1), the Secretary shall includeâ
+(A)
+guidelines specifying that retail electric energy information and retail natural gas information of an electric consumer or a gas consumer should be made available to the electric consumer or gas consumer (or a third-party designee of the electric consumer or gas consumer) by the electric utility or gas utility of the electric consumer or gas consumer (or such other entity as may be designated by the utility), in consultation with, or with approval from, as applicable, the applicable retail regulatory authority of the utility;
+(B)
+guidelines regarding the timeliness and specificity of retail electric energy information and retail natural gas information to be made available to an electric consumer or a gas consumer (or a third-party designee of an electric consumer or a gas consumer), including that the retail electric energy information and retail natural gas information should be made availableâ
+(i)
+in an electronic machine-readable form, without additional charge, in conformity with nationally recognized open standards and best practices;
+(ii)
+via a website or other electronic access authorized by the electric consumer or gas consumer, including at least 24 months of historical information;
+(iii)
+in as close to real-time as is reasonably practicable;
+(iv)
+at the level of specificity that the data are transmitted by the meter or grid edge computer, to the extent reasonably practicable; and
+(v)
+in a manner that provides adequate protections for the security of the information and the privacy of the electric consumer or gas consumer, utilizing recognized energy data privacy programs such as the DataGuard Energy Data Privacy Program of the Department of Energy or other programs approved by the Secretary;
+(C)
+guidelines regarding appropriate nationally recognized open standards for data exchange;
+(D)
+guidelines regarding consumer consent requirements to ensure that an electric consumer or gas consumer can conveniently and securely authorize a third-party designee to access the retail electric energy information or retail natural gas information of that electric consumer or gas consumer, including standardized authorization language to which an electric consumer or gas consumer will agree prior to the electric consumer or gas consumer authorizing, or the applicable electric utility or gas utility sharing, retail electric energy information or retail natural gas information of that electric consumer or gas consumer;
+(E)
+guidelines specifying that electric utilities and gas utilities should, when a meter is servicing an electric consumer or gas consumer, communicate retail electric energy information or retail natural gas information to the device of the electric consumer or gas consumer or through the network of an electric consumer or gas consumer to a third-party designee of the electric consumer or gas consumer;
+(F)
+with respect to the terms and conditions to be agreed to by a third-party designee of an electric consumer or a gas consumer and an electric utility or a gas utility for access to the retail electric energy information or retail natural gas information of that electric consumer or gas consumer, guidelines specifying thatâ
+(i)
+those terms and conditions shall be reasonable and nondiscriminatory;
+(ii)
+those terms and conditions shall not require anything of a third-party designee beyond requiringâ
+(I)
+the third-party designee to provide to the electric utility or gas utilityâ
+(aa)
+the contact information and Federal tax identification number of the third-party designee; and
+(bb)
+an acknowledgment of compliance with a privacy requirement, such as the DataGuard Energy Data Privacy Program of the Department of Energy; and
+(II)
+that the third-party designee has not been disqualified by the applicable retail regulatory authority of the utility;
+(iii)
+due process shall be afforded to the third-party designee by the applicable regulatory authority, including by giving the third-party designee an opportunity to rebut allegations of wrongdoing by that third-party designee prior to any enforcement action being taken by the applicable regulatory authority;
+(iv)
+the online authorization process offered by the applicable gas utility or electric utility to the consumer shall be user-friendly, and the personal information required to establish identity shall be consistent with, and no more onerous than, the standard practices of the applicable gas utility or electric utility; and
+(v)
+the third party may receive retail electric energy information and retail natural gas information from an electric utility or gas utility with consumer consent, except if otherwise prohibited by Federal law or by a finding of a State court or other State adjudicatory body;
+(G)
+guidelines specifying that electric utilities and gas utilities shall provide certification of adherence to the latest Green Button Connect My Data standard by an independent body on a periodic interval, as recommended by the Secretary;
+(H)
+guidelines specifying that Green Button Connect My Data system availability shall exceed 99-percent availability without severe errors or defects;
+(I)
+guidelines specifying that electric utilities and gas utilities shall report on a publicly available website the timeliness and performance of the processing of electronic data-sharing authorizations and the timeliness of completing third-party administrative and technical onboarding with an electric utility or gas utility, including recommendations from the Secretary as to whether electric utilities and gas utilities, or State or Federal agencies, should host such publicly available websites;
+(J)
+guidelines specifying thatâ
+(i)
+electric meter app stores shall have terms that are fair, reasonable, and nondiscriminatory to any user;
+(ii)
+software developers and distributed energy resources that use electric meter app stores or retail electric customer information shallâ
+(I)
+have access to platform software documentation; and
+(II)
+be afforded due process rights with regard to disputes concerning functionality;
+(iii)
+owners or operators of electric meter app stores shall address fair competition issues, including self-preferencing, surveillance of competitive software applications, and undue use of default software applications that have the effect of reducing consumer choices; and
+(iv)
+electric meter app stores shall include metrics for applicable retail regulatory authorities to require of electric utilities, including, at a minimumâ
+(I)
+system availability;
+(II)
+number and type of errors and the severity of those errors; and
+(III)
+time expended to conduct technical software reviews; and
+(K)
+guidelines addressing appropriate circumstances in which analysis of retail electric energy information, retail natural gas information, and estimates of energy saved as a result of any efficiency measure may be released publicly, without the consent of the consumer, only by protection of individual consumer privacy via mathematical methods such as differential privacy, or by alternative means at the discretion of the Secretary, if required, that prevent reidentification of the attributes of individual consumers when publishing aggregate information.
+(5)
+Revisions
+Every 3 years, the Secretary shall review and, as necessary, revise the guidelines issued under paragraph (1) to reflect changes in technology, privacy needs, and the market for electric energy and natural gas and related services.
+(c)
+Verification and implementation
+(1)
+In general
+A State energy office may submit to the Secretary a description of the policies of the State relating to electric consumer and gas consumer access to retail electric energy information and retail natural gas information for certification by the Secretary that the policies meet the guidelines issued under subsection (b).
+(2)
+Assistance
+Subject to the availability of amounts appropriated pursuant to paragraph (3), the Secretary shall make amounts available to any State that has policies described in paragraph (1) that the Secretary certifies meet the guidelines issued under subsection (b) to assist the State in implementing programs described in paragraph (18) of section 362(d) of the Energy Policy and Conservation Act (
+42 U.S.C. 6322(d)
+) (as amended by subsection (a)).
+(3)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this subsection $10,000,000 for fiscal year 2023, to remain available until expended.

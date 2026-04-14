@@ -1,0 +1,809 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+American Vision for Safer Transportation through Advancement of Revolutionary Technologies Act
+or the
+AV START Act
+.
+(b)
+Table of contents
+The table of contents of this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Relationship to other laws.
+Sec. 4. Expedited resolution of highly automated vehicles conflicts with standards.
+Sec. 5. Highly automated vehicles testing.
+Sec. 6. Highly automated vehicles exemptions.
+Sec. 7. Inoperative controls.
+Sec. 8. Levels of driving automation.
+Sec. 9. Safety evaluation report.
+Sec. 10. Highly Automated Vehicles Technical Safety Committee.
+Sec. 11. Highly automated vehicles rulemaking.
+Sec. 12. Consumer education.
+Sec. 13. Traffic safety and law enforcement.
+Sec. 14. Cybersecurity.
+Sec. 15. Savings provision.
+2.
+Definitions
+(a)
+In general
+In this Act:
+(1)
+Automated driving system; dedicated highly automated vehicle; highly automated vehicle; manufacturer; motor vehicle; motor vehicle equipment
+The terms
+automated driving system
+,
+dedicated highly automated vehicle
+,
+highly automated vehicle
+,
+manufacturer
+,
+motor vehicle
+, and
+motor vehicle equipment
+have the meanings given such terms in section 30102 of title 49, United States Code, as amended by subsection (b).
+(2)
+NHTSA
+The term
+NHTSA
+means the National Highway Traffic Safety Administration.
+(3)
+Secretary
+The term
+Secretary
+means the Secretary of Transportation.
+(b)
+Motor vehicle safety chapter
+Section 30102(a) of title 49, United States Code, is amendedâ
+(1)
+by redesignating paragraphs (5) through (13) as paragraphs (8) through (16) respectively;
+(2)
+by redesignating paragraphs (3) and (4) as paragraphs (5) and (6), respectively;
+(3)
+by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively;
+(4)
+by inserting before paragraph (2), as redesignated, the following:
+(1)
+Automated driving system
+In describing a Level 3, 4, or 5 automated driving system (as defined by SAE International standard J3016, published on September 30, 2016, or subsequently adopted by the Secretary), the term
+automated driving system
+means the hardware and software that is collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether the system is limited to a specific operational design domain.
+;
+(5)
+by inserting after paragraph (3), as redesignated, the following:
+(4)
+Dedicated highly automated vehicle
+The term
+dedicated highly automated vehicle
+means a highly automated vehicle designed to be operated exclusively (as defined by the SAE International standard J3016, published on September 30, 2016) by a Level 4 or 5 automated driving system (as defined by the SAE International standard J3016, published on September 30, 2016, or subsequently adopted by the Secretary) for all trips.
+; and
+(6)
+by inserting after paragraph (6), as redesignated, the following:
+(7)
+Highly automated vehicle
+The term
+highly automated vehicle
+means a motor vehicle with a gross vehicle weight of 10,000 pounds or less that is equipped with a Level 3, 4, or 5 automated driving system (as defined by SAE International standard J3016, published on September 30, 2016, or subsequently adopted by the Secretary).
+.
+3.
+Relationship to other laws
+(a)
+In general
+Section 30103 of title 49, United States Code, is amendedâ
+(1)
+in subsection (b), to read as follows:
+(b)
+Preemption
+(1)
+Highly automated vehicles
+No State or political subdivision of a State may maintain, enforce, prescribe, or continue in effect any law or regulation regarding the design, construction, or performance of highly automated vehicles, automated driving systems, or components of automated driving systems unless such law or regulation is identical to a standard prescribed under this chapter.
+(2)
+Motor vehicle standard
+When a motor vehicle safety standard is in effect under this chapter, a State or political subdivision of a State may prescribe or continue in effect a standard applicable to the same aspect of performance of a motor vehicle or motor vehicle equipment only if the standard is identical to the standard prescribed under this chapter.
+(3)
+Rules of construction
+(A)
+In general
+Nothing in this subsection may be construed to prohibit a State or a political subdivision of a State from maintaining, enforcing, prescribing, or continuing in effect any law or regulation regarding registration, licensing, driving education and training, insurance, law enforcement, crash investigations, safety and emissions inspections, congestion management of vehicles on the street within a State or political subdivision of a State, or traffic unless the law or regulation is an unreasonable restriction on the design, construction, or performance of highly automated vehicles, automated driving systems, or components of automated driving systems.
+(B)
+Motor vehicle dealers
+Nothing in this subsection may be construed to prohibit a State or political subdivision of a State from maintaining, enforcing, prescribing, or continuing in effect any law or regulation regarding the sale, distribution, repair, or service of highly automated vehicles, automated driving systems, or components of automated driving systems by a dealer, manufacturer, or distributor.
+(C)
+Conformity with Federal law
+Nothing in this subsection shall be construed to preempt, restrict, or limit a State or political subdivision of a State from acting in accordance with any other Federal law.
+(4)
+Higher performance requirement
+However, the United States Government, a State, or a political subdivision of a State may prescribe a standard for a motor vehicle, motor vehicle equipment, highly automated vehicle, or automated driving system obtained for its own use that imposes a higher performance requirement than that required by the otherwise applicable standard under this chapter.
+(5)
+State enforcement
+A State may enforce a standard that is identical to a standard prescribed under this chapter.
+; and
+(2)
+in subsection (e), to read as follows:
+(e)
+Common law liability
+(1)
+In general
+Compliance with a motor vehicle safety standard prescribed under this chapter does not exempt a person from liability at common law.
+(2)
+Rule of construction
+Nothing in this section shall be construed to preempt common law claims.
+.
+(b)
+Licensing
+Notwithstanding section 30103 of title 49, United States Code, as amended by subsection (a), a State may not issue a motor vehicle operatorâs license for the operation or use of a dedicated highly automated vehicle in a manner that discriminates on the basis of disability (as defined in section 3 of the Americans with Disabilities Act of 1990 (
+42 U.S.C. 12102
+)).
+4.
+Expedited resolution of highly automated vehicles conflicts with standards
+(a)
+Definitions
+In this section:
+(1)
+Director
+The term
+Director
+means the Director of the John A. Volpe National Transportation Systems Center of the Department of Transportation.
+(2)
+Dynamic driving task
+The term
+dynamic driving task
+has the meaning given the term by SAE International standard J3016, published on September 30, 2016.
+(3)
+Safety standard
+The term
+safety standard
+means a Federal motor vehicle safety standard prescribed under
+chapter 301
+of title 49, United States Code.
+(b)
+References to human drivers
+Not later than 180 days after the date of the enactment of this Act, the Director or other designated entity, after consultation with stakeholders, shall prepare and submit to the Secretary a report that identifies each provision, requirement, specification, or procedure in a safety standard with a reference to features of the equipment thatâ
+(1)
+are necessary only for the performance of the dynamic driving task by a human driver;
+(2)
+specify a location or reference point within a vehicle by reference to the position of a human driver; or
+(3)
+serve a purpose of providing information to, or receiving input from, a human driver engaged in performing the dynamic driving task.
+(c)
+Substitution of conforming references to automated systems
+(1)
+In general
+In each provision of the report prepared under subsection (b) identifying the text of a regulation from a safety standard, a test procedure, or a method for determining compliance with a safety standard, the Director or designated entity shall includeâ
+(A)
+an alternative reference to an automated system that is suitable for assessing, through an objective test procedure, the compliance of a dedicated highly automated vehicle, or of a highly automated vehicle operating in automated mode, with the safety standard; or
+(B)
+a determination thatâ
+(i)
+the relevant regulatory text applies to features of the motor vehicle equipment that are only necessary for the performance of a dynamic driving task by a human driver; and
+(ii)
+no alternative reference to an automated system is practicable.
+(2)
+Conditions
+In carrying out paragraph (1), the Director or designated entityâ
+(A)
+shall ensure that all requirements remain objective and practicable;
+(B)
+may not modify the purpose of any safety standard; and
+(C)
+may specify different references forâ
+(i)
+dedicated highly automated vehicles that are intended for human occupancy; and
+(ii)
+dedicated highly automated vehicles that are not designed, intended, or marketed for human occupancy.
+(d)
+Rulemaking
+(1)
+Commencement
+Not later than 90 days after the date on which the Director or designated entity submits the report under subsection (b), the Secretary shall commence a rulemaking proceeding to incorporate the report by reference into the relevant safety standards, except as provided in paragraph (3).
+(2)
+Final rule
+Not later than 1 year after the Director or other entity submits the report under subsection (b), the Secretary shall issue a final rule to incorporate the report by reference into the relevant safety standards, except as provided in paragraph (3).
+(3)
+Alternative text
+If the Secretary determines that one or more of the revisions to a regulation contained in the report submitted under subsection (b) is not objective, is not practicable, or does not meet the need for motor vehicle safety, the Secretary shall incorporate alternative regulatory text.
+(4)
+Incorporation by reference
+If the Secretary does not complete the rulemaking proceeding under this subsection within 1 year after the submission of the report under subsection (b), the revisions to regulations contained in such report shall be incorporated by reference into the relevant safety standards.
+(e)
+Savings provision
+Nothing in this section may be construed to prohibit the Secretary from maintaining different test procedures for highly automated vehicles that retain the capability to be operated by a human driver when such vehicles are not operating in an automated mode.
+5.
+Highly automated vehicles testing
+Section 30112(b) of title 49, United States Code, is amendedâ
+(1)
+in paragraph (9), by striking
+or
+at the end;
+(2)
+in paragraph (10)â
+(A)
+in the matter preceding subparagraph (A), by inserting
+(except for a highly automated vehicle)
+after
+the introduction of a motor vehicle
+; and
+(B)
+in subparagraph (C), by striking the period at the end and inserting
+; or
+; and
+(3)
+by adding at the end the following:
+(11)
+the introduction of a motor vehicle into interstate commerce solely for the purposes of testing, evaluation, or demonstration of a highly automated vehicle or automated driving system ifâ
+(A)
+the testing, evaluation, or demonstration of the vehicle is only conducted by employees, agents, or fleet management contractors of the manufacturer of the highly automated vehicle, the automated driving system, or any component thereof;
+(B)
+such manufacturer agrees not to sell, lease, or offer for sale or lease, the vehicle or system at the conclusion of the testing, evaluation, or demonstration; and
+(C)
+such manufacturer has submitted appropriate manufacturer identification information that is similar to information submitted by manufacturers subject to a Federal motor vehicle safety standard under part 566 of title 49, Code of Federal Regulations, before the commencement of such testing or evaluation.
+.
+6.
+Highly automated vehicles exemptions
+(a)
+In general
+Section 30113 of title 49, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+by striking
+this section,
+and inserting the following: âthis sectionâ
+(1)
+the term
+;
+(B)
+by striking the period at the end and inserting
+; and
+; and
+(C)
+by adding at the end the following:
+(2)
+the term
+new motor vehicle safety feature
+includes any feature that enables a highly automated vehicle or an automated driving system, regardless of whether an exemption has already been granted for a similar feature on another model or models.
+;
+(2)
+in subsection (b)â
+(A)
+by amending paragraph (2) to read as follows:
+(2)
+The Secretary may begin a proceeding under this subsection when a manufacturer applies for an exemption or a renewal of an exemption. The Secretary shall publish notice of the application and provide an opportunity to comment. An application for an exemption or for a renewal of an exemption shall be filed at a time and in the way, and contain such information, this section and the Secretary require. The Secretary shall grant or deny an exemption for a highly automated vehicle not later than 180 days after receiving an application for such exemption from a manufacturer.
+; and
+(B)
+in paragraph (3)(B)(iv), by inserting
+or introducing or delivering into interstate commerce
+after
+selling
+;
+(3)
+in subsection (d)â
+(A)
+by inserting
+(1)
+after
+Eligibility
+.â
+; and
+(B)
+by striking the second sentence and inserting the following:
+(2)
+A manufacturer is eligible for an exemption under clause (ii), (iii), or (iv) of subsection (b)(3)(B) only if the Secretary determines thatâ
+(A)
+the exemption is for not more than 2,500 vehicles to be sold in the United States in any 12-month period; or
+(B)
+the vehicle is a highly automated vehicle; and
+(i)
+during the 12-month period beginning on the date of the enactment of the
+AV START Act
+, the exemption is for not more than 50,000 vehicles to be sold or introduced into interstate commerce in the United States;
+(ii)
+during the 12-month period immediately following the period described in clause (i), the exemption is for not more than 75,000 vehicles to be sold or introduced into interstate commerce in the United States; and
+(iii)
+during any 12-month period following the period described in clause (ii), the exemption is for not more than 100,000 vehicles to be sold or introduced into interstate commerce in the United States.
+(C)
+A manufacturer of a highly automated vehicle may petition the Secretary to expand the exemption under paragraph (2)(B) to more than 100,000 vehicles in any 12-month period after the exemption has been in place for 5 years.
+; and
+(4)
+in subsection (e), by inserting
+, unless the vehicle is a highly automated vehicle
+before the period at the end.
+(b)
+Sunset
+A manufacturerâs eligibility for an exemption from a provision, clause, sentence, or paragraph in a motor vehicle safety standard under section 30113(d)(2)(B) of title 49, United States Code, as amended by subsection (a), shall end on the date on which a standard (except for a standard promulgated under section 4 of this Act) that amends the provision, clause, sentence, or paragraph from which an exemption is sought takes effect, with due consideration for any lead time specified for compliance.
+7.
+Inoperative controls
+Section 30122(b) of title 49, United States Code, is amendedâ
+(1)
+by inserting
+(1)
+before
+A manufacturer
+; and
+(2)
+by adding at the end the following:
+(2)
+The prohibition under paragraph (1) shall not apply to a manufacturer that intentionally allows a device or element of design installed on or in a motor vehicle or item of equipment in compliance with an applicable motor vehicle safety standard to be temporarily disabled during the time that an automated driving system is performing the entire dynamic driving task.
+.
+8.
+Levels of driving automation
+(a)
+Use of SAE Internationalâs taxonomy and definitions
+The Secretary shall use the taxonomy and definitions for automated driving systems set forth in SAE International standard J3016, published on September 30, 2016, for the various levels of automation for motor vehicles.
+(b)
+Review
+(1)
+In general
+The Secretaryâ
+(A)
+shall review the taxonomy and definitions for automated driving systems set forth by SAE International to ensure that such taxonomy and definitions are clear and objective; and
+(B)
+may provide feedback to SAE International for potential updates.
+(2)
+Use of revised standard
+(A)
+Determination
+Not later than 120 days after SAE International revises the standard referred to in subsection (a), the Secretary, after publishing notice of the revision in the Federal Register, shall determine whether to adopt the revised standard to identify the various levels of automation for motor vehicles.
+(B)
+Effect of decision not to adopt the revised standard
+If the Secretary decides not to adopt the revised standardâ
+(i)
+the Secretary shall notify SAE International of the Secretary's decision; and
+(ii)
+the definitions referred to in subsection (a) shall remain in effect.
+9.
+Safety evaluation report
+(a)
+In general
+Subchapter I of
+chapter 301
+of title 49, United States Code, is amended by adding at the end the following:
+30107.
+Highly automated vehicles safety evaluation report
+(a)
+In general
+(1)
+Requirement
+Each manufacturer introducing a new highly automated vehicle or automated driving system into interstate commerce shall provide a safety evaluation report, in accordance with this section, that describes how the manufacturer is addressing the safety of such vehicle or system.
+(2)
+Submission
+Each manufacturer described in paragraph (1) shallâ
+(A)
+submit a report to the Secretaryâ
+(i)
+upon testing a highly automated vehicle or automated driving system; and
+(ii)
+not later than 90 days before selling, offering for sale, or otherwise commercializing a highly automated vehicle or automated driving system; and
+(B)
+annually submit, until the vehicle or system is no longer being sold, offered for sale, or otherwise introduced into interstate commerce by the manufacturer or until the system is no longer being incorporated into new motor vehicles by the manufacturer, an updated report to the Secretary thatâ
+(i)
+may disclose that no significant changes were made to the vehicle or system; and
+(ii)
+shall provide aggregate results of any significant safety deviation from expected performance disclosed in the previous report.
+(3)
+Review
+The Secretaryâ
+(A)
+shall review each report submitted under paragraph (2); and
+(B)
+may require that the manufacturer submit additional or clarifying information.
+(4)
+Limitation
+The Secretary may not condition the manufacture, testing, sale, offer for sale, or introduction into interstate commerce of a highly automated vehicle or automated driving system based on a review of a safety evaluation report or additional information submitted under this section.
+(b)
+Safety evaluation report subject areas
+Each report submitted by a manufacturer under subsection (a) shall describe how the manufacturer is addressing, through a documented assessment, testing, and validation process, each of the subject areas described in paragraphs (1) through (9).
+(1)
+System safety
+The avoidance of unreasonable risks to safety, includingâ
+(A)
+assurance that systems, including hardware and software, perform intended functions;
+(B)
+the mitigation of unreasonable risks to safety caused by a malfunction of the automated driving system; and
+(C)
+sense of objects, motorcyclists, bicyclists, pedestrians, and animals in or crossing the path of travel through the automated driving system.
+(2)
+Data recording
+The collection by the vehicle of automated driving system performance information and incident and crash dataâ
+(A)
+to record the occurrence of malfunctions, disengagements, degradations, or failures;
+(B)
+to aid in the analysis of the cause of any issues described in subparagraph (A);
+(C)
+to enable efforts to work with other entities to address data recording and sharing; and
+(D)
+with respect to event data recorder information, that complies with the collection and sharing requirements under the FAST Act (
+Public Law 114â94
+).
+(3)
+Cybersecurity
+The minimization of cybersecurity risks to safety and the exchange of information about any vulnerabilities discovered from field incidents, internal testing, or external security research.
+(4)
+Human-machine interface
+(A)
+The methods of informing the human driver or operator about whether the automated driving system is functioning properly.
+(B)
+For a Level 3 vehicle, the methods to address driver reengagement.
+(C)
+The use of a human-machine interface by people with disabilities through visual, auditory, or haptic displays, or other methods.
+(5)
+Crashworthiness
+Practicable protection for all occupants given any planned seating positions or interior configurations.
+(6)
+Capabilities
+The capabilities and limitations of the highly automated vehicle or automated driving system.
+(7)
+Post-crash behavior
+The post-crash behavior of the highly automated vehicle or automated driving system if sensors or critical systems are damaged in a crash.
+(8)
+Account for applicable laws
+The account of applicable traffic laws and rules of the road, based on operational design domain, in the development of a highly automated vehicle or automated driving system.
+(9)
+Automation function
+(A)
+The expected operational design domain in which the highly automated vehicle or automated driving system is designed to operate, including any roadway and infrastructure assets required for the operation of the highly automated vehicle or automated driving system, such as roadside equipment, pavement markings, signage, and traffic signals, and how it will respond if that operational design domain unexpectedly changes.
+(B)
+The automated driving systemâs expected object and event detection and response capabilities, including behavioral competencies and crash avoidance capability.
+(C)
+The ability of the highly automated vehicle or automated driving system to transition to a minimal risk condition when a malfunction is encountered.
+(D)
+The performance of the vehicle through the manufacturerâs development and implementation of tests, including simulation, test track, and on-road testing.
+(c)
+Certification of inapplicable categories
+A manufacturer that is solely testing a vehicle or system may certify that one or more of the categories set forth in subsection (b) do not apply.
+(d)
+Publicly available
+The Secretary shall make any report submitted by a manufacturer under this section publicly available as soon as practicable, except the Secretary may not make publicly available any information relating to a trade secret or confidential business information, or which is privileged. The manufacturer may submit information related to a trade secret or confidential business information separately from the report.
+(e)
+Official signature
+Each report submitted by an entity under this section shall be reviewed by a senior official of the entity whoâ
+(1)
+is knowledgeable about the information contained in the report; and
+(2)
+shall certify that, based on the officialâs knowledge, the report does not contain any untrue statement of a material fact.
+(f)
+Termination of obligation To disclose information
+(1)
+In general
+A manufacturerâs obligation to provide information on a specific category under subsection (b) shall end on the effective date of a motor vehicle safety standard applicable to the same aspect of vehicle or system performance as is covered by the category, with due consideration for any lead time specified for compliance.
+(2)
+Effect of new standard
+In adopting any standard applicable to highly automated vehicle performance, the Secretary shallâ
+(A)
+identify the category under subsection (b) to which the standard relates, if any; and
+(B)
+specify what information is no longer required to be included in the report as a result of the new standard.
+(g)
+Rule of construction
+(1)
+Submissions
+A manufacturer may submit a safety evaluation report for vehicles introduced into interstate commerce before the date of the enactment of the
+AV START Act
+.
+(2)
+Savings provisions
+Nothing in this section may be construed to amend, limit the authority, or prohibit the use of the information included in the report under
+chapter 301
+of title 49, United States Code.
+.
+(b)
+Clerical amendment
+The analysis for
+chapter 301
+of title 49, United States Code, is amended by inserting after the item relating to
+section 30106
+the following:
+30107. Highly automated vehicles safety evaluation report.
+.
+(c)
+Effective date
+The amendments made by this section shall take effect on the date that is 90 days after the date of the enactment of this Act.
+10.
+Highly Automated Vehicles Technical Committee
+(a)
+Establishment
+Not later than 180 days after the date of the enactment of this Act, the Secretary shall establish a Highly Automated Vehicles Technical Committee (referred to in this section as the
+Committee
+) to provide a forum for stakeholders to discuss, prioritize, and make technical recommendations for highly automated vehicle and automated driving system safety.
+(b)
+Membership
+(1)
+Voting members
+The Secretaryâ
+(A)
+shall appoint 15 voting members to the Committee whoâ
+(i)
+are specially qualified to serve on the Committee because of their technical knowledge of automated driving systems, vehicle-to-vehicle infrastructure systems, or the impact of such systems on Federal motor vehicle safety standards; and
+(ii)
+shall include representatives of SAE International, automated vehicle proving grounds designated by the Department of Transportation, highly automated vehicle and automated driving system manufacturers, safety organizations, State and local government agencies, and other organizations directly or indirectly impacted by NHTSA regulations; and
+(B)
+may appoint new members to the Committee at any time.
+(2)
+Compensation
+Members of the Committee shall serve without compensation.
+(3)
+Chairperson
+The Secretary, or the Secretaryâs designee, shall act as Chairperson of the Committee, but will not have voting rights, except to break a tie.
+(c)
+Duties
+(1)
+Recommendations
+The Committee shall provide consensus-based recommendations to the Secretary on rulemaking, policy, and guidance regarding highly automated vehicle safety, includingâ
+(A)
+the identification and creation of performance standards; and
+(B)
+the harmonization of national highly automated vehicle safety standards with international standards.
+(2)
+Scope
+The Committee shall study issues relating to highly automated vehicles, includingâ
+(A)
+system safety;
+(B)
+automated steering and braking;
+(C)
+crashworthiness for vehicles with unconventional seating positions or vehicles not intended for human occupancy;
+(D)
+event data recording and data access and sharing;
+(E)
+accessibility for people with physical, sensory, or other disabilities, including for those who rely on mobility devices;
+(F)
+potential conflicts with existing Federal motor vehicle safety standards; and
+(G)
+any other issue the Secretary considers appropriate.
+(3)
+Support
+The NHTSA Office of Rulemaking and the NHTSA Office of Vehicle Safety Research shall provide support services to the Committee.
+(4)
+Meetings
+The Committee shall meet not less frequently than 4 times per year. Committee meetings shall be open to the public, except in circumstances in which a meeting is likely to discussâ
+(A)
+internal personnel rules and practices of the NHTSA;
+(B)
+matters specifically exempted from disclosure by statute;
+(C)
+trade secrets or confidential or privileged business information;
+(D)
+matters involving criminal accusation or official censure;
+(E)
+information of a personal nature that, if disclosed, would constitute an unwarranted invasion of personal privacy; or
+(F)
+investigatory records that might interfere with enforcement proceedings.
+(5)
+Working groups
+(A)
+In general
+The Committee may establish temporary working groups, as necessary, to address specific issues. Each working group shall include at least 1 member who represents a manufacturer of highly automated vehicles or automated driving systems and other individuals who are subject matter experts on the issue before the working group.
+(B)
+Disability access
+The Committee shall establish a working group to develop voluntary best practices regarding highly automated vehicle accessibility for people with physical, sensory, or other disabilities, including for those who rely on mobility devices. Such best practices shall address the physical accessibility of highly automated vehicles and human-machine interface accessibility through visual, auditory, or haptic displays or other methods. The working group shall include representatives from national organizations representing individuals with disabilities.
+(d)
+Recommendations for highly automated vehicles
+(1)
+In general
+On a periodic basis, the Committee shall release recommendations on voluntary standards regarding highly automated vehicle safety.
+(2)
+Work plan
+Not later than 180 days after the Committee is established under subsection (a), the Committee shall submit a work plan to the Secretary for carrying out this section.
+(3)
+Report
+Not later than 5 years after the date of the enactment of this Act, the Committee shall submit a report containing recommendations of consensus-based, feasible, and objective standards to the Secretary for potential rulemaking governing highly automated vehicles that meet the need for motor vehicle safety.
+(e)
+Consultation and publication of reports
+(1)
+In general
+The Secretary shall consult with the Committee, as appropriate, on highly automated vehicle safety matters, including the development and implementation of relevant policies, programs, and rulemaking.
+(2)
+Recommended agenda
+The Secretary shall regularly provide recommendations to the Committee regarding the agenda of the Committee and areas in which Committee activity would benefit and complement Department of Transportation efforts.
+(3)
+Reports
+The Secretary shall make any report or recommendation developed under this section publicly available.
+(f)
+FACA
+The Committee shall not be subject to the requirements under the Federal Advisory Committee Act (5 U.S.C. App.).
+(g)
+Termination
+The Committee shall terminate upon the submission of the final report required under subsection (d)(3) unless the Secretary determines that the Committee should continue.
+11.
+Highly automated vehicles rulemaking
+(a)
+In general
+The Secretary shall review and seek public comment on the recommendations for standards made by the Highly Automated Vehicles Technical Committee under section 10(d)(3).
+(b)
+Determination
+Not later than 1 year after the receipt of the recommendations referred to in subsection (a), the Secretary shallâ
+(1)
+make a determination whether to approve one or more of the recommendations, based on an identified need for motor vehicle safety; and
+(2)
+begin a rulemaking proceeding on the recommendations approved pursuant to paragraph (1) on the safety of highly automated vehicles.
+(c)
+Rule of construction
+Nothing in this section may be construed to restrict the authority of the Secretary under section 30111 of title 49, United States Code. Any Federal motor vehicle safety standard adopted pursuant to this section shall meet the requirements under such section 30111.
+12.
+Consumer education
+(a)
+Establishment
+Not later than 180 days after the date of the enactment of this Act, the Secretary shall establish a working group on responsible education efforts for advanced driver assist systems and automated driving systems.
+(b)
+Duties
+The working group established under subsection (a) shallâ
+(1)
+identify recommended education and responsible marketing strategies that may be voluntarily employed by industry to inform consumers, vehicle owners and operators, and other stakeholders about advanced driver assistance systems and automated driving systems as they become available or are soon to be introduced into interstate commerce; and
+(2)
+submit a report containing the findings and recommendations of the working group to Congress and making such report available to the public.
+(c)
+Considerations
+The working group shall consider topics pertaining toâ
+(1)
+intent, capabilities, and limitations of advanced driver assistance systems and automated driving systems;
+(2)
+engagement and disengagement methods, including methods to address driver engagement in lower levels of automation;
+(3)
+human-machine interfaces;
+(4)
+emergency fallback scenarios;
+(5)
+operational boundary responsibilities;
+(6)
+response in the event of a crash or system failure;
+(7)
+potential mechanisms that could change function behavior in service; and
+(8)
+consistent nomenclature and taxonomy for safety features and systems.
+(d)
+Membership
+(1)
+In general
+The Secretary shall appoint, as members of the working group, individuals with expertise in automated driving systems and driver assistance systems, includingâ
+(A)
+representatives ofâ
+(i)
+motor vehicle manufacturers;
+(ii)
+manufacturers of automated driving systems and driver assistance systems (including components);
+(iii)
+motor vehicle dealers;
+(iv)
+motor vehicle owners and operators, including fleet managers, vehicle rental companies, and transportation network companies;
+(v)
+consumers or consumer advocacy groups;
+(vi)
+automated vehicle proving grounds designated by the Department of Transportation;
+(vii)
+public health organizations;
+(viii)
+marketing professionals;
+(ix)
+entities with national experience in consumer education; and
+(x)
+enabling technology companies; and
+(B)
+any other members the Secretary considers appropriate.
+(2)
+Compensation
+Members of the working group shall serve without compensation.
+(3)
+Consultation
+The Secretary shall consult with the Federal Trade Commission about the recommendations of the working group, as appropriate.
+(e)
+Termination
+The working group established under this section shall terminate on the date that is 2 years after the date of the enactment of this Act.
+13.
+Traffic safety and law enforcement
+(a)
+Research
+The Secretary, in coordination with State and local transportation and highway safety entities, State and local law enforcement entities, and other relevant parties, shall research the traffic safety implications of highly automated vehicles, includingâ
+(1)
+the intersection of conventional and highly automated vehicles; and
+(2)
+law enforcement impacts, includingâ
+(A)
+enforcing applicable laws;
+(B)
+identifying whether a vehicle was in automated mode at the time of a crash;
+(C)
+lawfully accessing event data information; and
+(D)
+determining how a highly automated vehicle should respond to law enforcement.
+(b)
+Coordination of safety
+The Secretary, in coordination with State, local, and law enforcement agencies, may develop a process for State and local entities to provide information, on a voluntary basis, to the Secretary to assist the Department of Transportation in identifying defects related to motor vehicle safety of highly automated vehicles.
+(c)
+Crash data
+Not later than 3 years after the date of the enactment of this Act, the Secretary shall revise the crash investigation data collection system to include the collection of crash report data elements that distinguish whether the vehicle involved in a crash is a highly automated vehicle, including the level of automation and whether the vehicle was in automated mode at the time of a crash.
+14.
+Cybersecurity
+(a)
+In general
+Subchapter I of
+chapter 301
+of title 49, United States Code, as amended by section 9, is further amended by adding at the end the following:
+30108.
+Cybersecurity risks to the safety of highly automated vehicles
+(a)
+Definitions
+In this section:
+(1)
+Cybersecurity incident
+The term
+cybersecurity incident
+has the meaning given the term
+incident
+in section 227(a) of the Homeland Security Act of 2002 (
+6 U.S.C. 148(a)
+).
+(2)
+Cybersecurity risk
+The term
+cybersecurity risk
+has the meaning given the term in section 227(a) of the Homeland Security Act of 2002 (
+6 U.S.C. 148(a)
+).
+(3)
+Cybersecurity vulnerability
+The term
+cybersecurity vulnerability
+has the meaning given the term
+security vulnerability
+in section 102 of the Cybersecurity Information Sharing Act of 2015 (
+6 U.S.C. 1501
+).
+(b)
+Cybersecurity plan
+(1)
+In general
+Each manufacturer of a highly automated vehicle or automated driving system shall develop, maintain, and execute a written plan for identifying and reducing cybersecurity risks to the motor vehicle safety of such vehicles and systems.
+(2)
+Requirements
+The plan required under paragraph (1) shall include a process forâ
+(A)
+the risk-based prioritized identification and protection of safety-critical vehicle control systems and the broader transportation ecosystem, as applicable;
+(B)
+the efficient detection and response to potential vehicle cybersecurity incidents in the field;
+(C)
+facilitating expeditious recovery from incidents as they occur;
+(D)
+the institutionalization of methods for the accelerated adoption of lessons learned across industry through voluntary exchange of information pertaining to cybersecurity incidents, threats, and vulnerabilities, including the consideration of a coordinated cybersecurity vulnerability disclosure policy or other related practices for collaboration with third-party cybersecurity researchers;
+(E)
+the identification of the point of contact of the manufacturer with responsibility for the management of cybersecurity;
+(F)
+the use of segmentation and isolation techniques in vehicle architecture design, as appropriate; and
+(G)
+supporting voluntary efforts by industry and standards-setting organizations to develop and identify consistent standards and guidelines relating to vehicle cybersecurity, consistent, and to the extent appropriate, with the cybersecurity risk management activities described in section 2(e) of the National Institute of Standards and Technology Act (
+15 U.S.C. 272(e)
+).
+(3)
+Inspection
+The Secretary may inspect any cybersecurity plan developed by a manufacturer under this subsection to enable the Secretary to decide whether the manufacturer has complied, or is complying, with this chapter or a regulation prescribed or order issued pursuant to this chapter.
+(4)
+Protections for disclosure
+The Secretary may, by notice and comment rulemaking, establish a requirement that manufacturers subject to subsection (b) develop a summary of its plan that is suitable for public disclosure, as appropriate.
+(c)
+Coordinated cybersecurity vulnerability disclosure
+The Secretary may work cooperatively with manufacturers of highly automated vehicles and automated driving systems to incentivize manufacturers to voluntarily adopt a coordinated vulnerability disclosure policy and practice in which a security researcher privately discloses information related to a discovered vulnerability to a manufacturer and allows the manufacturer time to confirm and remediate the vulnerabilityâ
+(1)
+so that manufacturers build relationships with security researchers to mitigate cybersecurity risks; and
+(2)
+to discover and mitigate cybersecurity vulnerabilities in highly automated vehicles or automated driving systems that present a risk to motor vehicle safety (as defined in section 30102 of title 49, United States Code).
+(d)
+Coordination
+All Federal agencies undertaking research on cybersecurity risks associated with highly automated vehicles shall coordinate with the Secretary on their findings.
+.
+(b)
+Clerical amendment
+The analysis for
+chapter 301
+of title 49, United States Code, is amended by inserting after the item relating to
+section 30107,
+as added by section 9, the following:
+30108. Cybersecurity risks to the safety of highly automated vehicles.
+.
+(c)
+Effective date
+The amendments made by this section shall take effect on the date that is 18 months after the date of the enactment of this Act.
+15.
+Savings provision
+Nothing in this Act may be construed to alter any existing authority under subtitle VI of title 49, United States Code, relating to motor vehicles with a gross vehicle weight of 10,001 pounds or more.

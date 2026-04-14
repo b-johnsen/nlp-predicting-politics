@@ -1,0 +1,255 @@
+1.
+Short title
+This Act may be cited as the
+Provide Rigorous Oversight To Optimize Connectivity and Offset Latency Act
+or the
+PROTOCOL Act
+.
+2.
+Improvements to FCC broadband Deployment Locations Map and NTIA broadband infrastructure funding database
+(a)
+Additional data elements
+(1)
+FCC map
+Section 60105(d) of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1704(d)
+) is amended by striking paragraph (3) and inserting the following:
+(3)
+allows users to manipulate the Deployment Locations Map to identify, search, and filter broadband infrastructure deployment projects byâ
+(A)
+the Federal agency of jurisdiction;
+(B)
+the program title;
+(C)
+the network type, including wired, terrestrial fixed, wireless, mobile, and satellite broadband infrastructure deployment;
+(D)
+the name of the entity receiving support to deploy the broadband infrastructure;
+(E)
+whether the entity receiving support to deploy the broadband infrastructure isâ
+(i)
+a private, for-profit entity;
+(ii)
+a nonprofit organization;
+(iii)
+a public-private partnership;
+(iv)
+a public utility;
+(v)
+a private utility;
+(vi)
+a public utility district;
+(vii)
+a government entity;
+(viii)
+a cooperative;
+(ix)
+a Tribal entity; or
+(x)
+a type of entity not listed in clauses (i) through (ix);
+(F)
+the amount of Federal funding awarded;
+(G)
+whether any non-Federal matching funds were contributed, and, if so, the amount of such funds;
+(H)
+the duration timeline, including the dates of a projectâs beginning and ending, or anticipated beginning or ending date;
+(I)
+the total number of locations to which a project makes service available; and
+(J)
+minimum required download and upload speeds;
+.
+(2)
+NTIA database
+Section 903(c)(2)(A) of the ACCESS BROADBAND Act (
+47 U.S.C. 1307(c)(2)(A)
+) is amendedâ
+(A)
+by striking
+The Office
+and inserting the following:
+(i)
+In general
+The Office
+; and
+(B)
+by adding at the end the following:
+(ii)
+Data elements
+For any Federal broadband support program or Universal Service Fund Program that provides support for broadband infrastructure deployment, the database required by clause (i) shall include the data described in paragraphs (2) and (3) of section 60105(d) of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1704(d)
+).
+.
+(b)
+Definitions of Federal broadband support program and broadband infrastructure
+(1)
+In general
+Section 903(g) of the ACCESS BROADBAND Act (
+47 U.S.C. 1307(g)
+) is amendedâ
+(A)
+in paragraph (4), by adding at the end the following:
+(H)
+The Broadband Equity, Access, and Deployment Program established under section 60102 of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1702
+).
+;
+(B)
+by redesignating paragraphs (3) through (8) as paragraphs (4) through (9), respectively; and
+(C)
+by inserting after paragraph (2) the following:
+(3)
+Broadband infrastructure
+The term
+broadband infrastructure
+has the meaning given such term in section 60105(a) of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1704(a)
+).
+.
+(2)
+Conforming amendments
+Section 903 of the ACCESS BROADBAND Act (
+47 U.S.C. 1307
+) is amendedâ
+(A)
+by striking
+broadband deployment
+each place it appears and inserting
+broadband infrastructure deployment
+; and
+(B)
+in paragraph (8) (as redesignated by this section) of subsection (g), by striking
+broadband
+and inserting
+broadband infrastructure
+.
+(c)
+Coordination between FCC and NTIA
+Section 60105(g) of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1704(g)
+) is amendedâ
+(1)
+in the heading, by striking
+Nonduplication
+and inserting
+Nonduplication; coordination
+; and
+(2)
+by adding at the end the following:
+The Commission and the Assistant Secretary of Commerce for Communications and Information shall coordinate with each other to ensure consistency between, and accuracy in, the Deployment Locations Map and the central database required by subsection (c)(2)(A) of such section.
+.
+(d)
+State reporting
+(1)
+Data relating to Federal programs
+Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Assistant Secretary shall transmit to each State a request for the State to submit to the Assistant Secretary a report, with respect to the 1-year period immediately preceding the report date, thatâ
+(A)
+lists the locations at which broadband service was made available using broadband infrastructure deployed with support provided through any covered Federal award received by the State; and
+(B)
+lists any subgrants or other awards made by the State to other entities of support provided through a covered Federal award received by the State, and the locations at which broadband service will be made available using broadband infrastructure deployed with such support.
+(2)
+Data relating to State programs
+In requesting a State to submit a report under paragraph (1), the Assistant Secretary shall request the State to include in the report, with respect to the 1-year period immediately preceding the report dateâ
+(A)
+a list of the locations at which broadband service was made available using broadband infrastructure deployed with support provided through a program established by the State; and
+(B)
+a list of any awards of support for the deployment of broadband infrastructure made by the State through a program established by the State, and the locations at which broadband service will be made available using broadband infrastructure deployed with such support.
+(3)
+Transmission by NTIA to FCC
+Not later than 45 days after receiving a report from a State in response to a request under paragraph (1), the Assistant Secretary shall transmit the report to the Commission.
+(4)
+Inclusion in FCC map and NTIA database
+(A)
+FCC map
+Section 60105(d) of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1704(d)
+), as amended by the preceding provisions of this section, is further amendedâ
+(i)
+in paragraph (4), by striking the period at the end and inserting
+; and
+; and
+(ii)
+by adding at the end the following:
+(5)
+incorporates the data in the State reports transmitted to the Commission by the Assistant Secretary of Commerce for Communications and Information under section 2(d) of the
+PROTOCOL Act
+.
+.
+(B)
+NTIA database
+Section 903(c)(2)(A) of the ACCESS BROADBAND Act (
+47 U.S.C. 1307(c)(2)(A)
+), as amended by the preceding provisions of this section, is further amended by adding at the end the following:
+(iii)
+Data submitted by States
+The database required by clause (i) shall incorporate the data in the State reports submitted to the Assistant Secretary under section 2(d) of the
+PROTOCOL Act
+.
+.
+(e)
+Required use of FCC map by Federal agencies; outreach by FCC
+Section 60105 of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1704
+) is amended by adding at the end the following:
+(i)
+Required use of Map by Federal agencies; outreach by FCC
+(1)
+Required use
+Each Federal agency providing funding for broadband infrastructure deployment shall use the Deployment Locations Map in making an award of any such funding.
+(2)
+Outreach
+The Commission shall conduct outreach to each Federal agency providing funding for broadband infrastructure deployment to ensure that such agency is aware ofâ
+(A)
+the requirement of subsection (e)(2) to report relevant data to the Commission; and
+(B)
+the requirement of paragraph (1) of this subsection to use the Deployment Locations Map in making an award of such funding.
+.
+(f)
+Definitions
+(1)
+In general
+In this section:
+(A)
+Broadband infrastructure
+The term
+broadband infrastructure
+has the meaning given such term in section 60105(a) of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1704(a)
+).
+(B)
+Broadband service
+The term
+broadband service
+has the meaning given the term
+broadband internet access service
+in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.
+(C)
+Covered Federal award
+The term
+covered Federal award
+means any award made under a covered Federal program, to the extent such award provides support for broadband infrastructure deployment.
+(D)
+Covered Federal program
+The term
+covered Federal program
+means any of the following:
+(i)
+A Federal broadband support program.
+(ii)
+A Universal Service Fund Program.
+(E)
+State
+The term
+State
+means each State of the United States, the District of Columbia, and each commonwealth, territory, or possession of the United States.
+(2)
+Terms defined in ACCESS BROADBAND Act
+In this section, the terms
+Assistant Secretary
+,
+Commission
+,
+Federal broadband support program
+, and
+Universal Service Fund Program
+have the meanings given such terms in section 903(g) of the ACCESS BROADBAND Act (
+47 U.S.C. 1307(g)
+).

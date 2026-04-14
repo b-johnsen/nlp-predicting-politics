@@ -1,0 +1,84 @@
+1.
+Short title
+This Act may be cited as the
+Protect Election Systems from Foreign Control Act
+.
+2.
+Ensuring no foreign ownership or influence on voting systems
+(a)
+In general
+Title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21083
+et seq.) is amendedâ
+(1)
+by redesignating sections 304 and 305 as sections 305 and 306; and
+(2)
+by inserting after section 303 the following new section:
+304.
+Ensuring no foreign ownership or control over voting systems
+(a)
+Requiring vendors To be qualified
+Each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office shall ensure that each vendor who provides, supports, or maintains any component of a voting system used in the administration of the election is a qualified voting systems vendor.
+(b)
+Annual evaluation To ensure compliance
+Each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office shall, not less frequently than once each calendar year, evaluate each of the vendors who provide, support, or maintain any component of a voting system used in the administration of the election to ensure that the vendor is a qualified voting system vendor.
+(c)
+Cybersecurity best practices
+Not later than 90 days after the date of the enactment of this section, the Chair of the Commission and the Secretary of Homeland Security shall establish and publish cybersecurity best practices for vendors who provide, support, or maintain voting systems, and shall establish and publish updates to such best practices at such times as the Chair and the Secretary consider appropriate.
+(d)
+Guidance and technical assistance
+(1)
+In general
+The Chair of the Commission and the Secretary of Homeland Security may provide such guidance and technical assistance as may be appropriate to assist each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office with its obligations under this section.
+(2)
+Database of qualified vendors
+As part of providing guidance and technical assistance under this subsection, the Commission shall establish and maintain a database in which each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office can verify whether a vendor is a qualified voting systems vendor.
+(e)
+Qualified voting systems vendor defined
+(1)
+In general
+In this section, the term
+qualified voting system vendor
+means a person who provides, supports, or maintains, or seeks to provide, support, or maintain, a voting system used in the administration of an election for Federal office who meets each of the following criteria, as established and published by the Chair of the Commission in coordination with the Secretary of Homeland Security:
+(A)
+Except as provided in paragraph (2), the person is solely owned and controlled by a citizen or citizens of the United States.
+(B)
+The person discloses any sourcing outside the United States for any parts of the voting system to the Chair of the Commission, the Secretary of Homeland Security, and the chief State election official of any State in which the vendor provides or seeks to provide goods or services with respect to the voting system.
+(C)
+The person discloses any material change in its ownership or control to the Chair of the Commission, the Secretary of Homeland Security, and the chief State election official of any State in which the vendor provides goods or services with respect to the voting system.
+(D)
+The person agrees to ensure that the voting systems will be developed and maintained in a manner that is consistent with the cybersecurity best practices established under subsection (c).
+(E)
+The person agrees to maintain its information technology infrastructure in a manner that is consistent with the cybersecurity best practices established under subsection (c).
+(F)
+The vendor shall report any known or suspected security incidents involving voting systems to the chief State election official of the State involved or the officialâs designee, the Chair, and the Secretary.
+(2)
+Permitting waiver of domestic ownership requirement for certain subsidiaries
+The Secretary of Homeland Security may waive the requirement of subparagraph (A) of paragraph (1) with respect to a person who is a United States subsidiary of a parent company which has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Secretary. Such plan shall ensure that the parent company cannot control, influence, or direct the subsidiary in any manner that would compromise or influence, or give the appearance of compromising or influencing, the independence and integrity of an election.
+(f)
+Voting system defined
+In this section, the term
+voting system
+has the meaning given such term in section 301(b).
+.
+(b)
+Conforming amendment relating to enforcement
+Section 401 of such Act (
+52 U.S.C. 21111
+) is amended by striking
+and 303
+and inserting
+303, and 304
+.
+(c)
+Clerical amendments
+The table of contents of such Act is amendedâ
+(1)
+by redesignating the items relating to sections 304 and 305 as relating to sections 305 and 306; and
+(2)
+by inserting after the item relating to section 303 the following new item:
+Sec. 304. Ensuring no foreign ownership or control over voting systems.
+.
+(d)
+Effective date
+The amendments made by this section shall apply with respect to elections for Federal office held in 2020 or any succeeding year.

@@ -1,0 +1,231 @@
+1.
+Short title
+This Act may be cited as the
+Saving Access to Laboratory Services Act
+.
+2.
+Modification of requirements for medicare clinical diagnostic laboratory tests
+(a)
+Use of statistical sampling for widely available clinical diagnostic laboratory tests
+(1)
+In general
+Section 1834A(a)(1) of the Social Security Act (
+42 U.S.C. 1395mâ1(a)(1)
+) is amendedâ
+(A)
+in subparagraph (A), by striking
+Subject to subparagraph (B)
+and inserting
+Subject to subparagraphs (B) and (C)
+; and
+(B)
+by adding at the end the following new subparagraph:
+(C)
+Use of statistical sampling for widely available clinical diagnostic laboratory tests
+(i)
+In general
+Subject to clause (ii), with respect to data collection periods for reporting periods beginning on or after January 1, 2026, in the case of a widely available clinical diagnostic laboratory test (as defined in clause (iii)), in lieu of requiring the reporting of applicable information from each applicable laboratory, the Secretary shall require the collection and reporting of applicable information from a statistically valid sample of applicable laboratories for each such widely available clinical diagnostic laboratory test.
+(ii)
+Requirements for statistical sampling
+(I)
+In general
+The Secretary, in consultation with stakeholders, shall develop a methodology for a statistically valid sample under clause (i), using the maximal brewer selection method, as described in the June 2021 Medicare Payment Access Commission Report to the Congress, to establish the payment amount for a widely available clinical diagnostic laboratory test under paragraph (2) of subsection (b) for each applicable HCPCS code for a widely available clinical diagnostic laboratory test.
+(II)
+Representative sampling
+The methodology under subclause (I) for a statistically valid sample under clause (i) shall, for each applicable HCPCS code for a widely available clinical diagnostic laboratory testâ
+(aa)
+provide for a sample that allows for the payment amounts established under paragraph (2) of subsection (b) for such a test to be representative of rates paid by private payors to applicable laboratories receiving payment under this section, including independent laboratories, hospital laboratories, hospital outreach laboratories, and physician office laboratories that furnish the widely available clinical diagnostic laboratory test;
+(bb)
+include applicable information (as defined in paragraph (3)) with respect to such widely available clinical diagnostic laboratory test from such different types of applicable laboratories; and
+(cc)
+be of sufficient size to accurately and proportionally represent the range of private payor payment rates received by each such type of applicable laboratory weighted according to the utilization rates of each type of applicable laboratory for the widely available clinical diagnostic laboratory test during the first 6 months of the calendar year immediately preceding the data collection period applicable to the sample to be collected.
+(III)
+Least burdensome data collection and reporting processes
+The methodology developed by the Secretary shall be designed to reduce administrative burdens of data collection and reporting on applicable laboratories and the Centers for Medicare & Medicaid Services to the greatest extent practicable.
+(IV)
+Publication of list of widely available clinical diagnostic laboratory tests and notification to applicable laboratories required to report applicable information
+Not later than September 30 of the year immediately preceding each data collection period (as defined in paragraph (4)), the Secretary shall publish in the Federal Register a list of widely available clinical diagnostic laboratory tests and shall directly notify applicable laboratories required to report applicable information under this subsection.
+(iii)
+Definition of widely available clinical diagnostic laboratory test
+In this subparagraph, the term
+widely available clinical diagnostic laboratory test
+means a clinical diagnostic laboratory test that meets both of the following criteria during the first 6 months of the calendar year immediately preceding the data collection period applicable to the sample to be collected:
+(I)
+Payment rate
+The payment amount determined for the clinical diagnostic laboratory test under this section is less than $1,000 per test.
+(II)
+Number of laboratories performing the test
+The number of applicable laboratories receiving payments under this section for the clinical diagnostic laboratory test (as determined by the Secretary using the national provider identifier of the provider of services or supplier on the claim submitted for payment under this part for such test) exceeds 100.
+.
+(2)
+Delays to revised reporting periods and reporting period frequency
+(A)
+In general
+Section 1834A(a)(1)(B) of the Social Security Act (
+42 U.S.C. 1395mâ1(a)(1)(B)
+) is amendedâ
+(i)
+in clause (i), by striking
+December 31, 2023
+and inserting
+December 31, 2026
+;
+(ii)
+in clause (ii), by striking
+beginning January 1, 2024, and ending March 31, 2024
+and inserting
+beginning January 1, 2027, and ending March 31, 2027
+; and
+(iii)
+in clause (iii) by striking
+every three years
+and inserting
+every four years
+.
+(B)
+Conforming change to definition of data collection period
+Section 1834A(a)(4)(B) of the Social Security Act (
+42 U.S.C. 1395mâ1(a)(4)(B)
+) is amended by striking
+January 1, 2019, and ending June 30, 2019
+and inserting
+January 1, 2026, and ending June 30, 2026
+.
+(b)
+Elimination of majority of Medicare revenues test
+The first sentence of section 1834A(a)(2) of the Social Security Act (
+42 U.S.C. 1395mâ1(a)(2)
+) is amended by striking
+In this section
+and all that follows through the period and inserting the following:
+Notwithstanding determinations of applicable laboratories made prior to January 1, 2025, the term
+applicable laboratory
+means a laboratory that receives at least $12,500 in payments under this section during the first 6 months of the calendar year immediately preceding the applicable data collection period.
+.
+(c)
+Modifications to applicable information reported
+(1)
+Medicaid managed care rates
+Section 1834A(a)(8)(C) of the Social Security Act (
+42 U.S.C. 1395mâ1(a)(8)(C)
+) is amended by striking
+A medicaid managed care organization
+and inserting
+With respect to data collection periods for reporting periods beginning before January 1, 2027, a medicaid managed care organization (as defined in section 1903(m))
+.
+(2)
+Authority to exclude manual remittances
+Section 1834A(a)(3) of the Social Security Act (
+42 U.S.C. 1395mâ1(a)(3)
+) is amendedâ
+(A)
+in subparagraph (A), by striking
+subject to subparagraph (B),
+and inserting
+subject to subparagraphs (B) and (C)
+; and
+(B)
+by adding at the end the following new subparagraph:
+(C)
+Exclusion of manual remittances
+An applicable laboratory for which less than 10 percent of its total paid claims during a data collection period are paid by private payors by means other than an electronic standard transaction (as defined in section 162.103 of title 45, Code of Federal Regulations (or any successor regulation)) may exclude from the definition of applicable information under this paragraph payments made by private payors that are not made through an electronic standard transaction.
+.
+(d)
+Modification to limits on payment reductions; imposition of annual cap on payment increases
+(1)
+Payment reduction limits
+Section 1834A(b)(3) of the Social Security Act (
+42 U.S.C. 1395mâ1(b)(3)
+) is amendedâ
+(A)
+in subparagraph (A), by striking
+for each of 2017 through 2026
+and inserting
+for 2017 and each succeeding year
+; and
+(B)
+in subparagraph (B)â
+(i)
+in clause (ii)â
+(I)
+by striking
+through 2023
+and inserting
+through 2024
+; and
+(II)
+by striking
+and
+at the end; and
+(ii)
+by striking clause (iii) and inserting the following:
+(iii)
+for 2025, 2.5 percent; and
+(iv)
+for 2026 and each subsequent year, 5 percent.
+.
+(2)
+Annual cap on payment rate increases
+Section 1834A(b)(3) of the Social Security Act (
+42 U.S.C. 1395mâ1(b)(3)
+), as amended by paragraph (1), is amendedâ
+(A)
+in subparagraph (A)â
+(i)
+by striking
+test for 2017 and each succeeding yearâ
+and inserting
+testâ
+(i)
+for 2017 and each succeeding year
+;
+(ii)
+in clause (i), as added by clause (i) of this subparagraph, by striking the period and inserting
+; and
+; and
+(iii)
+by adding at the end the following new clause:
+(ii)
+for 2024 and each succeeding year, shall not result in an increase in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (D)) of the amount of payment for the test for the preceding year.
+;
+(B)
+in subparagraph (B), in the matter preceding clause (i), by striking
+In this paragraph
+and inserting
+In clause (i) of subparagraph (A)
+; and
+(C)
+by adding at the end the following new subparagraph:
+(D)
+Definition of applicable percent for purposes of annual cap on payment increases
+In clause (ii) of subparagraph (A), the term
+applicable percent
+means the following:
+(i)
+Widely available clinical diagnostic laboratory tests
+With respect to a widely available clinical diagnostic laboratory testâ
+(I)
+for each of 2024 and 2025, 2.5 percent;
+(II)
+for each of 2026 and 2027, 3.75 percent; and
+(III)
+for 2028 and each subsequent year, 5 percent.
+(ii)
+Other clinical diagnostic laboratory tests
+With respect to a clinical diagnostic laboratory test not described in clause (i), 5 percent.
+.
+(3)
+Conforming amendment
+Section 1834A(b)(3) of the Social Security Act (
+42 U.S.C. 1395mâ1(b)(3)
+) is amended in the heading by striking
+reductions
+and inserting
+medicare payment changes
+.
+(e)
+Regulations
+(1)
+Not later than December 31, 2024, the Secretary of Health and Human Services shall implement the amendments made by this section (other than subsection (d)) through notice and comment rulemaking.
+(2)
+The Secretary of Health and Human Services may implement the amendments made by subsection (d) through interim final rulemaking, program instruction, or otherwise.

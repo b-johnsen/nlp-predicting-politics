@@ -1,0 +1,273 @@
+1.
+Definitions
+In this Act:
+(1)
+3GPP
+The term
+3GPP
+means the Third Generation Partnership Project.
+(2)
+5G network
+The term
+5G network
+means a radio network as described by 3GPP Release 15 or higher.
+(3)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(4)
+NTIA Administrator
+The term
+NTIA Administrator
+means the Assistant Secretary of Commerce for Communications and Information.
+(5)
+O-RAN
+The term
+O-RAN
+means the Open Radio Access Network approach to standardization adopted by the O-RAN Alliance, Telecom Infra Project, or 3GPP, or any similar set of open standards for multi-vendor network equipment interoperability.
+(6)
+Relevant committees of Congress
+The term
+relevant committees of Congress
+meansâ
+(A)
+the Select Committee on Intelligence of the Senate;
+(B)
+the Committee on Foreign Relations of the Senate;
+(C)
+the Committee on Homeland Security and Governmental Affairs of the Senate;
+(D)
+the Committee on Armed Services of the Senate;
+(E)
+the Committee on Commerce, Science, and Transportation of the Senate;
+(F)
+the Permanent Select Committee on Intelligence of the House of Representatives;
+(G)
+the Committee on Foreign Affairs of the House of Representatives;
+(H)
+the Committee on Homeland Security of the House of Representatives;
+(I)
+the Committee on Armed Services of the House of Representatives; and
+(J)
+the Committee on Energy and Commerce of the House of Representatives.
+2.
+Communications technology security funds
+(a)
+Use of spectrum auction proceeds
+Notwithstanding section 309(j)(8)(A) of the Communications Act of 1934 (
+47 U.S.C. 309(j)(8)(A)
+) or any other provision of law, with respect to any proceeds from the use of a competitive bidding system by the Commission to grant a license, permit, or other rights for the use of electromagnetic spectrum during the 5-year period beginning on the date of this Act that would otherwise be deposited in the Treasury, the Commission shall depositâ
+(1)
+5 percent of the proceeds or $750,000,000, whichever is greater, in the Public Wireless Supply Chain Innovation Fund established under subsection (b) of this section; and
+(2)
+$500,000,000 in the Multilateral Telecommunications Security Fund established under subsection (c) of this section.
+(b)
+Public Wireless Supply Chain Innovation Fund
+(1)
+Establishment
+(A)
+In general
+There is established in the Treasury of the United States a trust fund to be known as the
+Public Wireless Supply Chain Innovation Fund
+(referred to in this subsection as the
+R&D Fund
+).
+(B)
+Availability
+(i)
+In general
+Amounts deposited in the R&D Fund shall remain available through the end of the tenth fiscal year beginning after the date of enactment of this Act.
+(ii)
+Remainder to Treasury
+Any amounts remaining in the R&D Fund after the end of the tenth fiscal year beginning after the date of enactment of this Act shall be deposited in the general fund of the Treasury.
+(2)
+Borrowing authority
+(A)
+In general
+The NTIA Administrator may borrow from the Treasury of the United States an amount not to exceed $750,000,000 to use for grants under this subsection.
+(B)
+Deposit of funds
+Any amounts borrowed under subparagraph (A) shall be deposited in the R&D Fund.
+(3)
+Use of fund
+(A)
+Grants
+(i)
+In general
+Except as provided in subparagraph (B), amounts deposited in the R&D Fund shall be available to the NTIA Administrator to make grants under this subsection in such amounts as the NTIA Administrator determines appropriate, subject to clause (ii) of this subparagraph.
+(ii)
+Limitation on grant amounts
+The amount of a grant awarded under this subsection to a recipient for a specific research focus area may not exceed $20,000,000.
+(B)
+Reimbursement of Treasury
+As proceeds are deposited in the R&D Fund under subsection (a)(1), the Commission shall first use those proceeds to reimburse the general fund of the Treasury for any amounts borrowed under paragraph (2)(A) of this subsection.
+(4)
+Administration of fund
+The NTIA Administrator, in consultation with the Commission, the Director of the National Institute of Standards and Technology, the Secretary of Homeland Security, the Director of the Defense Advanced Research Projects Agency (commonly known as
+DARPA
+), and the Director of the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence, shall establish criteria for grants awarded under this subsection, and administer the R&D Fund, to support research and the commercial application of that research, including in the following areas:
+(A)
+Promoting the development of technology, including software, hardware, and microprocessing technology, that will enhance competitiveness in the fifth-generation (commonly known as
+5G
+) and successor wireless technology supply chains.
+(B)
+Accelerating development and deployment of open interface standards-based compatible, interoperable equipment, such as equipment developed pursuant to the standards set forth by organizations such as the O-RAN Alliance, the Telecom Infra Project, 3GPP, the O-RAN Software Community, or any successor organizations.
+(C)
+Promoting compatibility of new 5G equipment with future open standards-based, interoperable equipment.
+(D)
+Managing integration of multi-vendor network environments.
+(E)
+Objective criteria to define equipment as compliant with open standards for multi-vendor network equipment interoperability.
+(F)
+Promoting development and inclusion of security features enhancing the integrity and availability of equipment in multi-vendor networks.
+(G)
+Promoting the application of network function virtualization to facilitate multi-vendor interoperability and a more diverse vendor market.
+(5)
+Timing
+Not later than 1 year after the date of enactment of this Act, the NTIA Administrator shall begin awarding grants under this subsection.
+(6)
+Federal advisory body
+(A)
+Establishment
+The NTIA Administrator shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), composed of government and private sector experts, to advise the NTIA Administrator on the administration of the R&D Fund.
+(B)
+Composition
+The advisory committee established under subparagraph (A) shall be composed ofâ
+(i)
+representatives fromâ
+(I)
+the Commission;
+(II)
+the Defense Advanced Research Projects Administration;
+(III)
+the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence;
+(IV)
+the National Institute of Standards and Technology;
+(V)
+the Department of State;
+(VI)
+the National Science Foundation; and
+(VII)
+the Department of Homeland Security; and
+(ii)
+other representatives from the private and public sectors, at the discretion of the NTIA Administrator.
+(C)
+Duties
+The advisory committee established under subparagraph (A) shall advise the NTIA Administrator on technology developments to help informâ
+(i)
+the strategic direction of the R&D Fund; and
+(ii)
+efforts of the Federal Government to promote a more secure, diverse, sustainable, and competitive supply chain.
+(7)
+Reports to Congress
+(A)
+Initial report
+Not later than 180 days after the date of enactment of this Act, the NTIA Administrator shall submit to the relevant committees of Congress a report withâ
+(i)
+additional recommendations on promoting the competitiveness and sustainability of trusted suppliers in the wireless supply chain; and
+(ii)
+any additional authorities needed to facilitate the timely adoption of open standards-based equipment, including authority to provide loans, loan guarantees, and other forms of credit extension that would maximize the use of designated funds.
+(B)
+Annual report
+For each fiscal year for which amounts in the R&D Fund are available under this subsection, the NTIA Administrator shall submit to Congress a report thatâ
+(i)
+describes how, and to whom, amounts in the R&D Fund have been deployed;
+(ii)
+details the progress of the NTIA Administrator in meeting the objectives described in paragraph (4); and
+(iii)
+includes any additional information that the NTIA Administrator determines appropriate.
+(c)
+Multilateral Telecommunications Security Fund
+(1)
+Establishment of Fund
+(A)
+In general
+There is established in the Treasury of the United States a trust fund to be known as the
+Multilateral Telecommunications Security Fund
+.
+(B)
+Use of fund
+Amounts deposited in the Multilateral Telecommunications Security Fund shall be available to the Secretary of State to make expenditures under this subsection in such amounts as the Secretary of State determines appropriate.
+(C)
+Availability
+(i)
+In general
+Amounts deposited in the Multilateral Telecommunications Security Fundâ
+(I)
+shall remain available through the end of the tenth fiscal year beginning after the date of enactment of this Act; and
+(II)
+may only be allocated upon the Secretary of State reaching an agreement with foreign government partners to participate in the common funding mechanism described in paragraph (2).
+(ii)
+Remainder to Treasury
+Any amounts remaining in the Multilateral Telecommunications Security Fund after the end of the tenth fiscal year beginning after the date of enactment of this Act shall be deposited in the general fund of the Treasury.
+(2)
+Administration of Fund
+The Secretary of State, in consultation with the NTIA Administrator, the Secretary of Homeland Security, the Secretary of the Treasury, the Director of National Intelligence, and the Commission, shall establish a common funding mechanism, in coordination with foreign partners, that uses amounts from the Multilateral Telecommunications Security Fund to support the development and adoption of secure and trusted telecommunications technologies.
+(3)
+Annual report to Congress
+Not later than 1 year after the date of enactment of this Act, and annually thereafter for each fiscal year during which amounts in the Multilateral Telecommunications Security Fund are available, the Secretary of State shall submit to the relevant committees of Congress a report on the status and progress of the funding mechanism established under paragraph (2), includingâ
+(A)
+any funding commitments from foreign partners, including each specific amount committed;
+(B)
+governing criteria for use of the Multilateral Telecommunications Security Fund;
+(C)
+an account ofâ
+(i)
+how, and to whom, funds have been deployed;
+(ii)
+amounts remaining in the Multilateral Telecommunications Security Fund; and
+(iii)
+the progress of the Secretary of State in meeting the objective described in paragraph (2); and
+(D)
+additional authorities needed to enhance the effectiveness of the Multilateral Telecommunications Security Fund in achieving the security goals of the United States.
+3.
+Promoting United States leadership in international organizations and communications
+standards-setting bodies
+(a)
+In general
+The Secretary of State, the Secretary of Commerce, and the Chairman of the Commission, or their designees, shall prioritize the use of Federal funds to enhance representation of the United States at international forums that set standards for 5G networks and for future generations of wireless communications networks, includingâ
+(1)
+the International Telecommunication Union (commonly known as
+ITU
+);
+(2)
+the International Organization for Standardization (commonly known as
+ISO
+);
+(3)
+the Inter-American Telecommunications Commission (commonly known as
+CITEL
+); and
+(4)
+the voluntary standards organizations that develop protocols for wireless devices and other equipment, such as the 3GPP and the Institute of Electrical and Electronics Engineers (commonly known as
+IEEE
+).
+(b)
+Annual report
+The Secretary of State, the Secretary of Commerce, and the Chairman of the Commission shall jointly submit to the relevant committees of Congress an annual report on the progress made under subsection (a).
+4.
+Harmonization
+Without unduly constraining the leadership of the United States in spectrum allocations and services, to the extent practicable and consistent with other provisions of law, the Commission and the NTIA Administrator shall seek to harmonize new spectrum allocations with global spectrum allocations that can be used for deployment of 5G networks or successor technologies toâ
+(1)
+ensure international coordination of policies;
+(2)
+promote greater economies of scale in the domestic and international market for secure and resilient communications network equipment; and
+(3)
+incentivize more efficient use of spectrum.
+5.
+Compatibility with open network architectures
+(a)
+Development of criteria
+(1)
+In general
+The Commission shall establish a requirement, as part of the equipment authorization program of the Commission, to obtain a certification that advanced mobile network equipment is in compliance with O-RAN network architectures.
+(2)
+Private sector testing and certification
+A certification described in paragraph (1) may be obtained through appropriate private sector testing and certification programs.
+(3)
+Independent testing laboratories
+The Commission, in consultation with the National Institute of Standards and Technology, may establish qualifications for independent testing laboratories to certify compliance of advanced mobile network equipment under paragraph (1).
+(b)
+Condition on funding
+The Commission may not provide any amounts to support the purchase of 5G network equipment to replace unsecure equipment or services provided by any company posing a national security threat to integrity of communications networks or the communications supply chain, as identified by the Commission through the process under section 54.9 of title 47, Code of Federal Regulations, unless the recipient submits to the Commission a plan to begin, within 7 years, to transition to open standards-based compatible equipment, such as equipment developed pursuant to the standards set forth by organizations such as the O-RAN Alliance, the Telecom Infra Project, 3GPP, or any successor organizations, to ensure forward compatibility and open, multi-vendor network equipment interoperability.

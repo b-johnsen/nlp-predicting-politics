@@ -1,0 +1,245 @@
+1.
+Short title
+This Act may be cited as the
+Know Before You Drive Act
+.
+2.
+Consumer education
+(a)
+Prohibition on misleading claims
+Not later than 180 days after the date of the enactment of this Act, a manufacturer may not make any representation that implies or would otherwise lead a reasonable person to believe thatâ
+(1)
+a partially automated driving system, or a feature or component of a partially automated driving system, is an automated driving system or a feature or component of an automated driving system; or
+(2)
+a partially automated driving system, feature, or componentâ
+(A)
+can function as an automated driving system; or
+(B)
+otherwise has capabilities beyond what the system, feature, or component is able to perform.
+(b)
+Notification upon first sale
+(1)
+Notice required
+Not later than 2 years after the date of the enactment of this Act, a manufacturer or dealer may not sell a partially automated vehicle or partially automated driving system without providing a clear and conspicuous notice to the purchaser that describes the following:
+(A)
+That the vehicle is equipped with a partially automated driving system.
+(B)
+The features of the partially automated driving system.
+(C)
+The capabilities and limitations of the partially automated driving system, including the operational design domain.
+(D)
+The subtasks of the dynamic driving task the driver is expected to perform while the partially automated driving system is performing part of the dynamic driving task, including the following:
+(i)
+The object event detection and response subtask.
+(ii)
+Supervising a partially automated driving system.
+(iii)
+Responding to a request to intervene or to a performance-relevant system failure.
+(2)
+Information
+Before delivering a partially automated vehicle to a dealer, a manufacturer shall provide the dealer with the notice described in paragraph (1).
+(3)
+Compliance
+(A)
+Dealer
+A dealer is not in violation of this section if a manufacturer fails to provide the notice pursuant to paragraph (2) or the notice is not in compliance with paragraph (1).
+(B)
+Manufacturer
+A manufacturer is not in violation of this section if the manufacturer complies with paragraph (2), but the dealer does not provide the notice required in paragraph (1) to a purchaser of a partially automated vehicle.
+(c)
+Updates
+Beginning 2 years after the date of the enactment of this Act and upon the proffer to an owner, lessee, or driver of a partially automated vehicle of a software update that materially affects the performance of the dynamic driving task, including an over-the-air update, a manufacturer shall provide a clear and conspicuous notice to such owner, lessee, or driver that describes each material change to the capabilities and limitations of the partially automated driving system with which the vehicle is equipped.
+(d)
+Enforcement authority
+(1)
+Enforcement by NHTSA
+Section 30165(a)(1) of title 49, United States Code, is amended by inserting after
+31137,
+the following:
+subsections (a), (b), or (c) of section 2 of the
+Know Before You Drive Act
+,
+.
+(2)
+Enforcement by Commission
+(A)
+Unfair or deceptive acts or practices
+A violation of subsections (a), (b), or (c) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(B)
+Powers of commission
+The Commission shall enforce subsections (a), (b), and (c) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+) were incorporated into and made a part of such subsections. Any person who violates such subsections shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
+(C)
+Rule of construction
+Nothing in this Act may be construed to limit the authority of the Commission to enforce any other provision of law.
+(3)
+Enforcement by States
+(A)
+Civil action
+In any case in which the attorney general of a State has reason to believe that an interest of the residents of such State has been, may be, or is adversely affected by an act or practice in violation of subsection (a), (b), or (c), the attorney general may bring a civil action in the name of the State, or as parens patriae on behalf of the residents of the State, in an appropriate district court of the United States toâ
+(i)
+enjoin such act or practice;
+(ii)
+enforce compliance with this Act;
+(iii)
+obtain damages, civil penalties, restitution, or other compensation on behalf of the residents of the State;
+(iv)
+obtain reasonable attorneysâ fees and other litigation costs reasonably incurred; or
+(v)
+obtain such other legal and equitable relief as the court may consider to be appropriate.
+(B)
+Notice
+Before filing an action under this paragraph, the attorney general of the State involved shall provide to the Commission a written notice of such action and a copy of the complaint for such action. If the attorney general determines that it is not feasible to provide the notice described in this subparagraph before the filing of the action, the attorney general shall provide written notice of the action and a copy of the complaint to the Commission immediately upon the filing of the action.
+(C)
+Authority of commission
+(i)
+In general
+On receiving notice under subparagraph (B) of an action under this paragraph, the Commission shall have the rightâ
+(I)
+to intervene in the action; and
+(II)
+upon so interveningâ
+(aa)
+to be heard on all matters arising therein; and
+(bb)
+to file petitions for appeal.
+(ii)
+Limitation on state action while Federal action is pending
+If the Commission or the Attorney General of the United States has instituted a civil action for violation of subsection (a), (b), or (c) (referred to in this subparagraph as the
+Federal action
+), no State attorney general may bring an action under this paragraph during the pendency of the Federal action against any defendant named in the complaint in the Federal action for any violation of subsection (a), (b), or (c) alleged in such complaint.
+(D)
+Rule of construction
+Nothing in this Act may be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations, to administer oaths or affirmations, or to compel the attendance of witnesses or the production of documentary and other evidence.
+(e)
+Amendment of Automobile Information Disclosure Act
+(1)
+Safety labeling requirement
+Section 3 of the Automobile Information Disclosure Act (
+15 U.S.C. 1232
+) is amendedâ
+(A)
+in subsection (g)(4)(B), by striking
+; and
+and inserting a semicolon;
+(B)
+subsection (h), by striking the period at the end and inserting
+; and
+; and
+(C)
+by adding at the end the following:
+(i)
+if such automobile is equipped with a partially automated driving system or an automated driving system, information (in plain language or graphic icons that allows a purchaser to easily compare between automobiles equipped with such systems), including a short description of each such system thatâ
+(1)
+is sufficient for a consumer to identify the specific subtasks of the dynamic driving task the system is intended to perform;
+(2)
+indicates whether driver supervision is required during the execution of that subtask by the system;
+(3)
+describes the conditions that would place the system outside of the operational design domain, including any geographical restriction, time-of-day restriction, and road and environmental condition restriction; and
+(4)
+indicates whether such automated driving system requires additional service cost or fee, and if so, the service cost or fee on an annual basis.
+.
+(2)
+Definitions
+Section 2 of the Automobile Information Disclosure Act (
+15 U.S.C. 1231
+) is amended by adding at the end the following:
+(i)
+The terms
+automated driving system
+,
+dynamic driving task
+,
+operational design domain
+,
+partially automated driving system
+, and
+purchaser
+have the meaning given those terms in section 2(h) of the
+Know Before You Drive Act
+.
+.
+(f)
+Regulations
+Not later than 9 months after the date of the enactment of this Act, the Secretary of Transportation shall issue regulations to ensure the labeling requirements under subsection (i) of section 3 of the Automobile Information Disclosure Act, as added by subsection (d), are implemented within 2 years after the date of the enactment of this Act.
+(g)
+Rule of construction
+Nothing in this section may be construed to exempt an individual from liability under applicable common or State law.
+(h)
+Definitions
+In this section:
+(1)
+Automated driving system
+The term
+automated driving system
+means hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether such system is limited to a specific operational design domain.
+(2)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(3)
+Dealer
+The term
+dealer
+has the meaning given that term in section 30102 of title 49, United States Code.
+(4)
+Dynamic driving task
+(A)
+In general
+The term
+dynamic driving task
+means each real-time operational and tactical function required to operate a motor vehicle in on-road traffic.
+(B)
+Inclusions
+The term
+dynamic driving task
+includes the following:
+(i)
+Controlling the lateral motion of a motor vehicle through steering.
+(ii)
+Controlling the longitudinal motion of a motor vehicle through acceleration and deceleration.
+(iii)
+Monitoring the driving environment through the detection, recognition, and classification of objects and events.
+(iv)
+Preparing a response to an object or event.
+(v)
+Executing a response to an object or event.
+(vi)
+Planning a maneuver.
+(vii)
+Enhancing conspicuity through lighting, signaling, gesturing, or another indicator.
+(C)
+Exclusion
+The term
+dynamic driving task
+does not include the strategic functions relating to the operation of a motor vehicle, such asâ
+(i)
+trip scheduling;
+(ii)
+selection of a destination; and
+(iii)
+selection of a waypoint.
+(5)
+Operational design domain
+The term
+operational design domain
+means the specific operating conditions under which a given partially automated driving system, automated driving system, or feature of such system is specifically designed to function, including any environmental, geographical, and time-of-day restriction and the requisite presence or absence of certain traffic or roadway characteristics.
+(6)
+Partially automated driving system
+The term
+partially automated driving system
+means a system of which the hardware and software collectively perform the lateral and longitudinal vehicle motion control subtasks of the dynamic driving task with the expectation that the driver monitors the system and completes the object and event detection and response subtask.
+(7)
+Partially automated vehicle
+The term
+partially automated vehicle
+means a motor vehicle that is equipped with a partially automated driving system.
+(8)
+Purchaser
+The term
+purchaser
+means an individual who purchases a motor vehicle or enters into a contract to lease a motor vehicle before first sale and not for resale.

@@ -1,0 +1,240 @@
+1.
+Short title
+This Act may be cited as the
+Grid Resiliency Tax Credit Act
+.
+2.
+Findings
+Congress finds the following:
+(1)
+A robust electric power transmission system is critical to the economic, energy, and national security of the United States.
+(2)
+The electric grid faces challenges from aging infrastructure and a need for increased electric power transmission capacity.
+(3)
+The United States faces a pressing need to expand electric power transmission.
+(4)
+Electric power transmission investments willâ
+(A)
+improve resilience by enabling access to diverse generation resources across the country;
+(B)
+promote economic benefits and create new jobs in communities across the country; and
+(C)
+enhance electric grid reliability.
+3.
+Establishment of electric power transmission lines
+(a)
+In general
+Subpart E of part IV of subchapter A of
+chapter 1
+of the Internal Revenue Code of 1986 is amended by inserting after section 48E the following new section:
+48F.
+Qualifying electric power transmission line credit
+(a)
+Allowance of credit
+For purposes of section 46, the qualifying electric power transmission line credit for any taxable year is an amount equal to 30 percent of the qualified investment for such taxable year with respect to any qualifying electric power transmission line property of the taxpayer.
+(b)
+Qualifying investment
+(1)
+In general
+For purposes of subsection (a), the qualified investment for any taxable year is the basis of any qualifying electric power transmission line property placed in service by the taxpayer during such taxable year.
+(2)
+Certain qualified progress expenditures rules made applicable
+Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section.
+(c)
+Qualifying electric power transmission line property
+For purposes of this section, the term
+qualifying electric power transmission line property
+means any overheard, submarine, or underground propertyâ
+(1)
+which is a qualifying electric power transmission line that transmits electricityâ
+(A)
+across not less than 2 States or not less than 150 continuous miles, or
+(B)
+across the Outer Continental Shelf (as defined in section 2 of the Outer Continental Lands Act (
+43 U.S.C. 1331
+)), or
+(2)
+which is related transmission property.
+(d)
+Qualifying electric power transmission line
+For purposes of this sectionâ
+(1)
+In general
+The term
+qualifying electric power transmission line
+means any of the following:
+(A)
+New transmission property
+(i)
+In general
+Any electric power transmission line which isâ
+(I)
+originally placed in service after the date of enactment of this section,
+(II)
+primarily used for one or more purposes described in clause (ii), and
+(III)
+described in clause (iv).
+(ii)
+Purposes described
+The purposes described in this clause areâ
+(I)
+enhancing resilience to prepare for, withstand, and recover rapidly from disruptions from the impact of weather events, wildfires, or natural disasters,
+(II)
+addressing clearance concerns,
+(III)
+facilitating the interconnection of electric generation capacity to the bulk-power system (as defined in section 215 of the Federal Power Act), or
+(IV)
+addressing high load needs of 2,000 ampere and above.
+(iii)
+Multiple transmission lines located in the same right-of-way
+A transmission line is described in this clause if such a transmission lineâ
+(I)
+is co-located in the same right-of-way or adjacent right-of-way as one or more other overhead, submarine, or underground transmission lines, and
+(II)
+together with the other transmission lines described in subclause (I), has a transmission capacity of not less than 1,000 megawatts.
+(iv)
+Additional requirements for new transmission property
+An electric power transmission line is described in this clause ifâ
+(I)
+such transmission lineâ
+(aa)
+includes an advanced transmission conductor, and
+(bb)
+is capable of transmitting electricity at a voltage of not less than 100 kilovolts, or
+(II)
+such transmission lineâ
+(aa)
+isâ
+(AA)
+capable of transmitting electricity at a voltage of not less than 345 kilovolts, or
+(BB)
+a superconducting transmission line, and
+(bb)
+has a transmission capacity of not less than 750 megawatts or is a transmission line described in clause (iii).
+(B)
+Modification of existing transmission property
+Any electric power transmission line whichâ
+(i)
+was placed in service before the date of the enactment of this section,
+(ii)
+is modified after the date of the enactment of this Act in a manner that increases the transmission capacity of such transmission line by not less than 500 megawatts, and
+(iii)
+after the completion of such modification, is an electric power transmission line which satisfies the requirements under subclauses (II) and (III) of subparagraph (A)(i).
+(2)
+Advanced transmission conductor
+The term
+advanced transmission conductor
+means a transmission conductor technology that uses recently developed technology or materials such as a composite core and such other future advances as determined by the Secretary, in consultation with the Secretary of Energy.
+(3)
+Superconducting transmission line
+The term
+superconducting transmission line
+means a transmission line that conducts all of its current over a super-conducting material.
+(e)
+Related transmission property
+For purposes of this sectionâ
+(1)
+In general
+The term
+related transmission property
+means any of the following:
+(A)
+Transmission property used for interconnection or generator tie-line
+Any electric power transmission line which isâ
+(i)
+placed in service after the date of enactment of this section,
+(ii)
+primarily usedâ
+(I)
+as a generator interconnection tie line at an associated facility that extends from the secondary (high) side of a generator step-up transformer to the point of interconnection with the host transmission owner from interconnecting new generation resources or facilities to the electric grid, or
+(II)
+for network upgrades associated with the interconnection of new generation resources or facilities to the electric grid,
+(iii)
+primarily used for one or more purposes described in subparagraph (d)(1)(A)(ii), and
+(iv)
+capable of transmitting electricity at a voltage of not less than 230 kilovolts.
+(B)
+Grid enhancing technology
+Any grid enhancing technology property used in the operation of the electric power transmission line described in subparagraph (A) or (B) of subsection (d)(1).
+(C)
+Subcomponents
+Any conductors or cables, towers, insulators, reactors, capacitors, circuit breakers, static VAR compensators, static synchronous compensators, power converters, transformers, synchronous condensers, braking resistors, and any ancillary facilities and equipment necessary for the proper operation of the electric transmission line described in subparagraph (A) or (B) of subsection (d)(1) or for the proper operation of any property described in subsection (1)(A).
+(2)
+Grid enhancing technology property
+The term
+grid enhancing technology property
+means power flow controls and transmission switching equipment, storage technology, and hardware or software that enables dynamic line ratings, advanced line rating management technologies, on new or existing transmission property for the purpose of enhancing the capacity, efficiency, resiliency, or reliability of an electric power transmission system and such other similar property determined by the Secretary, in consultation with the Secretary of Energy.
+(f)
+Termination
+This section shall not apply to any property the construction of which begins after December 31, 2033.
+.
+(b)
+Public utility property
+Paragraph (2) of section 50(d) of the Internal Revenue Code is amendedâ
+(1)
+by striking
+(as defined in section 48(c)(6))
+and inserting
+(as defined in section 48(c)(6), except that subparagraph (D) of such section shall not apply) or any qualifying electric power transmission line property (as defined by section 48F(c))
+, and
+(2)
+in subparagraph (B)â
+(A)
+by inserting
+or qualifying electric transmission line property
+after
+each energy storage technology
+, and
+(B)
+by inserting
+or the qualifying electric transmission line property
+after
+the energy storage technology
+.
+(c)
+Transfer of certain credits
+Section 6418(f)(1)(A)
+of the Internal Revenue Code of 1986 is amended by adding the following new clause:
+(xii)
+The qualifying electric power transmission line credit under section 48F.
+.
+(d)
+Conforming amendments
+(1)
+Section 46
+of the Internal Revenue Code of 1986 is amendedâ
+(A)
+by striking
+and
+at the end of paragraph (6),
+(B)
+by striking the period at the end of paragraph (7) and inserting
+, and
+, and
+(C)
+by adding at the end the following new paragraph:
+(8)
+the qualifying electric power transmission line credit.
+.
+(2)
+Section 49(a)(1)(C) of such Code is amendedâ
+(A)
+by striking
+and
+at the end of clause (vii),
+(B)
+by striking the period at the end of clause (viii) and inserting
+, and
+, and
+(C)
+by adding at the end the following new clause:
+(ix)
+the basis of any qualifying electric power transmission line property under section 48F.
+.
+(3)
+The table of sections for subpart E of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 48E the following new item:
+Sec. 48F. Qualifying electric power transmission line credit.
+.
+(e)
+Effective date
+The amendments made by this section shall apply to property placed in service after December 31, 2023.

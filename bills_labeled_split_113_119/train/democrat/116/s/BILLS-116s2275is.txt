@@ -1,0 +1,383 @@
+1.
+Short title
+This Act may be cited as the
+Broadband Transparency and Accountability Act of 2019
+.
+2.
+Definitions
+(a)
+In general
+In this Actâ
+(1)
+the term
+affordable broadband service
+â
+(A)
+except as provided in subparagraph (B), with respect to a covered household, means broadband service at the baseline speed with an annual cost of not more than 1.5 percent of the annual median household income for the county in which the covered household is located; and
+(B)
+with respect to a covered household located in a county in which the annual median household income exceeds the annual median household income for the United States, means broadband service at the baseline speed with an annual cost of not more than 1.5 percent of the annual median household income for the United States;
+(2)
+the term
+annual median household income
+means annual median household income as reported by the Bureau of the Census;
+(3)
+the term
+baseline speed
+, with respect to broadband service, means the highest download and upload speeds available to a majority of urban subscribers to broadband service, as determined by the Commission;
+(4)
+the term
+Broadband Map
+means the map developed and maintained by the Commission under section 4;
+(5)
+the term
+broadband service
+â
+(A)
+subject to subsection (b), has the meaning given the term
+advanced telecommunications capability
+in section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+); and
+(B)
+does not include mobile service or satellite-based service;
+(6)
+the term
+Commission
+means the Federal Communications Commission;
+(7)
+the term
+county
+, in the case of a State that does not have a local county system of governance, means an equivalent political subdivision as determined by the Commission, consistent with State law;
+(8)
+the term
+covered entity
+means an entity thatâ
+(A)
+is required to report data to the Commission under the Form 477 Program; and
+(B)
+provides broadband service;
+(9)
+the term
+covered household
+â
+(A)
+means a household; and
+(B)
+includes a farm, a ranch, a business, and a public facility, without regard to whether any such entity serves as a residence;
+(10)
+the term
+Form 477 Program
+means the program carried out by the Commission under subpart V of part 1 of title 47, Code of Federal Regulations, or any successor regulation;
+(11)
+the term
+has access to broadband service
+, with respect to a covered household, means affordable broadband serviceâ
+(A)
+is being provided to the covered household; or
+(B)
+could be provided to the covered household not later than 10 days after the date on which the covered household chooses to subscribe to such service, if the household so chooses;
+(12)
+the term
+qualified technology
+â
+(A)
+means a technology that delivers broadband service at not less than the baseline speed; and
+(B)
+does not include any technologyâ
+(i)
+used to provide broadband service to fewer than 5 percent of urban subscribers to broadband service in the United States; or
+(ii)
+that is experimental or speculative, until a provider of the technology has proven through consumer choices to be a competitor in the marketplace, as determined by the Commission; and
+(13)
+the term
+State
+has the meaning given the term in section 3 of the Communications Act of 1934 (
+47 U.S.C. 153
+).
+(b)
+Updates to definition of broadband service
+Not less frequently than once every 2 years, the Commission shall update the definition of the term
+broadband service
+.
+3.
+Collection of data
+(a)
+Form 477 Program
+(1)
+Collection of more granular data
+In collecting data from a covered entity under the Form 477 Program, the Commission shall require the covered entity to report data for each covered household in a census block.
+(2)
+Data collection
+(A)
+Types of data
+In collecting data from a covered entity under the Form 477 Program, the Commission shall require the covered entity to report data that reflects the average speed and other characteristics of broadband service, includingâ
+(i)
+price and affordability, including, with respect to price, the total monthly price charged to a covered household for each distinct broadband service plan or tier of standalone broadband service, net of any promotional discount, including mandatory equipment charges, usage-based fees, and fees for early termination of required contracts;
+(ii)
+latency, including latencyâ
+(I)
+internal to the network, as measured on the backbone; and
+(II)
+from the backbone out to the entire internet routing table, reported as an average based on a measurement of latency against 10 anchor sites selected by the Commission from among the most popular websites in the United States;
+(iii)
+denials of service and the reason for such denials, such asâ
+(I)
+insufficient bandwidth capacity to serve additional customers; or
+(II)
+the inability to reach a location; and
+(iv)
+the type of broadband technology available.
+(B)
+Characteristics of broadband service as advertised, as agreed to, and as delivered
+In collecting data from a covered entity under the Form 477 Program, the Commission shall require the covered entity to report data that measures the characteristics of broadband service reported under subparagraph (A)â
+(i)
+as advertised by the covered entity;
+(ii)
+as subscribed to by the consumer; and
+(iii)
+that the covered entity actually delivers to subscribers during high-volume hours, which shall be defined by the Commission based on the type of broadband service usage in a particular area, including whether the usage is primarilyâ
+(I)
+commercial or industrial; or
+(II)
+residential.
+(3)
+Updates to reporting requirements
+(A)
+In general
+Not less frequently than once every 3 years, the Commission shall update the reporting requirements for covered entities under the Form 477 Program.
+(B)
+Rule of construction
+Nothing in subparagraph (A) shall be construed to authorize the Commission to collect less granular data than is required under this subsection.
+(b)
+Government sources
+The Commission shall collect data relating to broadband service fromâ
+(1)
+each Federal agency that has such data, including the Department of Agriculture; and
+(2)
+each State or local governmental entity that is willing to share such data.
+(c)
+Consolidation of data
+(1)
+In general
+The Commission shall consolidate all data relating to broadband service that is collected under the Form 477 Program or under subsection (b) into a single database.
+(2)
+USAC
+The Commission may enter into a contract with the Universal Service Administrative Company to administer the database described in paragraph (1).
+4.
+Distribution of data
+(a)
+Availability of data
+Subject to subsection (b), the Commission shall make all data relating to broadband service collected under the Form 477 Program or from governmental entities under section 3(b) available in native electronic format toâ
+(1)
+other Federal agencies;
+(2)
+a broadband office, public utility commission, broadband mapping program, or other broadband program of a State, in the case of data pertaining to the needs of that State;
+(3)
+a unit of local government, in the case of data pertaining to the needs of that locality;
+(4)
+a nonprofit organization; and
+(5)
+an individual conducting research for non-commercial purposes.
+(b)
+Protection of data
+(1)
+In general
+The Commission may not share any data described in subsection (a) with an entity or individual described in that subsection unless the Commission has determined that the receiving entity or individual has the capability and intent to protect any personally identifiable information contained in the data.
+(2)
+Determination of personally identifiable information
+The Commissionâ
+(A)
+shall define the term
+personally identifiable information
+, for purposes of paragraph (1), through notice and comment rulemaking; and
+(B)
+may not share any data under subsection (a) before completing the rulemaking under subparagraph (A) of this paragraph.
+(3)
+Balancing access and protection
+If the Commission is unable to determine under paragraph (1) that an entity or individual requesting access to data under subsection (a) has the capability to protect personally identifiable information contained in the data, the Commission shall make as much of the data available as possible in a format that does not compromise personally identifiable information, through methods such as anonymization.
+(c)
+Map
+(1)
+In general
+The Commission, in coordination with the Secretary of Commerce, the Secretary of Agriculture, and State and local stakeholders, shall develop and maintain a searchable, interactive, and comprehensive nationwide inventory map of existing broadband service capability and availability in the United States that depicts the geographic extent to which broadband service is deployed and available from a commercial provider or public provider throughout each State.
+(2)
+Parameters
+Not later than 180 days after the date of enactment of this Act, the Commission shall establish parameters for, and make available to the public, the map required under paragraph (1).
+(3)
+Revisions
+Not less frequently than every 2 years, the Commission shall revise the parameters established under paragraph (2).
+(4)
+Replacement of prior maps
+The map developed by the Commission under paragraph (1) shall replace any broadband deployment map maintained by the Commission before the date of enactment of this Act.
+(d)
+Gradated or tiered mapping
+(1)
+In general
+In producing the Broadband Map, the Commission shallâ
+(A)
+create, at a minimumâ
+(i)
+a map that indicates the percentage of covered households in each census block that have access to broadband service at the baseline speed during peak usage hours;
+(ii)
+a map that indicates the percentage of covered households in each census block that have access to broadband service delivered using a qualified technology;
+(iii)
+a map that layers the types of telecommunications technology available to deliver broadband service in each census block; and
+(iv)
+a map that indicates the relative affordability of broadband service in each census block; and
+(B)
+enable users of the Broadband Map toâ
+(i)
+layer the maps described in subparagraph (A); and
+(ii)
+filter the maps described in subparagraph (A) by broadband provider.
+(2)
+Tiers
+The Commission shall display the percentage of covered households in a census block that have access to broadband service or technology under paragraph (1) by reference to one of the following tiers:
+(A)
+Less than 20 percent.
+(B)
+Not less than 20 percent and less than 40 percent.
+(C)
+Not less than 40 percent and less than 60 percent.
+(D)
+Not less than 60 percent and less than 80 percent.
+(E)
+Not less than 80 percent and less than 90 percent.
+(F)
+Not less than 90 percent and less than 95 percent.
+(G)
+Not less than 95 percent.
+(e)
+Updates
+Not later than 180 days after collecting data relating to broadband service under the Form 477 Program, the Commission, in consultation with the Secretary of Agriculture, the Secretary of Commerce, and State and local stakeholders, shallâ
+(1)
+update the Broadband Map with the data, and with any data collected from a governmental entity under section 3(b) since the last update to the Broadband Map; and
+(2)
+make the data described in paragraph (1) available under subsection (a).
+5.
+Report on broadband last-mile technologies
+Section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+) is amendedâ
+(1)
+by redesignating subsection (d) as subsection (e);
+(2)
+in subsection (e), as so redesignated, in the matter preceding paragraph (1), by striking
+subsection
+and inserting
+section
+; and
+(3)
+by inserting after subsection (c) the following:
+(d)
+Broadband last-Mile technologies
+(1)
+Definitions
+In this subsectionâ
+(A)
+the term
+broadband service
+has the meaning given the term
+advanced telecommunications capability
+in subsection (e);
+(B)
+the terms
+covered entity
+and
+covered household
+have the meanings given those terms in section 2 of the
+Broadband Transparency and Accountability Act of 2019
+; and
+(C)
+the term
+last-mile technology
+means the technology used to transmit broadband service from the backbone network into a covered household.
+(2)
+Annual report
+As part of the inquiry required under subsection (b), the Commission shall report on the number of covered households that subscribe to broadband service, categorized by the type of last-mile technology, as reported by covered entities under the Form 477 Program and by governmental entities under section 3(b) of the
+Broadband Transparency and Accountability Act of 2019
+.
+(3)
+Technology categories
+In reporting the information under paragraph (2), the Commission shall indicate whether the type of last-mile technology isâ
+(A)
+fiber;
+(B)
+hybrid fiber coax;
+(C)
+copper-based service;
+(D)
+copper-fiber hybrid service;
+(E)
+spectrum-based service;
+(F)
+mobile service;
+(G)
+satellite-based service; and
+(H)
+any other type of technology that the Commission determines appropriate.
+(4)
+Geographic categories
+(A)
+In general
+In reporting the information under paragraph (2), the Commission shall categorize a covered household whose broadband service is provided using a particular type of last-mile technology according to whether the covered household is in a census block that isâ
+(i)
+urban;
+(ii)
+suburban; or
+(iii)
+rural, insular, or high-cost.
+(B)
+Definitions
+The Commission, in consultation with the Bureau of the Census, shall define the terms
+insular
+and
+high-cost
+, with respect to census blocks, for purposes of subparagraph (A).
+(5)
+Tribal land
+Nothing in this subsection shall be construed to authorize the Commission to exclude covered households located on Tribal land from the information reported under paragraph (2), including the categorization under paragraph (3).
+.
+6.
+Map accountability
+(a)
+Verification process
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, the Commission shall conduct a rulemaking to establish a process to use data relating to broadband service capability and availability in the United States (referred to in this section as
+coverage data
+) that is reported by consumers, businesses, and State and local governments to verify the data used in the Broadband Map.
+(2)
+Time period for verification
+The Commission, and any other Federal agency, may not use a new version of the Broadband Map to distribute support for broadband service unless the Commission has used the process established under paragraph (1) for a period of not less than 60 days to verify the data used in the new Broadband Map.
+(3)
+Sources of coverage data
+The Commission shall include in the process established under paragraph (1) a mechanism to incorporate coverage data obtained fromâ
+(A)
+any reputable application through which consumers report coverage data, as determined by the Commission;
+(B)
+State, local, or Tribal government entities that are primarily responsible for mapping or tracking broadband service capability and availability for a State, unit of local government, or Indian Tribe, as applicable; and
+(C)
+any other source that the Commission determines appropriate.
+(b)
+Challenge process
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, the Commission shall establish, in addition to the process established under subsection (a), an evidence-based process by which a consumer, business, or State or local government may challenge data used in the Broadband Map.
+(2)
+Responsibility of covered entities
+In carrying out the evidence-based challenge process under paragraph (1), the Commission shall require the covered entity that reported the data being challenged through the process to bear the burden of proving that the data is accurate.
+(c)
+Rule of construction
+Nothing in this section shall be construed to affect any determination made by the Commission before the date of enactment of this Act with respect to the distribution of support for broadband service.
+7.
+Applicability of other laws
+(a)
+OMB review
+Notwithstanding any other provision of law, any rulemaking or information collection conducted by the Commission under this Act or an amendment made by this Act shall be exempt from review by the Office of Management and Budget.
+(b)
+Paperwork Reduction Act
+Chapter 35
+of title 44, United States Code (commonly known as the
+Paperwork Reduction Act
+), shall not apply to any rulemaking or information collection conducted by the Commission under this Act or an amendment made by this Act.

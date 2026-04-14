@@ -1,0 +1,146 @@
+1.
+Short title
+This Act may be cited as the
+Mobile Health Record Act of 2018
+.
+2.
+Findings; sense of Congress
+(a)
+Findings
+Congress finds the following:
+(1)
+The Centers for Medicare & Medicaid Servicesâ (CMS) Blue Button 2.0 Program was announced in April 2018 to build upon CMSâs Blue Button Program.
+(2)
+The Blue Button 2.0 Program provides 4 years of Medicare part A, B, and D data for 53 million Medicare beneficiaries through an Application Programming Interface (API). The data contains a variety of information including, but not limited to, a list of a patientâs providers, prescriptions, tests, and diagnoses. The Blue Button 2.0 Program requires the use of CMS-approved applications to allow beneficiaries to download coded data.
+(3)
+Mobile applications currently exist that have the power to decode the Medicare Blue Button data and present it in a user-friendly, easy-to-read and understand format. Prior to Blue Button 2.0, the Blue Button Program allowed beneficiaries to download such data, but the information was not decoded into the easy-to-read and understand format that a mobile application provides.
+(4)
+The Blue Button 2.0 Program was created to empower patients with the use of these applications, but additional steps need to be taken in order to ensure the program reaches its intended purpose of providing patients with their personal medical claim information to prevent harmful medical errors and reducing redundant spending.
+(5)
+According to a study published by Johns Hopkins University in 2016, more than 250,000 deaths per year are due to medical error, making it the 3rd leading cause of death in the United States. Further, millions of dollars are wasted on duplicative or unnecessary tests and procedures.
+(b)
+Sense of Congress
+It is the sense of Congress that the Centers for Medicare & Medicaid Servicesâ Blue Button 2.0 Program has the potential to positively influence patient behavior, improve patient safety and health outcomes, and help reduce unnecessary health care expenditures, but action needs to be taken to help the initiative meet the programâs goals.
+3.
+Promoting patient access to personal medical claim information, including a patientâs providers,
+prescriptions, tests, and diagnoses, through the use of mobile health
+record applications
+(a)
+Medicare
+Title XVIII of the Social Security Act (
+42 U.S.C. 1395
+et seq.) is amended by adding at the end the following new section:
+1899C.
+Mobile Access to Personal Medical Information Program
+(a)
+Establishment
+(1)
+In general
+Not later than January 1, 2020, the Secretary shall establish a program to be known as the
+Mobile Access to Personal Medical Information Program
+(in this section referred to as the
+Program
+) for purposes of creating a developer-friendly, standards-based API that enables individuals entitled to benefits under part A or enrolled under part B to connect their claims data to the applications, services, and research programs they trust while allowing such individuals to retain full control over how the copy of the data they receive can be used and by whom. The Program shall provide such an individual access to the personal medical claim information of the individual through a mobile health record application of the individualâs choice approved by the Secretary under subsection (b). Such information shall be made available through such application in a manner similar to how such information is made available under the Blue Button 2.0 program (or a successor program).
+(2)
+Encouraging use of program
+In carrying out the Program, the Secretary shall consider establishing methods for encouraging individuals described in paragraph (1) to access their personal medical claim information under the Program. Such methods may includeâ
+(A)
+providing individuals described in paragraph (1) access to a one-time financial incentive to download for free or at a discounted price a CMS-approved mobile health record application of their choice that can be used to access their personal medical claim information under the Program;
+(B)
+paying a reasonable fee per download to the application developer to be capped at a fair market value; or
+(C)
+other methods determined appropriate by the Secretary.
+For purposes of the previous sentence, the Secretary shall consult with application developers, insurers, and other appropriate entities determined by the Secretary, to establish appropriate methods of financial incentive payment for applications approved to participate in the program.
+(b)
+Mobile health record applications
+(1)
+Approval
+The Secretary shall establish a process under which the Secretary, in consultation with staff with appropriate technical expertise, approves mobile health record applications for use under the Program. Such process shall include requirements providing that such applicationâ
+(A)
+demonstrates the capacity to provide the personal medical claim information of an individual described in subsection (a) to such individual in an easily accessible format;
+(B)
+utilizes a machine-readable, structured, coded format conforming to a data content standard approved by the Secretary;
+(C)
+has the ability to aggregate data from multiple sources;
+(D)
+is encrypted (or contains other data security safeguards determined appropriate by the Secretary) and conforms to other cybersecurity standards and best practices determined appropriate by the Secretary;
+(E)
+provides for a mechanism through which the Secretary may track the number of times and frequency with which such individual accesses the personal medical claim information of such individual;
+(F)
+does not use a third-party service for ad revenue or for any other means; and
+(G)
+meets such other requirements as may be specified by the Secretary.
+(2)
+Annual review of approval
+The Secretary shall, not less than annually and in consultation with staff with appropriate technical expertise, review each mobile health record application approved under paragraph (1) to determine whether such application continues to meet the requirements specified in such paragraph. The Secretary shall revoke the approval of any such application that fails to meet such requirements.
+(c)
+Information on Program
+The Secretary shall, through the public website of the Centers for Medicare & Medicaid Services, mailed notices, through a notice at the time of enrollment of an individual in part A or part B, public awareness campaigns, the notice described in section 1804(a), the provision of personalized prevention plan services (as defined in section 1861(hhh)), or otherwise (as determined appropriate by the Secretary), ensure that individuals described in subsection (a) receive information not less than twice each year regarding the Program, including a list of mobile health record applications approved under subsection (b)(1).
+(d)
+Cybersecurity and data privacy
+(1)
+Consultation
+In carrying out the Program, the Secretary shall consult with the National Coordinator for Health Information Technology and other Federal agencies determined appropriate by the Secretary to ensure the compliance of entities participating in the Program with all applicable provisions of the regulations promulgated by the Secretary under part C of title XI and section 264 of the Health Insurance Portability and Accountability Act of 1996.
+(2)
+Additional cybersecurity protections
+In carrying out the Program, the Secretary shall consult with appropriate Federal agencies, including the National Institute for Standards and Technology, and appropriate public-private partnerships (such as the Sector Coordinating Councils), including the Healthcare and Public Health Sector Coordinating Council, to ensure that relevant and applicable cybersecurity guidelines are followed when establishing the Program (including when establishing standards and best practices under subsection (b)(1)(D) and standards and criteria under subsection (e)(1)(C)).
+(e)
+Definitions
+In this section:
+(1)
+Mobile health record application
+The term
+mobile health record application
+means a software application thatâ
+(A)
+runs on a mobile device (such as a mobile phone or handheld computing platform);
+(B)
+allows an individual to access the individualâs personal medical claim information; and
+(C)
+meets such cybersecurity and data security standards and criteria as the Secretary may specify, which may be similar to such standards and criteria used under the Blue Button 2.0 program (or a successor program).
+(2)
+Personal medical claim information
+The term
+personal medical claim information
+means, with respect to an individualâ
+(A)
+a list of claims for items and services furnished to such individual payable under part A or part B, including any prescriptions or tests;
+(B)
+a list of providers and suppliers who furnished such items and services;
+(C)
+any diagnoses made by such providers and suppliers;
+(D)
+Medicare Advantage encounter data from an MA or MAâPD plan under part C; and
+(E)
+prescription drug event data.
+.
+(b)
+Medicaid
+Section 1903 of the Social Security Act (
+42 U.S.C. 1396b
+) is amended by adding at the end the following new subsection:
+(aa)
+Payments for mobile access to personal medical claim information
+(1)
+Payments
+In addition to payments otherwise provided under subsection (a), in the case of a State that elects to develop, or purchase from a private entity, a mobile health record application through which an individual enrolled under the State plan (or a waiver of such plan) may access the personal medical claim information of such individual, the Secretary shall pay to such State, for each quarter beginning on or after the date of the enactment of the Mobile Health Record Act of 2018, an amount equal to 90 percent of so much of the sums expended during such quarter as are attributable to the development, or purchase, of such mobile health record application.
+(2)
+Definitions
+In this subsection:
+(A)
+Mobile health record application
+The term
+mobile health record application
+has the meaning given such term in section 1899C(e).
+(B)
+Personal medical claim information
+The term
+personal medical claim information
+means, with respect to a State and an individual enrolled under the State plan (or a waiver of such plan)â
+(i)
+a list of claims for items and services furnished to such individual under the State plan (or waiver), including any prescriptions or tests;
+(ii)
+a list of providers and suppliers who furnished such items and services; and
+(iii)
+any diagnoses made by such providers and suppliers.
+.

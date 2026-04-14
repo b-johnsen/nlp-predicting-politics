@@ -1,0 +1,115 @@
+1.
+Short title
+This Act may be cited as the
+Deterring Adversarial Access to Americansâ Data Act
+.
+2.
+Tax treatment of entities using foreign adversary-controlled technology
+(a)
+Entities using foreign adversary-Controlled technology added to list of foreign-Influenced entities
+Section 7701(a)(51)
+of the Internal Revenue Code of 1986 is amendedâ
+(1)
+in subparagraph (D)(i), by striking
+or
+at the end of subclause (I), by striking the period at the end of subclause (II) and inserting
+, or
+and by adding at the end the following new subclause:
+(III)
+which uses foreign adversary-controlled technology during the taxable year.
+, and
+(2)
+in subparagraph (I), by adding at the end the following new clause:
+(vii)
+Foreign adversary-controlled technology
+The term
+foreign adversary-controlled technology
+means any information and communications technology or service that isâ
+(I)
+designed, developed, manufactured, or provided by a specified foreign entity or foreign-influenced entity described in subclause (I) or (II) of subparagraph (D), or
+(II)
+dependent on, or interoperable with, any other hardware, firmware, operating system, middleware, driver, embedded software, cloud service, or network component described in subclause (I) for core functionality.
+(viii)
+Information and communications technology or service
+The term
+information and communications technology or service
+means any hardware, software, or other product or service primarily intended to fulfill or enable the function of information or data processing, storage, retrieval, or communication by electronic means, including transmission, storage, and display.
+.
+(b)
+Bonus depreciation denied for foreign adversary-Controlled technology and property
+owned by prohibited foreign entities
+Section 168(k)(2) of such Code is amendedâ
+(1)
+in subparagraph (A)â
+(A)
+in clause (i)â
+(i)
+by striking
+or
+at the end of subclause (III),
+(ii)
+by striking
+and or
+in subclause (V) and inserting
+or
+, and
+(iii)
+by striking
+and
+at the end of subclause (VI),
+(B)
+in clause (ii), by striking the period at the end and inserting a comma, and
+(C)
+by adding at the end the following new clauses:
+(iii)
+which is not foreign adversary-controlled technology, and
+(iv)
+which is not property owned by a prohibited foreign entity.
+, and
+(2)
+by adding at the end the following new subparagraph:
+(I)
+Regulatory authority
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of clauses (iii) and (iv) of subparagraph (A).
+.
+(c)
+Denial of full expensing of domestic research and experimental expenditures for
+foreign adversary-Controlled technology and prohibited foreign entities
+Section 174A(d) of such Code is amended by adding at the end the following new paragraph:
+(4)
+Foreign adversary-controlled technology; prohibited foreign entities
+This section shall not apply to any amount paid or incurredâ
+(A)
+for the acquisition or development of foreign adversary-controlled technology, or
+(B)
+by a prohibited foreign entity.
+.
+(d)
+Modified calculation of adjusted taxable income for purposes of business interest deduction
+(1)
+In general
+Section 163(j)(8)(A) of such Code is amended by striking
+and
+at the end of clause (v) and by inserting after clause (vi) the following new clause:
+(vii)
+any item of income, gain, deduction, or loss which is attributable toâ
+(I)
+foreign adversary-controlled technology, or
+(II)
+a trade or business owned by a prohibited foreign entity, and
+.
+(2)
+Regulatory authority
+Section 163(j)(11) of such Code is amended by inserting
+and which items of income, gain, deduction, or loss are attributable to foreign adversary-controlled technology or a trade or business owned by a prohibited foreign entity under paragraph (8)(A)(vii)
+before the period at the end.
+(e)
+Denial of credit for increasing research activities in the case of prohibited foreign entities
+Section 41(d)(4) of such Code is amended by adding at the end the following new subparagraph:
+(D)
+Restrictions relating to prohibited foreign entities
+No credit shall be allowed to a taxpayer under subsection (a) for any taxable year if the taxpayer is a specified foreign entity or a foreign-influenced entity.
+.
+(f)
+Effective date
+The amendments made by this section shall apply to taxable years beginning after the date which is one year after the date of the enactment of this Act.

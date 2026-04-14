@@ -1,0 +1,55 @@
+1.
+Short title
+This Act may be cited as the
+Save Americaâs Science Act
+.
+2.
+Management and preservation of data assets by Federal agencies
+Chapter 31
+of title 44, United States Code, is amended by adding at the end the following new section:
+3108.
+Management and preservation of data assets by Federal agencies
+(a)
+In general
+The head of each Federal agency shall maintain each data asset of the agency, including any data asset collected for the agency under a contract, in accordance with the program established under section 3102.
+(b)
+Safeguards
+The head of each Federal agency shall establish safeguards against the removal or loss of data assets and make any requirements and penalties related to such removal or loss known to officials and employees of the agency.
+(c)
+Unlawful removal or destruction of data assets
+(1)
+Federal agency notification
+The head of each Federal agency shall notify the Archivist and Congress of any actual, impending, or threatened unlawful removal, defacing, alteration, corruption, deletion, erasure, or other destruction of data assets in the custody of the agency, and, with the assistance of the Archivist, shall initiate action through the Attorney General for the recovery of data assets the head of the Federal agency knows or has reason to believe have been unlawfully removed from that agency, or from another Federal agency whose data assets have been transferred to the legal custody of that Federal agency.
+(2)
+Archivist notification
+In any case in which the head of a Federal agency does not initiate an action for such recovery or other redress within a reasonable period of time after being notified of any such unlawful action described in paragraph (1), or is participating in, or believed to be participating in any such unlawful action, the Archivist shall request the Attorney General to initiate such an action, and shall notify Congress when such a request has been made.
+(d)
+Public availability of data assets
+(1)
+In general
+Each data asset that has been made available to the public by the head of a Federal agency shall remain available to the public.
+(2)
+Machine-readable data assets
+Each data asset that has been made available to the public in a machine-readable format by the head of a Federal agency shall remain available to the public in a machine-readable format.
+(e)
+Rule of construction
+Nothing in this section may be construed to exclude any type of record from the requirements of this chapter.
+(f)
+Definitions
+In this section:
+(1)
+Data
+The term
+data
+means recorded information, regardless of form or the media on which the data is recorded.
+(2)
+Data asset
+The term
+data asset
+means a collection of data elements or data sets that may be grouped together.
+(3)
+Machine-readable format
+The term
+machine-readable format
+means a format in which information or data can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.
+.

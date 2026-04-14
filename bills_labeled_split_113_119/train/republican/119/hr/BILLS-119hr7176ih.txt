@@ -1,0 +1,80 @@
+1.
+Short title
+This Act may be cited as the
+Vets Connect Act
+.
+2.
+Vets Connect secure database and messaging platform
+(a)
+Establishment of secure database and messaging platform
+The Secretary of Veterans Affairs shall establish and maintain a secure, privacy-preserving database and messaging platform (in this section referred to as the
+Vets Connect System
+) for the purpose of enabling veterans to reconnect with other veterans with whom they served, without disclosing personal contact information such as phone numbers, email addresses, physical addresses, or social media identifiers unless expressly authorized by the veteran.
+(b)
+Content of system
+The Secretary shall ensure that the Vets Connect System includes only the minimum information necessary to facilitate service-based matching between veterans, includingâ
+(1)
+service-connection information, such as branch of service, units, dates of service, deployments, occupational specialty, and rank;
+(2)
+a display name selected by the veteran, which need not contain the veteranâs legal name; and
+(3)
+any additional information the veteran elects to include for visibility within the System by taking an affirmative, documented opt-in action executed within the System.
+(c)
+Use within Department
+Information contained in the Vets Connect System may not be used by the Department for any purpose other than operating, securing, and overseeing the System.
+(d)
+Access limited to verified veterans
+Except for access required by subsection (c), the Secretary shall ensure thatâ
+(1)
+access to the Vets Connect System is limited to individuals whose military service has been verified by the Department of Veterans Affairs or the Department of Defense; and
+(2)
+no individual whose service has not been verified may gain access.
+(e)
+Information about veterans only if they opt in
+The Secretary shall ensure thatâ
+(1)
+no veteran appears in search results or is discoverable by other users unless the veteran has affirmatively opted in to participation in the System; and
+(2)
+no veteranâs personal contact information is stored in, displayed through, or retrievable from the Vets Connect System, or disclosed through the messaging platform within the System, except to the extent the veteran takes an affirmative, documented opt-in action executed within the System.
+(f)
+Options to opt-Out
+The Secretary shall ensure that a veteran may at any timeâ
+(1)
+change their visibility settings;
+(2)
+restrict communications from some or all other users;
+(3)
+opt out of participation in the System; or
+(4)
+delete any information the veteran has contributed to the System.
+(g)
+Prohibition on commercial solicitation and data brokerage
+(1)
+In general
+No veteran or other person or entity may use information contained in or derived from the Vets Connect System forâ
+(A)
+solicitation of legal, financial, or claims-related services;
+(B)
+advertising, marketing, or commercial outreach; or
+(C)
+any data-brokerage activity, including the sale, transfer, licensing, or aggregation of user information.
+(2)
+Contractors, subcontractors, and third parties
+No contractor, subcontractor, or third party may use System data for any purpose other than performing duties under a contract with the Department.
+(h)
+Security, audit logs, and oversight
+(1)
+Security
+The Secretary shall implement industry-standard cybersecurity protections, including encryption, access controls, and monitoring, to prevent unauthorized access, scraping, mass-messaging, or harvesting of veteran data in the System.
+(2)
+Audit logs
+The Secretary shall maintain system-level audit logs documenting all access, queries, administrative actions, and communications metadata (but not message content) for the purpose of oversight.
+(3)
+Oversight
+The Inspector General of the Department of Veterans Affairs shall have access to such audit logs and may conduct periodic reviews of compliance, security controls, and misuse prevention.
+(i)
+Penalties for misuse
+Any individual who knowingly accesses, attempts to access, or uses information in the Vets Connect System for a prohibited purpose or otherwise violates this section shall be subject to such penalties as the Secretary may prescribe by regulation and any other penalties available under law, including section 5701 of title 38, United States Code, if applicable.
+(j)
+Rule of construction
+Nothing in this section shall be construed to authorize the disclosure of any record protected under section 5701 of title 38, United States Code, or any other privacy or security law applicable to the Department of Veterans Affairs.

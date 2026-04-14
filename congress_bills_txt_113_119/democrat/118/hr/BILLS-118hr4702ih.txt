@@ -1,0 +1,99 @@
+1.
+Short title
+This Act may be cited as the
+Securing Gene Synthesis Act
+.
+2.
+Requirements for the dissemination of synthetic genetic material
+Section 351A of the Public Health Service Act (
+42 U.S.C. 262a
+) is amendedâ
+(1)
+in subsection (b)(2), by striking the semicolon at the end and inserting the following:
+, including byâ
+(A)
+assessing uncertainties, risks, costs, and benefits associated with the implementation of different types of protocols or other regulations to reduce the risk of potential misuse of de novo gene synthesis products;
+(B)
+determining the types of protocols or other regulations that could detect the potential misuse of de novo gene synthesis products while generating benefits that are larger than their costs;
+(C)
+requiring gene synthesis providers or manufacturers of gene synthesis equipment to implement screening protocols to detect misuse of de novo gene synthesis products;
+(D)
+verifying or provisionally verifying that gene synthesis providers and manufacturers of gene synthesis equipment adhere to the regulation prescribed pursuant to subparagraph (C); and
+(E)
+assessing, collecting, and waiving fees for enforcing the regulation prescribed pursuant to subparagraph (C); and
+(F)
+requiring any entity receiving Federal funds, or any Federal agency, which purchases de novo gene synthesis products from a gene synthesis provider or gene synthesis equipment from a manufacturer of gene synthesis equipment to purchase such products and equipment only if such providers or manufacturers are verified or provisionally verified pursuant to subparagraph (D);
+;
+(2)
+in subsection (e)(1), by striking the period at the end and inserting
+, including through the revocation of Federal research funding for any entity found to be in violation of subsection (b)(2)(E), or through the withholding of such funding for such an entity until the entity demonstrates compliance with such subsection.
+;
+(3)
+in subsection (k), by adding at the end the following:
+(4)
+Use of gene synthesis products and gene synthesis equipment by Federal agencies
+Not later than January 1, 2026, the Secretary shall report to the appropriate committees of Congress a description of the policies and procedures adopted by all agencies that fund or conduct life sciences research involving gene synthesis products or gene synthesis equipment to comply with this section.
+;
+(4)
+in subsection (l)â
+(A)
+by redesignating paragraphs (2), (3), (4), (5), (6), (7), and (8) as paragraphs (5), (6), (8), (9), (10), (11), and (12), respectively;
+(B)
+by inserting after paragraph (1) the following:
+(2)
+The term
+gene synthesis equipment
+means equipment that can produce gene synthesis product, regardless of the technical mechanism by which such equipment works.
+(3)
+The term
+gene synthesis product
+â
+(A)
+means custom single-stranded or double-stranded DNA, or single-stranded or double-stranded RNA, which has been chemically or enzymatically synthesized or otherwise manufactured de novo and is of a length exceeding the screening threshold; and
+(B)
+does not includeâ
+(i)
+base chemical subunits, such as individual nucleotides or nucleosides, or oligonucleotides shorter than the screening threshold typically used as polymerase chain reaction primers;
+(ii)
+byproducts generated during sequencing that are not useful for assembly or cloning, as determined by the Secretary; or
+(iii)
+products generated from cloning or assembling of existing gene or gene fragment material, in circumstances in which the gene synthesis provider has no access or notice to the sequence design, as determined by the Secretary.
+(4)
+The term
+gene synthesis provider
+â
+(A)
+meansâ
+(i)
+an entity that creates gene synthesis product for delivery to a customer in the United States; or
+(ii)
+a distributor of gene synthesis product in the United States, including an entity that manufactures gene synthesis product for use by another party, whether such other party is inside and outside of the entity; and
+(B)
+does not includeâ
+(i)
+an entity making gene synthesis products for the entityâs own use, in circumstances in which the sequence has been previously screened in compliance with this section;
+(ii)
+an entity that manufactures gene synthesis products in the process of developing or manufacturing another product for a customer, unless the gene synthesis product is provided to the end user thereof; or
+(iii)
+any class of entity that the Secretary chooses to exempt, after consideration of the costs and benefits of exempting that class of entity from regulation under this section as a gene synthesis provider.
+;
+(C)
+by inserting after paragraph (6), as so redesignated, the following:
+(7)
+The term
+manufacturer of gene synthesis equipment
+means an entity that produces for sale gene synthesis equipment.
+; and
+(D)
+by adding at the end the following:
+(13)
+The term
+screening threshold
+means the minimal length of de novo gene synthesis product which ensures that the results of such screening contain enough information to allow an unambiguous analysis of such productâs potential misuse.
+; and
+(5)
+in subsection (m), by striking
+for each of the fiscal years 2023 through 2027
+and inserting
+for fiscal year 2023 and each subsequent fiscal year
+.

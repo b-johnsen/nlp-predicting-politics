@@ -1,0 +1,163 @@
+1.
+Short title
+This Act may be cited as the
+Ending Support for Internet Censorship Act
+.
+2.
+Political neutrality in content moderation
+(a)
+In general
+Section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+) is amendedâ
+(1)
+in subsection (c), by adding at the end the following new paragraph:
+(3)
+Requirement of politically unbiased content moderation by covered companies
+(A)
+In general
+Paragraphs (1) and (2) shall not apply in the case of a covered company unless the company has in effect an immunity certification from the Federal Trade Commission (referred to in this paragraph as the
+Commission
+) under subparagraph (B) that the company does not moderate information provided by other information content providers in a manner that is biased against a political party, political candidate, or political viewpoint.
+(B)
+Federal Trade Commission immunity certification
+(i)
+In general
+The Commission shall certify any provider of an interactive computer service thatâ
+(I)
+is a covered company or anticipates that it will become a covered company within the next 2 years;
+(II)
+applies to the Commission for a certification under this subparagraph; and
+(III)
+proves to the Commission by clear and convincing evidence that the provider does not (and, during the 2-year period preceding the date on which the provider submits the application for certification, did not) moderate information provided by other information content providers in a politically biased manner.
+(ii)
+Politically biased moderation
+The moderation practices of a provider of an interactive computer service are politically biased ifâ
+(I)
+the provider moderates information provided by other information content providers in a manner thatâ
+(aa)
+is designed to negatively affect a political party, political candidate, or political viewpoint; or
+(bb)
+disproportionately restricts or promotes access to, or the availability of, information from a political party, political candidate, or political viewpoint; or
+(II)
+an officer or employee of the provider makes a decision about moderating information provided by other information content providers that is motivated by an intent to negatively affect a political party, political candidate, or political viewpoint.
+(iii)
+Exceptions
+(I)
+Business necessity
+An action of a provider of an interactive computer service that disproportionately restricts access to, or the availability of, information from a political party, political candidate, or political viewpoint shall not be considered to be a politically biased moderation practice if the action is necessary for business or the information involved is not speech that would be protected under the First Amendment of the United States Constitution, there is no available alternative that has a less disproportionate effect, and the provider does not act with the intent to discriminate based on political affiliation, political party, or political viewpoint.
+(II)
+Actions by employees
+A provider of an interactive computer service shall not be denied a certification under this subparagraph on the basis of an employee of the provider acting in the manner described in clause (ii)(II) in making a decision about moderating information provided by other information content providers if the provider, immediately upon learning of the actions of the employeeâ
+(aa)
+publicly discloses in a conspicuous manner that an employee of the provider acted in a politically biased manner with respect to moderating information content; and
+(bb)
+terminates or otherwise disciplines the employee.
+(iv)
+Certification process
+(I)
+Approval
+The Commission shall not certify a provider of an interactive computer service under this subparagraph unless at least one more than a majority of the Commissioners approve such certification.
+(II)
+Timeline
+The Commission shall ensure that timely applications for certification under this subparagraph are processed within 6 months.
+(III)
+Publication of dissenting opinions
+The Commission shall make publicly available the dissenting opinion of any Commissioner who disagrees with a decision of the Commission to certify, or deny certification to, a provider of an interactive computer service.
+(IV)
+Public input
+The Commission shall establish a process to allow information content providers toâ
+(aa)
+submit complaints or evidence that they have been subject to politically biased content moderation by a provider of an interactive computer service; and
+(bb)
+attend or participate in any hearings that the Commission holds with respect to an application for certification from a provider.
+(V)
+Renewals
+An application to renew a certification shall be treated in the same manner as an application for a new certification.
+(C)
+Duration of certification
+(i)
+In general
+Subject to clause (ii), a certification obtained under subparagraph (B) shall remain in effect with respect to a provider of an interactive computer service for a period of 2 years, and may subsequently be renewed for additional 2-year periods.
+(ii)
+Extension for processing a subsequent application
+If a provider of an interactive computer service submits an application to renew a certification under subparagraph (B) while such certification is still in effect, such certification shall remain in effect while the Commission processes such application, but in no case shall a certification remain in effect for more than 30 months without being renewed.
+(D)
+Costs
+(i)
+In general
+The Commission shall charge a fee in connection with an application from a provider of an interactive computer service for a certification (or a renewal of a certification) under subparagraph (B).
+(ii)
+Limitation
+The amount of any fee imposed under clause (i) with respect to an application shall not exceed the costs to the Commission in processing such application.
+; and
+(2)
+in subsection (f), by adding at the end the following new paragraphs:
+(5)
+Covered company
+The term
+covered company
+means a provider of an interactive computer service (other than an organization described in
+section 501(c)
+of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code) that, at any time during the most recent 12-month periodâ
+(A)
+had more than 30,000,000 active monthly users in the United States;
+(B)
+had more than 300,000,000 active monthly users worldwide; or
+(C)
+had more than $500,000,000 in global annual revenue.
+(6)
+Moderate
+(A)
+In general
+The term
+moderate
+meansâ
+(i)
+to influence if, when, where, or how information or other content provided by a third-party user appears on a covered company's interactive computer service; or
+(ii)
+to alter the information or other content provided by a third-party user that appears on a covered company's interactive computer service.
+(B)
+Algorithms
+Such term shall include actions taken through an algorithm or other automated process.
+(7)
+Business necessity
+The term
+necessary for business
+refers to a lawful act that advances the growth, development, or profitability of a company but does not include any action designed to appeal to, or gain favor from, persons or groups because of their political beliefs, political party membership, or support for political candidates.
+.
+(b)
+Technical amendment
+Section 230(c)(2)(B) of the Communications Act of 1934 (
+47 U.S.C. 230(c)(2)(B)
+) is amended by striking
+paragraph (1)
+and inserting
+subparagraph (A)
+.
+(c)
+Effective date
+The amendments made by subsection (a) shall take effect on the date that is 18 months after the date of enactment of this Act.
+3.
+Authorities and duties of the Federal Trade Commission
+(a)
+In general
+The Federal Trade Commission (referred to in this section as the
+Commission
+) is authorized to do the following:
+(1)
+Staffing
+To hire sufficient staff (whether on a part-time, full-time, or contract basis) to process applications under paragraph (3) of section 230(c) of the Communications Act of 1934 (
+47 U.S.C. 230(c)
+), as added by section 2(a).
+(2)
+Applications processes
+To establish processes to certify covered companies under paragraph (3) of such section 230(c) of the Communications Act of 1934 (including setting rates for application fees and setting application deadlines).
+(b)
+Rulemaking authority
+Not later than 180 days after the date of enactment of this Act, the Commission shall promulgate regulations, in accordance with section 553 of title 5, United States Code, to carry out this section and the amendments made by section 2(a).
+(c)
+Reports
+Not later than 5 years after the date of enactment of this Act, and every 5 years thereafter, the Commission shall submit a report to Congress on whether the ability of interactive computer services (as such term is defined in section 230(f) of the Communications Act of 1934 (
+47 U.S.C. 230(f)
+)) to moderate content provided by other information content providers is such that the protection provided by section 230(c) of such Act is no longer necessary or should be modified.

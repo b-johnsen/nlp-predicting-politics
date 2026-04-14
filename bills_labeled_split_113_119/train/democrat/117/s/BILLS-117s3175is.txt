@@ -1,0 +1,38 @@
+1.
+Short title
+This Act may be cited as the
+Advancing American Artificial Intelligence Innovation Act of 2021
+.
+2.
+Department of Defense pilot program on data libraries for training artificial intelligence models
+(a)
+Pilot program authorized
+The Secretary of Defense, acting through the Director of the Joint Artificial Intelligence Center or such other official as the Secretary considers appropriate, may carry out a pilot program to assess the feasibility and advisability of establishing data libraries for developing and enhancing artificial intelligence capabilities to ensure that the Department of Defense is able to procure optimal artificial intelligence and machine learning software capabilities to meet Department requirements and technology development goals.
+(b)
+Authorities
+In carrying out a pilot program under subsection (a), the Secretary mayâ
+(1)
+establish data libraries containing Department data sets relevant to the development of artificial intelligence software and technology; and
+(2)
+allow appropriate public and private sector organizations to access such data libraries for the purposes of developing artificial intelligence models and other technical software solutions.
+(c)
+Elements
+If the Secretary elects to carry out the pilot program under subsection (a), the data libraries established under the programâ
+(1)
+may include unclassified data representative of diverse types of information, representing Department missions, business processes, and activities;
+(2)
+shall be categorized and annotated to support development of a common evaluation framework for artificial intelligence models and other technical software solutions;
+(3)
+shall be made available to such public and private sector organizations as the Secretary considers appropriate to support rapid development of software and artificial intelligence capabilities;
+(4)
+shall include capabilities and tool sets to detect, evaluate, and correct errors in data annotation, identify gaps in training data used in model development that would require additional data labeling, and evaluate model performance across the lifecycle of its use; and
+(5)
+shall be developed to support such other missions and activities as the Secretary considers appropriate.
+(d)
+Briefing
+Not later than 270 days after the date of the enactment of this Act, the Secretary shall provide to the congressional defense committees a briefing on implementing this section, including an identification of the types of information that the Secretary determines are feasible and advisable to include in the data libraries under subsection (b)(1).
+(e)
+Congressional defense committees defined
+In this section, the term
+congressional defense committees
+has the meaning given that term in section 101(a) of title 10, United States Code.

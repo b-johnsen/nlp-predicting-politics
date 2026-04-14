@@ -1,0 +1,354 @@
+1.
+Short title
+This Act may be cited as the
+Water Data Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Advisory committee
+The term
+Advisory Committee
+means the Advisory Committee on Water Information established by section 5(a).
+(2)
+Council
+The term
+Council
+means the Water Data Council established under section 4(a).
+(3)
+Data standards
+The term
+data standards
+means standards relating to the manner in which data are to be structured, populated, and encoded in machine-readable formats, and made interoperable for data exchange.
+(4)
+Departments
+The term
+Departments
+means each of the following:
+(A)
+The Department of Agriculture.
+(B)
+The Department of Commerce.
+(C)
+The Department of Defense.
+(D)
+The Department of Energy.
+(E)
+The Department of Health and Human Services.
+(F)
+The Department of Homeland Security.
+(G)
+The Department of the Interior.
+(H)
+The Environmental Protection Agency.
+(I)
+The National Aeronautics and Space Administration.
+(5)
+Indian Tribe
+The term
+Indian Tribe
+has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 5304
+).
+(6)
+National Water Data Framework
+The term
+National Water Data Framework
+means the national water data framework developed under section 3.
+(7)
+Secretary
+The term
+Secretary
+means the Secretary of the Interior.
+(8)
+Water data
+The term
+water data
+means measurements of basic properties relating to the planning and management of water resources, including streamflow, precipitation, groundwater, soil moisture, snow, evaporation, water quality, and water use in agriculture, industry, natural systems, and municipal uses.
+(9)
+Water Data Grant Program
+The term
+Water Data Grant Program
+means the water data grant program established under section 6(a).
+(10)
+Water data infrastructure
+The term
+water data infrastructure
+means an integrated system of information technologies that includes common standards, formats, and tools to make water data easy to find, access, and share online.
+3.
+National water data framework
+(a)
+In general
+For the purpose of improving water resources management and access across the United States, including addressing drought, floods, and other water management challenges, the heads of the Departments shall jointly develop and implement a national water data framework for integrating, sharing, and using water data.
+(b)
+Requirements
+In developing and implementing the National Water Data Framework, the Departments shallâ
+(1)
+identify and prioritize key water data needed to support water resources management and planning, includingâ
+(A)
+water data sets, types, and associated metadata; and
+(B)
+water data infrastructure, technologies, and tools;
+(2)
+develop and adopt common national water data standards for collecting, sharing, and integrating water data, infrastructure, technologies, and tools in consultation with States, Indian Tribes, local governments, and relevant bodies;
+(3)
+ensure that Federal water data are made findable, accessible, interoperable, and reusable in accordance with the standards developed and adopted pursuant to this Act;
+(4)
+integrate water data and tools through common approaches to data infrastructure, platforms, models, and tool development;
+(5)
+establish a common, national geospatial index for publishing and linking water data from Federal, State, Tribal, and other non-Federal sources for online discovery;
+(6)
+harmonize and align policies, programs, protocols, budgets, and funding programs relating to water data to achieve the purposes of this Act to the maximum extent practicable;
+(7)
+participate in and coordinate water data activities with the Council; and
+(8)
+support the adoption of new technologies and the development of tools for water data collection, sharing, and standardization by Federal, State, Tribal, local, and other entities.
+4.
+Water Data Council
+(a)
+In general
+The heads of the Departments shall establish an interagency Council, to be known as the
+Water Data Council
+, to support the development and implementation of the National Water Data Framework.
+(b)
+Membership
+(1)
+Duties of Secretary
+The Secretary shallâ
+(A)
+serve as the Chair of the Council;
+(B)
+in collaboration with the Office of Science and Technology Policy, convene the Council not less frequently than 4 times each year; and
+(C)
+provide staff support for the Council through the United States Geological Survey.
+(2)
+Members
+Council Members shall include the heads of the following entities:
+(A)
+The Departments.
+(B)
+Bureaus and offices of the Departments that have a significant role or interest in water data, includingâ
+(i)
+the Corps of Engineers;
+(ii)
+the Bureau of Indian Affairs;
+(iii)
+the Bureau of Reclamation;
+(iv)
+the Federal Emergency Management Agency;
+(v)
+the Federal Energy Regulatory Commission;
+(vi)
+the United States Fish and Wildlife Service;
+(vii)
+the Indian Health Service;
+(viii)
+the Forest Service;
+(ix)
+the National Laboratories;
+(x)
+the Natural Resources Conservation Service;
+(xi)
+the National Oceanic and Atmospheric Administration;
+(xii)
+the Rural Development program of the Department of Agriculture; and
+(xiii)
+the United States Geological Survey.
+(C)
+Offices of the Executive Office of the President, includingâ
+(i)
+the Council on Environmental Quality;
+(ii)
+the Office of Management and Budget; and
+(iii)
+the Office of Science and Technology Policy.
+(D)
+Other Federal entities that the Chair and a majority of the members of the Council described in subparagraphs (A) through (C) determine to be appropriate.
+(c)
+Duties
+The Council shallâ
+(1)
+support the development and implementation of the National Water Data Framework; and
+(2)
+facilitate communication and collaboration among members of the Councilâ
+(A)
+to establish, adopt, and implement common national water data standards;
+(B)
+to promote water data sharing and integration across Federal departments and agencies, includingâ
+(i)
+water data collection, documentation, maintenance, distribution, and preservation strategies; and
+(ii)
+development and use of water data infrastructure, tools, and technologies to support water management and planning;
+(C)
+to align the policies, programs, protocols, budgets, and funding programs relating to water data of the members of the Council; and
+(D)
+to promote partnerships across Federal entities and non-Federal entitiesâ
+(i)
+to advance innovation and solutions in water data, technology, tools, planning, and management; and
+(ii)
+to develop guidelines for data sharing and protecting data privacy.
+(d)
+Water Data Council reports
+Not later than 180 days after the date of enactment of this Act, and annually thereafter, in conjunction with the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, the Secretary, acting on behalf of the Council, shall submit to members of the Council and the appropriate committees of Congress and make available publicly online a report that describesâ
+(1)
+the National Water Data Framework;
+(2)
+the actions undertaken by the Departments to implement this Act pursuant to section 3;
+(3)
+key water data sets, types, and infrastructure needed to support water management and planning;
+(4)
+goals, targets, and actions to carry out the National Water Data Framework in the subsequent fiscal year;
+(5)
+a summary and evaluation of the progress of the Departments in achieving any prior goals, targets, and actions to carry out the National Water Data Framework;
+(6)
+actions needed to align policies, programs, and budgetary resources to carry out the National Water Data Framework in the subsequent fiscal year;
+(7)
+grants and assistance provided to State, Tribal, and local entities toward the development and adoption of new technologies and tools;
+(8)
+opportunities to develop and incentivize the deployment of promising next-generation technologies, including new water data technologies and tools, in partnership with the private sector and others to accomplish the purposes of this Act; and
+(9)
+metrics for achieving the National Water Data Framework.
+5.
+Advisory Committee on Water Information
+(a)
+Establishment
+There is established within the Department of the Interior an advisory committee, to be known as the
+Advisory Committee on Water Information
+, to advise the Secretary, Departments, and Council on the development and implementation of the National Water Data Framework.
+(b)
+Membership
+(1)
+Composition
+The Advisory Committee shall be composed of members, to be appointed by the Secretary in a manner that provides forâ
+(A)
+balanced representation among various entities involved in water-related activities; and
+(B)
+consideration for a geographic balance of individuals representing localities across the United States.
+(2)
+Selection
+Members of the Advisory Committee shall be selected by the Secretary from among entities involved in water-related activities, includingâ
+(A)
+States;
+(B)
+Indian Tribes;
+(C)
+local governments;
+(D)
+Federal entities;
+(E)
+water agencies, utilities, conservation districts, irrigation districts, acequias, and other water user associations;
+(F)
+organizations that facilitate collaboration across States and multi-state instrumentalities;
+(G)
+educational institutions;
+(H)
+professional organizations;
+(I)
+water data and technology-related experts, professionals, and industries;
+(J)
+private sector entities; and
+(K)
+nonprofit organizations.
+(3)
+Term
+Members of the Advisory Committee shall be appointed by the Secretary for a term not to exceed 4 years.
+(c)
+Chair
+The Secretary shall serve as the Chair of the Advisory Committee.
+(d)
+Staff support
+The United States Geological Survey shall provide support services for the Advisory Committee.
+(e)
+Meetings
+The Advisory Committee shall meet at the call of the Chair, but not less frequently than 4 times each year.
+(f)
+Duties
+The duties of the Advisory Committee are to advise the Secretary, Departments, and Council onâ
+(1)
+the development and implementation of the National Water Data Framework;
+(2)
+efforts to operate a cost-effective national network of water data collection and analysis that meets the priority water information needs of the Federal Government and, to the extent practicable using available resources, the needs of the non-Federal community that are tied to national interests;
+(3)
+efforts to develop uniform standards, guidelines, and procedures for the collection, analysis, management, and dissemination of water information to improve quality, consistency, and accessibility nationwide; and
+(4)
+the effectiveness of existing water information programs and recommended modifications needed to respond to changes in legislation, technology, and other conditions.
+(g)
+Applicability of FACA
+(1)
+In general
+Except as provided in paragraph (2), the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Advisory Committee.
+(2)
+No termination
+Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+6.
+Water data grant program
+(a)
+In general
+The Secretary shall establish a water data grant program under which the Secretary shall award grantsâ
+(1)
+to support non-Federal entities in making water data sets findable, accessible, interoperable, and reusable in accordance with the water data standards established under this Act;
+(2)
+to advance the development of water data infrastructure, tools, and technologies to facilitate the sharing and use of water data;
+(3)
+to support programs and projects that facilitate water data sharing and use in water resources management and the implementation of the National Water Data Framework; and
+(4)
+to provide a prize for accelerating innovation and developing next-generation water data tools and technologies.
+(b)
+Coordination with the Council
+The Secretary shall consult and coordinate with the Council in creating and implementing the Water Data Grant Program to ensure thatâ
+(1)
+the Water Data Grant Program is aligned with and carries out the purposes of this Act; and
+(2)
+grants and programs are harmonized across the Departments and members of the Council to achieve the purposes of this Act.
+(c)
+Eligible entities
+An entity eligible for a grant under the Water Data Grant Programâ
+(1)
+shall demonstrate significant needs or capabilities for advancing water data sharing and tools with a significant public benefit; and
+(2)
+may includeâ
+(A)
+a State, multistate instrumentality, Indian Tribe, or other unit of local government;
+(B)
+a water agency, utility, conservation district, irrigation district, acequia, mutual domestic association, or other entity organized pursuant to Federal, Tribal, or local laws for the purpose of water-related activities;
+(C)
+an educational institution or nonprofit organization; and
+(D)
+in the case of carrying out activities described in subsection (a)(4)â
+(i)
+an individual who is a citizen or legal resident of the United States; or
+(ii)
+an entity that is incorporated and maintains the primary place of business of the entity in the United States.
+(d)
+Requirements
+(1)
+Data sharing and standards
+Any project funded through the Water Data Grant Program shall be implemented in accordance with the water data standards established under section 3.
+(2)
+Use of existing water data infrastructure
+The recipient of a grant shall, to the extent practicable, leverage existing water data and water data infrastructure.
+(e)
+Report
+Not later than 1 year after the date of enactment of this Act, and annually thereafter, in conjunction with the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, the Secretary shall submit to Congress a report that describes the implementation of the Water Data Grant Program, includingâ
+(1)
+a description of the use and deployment of amounts made available under the Water Data Grant Program;
+(2)
+an accounting of all grants awarded under the Water Data Grant Program, including a description ofâ
+(A)
+each grant recipient; and
+(B)
+each project funded under the Water Data Grant Program;
+(3)
+an assessment of the success of the Water Data Grant Program in advancing the purposes of this Act; and
+(4)
+a plan for the subsequent fiscal year to achieve the purposes of this Act.
+(f)
+Authorization of appropriations
+There is authorized to be appropriated to the Secretary to carry out the Water Data Grant Program $25,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+(g)
+Administrative costs
+Of the funds authorized to be appropriated under subsection (f), not more than 3 percent may be used by the Secretary for administrative costs.
+7.
+Authorization of appropriations
+There is authorized to be appropriated to the Secretary to carry out sections 3 through 5 $15,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.

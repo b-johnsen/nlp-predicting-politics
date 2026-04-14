@@ -1,0 +1,542 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Kids Online Safety Act
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Duty of care.
+Sec. 4. Safeguards for minors.
+Sec. 5. Disclosure.
+Sec. 6. Transparency.
+Sec. 7. Independent research.
+Sec. 8. Market research.
+Sec. 9. Age verification study and report.
+Sec. 10. Enforcement.
+Sec. 11. Kids Online Safety Council.
+Sec. 12. Authorization of appropriations.
+Sec. 13. Effective date.
+Sec. 14. Severability.
+2.
+Definitions
+In this Act:
+(1)
+Algorithmic recommendation system
+The term
+algorithmic recommendation system
+means a fully or partially automated system used to suggest, promote, or rank information.
+(2)
+Covered platform
+The term
+covered platform
+means a commercial software application or electronic service that connects to the internet and that is used, or is reasonably likely to be used, by a minor.
+(3)
+Minor
+The term
+minor
+means an individual who is age 16 or younger.
+(4)
+Parent
+The term
+parent
+includes a legal guardian or an individual with legal custody over a child.
+(5)
+Personal data
+The term
+personal data
+means information that identifies or is linked or reasonably linkable to an individual, household, or consumer device.
+3.
+Duty of care
+(a)
+Best interests
+A covered platform has a duty to act in the best interests of a minor that uses the platform's products or services.
+(b)
+Prevention of harm to minors
+In acting in the best interests of minors, a covered platform has a duty to prevent and mitigate the heightened risks of physical, emotional, developmental, or material harms to minors posed by materials on, or engagement with, the platform, includingâ
+(1)
+promotion of self-harm, suicide, eating disorders, substance abuse, and other matters that pose a risk to physical and mental health of a minor;
+(2)
+patterns of use that indicate or encourage addiction-like behaviors;
+(3)
+physical harm, online bullying, and harassment of a minor;
+(4)
+sexual exploitation, including enticement, grooming, sex trafficking, and sexual abuse of minors and trafficking of online child sexual abuse material;
+(5)
+promotion and marketing of products or services that are unlawful for minors, such as illegal drugs, tobacco, gambling, or alcohol; and
+(6)
+predatory, unfair, or deceptive marketing practices.
+4.
+Safeguards for minors
+(a)
+Safeguards for minors
+(1)
+In general
+A covered platform shall provide a minor, or a parent acting on a minor's behalf, with readily accessible and easy-to-use safeguards to control their experience and personal data on the covered platform, including settings toâ
+(A)
+limit the ability of other individuals to contact or find a minor, in particular adults with no relationship to the minor;
+(B)
+prevent other individuals from viewing the minorâs personal data collected by or shared on the covered platform, in particular restricting public access to personal data;
+(C)
+limit features that increase, sustain, or extend use of the covered platform by a minor, such as automatic playing of media, rewards for time spent on the platform, and notifications;
+(D)
+opt out of algorithmic recommendation systems that use a minorâs personal data;
+(E)
+delete the minor's account and request removal of personal data;
+(F)
+restrict the sharing of the geolocation of a minor and to provide notice regarding the tracking of a minorâs geolocation; and
+(G)
+limit time spent by a minor on the covered platform.
+(2)
+Default safeguard settings for minors
+A covered platform shall provide that, in the case of a user that the platform knows or reasonably believes to be a minor, the default setting for any safeguard described under paragraph (1) shall be the strongest option available.
+(3)
+Accessibility for minors
+With respect to safeguards described under paragraph (1), a covered platform shall provide information and control options in a manner that is age appropriate and does not encourage minors to weaken or turn off safeguards.
+(b)
+Parental tools
+(1)
+Parental tools
+A covered platform shall provide readily accessible and easy-to-use parental tools for parents to appropriately supervise the use of the covered platform by a minor.
+(2)
+Requirements
+The parental tools provided by a covered platform shall includeâ
+(A)
+the ability to control privacy and account settings, including the safeguards established under subsection (a)(1);
+(B)
+the ability to restrict purchases and financial transactions by a minor;
+(C)
+the ability to track total time spent on the platform;
+(D)
+a clear and conspicuous mechanism for parents to opt out of or turn off any default parental tools put in place by the covered platform; and
+(E)
+access to other information regarding a minor's use of a covered platform and control options necessary to a parent's ability to address the harms described in section 3(b).
+(3)
+Notice to minors
+A covered platform shall provide clear and conspicuous notice to a minor when parental tools are in effect.
+(4)
+Default parental tools
+A covered platform shall provide that, in the case of a user that the platform knows or reasonably believes to be a minor, parental tools shall be enabled by default.
+(c)
+Reporting mechanism
+(1)
+Parental reports
+A covered platform shall provide minors and parents withâ
+(A)
+a readily accessible and easy-to-use means to submit reports of harms to a minor, including harms described in section 3(b);
+(B)
+an electronic point of contact specific to matters involving harms to a minor; and
+(C)
+confirmation of the receipt of such a report and a means to track a submitted report.
+(2)
+Timing
+A covered platform shall establish an internal process to receive and respond to reports in a reasonable and timely manner.
+(d)
+Illegal content
+A covered platform shall not facilitate the advertising of products or services to minors that are illegal to sell to minors based on applicable State or Federal law.
+5.
+Disclosure
+(a)
+Notice
+(1)
+Registration
+Prior to registration, use, or purchase of a covered platform by a minor, the platform shall provide clear, accessible, and easy-to-understandâ
+(A)
+notice of the policies and practices of the covered platform with respect to personal data and safeguards for minors;
+(B)
+information about how to access the safeguards and parental tools required under section 4; and
+(C)
+notice about whether the covered platform, including any algorithmic recommendation systems used by the platform, pose any heightened risks of harm to a minor, including harms described in section 3(b).
+(2)
+Parental notification
+For a minor, or an individual that a covered platform reasonably believes is a minor, a covered platform shall additionally provide the notice, information, and statement described in paragraph (1) to a parent of the minor.
+(3)
+Acknowledgment
+After providing the notice, information, and statement described in paragraph (1), but prior to initial use of the covered platform, the covered platform shall obtain acknowledgment from a minor, or a parent of the minor, of the receipt of information related to the heightened risks of harm to minors referenced in the statement in paragraph (1)(C).
+(b)
+Algorithmic recommendation system
+A covered platform that uses an algorithmic recommendation system shall set out in its terms and conditions, in a clear, accessible, and easy-to-understand mannerâ
+(1)
+an overview of how algorithmic recommendation systems are used by the covered platform to provide information to users of the platform who are minors, including how such systems use personal data belonging to minors; and
+(2)
+options for minors or their parents to modify the results of the algorithmic recommendation system, including the right to opt out or down-rank types or categories of recommendations.
+(c)
+Advertising and marketing
+A covered platform that facilitates advertising aimed at minors shall provide clear, accessible, and easy-to-understand information and labels regardingâ
+(1)
+the name of the product, service, or brand and the subject matter of an advertisement or marketing material;
+(2)
+why the minor is being targeted for a particular advertisement or marketing material if the covered platform engages in targeted advertising, including meaningful information about how the personal data of the minor was used to target the advertisement or marketing material; and
+(3)
+whether particular media displayed to a user is an advertisement or marketing material, including disclosure of endorsements of products, services, or brands made for commercial consideration by other users of the platform.
+(d)
+Resources for parents and minors
+A covered platform shall provide to minors and parents clear, accessible, easy-to-understand, and comprehensive information in a prominent location regardingâ
+(1)
+its policies and practices with respect to personal data and safeguards for minors; and
+(2)
+how to access the safeguards and parental tools required under section 4.
+6.
+Transparency
+(a)
+Audit of systemic risks to minors
+(1)
+In general
+Not less frequently than once a year, a covered platform shall issue a public report identifying the foreseeable risks of harm to minors based on an independent, third-party audit conducted through reasonable inspection of the covered platform and describe the prevention and mitigation measures taken to address such risks.
+(2)
+Content
+(A)
+Transparency
+The public reports required of a covered platform under this section shall includeâ
+(i)
+an assessment of whether the covered platform is reasonably likely to be accessed by minors;
+(ii)
+a description of the commercial interests of the covered platform in use by minors;
+(iii)
+an accounting of the number of individuals using the covered platform reasonably believed to be minors in the United States, disaggregated by the age ranges of 0â5, 6â9, 10â12, and 13â16;
+(iv)
+an accounting of the time spent by the median and average minor in the United States on a daily, weekly, and monthly basis, disaggregated by the age ranges of 0â5, 6â9, 10â12, and 13â16;
+(v)
+an accounting, disaggregated by category of harm, ofâ
+(I)
+the total number of reports of the dissemination of illegal or harmful content involving minors; and
+(II)
+the prevalence of content that is illegal or harmful to minors; and
+(vi)
+a description of any material breaches of parental tools or assurances regarding minors, unexpected use of the personal data of minors, and other matters regarding non-compliance.
+(B)
+Systemic risks assessment
+The public reports required of a covered platform under this section shall includeâ
+(i)
+an audit of the known and emerging risks to minors posed by the covered platform, including the harms described in section 3(b);
+(ii)
+an assessment of how algorithmic recommendation systems and targeted advertising systems can contribute to harms to minors;
+(iii)
+a description of whether and how the covered platform uses system design features to increase, sustain, or extend use of a product or service by a minor, such as automatic playing of media, rewards for time spent, and notifications;
+(iv)
+a description of whether, how, and for what purpose the platform collects or processes geolocation, contact information, health data, or other categories of personal data of heightened concern regarding minors, as determined by the Commission;
+(v)
+an evaluation of the efficacy and any issues in delivering safeguards to minors under section 4; and
+(vi)
+an evaluation of any other relevant matters of public concern over risks to minors.
+(C)
+Mitigation
+The public reports required of a covered platform under this section shall includeâ
+(i)
+a description of the safeguards and parental tools available to minors and parents on the covered platform;
+(ii)
+a description of interventions by the covered platform when it had or has reason to believe that harm could occur to minors;
+(iii)
+a description of the prevention and mitigation measures intended to be taken in response to the known and emerging risks identified in its audit of system risks, including steps taken toâ
+(I)
+adapt or remove system design features that expose minors to risks;
+(II)
+set safeguards to their most safe settings by default;
+(III)
+prevent the presence of illegal and illicit content on the covered platform; and
+(IV)
+adapt algorithmic recommendation system to prioritize the best interests of users who are minors;
+(iv)
+a description of internal processes for handling reports and automated detection mechanisms for harms to minors, including the rate, timeliness, and effectiveness of responses under the requirement of section 4(c);
+(v)
+the status of implementing prevention and mitigation measures identified in prior assessments; and
+(vi)
+a description of the additional measures to be taken by the covered platform to address the circumvention of safeguards and parental tools.
+(3)
+Reasonable inspection
+In conducting an inspection of the systemic risks of harm to minors, a covered platform shallâ
+(A)
+take into consideration the function of algorithmic recommendation systems;
+(B)
+consult parents, experts, and civil society with respect to the prevention of harms to minors;
+(C)
+conduct research based on experiences of minors that use the covered platform, including harms reported under section 4(c);
+(D)
+take account of research, including research regarding system design features, marketing, or product integrity, industry best practices, or outside research; and
+(E)
+consider indicia or inferences of age of users, in addition to any self-declared information about the age of individuals.
+(4)
+Privacy safeguards
+In issuing the public reports required under this section, a covered platform shall take steps to safeguard the privacy of its users, including ensuring that data is presented in a de-anonymized, aggregated format.
+7.
+Independent research
+(a)
+Definitions
+In this section:
+(1)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(2)
+Eligible researcher
+The term
+eligible researcher
+means an individual or group of individuals affiliated with or employed byâ
+(A)
+an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (
+20 U.S.C. 1001
+)); or
+(B)
+a nonprofit organization, including any organization described in
+section 501(c)
+of the Internal Revenue Code of 1986.
+(3)
+Program
+The term
+Program
+means the program established under subsection (b)(1).
+(4)
+Public interest research
+The term
+public interest research
+means the scientific or historical analysis of information that is performed for the primary purpose of advancing a broadly recognized public interest.
+(5)
+Qualified researcher
+The term
+qualified researcher
+means an eligible researcher who is approved by the Assistant Secretary to conduct public interest research regarding harms to minors under the Program.
+(b)
+Access to data on harms to minors
+(1)
+Establishment
+The Assistant Secretary shall establish a program under which an eligible researcher may apply for, and a covered platform shall provide, access to data assets from the covered platform for the sole purpose of conducting public interest research regarding harms to the safety and well-being of minors, including matters described in section 3(b).
+(2)
+Application requirements
+In order to be approved to access data assets from a covered platform, an eligible researcher shall, in the application submitted under paragraph (1)â
+(A)
+conduct the research for noncommercial purposes;
+(B)
+demonstrate a proven record of expertise on the proposed research topic and related research methodologies; and
+(C)
+commit to fulfill, and demonstrate a capacity to fulfill, the specific data security and confidentiality requirements corresponding to the application.
+(3)
+Duties and rights of covered platforms
+(A)
+Access to data assets
+(i)
+In general
+If the Assistant Secretary approves an application under paragraph (1) with respect to a covered platform, the covered platform shall, in a timely manner, provide the qualified researcher with access to data assets necessary to conduct public interest research described in that paragraph.
+(ii)
+Form of access
+A covered platform shall provide to a qualified researcher access to data assets under clause (i) through online databases, application programming interfaces, and data files as appropriate for the qualified researcher to undertake public interest research.
+(B)
+Nondisclosure agreement
+A covered platform may require, as a condition of access to the data assets of the covered platform, that a qualified researcher enter into a nondisclosure agreement regarding the release of data assets, provided thatâ
+(i)
+the agreement does not restrict the publication of the qualified researcher's findings; and
+(ii)
+the terms of the agreement allow the qualified researcher to provide the original agreement or a copy of the agreement to the Assistant Secretary.
+(C)
+Appeal
+A covered platform may appeal the granting of an application under paragraph (1) on the grounds that, and the Assistant Secretary shall grant such appeal ifâ
+(i)
+the covered platform does not have access to the requested data assets; or
+(ii)
+providing access to the data assets will lead to significant vulnerabilities in the security of the covered platform's service.
+(4)
+Processes, procedures, and standards
+Not later than 1 year after the date of enactment of this Act, the Assistant Secretary shall establishâ
+(A)
+(i)
+a process by which an eligible researcher may submit an application described in paragraph (1); and
+(ii)
+an appeals process for eligible researchers to appeal adverse decisions on applications described in paragraph (1) (including a decision to grant an appeal under paragraph (3)(C));
+(B)
+procedures for implementation of the Program, including methods forâ
+(i)
+participation by covered platforms; and
+(ii)
+verification by the Assistant Secretary of the credentials of eligible researchers;
+(C)
+standards for privacy, security, and confidentiality required to participate in the Program; and
+(D)
+standards for transparency regarding the operation and administration of the Program.
+(5)
+Duty of confidentiality
+To protect user privacy, a qualified researcher shall have a duty of confidentiality with respect to data assets provided by a covered platform, which may be defined by the Assistant Secretary.
+(6)
+Federal agencies
+Nothing in this subsection shall be construed to authorize a Federal agency to seek access to the data of a covered platform through the Program.
+(c)
+Safe harbor for independent collection
+With respect to public interest research conducted regarding harms to minors, including matters described in section 3(b), no cause of action related to terms of service violations undertaken while collecting data assets in the course of such research shall lie or be maintained in any court against the researcher conducting the research.
+(d)
+Rulemaking
+The Assistant Secretary, in consultation with the Secretary of Commerce and the Director of the National Institute of Standards and Technology, shall promulgate rules in accordance with section 553 of title 5, United States Code, as necessary to implement this section.
+8.
+Market research
+(a)
+Market research by covered platforms
+The Federal Trade Commission, in coordination with the Secretary of Commerce, shall establish guidelines for covered platforms seeking to conduct market- and product-focused research on minors or individuals it reasonably believes to be minors. Such guidelines shall includeâ
+(1)
+a standard consent form that provides minors and their parents a clear and easy-to-understand explanation of the scope and purpose of the research to be conducted, and provides an opportunity for informed consent; and
+(2)
+recommendations for research practices for studies that may include minors, disaggregated by the age ranges of 0â5, 6â9, 10â12, 13â15, and 16â17.
+(b)
+Guidelines
+The Federal Trade Commission shall promulgate such guidelines not later than 18 months after the date of enactment of this Act. In doing so, they shall seek input from members of the public and the representatives of the Kids Online Safety Council established under section 11.
+9.
+Age verification study and report
+(a)
+Study
+The Director of the National Institute of Standards and Technology, in coordination with the Federal Communications Commission, Federal Trade Commission, and the Secretary of Commerce, shall conduct a study evaluating the most technologically feasible options for developing systems to verify age at the device or operating system level.
+(b)
+Contents
+Such study shall considerâ
+(1)
+the benefits of creating a device or operating system level age verification system;
+(2)
+what information may need to be collected to create this type of age verification system;
+(3)
+the accuracy of such systems and their impact or steps to improve accessibility, including for individuals with disabilities;
+(4)
+how such a system or systems could verify age while mitigating risks to user privacy and data security and safeguarding minors' personal data; and
+(5)
+the technical feasibility, including the need for potential hardware and software changes, including for devices currently in commerce and owned by consumers.
+(c)
+Report
+Not later than 1 year after the date of enactment of this Act, the agencies described in subsection (a) shall submit a report containing the results of the study conducted under such subsection to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+10.
+Enforcement
+(a)
+Enforcement by Federal Trade Commission
+(1)
+Unfair and deceptive acts or practices
+A violation of this Act or a regulation promulgated under this Act by any person shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(2)
+Powers of the Commission
+(A)
+In general
+Except as provided in subparagraph (B) and subsection (b), the Federal Trade Commission (referred to in this section as the
+Commission
+) shall enforce this Act and any regulation promulgated under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+) were incorporated into and made a part of this Act.
+(B)
+Application to common carriers and nonprofit organizations
+Notwithstanding section 4, 5(a)(2), or 6 of the Federal Trade Commission Act (
+15 U.S.C. 44
+, 45(a)(2), 46) or any jurisdictional limitation of the Commission, the Commission shall also enforce this Act and the regulations promulgated under this Act, in the manner provided under this subsection, with respect toâ
+(i)
+common carriers subject to the Communications Act of 1934 (
+47 U.S.C. 151 et seq.
+) and all Acts amendatory thereof and supplementary thereto; and
+(ii)
+organizations not organized to carry on business for their own profit or that of their members.
+(C)
+Privileges and immunities
+Any person that violates this Act or a regulation promulgated under this Act shall be subject to the penalties, and entitled to the privileges and immunities, provided in the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+).
+(3)
+Regulations
+The Commission may promulgate regulations under section 553 of title 5, United States Code, to carry out sections 4, 5, and 6 of this Act.
+(4)
+Authority preserved
+Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law.
+(b)
+Enforcement by State attorneys general
+(1)
+In general
+(A)
+Civil actions
+In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates this Act or a regulation promulgated under this Act, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States or a State court of appropriate jurisdiction toâ
+(i)
+enjoin that practice;
+(ii)
+enforce compliance with this Act or such regulation;
+(iii)
+on behalf of residents of the State, obtain damages, statutory damages, restitution, or other compensation, each of which shall be distributed in accordance with State law; or
+(iv)
+obtain such other relief as the court may consider to be appropriate.
+(B)
+Notice
+(i)
+In general
+Before filing an action under subparagraph (A), the attorney general of the State involved shall provide to the Commissionâ
+(I)
+written notice of that action; and
+(II)
+a copy of the complaint for that action.
+(ii)
+Exemption
+(I)
+In general
+Clause (i) shall not apply with respect to the filing of an action by an attorney general of a State under this paragraph if the attorney general of the State determines that it is not feasible to provide the notice described in that clause before the filing of the action.
+(II)
+Notification
+In an action described in subclause (I), the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.
+(2)
+Intervention
+(A)
+In general
+On receiving notice under paragraph (1)(B), the Commission shall have the right to intervene in the action that is the subject of the notice.
+(B)
+Effect of intervention
+If the Commission intervenes in an action under paragraph (1), it shall have the rightâ
+(i)
+to be heard with respect to any matter that arises in that action; and
+(ii)
+to file a petition for appeal.
+(3)
+Construction
+For purposes of bringing any civil action under paragraph (1), nothing in this Act shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State toâ
+(A)
+conduct investigations;
+(B)
+administer oaths or affirmations; or
+(C)
+compel the attendance of witnesses or the production of documentary and other evidence.
+(4)
+Actions by the commission
+In any case in which an action is instituted by or on behalf of the Commission for violation of this Act or a regulation promulgated under this Act, no State may, during the pendency of that action, institute an action under paragraph (1) against any defendant named in the complaint in the action instituted by or on behalf of the Commission for that violation.
+(5)
+Venue; service of process
+(A)
+Venue
+Any action brought under paragraph (1) may be brought inâ
+(i)
+the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code; or
+(ii)
+a State court of competent jurisdiction.
+(B)
+Service of process
+In an action brought under paragraph (1) in a district court of the United States, process may be served wherever defendantâ
+(i)
+is an inhabitant; or
+(ii)
+may be found.
+11.
+Kids Online Safety Council
+(a)
+Establishment
+Not later than 1 year after the date of enactment of this Act, the Secretary of Commerce shall establish and convene the Kids Online Safety Council for the purpose of providing advice on the implementation of this Act.
+(b)
+Participation
+The Kids Online Safety Council shall include participation fromâ
+(1)
+parents, academic experts, health professionals, and members of civil society with respect to the prevention of harms to minors;
+(2)
+youth representation;
+(3)
+representatives of covered platforms;
+(4)
+representatives of the National Telecommunications and Information Administration, the National Institute of Standards and Technology, the Federal Trade Commission, and the Department of Justice; and
+(5)
+State attorneys general or their representatives.
+12.
+Authorization of appropriations
+There are authorized to be appropriated to the Federal Trade Commission such sums as may be necessary to carry out this Act.
+13.
+Effective date
+Except as otherwise provided in this Act, this Act shall take effect on the date that is 18 months after the date of enactment of this Act.
+14.
+Severability
+If any provision of this Act, or an amendment made by this Act, is determined to be unenforceable or invalid, the remaining provisions of this Act and the amendments made by this Act shall not be affected.

@@ -1,0 +1,68 @@
+1.
+Short title
+This Act may be cited as the
+Designating Each Carâs Automation Level Act
+or the
+DECAL Act
+.
+2.
+Information on highly automated driving systems made available to prospective buyers
+(a)
+Research
+Not later than 3 years after the date of enactment of this Act, the Secretary of Transportation shall complete research to determine the most effective method and terminology for informing consumers for each highly automated vehicle or a vehicle that performs partial driving automation about the capabilities and limitations of that vehicle. The Secretary shall determine whether such information is based upon or includes the terminology as defined by SAE International in Recommended Practice Report J3016 (published September 2016) or whether such description should include alternative terminology.
+(b)
+Rulemaking
+After the completion of the study required under subsection (a), the Secretary shall initiate a rulemaking proceeding to require manufacturers to inform consumers of the capabilities and limitations of a vehicleâs driving automation system or feature for any highly automated vehicle or any vehicle that performs partial driving automation.
+(c)
+Definitions
+(1)
+In general
+In this sectionâ
+(A)
+the term
+automated driving system
+means the hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether such system is limited to a specific operational design domain;
+(B)
+the term
+dynamic driving task
+means all of the real time operational and tactical functions required to operate a vehicle in on-road traffic, excluding the strategic functions such as trip scheduling and selection of destinations and waypoints, and includingâ
+(i)
+lateral vehicle motion control via steering;
+(ii)
+longitudinal vehicle motion control via acceleration and deceleration;
+(iii)
+monitoring the driving environment via object and event detection, recognition, classification, and response preparation;
+(iv)
+object and event response execution;
+(v)
+maneuver planning; and
+(vi)
+enhancing conspicuity via lighting, signaling, and gesturing;
+(C)
+the term
+highly automated vehicle
+â
+(i)
+means a motor vehicle equipped with an automated driving system; and
+(ii)
+does not include a commercial motor vehicle (as defined in section 31101 of title 49, United States Code);
+(D)
+the term
+vehicle that performs partial driving automation
+does not include a commercial motor vehicle (as defined in section 31101 of title 49, United States Code); and
+(E)
+the term
+operational design domain
+means the specific conditions under which a given driving automation system or feature thereof is designed to function.
+(2)
+Revisions to certain definitions
+(A)
+If SAE International (or its successor organization) revises the definition of any of the terms defined in subparagraph (A), (B), or (E) of paragraph (1) in Recommended Practice Report J3016, it shall notify the Secretary of the revision. The Secretary shall publish a notice in the Federal Register to inform the public of the new definition unless, within 90 days after receiving notice of the new definition and after opening a period for public comment on the new definition, the Secretary notifies SAE International (or its successor organization) that the Secretary has determined that the new definition does not meet the need for motor vehicle safety, or is otherwise inconsistent with the purposes of
+chapter 301
+of title 49, United States Code. If the Secretary so notifies SAE International (or its successor organization), the existing definition in paragraph (1) shall remain in effect.
+(B)
+If the Secretary does not reject a
+definition revised by SAE International (or its successor organization) as described in subparagraph (A), the Secretary shall promptly make any conforming amendments to the regulations and standards of the Secretary that are necessary. The revised definition shall apply for purposes of this section. The requirements of section 553 of title 5, United States Code, shall not apply to the making of any such conforming amendments.
+(C)
+Pursuant to section 553 of title 5, United States Code, the Secretary may update any of the definitions in subparagraph (A), (B), or (E) of paragraph (1) if
+the Secretary determines that materially changed circumstances regarding highly automated vehicles have impacted motor vehicle safety such that the definitions need to be updated to reflect such circumstances.

@@ -1,0 +1,163 @@
+1.
+Short title
+This Act may be cited as
+Samiâs Law
+.
+2.
+Sanctions for States without ride-hailing vehicle identification laws
+(a)
+In general
+Chapter 1
+of title 23, United States Code, is amended by adding at the end the following:
+171.
+Sanctions for States without transportation network company vehicle identification laws
+(a)
+Withholding of funds for noncompliance
+(1)
+First fiscal year
+On the first day of the fiscal year that is two years after the date of enactment of this section, the Secretary shall withhold 1 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) if the State does not meet the requirements of subsection (b) on the first day of the fiscal year.
+(2)
+Subsequent fiscal years
+On the first day of each fiscal year beginning 3 years after the date of enactment of this section, the Secretary shall withhold 2.5 percent of the amount required to be apportioned to a State under each of paragraphs (1) and (2) of section 104(b) if the State does not meet the requirements of subsection (b) on the first day of the fiscal year.
+(3)
+Effect of withholding of funds
+No funds withheld under this subsection from apportionment to any State shall be available at any point for apportionment to that State.
+(b)
+Requirements
+A State meets the requirements of this subsection if the Governor of the State certifies to the Secretary that the State has enacted and is enforcing the following laws with respect to TNC drivers and TNC vehicles operating in that State:
+(1)
+Front and rear license plates
+A law requiring that every TNC vehicle has a duly issued general State license plate on both the front and rear of the vehicle.
+(2)
+Inspection and sign requirements
+A law requiring TNC drivers to present TNC vehicles for inspection not later than 180 days after the date of enactment of such laws (unless the State has enacted and is enforcing a law meeting the requirements of this subsection on the date of enactment of this section) and annually thereafter. Such law shall include the following:
+(A)
+A provision requiring each TNC driver to affix the stickers containing the optical code or label provided to that driver (pursuant to section 3(1)(A) of Samiâs Law) on each window of the TNC driverâs vehicle adjacent to where passengers may sit.
+(B)
+A provision that requires periodic safety inspections of the TNC vehicle performed at intervals of at least once each year.
+(C)
+A provision that requires each TNC vehicle to display a consistent and distinctive sign at all times when the TNC driver is active on the TNC digital platform or providing any prearranged transportation service. Such signâ
+(i)
+shall include the transportation network companyâs proprietary trademark or logo;
+(ii)
+shall be readable during daylight hours at a distance of 50 feet;
+(iii)
+shall be illuminated so that it is patently visible in darkness; and
+(iv)
+may be magnetic or removable in nature.
+(D)
+A provision that does not permit a TNC driver to provide TNC services if the TNC vehicle does not pass such inspection.
+(3)
+Unlawful display
+A law that prohibits an individual who is not a TNC driver for a transportation network company from displaying on any vehicle the sign described in paragraph (2)(C) that is affiliated with that company on any vehicle with the intent to pass himself or herself off as a TNC driver operating a TNC vehicle for the transportation network company affiliated with that sign.
+(c)
+Definitions
+As used in this sectionâ
+(1)
+the term
+TNC driver
+means an individual who is employed or contracted by a transportation network company to provide transportation services to the public through a TNC platform;
+(2)
+the term
+TNC platform
+means an online-enabled application or digital network used to connect riders to TNC drivers for the purpose of providing prearranged transportation services;
+(3)
+the term
+TNC vehicle
+means a vehicle owned, leased, or otherwise authorized for use by a TNC driver that the TNC driver uses to provide TNC services, also known as a ride-hailing vehicle; and
+(4)
+the term
+transportation network company
+â
+(A)
+means a corporation, partnership, sole proprietorship, or other entity, that uses a digital network to connect riders to drivers affiliated with the entity in order for the driver to transport the rider using a vehicle owned, leased, or otherwise authorized for use by the driver to a point chosen by the rider; and
+(B)
+does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver.
+.
+3.
+Access and other requirements for ride-hailing vehicles and ride-hailing companies
+Not later than 180 days after the date of enactment of this Act, each transportation network company shall establish and implement the following system, prohibition, requirement, and policy:
+(1)
+A system that enables each individual who uses a TNC platform to verify the identity of the TNC driver who is provided to such individual via that TNC platform, and such TNC driver to confirm the identity of such individual prior to the beginning of a trip. Such system shall include the following:
+(A)
+A machine-readable code or image, such as a QR code (or successor technology), that can be scanned by the individual hailing such driver, using a personal mobile device with a built-in camera. The transportation network company shall provide to each TNC driver forward-facing window stickers containing such code or label.
+(B)
+The ability, via the transportation network companyâs TNC platform, toâ
+(i)
+provide to each individual who is assigned a TNC driver via such platform the unique machine-readable code or label of that TNC driver;
+(ii)
+provide a means by which such individual may scan the machine-readable code or label displayed on the window sticker of the TNC vehicle, using the TNC platform on the individualâs personal mobile device, to confirm the identity of the TNC driver who is assigned to the individual prior to entering the vehicle; and
+(iii)
+restrict each TNC driver from commencing a trip until the individual who has opted to use and scan the machine-readable code or label verifies the identity of the TNC driver by scanning the code or label.
+(2)
+A prohibition on a TNC driver from providing TNC services if the TNC vehicle of that driver does not pass inspections required by the State in which the TNC driverâs vehicle is licenced.
+(3)
+A requirement that all TNC vehicles display a consistent and distinctive sign provided by the transportation network company at all times when the TNC driver is active on the TNC digital platform or providing any TNC service. Such signâ
+(A)
+shall include the transportation network companyâs proprietary trademark or logo;
+(B)
+shall be readable during daylight hours at a distance of 50 feet;
+(C)
+shall be illuminated so that it is patently visible in darkness; and
+(D)
+may be magnetic or removable in nature.
+(4)
+A policy to require that any sign described in paragraph (3) be returned to the transportation network company when a TNC driver ceases to be employed or contracted by such company.
+4.
+Prohibition on sale of ride-hailing sign
+It shall be unlawful for any person other than a transportation network company to sell or offer for sale any sign described in section 3(3).
+5.
+Unfair or deceptive act or practice
+A violation of a section 3 or 4 shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+). The Federal Trade Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of this Act. Any person who violates section 3 or section 4 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+6.
+Definitions
+For purposes of this Actâ
+(1)
+the term
+machine-readable code or image
+means a machine-readable optical label that is unique to each TNC driver and the vehicle of such TNC driver and can be scanned using a personal mobile device with a built-in camera;
+(2)
+the term
+personal mobile device
+means any mobile device that an individual uses to connect to a TNC platform;
+(3)
+the term
+QR code
+means a machine-readable code or image also known as a quick response code and consists of a matrix or two-dimensional barcode;
+(4)
+the term
+TNC driver
+means an individual who is employed or contracted by a transportation network company to provide transportation services to the public through a TNC platform;
+(5)
+the term
+TNC platform
+means an online-enabled application or digital network used to connect riders to TNC drivers for the purpose of providing prearranged transportation services;
+(6)
+the term
+TNC vehicle
+means a vehicle owned, leased, or otherwise authorized for use by a TNC driver that the TNC driver uses to provide prearranged transportation services, also known as a ride-hailing vehicle; and
+(7)
+the term
+transportation network company
+â
+(A)
+means a corporation, partnership, sole proprietorship, or other entity, that uses a digital network to connect riders to drivers affiliated with the entity in order for the driver to transport the rider using a vehicle owned, leased, or otherwise authorized for use by the driver to a point chosen by the rider; and
+(B)
+does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver.
+7.
+GAO study on the incidence of assault and abuse of ride-hailing riders and drivers
+The Comptroller General of the United States shall conduct a study on the incidence of assault and abuse perpetrated on drivers by riders using ride-hailing vehicles, and on such riders by drivers of ride-hailing vehicles, and shall submit a report to Congress not later than one year after the date of enactment of this Act. The report shall also examineâ
+(1)
+the nature and specifics of any background checks conducted by ride-hailing companies on potential drivers, including any State laws which may require such background checks;
+(2)
+incidences where individuals who are not ride-hailing drivers try to pose as ride-hailing drivers;
+(3)
+incidences of ride-hailing passengers entering the wrong vehicle, whether or not the vehicle was a ride-hailing vehicle; and
+(4)
+efforts by ride-hailing companies to implement additional safety measures and practices and of State and local governments requiring such measures, and the efficacy of those efforts, practices, and requirements.

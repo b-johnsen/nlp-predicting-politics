@@ -1,0 +1,610 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Secure Americaâs Future Elections Act
+or the
+SAFE Act
+.
+(b)
+Table of contents
+The table of contents of this Act is as follows:
+Sec.â1.âShort title; table of contents.
+Title IâDesignation of Election Administration Systems as Critical Infrastructure
+Sec.â101.âSense of Congress regarding election administration security as a matter of national
+security.
+Sec.â102.âDesignation of election administration systems as critical infrastructure for homeland
+security purposes.
+Title IIâSecurity of Voting Systems and Voter Registration Processes
+Sec.â201.âAssistance to States for information technology security upgrades to voter registration
+and election administration processes.
+Sec.â202.âRequiring voting systems to meet cybersecurity standards.
+Title IIIâAccuracy, Security, and Integrity of Elections
+Subtitle AâPromoting accuracy, integrity, and security through voter-Verified permanent paper
+ballot
+Sec.â301.âPaper ballot and manual counting requirements.
+Sec.â302.âAccessibility and ballot verification for individuals with disabilities.
+Sec.â303.âDurability and readability requirements for ballots.
+Sec.â304.âEffective date for new requirements.
+Subtitle BâRequirement for mandatory manual audits by hand count
+Sec.â311.âMandatory manual audits.
+Subtitle CâMandatory manual audits
+Sec.â321.âRequiring audits of results of elections.
+Sec.â322.âNumber of ballots counted under audit.
+Sec.â323.âProcess for administering audits.
+Sec.â324.âSelection of precincts.
+Sec.â325.âPublication of results.
+Sec.â326.âPayments to States.
+Sec.â327.âException for elections subject to recount under State law prior to certification.
+Sec.â328.âEffective date.
+Sec.â312.âAvailability of enforcement under Help America Vote Act of 2002.
+Sec.â313.âGuidance on best practices for alternative audit mechanisms.
+Sec.â314.âClerical amendment.
+Title IVâReauthorization of Election Assistance Commission
+Sec.â401.âReauthorization of Election Assistance Commission.
+I
+Designation of Election Administration Systems as Critical Infrastructure
+101.
+Sense of Congress regarding election administration security as a matter of national security
+It is the sense of Congress that protecting the security and integrity of the administration of elections for public office, including the security of the information technology processes used to carry out voter registration and to operate voting systems, is a critical element of national security.
+102.
+Designation of election administration systems as critical infrastructure for homeland security
+purposes
+(a)
+Designation
+The Secretary of Homeland Security, acting through the Assistant Secretary of the National Protection and Programs Directorate, shall designate the infrastructure used to administer elections for public office, including storage facilities, polling places, vote tabulation locations, voter databases (including online voter registration databases), voting machines, and other systems that manage the election process, as critical infrastructure.
+(b)
+Critical infrastructure defined
+In this section, the term
+critical infrastructure
+has the meaning given such term in section 1016 of the Critical Infrastructure Protection Act of 2001 (
+42 U.S.C. 5195c
+).
+II
+Security of Voting Systems and Voter Registration Processes
+201.
+Assistance to States for information technology security upgrades to voter registration and
+election administration processes
+(a)
+Authorization of funding
+Section 257(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21007(a)
+) is amended by adding at the end the following new paragraph:
+(5)
+For each of the fiscal years 2018 through 2027, such sums as may be necessary for such payments, except that a State may use a requirement payment made with funds authorized under this paragraph solely to carry out activities to upgrade the security of the information technology and cybersecurity elements of the voting systems used in the State and the information technology and cybersecurity elements of the Stateâs voter registration lists (including online voter registration databases) and voter registration processes, including activities necessary to meet the requirements of section 303(a)(3) (relating to the technological security of the Stateâs computerized voter registration list).
+.
+(b)
+Waiver of 5 percent match requirement
+Section 253(b)(5) of such Act (
+52 U.S.C. 21003(b)(5)
+) is amendedâ
+(1)
+in subparagraph (A), by striking
+subparagraph (B)
+and inserting
+subparagraphs (B) and (C)
+; and
+(2)
+by adding at the end the following new subparagraph:
+(C)
+Subparagraph (A) shall not apply for purposes of determining the eligibility of a State to receive a requirements payment appropriated pursuant to the authorization provided under section 257(a)(5) of this title for fiscal year 2018.
+.
+202.
+Requiring voting systems to meet cybersecurity standards
+(a)
+Requirement
+Section 301(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)
+) is amended by adding at the end the following new paragraph:
+(7)
+Cybersecurity standards
+(A)
+Establishment of standards by Secretary of Homeland Security and NIST
+Not later than 1 year after the date of the enactment of this paragraph, the Secretary of Homeland Security (hereafter referred to as the
+Secretary
+) and the Director of the National Institute of Standards and Technology (hereafter referred to as the
+Director
+), working jointly, shall establish standards to ensure the cybersecurity of the components of voting systems, including the software used to operate such systems, and to ensure the security of the manufacturing processes for such components.
+(B)
+Notification of security breaches
+The Secretary and the Director shall include in such standards a requirement that the manufacturer of a voting system or any component of a voting system whose information and information systems have been the subject of an incident of unauthorized access, use, disclosure, disruption, modification, or destruction submit a report to the Commission immediately upon discovering the incident.
+(C)
+Updates
+The Secretary and the Director shall, working jointly, regularly update such standards to take into account developments in voting system technology and the emergence of new threats to the security of such systems.
+(D)
+Compliance required
+A State or jurisdiction may not use a voting system or any component of a voting system in an election for Federal office unless the manufacturer of the system or component certifies to the State or jurisdiction that the system meets the most recent cybersecurity standards established by the Secretary and the Director under this paragraph.
+.
+(b)
+Effective date
+Section 301(d) of such Act (
+52 U.S.C. 21081(d)
+) is amended to read as follows:
+(d)
+Effective date
+(1)
+In general
+Except as provided in paragraph (2), each State and jurisdiction shall be required to comply with the requirements of this section on and after January 1, 2006.
+(2)
+Special rule for cybersecurity standards
+The requirements of paragraph (7) of subsection (a) (relating to cybersecurity standards) shall apply with respect to the regularly scheduled general elections for Federal office held in November 2018 and each succeeding election for Federal office.
+.
+III
+Accuracy, Security, and Integrity of Elections
+A
+Promoting accuracy, integrity, and security through voter-Verified permanent paper ballot
+301.
+Paper ballot and manual counting requirements
+(a)
+In general
+Section 301(a)(2) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)(2)
+) is amended to read as follows:
+(2)
+Paper ballot requirement
+(A)
+Voter-verified paper ballots
+(i)
+Paper ballot requirement
+(I)
+The voting system shall require the use of an individual, durable, voter-verified, paper ballot of the voterâs vote that shall be marked and made available for inspection and verification by the voter before the voterâs vote is cast and counted, and which shall be counted by hand or read by an optical character recognition device or other counting device. For purposes of this subclause, the term
+individual, durable, voter-verified, paper ballot
+means a paper ballot marked by the voter by hand or a paper ballot marked through the use of a nontabulating ballot marking device or system, so long as the voter shall have the option to mark his or her ballot by hand.
+(II)
+The voting system shall provide the voter with an opportunity to correct any error on the paper ballot before the permanent voter-verified paper ballot is preserved in accordance with clause (ii).
+(III)
+The voting system shall not preserve the voter-verified paper ballots in any manner that makes it possible, at any time after the ballot has been cast, to associate a voter with the record of the voterâs vote without the voterâs consent.
+(ii)
+Preservation as official record
+The individual, durable, voter-verified, paper ballot used in accordance with clause (i) shall constitute the official ballot and shall be preserved and used as the official ballot for purposes of any recount or audit conducted with respect to any election for Federal office in which the voting system is used.
+(iii)
+Manual counting requirements for recounts and audits
+(I)
+Each paper ballot used pursuant to clause (i) shall be suitable for a manual audit, and shall be counted by hand in any recount or audit conducted with respect to any election for Federal office.
+(II)
+In the event of any inconsistencies or irregularities between any electronic vote tallies and the vote tallies determined by counting by hand the individual, durable, voter-verified, paper ballots used pursuant to clause (i), and subject to subparagraph (B), the individual, durable, voter-verified, paper ballots shall be the true and correct record of the votes cast.
+(iv)
+Application to all ballots
+The requirements of this subparagraph shall apply to all ballots cast in elections for Federal office, including ballots cast by absent uniformed services voters and overseas voters under the Uniformed and Overseas Citizens Absentee Voting Act and other absentee voters.
+(B)
+Special rule for treatment of disputes when paper ballots have been shown to be compromised
+(i)
+In general
+In the event thatâ
+(I)
+there is any inconsistency between any electronic vote tallies and the vote tallies determined by counting by hand the individual, durable, voter-verified, paper ballots used pursuant to subparagraph (A)(i) with respect to any election for Federal office; and
+(II)
+it is demonstrated by clear and convincing evidence (as determined in accordance with the applicable standards in the jurisdiction involved) in any recount, audit, or contest of the result of the election that the paper ballots have been compromised (by damage or mischief or otherwise) and that a sufficient number of the ballots have been so compromised that the result of the election could be changed,
+the determination of the appropriate remedy with respect to the election shall be made in
+accordance with applicable State law, except that the electronic tally
+shall not be used as the exclusive basis for determining the official
+certified result.
+(ii)
+Rule for consideration of ballots associated with each voting machine
+For purposes of clause (i), only the paper ballots deemed compromised, if any, shall be considered in the calculation of whether or not the result of the election could be changed due to the compromised paper ballots.
+.
+(b)
+Conforming amendment clarifying applicability of alternative language accessibility
+Section 301(a)(4) of such Act (
+52 U.S.C. 21081(a)(4)
+) is amended by inserting
+(including the paper ballots required to be used under paragraph (2))
+after
+voting system
+.
+(c)
+Other conforming amendments
+Section 301(a)(1) of such Act (
+52 U.S.C. 21081(a)(1)
+) is amendedâ
+(1)
+in subparagraph (A)(i), by striking
+counted
+and inserting
+counted, in accordance with paragraphs (2) and (3)
+;
+(2)
+in subparagraph (A)(ii), by striking
+counted
+and inserting
+counted, in accordance with paragraphs (2) and (3)
+;
+(3)
+in subparagraph (A)(iii), by striking
+counted
+each place it appears and inserting
+counted, in accordance with paragraphs (2) and (3)
+; and
+(4)
+in subparagraph (B)(ii), by striking
+counted
+and inserting
+counted, in accordance with paragraphs (2) and (3)
+.
+302.
+Accessibility and ballot verification for individuals with disabilities
+(a)
+In general
+Section 301(a)(3)(B) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)(3)(B)
+) is amended to read as follows:
+(B)
+(i)
+satisfy the requirement of subparagraph (A) through the use of at least one voting system equipped for individuals with disabilities, including nonvisual and enhanced visual accessibility for the blind and visually impaired, and nonmanual and enhanced manual accessibility for the mobility and dexterity impaired, at each polling place; and
+(ii)
+meet the requirements of subparagraph (A) and paragraph (2)(A) by using a system thatâ
+(I)
+allows the voter to privately and independently verify the permanent paper ballot through the presentation, in accessible form, of the printed or marked vote selections from the same printed or marked information that would be used for any vote counting or auditing; and
+(II)
+allows the voter to privately and independently verify and cast the permanent paper ballot without requiring the voter to manually handle the paper ballot; and
+.
+(b)
+Specific requirement of study, testing, and development of accessible paper ballot verification
+mechanisms
+(1)
+Study and reporting
+Subtitle C of title II of such Act (
+52 U.S.C. 21081
+et seq.) is amendedâ
+(A)
+by redesignating section 247 as section 248; and
+(B)
+by inserting after section 246 the following new section:
+247.
+Study and report on accessible paper ballot verification mechanisms
+(a)
+Study and Report
+The Director of the National Science Foundation shall make grants to not fewer than 3 eligible entities to study, test, and develop accessible paper ballot voting, verification, and casting mechanisms and devices and best practices to enhance the accessibility of paper ballot voting and verification mechanisms for individuals with disabilities, for voters whose primary language is not English, and for voters with difficulties in literacy, including best practices for the mechanisms themselves and the processes through which the mechanisms are used.
+(b)
+Eligibility
+An entity is eligible to receive a grant under this part if it submits to the Director (at such time and in such form as the Director may require) an application containingâ
+(1)
+certifications that the entity shall specifically investigate enhanced methods or devices, including non-electronic devices, that will assist such individuals and voters in marking voter-verified paper ballots and presenting or transmitting the information printed or marked on such ballots back to such individuals and voters, and casting such ballots;
+(2)
+a certification that the entity shall complete the activities carried out with the grant not later than July 1, 2018; and
+(3)
+such other information and certifications as the Director may require.
+(c)
+Availability of Technology
+Any technology developed with the grants made under this section shall be treated as non-proprietary and shall be made available to the public, including to manufacturers of voting systems.
+(d)
+Coordination With Grants for Technology Improvements
+The Director shall carry out this section so that the activities carried out with the grants made under subsection (a) are coordinated with the research conducted under the grant program carried out by the Commission under section 271, to the extent that the Director and Commission determine necessary to provide for the advancement of accessible voting technology.
+(e)
+Authorization of Appropriations
+There is authorized to be appropriated to carry out subsection (a) $5,000,000, to remain available until expended.
+.
+(2)
+Clerical amendment
+The table of contents of such Act is amendedâ
+(A)
+by redesignating the item relating to section 247 as relating to section 248; and
+(B)
+by inserting after the item relating to section 246 the following new item:
+Sec. 247. Study and report on accessible paper ballot verification mechanisms.
+.
+(c)
+Clarification of accessibility standards under voluntary voting system guidance
+In adopting any voluntary guidance under subtitle B of title III of the Help America Vote Act with respect to the accessibility of the paper ballot verification requirements for individuals with disabilities, the Election Assistance Commission shall include and apply the same accessibility standards applicable under the voluntary guidance adopted for accessible voting systems under such subtitle.
+(d)
+Permitting use of funds for protection and advocacy systems To support actions To enforce
+election-Related disability Access
+Section 292(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21062(a)
+) is amended by striking
+; except that
+and all that follows and inserting a period.
+303.
+Durability and readability requirements for ballots
+Section 301(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)
+), as amended by section 202(a), is further amended by adding at the end the following new paragraph:
+(8)
+Durability and readability requirements for ballots
+(A)
+Durability requirements for paper ballots
+(i)
+In general
+All voter-verified paper ballots required to be used under this Act shall be marked or printed on durable paper.
+(ii)
+Definition
+For purposes of this Act, paper is
+durable
+if it is capable of withstanding multiple counts and recounts by hand without compromising the fundamental integrity of the ballots, and capable of retaining the information marked or printed on them for the full duration of a retention and preservation period of 22 months.
+(B)
+Readability requirements for paper ballots marked by ballot marking device
+All voter-verified paper ballots completed by the voter through the use of a ballot marking device shall be clearly readable by the voter without assistance (other than eyeglasses or other personal vision enhancing devices) and by an optical character recognition device or other device equipped for individuals with disabilities.
+.
+304.
+Effective date for new requirements
+Section 301(d) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(d)
+), as amended by section 202(b), is further amendedâ
+(1)
+in paragraph (1), by striking
+Except as provided in paragraph (2)
+and inserting
+Except as provided in paragraphs (2) and (3)
+; and
+(2)
+by adding at the end the following new paragraph:
+(3)
+Special rule for certain requirements
+(A)
+In general
+Except as provided in subparagraphs (B) and (C), the requirements of this section which are first imposed on a State and jurisdiction pursuant to the amendments made by title III of the Secure Americaâs Future Elections Act shall apply with respect to voting systems used for the regularly scheduled general elections for Federal office held in 2018 and any succeeding election for Federal office.
+(B)
+Delay for jurisdictions using certain paper record printers or certain systems using or producing
+voter-verifiable paper records in 2016
+(i)
+Delay
+In the case of a jurisdiction described in clause (ii), subparagraph (A) shall apply to a voting system in the jurisdiction as if the reference in such subparagraph to
+2018
+were a reference to
+2020
+, but only with respect to the following requirements of this section:
+(I)
+Paragraph (2)(A)(i)(I) of subsection (a) (relating to the use of voter-marked paper ballots).
+(II)
+Paragraph (3)(B)(ii)(I) and (II) of subsection (a) (relating to access to verification from and casting of the durable paper ballot).
+(III)
+Paragraph (8) of subsection (a) (relating to durability and readability requirements for ballots).
+(ii)
+Jurisdictions described
+A jurisdiction described in this clause is a jurisdictionâ
+(I)
+which used voter verifiable paper record printers attached to direct recording electronic voting machines, or which used other voting systems that used or produced paper records of the vote verifiable by voters but that are not in compliance with paragraphs (2)(A)(i)(I), (3)(B)(ii)(I) and (II), and (8) of subsection (a) (as amended or added by the Secure Americaâs Future Elections Act), for the administration of the regularly scheduled general election for Federal office held in November 2016; and
+(II)
+which will continue to use such printers or systems for the administration of elections for Federal office held in years before 2020.
+(iii)
+Mandatory availability of paper ballots at polling places using grandfathered printers and systems
+(I)
+Requiring ballots to be offered and provided
+The appropriate election official at each polling place that uses a printer or system described in clause (ii)(I) for the administration of elections for Federal office shall offer each individual who is eligible to cast a vote in the election at the polling place the opportunity to cast the vote using a blank pre-printed paper ballot which the individual may mark by hand and which is not produced by the direct recording electronic voting machine or other such system. The official shall provide the individual with the ballot and the supplies necessary to mark the ballot, and shall ensure (to the greatest extent practicable) that the waiting period for the individual to cast a vote is the lesser of 30 minutes or the average waiting period for an individual who does not agree to cast the vote using such a paper ballot under this clause.
+(II)
+Treatment of ballot
+Any paper ballot which is cast by an individual under this clause shall be counted and otherwise treated as a regular ballot for all purposes (including by incorporating it into the final unofficial vote count (as defined by the State) for the precinct) and not as a provisional ballot, unless the individual casting the ballot would have otherwise been required to cast a provisional ballot.
+(III)
+Posting of notice
+The appropriate election official shall ensure there is prominently displayed at each polling place a notice that describes the obligation of the official to offer individuals the opportunity to cast votes using a pre-printed blank paper ballot.
+(IV)
+Training of election officials
+The chief State election official shall ensure that election officials at polling places in the State are aware of the requirements of this clause, including the requirement to display a notice under subclause (III), and are aware that it is a violation of the requirements of this title for an election official to fail to offer an individual the opportunity to cast a vote using a blank pre-printed paper ballot.
+(V)
+Period of applicability
+The requirements of this clause apply only during the period in which the delay is in effect under clause (i).
+(C)
+Special rule for jurisdictions using certain nontabulating ballot marking devices
+In the case of a jurisdiction which uses a nontabulating ballot marking device which automatically deposits the ballot into a privacy sleeve, subparagraph (A) shall apply to a voting system in the jurisdiction as if the reference in such subparagraph to
+2018
+were a reference to
+2020
+, but only with respect to paragraph (3)(B)(ii)(II) of subsection (a) (relating to nonmanual casting of the durable paper ballot).
+.
+B
+Requirement for mandatory manual audits by hand count
+311.
+Mandatory manual audits
+Title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21081
+et seq.) is amended by adding at the end the following new subtitle:
+C
+Mandatory manual audits
+321.
+Requiring audits of results of elections
+(a)
+Requiring Audits
+(1)
+In general
+In accordance with this subtitle, each State shall administer, without advance notice to the precincts or alternative audit units selected, audits of the results of all elections for Federal office held in the State (and, at the option of the State or jurisdiction involved, of elections for State and local office held at the same time as such election) consisting of random hand counts of the voter-verified paper ballots required to be used and preserved pursuant to section 301(a)(2).
+(2)
+Exception for certain elections
+A State shall not be required to administer an audit of the results of an election for Federal office under this subtitle if the winning candidate in the electionâ
+(A)
+had no opposition on the ballot; or
+(B)
+received 80 percent or more of the total number of votes cast in the election, as determined on the basis of the final unofficial vote count.
+(b)
+Determination of Entity Conducting Audits; Application of GAO Independence Standards
+The State shall administer audits under this subtitle through an entity selected for such purpose by the State in accordance with such criteria as the State considers appropriate consistent with the requirements of this subtitle, except that the entity must meet the general standards established by the Comptroller General and as set forth in the Comptroller Generalâs Government Auditing Standards to ensure the independence (including, except as provided under section 323(b), the organizational independence) of entities performing financial audits, attestation engagements, and performance audits.
+(c)
+References to Election Auditor
+In this subtitle, the term
+Election Auditor
+means, with respect to a State, the entity selected by the State under subsection (b).
+322.
+Number of ballots counted under audit
+(a)
+In General
+Except as provided in subsection (b), the Election Auditor of a State shall, in accordance with this subtitle, administer a hand count of the voter-verified paper ballots cast with respect to an election in at least 5 percent of all precincts or equivalent locations (or alternative audit units used in accordance with the method provided for under subsection (b)) in the Congressional district involved (in the case of an election for the House of Representatives) or the State (in the case of any other election for Federal office).
+(b)
+Use of Alternative Mechanism
+(1)
+Permitting use of alternative mechanism
+Notwithstanding subsection (a), a State may adopt and apply an alternative mechanism to determine the number of voter-verified paper ballots which will be subject to the hand counts required under this subtitle with respect to an election, so long as the alternative mechanism uses the voter-verified paper ballots to conduct the audit and the National Institute of Standards and Technology determines that the alternative mechanism is in accordance with the principles set forth in paragraph (2).
+(2)
+Principles for approval
+In approving an alternative mechanism under paragraph (1), the National Institute of Standards and Technology shall ensure that the audit procedure will have the property that for each electionâ
+(A)
+the alternative mechanism will be at least as statistically effective in ensuring the accuracy of the election results as the procedures under this subtitle; or
+(B)
+the alternative mechanism will achieve at least a 95 percent confidence interval (as determined in accordance with criteria set forth by the National Institute of Standards and Technology) with respect to the outcome of the election.
+(3)
+Deadline for response
+The Director of the National Institute of Standards and Technology shall make a determination regarding a Stateâs request to approve an alternative mechanism under paragraph (1) not later than 30 days after receiving the Stateâs request.
+323.
+Process for administering audits
+(a)
+In General
+The Election Auditor of a State shall administer an audit under this section of the results of an election in accordance with the following procedures:
+(1)
+Within 24 hours after the State announces the final unofficial vote count (as defined by the State) in each precinct in the State, the Election Auditor shallâ
+(A)
+determine and then announce the precincts or equivalent locations (or alternative audit units used in accordance with the method provided under section 322(b)) in the State in which it will administer the audits; and
+(B)
+with respect to votes cast at the precinct or equivalent location on or before the date of the election (other than provisional ballots described in paragraph (2)), begin to administer the hand count of the votes on the voter-verified paper ballots required to be used and preserved under section 301(a)(2)(A) and the comparison of the count of the votes on those ballots with the final unofficial count of such votes as announced by the State.
+(2)
+With respect to votes cast other than at the precinct on the date of the election (other than votes cast before the date of the election described in paragraph (2)) or votes cast by provisional ballot on the date of the election which are certified and counted by the State on or after the date of the election, including votes cast by absent uniformed services voters and overseas voters under the Uniformed and Overseas Citizens Absentee Voting Act, the Election Auditor shall administer the hand count of the votes on the applicable voter-verified paper ballots required to be produced and preserved under section 301(a)(2)(A) and the comparison of the count of the votes on those ballots with the final unofficial count of such votes as announced by the State.
+(b)
+Use of personnel
+In administering the audits, the Election Auditor may utilize the services of the personnel of the State or jurisdiction, including election administration personnel and poll workers, without regard to whether or not the personnel have professional auditing experience.
+(c)
+Location
+The Election Auditor shall administer an audit of an electionâ
+(1)
+at the location where the ballots cast in the election are stored and counted after the date of the election or such other appropriate and secure location agreed upon by the Election Auditor and the individual that is responsible under State law for the custody of the ballots; and
+(2)
+in the presence of the personnel who under State law are responsible for the custody of the ballots.
+(d)
+Special rule in case of delay in reporting absentee vote count
+In the case of a State in which the final count of absentee and provisional votes is not announced until after the date of the election, the Election Auditor shall initiate the process described in subsection (a) for administering the audit not later than 24 hours after the State announces the final unofficial vote count for the votes cast at the precinct or equivalent location on or before the date of the election, and shall initiate the administration of the audit of the absentee and provisional votes pursuant to subsection (a)(2) not later than 24 hours after the State announces the final unofficial count of such votes.
+(e)
+Additional Audits if Cause Shown
+(1)
+In general
+If the Election Auditor finds that any of the hand counts administered under this section do not match the final unofficial tally of the results of an election, the Election Auditor shall administer hand counts under this section of such additional precincts (or alternative audit units) as the Election Auditor considers appropriate to resolve any concerns resulting from the audit and ensure the accuracy of the election results.
+(2)
+Establishment and publication of procedures governing additional audits
+Not later than August 1, 2018, each State shall establish and publish procedures for carrying out the additional audits under this subsection, including the means by which the State shall resolve any concerns resulting from the audit with finality and ensure the accuracy of the election results.
+(f)
+Public Observation of Audits
+Each audit conducted under this section shall be conducted in a manner that allows public observation of the entire process.
+324.
+Selection of precincts
+(a)
+In General
+Except as provided in subsection (c), the selection of the precincts or alternative audit units in the State in which the Election Auditor of the State shall administer the hand counts under this subtitle shall be made by the Election Auditor on a random basis, in accordance with procedures adopted by the National Institute of Standards and Technology, except that at least one precinct shall be selected at random in each county, with additional precincts selected by the Election Auditor at the Auditorâs discretion.
+(b)
+Public Selection
+The random selection of precincts under subsection (a) shall be conducted in public, at a time and place announced in advance.
+(c)
+Mandatory Selection of Precincts Established Specifically for Absentee Ballots
+If a State does not sort absentee ballots by precinct and include those ballots in the hand count with respect to that precinct, the State shall create absentee ballot precincts or audit units which are of similar size to the average precinct or audit unit in the jurisdiction being audited, and shall include those absentee precincts or audit units among the precincts in the State in which the Election Auditor shall administer the hand counts under this subtitle.
+(d)
+Deadline for Adoption of Procedures by Commission
+The National Institute of Standards and Technology shall adopt the procedures described in subsection (a) not later than March 31, 2018, and shall publish them in the Federal Register upon adoption.
+325.
+Publication of results
+(a)
+Submission to Commission
+As soon as practicable after the completion of an audit under this subtitle, the Election Auditor of a State shall submit to the Commission the results of the audit, and shall include in the submission a comparison of the results of the election in the precinct as determined by the Election Auditor under the audit and the final unofficial vote count in the precinct as announced by the State and all undervotes, overvotes, blank ballots, and spoiled, voided, or cancelled ballots, as well as a list of any discrepancies discovered between the initial, subsequent, and final hand counts administered by the Election Auditor and such final unofficial vote count and any explanation for such discrepancies, broken down by the categories of votes described in paragraphs (1)(B) and (2) of section 323(a).
+(b)
+Publication by Commission
+Immediately after receiving the submission of the results of an audit from the Election Auditor of a State under subsection (a), the Commission shall publicly announce and publish the information contained in the submission.
+(c)
+Delay in certification of results by State
+(1)
+Prohibiting certification until completion of audits
+No State may certify the results of any election which is subject to an audit under this subtitle prior toâ
+(A)
+to the completion of the audit (and, if required, any additional audit conducted under section 323(e)(1)) and the announcement and submission of the results of each such audit to the Commission for publication of the information required under this section; and
+(B)
+the completion of any procedure established by the State pursuant to section 323(e)(2) to resolve discrepancies and ensure the accuracy of results.
+(2)
+Deadline for completion of audits of Presidential elections
+In the case of an election for electors for President and Vice President which is subject to an audit under this subtitle, the State shall complete the audits and announce and submit the results to the Commission for publication of the information required under this section in time for the State to certify the results of the election and provide for the final determination of any controversy or contest concerning the appointment of such electors prior to the deadline described in section 6 of title 3, United States Code.
+326.
+Payments to States
+(a)
+Payments for Costs of Conducting Audits
+In accordance with the requirements and procedures of this section, the Commission shall make a payment to a State to cover the costs incurred by the State in carrying out this subtitle with respect to the elections that are the subject of the audits conducted under this subtitle.
+(b)
+Certification of Compliance and Anticipated Costs
+(1)
+Certification required
+In order to receive a payment under this section, a State shall submit to the Commission, in such form as the Commission may require, a statement containingâ
+(A)
+a certification that the State will conduct the audits required under this subtitle in accordance with all of the requirements of this subtitle;
+(B)
+a notice of the reasonable costs incurred or the reasonable costs anticipated to be incurred by the State in carrying out this subtitle with respect to the elections involved; and
+(C)
+such other information and assurances as the Commission may require.
+(2)
+Amount of payment
+The amount of a payment made to a State under this section shall be equal to the reasonable costs incurred or the reasonable costs anticipated to be incurred by the State in carrying out this subtitle with respect to the elections involved, as set forth in the statement submitted under paragraph (1).
+(3)
+Timing of notice
+The State may not submit a notice under paragraph (1) until candidates have been selected to appear on the ballot for all of the elections for Federal office which will be the subject of the audits involved.
+(c)
+Timing of Payments
+The Commission shall make the payment required under this section to a State not later than 30 days after receiving the notice submitted by the State under subsection (b).
+(d)
+Recoupment of Overpayments
+No payment may be made to a State under this section unless the State agrees to repay to the Commission the excess (if any) ofâ
+(1)
+the amount of the payment received by the State under this section with respect to the elections involved; over
+(2)
+the actual costs incurred by the State in carrying out this subtitle with respect to the elections involved.
+(e)
+Authorization of Appropriations
+There is authorized to be appropriated to the Commission for fiscal year 2018 and each succeeding fiscal year $100,000,000 for payments under this section.
+327.
+Exception for elections subject to recount under State law prior to certification
+(a)
+Exception
+This subtitle does not apply to any election for which a recount under State law will commence prior to the certification of the results of the election, including but not limited to a recount required automatically because of the margin of victory between the 2 candidates receiving the largest number of votes in the election, but only if each of the following applies to the recount:
+(1)
+The recount commences prior to the determination and announcement by the Election Auditor under section 323(a)(1) of the precincts in the State in which it will administer the audits under this subtitle.
+(2)
+If the recount would apply to fewer than 100 percent of the ballots cast in the electionâ
+(A)
+the number of ballots counted will be at least as many as would be counted if an audit were conducted with respect to the election in accordance with this subtitle; and
+(B)
+the selection of the precincts in which the recount will be conducted will be made in accordance with the random selection procedures applicable under section 324.
+(3)
+The recount for the election meets the requirements of section 323(f) (relating to public observation).
+(4)
+The State meets the requirements of section 325 (relating to the publication of results and the delay in the certification of results) with respect to the recount.
+(b)
+Clarification of Effect on Other Requirements
+Nothing in this section may be construed to waive the application of any other provision of this Act to any election (including the requirement set forth in section 301(a)(2) that the voter verified paper ballots serve as the vote of record and shall be counted by hand in all audits and recounts, including audits and recounts described in this subtitle).
+328.
+Effective date
+This subtitle shall apply with respect to the regularly scheduled general elections for Federal office held in 2018 and any succeeding election for Federal office.
+.
+312.
+Availability of enforcement under Help America Vote Act of 2002
+Section 401 of the Help America Vote Act of 2002 (
+52 U.S.C. 21111
+) is amended by striking the period at the end and inserting the following:
+, or the requirements of subtitle C of title III.
+.
+313.
+Guidance on best practices for alternative audit mechanisms
+(a)
+In general
+Not later than May 1, 2021, the Director of the National Institute for Standards and Technology shall establish guidance for States that wish to establish alternative audit mechanisms under section 322(b) of the Help America Vote Act of 2002 (as added by section 311). Such guidance shall be based upon scientifically and statistically reasonable assumptions for the purpose of creating an alternative audit mechanism that will be consistent with the principles for approval described in section 322(b)(2) of such Act (as so added).
+(b)
+Authorization of appropriations
+There is authorized to be appropriated to carry out subsection (a) $100,000, to remain available until expended.
+314.
+Clerical amendment
+The table of contents of the Help America Vote Act of 2002 is amended by adding at the end of the items relating to title III the following:
+Subtitle CâMandatory Manual Audits
+Sec. 321. Requiring audits of results of elections.
+Sec. 322. Number of ballots counted under audit.
+Sec. 323. Process for administering audits.
+Sec. 324. Selection of precincts.
+Sec. 325. Publication of results.
+Sec. 326. Payments to States.
+Sec. 327. Exception for elections subject to recount under State law prior to certification.
+Sec. 328. Effective date.
+.
+IV
+Reauthorization of Election Assistance Commission
+401.
+Reauthorization of Election Assistance Commission
+Section 210 of the Help America Vote Act of 2002 (
+52 U.S.C. 20930
+) is amendedâ
+(1)
+by striking
+for each of the fiscal years 2003 through 2005
+and inserting
+for fiscal year 2003 and each succeeding fiscal year
+; and
+(2)
+by striking
+(but not to exceed $10,000,000 for each such year)
+.

@@ -1,0 +1,96 @@
+1.
+Short title
+This Act may be cited as the
+Blockchain Integrity Act
+.
+2.
+Moratorium on digital asset mixers
+(a)
+Moratorium
+(1)
+In general
+During the 2-year period beginning 6 months after the date of enactment of this Act, it shall be unlawful for a financial institution to handle, use, or transact withâ
+(A)
+any incoming funds that have been routed through a digital asset mixer operating on a cryptographically secured distributed ledger; and
+(B)
+any outgoing funds routed directly to a digital asset mixer operating on a cryptographically secured distributed ledger.
+(2)
+Enforcement
+(A)
+In general
+The Secretary of the Treasury shall enforce this section.
+(B)
+Civil penalty
+The Secretary of the Treasury may impose a civil penalty on any financial institution that violates subsection (a) in an amount not greater than $100,000 for each violation.
+(b)
+Study by Treasury
+The Secretary of the Treasury, in consultation with the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Attorney General, and such other departments and agencies as determined by the Secretary of the Treasury, shall carry out a study of digital asset mixers, privacy coins, and other anonymity-enhancing technologies.
+(c)
+Report
+Not later than 18 months after the date of the enactment of this Act, the Secretary of the Treasury shall provide to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report, to include a classified annex, if necessary, that contains all findings made in carrying out the study under subsection (b) that analyzes the following issues:
+(1)
+Current typologies of digital asset mixers, privacy coins, and other anonymity-enhancing technologies, and historical transaction volume.
+(2)
+Estimates of the percentage of transactions in paragraph (1) that are believed to be connected, directly or indirectly, to illicit finance, including digital asset transaction volumes associated with sanctioned entities and entities subject to special measures pursuant to section 5318A of title 31, United States Code, and a description of any limitations applicable to the data used in such estimates.
+(3)
+Information about legitimate uses of digital asset mixers, including transaction volumes associated with payments to journalists in authoritarian regimes, donations to the government of Ukraine, and for enhanced privacy and security purposes.
+(4)
+The capacity of the Financial Crimes Enforcement Network, the Office of Foreign Assets Control, and Federal and State law enforcement agencies to track, prevent the transfer of, freeze, and confiscate funds that have been processed through digital asset mixers, privacy coins, and other anonymity-enhancing technologies, includingâ
+(A)
+general estimates regarding the number of instances on an annual basis such agencies were able to prevent the transfer of funds through such methods; and
+(B)
+the extent to which such agencies utilized blockchain analytics firms when preventing the transfer of funds through such methods.
+(5)
+New and emerging obfuscation tools and methods to reduce transparency on a cryptographically secured distributed ledger.
+(6)
+Financial incentives for relayers or any other party in the process of validating transactions on a cryptographically secured distributed ledger, including an assessment of the contractual relationship between relayers and digital asset mixers.
+(7)
+Regulatory approaches employed by other jurisdictions to address illicit uses of digital asset mixers, privacy coins, and other anonymity-enhancing technologies.
+(8)
+Recommendations for legislation or regulation to address the illicit uses of digital assets, including with respect toâ
+(A)
+covered nations, as defined in section 4872(d)(2) of title 10, United States Code, and affiliated actors;
+(B)
+Foreign Terrorist Organizations, as designated by the Secretary of State, and affiliated actors;
+(C)
+sanctions evasion by Russian entities, individuals, and affiliated actors;
+(D)
+human trafficking and the sexual exploitation of children;
+(E)
+international trafficking of fentanyl, fentanyl precursors, or other related opioids;
+(F)
+organized crime groups in East and Southeast Asia; and
+(G)
+darknet marketplaces.
+(d)
+Definitions
+In this section:
+(1)
+Anonymity-enhancing technologies
+The term
+anonymity-enhancing technologies
+means software, products, or services that facilitate digital asset transactions with enhanced anonymity, as defined by the Financial Crimes Enforcement Network.
+(2)
+Digital asset mixer
+The term
+digital asset mixer
+means a website, software, or other service designed to conceal or obfuscate the origin, destination, and counterparties of digital asset transactions.
+(3)
+Financial institution
+The term
+financial institution
+has the meaning given the term in section 5312(a) of title 31, United States Code.
+(4)
+Privacy coin
+The term
+privacy coin
+means a digital asset designed toâ
+(A)
+hinder tracing through distributed ledgers; or
+(B)
+conceal or obfuscate the origin, destination, and counterparties of digital asset transactions.
+(5)
+Relayers
+The term
+relayers
+means a person, entity, software program, or person or entity operating such software program, that receives, communicates, or otherwise conveys blocks of transactions to a validator, miner, or other entity that serves a similar function.

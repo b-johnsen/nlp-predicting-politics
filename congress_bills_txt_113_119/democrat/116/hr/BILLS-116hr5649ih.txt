@@ -1,0 +1,92 @@
+1.
+Short title
+This Act may be cited as the
+Consumer Access to Grid Information Act of 2020
+.
+2.
+Grant program for cellular phone applications
+(a)
+In general
+Not later than one year after the date of the enactment of this Act, the Assistant Secretary shall establish a grant program under which the Assistant Secretary shall award grants to eligible entities to carry out an eligible project described in subsection (b).
+(b)
+Eligible project
+An eligible entity receiving a grant under subsection (a) may use grant funds for research and development activities with respect to the creation of a cellular phone application that allows the public to monitor an applicable power grid, including providing a user with the ability toâ
+(1)
+receive grid system alerts;
+(2)
+view the status of the grid, includingâ
+(A)
+current demand for power;
+(B)
+the forecasted peak demand for power; and
+(C)
+trends in demand for power;
+(3)
+monitor power grid capacity;
+(4)
+visualize, through a chart or graphâ
+(A)
+the types of energy sources that are serving the grid, including clean energy sources and other energy sources, as applicable;
+(B)
+the percentage of power that is being provided to the grid from each such energy source;
+(C)
+the power supply in response to demand on the grid, with a display of the different types of energy sources being used to meet demand; and
+(D)
+the carbon dioxide emissions resulting from energy use with respect to the grid, including a breakdown showing the percentage of emissions coming from any energy sources creating such emissions; and
+(5)
+monitor energy prices in each region served by an independent system operator.
+(c)
+Applications
+To be eligible to receive a grant under this section, an eligible entity shall submit to the Assistant Secretary an application in such form, at such time, and containing such information as the Assistant Secretary determines necessary.
+(d)
+Outreach
+The Assistant Secretary shall conduct such outreach as the Assistant Secretary determines is necessary to ensure that eligible entities are aware of the existence of the grant program established under this section.
+3.
+Definitions
+In this Act:
+(1)
+Applicable power grid; grid
+The terms
+applicable power grid
+and
+grid
+mean a power grid overseen by an eligible entity.
+(2)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of the Office of Energy Efficiency and Renewable Energy of the Department of Energy.
+(3)
+Cellular phone application
+The term
+cellular phone application
+means a software application that enables the performance of specific tasks that may be run on a computer, a mobile device, the internet, or any other electronic device.
+(4)
+Clean energy source
+The term
+clean energy source
+means a fuel, electrical, or energy source that significantly limits or avoids greenhouse gas emissions, as determined by the Secretary.
+(5)
+Eligible Entity
+The term
+eligible entity
+means an independent system operator, regional transmission organization, or other transmission system operator.
+(6)
+Independent system operator
+The term
+independent system operator
+has the meaning given such term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).
+(7)
+Load
+The term
+load
+means the total amount of electrical power that is demanded by users of the grid.
+(8)
+Regional transmission organization
+The term
+regional transmission organization
+has the meaning given such term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).

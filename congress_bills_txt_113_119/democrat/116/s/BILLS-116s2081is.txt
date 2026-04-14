@@ -1,0 +1,163 @@
+1.
+Short title
+This Act may be cited as the
+Stop Drug Companies from Overcharging Seniors in Medicare Part B Act of 2019
+.
+2.
+Requiring drug manufacturers to provide rebates for drugs furnished under Medicare part B for which ASP growth has exceeded inflation
+Section 1847A of the Social Security Act (
+42 U.S.C. 1395wâ3a
+) is amended by adding at the end the following new subsection:
+(h)
+Prescription drug rebate agreement
+(1)
+Requirement
+(A)
+In general
+Subject to subparagraphs (B) and (C), in order for payment to be made under this part for an applicable part B drug (as defined in paragraph (7)(A)) of a manufacturer furnished on or after January 1, 2020, the manufacturer shall have entered into and have in effect a rebate agreement described in paragraph (2) with the Secretary.
+(B)
+Exceptions
+This subsection shall not apply with respect to an applicable part B drug of a manufacturerâ
+(i)
+if the Secretary determines that the estimated average annual cost per user for the associated drug billing code as determined in such manner as the Secretary determines appropriate, including with respect to an applicable part B drug for which a HCPCS code has not been assigned, is less thanâ
+(I)
+for 2020, $100; and
+(II)
+for a subsequent year, the amount determined under this clause for the preceding year increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of the previous year;
+(ii)
+if the drug is included on the drug shortage list under section 506E of the Federal Food, Drug, and Cosmetic Act (
+21 U.S.C. 356e
+).
+(C)
+Establishment of procedures to avoid duplication
+The Secretary shall establish procedures to ensure that there is no duplication with respect to drug rebates provided by manufacturers with respect to applicable part B drugs under this subsection and either of the following:
+(i)
+Purchase by a covered entity of covered outpatient drugs pursuant to an agreement under section 340B of the Public Health Service Act (
+42 U.S.C. 256b
+).
+(ii)
+Drug rebates provided by manufacturers with respect to covered outpatient drugs pursuant to section 1927.
+(2)
+Rebate agreement
+A rebate agreement under this subsection shall require the manufacturer to provide to the Secretary (to be deposited in the Treasury to the credit of the Federal Supplementary Medical Insurance Trust Fund) a rebate for each rebate period (as defined in paragraph (7)(B)) ending after December 31, 2019, in an amount specified in paragraph (4) for applicable part B drugs of the manufacturer furnished after December 31, 2019, for which payment was made under this section or under a separate ambulatory classification group pursuant to section 1833(t) for such period. Such rebate shall be paid by the manufacturer not later than 30 days after the date of receipt of the information described in paragraph (3) for the period involved.
+(3)
+Secretary provision of information
+(A)
+In general
+The Secretary shall report to each manufacturer not later than 180 days after the end of each rebate period and in a form consistent with a standard reporting format established by the Secretary, information on the total number of units of each dosage form and strength and package size of each applicable part B drug of the manufacturer furnished after December 31, 2019, for which payment was made under this section or under a separate ambulatory classification group pursuant to section 1833(t) during the period.
+(B)
+Audits by manufacturer of information provided
+A manufacturer may, as determined by the Secretary, audit the information provided (or required to be provided) under subparagraph (A).
+(C)
+Audits by Secretary
+The Secretary may audit the information provided (or required to be provided) under subparagraph (A) and the determination of the billing-code level rebate amount, including the manufacturer-level billing-code level ASP and inflation-adjusted billing-code level ASP, under paragraph (4).
+(D)
+Adjustments based on audit results
+The Secretary shall make adjustments to rebates and average sales price as appropriate based on the results of an audit conducted under subparagraph (B) or (C).
+(4)
+Determination of billing-code level rebate amount
+(A)
+In general
+The amount of the rebate specified under this paragraph for a manufacturer for a rebate period, with respect to applicable part B drugs of a manufacturer assigned to a billing code, shall be equal to the product ofâ
+(i)
+the total number of units of such drugs of the manufacturer assigned to the billing code for which payment was made under this section or under a separate ambulatory classification group pursuant to section 1833(t) for the rebate period; and
+(ii)
+the amount (if any) by whichâ
+(I)
+the manufacturer-level billing-code level ASP (as defined in subparagraph (B)) for the manufacturer for the rebate period, exceeds
+(II)
+the inflation-adjusted billing-code level ASP (as defined in subparagraph (C)) for the rebate period.
+(B)
+Manufacturer-level billing-code level ASP defined
+In this subsection, the term
+manufacturer-level billing-code level ASP
+means, with respect to a manufacturer and a billing code for a rebate period, subject to subparagraph (E)(i), the weighted average sales price (per unit) across all of the National Drug Codes for a manufacturer assigned to the billing code, as determined by the Secretary, for the quarter used to establish payment rates for such Codes during the rebate period.
+(C)
+Inflation-adjusted billing-code level ASP defined
+In this subsection, the term
+inflation-adjusted billing-code level ASP
+means, with respect to a billing code and a rebate period, the product ofâ
+(i)
+subject to subparagraph (E)(ii), the average sales price for all National Drug Codes, regardless of manufacturer, assigned to the billing code, as determined by the Secretary, for the calendar quarter beginning January 1, 2017; and
+(ii)
+the percentage increase in the consumer price index for all urban consumers (United States city average) between December 2016, and the month prior to the quarter described in subparagraph (B).
+(D)
+Treatment of subsequently approved drugs
+In the case of an applicable part B drug first marketed after September 30, 2016, clause (i) of subparagraph (C) shall be applied by substituting
+the second full calendar quarter after the day on which the drug was first marketed
+for
+the calendar quarter beginning January 1, 2017
+and clause (ii) of such subparagraph shall be applied by substituting
+the month prior to the first month of the second full calendar quarter after the day on which the drug was first marketed
+for
+December 2016
+.
+(E)
+Authority to modify methodology
+(i)
+Determination of manufacturer-level billing-code level ASP
+In the case where the Secretary does not have manufacturer level data with respect to a billing code, the Secretary may request such additional data as needed, allocate total volume for all National Drug Codes, regardless of manufacturer, assigned to the billing Code as determined by the Secretary, or use an alternate methodology as necessary in order to determine the manufacturer-level billing-code level ASP under subparagraph (B).
+(ii)
+Determination of inflation-adjusted billing-code level ASP
+In the case where the Secretary does not have sufficient data with respect to the average sales price for applicable part B drugs assigned to a billing code in order to determine the inflation-adjusted billing-code level ASP for the period described in subparagraph (C)(i), including through the application of subparagraph (D) to such subparagraph (C)(i), the Secretary may modify the methodology or period as necessary for purposes of determining an inflation-adjusted billing-code level ASP for such period.
+(5)
+Submission of data
+A rebate agreement under this subsection shall require a manufacturer of an applicable part B drug to submit to the Secretary at such time, and in such manner, as the Secretary may specify such data as the Secretary determines is necessary in order to carry out this subsection.
+(6)
+Length of agreement
+The provisions of paragraph (4) of section 1927(b) (other than clauses (iv) and (v) of subparagraph (B)) shall apply to rebate agreements under this subsection in the same manner as such paragraph applies to a rebate agreement under such section.
+(7)
+Other terms and conditions
+The Secretary shall establish other terms and conditions of the rebate agreement under this subsection, including terms and conditions related to compliance, that are consistent with this subsection.
+(8)
+Definitions
+In this subsection:
+(A)
+Applicable part B drug
+The term
+applicable part B drug
+meansâ
+(i)
+a drug or biological described in section 1842(o)(1)(C) for which payment is made under this section; or
+(ii)
+a drug or biological for which the Secretary has established a separate ambulatory classification group under the prospective payment system for hospital outpatient department services under section 1833(t).
+(B)
+Rebate period
+The term
+rebate period
+means, with respect to an agreement under paragraph (2), a calendar quarter or other period specified by the Secretary with respect to the payment of rebates under such agreement.
+.
+3.
+Protection against high out-of-pocket expenditures for part B drugs
+Title XVIII of the Social Security Act (
+42 U.S.C. 1395
+et seq.) is amended by inserting after section 1847B the following new section:
+1847C.
+Protection against high out-of-pocket expenditures for part B drugs
+(a)
+In general
+Notwithstanding any other provision of this title, in the case of an individual enrolled under this part, if the amount of the out-of-pocket cost-sharing for part B drugs (as defined in subsection (b)) of such individual for a year (beginning with 2020) equals or exceeds the part B drug annual out-of-pocket threshold specified in subsection (c) for the year, section 1833(a)(1)(S) shall be applied by substituting
+100 percent
+for
+80 percent
+.
+(b)
+Out-of-Pocket Cost-Sharing for part B drugs defined
+In this section, the term
+out-of-pocket cost-sharing for part B drugs
+means, with respect to an individual, the amount of the expenses incurred by the individual that are attributable to drugs or biologicals furnished under this part.
+(c)
+Part B drug annual out-of-Pocket threshold
+(1)
+In general
+For purposes of this section, the
+part B drug annual out-of-pocket threshold
+specified in this subsectionâ
+(A)
+for 2020, is equal to the annual out-of-pocket threshold specified in section 1860Dâ2(b)(4)(B) for 2019, increased by the annual percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending in July of the 2019; and
+(B)
+for a subsequent year, is equal to the amount specified in this subsection for the previous year, increased by the annual percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending in July of the previous year.
+(2)
+Rounding
+Any amount determined under paragraph (1) that is not a multiple of $50 shall be rounded to the nearest multiple of $50.
+.

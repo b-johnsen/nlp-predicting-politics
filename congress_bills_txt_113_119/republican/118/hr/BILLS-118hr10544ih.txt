@@ -1,0 +1,131 @@
+1.
+Short title
+This Act may be cited as the
+New Frontiers in Technology Act
+.
+2.
+Treatment of covered non-fungible tokens under the securities laws
+(a)
+In general
+For purposes of the securities lawsâ
+(1)
+a covered non-fungible token is not an investment contract; and
+(2)
+an offer or sale of a covered non-fungible token is not a transaction in a security.
+(b)
+Definitions
+In this section and section 3:
+(1)
+Covered non-fungible token
+(A)
+In general
+The term
+covered non-fungible token
+means any non-fungible token which was developed primarily for personal, family, or household consumption, includingâ
+(i)
+a work of art, musical composition, literary work, or other intellectual property;
+(ii)
+a collectible, merchandise, virtual land, or video game asset;
+(iii)
+a digital identifier or other certificate or credential;
+(iv)
+an affinity, reward, or loyalty point; or
+(v)
+a right, license, membership, or ticket.
+(B)
+Exclusion
+The term
+covered non-fungible token
+does not include a non-fungible token that is marketed by an issuer or promoterâ
+(i)
+primarily as an investment opportunity; or
+(ii)
+that promises future actions or a series of actions designed explicitly and for the purpose of increasing the value of the covered non-fungible token.
+(2)
+Non-fungible token
+(A)
+In general
+The term
+non-fungible token
+means any assetâ
+(i)
+which is of such uniqueness or limited production that it can be independently assessed or identified;
+(ii)
+which is represented by a unique digital identifier;
+(iii)
+the record of ownership of which is recorded on a cryptographically secured public distributed ledger;
+(iv)
+whichâ
+(I)
+is a digital equivalent of a tangible or intangible good; or
+(II)
+has some other inherent function beyond the fact that the record of ownership of the asset is recorded on a cryptographically secure public distributed ledger; and
+(v)
+the record of which can be exclusively possessed and transferred, person to person, without necessary reliance on an intermediary.
+(B)
+Exclusions
+The term
+non-fungible token
+does not includeâ
+(i)
+any note, stock, treasury stock, security future, security-based swap, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, put, call, straddle, option, privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof); or
+(ii)
+any asset which, based on its terms and other characteristics, is, represents, or is functionally equivalent to an agreement, contract, or transaction that isâ
+(I)
+a contract of sale of a commodity (as defined under section 1a of the Commodity Exchange Act) for future delivery or an option thereon;
+(II)
+a security futures product;
+(III)
+a swap;
+(IV)
+an agreement, contract, or transaction described in section 2(c)(2)(C)(i) or 2(c)(2)(D)(i) of the Commodity Exchange Act;
+(V)
+a commodity option authorized under section 4c of the Commodity Exchange Act; or
+(VI)
+a leverage transaction authorized under section 19 of the Commodity Exchange Act.
+(C)
+Rule of construction
+Nothing in this subsection may be construed to create a presumption that a non-fungible token is a representation of any type of security not excluded from the definition under subparagraph (B).
+(3)
+Securities laws
+The term
+securities laws
+has the meaning given that term in section 3(a) of the Securities Exchange Act of 1934.
+3.
+Study on non-fungible tokens
+(a)
+In general
+The Comptroller General of the United States shall carry out a study of non-fungible tokens that analyzesâ
+(1)
+the nature, size, role, purpose, and use of non-fungible tokens;
+(2)
+the similarities and differences between non-fungible tokens and other digital assets, including payment stablecoins, and how the markets for those digital assets intersect with each other;
+(3)
+how non-fungible tokens are minted by issuers and subsequently administered to purchasers;
+(4)
+how non-fungible tokens are stored after being purchased by a consumer;
+(5)
+the interoperability of non-fungible tokens between different blockchain systems;
+(6)
+the scalability of different non-fungible token marketplaces;
+(7)
+the benefits of non-fungible tokens, including verifiable digital ownership;
+(8)
+the risks of non-fungible tokens, includingâ
+(A)
+intellectual property rights;
+(B)
+cybersecurity risks; and
+(C)
+market risks;
+(9)
+whether and how non-fungible tokens have integrated with traditional marketplaces, including those for music, real estate, gaming, events, and travel;
+(10)
+whether non-fungible tokens can be used to facilitate commerce or other activities through the representation of documents, identification, contracts, licenses, and other commercial, government, or personal records;
+(11)
+any potential risks to traditional markets from such integration; and
+(12)
+the levels and types of illicit activity in non-fungible token markets.
+(b)
+Report
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall make publicly available a report that includes the results of the study required by subsection (a).

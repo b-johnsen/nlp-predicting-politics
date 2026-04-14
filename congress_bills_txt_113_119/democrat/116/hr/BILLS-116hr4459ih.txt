@@ -1,0 +1,388 @@
+1.
+Short title
+This Act may be cited as the
+Secure and Trusted Communications Networks Act of 2019
+.
+2.
+Determination of communications equipment or services posing national security risks
+(a)
+Publication of covered communications equipment or services list
+Not later than 1 year after the date of the enactment of this Act, the Commission shall publish on its website a list of covered communications equipment or services.
+(b)
+Determination by Commission
+The Commission shall place on the list published under subsection (a) any communications equipment or service, if and only if the Commission determines that such equipment or serviceâ
+(1)
+is produced or provided byâ
+(A)
+Huawei Technologies Co. Limited, Zhongxing Telecommunications Equipment Corporation, or any subsidiary or affiliate of either such entity;
+(B)
+any successor to any entity described in subparagraph (A); or
+(C)
+any other entity, if the Commission determines, based exclusively on the determinations described in paragraphs (1) through (4) of subsection (c), that such equipment or service produced or provided by such entity poses an unacceptable risk to the national security of the United States or the security and safety of United States persons; and
+(2)
+is capable ofâ
+(A)
+routing or redirecting user data traffic or permitting visibility into any user data or packets that such equipment or service transmits or otherwise handles; or
+(B)
+causing the network of a provider of advanced communications service to be disrupted remotely.
+(c)
+Reliance on certain other determinations
+In making a determination under subsection (b)(1)(C), the Commission shall rely solely on one or more of the following determinations:
+(1)
+A specific determination made by any executive branch interagency body with appropriate national security expertise, including the Federal Acquisition Security Council established under section 1322(a) of title 41, United States Code.
+(2)
+A specific determination made by the Bureau of Industry and Security of the Department of Commerce to place an entity on the entity list maintained by the Bureau and set forth in Supplement No. 4 to part 744 of the Export Administration Regulations (subchapter C of chapter VII of title 15, Code of Federal Regulations).
+(3)
+A specific determination made pursuant to Executive Order 13873 (84 Fed. Reg. 22689; relating to securing the information and communications technology and services supply chain), including any determination made by the Department of Commerce pursuant to regulations promulgated to implement such Executive order.
+(4)
+The communications equipment or service being covered telecommunications equipment or services, as defined in section 889(f)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (
+Public Law 115â232
+; 132 Stat. 1918).
+(d)
+Updating of list
+The Commission shall periodically update the list published under subsection (a), as necessary to protect national security and to address changes in the determinations described in paragraphs (1) through (4) of subsection (c). For each 12-month period during which the list is not updated, the Commission shall notify the public that no updates were necessary during such period to protect national security or to address changes in such determinations.
+3.
+Prohibition on use of Federal funds
+(a)
+In general
+(1)
+Prohibition
+Federal funds may not be used to purchase, rent, lease, or otherwise obtain any covered communications equipment or service or to maintain any covered communications equipment or service previously purchased, rented, leased, or otherwise obtained.
+(2)
+Timing
+Paragraph (1) shall apply with respect to any covered communications equipment or service beginning on the date that is 60 days after the date on which the Commission places such equipment or service on the list required by section 2(a). In the case of any covered communications equipment or service that is on the initial list published under such section, such equipment or service shall be treated as being placed on the list on the date on which such list is published.
+(b)
+Completion of proceeding
+Not later than 90 days after the date of the enactment of this Act, the Commission shall adopt a Report and Order in the matter of Protecting Against National Security Threats to the Communications Supply Chain Through FCC Programs (WC Docket No. 18â89) that implements subsection (a), to the extent such subsection applies to a program administered by the Commission.
+(c)
+Application to other agencies
+Not later than 180 days after the date of the enactment of this Act, the head of each Federal agency that administers a program through which Federal funds are made available shall update the regulations for the program to comply with subsection (a).
+4.
+Secure and Trusted Communications Networks Reimbursement Program
+(a)
+In general
+The Commission shall establish a reimbursement program, to be known as the
+Secure and Trusted Communications Networks Reimbursement Program
+, to make reimbursements to providers of advanced communications service to replace covered communications equipment or services.
+(b)
+Eligibility
+The Commission may not make a reimbursement under the Program to a provider of advanced communications service unless the providerâ
+(1)
+has 2,000,000 or fewer customers; and
+(2)
+makes all of the certifications required by subsection (d)(5).
+(c)
+Use of funds
+(1)
+In general
+A recipient of a reimbursement under the Program shall use reimbursement funds solely for the purposes ofâ
+(A)
+permanently removing covered communications equipment or services purchased, rented, leased, or otherwise obtained before August 14, 2018, and replacing such equipment or services with communications equipment or services that are not covered communications equipment or services; and
+(B)
+disposing of the equipment or services removed as described in subparagraph (A) in accordance with the requirements under subsection (d)(8).
+(2)
+Limitations
+A recipient of a reimbursement under the Program may not use reimbursement funds toâ
+(A)
+remove, replace, or dispose of any covered communications equipment or service purchased, rented, leased, or otherwise obtained on or after August 14, 2018;
+(B)
+purchase, rent, lease, or otherwise obtain any covered communications equipment or service, using reimbursement funds or any other funds (including funds derived from private sources); or
+(C)
+make network upgrades that go beyond the replacement of covered communications equipment or services, as determined by the Commission.
+(d)
+Implementation
+(1)
+Regulations
+Not later than 270 days after the date of the enactment of this Act, the Commission shall promulgate regulations to implement the Program.
+(2)
+Suggested replacements
+(A)
+Development of list
+The Commission shall develop a list of suggested replacements of both physical and virtual communications equipment, application and management software, and services.
+(B)
+Neutrality
+The list developed under subparagraph (A) shall be technology neutral and may not advantage the use of reimbursement funds for capital expenditures over operational expenditures, to the extent that the Commission determines that communications services can serve as an adequate substitute for the installation of communications equipment.
+(3)
+Application process
+(A)
+In general
+The Commission shall develop an application process and related forms and materials for the Program.
+(B)
+Cost estimate
+(i)
+Initial estimate
+The Commission shall require an applicant to provide an initial reimbursement cost estimate at the time of application, with supporting materials substantiating the costs.
+(ii)
+Updates
+During and after the application review process, the Commission may require an applicant toâ
+(I)
+update the initial reimbursement cost estimate submitted under clause (i); and
+(II)
+submit additional supporting materials substantiating an updated cost estimate submitted under subclause (I).
+(C)
+Mitigation of burden
+In developing the application process under this paragraph, the Commission shall take reasonable steps to mitigate the administrative burdens and costs associated with the application process, while taking into account the need to avoid waste, fraud, and abuse in the Program.
+(4)
+Application review process
+(A)
+Deadline
+(i)
+In general
+Except as provided in clause (ii) and subparagraph (B), the Commission shall approve or deny an application for a reimbursement under the Program not later than 90 days after the date of the submission of the application.
+(ii)
+Additional time needed by Commission
+If the Commission determines that, because an excessive number of applications have been filed at one time, the Commission needs additional time for employees of the Commission to process the applications, the Commission may extend the deadline described in clause (i) for not more than 45 days.
+(B)
+Opportunity for applicant to cure deficiency
+If the Commission determines that an application is materially deficient (including by lacking an adequate cost estimate or adequate supporting materials), the Commission shall provide the applicant a 15-day period to cure the defect before denying the application. If such period would extend beyond the deadline under subparagraph (A) for approving or denying the application, such deadline shall be extended through the end of such period.
+(C)
+Effect of denial
+Denial of an application for a reimbursement under the Program shall not preclude the applicant from resubmitting the application or submitting a new application for a reimbursement under the Program at a later date.
+(5)
+Certifications
+An applicant for a reimbursement under the Program shall, in the application of such applicant, certify to the Commission thatâ
+(A)
+beginning on the date of the submission of the application, the applicant will not purchase, rent, lease, or otherwise obtain covered communications equipment or services, using reimbursement funds or any other funds (including funds derived from private sources); and
+(B)
+as of the date of the submission of the application, the applicantâ
+(i)
+has developed a plan forâ
+(I)
+the permanent removal and replacement of any covered communications equipment or services that are in the communications network of the applicant as of such date; and
+(II)
+the disposal of the equipment or services removed as described in subclause (I) in accordance with the requirements under paragraph (8);
+(ii)
+has developed a specific timeline (subject to paragraph (7)) for the permanent removal, replacement, and disposal of the covered communications equipment or services identified under clause (i), which timeline shall be submitted to the Commission as part of the application;
+(iii)
+has taken, or will immediately take, all necessary steps to mitigate the security threat the covered communications equipment or services identified under clause (i) could pose to the network of the applicant until the equipment or services can be permanently removed and replaced in accordance with the timeline described in clause (ii); and
+(iv)
+in developing and tailoring the risk management practices of such applicant, will consult and consider the standards, guidelines, and best practices set forth in the cybersecurity framework developed by the National Institute of Standards and Technology.
+(6)
+Distribution of reimbursement funds
+(A)
+In general
+The Commission shall make reasonable efforts to ensure that reimbursement funds are distributed as equitably as possible among all applicants for reimbursements under the Program according to the needs of the applicants, as identified by the applications of the applicants.
+(B)
+Notification
+If, at any time during the implementation of the Program, the Commission determines that the funds made available to the Commission to carry out the Program will not be sufficient to fully fund all approved applications for reimbursements under the Program, the Commission shall immediately notifyâ
+(i)
+the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives; and
+(ii)
+the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate.
+(7)
+Removal, replacement, and disposal term
+(A)
+Deadline
+The permanent removal, replacement, and disposal of any covered communications equipment or services identified under paragraph (5)(B)(i) shall be completed not later than 1 year after the date on which the Commission approves the application.
+(B)
+General extension
+The Commission may grant an extension of the deadline described in subparagraph (A) for 6 months to all recipients of reimbursements under the Program if the Commissionâ
+(i)
+finds that the supply of replacement communications equipment or services needed by the recipients to achieve the purposes of the Program is inadequate to meet the needs of the recipients; and
+(ii)
+provides notice and a detailed justification for granting the extension toâ
+(I)
+the Committee on Energy and Commerce of the House of Representatives; and
+(II)
+the Committee on Commerce, Science, and Transportation of the Senate.
+(C)
+Individual extension
+(i)
+Petition
+A recipient of a reimbursement under the Program may petition the Commission for an extension for such recipient of the deadline described in subparagraph (A) or, if the Commission has granted an extension of such deadline under subparagraph (B), such deadline as so extended.
+(ii)
+Grant
+The Commission may grant a petition filed under clause (i) by extending, for the recipient that filed the petition, the deadline described in subparagraph (A) or, if the Commission has granted an extension of such deadline under subparagraph (B), such deadline as so extended, for a period of not more than 6 months if the Commission finds that, due to no fault of such recipient, such recipient is unable to complete the permanent removal, replacement, and disposal described in subparagraph (A).
+(8)
+Disposal of covered communications equipment or services
+The Commission shall include in the regulations promulgated under paragraph (1) requirements for the disposal by a recipient of a reimbursement under the Program of covered communications equipment or services identified under paragraph (5)(B)(i) and removed from the network of the recipient in order to prevent such equipment or services from being used in the networks of providers of advanced communications service.
+(9)
+Status updates
+(A)
+In general
+Not less frequently than once every 90 days beginning on the date on which the Commission approves an application for a reimbursement under the Program, the recipient of the reimbursement shall submit to the Commission a status update on the work of the recipient to permanently remove, replace, and dispose of the covered communications equipment or services identified under paragraph (5)(B)(i).
+(B)
+Public posting
+The Commission shall make public on the website of the Commission each status update submitted under subparagraph (A).
+(C)
+Reports to Congress
+Not less frequently than once every 180 days beginning on the date on which the Commission first makes funds available to a recipient of a reimbursement under the Program, the Commission shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report onâ
+(i)
+the implementation of the Program by the Commission; and
+(ii)
+the work by recipients of reimbursements under the Program to permanently remove, replace, and dispose of covered communications equipment or services identified under paragraph (5)(B)(i).
+(e)
+Measures To avoid waste, fraud, and abuse
+(1)
+In general
+The Commission shall take all necessary steps to avoid waste, fraud, and abuse with respect to the Program.
+(2)
+Spending reports
+The Commission shall require recipients of reimbursements under the Program to submit to the Commission on a regular basis reports regarding how reimbursement funds have been spent, including detailed accounting of the covered communications equipment or services permanently removed and disposed of, and the replacement equipment or services purchased, rented, leased, or otherwise obtained, using reimbursement funds.
+(3)
+Audits, reviews, and field investigations
+The Commission shall conductâ
+(A)
+regular audits and reviews of reimbursements under the Program to confirm that recipients of such reimbursements are complying with this Act; and
+(B)
+random field investigations to ensure that recipients of reimbursements under the Program are performing the work such recipients are required to perform under the commitments made in the applications of such recipients for reimbursements under the Program, including the permanent removal, replacement, and disposal of the covered communications equipment or services identified under subsection (d)(5)(B)(i).
+(4)
+Final certification
+(A)
+In general
+The Commission shall require a recipient of a reimbursement under the Program to submit to the Commission, in a form and at an appropriate time to be determined by the Commission, a certification stating that the recipientâ
+(i)
+has fully complied with (or is in the process of complying with) all terms and conditions of the Program;
+(ii)
+has fully complied with (or is in the process of complying with) the commitments made in the application of the recipient for the reimbursement;
+(iii)
+has permanently removed from the communications network of the recipient, replaced, and disposed of (or is in the process of permanently removing, replacing, and disposing of) all covered communications equipment or services that were in the network of the recipient as of the date of the submission of the application of the recipient for the reimbursement; and
+(iv)
+has fully complied with (or is in the process of complying with) the timeline submitted by the recipient under subparagraph (B)(ii) of paragraph (5) of subsection (d) and the other requirements of such paragraph.
+(B)
+Updated certification
+If, at the time when a recipient of a reimbursement under the Program submits a certification under subparagraph (A), the recipient has not fully complied as described in clause (i), (ii), or (iv) of such subparagraph or has not completed the permanent removal, replacement, and disposal described in clause (iii) of such subparagraph, the Commission shall require the recipient to file an updated certification when the recipient has fully complied as described in such clause (i), (ii), or (iv) or completed such permanent removal, replacement, and disposal.
+(f)
+Rule of construction regarding timing of reimbursement
+Nothing in this section shall be construed to prohibit the Commission from making a reimbursement under the Program to a provider of advanced communications service before the provider incurs the cost of the permanent removal, replacement, and disposal of the covered communications equipment or service for which the application of the provider has been approved under this section.
+(g)
+Education efforts
+The Commission shall engage in education efforts with providers of advanced communications service toâ
+(1)
+encourage such providers to participate in the Program; and
+(2)
+assist such providers in submitting applications for the Program.
+(h)
+Separate from Federal universal service programs
+The Program shall be separate from any Federal universal service program established under section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+).
+(i)
+Authorization of Appropriations
+There is authorized to be appropriated to the Commission $1,000,000,000 for fiscal year 2020 to carry out the Program. Such amount is authorized to remain available through fiscal year 2029.
+5.
+Hold harmless
+In the case of a person who is a winner of the Connect America Fund Phase II auction, has not yet been authorized to receive Connect America Fund Phase II support, and demonstrates an inability to reasonably meet the build-out and service obligations of such person under Connect America Fund Phase II without using equipment or services prohibited under this Act, such person may withdraw the application of such person for Connect America Fund Phase II support without being found in default or subject to forfeiture.
+6.
+Enforcement
+(a)
+Violations
+A violation of this Act or a regulation promulgated under this Act shall be treated as a violation of the Communications Act of 1934 (
+47 U.S.C. 151
+et seq.) or a regulation promulgated under such Act, respectively. The Commission shall enforce this Act and the regulations promulgated under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Communications Act of 1934 were incorporated into and made a part of this Act.
+(b)
+Additional penalties
+(1)
+In general
+Except as provided in paragraph (2), in addition to penalties under the Communications Act of 1934, a recipient of a reimbursement under the Program found to have violated section 4, the regulations promulgated under such section, or the commitments made by the recipient in the application for the reimbursementâ
+(A)
+shall repay to the Commission all reimbursement funds provided to the recipient under the Program;
+(B)
+shall be barred from further participation in the Program;
+(C)
+shall be referred to all appropriate law enforcement agencies or officials for further action under applicable criminal and civil laws; and
+(D)
+may be barred by the Commission from participation in other programs of the Commission, including the Federal universal service support programs established under section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+).
+(2)
+Notice and opportunity to cure
+The penalties described in paragraph (1) shall not apply to a recipient of a reimbursement under the Program unlessâ
+(A)
+the Commission provides the recipient with notice of the violation; and
+(B)
+the recipient fails to cure the violation within 180 days after the Commission provides such notice.
+(c)
+Recovery of funds
+The Commission shall immediately take action to recover all reimbursement funds awarded to a recipient of a reimbursement under the Program in any case in which such recipient is required to repay reimbursement funds under subsection (b)(1)(A).
+7.
+Definitions
+In this Act:
+(1)
+Advanced communications service
+The term
+advanced communications service
+has the meaning given the term
+advanced telecommunications capability
+in section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+).
+(2)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(3)
+Covered communications equipment or service
+The term
+covered communications equipment or service
+means any communications equipment or service that is on the list published by the Commission under section 2(a).
+(4)
+Customers
+The term
+customers
+means, with respect to a provider of advanced communications serviceâ
+(A)
+the customers of such provider; and
+(B)
+the customers of any affiliate (as defined in section 3 of the Communications Act of 1934 (
+47 U.S.C. 153
+)) of such provider.
+(5)
+Executive branch interagency body
+The term
+executive branch interagency body
+means an interagency body established in the executive branch.
+(6)
+Federal agency
+The term
+Federal agency
+has the meaning given the term
+agency
+in section 551 of title 5, United States Code.
+(7)
+Federal funds
+The term
+Federal funds
+meansâ
+(A)
+funds from a Federal universal service support program established under section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+);
+(B)
+any other Federal grants, subsidies, or loans to support the deployment of communications networks in the United States; and
+(C)
+any private loansâ
+(i)
+the purpose of which is to support the deployment of communications networks in the United States; and
+(ii)
+that areâ
+(I)
+obtained using a loan guarantee from the Federal Government; or
+(II)
+secured in whole or in part by other funds from the Federal Government.
+(8)
+Person
+The term
+person
+means an individual or entity.
+(9)
+Program
+The term
+Program
+means the Secure and Trusted Communications Networks Reimbursement Program established under section 4(a).
+(10)
+Provider of advanced communications service
+The term
+provider of advanced communications service
+means a person who provides advanced communications service to United States customers.
+(11)
+Recipient
+The term
+recipient
+means any provider of advanced communications service the application of which for a reimbursement under the Program has been approved by the Commission, regardless of whether the provider has received reimbursement funds.
+(12)
+Reimbursement funds
+The term
+reimbursement funds
+means any reimbursement received under the Program.

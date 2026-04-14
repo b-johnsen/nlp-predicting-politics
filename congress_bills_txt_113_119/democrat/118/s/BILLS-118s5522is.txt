@@ -1,0 +1,416 @@
+1.
+Short title
+This Act may be cited as the
+Generating Resilient and Energy Efficient Network Communications Act
+or the
+GREEN Communications Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(2)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(3)
+Communications infrastructure
+The term
+communications infrastructure
+means any equipment, tower, support structure, facility, product, or technology that is essential to the operation of a communications network.
+(4)
+Communications network
+The term
+communications network
+meansâ
+(A)
+a broadband network;
+(B)
+a cellular network;
+(C)
+a telephone network;
+(D)
+a cable system;
+(E)
+a network that is primarily used for public safety or first responder communications; or
+(F)
+a network that provides any other communications or telecommunications service.
+(5)
+Communications network outage
+The term
+communications network outage
+means an outage with respect to a communications network that results in the disruption of services provided by the communications network.
+(6)
+Covered efficiency project
+The term
+covered efficiency project
+means, with respect to action taken by an eligible entityâ
+(A)
+the purchase or upgrading of equipment or technology, including an electrical or thermal monitoring system, that is demonstrated to increase the energy efficiency of communications infrastructure;
+(B)
+the installation or upgrading of permanent solar panels, wind turbines, combined heat and power technology, or other renewable energy generators that are used in communications infrastructure, or at a data center, provided, operated, or owned by the eligible entity;
+(C)
+entering into a partnership with an energy utility company to purchase land for renewable energy infrastructure, or to construct renewable energy infrastructure, that will be used to power a data center, an internet exchange point, or communications infrastructure provided, operated, or owned by the eligible entity;
+(D)
+the reduction of water consumption for cooling a data center, or operating other communications infrastructure, provided, operated, or owned by the eligible entity, in an area that is likely to experience drought;
+(E)
+the study of ways to make a communications network provided, operated, or owned by the eligible entity, or communications infrastructure provided, operated, or owned by the eligible entity, more energy and resource efficient;
+(F)
+the study, including through pilot projects, of green technologies to make a communications network provided, operated, or owned by the eligible entity more energy and resource efficient; or
+(G)
+any other type of project carried out by the eligible entity that the Assistant Secretary determines will promote the adoption of energy efficient, renewable energy, and carbon-neutral technologies and practices with respect to communications networks, or communications infrastructure, provided, operated, or owned by the eligible entity.
+(7)
+Covered resiliency project
+The term
+covered resiliency project
+means, with respect to action taken by an eligible entityâ
+(A)
+the construction of communications infrastructure to be provided, operated, or owned by the eligible entity in a location that is not vulnerable to projected severe effects with respect to extreme weather, natural disasters, or climate change-related events, including sea-level rise, flooding, and increased risk of wildfire;
+(B)
+the relocation of communications infrastructure provided, operated, or owned by the eligible entity to a location that is less vulnerable to projected severe effects with respect to extreme weather, natural disasters, or climate change-related events, including sea-level rise, flooding, and increased risk of wildfire;
+(C)
+the reinforcement, hardening, or replacement of communications infrastructure provided, operated, or owned by the eligible entity in a location that is increasingly vulnerable to projected severe effects with respect to extreme weather, natural disasters, or climate change-related events, including sea-level rise, flooding, and increased risk of wildfire;
+(D)
+the construction of a fortification, such as a sea wall or embankment, or the development of green infrastructure solutions, such as wetlands or drainage ponds, to protect communications infrastructure provided, operated, or owned by the eligible entity from projected severe effects with respect to extreme weather, natural disasters, or climate change-related events, including sea-level rise, flooding, and increased risk of wildfire;
+(E)
+the undertaking of research with respect to communications infrastructure provided, operated, or owned by the eligible entity to identify vulnerabilities of that infrastructure to climate change based on the best available data, analysis, and projections regarding that change, including sea-level rise projections, 100-year floodplain maps, and heat and temperature projections;
+(F)
+the undertaking of research (using the best available data, analysis and projections regarding tectonic science and structural engineering) with respect to communications infrastructure provided, operated, or owned by the eligible entity to identify vulnerabilities, or the susceptibility, of that communications infrastructure to damage caused by natural disasters;
+(G)
+the purchase of renewable energy or low-emission backup generators, fuel cells, or batteries to maximize the likelihood that communications infrastructure provided, operated, or owned by the eligible entity can continue operating in the event of an electrical system outage, without regard to whether the eligible entity is required to provide such backup power with respect to that communications infrastructure;
+(H)
+the purchase of cooling equipment or insulation, or the development of green infrastructure, to protect communications infrastructure provided, operated, or owned by the eligible entity from extreme heat events;
+(I)
+the piloting of technologies to make a communications network provided, operated, or owned by the eligible entity more resilient through energy efficient and low carbon emission measures;
+(J)
+in order to facilitate faster detection of, or response to, a communications network outage with respect to a communications network provided, operated, or owned by the eligible entityâ
+(i)
+the training of employees of the eligible entity relating to such a detection or response;
+(ii)
+the conducting of communications network outage tests or simulations;
+(iii)
+the participation in communications network outage tests or simulations, including those administered by local, State, or Federal governmental entities; or
+(iv)
+the purchase of equipment or technology relating to such a detection or response, including communications infrastructure (including deployable communications infrastructure) that can expedite the restoration of communications or telecommunications services after such a communications network outage;
+(K)
+the undertaking of research to develop technologies that can expedite the restoration of communications or telecommunications services after an outage with respect to communications infrastructure provided, operated, or owned by the eligible entity;
+(L)
+the construction, purchase, relocation, reinforcement, or replacement of communications infrastructure provided, operated, or owned by the eligible entity in order to minimize the risk of a communications network outage caused by an affirmative power shut-off by a utility; or
+(M)
+any other type of project carried out by the eligible entity that the Assistant Secretary determines will increase the resiliency of a communications network or communications infrastructure provided, operated, or owned by the eligible entity with respect toâ
+(i)
+severe weather;
+(ii)
+natural disasters; and
+(iii)
+climate change-related events, including extreme weather events, droughts, coastal and inland flooding, sea level rise, increased storm surge, wildfires, mudslides, and extreme temperatures.
+(8)
+Data center
+The term
+data center
+means a centralized location at which computing and networking equipment is concentrated for the purpose of collecting, storing, processing, distributing, or allowing access to large amounts of electronic data.
+(9)
+Eligible entity
+The term
+eligible entity
+means any private or public entity, including a State, local, or Tribal government, that provides, operates, or owns a communications network or communications infrastructure.
+(10)
+Natural disaster
+The term
+natural disaster
+includes a natural event that is not related to climate change, including an earthquake, a tornado, a hurricane, a volcanic eruption, a solar flare, a geomagnetic disturbance, and an electromagnetic pulse.
+(11)
+NTIA
+The term
+NTIA
+means the National Telecommunications and Information Administration.
+3.
+Financial assistance for communications network resiliency and energy efficiency
+(a)
+In general
+(1)
+Establishment
+Not later than 1 year after the date of enactment of this Act, the Assistant Secretary shall establish a program in the NTIA (referred to in this section as the
+Program
+) through which the Assistant Secretary, subject to the other provisions of this section, shall competitively award grants and revolving loans to eligible entities to carry out covered efficiency projects and covered resiliency projects.
+(2)
+Preliminary rulemaking
+Before accepting applications for a grant or a revolving loan under the Program, the Assistant Secretary shall, under section 553 of title 5, United States Code, and after consultation with eligible entities and the Secretary of Homeland Security, conduct a rulemaking to develop a process forâ
+(A)
+identifying proprietary and confidential information contained in such an application; and
+(B)
+handling and protecting information described in subparagraph (A).
+(b)
+Application process
+(1)
+In general
+Subject to paragraph (2), an eligible entity seeking a grant or a revolving loan under the Program shall submit to the Assistant Secretary an application at such time, in such manner, and containing such information as the Assistant Secretary may require.
+(2)
+Minimum requirements
+An application submitted by an eligible entity under paragraph (1) shall contain, at a minimum, and to the extent applicableâ
+(A)
+with respect to a covered efficiency projectâ
+(i)
+an overview of the energy sourcing of the communications infrastructure or other equipment that is the subject of the project; and
+(ii)
+a description of how the grant or revolving loan sought by the eligible entity will improve the energy or resource efficiency of the communications infrastructure or other equipment that is the subject of the project; and
+(B)
+with respect to a covered resiliency projectâ
+(i)
+a description of the current, as of the date on which the application is submitted, resiliency efforts of the eligible entity with respect to the communications infrastructure or communications network that is the subject of the project;
+(ii)
+a description of the specific vulnerability of, or threat of disruption to, the communications infrastructure or communications network that is the subject of the project;
+(iii)
+a description of how the grant or revolving loan sought by the eligible entity will improve the resiliency of the communications infrastructure or communications network that is the subject of the project;
+(iv)
+a statement that the project meets all applicable local, State, Tribal, and Federal zoning and environmental requirements; and
+(v)
+a description of how the project will integrate with local or regional strategic planning efforts, if applicable.
+(c)
+Funding prioritization
+In selecting projects for which funding will be provided under the Program, the Assistant Secretary shall give priority toâ
+(1)
+covered efficiency projects thatâ
+(A)
+will be carried out in, or primarily benefit, areas in whichâ
+(i)
+the median household income is below 150 percent of the Federal poverty level; or
+(ii)
+a majority of the residents are members of a racial or ethnic minority group;
+(B)
+have the greatest demonstrated impact on energy efficiency; or
+(C)
+demonstrate the greatest overall projected reductions in greenhouse gas emissions; and
+(2)
+covered resiliency projects thatâ
+(A)
+will be carried out in, or primarily benefit, areasâ
+(i)
+in which the median household income is below 150 percent of the Federal poverty level;
+(ii)
+in which a majority of the residents are members of a racial or ethnic minority group;
+(iii)
+in which rural features or sparse populations limit other investments with respect to the resiliency of communications networks; or
+(iv)
+that are highly vulnerable to events relating to severe weather, natural disasters, or climate change-related events, as determined by the Assistant Secretary afterâ
+(I)
+consulting with the Administrators of the Federal Emergency Management Agency, the National Oceanic and Atmospheric Administration, and the Environmental Protection Agency, using the best data available to those officials; and
+(II)
+obtaining input from operators of communications networks regarding the types of events that are most or least impactful to those communications networks; or
+(B)
+utilize green infrastructure or renewable energy solutions, including by piloting new green solutions that will affirmatively increase the resiliency of communications infrastructure or communications networks provided, operated, or owned by the eligible entity.
+(d)
+Conditions on financial assistance
+(1)
+Covered efficiency project
+An eligible entity to which funding is made available under the Program with respect to a covered efficiency project shall, to the extent applicableâ
+(A)
+not later than 1 year after the date on which the eligible entity receives the funding, and annually thereafter until the completion of the covered efficiency project, submit to the Assistant Secretary a report that describes, for the year covered by the report, the electrical consumption, by source, of the communications infrastructure or other property that is the subject of the project, which shall identify the percentage of that consumption that comes from fossil fuels and from renewable energy sources; and
+(B)
+complete a clean energy reviewâ
+(i)
+the components of which shall be established by the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agencyâ
+(I)
+through rulemaking under section 553 of title 5, United States Code; and
+(II)
+after developing a process, in consultation with eligible entities, forâ
+(aa)
+identifying proprietary and confidential information contained in such a review; and
+(bb)
+handling and protecting information described in item (aa); and
+(ii)
+which shall includeâ
+(I)
+the energy consumption patterns of the eligible entity; and
+(II)
+the steps taken by the eligible entity, or the steps that the eligible entity will take, to achieve a goal of net-zero carbon emissions with respect to the communications infrastructure, and communications networks, provided, operated, or owned by the eligible entity.
+(2)
+Covered resiliency project
+An eligible entity to which funding is made available under the Program with respect to a covered resiliency project shall, to the extent applicableâ
+(A)
+beginning not later than 60 days after the date on which the eligible entity receives the funding, participate in the Disaster Information Reporting System operated by the Commission, including by subsequently reporting, during times of emergency, the operational status of communications infrastructure operated by the eligible entity;
+(B)
+not later than 1 year after the date on which the eligible entity receives the funding, and annually thereafter until the completion of the covered resiliency project, submit to the Commission a report that, to the extent applicable, contains, with respect to communications infrastructure provided, operated, or owned by the eligible entityâ
+(i)
+the number, duration, and frequency of communications network outages experienced as a result of an outage with respect to, or other failure of, that infrastructure within a certain time period, as determined by the Commission;
+(ii)
+the specific cause of each communications network outage described in clause (i);
+(iii)
+the number of consumers affected by each communications network outage described in clause (i);
+(iv)
+the extent to which first responders were affected by each communications network outage described in clause (i);
+(v)
+the total number of communications network outages annually experienced with respect to that infrastructure that are attributable to severe weather, natural disasters, and climate change-related events and the number of consumers affected by those outages;
+(vi)
+the extent of any reduction of communications network performance caused by a communications network outage with respect to that infrastructure;
+(vii)
+the amount of time between the start of each communications network outage with respect to that infrastructure and detection of the outage;
+(viii)
+the amount of time between the detection of each communications network outage with respect to that infrastructure and the initiation of any response to mitigate the effects of the outage;
+(ix)
+the amount of time required to fully restore services after a communications network outage with respect to that infrastructure; and
+(x)
+any other information that the Commission determines is necessary to achieve the objectives described in section 4(a)(2); and
+(C)
+complete a communications resiliency reviewâ
+(i)
+the components of which shall be established by the Commission, in consultation with the Assistant Secretaryâ
+(I)
+through rulemaking under section 553 of title 5, United States Code; and
+(II)
+after developing a process, in consultation with eligible entities, forâ
+(aa)
+identifying proprietary and confidential information contained in such a review; and
+(bb)
+handling and protecting information described in item (aa); and
+(ii)
+which shall include, to the extent applicableâ
+(I)
+the analysis of the eligible entity with respect to the vulnerabilities of communications infrastructure provided, operated, or owned by the eligible entity with respect to severe weather, natural disasters, and climate change-related events;
+(II)
+a description of steps taken by the eligible entity, or steps that the eligible entity will take, to address the vulnerabilities described in subclause (I); and
+(III)
+the number of projected potential users of the communications network or communications infrastructure provided, operated, or owned by the eligible entity that may be affected by the vulnerabilities described in subclause (I).
+(e)
+Consultation with relevant agencies
+In establishing and carrying out the Program, the Assistant Secretary may consult and coordinate, as needed, with the Commission, the Secretary of Commerce, the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Administrator of the Federal Emergency Management Agency, and the head of any other Federal agency with relevant subject matter expertise.
+(f)
+Authorization of appropriations; minimum expenditures
+(1)
+In general
+There are authorized to be appropriated to the Assistant Secretary $5,000,000,000 to carry out the Program, which shall remain available until expended.
+(2)
+Minimum expenditures; administrative costs
+Of the amounts made available to carry out the Program, the Assistant Secretary shallâ
+(A)
+use not less than 25 percent to provide assistance to eligible entities to carry out covered efficiency projects;
+(B)
+use not less than 25 percent to provide assistance to eligible entities to carry out covered resiliency projects; and
+(C)
+set aside not more than 2 percent to cover costs relating to administration, research, training, and staff, includingâ
+(i)
+the detailing of employees from other Federal agencies; and
+(ii)
+the appointment of experts in the fields of infrastructure resiliency, climate science, clean energy, and energy efficiency.
+4.
+Regulatory framework
+(a)
+Communications network resiliency framework
+(1)
+Establishment
+The Commission, in consultation with the Assistant Secretary, the Administrator of the Federal Emergency Management Agency, and the Director of the National Institute of Standards and Technology, shall issue rules under section 553 of title 5, United States Code, to establish a communications network resiliency framework to promote resiliency with respect to communications networks and communications infrastructure.
+(2)
+Objectives
+The objectives of the framework established under paragraph (1) shall be the following:
+(A)
+To minimize the number of communications network outages.
+(B)
+To minimize the length of communications network outages.
+(C)
+To minimize the number of consumers affected by communications network outages.
+(D)
+To mitigate the reduction in communications network performance caused by communications network outages.
+(E)
+To encourage the adoption of equipment, policies, and procedures to prepare for communications network outages.
+(F)
+To promote the detection of, and response to, communications network outages in a timely manner.
+(G)
+To anticipate and prepare for long-term disruptions to communications networks that are caused by severe weather, natural disasters, or climate change.
+(H)
+To support and address the communications needs of first responders involved in detecting, managing, and responding toâ
+(i)
+severe weather events, natural disasters, and climate change-related events; and
+(ii)
+communications network outages caused by the events described in clause (i).
+(3)
+Commission discretion
+In carrying out this subsection, the Commission may, after providing public notice and an opportunity to comment, establish minimum performance criteria or target goals with respect to the resiliency of communications networks and communications infrastructure.
+(b)
+Agency responsibilities
+(1)
+FCC responsibilities
+(A)
+Resiliency mapping feasibility report
+(i)
+In general
+The Commission shallâ
+(I)
+in consultation with the Assistant Secretary and the Administrators of the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, and the Federal Emergency Management Agency, complete a study (and submit to Congress a report regarding) the feasibility of establishing and maintaining a map that shows projected risks to communications infrastructure as a result of events relating to severe weather, natural disasters, and climate change; and
+(II)
+include in the report required under subclause (I) recommendations regardingâ
+(aa)
+which Federal agency, or combination of Federal agencies, is best equipped to conduct the mapping described in that subclause;
+(bb)
+how the mapping described in that subclause couldâ
+(AA)
+incorporate the information obtained from eligible entities under the program carried out under section 3; and
+(BB)
+be coordinated with, and connected to, other broadband mapping efforts of the Commission; and
+(cc)
+how to protect and secure any sensitive information relating to, or stemming from, the mapping described in that subclause.
+(ii)
+Authorization of appropriations
+There are authorized to be appropriated to the Commission such sums as may be necessary to carry out clause (i).
+(B)
+Technical assistance
+The Commission, in consultation with the Assistant Secretary, shall provide technical assistance and resources toâ
+(i)
+any public or private domestic entity seeking to understand, with respect to a communications network (or communications infrastructure) provided, operated, or owned by that entity, the vulnerability or susceptibility of the network or infrastructure with respect to severe weather, natural disasters, or climate change; and
+(ii)
+any State or local government seeking to understand the vulnerability or susceptibility with respect to severe weather, natural disasters, or climate change of a communications network thatâ
+(I)
+is located within the jurisdiction of that government; and
+(II)
+is not operated by that government.
+(C)
+NORS
+After providing public notice and an opportunity to comment, the Commission shall update the Network Outage Reporting System to include a broadband network outage as a required reporting incident.
+(2)
+NTIA responsibilities
+(A)
+Energy and efficiency best practices
+(i)
+In general
+The Assistant Secretary, in consultation with other Federal agencies (including the Commission, the Department of Energy, the Environmental Protection Agency, and the Federal Energy Regulatory Commission), and after obtaining input from communications service providers and other interested members of the public, shall make available on a publicly available website a list of best practices for public and private partners to operate energy efficient and carbon-neutral communications infrastructure.
+(ii)
+Contents
+The list of best practices described in clause (i) may includeâ
+(I)
+suggested technical standards for improving energy efficiency with respect to the use and transmission of electronic data, including the implementation of more efficient compression and transmission algorithms and signal types;
+(II)
+renewable energy sourcing guidelines; and
+(III)
+guidelines for internet service providers to report to consumers the energy consumption of those consumers alongside the data use of those consumers.
+(B)
+Reporting
+Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Assistant Secretary, in consultation with the Commission, the Administrator of the Federal Emergency Management Agency, and the Administrator of the Environmental Protection Agency, and after providing public notice and an opportunity to comment, shall submit to Congress, and make available on a publicly available website, a report that, at a minimumâ
+(i)
+contains data demonstrating, for the year covered by the report and the year preceding the year covered by the reportâ
+(I)
+the number of communications network outages that are attributable to severe weather, natural disasters, and climate change-related events (and the number of consumers affected by those communications network outages);
+(II)
+any shifts in the energy consumption patterns of communications networks and communications infrastructure; and
+(III)
+any reduction in greenhouse gas emissions from communications networks and communications infrastructure; and
+(ii)
+provides the most up-to-date projected risks to communications infrastructure because of severe weather, natural disasters, and climate change-related events.
+(3)
+Department of Energy
+Not later than 1 year after the date of enactment of this Act, the Secretary of Energy, in consultation with the Administrator of the Energy Information Administration, the Administrator of the Environmental Protection Agency, and the Federal Energy Regulatory Commission, shall submit to Congress a report thatâ
+(A)
+indicates the projected growth of electrical consumption by data centers in the United States; and
+(B)
+includes recommendations for implementing energy efficiency standards for data centers that wouldâ
+(i)
+limit the growth described in subparagraph (A) to the greatest extent practicable withoutâ
+(I)
+reducing the rate of broadband adoption and usage in the United States; or
+(II)
+limiting the development of new and improved technologies or services; and
+(ii)
+encourage the rapid adoption of renewable energy sources.

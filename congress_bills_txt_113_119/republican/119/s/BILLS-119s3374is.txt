@@ -1,0 +1,99 @@
+1.
+Short title
+This Act may be cited as the
+Secure and Feasible Exports of Chips Act of 2025
+or the
+SAFE Chips Act of 2025
+.
+2.
+Control of exports of advanced integrated circuits
+Part I of Export Control Reform Act of 2018 (
+50 U.S.C. 4811 et seq.
+) is amended by inserting after section 1758 the following:
+1758A.
+Control of exports of advanced integrated circuits
+(a)
+License requirement
+On and after the date of the enactment of this section, the Secretary shallâ
+(1)
+require a license for the export, reexport, or in-country transfer of an advanced integrated circuitâ
+(A)
+to or in a foreign adversary country; or
+(B)
+to an entity located in any country if the entity, or the ultimate parent company of the entity, has its headquarters in a foreign adversary country; and
+(2)
+deny any application for such a license.
+(b)
+Exclusion
+Subsection (a) shall not apply to an advanced integrated circuit or product containing such a circuit that is not designed or marketed for data centers.
+(c)
+Definitions
+In this section:
+(1)
+Advanced integrated circuit
+(A)
+In general
+Subject to subparagraphs (B) and (C), the term
+advanced integrated circuit
+meansâ
+(i)
+an integrated circuit, computer, or other productâ
+(I)
+classified under Export Control Classification Number 3A090 or 4A090 or a related Export Control Classification Number; or
+(II)
+that is functionally equivalent or substantially similar to a circuit, computer, or product described in subclause (I); or
+(ii)
+an integrated circuit that has one or more digital processing units withâ
+(I)
+a total processing performance of 4,800 or more;
+(II)
+a total processing performance of 2,400 or more and a performance density of 1.6 or more;
+(III)
+a total processing performance of 1,600 or more and a performance density of 3.2 or more;
+(IV)
+a total DRAM bandwidth of 4,100 gigabytes per second or more;
+(V)
+an interconnect bandwidth of 1,100 gigabytes per second or more; or
+(VI)
+a combination of DRAM bandwidth and interconnect bandwidth of 5,000 gigabytes per second or more.
+(B)
+Authority to update technical parameters
+Beginning 30 months after the date of the enactment of this section, subject to subparagraph (C), and after approval by a majority vote of the End-User Review Committee, the Secretary may modify the technical parameters for the definition of
+advanced integrated circuit
+for purposes of this section through a notice in the Federal Register.
+(C)
+Briefing required
+Not later than 30 days before any modification to the definition of
+advanced integrated circuit
+under subparagraph (B) is published in the Federal Register, the Secretary shall provide a briefing to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives that includesâ
+(i)
+a description of the planned modification;
+(ii)
+the date that the planned modification is expected to be published in the Federal Register;
+(iii)
+a detailed justification for why the planned modification is in the national interest of the United States;
+(iv)
+an assessment of how the planned modification and resulting sales to the People's Republic of China wouldâ
+(I)
+affect the capabilities of leading Chinese artificial intelligence firms; and
+(II)
+alter the military, cyber, or other offensive capabilities of the People's Republic of China; and
+(v)
+an analysis of how and to what extent the United States will continue to maintain an advantage in computing relative to the People's Republic of China.
+(2)
+Foreign adversary country
+The term
+foreign adversary country
+â
+(A)
+means a country specified in section 4872(f)(2) of title 10, United States Code; and
+(B)
+includes the Macau Special Administrative Region and the Hong Kong Special Administrative Region of the People's Republic of China.
+(3)
+Performance density; total processing performance
+The terms
+performance density
+and
+total processing performance
+have the meanings given those terms in, and are calculated as provided for under, Export Control Classification Number 3A090 in the Commerce Control List set forth in Supplement No. 1 to part 774 of the Export Administration Regulations (as in effect on the day before the date of the enactment of this section).
+.

@@ -1,0 +1,82 @@
+1.
+Short title
+This Act may be cited as the
+Prescription Drug Pricing Dashboard Act
+.
+2.
+Prescription drug pricing dashboard
+(a)
+In general
+The Secretary of Health and Human Services (referred to in this section as the
+Secretary
+) shall establish, and annually update, an interactive internet website-based dashboard, through which patients, clinicians, researchers, and the public can review information on the price and utilization of prescription drugs purchased by Federal programs, and view pricing trends over time.
+(b)
+Content
+(1)
+General information
+The internet website established under subsection (a) shall provide at least the following information with respect to a drug:
+(A)
+The brand and generic name.
+(B)
+Consumer-friendly information of the drugâs uses and other relevant clinical information.
+(C)
+The manufacturer.
+(D)
+For each Federal program (which shall include the Medicare program under title XVIII of the Social Security Act (
+42 U.S.C. 1395
+et seq.), the Medicaid program under title XIX of the Social Security Act (
+42 U.S.C. 1396
+et seq.), the Federal Employees Health Benefits Program established under
+chapter 89
+of title 5, United States Code, and any other Federal program, as determined by the Secretary), the following information regarding program spending for each drug:
+(i)
+The average Federal and, as applicable State, spending per dosage unit in the preceding 2 fiscal years.
+(ii)
+The percentage change in spending on the drug per dosage unit from the preceding year, and to the extent feasible, from the preceding 5 to 10 fiscal years.
+(iii)
+The change in average spending per dosage unit in the preceding 2 fiscal years.
+(iv)
+The annual growth rate in average spending per dosage unit in the preceding 5 fiscal years.
+(v)
+Total spending for the preceding fiscal year.
+(vi)
+The number of individuals receiving such drug under the program in the preceding fiscal year.
+(vii)
+Average spending on the drug per beneficiary for the preceding fiscal year.
+(viii)
+With respect to a drug covered under part B of such title XVIII the average sales price as determined under section 1847A of the Social Security Act (
+42 U.S.C. 1395wâ3a
+) for the preceding fiscal year.
+(ix)
+Consumer-friendly information about the average, highest, and lowest out-of-pocket cost for the drug (such as copayment or coinsurance amounts) for an individual enrolled in a State plan under such title XIX or the Medicare program under such title XVIII (including parts B and D of such title) in the preceding fiscal year or in the preceding plan year in the case of part D of such title, including such costs under such part before, during, and after the coverage gap described in subparagraphs (C) and (D) section 1860Dâ2(b)(2) of the Social Security Act (
+42 U.S.C. 1395wâ102(b)(2)
+).
+(x)
+Such additional information pertaining to Federal expenditures on, or consumer out-of-pocket costs for, drugs, as the Secretary determines appropriate.
+(2)
+Highlighted drugs
+The Secretary shall identify, in a separate element of the dashboardâ
+(A)
+for each Federal program described in paragraph (1)(D), the 15 drugs with the highest total program spending, including, for drugs covered under the Medicaid program, the median State spending per dosage unit;
+(B)
+the 15 drugs with the highest total Federal spending across all such Federal programs;
+(C)
+any drugs with annual per-user spending under any such program, based on claims data analysis, that, for the first reporting year is $10,000 or more per user, and, in subsequent reporting years, is priced at or above the rate, as determined by the Secretary, that is $10,000, increased by the medical care consumer price index; and
+(D)
+the drugs ranked among the top 10 highest unit costs increases (if not already identified) for any such Federal program.
+(3)
+Data files
+The interactive internet website-based dashboard described in this subsection shall include machine-readable data files.
+(4)
+Additional information
+The Secretary may include such additional information (not otherwise prohibited in law from being disclosed) on the website-based dashboard that would provide patients, clinicians, researchers, and the public with information about prescription drugs and their prices as the Secretary determines appropriate.
+(c)
+Plan To incorporate data from other programs
+(1)
+Expansion of dashboard
+Within 2 years of the date of enactment of the
+Prescription Drug Pricing Dashboard Act
+, the Secretary shall submit to the Committee on Finance, the Committee on Health, Education, Labor, and Pensions, the Committee on Armed Services, the Committee on Veterans' Affairs, and the Special Committee on Aging of the Senate and the Committee on Ways and Means, the Committee on Energy and Commerce, the Committee on Armed Services, and the Committee on Veterans' Affairs of the House of Representatives, a report that includes a plan to expand the dashboard under this section to include data on Federal expenditures on, and patient out-of-pocket costs for, drugs under the TRICARE program, the health program of the Department of Veterans Affairs, and qualified health plans purchased through an American Health Benefits Exchange or other private health insurance coverage.
+(2)
+Consultation
+In preparing the report in paragraph (1), the Secretary shall consult with the Secretary of Defense and the Secretary of Veterans Affairs.

@@ -1,0 +1,37 @@
+1.
+Short title
+This Act may be cited as the
+Mystic Alerts Act
+.
+2.
+Transmission of emergency alerts by satellite
+(a)
+Service provider election
+(1)
+Required filing
+Each provider of commercial mobile service that voluntarily elects to transmit emergency alerts under section 602(b) of the Warning, Alert, and Response Network Act (
+Public Law 109â347
+;
+42 U.S.C. 1201
+) shall file an election with the Federal Communications Commission with respect to whether the provider intends to also transmit such alerts by satellite to the subscribers or users of the commercial mobile service of the provider.
+(2)
+Notification; agreement
+If a provider described under paragraph (1) elects to transmit emergency alerts to subscribers or users by satellite, the provider shallâ
+(A)
+notify the Commission of that election; and
+(B)
+agree to transmit such alerts in a manner consistent with the technical standards, protocols, procedures, and other technical requirements implemented by the Commission.
+(3)
+Election not to transmit
+If a provider elects not to transmit emergency alerts by satellite under paragraph (1), the provider shall provide notice to new and existing subscribers and users of the commercial mobile service of the provider of that election in the same manner that is required under subparagraphs (B) and (C) of section 602(b)(1) of the Warning, Alert, and Response Network Act.
+(4)
+Consumer choice to opt out
+If a provider of commercial mobile service described under paragraph (1) elects to transmit emergency alerts to subscribers and users by satellite, the provider shall prevent the device of any subscriber or user that opts out of receiving emergency alerts pursuant to section 602(b)(2)(E) of the Warning, Alert, and Response Network Act, or classes of such alerts, from receiving such alerts by satellite.
+(b)
+Satellite alert regulations
+(1)
+Notice of proposed rulemaking
+Not later than 6 months after the date of the enactment of this Act, the Commission shall publish a Notice of Proposed Rulemaking to establish relevant technical standards, protocols, procedures, interoperability requirements, and other technical requirements necessary to enable satellite alerting capability for providers of commercial mobile service that voluntarily elect to transmit emergency alerts, including standards for training such providers on enabling such capability.
+(2)
+Final rule
+Not later than 12 months after the date of the enactment of this Act, the Commission shall, in consultation with the Secretary of Homeland Security and the Administrator of the Federal Emergency Management Agency, issue a final rule establishing the standards, protocols, procedures, and requirements described under paragraph (1).

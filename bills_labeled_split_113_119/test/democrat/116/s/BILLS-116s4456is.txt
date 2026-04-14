@@ -1,0 +1,26 @@
+1.
+Short title
+This Act may be cited as the
+Patient Matching Improvement Act of 2020
+.
+2.
+Use of USPS formatting tool
+Section 3001(c)(2) of the Public Health Service Act (
+42 U.S.C. 300jjâ11(c)(2)
+) is amended by adding at the end the following:
+(C)
+USPS formatting tool
+(i)
+In general
+Not later than 90 days after the date of enactment of this subparagraph, the Secretary, acting through the National Coordinator, shall ensure that the United States Postal Service electronic address formatting tools that are made available by the United States Postal Service to online retailers at no cost are also made available to health care providers for use in health information technology systems at no cost. The Secretary shall ensure that the electronic address formatting tools are made available to any health care organization (including hospitals, physician offices, electronic health record vendors, State and local health departments, registries, and other organizations as determined necessary by the Secretary) to transform both single address records and multiple, simultaneous address records into the United States Postal Service preferred address format. The Secretary shall ensure that no limitations exist on the number of records or health organizations that use the electronic conversion tool.
+(ii)
+COVIDâ19
+laboratory testing
+Not later than 90 days after the date of enactment of this subparagraph, the Secretary shall make available the United States Postal Service address formatting tool for use by laboratories engaged in COVIDâ19 testing to accompany COVIDâ19 laboratory results.
+(iii)
+Certification
+Not later than 1 year after the date of enactment of this subparagraph, the Secretary shall promulgate regulations to update the conditions of certification for health information technology to require the standardization of addresses in the United States Postal Service standard. The Secretary shall update requirements under section 3022(a) to include the United States Postal Service format as the standard for addresses when communicated through application programming interfaces under this subparagraph.
+.
+3.
+Authorization of appropriations
+To carry out the amendment made by this Act, there are authorized to be appropriated such sums as may be necessary.

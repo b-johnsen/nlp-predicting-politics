@@ -1,0 +1,102 @@
+1.
+Internet openness
+Title I of the Communications Act of 1934 (
+47 U.S.C. 151
+et seq.) is amended by adding at the end the following:
+13.
+Internet openness
+(a)
+Obligations of broadband Internet access service providers
+A person engaged in the provision of broadband Internet access service, insofar as such person is so engagedâ
+(1)
+may not block lawful content, applications, or services, subject to reasonable network management;
+(2)
+may not prohibit the use of non-harmful devices, subject to reasonable network management;
+(3)
+may not throttle lawful traffic by selectively slowing, speeding, degrading, or enhancing Internet traffic based on source, destination, or content, subject to reasonable network management;
+(4)
+may not engage in paid prioritization; and
+(5)
+shall publicly disclose accurate and relevant information in plain language regarding the network management practices, performance, and commercial terms of its broadband Internet access services sufficient for consumers to make informed choices regarding use of such services and for content, application, service, and device providers to develop, market, and maintain Internet offerings, except that a provider is not required to publicly disclose competitively sensitive information or information that could compromise network security or undermine the efficacy of reasonable network management practices.
+(b)
+Commission authority
+(1)
+In general
+The Commission shall enforce the obligations established in subsection (a) through adjudication of complaints alleging violations of such subsection but may not expand the Internet openness obligations for provision of broadband Internet access service beyond the obligations established in such subsection, whether by rulemaking or otherwise.
+(2)
+Formal complaint procedures
+Not later than 60 days after the date of the enactment of this section, the Commission shall adopt formal complaint procedures to address alleged violations of subsection (a).
+(c)
+Other laws and considerations
+Nothing in this sectionâ
+(1)
+supersedes any obligation or authorization a provider of broadband Internet access service may have to address the needs of emergency communications or law enforcement, public safety, or national security authorities, consistent with or as permitted by applicable law, or limits the providerâs ability to do so; or
+(2)
+prohibits reasonable efforts by a provider of broadband Internet access service to address copyright infringement or other unlawful activity.
+(d)
+Consumer choice
+(1)
+In general
+Nothing in this section shall be construed to limit consumersâ choice of service plans or consumersâ control over their chosen broadband Internet access service or, except as provided in paragraph (2), the ability of broadband Internet access service providers to offer specialized services.
+(2)
+Prohibition on certain practices regarding specialized services
+Specialized services may not be offered or provided in ways that threaten the meaningful availability of broadband Internet access service or that have been devised or promoted in a manner designed to evade the purposes of this section.
+(e)
+Broadband To be considered information service
+Notwithstanding any other provision of law, the provision of broadband Internet access service or any other mass market retail service providing advanced telecommunications capability (as defined in section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+)) shall be considered to be an information service.
+(f)
+Reasonable network management
+For purposes of subsection (a), a network management practice is reasonable if it is appropriate and tailored to achieving a legitimate network management purpose, taking into account the particular network architecture and any technology and operational limitations of the broadband Internet access service provider.
+(g)
+Definitions
+In this section:
+(1)
+Broadband Internet access service
+The term
+broadband Internet access service
+means a mass market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all Internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up Internet access. Such term also encompasses any service that the Commission finds to be providing a functional equivalent of the service described in the previous sentence, or that is used to evade the obligations set forth in subsection (a).
+(2)
+Paid prioritization
+The term
+paid prioritization
+means the speeding up or slowing down of some Internet traffic in relation to other Internet traffic over the consumerâs broadband Internet access service by prioritizing or deÂ­priÂ­orÂ­iÂ­tizÂ­ing packets based on compensation or lack thereof by the sender to the broadband Internet access service provider.
+(3)
+Specialized services
+The term
+specialized services
+means services other than broadband Internet access service that are offered over the same network as, and that may share network capacity with, broadband Internet access service.
+.
+2.
+Authority under section 706 of the Telecommunications Act of 1996
+(a)
+In general
+Section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+) is amendedâ
+(1)
+by redesignating subsection (d) as subsection (e); and
+(2)
+by inserting after subsection (c) the following:
+(d)
+No grant of authority
+The Commission or a State commission with regulatory jurisdiction over telecommunications services may not rely on this section as a grant of authority.
+.
+(b)
+Technical corrections
+Section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+) is further amendedâ
+(1)
+in subsection (c), by striking
+(as defined
+and all that follows through
+note))
+; and
+(2)
+in subsection (e), as redesignated, in the matter preceding paragraph (1), by striking
+subsection
+and inserting
+section
+.

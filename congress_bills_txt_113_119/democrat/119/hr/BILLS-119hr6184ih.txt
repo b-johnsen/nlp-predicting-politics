@@ -1,0 +1,24 @@
+1.
+Short title
+This Act may cited as the
+NOAA Data Preservation Act
+.
+2.
+Uninterrupted storage of data sets of the National Oceanic and Atmospheric Administration
+(a)
+In general
+The Secretary of Commerce may not cancel a contract with a cloud service provider for the storage of a data set of the National Oceanic and Atmospheric Administration unless the Secretary satisfies the conditions described in subsection (b).
+(b)
+Conditions described
+The conditions described in this subsection are the following:
+(1)
+Development of a plan for the uninterrupted storage of the data set described in subsection (a) that includes transition to a cloud service provider other than a cloud service provider referred to in such subsection of such data set, and any associated reporting systems.
+(2)
+Collaboration with the Administrator of the National Oceanic and Atmospheric Administration to ensure the uninterrupted protection of such data set.
+(c)
+Cloud service provider defined
+In this section, the term
+cloud service provider
+has the meaning given the term in section 2200 of the Homeland Security Act of 2002 (
+6 U.S.C. 650
+).

@@ -1,0 +1,50 @@
+1.
+Short title
+This Act may be cited as the
+Strategic National Stockpile Enhancement and Transparency Act
+.
+2.
+National Emergency Biodefense Network
+(a)
+In general
+Part B of title III of the Public Health Service Act (
+42 U.S.C. 243
+et seq.) is amended by inserting after section 319Fâ4 (
+42 U.S.C. 247dâ6e
+) the following:
+319Fâ5.
+National Emergency Biodefense Network
+(a)
+In general
+Not later than 1 year after the date of the enactment of this section, the Secretary shall establish, in coordination with the strategic national stockpile under section 319Fâ2 and the National Biodefense Science Board established under section 319M, a network of State entities to be known as the
+National Emergency Biodefense Network
+(referred to in this section as the
+Network
+) to, with respect to drugs, vaccines and other biological products, medical devices, and other supplies necessary for the emergency health security of the United Statesâ
+(1)
+track the availability of such supplies in each State and in the strategic national stockpile; and
+(2)
+maintain an adequate supply of such supplies in each State and in the strategic national stockpile.
+(b)
+Network requirement
+The Network shall be developed and implemented using a private blockchain.
+(c)
+Grants to States
+The Secretary shall award grants to States to enable States to establish an entity which shallâ
+(1)
+serve as a statewide repository of the supplies referred to in subsection (a); and
+(2)
+provide for the tracking of the inventory and movement of such supplies using a private blockchain.
+(d)
+Blockchain
+In this section, the term
+blockchain
+means software that uses a distributed digital ledger of cryptographically signed transactions that are grouped into blocks, each of whichâ
+(1)
+is cryptographically linked to the previous block after validation and undergoing a consensus decision; and
+(2)
+when added as a new block, makes any older blocks more difficult to modify and is replicated across all copies of the ledger within the relevant network, with any conflicts in such blocks resolved automatically using established rules.
+(e)
+Authorization of appropriations
+There are authorized to carry out this section $25,000,000 for each of fiscal years 2021 and 2022.
+.

@@ -1,0 +1,38 @@
+1.
+Roadmap for advancing digital content provenance standards
+(a)
+In general
+Not later than June 1, 2026, the Secretary of Defense shall develop a roadmap to guide potential future adoption and integration of digital content provenance capabilities across the Department of Defense.
+(b)
+Elements
+The roadmap developed pursuant to subsection (a) shallâ
+(1)
+identify and assess current and proposed open technical standards for digital content provenance that could be applied to publicly released digital media assets produced by the Department of Defense, the military components, and field activities of the Department;
+(2)
+identify strategic objectives relating to securing and authenticating public-facing digital content;
+(3)
+describe relevant roles and responsibilities across military departments and components of the Department;
+(4)
+explore the establishment of standardized processes to enable embedding and verification of content credentials in appropriate public-facing Department media;
+(5)
+outline potential acquisition approaches for supporting technologies and solutions;
+(6)
+develop metrics, as appropriate, to assess the effectiveness, reliability, and scalability of digital content provenance technologies;
+(7)
+establish an engagement mechanism for coordination with relevant stakeholders, including federally funded research and development centers, industry, and academia, to align efforts with evolving best practices and technical capabilities; and
+(8)
+establish notional milestones and resource needs, disaggregated by fiscal year, to inform longer-term planning.
+(c)
+Briefing to Congress
+Not later than July 1, 2026, the Secretary of Defense shall provide the congressional defense committees (as defined in section 101(a) of title 10, United States Code) a briefing on the Departmentâs roadmap for adopting digital content provenance standards. The briefing should addressâ
+(1)
+initial findings regarding feasibility, opportunities, and potential barriers;
+(2)
+stakeholder engagement to date; and
+(3)
+any planned next steps or pilot efforts under consideration.
+(d)
+Definition of digital content provenance
+In this section, the term
+digital content provenance
+means the verifiable history and origin of a digital asset, including information about its creation, ownership, and modifications over time.

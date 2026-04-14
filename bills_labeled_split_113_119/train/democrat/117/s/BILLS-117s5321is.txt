@@ -1,0 +1,717 @@
+1.
+Short title
+This Act may be cited as the
+Deploying the Internet by Guaranteeing Indian Tribes Autonomy over Licensing on Reservations Act
+or the
+DIGITAL Reservations Act
+.
+2.
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Findings and purposes.
+Sec. 4. Indian Tribesâ and Native Hawaiian organizationsâ exclusive right to all available or unlicensed electromagnetic spectrum over Tribal lands.
+Sec. 5. Access to spectrum over Tribal lands.
+Sec. 6. Existing spectrum licenses and spectrum over Tribal lands.
+Sec. 7. Tribal Broadband Fund.
+Sec. 8. Directing the Commission to engage in rulemaking proceedings for broadband development on Tribal lands.
+Sec. 9. Technical assistance for spectrum management, contractual agreements, and procedural requirements.
+Sec. 10. Annual reporting requirements.
+Sec. 11. Definitions.
+3.
+Findings and purposes
+(a)
+Findings
+Congress finds the following:
+(1)
+Indian Tribes are sovereign nations that are independent and legally distinct political bodies that exercise self-governance with the inherent power to control their internal relations including natural resource development and management of assets, including spectrum over Tribal lands.
+(2)
+This longstanding precedent established territorial sovereignty through distinct and separate jurisdictions in which Indian Tribes retain their sovereign power to control their internal relations and protect Tribal self-governance within designated Tribal lands or reservations.
+(3)
+Tribal lands were established during the
+Allotment
+or
+Reservation
+era of Federal Indian law and policy (1871â1928) when the Federal Government significantly narrowed the control and rights of Indian Tribes through the unilateral acquisition of Tribal lands and resources, then subsequently gave the rights to this property to non-Indian settlers.
+(4)
+Under the General Allotment Act of 1887, Tribal members were forced to surrender their previously undivided interest in Tribally owned trust estate for individually assigned land interests creating permanently divided land allotments on Tribal lands, and further coercing Native Americans into assimilation and dependency on the Federal Government, thus depriving them of their traditional economies.
+(5)
+Congress has acknowledged that this Reservation Era policy is widely known as failed Federal policy that established individual non-Indian land holdings on reservations resulting in checkerboarded Tribal lands that cause complex jurisdictional and legal complications today.
+(6)
+In response to these failed, paternalistic Federal assimilation policies, forced acquisition of indigenous lands, and genocide of Native Americans, the United States has recognized the unique legal relationship and trust responsibility it has with American Indians, Alaska Natives, and Native Hawaiians to promote their self-determination and sovereignty in furtherance of its treaty obligations and longstanding government-to-government relationship.
+(7)
+Congressional authority to manage this unique government-to-government relationship with Native nations and Indian affairs generally is recognized as plenary; constitutionally vested congressional authority to regulate commerce and govern activities with Indian Tribes, which is distinct and separate from executive and judicial branch powers.
+(8)
+The Federal Governmentâs trust responsibility with Indian Tribes extends to all governmental branches requiring the United States to uphold its fiduciary duties of care and loyalty, to make trust property income productive, to enforce reasonable claims on behalf of Native Americans, and to take affirmative action to preserve trust property, for the benefit of American Indians and Alaska Natives, and Native Hawaiians as part of this Federal-Tribal relationship and Tribal self-governance.
+(9)
+The Federal Communications Commission (FCC) has acknowledged this fiduciary responsibility to Native nations and has further recognized the Commissionâs own responsibility to promote their self-sufficiency and economic development on Tribal lands.
+(10)
+In 2018, a Government Accountability Office (GAO) report noted that numerous Tribal entities, associations, and academic groups consider spectrum as a natural resource that should be managed by Tribes. FCC officials responded that,
+spectrum is not considered a reserved right under treaties with Indian tribes, as it is not explicitly stated
+.
+(11)
+The first United States treaty with an American Indian Tribe was ratified in 1778, over 240 years ago, and Indian treaty-making ended in 1871, prior to the development of spectrum, and adoption of the existing regime for licensing and regulating spectrum access.
+(12)
+Further, a 2020 GAO report repeatedly stated that
+spectrum is a finite natural resource used to provide a variety of communication services
+to governmental entities.
+(13)
+However, with the exception of the FCCâs efforts to allocate a severely limited bandwidth of temporary spectrum authority to select Tribal applicants during the COVIDâ19 crisis, it failed to grant numerous emergency requests from Congress, Indian Tribes, and Native Hawaiian organizations to extend the 2.5 GHz Rural Tribal Priority Window timeline by 180 days to give Native nations a fair opportunity to secure spectrum over their Tribal lands before the September 2, 2020, expiration date amidst the pandemic.
+(14)
+To date, the Commission has failed to implement nationwide spectrum opportunities or uniform licensing for Indian Tribes and Native Hawaiian organizations to make spectrum available over their Tribal lands or account for the unmet needs of native Nations in compliance with the Federal trust responsibility.
+(15)
+To the contrary, the FCC has used its general authority to regulate for-profit commercial use of spectrum over Tribal lands to assign Indian Tribesâ spectrum licenses to non-Indian companies through privatized auctions, by promulgating regulations for licensed and unlicensed spectrum over Tribal lands, and by conducting oversight over secondary market transactions, including leasing spectrum licenses over Tribal lands and Hawaiian Home Lands to private companies without Tribal consultation or consent.
+(16)
+The Commissionâs actions parallel failed Federal Reservation Era policy that divided Indian land holdings and created systemic barriers to Indian Tribesâ economic development and legal jurisdictional complications on Tribal lands that continue to disadvantage Tribal communities today.
+(17)
+Indian Tribes and Native Hawaiian organizations continue to encounter substantial barriers to accessing spectrum on Tribal lands and Hawaiian Home Lands to deploy telecommunications services for the safety and well-being of their members to decrease the alarming rates of violent crimes, suicides, and additional unnecessary loss of lives that Native Americans disproportionately experience, especially through the lack of access to telehealth services and digital emergency resources as demonstrated during the COVIDâ19 pandemic that disproportionately impacted Indian Country.
+(18)
+Further, the 2018 Broken Promises Report published by the United States Commission on Civil Rights found Native Americans rank near the bottom of all Americans in terms of health, education, and employment due to the unique challenges and harsh living conditions as a result of the Reservation Era when the Federal Government relocated Indian Tribes to geographically isolated reservations where
+persistent discrimination has rendered their reality often invisible to other Americans
+.
+(19)
+Today, Tribal lands are some of the most digitally disconnected areas in the United States, where 1.5 million people lack basic broadband and wireless services at rates comparable to, and in some cases lower than, developing countries, leaving Tribal lands further behind in the digital divide by global benchmarks.
+(20)
+In 2018, the Broadband Commission for Sustainable Development reported that wireless network coverage in Sub-Saharan Africa increased to 70 percent, surpassing the network coverage rates on Tribal lands and Hawaiian Home Lands in the United States.
+(21)
+In 2018, the Government Accountability Office (GAO) and the Federal Communications Commission (FCC) reported that over 92 percent of people living outside of Tribal lands and Hawaiian Home Lands have access to fixed broadband services, and 98 percent of American households have telephone services. However, only 65 percent of American Indians, Alaska Natives, and Native Hawaiians living on Tribal lands and Hawaiian Home Lands have access to fixed broadband services, and only 69 percent of households on Tribal lands have telephone services.
+(22)
+Lack of Indian Tribesâ access to spectrum over their Tribal lands during the COVIDâ19 pandemic also highlighted Indian Countryâs expanding digital divide, as supported by the GAOâs finding that health information technology systems at the Indian Health Service (IHS) rank as the Federal Governmentâs third-highest need for agency system modernization since 50 percent of IHS facilities depend on outdated circuit connections based on one or two T1 circuit lines (3 Mbps), creating slower response times than any other health facility system in the country.
+(23)
+A 2018 National Congress of American Indians and National Indian Health Board health reform comment filed with the Federal Communications Commission has further stated that 75 percent of rural Indian Health Service (IHS) facilities do not have reliable broadband networks for American Indians and Alaska Natives to access telehealth-based services, which is a critical need in the most geographically isolated areas of the United States with some of the highest poverty rates, and lack of access to reliable transportation.
+(24)
+Additionally, IHS officials reported during the COVIDâ19 pandemic that deficiencies within their health IT system inhibited the agencyâs ability to adequately conduct coronavirus disease surveillance and record accurate data contributing to the disproportional rates of coronavirus transmissions on reservations.
+(25)
+The Bureau of Indian Education (BIE) estimated from a survey of 142 out of 174 schools, that up to 95 percent of their students do not have access to residential internet services depending on Bureau school locations and data cap limitations before and during the pandemic.
+(26)
+As an additional barrier, no dedicated Federal funding streams exist for Indian Tribes or Native Hawaiian organizations to deploy telecommunications or broadband services, both wireline and wireless, on Tribal lands and Hawaiian Home Lands. In 2018, the GAO found that the FCC and Department of Agricultureâs combined total of $34,600,000,000 was available for broadband services and infrastructure; however, from 2010 to 2017, only 0.7 percent was allocated to Tribal telecommunications deployment.
+(27)
+It is estimated that only 0.3 percent of the 13,000 radio facilities in the country belong to federally recognized Indian Tribes, indicating a severe lack of Tribal ownership of telecommunications services generally.
+(28)
+Indian Tribesâ and Native Hawaiian organizationsâ longstanding funding and administrative barriers to access spectrum over Tribal lands and Hawaiian Home Lands prohibits their self-governance and further exacerbate rates of unemployment, systemic poverty, health disparities, connection to the global market, educational and economic opportunities, unnecessary loss of lives, and unknown future disparities resulting from the absence of indigenous representation in the modernization of the digital sector, coding, general advancement of technological services and platforms, and Native ownership in the telecommunications industry.
+(b)
+Purposes
+The purposes of this Act areâ
+(1)
+to clarify Indian Tribesâ and Native Hawaiian organizationsâ inherent ownership of, and preserve, Indian Tribesâ spectrum licenses and spectrum over Tribal lands and Hawaiian Home Lands in furtherance of the trust responsibility and acknowledgment of sovereign status in the United States;
+(2)
+to diminish the effect of the Commissionâs Tribal priority filing windows, auctions for spectrum licenses over Tribal lands, and assignment and leasing of spectrum over Tribal lands; ensure the Commissionâs competitive bidding authority does not apply to licenses or construction permits issued by the Commission over Tribal lands and Hawaiian Home Lands; and permanently eliminate the public availability of spectrum over Tribal lands and Hawaiian Home Lands;
+(3)
+to ensure the Commission requires all unused and unassigned spectrum licenses over Tribal lands and Hawaiian Home Lands to revert to the ownership of the Indian Tribe and Native Hawaiian organization where they are geographically located in furtherance of prioritizing their ownership of spectrum over Tribal lands and Hawaiian Home Lands as part of their inherent self-governance, and expedite the immediate deployment of wireless services for critical government services, including national emergencies, natural disasters, and biohazard threats, access to health, public safety services, educational opportunities, ability to participate in the broadband economy, access to Federal, State, and Tribal voting and elections, and the Federal census count;
+(4)
+to promote Indian Tribesâ inherent self-governance and autonomy over their respective Tribal lands by ensuring spectrum over Tribal lands and Hawaiian Home Lands are held by Indian Tribes and Native Hawaiian organizations in perpetuity in compliance with the Federal trust responsibility;
+(5)
+to ensure Indian Tribes and Native Hawaiian organizations have resources available for the full retention and immediate deployment of their spectrum over Tribal lands and Hawaiian Home Lands for wireless broadband service and telecommunications services, including all commercial, noncommercial, mobile, radio, television, broadcast,
+middle mile
+and long haul fiber, and future spectrum licenses, infrastructure, and interconnectivity services that are within the jurisdiction of their respective Tribal lands and Hawaiian Home Lands;
+(6)
+to encourage Indian Tribes and Native Hawaiian organizations to immediately develop and deploy spectrum services over their lands, especially broadband and wireless services, to bridge the increasing digital divide over Tribal lands for the realization of full self-governance and autonomy through access to critical government services, resources for national emergencies, economic development, and management of resources;
+(7)
+to create opportunities for Indian Tribes and Native Hawaiian organizations to develop and build out digital and telecommunications networks and infrastructure on their lands and promote full self-governance and autonomy;
+(8)
+to require the Commission to initiate and complete the rulemaking process with robust, interactive, pre-decisional, informative, and transparent consultation with Indian Tribes and Native Hawaiian organizations in order for them to obtain free, prior, and informed consent before the approval and adoption of administrative measures or agency action that affects Tribal lands, or other associated Tribal resources, especially where telecommunications processes and associated information are unclear, unreported, or inadequate to meet the needs of Indian Tribes and Native Hawaiian organizations to preserve spectrum rights over Tribal lands and Hawaiian Home Lands, establish the Tribal Broadband Fund, and build out robust digital networks on Tribal lands so their members can access digital services at rates proportional to non-Indians living off Tribal lands; and
+(9)
+to ensure the Commission ceases the allotment of spectrum rights over Tribal lands and Hawaiian Home Lands to private telecommunication companies to protect life and property in furtherance of the Federal trust responsibility.
+4.
+Indian Tribesâ and Native Hawaiian organizationsâ exclusive right to all available or unlicensed electromagnetic spectrum over Tribal lands
+Indian Tribes and Native Hawaiian organizations hold rights into perpetuity to use and manage all available or unlicensed electromagnetic spectrum over Tribal lands.
+5.
+Access to spectrum over Tribal lands
+(a)
+Elimination of all auctions, Tribal priority filing windows, secondary market opportunities, and competitive bidding for spectrum over Tribal lands
+(1)
+Auctions of Indian Tribesâ spectrum licenses and spectrum over Tribal lands
+Any spectrum licenses over Tribal lands for any purpose shall not be subject to any Tribal auctions executed by the Commission.
+(2)
+Tribal priority filing windows
+No licenses over any Tribal lands for the use of spectrum over Tribal lands shall be subject to any Tribal priority filing windows or auctions executed by the Commission.
+(3)
+Secondary market opportunities
+No spectrum licenses over Tribal lands shall be subject to any secondary market opportunities or post-market opportunities, including license partitioning, spectrum leasing, or assignment to any third party or other entity.
+(4)
+Competitive bidding
+Spectrum licenses over Tribal lands shall not be subject to competitive bidding under section 309(j) of the Communications Act of 1934 (
+47 U.S.C. 309(j)
+) from the date of the enactment of this Act.
+(b)
+Establishment of new contractual agreements for Tribal spectrum
+(1)
+In general
+At the discretion of an Indian Tribe or Native Hawaiian organization, after the date of the enactment of this Act, new contracts may be established with third-party licensees, qualifying Tribal entities, or other Indian Tribes or Native Hawaiian organizations to assign or lease spectrum over the Indian Tribeâs or Native Hawaiian organizationâs respective Tribal lands.
+(2)
+Terms and conditions
+At the request of an Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity, the Commission shall ensure that any new contracts entered into from the date of the enactment of this Act must ensure that the Indian Tribe or Native Hawaiian organization retains permanent spectrum rights over the Tribal lands where the spectrum is located. The associated terms and duration of any contract to assign or lease an Indian Tribeâs or Native Hawaiian organizationâs spectrum to a qualifying Tribal entity, third-party licensee, or other Indian Tribe or Native Hawaiian organization must meet the following minimum requirements and conditions to implement a valid contract for spectrum use over Tribal lands:
+(A)
+If an agreement is reached, all parties involved must execute a written agreement that sets forth the terms and conditions of the agreement.
+(B)
+Fair market value of the spectrum license or deployment of telecommunications or wireless services must be negotiated in good faith.
+(C)
+Rates must be calculated subject to inflation costs for the time duration specified under the agreement.
+(D)
+Negotiations must be entered into and conducted in good faith, requiring that an Indian Tribe, Native Hawaiian organization, qualifying Tribal entity, or third-party licensee responding to an offer proposed by the requesting party must provide reasons for each rejection of a negotiated offer in writing.
+(E)
+The party entering into contract negotiations with the Indian Tribe or Native Hawaiian organization must have the financial capacity to fulfill its requirement to deploy transactional services on the Tribal lands where the spectrum licenses are located and the ability to meet its construction requirements.
+(3)
+Limitations
+(A)
+Subleasing
+Any qualifying Tribal entity, Native Hawaiian organization, other Indian Tribe, or third-party licensee who does not receive the written consent from the Indian Tribe or Native Hawaiian organization where the spectrum is geographically located is barred from subleasing, assigning, or subcontracting the spectrum licenses over Tribal lands. If this is breached, such spectrum licenses shall automatically revert to the Indian Tribe or Native Hawaiian organization for new negotiations and the existing contract shall be deemed terminated.
+(B)
+Duration
+A contract to assign or lease spectrum licenses to be operated over Tribal lands between the Indian Tribe, Native Hawaiian organization, qualifying Tribal entity, or third-party licensee may not extend past a 5-year time period, after which the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity may review the negotiated terms with the third-party licensee and choose to eitherâ
+(i)
+terminate the contract or assignment of such spectrum licenses, which shall automatically revert to the Indian Tribe where such spectrum licenses are geographically located;
+(ii)
+renegotiate the terms of such contract with respect to such spectrum licenses over Tribal lands; or
+(iii)
+extend the existing contractual terms of such spectrum licenses over Tribal lands for an additional 5 years, or a fair and reasonable amount of time.
+(C)
+Termination
+(i)
+Reversion
+In the event of premature termination of a contract for assignment or lease of spectrum over Tribal lands, the spectrum licenses shall automatically revert to the Indian Tribe or Native Hawaiian organization for new negotiations and the existing contract shall be deemed terminated.
+(ii)
+Penalties
+Penalties for breach of contractual agreements or premature termination of a contract shall be enforced by imposing a fine of 5 percent of the gross amount incurred, or projected amount to be incurred, from the negotiated rate of the spectrum licenses by the breaching party, to be assessed by the Commission and available as a source of funds for the Tribal Broadband Fund.
+(iii)
+Egregious behavior or lack of good faith
+If the breaching party participates in egregious behavior, or a clear showing is made that a party failed to negotiate contractual terms in good faith, it shall be subject to a 5-year penalty prohibiting the party from participating in any contract for spectrum licenses over Tribal lands, participation in the Tribal Spectrum Market, or additional penalties that the Commission sees fit to protect Indian Tribesâ or Native Hawaiian organizationsâ telecommunications resources. In the case of a breaching party that is an Indian Tribe or Native Hawaiian organization, the penalty under this clause shall not apply with respect to spectrum over its Tribal lands of such Indian Tribe or Native Hawaiian community.
+(4)
+Additional requirements
+This section is subject to additional requirements or other terms and conditions as the Commission determines necessary to protect the interests of the Indian Tribe and Native Hawaiian community, or as determined necessary through subsequent rulemaking subject to the Tribal consultation requirements under section 8(c).
+6.
+Existing spectrum licenses and spectrum over Tribal lands
+(a)
+Build or divest process for existing spectrum licenses and spectrum over Tribal lands
+(1)
+Initiation
+An Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity may initiate the build or divest process for an existing third-party licensee that held spectrum license rights for spectrum over Tribal lands of the Indian Tribe or Native Hawaiian organization as of the date of the enactment of this Act in a geographic area where that existing third-party licensee has satisfied the applicable construction requirements for the spectrum licenses over Tribal lands, yet has not built out to the undeveloped, unserved, or underserved Tribal lands within its license area as of the date of the enactment of this Act.
+(2)
+Process
+The Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity where the spectrum over Tribal lands is located may file a Notice of Intent with the Commission to initiate the build or divest process to expedite reversion of the third-party licensee spectrum license rights over the aforementioned Tribal lands to make available the unused or unneeded license rights to the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity. The Notice of Intent requires the Commissionâ
+(A)
+to include written notification to the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity of the date on which third-party licenseeâs notice of construction permit fulfillment was filed with the Commission demonstrating that the third-party licensee satisfied its final construction requirement for the license where the underserved Tribal lands are located;
+(B)
+if the third-party licensee has met applicable construction requirements but Tribal lands within the spectrum license remain unserved or underdeveloped after the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity files the Notice of Intent, to terminate the third-party licenseeâs rights over such Tribal lands after a 1-year time period, with such spectrum licenses reverting back to the Indian Tribe or Native Hawaiian organization in perpetuity where the Tribal lands are located; and
+(C)
+to permit the third-party licensee to opt out of the build or divest process, after the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity has filed the Notice of Intent, by partitioning or relinquishing its spectrum license to the Commission, which shall subsequently relicense the spectrum licenses over the Tribal lands in perpetuity to the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity, pursuant to this Act and the requirements pursuant to the Communications Act of 1934 (
+47 U.S.C. 151 et seq.
+).
+(3)
+Construction requirement
+If the existing third-party licensee has not satisfied the applicable construction requirements for the spectrum for which it holds licenses over Tribal lands on the date on which the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity files the Notice of Intent, the spectrum license rights over Tribal lands where the spectrum is located will automatically be made available to the Indian Tribe or Native Hawaiian organization.
+(4)
+Expiration
+The license of any third-party licensee that has failed to extend coverage on the underserved Tribal lands from 1 year from the date that the Commission accepted the third-party licenseeâs notice of construction permit fulfillment to the date of the enactment of this Act shall immediately expire, including all rights to the spectrum licenses. The Commission shall then immediately reassign the spectrum licenses for the Tribal lands so that the licenses shall immediately revert to the Indian Tribe or Native Hawaiian organization where the spectrum is geographically located.
+(5)
+Additional construction requirements
+The applicable construction requirements above are subject to any additional construction requirements determined by the Commission applicable to Tribal lands after the date of the enactment of this Act.
+(6)
+Additional considerations
+(A)
+Expedited process
+(i)
+In general
+The Commission may make additional considerations to expedite the build or divest process prior to the 1-year expiration period where the geographic coverage area of the spectrum license on Tribal lands is under duress to deploy broadband or telecommunications services or for the purpose of access to life-saving services, critical government services, national or State emergencies, natural disasters, or in other circumstances where deemed appropriate.
+(ii)
+Critical government services, national emergencies, and natural disasters
+Congress, Secretary of the Interior, or another executive branch office or agency that is delegated authority over Indian affairs or oversees programs impacting Indian Tribes may also request that the Commission make additional considerations to expedite the build or divest process on Tribal lands where the coverage area of the spectrum license is under duress to expedite deployment of services.
+(iii)
+Duress
+For purposes of this subparagraph, a geographic area on Tribal lands that is considered to be under duress shall include an area on Tribal lands where there has been a substantial loss of or existing threat to human life, the Federal Government or State government has declared an emergency, a natural disaster has occurred or will occur, or there is a need for critical government services.
+(B)
+Longer timelines
+Other timelines shall be considered to elongate the timeline to the 1-year expiration period with the consent of the Indian Tribe or Native Hawaiian organization where a longer time period is needed for special geographic or population needs. The Commission shall consider additional timelines on an ad hoc basis through consultation with the Indian Tribe or Native Hawaiian organization over the Tribal lands of which the third-party licensee possesses a valid spectrum license. Considerations of any modified timelines must be made with the written consent of the Indian Tribe or Native Hawaiian organization.
+(C)
+Other additional considerations
+Additional considerations may be made by the Commission where existing technical rules are insufficient or circumstances are present to unnecessarily restrict types of services that may be deployed within the Tribal lands with the consent of the Indian Tribe or Native Hawaiian organization.
+(D)
+Additional rulemaking proceedings
+The Commission shall, at the request of Indian Tribes or Native Hawaiian organizations, conduct specific rulemaking proceedings where service-specific technical issues arise under this subsection.
+(b)
+Failure To negotiate in good faith for existing spectrum licenses and spectrum over Tribal lands
+(1)
+Opportunity to secure access
+Where third-party spectrum licenses have been authorized and the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity can show that the third-party licensee entered into negotiations or auctions or secured assignment of an existing spectrum license over Tribal lands in bad faith, the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity shall have an opportunity to secure the Indian Tribeâs or Native Hawaiian organizationâs access to such spectrum licenses.
+(2)
+Process
+The Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity where the spectrum is located may file a Notice of Intent with the Commission to initiate the failure to negotiate in good faith exemption process under this subsection to expedite reversion of the spectrum license rights over Tribal lands and make available the spectrum license rights to the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity over the Tribal lands or Hawaiian Homelands where it is located such spectrum license rights to such Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity.
+(3)
+Timing
+The Notice of Intent can be filed at any time during the license term, provided that the filing Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity can demonstrate that the third-party licensee failed to negotiate in good faith in previous dealings before the filing of the Notice of Intent.
+(4)
+Standard
+An Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity may demonstrate the third-party licensee failed to meet the good faith negotiation requirement through the totality of the circumstances standard in presenting the case of the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity to the Commission. In demonstrating that the third-party licensee negotiated in bad faith, the Commission shall evaluate whether the negotiations were made in good faith through the totality of the circumstances standard.
+(5)
+Good faith negotiation requirement factors
+The relevant factors to determine whether the third-party licensee failed to negotiate in good faith are to include the following objective elements of negotiation standards:
+(A)
+The third-party licensee must have appointed a negotiating representative with authority to bargain on partitioning and spectrum licensing issues.
+(B)
+The third-party licensee must have agreed to meet at reasonable times and locations with adequate notice.
+(C)
+The third-party licensee must not have acted in a manner that would unduly delay the course of negotiations.
+(D)
+The third-party licensee must not have put forth an unreasonable, unilateral proposal or further demonstrated an unwillingness to consider alternative reasonable terms or counterproposals. Bargaining without consideration of reasonable alternatives is inconsistent with an affirmative obligation to negotiate in good faith.
+(E)
+The third-party licensee must have showed good faith in negotiations through implementing or concluding action within a reasonable time period with reasonable notice and forum requests that are standard for negotiating practices. This standard is also applicable to any proposed forum requests by either party. Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities availing themselves of this process can also make a showing that the third-party licensee had reasonable notice or understanding that the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity did not have the financial means to fulfill the third-party licenseeâs expedited timing or change of forum requests or that extenuating circumstances existed that prohibited reasonable conduct to execute negotiations.
+(F)
+The Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity that is responding to an offer proposed by the third-party licensee must also provide reasons and consideration for rejecting aspects of the third-party licenseeâs offer in writing.
+(6)
+Additional considerations
+The Commission may make additional considerations for unreasonable behavior or egregious behavior for the totality of the circumstances standard under this subsection to determine whether a party negotiated in bad faith.
+(c)
+Safe harbor exemption for existing third-Party licensees
+Where a third-party licensee that holds a license to use spectrum over Tribal lands and has failed to meet additional construction requirements determined by the Commission under section 6(a)(5), a safe harbor exemption may apply to the third-party licensee, if such licensee has deployed coverage to at least 90 percent of the geographic area over the Tribal lands within its license coverage area.
+7.
+Tribal Broadband Fund
+(a)
+In general
+The Commission shall establish, as an additional universal service support mechanism under section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+), a mechanism to be known as the
+Tribal Broadband Fund
+. The Tribal Broadband Fund shall provide a source of funds for networks and infrastructure buildout over Tribal lands, including support for infrastructure deployment,
+middle mile
+and long haul fiber buildout, adoption of digital literacy on Tribal lands, and other related activities to ensure Tribal lands have full access to high-speed wireless broadband services and telecommunications services and other spectrum use.
+(b)
+Sources of funding
+In addition to universal service contributions under section 254(d) of the Communications Act of 1934 (
+47 U.S.C. 254(d)
+), the Tribal Broadband Fund shall be funded through proceeds from systems of competitive bidding under section 309(j) of the Communications Act of 1934 (
+47 U.S.C. 309(j)
+) (notwithstanding paragraph (8) of such section) and any other accounts or reserve funds available to the Commission, in amounts to be determined under subsection (e). Should the Commission find that the Commission cannot robustly fund the Tribal Broadband Fund from these existing sources, the Commission shall undertake a rulemaking proceeding to determine whether the imposition of additional universal service contributions is necessary to ensure a Tribal Broadband Fund commensurate with the funding need, purposes, and implementation determined pursuant to subsection (e).
+(c)
+Prioritization
+Funding allocations shall be prioritized under the Tribal Broadband Fund where telecommunications or wireless broadband services have been either not deployed or inadequately deployed over Tribal lands. This includes
+middle mile
+fiber, backhaul costs, and repairs to damaged infrastructure, the cost of the repairs to which would be less expensive than the cost of new infrastructure.
+(d)
+Technical assistance
+The Commission shall provide requested technical assistance, training programs, and grants to assist Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities, the Director of the Department of Hawaiian Home Lands, inter-Tribal government organizations, and universities and colleges with Tribal serving institutions for the purpose of immediate deployment of telecommunications or wireless broadband services or infrastructure development over Tribal lands.
+(e)
+Rulemaking proceeding
+(1)
+Consultation
+Not later than 60 days after the date of the enactment of this Act, the Commission shall initiate and complete the rulemaking process with robust, interactive, pre-decisional, informative, and transparent consultation with Indian Tribes, Native Hawaiian organizations, and interested qualifying Tribal entities in order for them to obtain free, prior, and informed consent to determine the appropriate funding for the Tribal Broadband Fund from the sources described in subsection (b) (including annual set-asides from each such source for the Tribal Broadband Fund), uses and administration of the Tribal Broadband Fund, and any other issues related to the establishment and implementation of the Tribal Broadband Fund. This will omit any competitive bidding requirements and any unnecessary barriers or limitations on funding for Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities to expedite the immediate deployment of current generation or better terrestrial and wireless broadband services, where none are available or need to be updated or built out for the use of critical government services, national emergencies, natural disasters, or life-saving services.
+(2)
+Advisory agency memorandum
+Not later than 6 months after the date of the enactment of this Act, the Commission shall provide Indian Tribes, Native Hawaiian organizations, and interested qualifying Tribal entities with an advisory agency memorandum on the issues addressed in paragraph (1). Such memorandum shall clearly outline the comment process and timeline for responses.
+(3)
+Notice of proposed rulemaking
+Not later than 12 months after the date of the enactment of this Act, the Commission shall release a Notice of Proposed Rulemaking, as described in paragraph (2).
+(4)
+Final order
+Not later than 18 months after the date of the enactment of this Act, the Commission shall release a final order, adopting rules and policies associated with the establishment, implementation, and administration of the Commissionâs permanent Tribal Broadband Fund.
+(f)
+Rule of construction
+Nothing in this section shall be construed to limit Indian Tribes, Native Hawaiian organizations, or qualifying Tribal entities from accessing existing or additional funding through the Commission or any other Federal agency.
+8.
+Directing the Commission to engage in rulemaking proceedings for broadband development on Tribal lands
+(a)
+Purpose
+The purpose of this section is to require the Commission to initiate and complete separate rulemaking proceedings under subsections (c), (d), and (e) to provide additional clarification for the deployment and buildout of telecommunications, broadband, and wireless services and other full use of spectrum over Tribal lands and Hawaiian Homelands, including existing reservations, landless Indian Tribes, noncontiguous land holdings, uniquely situated Indian Tribes, and Hawaiian Home Lands.
+(b)
+Timing
+For each of the rulemakings listed under subsections (c), (d), and (e), the Commission shall initiate or complete each step according to the following timeline:
+(1)
+Consultation
+Consultation shall be initiated not later than 6 months after the date of the enactment of this Act.
+(2)
+Advisory agency memoranda
+Advisory agency memoranda shall be issued not later than 12 months after the date of the enactment of this Act.
+(3)
+Notices of Proposed Rulemaking
+Notices of Proposed Rulemaking shall be issued not later than 18 months after the date of the enactment of this Act.
+(4)
+Final rules
+Orders promulgating final rules shall be issued not later than 24 months after the date of the enactment of this Act.
+(c)
+Tribal consultation and engagement
+(1)
+In general
+The Commission shall initiate and complete a rulemaking proceeding to best determine how to conduct robust, interactive, pre-decisional, informative, and transparent consultation with Indian Tribes and Native Hawaiian organizations in order to obtain free, prior, and informed consent prior to the approval of, and before adopting administrative measures that affect Tribal lands, or other associated Tribal resources. Prior to initiating such proceeding, the Commission shall also engage with the FCC Native Nations Communications Task Force, qualifying Tribal entities, Native-owned telecommunications providers, and Tribal organizations with telecommunications expertise.
+(2)
+Primary goal
+The primary goal of the rulemaking under paragraph (1) shall be to determine how the Commission can best establish a binding agency policy for Tribal consultation for policy development and agency action to provide proper notice and guidance, introduce mapping tools, provide robust outreach, and make government-to-government training accessible to Indian Tribes and Native Hawaiian organizations to preserve and develop spectrum rights and spectrum access over Tribal lands, and to expedite the immediate deployment of wireless broadband services, other wireless services, or other full use of spectrum over Tribal lands for critical government services, national emergencies, natural disasters, or life-saving services.
+(3)
+Additional consultation
+In conducting the rulemaking under paragraph (1), the Commission shall engage with Native Hawaiian organizations, and appropriate authorities of the State of Hawaii, to identify and designate potential existing entities within the State government of Hawaii, and the Native Hawaiian organizations or the community, for standing as licensable entities for the purpose of spectrum licensing rights and spectrum over the Hawaiian Home Lands.
+(4)
+Notice
+The Commissionâs Tribal consultation meetings shall be made open to the public and subject to reasonable and timely notice published in the Federal Register, and through other appropriate public methods, not later than 30 days prior to the scheduled meeting. The Commission shall make additional considerations for adequate notification to Indian Tribes, Native Hawaiian organizations, and interested qualifying Tribal entities, that lack telecommunications services on Tribal lands.
+(5)
+Additional consultation and notice
+Open and public Tribal consultation and appropriate notice and outreach to Indian Tribes, Native Hawaiian organizations, and interested qualifying Tribal entities shall be presented during each of the additional rulemakings prescribed in this section. The Commission shall conduct each such additional rulemaking in accordance with the rules for consultation issued by the Commission in the rulemaking under paragraph (1) of this subsection.
+(d)
+Tribal economic development
+(1)
+Available funding opportunities
+(A)
+In general
+The Commission shall initiate and complete a rulemaking proceeding to streamline applications to expedite funding (including through the Commissionâs funding opportunities and other funding opportunities that may be available through other agencies) on Tribal lands for buildout of telecommunications, broadband, and wireless services, or other full use of spectrum or infrastructure development over Tribal lands for critical government services and national emergencies.
+(B)
+ONAP Federal Funding Director
+In the rulemaking under subparagraph (A), the Commission shall establish within the Office of Native Affairs and Policy (ONAP) of the Commission the position of Federal Funding Director. The Director shall have the following duties:
+(i)
+To coordinate with Indian Tribes, Native Hawaiian organizations, and interested qualifying Tribal entities to access the Commissionâs funding opportunities, or other funding opportunities that may be available through other agencies, and assist with the application processes for the Tribal Broadband Fund and other universal service support mechanisms.
+(ii)
+To coordinate with other Federal agencies that provide telecommunications and infrastructure funding to Indian Tribes, Native Hawaiian organizations, or interested qualifying Tribal entities to assist with expedited wireless broadband service and other telecommunications deployment over Tribal lands.
+(2)
+New Tribal Spectrum Market
+(A)
+In general
+The Commission shall initiate and complete a rulemaking proceeding to establish a new Tribal Spectrum Market. Such market shall be an optional forum solely for the participation of Indian Tribes, qualifying Tribal entities, and Native Hawaiian organizations to engage with other Indian Tribes, qualifying Tribal entities, and Native Hawaiian organizations for leasing and assignment opportunities for the purpose of economic and business development on Tribal lands for participants who choose to participate. Participation in such market shall not disallow Indian Tribes, Native Hawaiian organizations, or qualifying Tribal entities from participating in any other auction forum, or hinder their participation in secondary markets.
+(B)
+Purpose
+In furtherance of the Federal trust responsibility, Tribal self-governance, and to develop robust economic resources on Tribal lands, the Commission shall make all unwanted spectrum over Tribal lands available to other Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities through the Tribal Spectrum Market and notify other Indian Tribes, Native Hawaiian organizations, and interested qualifying Tribal entities identified under subsection (c) through adequate notification processes established under this Act. Participants identified under this subsection must provide written consent to the Commission to make their unwanted spectrum over Tribal lands available to other Indian Tribes, Native Hawaiian organizations, or qualifying Tribal entities through the Tribal Spectrum Market.
+(C)
+Limitations
+Participants that are not identified under subsection (d)(2)(B) above shall not be eligible to participate in the Tribal Spectrum Market.
+(e)
+Undefined areas for development and deployment of Tribal broadband, wireless services, and spectrum
+(1)
+Areas of Tribal interests and non-geographically defined areas
+The Commission shall initiate and complete a rulemaking proceeding to address unique land status on Tribal lands and associated undefined geographic areas of interest, includingâ
+(A)
+spectrum that is not geographically defined due to spectrum propagation characteristics; and
+(B)
+with respect to the build or divest process under section 6(a), questions over control of meteorological spectrum licenses over Tribal lands.
+(2)
+Primary Tribal areas of interest
+The Commission shall initiate and complete a rulemaking proceeding to create licensing areas for Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities to provide spectrum licenses covering areas that are primary Tribal areas of interest, including noncontiguous land holdings, small or uniquely situated Indian Tribes, and undefined Tribal lands or undefined Hawaiian Home Lands. Such proceeding shall also address deployment of digital services and other full use of spectrum over Tribal lands, including spectrum development, infrastructure, and deployment of wireless broadband service and other wireless services for landless Indian Tribes or Native Hawaiian communities.
+(3)
+Interrelationship of spectrum usage on Tribal lands and contiguous areas
+The Commission shall initiate and complete a rulemaking proceeding to review the interrelationship between spectrum usage on Tribal lands and spectrum usage in areas contiguous to Tribal lands, includingâ
+(A)
+Indian Tribesâ, Native Hawaiian organizationsâ, and qualifying Tribal entitiesâ ability to make wireless services available to Tribal members who reside in areas just outside the boundaries of Tribal lands; and
+(B)
+interference issues with neighboring licenses.
+(4)
+Military, national security, and international laws for spectrum management and coordination
+The Commission shall, in consultation with the Secretary of Defense and the Secretary of Commerce, initiate and complete a rulemaking proceeding to develop a nationwide framework for spectrum management and coordination thatâ
+(A)
+addressesâ
+(i)
+the relationship of spectrum over Tribal lands to spectrum used by the Federal Government, including the Department of Defense; and
+(ii)
+the relationship of spectrum over Tribal lands to international laws and negotiations relating to the use of spectrum, including international exclusion zones; and
+(B)
+provides for the requirements of this Act relating to spectrum over Tribal lands to be administered pursuant to existing policies and procedures for spectrum management and coordination.
+(5)
+New buildout requirements for existing license holders
+In carrying out section 6(a) (relating to the build or divest process), the Commission shall do the following:
+(A)
+Additional construction requirements for large or remote Tribal lands
+Where an existing third-party licensee has satisfied the applicable construction requirements for a license over Tribal lands, yet the area that the license covers remains underserved, the Commission shall initiate and complete a rulemaking proceeding to determine an additional construction requirement for the Tribal lands of large, land-based Indian Tribes to expedite service and immediate broadband and telecommunications deployment or other full use of spectrum over Tribal lands.
+(B)
+Additional timeline considerations
+Subject to section 6(a), the Commission shall consider additional timelines on an ad hoc basis through Tribal consultation with the Indian Tribe or Native Hawaiian organization in which the third-party licensee possesses a valid spectrum license over Tribal lands. Considerations of any modified timelines must be made with the adequate consent of the Indian Tribe or Native Hawaiian organization.
+(6)
+Specific bands of available spectrum over Tribal lands
+(A)
+In general
+The Commission shall initiate and complete a rulemaking proceeding to identify the licensed and unlicensed spectrum bands that are available for deployment of services over Tribal lands as defined under this Act, including existing reservations, landless Indian Tribes, noncontiguous land holdings, uniquely situated Indian Tribes, and the Hawaiian Home Lands.
+(B)
+Requirements
+In carrying out subparagraph (A), the Commission shallâ
+(i)
+hold field hearings initiated with adequate notice;
+(ii)
+establish and make public specific processes to identify available spectrum bands over Tribal lands; and
+(iii)
+submit an analytical report to Congress to be made available to Indian Tribes, Native Hawaiian organizations, and associated Tribal entities identified under subsection (c)(1).
+(7)
+Additional revision and buildout requirements to expedite deployment of wireless services
+(A)
+In general
+The Commission shall initiate and complete a rulemaking proceeding to establish expedited buildout requirements for existing third-party licensees that hold a license over Tribal lands. These new buildout requirements shall preempt buildout requirements established before the date of the enactment of this Act.
+(B)
+Purposes
+The purpose of the establishment of these new buildout requirements is not intended to revoke spectrum licenses from third-party licensees, but to ensure that development of telecommunications networks or other full use of spectrum over Tribal lands is expedited to deploy critical government services, provide access to life-saving resources, and establish currently nonexistent communication for national emergencies over Tribal lands to match the average coverage rates for fixed broadband services on non-Tribal lands or the nearest metropolitan area.
+(8)
+Development of rights-of-way and broadband deployment
+(A)
+In general
+In strict compliance with Tribal consultation and notice procedures established under subsection (c), the Commission shall, in conjunction with the Secretary of the Interior or the heads of other participating Federal agencies, initiate and complete a rulemaking proceeding to issue nonbinding, model regulations for grants of rights-of-way over Tribal lands for the potential development of telecommunications infrastructure. If the Commission, the Secretary of the Interior, or the head of another participating Federal agency initiates and completes an aforementioned rulemaking proceeding without pre-decisional, informative, and transparent Tribal consultation, as specified under subsection (c), it shall be invalid guidance considered nonbinding precedent on any subsequent decisions.
+(B)
+Issue areas to be included
+Any model regulations issued under subparagraph (A) shall include analysis of right-of-way buildout proposals and broadband deployment generally as it relates to Indian Tribes, Native Hawaiian organizations or communities, and Tribal lands, including the following:
+(i)
+Permitting and review process generally, including land use permitting and facilities siting.
+(ii)
+Review processes and robust, interactive guidelines in compliance with the National Environmental Policy Act of 1969 (
+42 U.S.C. 4321 et seq.
+), including small-cell infrastructure.
+(iii)
+Review processes and guidelines in compliance with division A of subtitle III of title 54, United States Code (formerly known as the
+National Historic Preservation Act
+(
+16 U.S.C. 470 et seq.
+)), including small-cell infrastructure.
+(iv)
+Potential damage to sacred sites and heritage sites on or near Tribal lands.
+(v)
+Additional considerations and analysis for Indian Tribes, Native Hawaiian organizations, and Tribal lands with respect to the impacts of expedited permitting decisions and buildout requirements for broadband projects or other future development of telecommunications infrastructure or spectrum development over Tribal lands and deployment of new generation networks, with an emphasis on 5G networks generally.
+(vi)
+Procedural proposals on how to best establish robust Tribal consultation between Indian Tribes and Native Hawaiian organizations and the Commission, and other associated Federal agencies, for the development of optional rights-of-way for broadband deployment, spectrum use or development, or telecommunications infrastructure.
+9.
+Technical assistance for spectrum management, contractual agreements, and procedural requirements
+(a)
+Spectrum management
+At the request of an Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity, the Commission, acting through the Office of Native Affairs and Policy, shall provide technical assistance and guidance for the most efficient and effective use of spectrum and spectrum management for the benefit of the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity that submitted the request, including deployment of wireless services or other full use of spectrum over Tribal lands. This technical assistance and guidance shall include the following:
+(1)
+Best practices for Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities to secure access to spectrum and manage spectrum.
+(2)
+How to best expedite the immediate deployment of broadband and telecommunications services or other full use of spectrum over Tribal lands, including support forâ
+(A)
+infrastructure development, fiber buildout, adoption of digital literacy on Tribal lands, and other related activities to ensure Indian Tribes and Native Hawaiian organizations have full access to resources for robust deployment of broadband and telecommunications services or other full use of spectrum over Tribal lands;
+(B)
+assistance for procedures enumerated under sections 5, 6, and 7; and
+(C)
+participation in the Tribal Spectrum Market and other spectrum programs managed by the Commission.
+(3)
+Coordination with other Federal agencies for activities related to Tribal spectrum management, deployment of wireless services, infrastructure development, or other full use of spectrum over Tribal lands, or related activities, including coordinating with all applicable agencies with available Federal funding opportunities for which Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities are eligible to apply to further support deployment of broadband on Tribal lands.
+(b)
+Contractual agreements and notice of intent requirements
+The Commission, acting through the Office of Native Affairs and Policy, shall provide technical assistance and guidance to the Indian Tribe, Native Hawaiian organization, and qualifying Tribal entity that submitted the request on the activities under this Act, including, but not limited toâ
+(1)
+contractual negotiations to assign or lease spectrum to other Indian Tribes, Native Hawaiian organizations, qualifying Tribal entities, or third-party licensees, including general information relating to activities under section 5(b) (including the fair market value of spectrum licenses, deployment of telecommunications services, and penalties under paragraph (3)(C)(ii) of such section) and participation in the Tribal Spectrum Market; and
+(2)
+filing a Notice of Intent and associated procedures and timelines specified under section 6.
+(c)
+Wireless broadband deployment and adoption
+(1)
+In general
+The Commission shall, acting through the Office of Native Affairs and Policy and at the request of an Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity, provide technical assistance to apply for and participate in the Tribal Broadband Fund, other universal service support mechanisms, and the Tribal Spectrum Market. Requests under this paragraph from Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities shall receive priority where telecommunications or wireless broadband services on Tribal lands have either not been deployed or have been inadequately deployed. This includes assistance for associated backhaul, repairs to damaged infrastructure, or new infrastructure to deploy wireless broadband service.
+(2)
+Additional technical assistance
+In addition to the technical assistance provided under paragraph (1), the Commission shall provide further technical assistance that includes training programs and grant assistance to Indian Tribes, Native Hawaiian organizations, qualifying Tribal entities, the Director of the Department of Hawaiian Home Lands, inter-Tribal government organizations, and universities and colleges with Tribal serving institutions for the purpose of immediate deployment of telecommunications or wireless broadband services, infrastructure development over Tribal lands, and related activities identified under this Act.
+(d)
+Department of the Interior, Department of Commerce, and Commission
+The Secretary of the Interior, the Secretary of Commerce, and the Commission shall provide technical assistance to Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities (and, if located on Tribal lands, to schools, libraries, health care facilities, public safety entities, Tribal chapter houses, community centers, government buildings of an Indian Tribe, and locations where Tribal, State, and Federal elections and census activities are carried out) to resolve barriers to the deployment and adoption of wireless broadband service and other services provided using spectrum, includingâ
+(1)
+classes or other education related to computer literacy;
+(2)
+acquisition of computers and related hardware and software;
+(3)
+use of wireless broadband service and computers for public safety and emergency communications services and interoperability;
+(4)
+use of spectrum and wireless broadband service and computers where Tribal, State, and Federal elections and census activities are carried out;
+(5)
+use of spectrum and wireless broadband service and computers to respond to public emergencies, including health and biohazard threats and natural disasters; and
+(6)
+such other areas as the Commission, or relevant Federal agencies that have a role conducting activities on Tribal lands, determines to be advisable to increase the deployment and adoption of wireless broadband service and other services provided using spectrum on Tribal lands, or where an Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity holds a valid and active spectrum license.
+(e)
+Additional requirements
+Nothing under this section should limit or supersede the Commissionâs, or other Federal agenciesâ, existing responsibilities or engagement with Indian Tribes, Native Hawaiian organizations or communities, and qualifying Tribal entities.
+10.
+Annual reporting requirements
+(a)
+Annual report
+Not later than 18 months after the date of the enactment of this Act, and annually thereafter, the Commission shall submit to Congress and the Federal agencies specified in subsection (b) both a report on the deployment of broadband and a spectrum license inventory over Tribal lands that include the following information:
+(1)
+The Commissionâs work with Indian Tribes, Native Hawaiian organizations, qualifying Tribal entities, and associated Tribal organizations, including spectrum-related matters, and efforts to bolster Tribal outreach through individual consultation, funding access, expansion of access to broadband or other full use of spectrum over Tribal lands, activities executed through the Office of Native Affairs and Policy, rulemakings that have been executed related to such matters under this Act, and general updates.
+(2)
+The Commissionâs data collection on whether spectrum license and auction applicants and existing spectrum license holders over Tribal lands are either Indian Tribes, Native Hawaiian organizations, qualifying Tribal entities, or third-party licensees. The Commission shall implement a requirement to record the ownership classification of all future spectrum licenses and new agreements established under section 5(b).
+(3)
+A verification that the Commission has provided information about assigned and unassigned licenses and license holders to the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity where the licenses are geographically located, including a detailed description of the licenses, license holders, and the Indian Tribe, Native Hawaiian organization, or qualifying Tribal entity to which the information was provided.
+(4)
+Verification that the Commission has made contact information easily accessible for Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities about participation in any opportunities to operate spectrum licenses over Tribal lands, secondary market opportunities, and the respective processes.
+(5)
+Geographic locations on Tribal lands where broadband or wireless telecommunications services have not been built out or deployed.
+(6)
+Recommendations on how the Commission will support Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities to obtain spectrum licenses and further deploy broadband connectivity and other wireless telecommunications services over Tribal lands where networks have not been developed.
+(7)
+Publication of available Federal funding across all agencies for which Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities are eligible to apply to further support deployment of broadband and telecommunications services on Tribal lands.
+(b)
+Submission of recommendations
+Not later than 18 months after the date of the enactment of this Act, the Commission shall make publicly available and submit all annual reporting and recommendations developed under subsection (a) toâ
+(1)
+Indian Tribes, Department of Hawaiian Home Lands, and Native Hawaiian organizations;
+(2)
+the Department of the Interior;
+(3)
+the Committee on Indian Affairs of the Senate;
+(4)
+the Committee on Natural Resources of the House of Representatives;
+(5)
+the Committee on Commerce, Science, and Transportation of the Senate;
+(6)
+the Committee on Energy and Commerce of the House of Representatives;
+(7)
+the FCC Native Nations Communications Task Force;
+(8)
+Tribal organizations with telecommunications expertise; and
+(9)
+requesting qualifying Tribal entities.
+11.
+Definitions
+In this Act:
+(1)
+Advisory agency memorandum
+The term
+advisory agency memorandum
+means documentation to be produced by the Commission after each Tribal consultation, prior to the development of Commission policy, or execution of Commission action that impacts Tribal interests or Tribal lands. The purpose of such documentation is to make available to the public documentation of the proactive measures of the Commission to provide proper notice and guidance, introduce policy proposals, provide robust outreach, and make government-to-government training and communication accessible to Indian Tribes, Department of Hawaiian Home Lands, and interested Native Hawaiian organizations to preserve existing Tribal resources and further develop Tribal interests on Federal lands in furtherance of the trust responsibility. Such documentation shall establish the scope, purpose, timelines, relevant Bureaus and Offices of the Commission, and relevant Commission actor for each Tribal consultation. Such documentation shall include the method for disseminating information to the public, and the dates and method of outreach to the relevant Indian Tribes, Native Hawaiian organizations, and interested qualifying Tribal entities.
+(2)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(3)
+Critical government service
+The term
+critical government service
+means any service provided by an Indian Tribe or Native Hawaiian organization, or Department of Hawaiian Home Lands, or through an extension or qualifying Tribal entity of an Indian Tribe, that is used toâ
+(A)
+preserve or protect Tribal self-governance;
+(B)
+control internal relations;
+(C)
+create economic development and the opportunity for residents of Tribal lands, Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities to engage in the broadband economy, telecommunications markets, and future development of spectrum;
+(D)
+regulate Tribal lands and internal domestic relations; or
+(E)
+manage governmental services, buildings, or emergency response, includingâ
+(i)
+response to national emergencies or biohazard threats;
+(ii)
+public safety;
+(iii)
+education;
+(iv)
+healthcare services and data;
+(v)
+development of natural resources;
+(vi)
+postal services;
+(vii)
+Tribal buildings (including libraries, Tribal chapter houses, long houses, senior centers, community centers, and other similar government buildings of an Indian Tribe or Native Hawaiian organization with community purpose);
+(viii)
+cultural and language preservation;
+(ix)
+voting and services relating to voting in Tribal, State, and Federal elections;
+(x)
+services relating to the Federal census count, for the general welfare and sustainability of its Tribal lands or membership, and realization of full autonomy of resource management and economic development, activity, and opportunity; or
+(xi)
+additional essential governmental services, including infrastructure and economic development, that provide support to an Indian Tribeâs programs and services.
+(4)
+Digital literacy
+The term
+digital literacy
+means information and communications for the purpose of developing support for technological deployment and understanding of issues including infrastructure deployment, fiber buildout, network connectivity, spectrum market opportunities, associated Commission programs and funding opportunities, and other related resources to expedite the immediate deployment and full access to telecommunications, broadband, spectrum, and wireless services available for effective and efficient use on Tribal lands.
+(5)
+Hawaiian Home Lands
+The term
+Hawaiian Home Lands
+means lands held in trust for Native Hawaiians by Hawaii pursuant to the Hawaiian Homes Commission Act, 1920.
+(6)
+Indian Tribe
+The term
+Indian Tribe
+means the governing body of any individually identified and federally recognized Indian or Alaska Native Tribe, band, nation, pueblo, village, community, affiliated Tribal group, or component reservation in the list published pursuant to section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (
+25 U.S.C. 5131(a)
+).
+(7)
+Native Hawaiian Organization
+The term
+Native Hawaiian organization
+â
+(A)
+means any organizationâ
+(i)
+that serves the best interests of Native Hawaiians;
+(ii)
+in which Native Hawaiians serve in substantive and policymaking positions;
+(iii)
+that has as a primary and stated purpose the provision of services to Native Hawaiians;
+(iv)
+that is recognized for having expertise in Native Hawaiian affairs, including digital connectivity and broadband access; and
+(v)
+that administers land applicable under paragraph (13); and
+(B)
+includes the Department of Hawaiian Home Lands.
+(8)
+Qualifying Tribal entity
+The term
+qualifying Tribal entity
+means an entity designated by the Indian Tribe with jurisdiction over particular Tribal lands for which the spectrum access is sought. The following may be designated as a
+qualifying Tribal entity
+:
+(A)
+Indian Tribes.
+(B)
+Tribal consortia which consists of two or more Indian Tribes; or an Indian Tribe and an entity that is more than 50 percent owned and controlled by one or more Indian Tribes.
+(C)
+Federally chartered Tribal corporations created under section 17 of the Indian Reorganization Act (
+25 U.S.C. 5124
+), and created under section 4 of the Oklahoma Indian Welfare Act (
+25 U.S.C. 5204
+).
+(D)
+Entities that are more than 50 percent owned and controlled by an Indian Tribe or Indian Tribes.
+(9)
+Entity that is more than 50 percent owned and controlled by one or more Indian Tribes
+The term
+entity that is more than 50 percent owned and controlled by one or more Indian Tribes
+means an entity over which one or more Indian Tribes have both de facto and de jure control of the entity. De jure control of the entity is evidenced by ownership of greater than 50 percent of the voting stock of a corporation, or in the case of a partnership, general partnership interests. De facto control of an entity is determined on a case-by-case basis. An Indian Tribe or Indian Tribes must demonstrate indicia of control to establish that such Indian Tribe or Indian Tribes retain de facto control of the applicant seeking eligibility as a
+qualifying Tribal entity
+, including the following:
+(A)
+The Indian Tribe or Indian Tribes constitute or appoint more than 50 percent of the board of directors or management committee of the entity.
+(B)
+The Indian Tribe or Indian Tribes have authority to appoint, promote, demote, and fire senior executives who control the day-to-day activities of the entity.
+(C)
+The Indian Tribe or Indian Tribes play an integral role in the management decisions of the entity.
+(D)
+The Indian Tribe or Indian Tribes have the authority to make decisions or otherwise engage in practices or activities that determine or significantly influenceâ
+(i)
+the nature or types of services offered by such an entity;
+(ii)
+the terms upon which such services are offered; or
+(iii)
+the prices charged for such services.
+(10)
+Spectrum over Tribal lands
+The term
+spectrum over Tribal lands
+means all spectrum on Tribal lands, including wireless, radio, television, broadcast, commercial and noncommercial uses, and current generation or better wireless broadband services.
+(11)
+Third-party licensee
+The term
+third-party licensee
+means a third party or qualifying Tribal entity that possesses valid spectrum license rights over Tribal lands, or an eligible third-party licensee that an Indian Tribe or Native Hawaiian organization chooses to negotiate spectrum licenses for telecommunications services for the agreed-upon time period of the license contract on the specified geographic area on Tribal lands where it must meet its construction obligation or requirements.
+(12)
+Tribal Broadband Fund
+The term
+Tribal Broadband Fund
+means the additional universal service support mechanism established by the Commission under section 7 to provide Federal funding to Indian Tribes, Native Hawaiian organizations, and qualifying Tribal entities from universal service contributions, auctions proceeds, or any other accounts or reserve funds available to the Commission, for the purpose of providing a source of support for infrastructure deployment,
+middle mile
+and long haul fiber buildout, adoption of digital literacy, and other related resources to expedite the immediate deployment of and full access to telecommunications, broadband, spectrum use and future development, wireless services (including wireless broadband service), and other purposes specified under section 7 for effective and efficient use on Tribal lands.
+(13)
+Tribal lands
+The term
+Tribal lands
+has the meaning given that term in section 73.7000 of title 47, Code of Federal Regulations, as of April 16, 2020, and includes the definition
+Indian Country
+as defined in section 1151 of title 18, United States Code, and includes fee simple and restricted fee land held by an Indian Tribe. This term also includes the definition
+Hawaiian Home Lands
+as defined under paragraph (5).
+(14)
+Wireless broadband service
+The term
+wireless broadband service
+means wireless broadband internet access service that is deliveredâ
+(A)
+with a download speed of not less than 25 megabits per second and an upload speed of not less than 3 megabits per second; and
+(B)
+throughâ
+(i)
+mobile service;
+(ii)
+fixed point-to-point multipoint service;
+(iii)
+fixed point-to-point service; or
+(iv)
+broadcast service.

@@ -1,0 +1,94 @@
+1.
+Short title
+This Act may be cited as the
+Prevent Election Hacking Act of 2018
+.
+2.
+Hack the Election Program
+(a)
+Establishment
+Not later than 1 year after the date of the enactment of this Act, the Secretary shall establish a program to be known as the
+Hack the Election Program
+to improve the cybersecurity of the systems used to administer elections for Federal office by facilitating and encouraging assessments by independent technical experts, in cooperation with State and local election officials and election service providers, to identify and report election cybersecurity vulnerabilities.
+(b)
+Voluntary participation by election officials and election service providers
+(1)
+No requirement to participate in program
+Participation in the Hack the Election Program shall be entirely voluntary for State and local election officials and election service providers.
+(2)
+Encouraging participation and input from election officials
+In developing the Hack the Election program under this section, the Secretary shall solicit input from, and encourage participation by, State and local election officials.
+(c)
+Activities funded
+In establishing the Hack the Election Program under this section, the Secretary shallâ
+(1)
+establish a recurring competition for independent technical experts to assess election systems for the purpose of identifying and reporting election cybersecurity vulnerabilities;
+(2)
+establish an expeditious process by which independent technical experts can qualify to participate in the competition;
+(3)
+establish a schedule of awards (monetary or non-monetary) for reports of previously unidentified election cybersecurity vulnerabilities discovered by independent technical experts during the competition;
+(4)
+establish a process for State and local election officials and election service providers to voluntarily participate in the program by designating specific election systems, periods of time, and circumstances for assessment by independent technical experts; and
+(5)
+promptly notify State and local election officials and election service providers about relevant election cybersecurity vulnerabilities discovered through the competition, and provide technical assistance in remedying the vulnerabilities.
+(d)
+Use of service providers
+The Secretary may award competitive contracts as necessary to manage the Hack the Election Program under this section.
+(e)
+Consultation with Secretary of Defense
+In developing the Hack the Election Program under this section, the Secretary shall consult with the relevant offices at the Department of Defense that were responsible for launching the 2016
+Hack the Pentagon
+pilot program and subsequent Department of Defense bug bounty programs.
+3.
+Safe harbor for participants in Program
+(a)
+In general
+Notwithstanding section 1030 of title 18, United States Code, and except as provided in subsection (b), it shall not be unlawful for a person acting in compliance with the Hack the Election Program under section 2 to take actions necessary to discover and report an election cybersecurity vulnerability if the person reports the cybersecurity vulnerability to the Secretary.
+(b)
+Limitation
+Subsection (a) shall not apply to any person thatâ
+(1)
+acts outside the scope of the Hack the Election Program;
+(2)
+exploits an election cybersecurity vulnerability; or
+(3)
+publicly exposes an election cybersecurity vulnerability before reporting the vulnerability to the Secretary.
+4.
+Definitions
+In this Act, the following definitions apply:
+(1)
+The terms
+election
+and
+Federal office
+have the meanings given such terms in section 301 of the Federal Election Campaign Act of 1971 (
+52 U.S.C. 30101
+).
+(2)
+The term
+election cybersecurity vulnerability
+means any security vulnerability (as defined in section 102 of the Cybersecurity Information Sharing Act of 2015 (
+6 U.S.C. 1501
+)) that affects an election system.
+(3)
+The term
+election service provider
+means any person providing, supporting, or maintaining an election system on behalf of a State or local election official, such as a contractor or vendor.
+(4)
+The term
+election system
+means any information system (as defined in section 3502 of title 44, United States Code) used for the management, support, or administration of an election for Federal office, such as a voting system, a voter registration website or database, an electronic pollbook, a system for tabulating or reporting election results, or the email system of a State or local election official.
+(5)
+The term
+Secretary
+means the Secretary of Homeland Security, or, upon designation by the Secretary of Homeland Security, the Deputy Secretary of Homeland Security, the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department, or a Senate-confirmed official that reports to that Under Secretary.
+(6)
+The term
+State
+means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of Northern Mariana Islands, and the United States Virgin Islands.
+(7)
+The term
+voting system
+has the meaning given such term in section 301(b) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(b)
+).

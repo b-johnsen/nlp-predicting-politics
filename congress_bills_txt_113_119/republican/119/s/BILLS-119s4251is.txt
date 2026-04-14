@@ -1,0 +1,927 @@
+1.
+Short title
+This Act may be cited as the
+Mined in America Act of 2026
+.
+2.
+Findings; purpose
+(a)
+Findings
+Congress finds thatâ
+(1)
+blockchain and digital asset technologies serve an essential role in the future economic, technological, and strategic interests of the United States, as reflected in official statements from the President, bipartisan action in Congress, and recent legislation establishing oversight and regulatory frameworks for digital assets;
+(2)
+Bitcoin is the original digital asset, has operated through an open, decentralized network with no central authority for more than 15 years, and continues to demonstrate technical resilience, economic relevance, and functional independence;
+(3)
+the establishment and management of a strategic reserve of Bitcoin by the Federal Government reinforces the continuing role in the national interest and the important long-term strategic value of Bitcoin;
+(4)
+the reliability of the Bitcoin blockchain depends on a decentralized validation process and a globally distributed infrastructure, but a substantial portion of mining hardware currently in use is manufactured by companies related to foreign adversaries, creating national security and operational integrity risks;
+(5)
+the ability of the United States to lead in Bitcoin and digital asset innovation requires that critical blockchain infrastructure, including mining hardware and consensus software, be developed, operated, and maintained within the United States, or friendly nations, and free from control by entities related to foreign adversaries;
+(6)
+Bitcoin mining operators in the United States have contributed materially to domestic artificial intelligence capabilities by converting existing facilities and infrastructure to support machine learning, inference, and high-density compute operations; and
+(7)
+the replacement of mining hardware related to foreign adversaries with compute infrastructure manufactured in the United States, or friendly nations, is a necessary national objective.
+(b)
+Purpose
+The purpose of this Act is to facilitate the objective described in subsection (a)(7) through the use of existing Federal programs and authorities.
+3.
+Definitions
+In this Act:
+(1)
+Certification program
+The term
+certification program
+means the Mined in America Certification Program established under section 4(a).
+(2)
+Demand response; demand-responsive
+The terms
+demand response
+and
+demand-responsive
+mean the capability of a facility, including a distributed energy system or controllable load, to adjust electricity consumption in response to price signals, grid reliability needs, or market incentives to enhance grid efficiency and resilience.
+(3)
+Foreign adversary
+The term
+foreign adversary
+has the meaning given the term
+covered nation
+in section 4872(f) of title 10, United States Code.
+(4)
+Friendly nation
+The term
+friendly nation
+means a foreign country thatâ
+(A)
+is not a foreign adversary; and
+(B)
+the Secretary of State designates as an ally or partner of the United States for purposes of this Act.
+(5)
+High-density compute
+The term
+high-density compute
+means a computational operation or facility characterized by high power density and intensive processing workloads, including those used for artificial intelligence training, inference, blockchain validation, advanced data processing, and other energy intensive compute tasks.
+(6)
+Mining facility
+The term
+mining facility
+means a physical site that houses and operates specialized computer hardware for the purpose of performing proof-of-work mining, including associated power, cooling, and network infrastructure.
+(7)
+Mining pool
+The term
+mining pool
+means a group of participants in a proof-of-work mining network thatâ
+(A)
+combine their computational resources over a network to increase the probability of validating a block; and
+(B)
+share any resulting rewards in proportion to the contributed hash power of each participant.
+(8)
+Proof-of-work mining
+The term
+proof-of-work mining
+means the operation of specialized hardware or computing systems to validate transactions and secure decentralized blockchain networks by solving cryptographic puzzles, resulting in the issuance of new units of a digital asset as a reward.
+(9)
+Secretary
+The term
+Secretary
+means the Secretary of Commerce.
+4.
+Mined in America Certification Program
+(a)
+Establishment
+(1)
+In general
+The Secretary shall establish a voluntary certification program, to be known as the
+Mined in America Certification Program
+, to certify mining facilities and mining pools that meet the requirements established under this section.
+(2)
+Scope
+A certification under the certification programâ
+(A)
+shall not confer any regulatory license or waiver of legal requirements under any other provision of law (including regulations);
+(B)
+may serve as a basis for eligibility for, priority for, or participation in a Federal loan, grant, reimbursement, or procurement program, in accordance with applicable law or regulations; and
+(C)
+shall not be required for any mining facility or mining pool except as a condition of eligibility for, priority for, or participation in a program described in subparagraph (B), in accordance with applicable law or regulations.
+(b)
+Certification criteria and administration
+(1)
+In general
+Not later than 180 days after the date of enactment of this Act, the Secretary shall promulgate regulations governing the certification of mining facilities and mining pools under the certification program.
+(2)
+Eligibility
+To be eligible for certification under the certification programâ
+(A)
+the proof-of-work mining operations of the mining facility or mining pool shall be physically located within the United States or a friendly nation;
+(B)
+in the case of the certification of a mining pool, the mining poolâ
+(i)
+shall be headquartered and operated in the United States or a friendly nation; and
+(ii)
+shall not be owned, controlled, or subject to undue influence by an entity related to a foreign adversary;
+(C)
+in the case of the certification of a mining facility, the mining facilityâ
+(i)
+shall not be owned, controlled, or subject to undue influence by an entity related to a foreign adversary; and
+(ii)
+shall participate in a mining pool described in subparagraph (B);
+(D)
+the mining facility or mining pool shall document and attest to compliance with the applicable hardware sourcing standards described in paragraph (3);
+(E)
+the mining facility or mining pool shall maintain cybersecurity protocols consistent with minimum standards established by the Secretary, including protection of network systems, private keys, remote access tools, and physical facilities; and
+(F)
+the mining facility or mining pool shall satisfy any additional criteria that the Secretary determines to be necessary to uphold the integrity of the certification.
+(3)
+Hardware sourcing standards
+(A)
+In general
+To be eligible for certification under the certification program, a mining facility or mining pool shall be in compliance with the following hardware sourcing standards:
+(i)
+Beginning on January 1, 2027, the mining facility or mining pool may not purchase any proof-of-work mining equipment manufactured by any entity related to any foreign adversary.
+(ii)
+Beginning on January 1, 2028, not more than 75 percent of the active proof-of-work mining hardware of the mining facility or mining pool may be manufactured by an entity related to a foreign adversary.
+(iii)
+Beginning on January 1, 2029, not more than 50 percent of the active proof-of-work mining hardware of the mining facility or mining pool may be manufactured by an entity related to a foreign adversary.
+(iv)
+Beginning on January 1, 2030, 0 percent of the active proof-of-work mining hardware of the mining facility or mining pool may be manufactured by an entity related to a foreign adversary.
+(B)
+Initial certifications
+The Secretary may issue a certification under the certification program before January 1, 2027, ifâ
+(i)
+the applicable mining facility or mining pool has not purchased any proof-of-work mining equipment manufactured by any entity related to any foreign adversary since the date of enactment of this Act; and
+(ii)
+the operator of the applicable mining facility or mining pool submits to the Secretary a plan for achieving compliance with the hardware sourcing standards described in subparagraph (A).
+(C)
+Preferred certifications
+During the period beginning on January 1, 2027, and ending on December 31, 2029, the Secretary may designate a certification of a mining facility or mining pool under the certification program as a preferred certification for Federal program eligibility if not more than 25 percent of the active proof-of-work mining hardware of the mining facility or mining pool is manufactured by an entity related to a foreign adversary.
+(D)
+Recognition of infrastructure conversion
+For the purposes of determining compliance with subparagraph (B) or (C), the Secretary shall consider proof-of-work mining hardware related to foreign adversaries to be removed from active deployment if the operator of the mining facility or mining pool demonstrates that the hardware has been replaced, repurposed, or retired in favor of proof-of-work mining hardware manufactured in the United States or a friendly nation, including infrastructure deployed for artificial intelligence training, inference, or grid-responsive computational operations.
+(4)
+Duration; renewal
+A certification under the certification programâ
+(A)
+shall be valid for a period of not more than 2 years; and
+(B)
+may be renewed only on a demonstration of continued compliance with all applicable requirements under this section.
+(5)
+Information sharing
+In carrying out the certification program, the Secretary may share information with, or request information from, the Secretary of Energy or the Secretary of Agriculture.
+(c)
+Application and review process
+(1)
+In general
+In administering the certification program, the Secretary shall establish an application and review process for certification.
+(2)
+Applications
+(A)
+In general
+To apply for certification under the certification program, an operator of a proof-of-work mining facility or mining pool shall submit to the Secretary an application, which shall contain information necessary for the Secretary to determine eligibility under subsection (b).
+(B)
+Disclosure
+An application submitted under subparagraph (A)â
+(i)
+shall disclose ownership and control information sufficient to identify any person exercising control over the proof-of-work mining operations of the applicant; and
+(ii)
+shall not use any shell companies, passthrough entities, or nominee arrangements to obscure ownership or influence by a foreign adversary.
+(d)
+Registry
+The Secretary shall maintain a publicly accessible registry of mining facilities and mining pools certified under the certification program, includingâ
+(1)
+the effective dates of certification and renewal, if applicable; and
+(2)
+the applicable hardware sourcing standards under subsection (b)(3) with which the mining facility or mining pool is compliant, including whether the certification is a preferred certification under subsection (b)(3)(C).
+(e)
+Federal program eligibility
+(1)
+In general
+The head of a Federal agency that administers a loan, grant, reimbursement, or procurement program for which eligibility, priority, or participation is based on certification under the certification program may rely on the registry maintained under subsection (d) to determine the eligibility, priority, or participation of an entity in that program, in accordance with applicable law (including regulations).
+(2)
+Requirement
+An entity shall not be granted eligibility for, priority for, or participation in a loan, grant, reimbursement, or procurement program for which that eligibility, priority, or participation is based on certification under the certification program unless the entity holds a valid certification under the certification program.
+(f)
+Confidentiality
+(1)
+In general
+In carrying out the certification program, the Secretary shall safeguard the confidentiality of all proprietary operational data, financial records, trade secrets, and personally identifiable information submitted in connection with a certification.
+(2)
+Exemption from FOIA
+Information in the registry maintained under subsection (d) shall be exempt from disclosure under section 552 of title 5, United States Code.
+(g)
+Oversight and reporting
+(1)
+In general
+The Secretary shall promulgate regulations to ensure transparency of, compliance with, and enforcement under the certification program, includingâ
+(A)
+requirements for certified mining facilities and mining pools to submit periodic reports verifying continuing compliance with the requirements under subsection (b);
+(B)
+procedures for the suspension or revocation of a certification in the case of a material misrepresentation, noncompliance, or fraud; and
+(C)
+regulations relating to audits and inspections under paragraph (2).
+(2)
+Audits or inspections
+The Secretary shall conduct audits or inspections of mining facilities and mining pools certified under the certification program as necessary to ensure compliance with this section.
+(3)
+Publication of data
+The Secretary shall publish aggregate, nonconfidential data relating to certifications of mining facilities and mining pools and compliance with this section sufficient to inform Federal agencies and the public of trends in certifications and compliance.
+(h)
+Rule of construction
+Nothing in this section may be construed to confer upon the Secretary any regulatory authority over digital asset markets or transactions.
+5.
+Program eligibility for certified compute infrastructure projects
+(a)
+Department of Energy title XVII loan guarantees
+(1)
+In general
+Section 1703(b) of the Energy Policy Act of 2005 (
+42 U.S.C. 16513(b)
+) is amended by adding at the end the following:
+(14)
+Projects carried out by entities that are certified under section 4 of the
+Mined in America Act of 2026
+and involve 1 or more of the following activities:
+(A)
+The replacement of proof-of-work mining (as defined in section 3 of the
+Mined in America Act of 2026
+) hardware related to foreign adversaries (as defined in that section) with compute infrastructure that is manufactured in the United States or a friendly nation (as defined in that section), including equipment used for blockchain validation, artificial intelligence training, or high-efficiency data processing.
+(B)
+The conversion of an existing mining operation or data center into a grid-interactive or demand-responsive (as defined in section 3 of the
+Mined in America Act of 2026
+) computing facility that uses infrastructure manufactured in the United States or a friendly nation (as so defined).
+(C)
+The deployment of computing systems that enable load shifting, flexible demand, or emissions reduction in coordination with a regional transmission organization, electric utility, or demand response (as defined in section 3 of the
+Mined in America Act of 2026
+) market.
+.
+(2)
+Rulemaking
+Not later than 180 days after the date of enactment of this Act, the Secretary of Energy shall issue rules to implement the amendment made by paragraph (1), including procedures for verifying the eligibility of projects described in paragraph (14) of section 1703(b) of the Energy Policy Act of 2005 (
+42 U.S.C. 16513(b)
+), establishing documentation requirements, coordinating with the Secretary to confirm certification status under section 4, and identifying any emissions or energy performance standards necessary to satisfy the objectives of title XVII of the Energy Policy Act of 2005 (
+42 U.S.C. 16511 et seq.
+).
+(3)
+Rule of construction
+Nothing in the amendment made by paragraph (1) alters or waives any other requirement for project approval under section 1703 of the Energy Policy Act of 2005 (
+42 U.S.C. 16513
+).
+(b)
+Department of Energy infrastructure reinvestment program
+(1)
+In general
+Section 1706(a) of the Energy Policy Act of 2005 (
+42 U.S.C. 16517(a)
+) is amendedâ
+(A)
+in paragraph (2), by striking
+or
+at the end;
+(B)
+in paragraph (3), by striking the period at the end and inserting
+; or
+; and
+(C)
+by adding at the end the following:
+(4)
+are carried out by entities described in section 1703(b)(14) and involveâ
+(A)
+an activity described in subparagraph (A) or (B) of that section; or
+(B)
+the repurposing of energy infrastructure previously used in connection with foreign manufactured crypto mining hardware into facilities that reduce net energy intensity, improve flexibility in load management, or provide computing for strategic industrial applications.
+.
+(2)
+Rulemaking
+Not later than 180 days after the date of enactment of this Act, the Secretary of Energy shall issue rules to implement the amendment made by paragraph (1), including documentation requirements, technical criteria for demonstrating infrastructure conversion, emissions or energy performance metrics, and procedures for coordinating with the Secretary to confirm certification status under section 4.
+(3)
+Rule of construction
+Nothing in the amendment made by paragraph (1) alters or waives any other requirement for project approval under section 1706 of the Energy Policy Act of 2005 (
+42 U.S.C. 16517
+).
+(c)
+Department of Energy smart grid investment grants
+(1)
+In general
+Section 1306 of the Energy Independence and Security Act of 2007 (
+42 U.S.C. 17386
+) is amendedâ
+(A)
+in subsection (a), by striking
+of qualifying Smart Grid investments.
+and inserting the following: âofâ
+(1)
+qualifying smart grid investments; and
+(2)
+projects for the deployment of Mined in America grid-interactive infrastructure.
+;
+(B)
+in subsection (b)â
+(i)
+by redesignating paragraphs (1) through (14) as clauses (i) through (xiv), respectively, and indenting appropriately; and
+(ii)
+by striking the subsection designation and heading and all that follows through
+include
+in the matter preceding clause (i) (as so redesignated) and inserting the following:
+(b)
+Definitions
+In this section:
+(1)
+Demand response; demand-responsive
+The terms
+demand response
+and
+demand-responsive
+have the meaning given the terms in section 3 of the
+Mined in America Act of 2026
+.
+(2)
+Friendly nation
+The term
+friendly nation
+has the meaning given the term in section 3 of the
+Mined in America Act of 2026
+.
+(3)
+Grid-responsive infrastructure
+The term
+grid-responsive infrastructure
+includes hardware, software, and control systems that support 1 or more of the following functions:
+(A)
+Load curtailment or flexible demand response in coordination with a grid operator, electric utility, or demand response provider.
+(B)
+Integration of localized energy storage, smart metering, or real-time load control technologies that reduce peak demand or improve grid reliability.
+(C)
+Cybersecurity protections to safeguard grid-facing compute infrastructure, including systems used to manage energy telemetry, remote access, or distributed power systems.
+(4)
+Mined in America grid-interactive infrastructure
+The term
+Mined in America grid-interactive infrastructure
+means grid-responsive infrastructure thatâ
+(A)
+is manufactured in the United States; and
+(B)
+is or will be deployed at a facilityâ
+(i)
+located in the United States or a friendly nation;
+(ii)
+the owners and operators of which are certified under section 4 of the
+Mined in America Act of 2026
+; and
+(iii)
+that is engaged inâ
+(I)
+proof-of-work mining operations using compute infrastructure manufactured in the United States or a friendly nation; or
+(II)
+artificial intelligence training or inference using compute infrastructure manufactured in the United States or a friendly nation.
+(5)
+Proof-of-work mining
+The term
+proof-of-work mining
+has the meaning given the term in section 3 of the
+Mined in America Act of 2026
+.
+(6)
+Qualifying smart grid investment
+(A)
+In general
+The term
+qualifying smart grid investment
+includes
+;
+(C)
+in subsection (c)â
+(i)
+in paragraph (3), by striking
+Smart Grid Information Standard under section 1307 (paragraph (17) of section 111(d) of the Public Utility Regulatory Policies Act of 1978)
+and inserting
+smart grid information standard under paragraph (19) of section 111(d) of the Public Utility Regulatory Policies Act of 1978 (
+42 U.S.C. 2621(d)
+)
+;
+(ii)
+in paragraph (9), by striking
+Qualifying Smart Grid Investments
+and inserting
+qualifying smart grid investments
+;
+(iii)
+by redesignating paragraphs (1) through (9) as clauses (i) through (ix), respectively, and indenting appropriately; and
+(iv)
+by striking the subsection designation and heading and all that follows through
+do not include
+in the matter preceding clause (i) (as so redesignated) and inserting the following:
+(B)
+Exclusions
+The term
+qualifying smart grid investment
+does not include
+;
+(D)
+in subsection (d)â
+(i)
+by redesignating paragraphs (1) through (16) as clauses (i) through (xvi), respectively, and indenting appropriately; and
+(ii)
+by striking the subsection designation and heading and all that follows through
+means
+in the matter preceding clause (i) (as so redesignated) and inserting the following:
+(6)
+Smart grid function
+The term
+smart grid function
+means
+;
+(E)
+in subsection (e)â
+(i)
+in paragraph (1)â
+(I)
+by striking
+(1) The Secretary shall
+and all that follows through
+proposalsâ
+in the matter preceding subparagraph (A) and inserting the following:
+(1)
+In general
+The Secretary shallâ
+;
+(II)
+by indenting subparagraphs (A) through (E) appropriately;
+(III)
+in subparagraph (C), by striking
+investments, and
+and inserting
+investments or Mined in America grid-interactive infrastructure, and, if applicable,
+; and
+(IV)
+in subparagraph (D), by striking
+investments which have received grants
+and inserting
+investments and Mined in America grid-interactive infrastructure for which grants have been provided
+; and
+(ii)
+in paragraph (2), by striking
+(2) The Secretary
+and inserting the following:
+(2)
+Discretion
+The Secretary
+;
+(F)
+in subsections (b) through (e), by striking
+Smart Grid
+each place it appears and inserting
+smart grid
+;
+(G)
+in subsection (f), by striking
+for fiscal years 2008 through 2012
+;
+(H)
+by redesignating subsections (a), (b), (e), and (f) as subsections (b), (a), (c), and (e), respectively, and moving the subsections so as to appear in alphabetical order; and
+(I)
+by inserting after subsection (c) (as so redesignated) the following:
+(d)
+Guidance on Mined in America grid-Interactive infrastructure
+(1)
+In general
+Not later than 180 days after the date of enactment of the
+Mined in America Act of 2026
+, the Secretary shall issue guidance relating to the provision of grants under this section for projects for the deployment of Mined in America grid-interactive infrastructure.
+(2)
+Requirement
+The guidance issued under paragraph (1) shallâ
+(A)
+identify Mined in America grid-interactive infrastructure for which a grant provided under this subsection may be used; and
+(B)
+establish procedures for verifying the certification of the owners and operators of the applicable facility under section 4 of the
+Mined in America Act of 2026
+, in coordination with the Secretary of Commerce.
+.
+(2)
+Rule of construction
+Nothing in this subsection or an amendment made by this subsection waives, or may be construed to waive, any cost-share, technical, or emissions performance requirement applicable to a grant awarded under section 1306 of the Energy Independence and Security Act of 2007 (
+42 U.S.C. 17386
+).
+(d)
+Rural Energy for America Program
+(1)
+In general
+Section 9007 of the Farm Security and Rural Investment Act of 2002 (
+7 U.S.C. 8107
+) is amendedâ
+(A)
+in subsection (a)â
+(i)
+in paragraph (2), by striking the period at the end and inserting
+; and
+;
+(ii)
+by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately;
+(iii)
+in the matter preceding subparagraph (A) (as so redesignated), by striking
+for agricultural producers
+and inserting the following: âforâ
+(1)
+agricultural producers
+; and
+(iv)
+by adding at the end the following:
+(2)
+compute-focused entities through grants and loan guarantees, in accordance with subsection (d).
+;
+(B)
+be redesignating subsections (d) through (f) as subsections (e) through (g), respectively;
+(C)
+by striking
+subsection (f)
+each place it appears and inserting
+subsection (g)
+; and
+(D)
+by inserting after subsection (c) the following:
+(d)
+Certified compute infrastructure in rural areas
+(1)
+In general
+The Secretary shall make grants and loan guarantees to eligible entities described in paragraph (2) to carry out projects described in paragraph (3).
+(2)
+Eligible entity
+An eligible entity under this subsection is an entity thatâ
+(A)
+is certified under section 4 of the
+Mined in America Act of 2026
+; and
+(B)
+is located in a rural area.
+(3)
+Projects
+A project referred to in paragraph (1) shall involve 1 or more of the following activities:
+(A)
+The deployment of energy storage, load control systems, or demand-responsive compute infrastructure that enables the eligible entity to curtail load, shift demand, or otherwise contribute to local grid reliability.
+(B)
+The support of the retention or creation of employment in a rural area through the operation or expansion of a certified compute facility.
+(C)
+On-site renewable energy generation or emissions-reducing technology that supports energy efficiency or peak-load mitigation.
+(4)
+Local hiring requirement
+An eligible entity under paragraph (2) receiving assistance under this subsection shall employ at least 1 individual who resides within the county or equivalent jurisdiction in which the project is located.
+.
+(2)
+Rulemaking
+Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture shall issue guidance on implementing the amendment made by paragraph (1), including procedures for verifying local employment and coordinating with the Secretary to confirm certification status under section 4.
+(3)
+Rule of construction
+Nothing in the amendment made by paragraph (1) alters or waives any requirement of the program under section 9007 of the Farm Security and Rural Investment Act of 2002 (
+7 U.S.C. 8107
+).
+6.
+Federal acquisition of Bitcoin
+(a)
+Capital gains exemption for certified sellers
+Part III of subchapter B of
+chapter 1
+of the Internal Revenue Code of 1986 is amended by inserting before section 140 the following new section:
+139M.
+Bitcoin sales for strategic reserve
+(a)
+In general
+In the case of a certified Bitcoin miner, gross income shall not include any gain from the sale or exchange of qualified Bitcoin to the United States for deposit in the Strategic Bitcoin Reserve.
+(b)
+Certified Bitcoin miner
+For purposes of this section, the term
+certified Bitcoin miner
+means any person who is certified pursuant to subparagraph (A)(iv) or (C) of section 4(b)(3) of the
+Mined in America Act of 2026
+.
+(c)
+Qualified Bitcoin
+For purposes of this section, the term
+qualified Bitcoin
+means Bitcoin which was mined by the certified Bitcoin miner or acquired through direct reward for participation in a mining pool meeting the requirements of section 4(b)(2)(B) of the
+Mined in America Act of 2026
+.
+.
+(b)
+Clerical amendment
+The table of sections of part III of subchapter B of
+chapter 1
+of the Internal Revenue Code of 1986 is amended by inserting before the item relating to section 140 the following new item:
+Sec. 139M. Bitcoin sales for strategic reserve.
+.
+7.
+Department of Energy study on compute-based load management
+(a)
+Study required
+The Secretary of Energy shall conduct a study to assess the load-management capabilities and grid-balancing potential of proof-of-work mining operations and high-density compute facilities located in the United States.
+(b)
+Scope of study
+The study under subsection (a) shall evaluateâ
+(1)
+the ability of proof-of-work mining operations and high-density compute facilitiesâ
+(A)
+to reduce electricity consumption during periods of peak demand;
+(B)
+to shift load in coordination with grid operators; or
+(C)
+to participate in demand response and grid reliability programs;
+(2)
+the technologies, energy infrastructure, and contractual mechanisms that support flexible operation of high-density compute workloads; and
+(3)
+the emissions impacts, energy efficiency benefits, and market integration potential associated with the deployment of grid-interactive compute infrastructure in various geographic and regulatory contexts.
+(c)
+Consultation
+(1)
+In general
+In carrying out the study under subsection (a), the Secretary of Energy shall consult withâ
+(A)
+the Secretary;
+(B)
+the Federal Energy Regulatory Commission; and
+(C)
+at least 1 Regional Transmission Organization or Independent System Operator (as those terms are defined in section 3 of the Federal Power Act (
+16 U.S.C. 796
+)).
+(2)
+Requirement
+The Secretary of Energy, the Secretary of Defense, and the Secretary shall coordinate to enhance efficiency and avoid duplication with respect to the study required under subsection (a) and the study required under section 8(a).
+(d)
+Reports
+The Secretary of Energy shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Energy and Commerce of the House of Representativesâ
+(1)
+an interim report on the findings of the study under subsection (a) not later than 1 year after the date of enactment of this Act; and
+(2)
+a final report on the findings of that study not later than 2 years after that date of enactment.
+8.
+Strategic study on decentralized artificial intelligence infrastructure
+(a)
+Study required
+The Secretary of Defense and the Secretary shall jointly conduct a study on the national strategic relevance of decentralized artificial intelligence infrastructure that operates over blockchain-based or distributed networks.
+(b)
+Study contents
+The study required under subsection (a) shall include the following:
+(1)
+An evaluation of decentralized artificial intelligence systems that utilize distributed computing resources and cryptographically secured protocols.
+(2)
+An assessment of the infrastructure resilience, censorship resistance, and national security implications of such systems compared to centralized models of artificial intelligence deployment.
+(3)
+An analysis of the potential economic, workforce, and infrastructure development benefits of promoting decentralized compute models within the United States.
+(4)
+Recommendations for standards, security protocols, or national policy initiatives to support the domestic development and deployment of decentralized artificial intelligence systems.
+(c)
+Interim and final reports
+(1)
+Interim report
+Not later than 1 year after the date of enactment of this Act, the Secretary of Defense and the Secretary shall jointly submit to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services and the Committee on Energy and Commerce of the House of Representatives an interim report on the findings of the study required under subsection (a).
+(2)
+Final report
+Not later than 2 years after the date of enactment of this Act, the Secretary of Defense and the Secretary shall jointly submit to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services and the Committee on Energy and Commerce of the House of Representatives a final report on the findings of the study required under subsection (a).
+(d)
+Digital token regulatory coordination
+(1)
+In general
+In conducting the study required under subsection (a), the Secretary of Defense and the Secretary shall consult with the Commodity Futures Trading Commission regarding the regulatory classification of digital tokens that facilitate access to or operation of decentralized artificial intelligence networks.
+(2)
+Sense of Congress
+It is the sense of Congress that tokens described in paragraph (1) are functionally distinct from securities and should be subject to the jurisdiction of the Commodity Futures Trading Commission.
+9.
+Support for development of secure, energy-efficient crypto-mining hardware
+(a)
+Support from National Institute of Standards and Technology
+(1)
+In general
+The Director of the National Institute of Standards and Technology shall take such actions as the Director considers appropriate to support the development of secure, energy-efficient hardware for the mining of cryptocurrency.
+(2)
+Grants authorized
+In carrying out paragraph (1), the Director may award grants to design rigs for the mining of cryptocurrency that meets United States cybersecurity standards.
+(b)
+Support from Hollings Manufacturing Extension Partnership
+(1)
+In general
+The Director shall, acting through the Hollings Manufacturing Extension Partnership, provide assistance to United States manufacturers to retool for the production of secure, energy-efficient hardware for the mining of cryptocurrency.
+(2)
+Technical assistance
+The Director may, acting through the Partnership, provide technical assistance to United States persons who manufacturer hardware that can be used for the mining of cryptocurrency.
+10.
+Promotion of exports to friendly nations of certain mining equipment produced in the United States
+The Under Secretary of Commerce for International Trade shall develop a program to promote exports to friendly nations of equipment for proof-of-work mining that is produced in the United States.
+11.
+Strategic Bitcoin Reserve and United States Digital Asset Stockpile; yield-generating authority
+(a)
+Findings
+Congress finds the following:
+(1)
+Bitcoin is a decentralized digital asset that operates through a proof-of-work consensus mechanism and has functioned without central authority for more than 15 years, demonstrating resilience, security, and strategic relevance.
+(2)
+The secure operation of the Bitcoin network depends on proof-of-work mining infrastructure, including infrastructure located within the United States and friendly nations.
+(3)
+The Federal Government has a national interest in promoting secure, domestically aligned Bitcoin mining infrastructure and holding Bitcoin as a long-term strategic reserve asset of the United States.
+(4)
+On March 6, 2025, the President issued Executive Order 14233 (90 Fed. Reg. 11789; relating to Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile) (referred to in this section as the
+Executive Order
+), which directs the Secretary of the Treasury to establishâ
+(A)
+a Strategic Bitcoin Reserve, capitalized with Bitcoin owned by the United States and obtained principally through criminal or civil asset forfeiture proceedings and civil monetary penalties; and
+(B)
+a United States Digital Asset Stockpile, capitalized with digital assets other than Bitcoin obtained on similar terms.
+(5)
+The Executive Order further directed the Secretary of the Treasury and the Secretary of Commerce to develop budget-neutral strategies for acquiring additional Bitcoin for the Strategic Bitcoin Reserve without imposing incremental costs on United States taxpayers.
+(6)
+It is appropriate, and in the national interest, to codify and make permanent the Strategic Bitcoin Reserve and the United States Digital Asset Stockpile and to facilitate the acquisition of Bitcoin mined through proof-of-work operations by permitting direct sales to the United States without recognition of capital gain where the provenance of that Bitcoin can be objectively demonstrated on-chain.
+(b)
+Amendments to title 31, United States Code
+(1)
+In general
+Subchapter II of
+chapter 3
+of title 31, United States Code, is amended by adding at the end the following:
+334.
+Strategic Bitcoin Reserve and United States Digital Asset Stockpile; yield-generating authority
+(a)
+Definitions
+In this section:
+(1)
+Bitcoin
+The term
+Bitcoin
+means the digital assetâ
+(A)
+thatâ
+(i)
+is native to the decentralized peer-to-peer blockchain network described in the white paper entitled
+Bitcoin a peer-to-peer electronic cash system
+published in 2008 under the pseudonym Satoshi Nakamoto;
+(ii)
+originates from the Genesis Block created on January 3, 2009; and
+(iii)
+maintains an unbroken chain of blocks from that Genesis Block through the chain recognized by its network of independent nodes as having the greatest cumulative proof of work; and
+(B)
+the native unit of account of which is recognized as BTC.
+(2)
+Control
+The term
+control
+means the ability to exclusively authorize the spending of Bitcoin associated with an address or set of addresses through possession of the applicable private keys.
+(3)
+Digital asset
+The term
+digital asset
+â
+(A)
+means a natively digital representation of value or rights that is recorded on a cryptographically secured distributed ledger or similar technology; and
+(B)
+does not include a central bank digital currency of the United States.
+(4)
+Government BTC
+The term
+Government BTC
+means all Bitcoin held by the Department of the Treasury thatâ
+(A)
+has been finally forfeited to the United States or received in satisfaction of a civil monetary penalty; and
+(B)
+is not required to satisfy restitution or other legal obligations.
+(5)
+Mined Bitcoin
+The term
+mined Bitcoin
+means Bitcoin thatâ
+(A)
+was generated as part of a block subsidy or transaction fee included in a coinbase transaction resulting from proof-of-work mining on the Bitcoin blockchain (referred to in this section as a
+reward
+); and
+(B)
+has not left the possession of the original recipient of such reward since issuance, as demonstrated through on-chain transaction history.
+(6)
+On-chain demonstration
+The term
+on-chain demonstration
+means cryptographic and transaction data recorded on the Bitcoin blockchain sufficient to establish, without reliance on off-chain attestations, that Bitcoin is mined Bitcoin.
+(7)
+Reserve
+The term
+Reserve
+means the Strategic Bitcoin Reserve established under subsection (b), including the custodial accounts and related administrative structure associated with that Strategic Bitcoin Reserve.
+(8)
+Stake; staking
+The terms
+stake
+and
+staking
+mean committing digital assets to a blockchain network that utilizes a proof-of-stake or similar consensus mechanism for the purpose of earning protocol-level rewards.
+(9)
+Stockpile
+The term
+Stockpile
+means the United States Digital Asset Stockpile established under subsection (c), including the custodial accounts and related administrative structure associated with the United States Digital Asset Stockpile.
+(10)
+Stockpile assets
+The term
+Stockpile assets
+means all digital assets other than Bitcoin owned by the Department of the Treasury and obtained through forfeiture or civil monetary penalties.
+(b)
+Strategic Bitcoin Reserve
+(1)
+Establishment
+There is established in the Department of the Treasury the Strategic Bitcoin Reserve.
+(2)
+Composition
+The Reserve shall consist of all Government BTC and any Bitcoin subsequently acquired by the Secretary of the Treasury pursuant to this section or any other provision of law.
+(3)
+Protected status
+Bitcoin held in the Reserve shall be treated as strategic reserve assets of the United States and may not be sold or otherwise disposed of except pursuant to a law enacted after the date of enactment of this section that expressly authorizes that disposition.
+(c)
+United States Digital Asset Stockpile
+(1)
+Establishment
+There is established in the Department of the Treasury the United States Digital Asset Stockpile.
+(2)
+Composition
+The Stockpile shall consist exclusively of Stockpile assets.
+(3)
+Native-form holding
+To the maximum extent practicable, Stockpile assets shall be held in the native digital form of those Stockpile assets.
+(d)
+Strategic Bitcoin Acquisition Account
+(1)
+Establishment
+There is established in the Treasury of the United States a separate account to be known as the
+Strategic Bitcoin Acquisition Account
+(referred to in this section as the
+Account
+).
+(2)
+Credits
+Notwithstanding section 3302(b) of this title, the following shall be credited to the Account:
+(A)
+Staking rewards or other protocol-level yield earned on Stockpile assets.
+(B)
+Airdrops or similar protocol-based distributions received by the United States by virtue of ownership or staking of Stockpile assets.
+(C)
+Proceeds from the conversion, sale, or exchange of the assets described in subparagraphs (A) and (B), and only such assets.
+(3)
+Use
+Amounts in the Account shall be available without further appropriation solely forâ
+(A)
+the acquisition of Bitcoin for deposit into the Reserve; and
+(B)
+reasonable and necessary expenses incident to custody, security, staking, and asset conversion.
+(e)
+Authority To generate yield from Stockpile assets
+(1)
+Authority
+The Secretary of the Treasury may stake Stockpile assets on blockchain networks that utilize proof-of-stake or similar consensus mechanisms solely as a revenue-generating activity to acquire Bitcoin for the Reserve.
+(2)
+Construction
+Activities under this subsection may not be construed as regulating digital asset markets or as endorsing any consensus mechanism other than proof-of-work as a strategic priority of the United States.
+(3)
+Limitations
+The Secretary of the Treasury may not pledge Stockpile assets as collateral, expose the United States to leverage or margin risk, or obligate amounts from the general fund of the Treasury to acquire Bitcoin under this section.
+(f)
+Acquisition of mined Bitcoin from certified miners and proven owners
+(1)
+Eligibility
+(A)
+In general
+The Secretary of the Treasury shall treat Bitcoin as mined Bitcoin eligible for acquisition for deposit into the Reserve, ifâ
+(i)
+such Bitcoin was issued as part of a block subsidy or transaction fee included in a coinbase transaction resulting from proof-of-work mining on the Bitcoin blockchain;
+(ii)
+each unspent transaction output representing such Bitcoin is directly traceable through on-chain transaction history to 1 or more coinbase transactions described in clause (i);
+(iii)
+no transaction in the ancestry of such Bitcoin includes any input other than unspent transaction outputs traceable to coinbase transactions attributable to the same seller; and
+(iv)
+no portion of such Bitcoin has been transferred to, exchanged with, or combined with Bitcoin not satisfying the requirements of this subparagraph.
+(B)
+Consolidation
+Any transaction consolidating 2 or more unspent transaction outputs described in subparagraph (A) shall not disqualify Bitcoin described in that subparagraph from being treated as described in that subparagraph solely by reason of such consolidation, provided thatâ
+(i)
+all inputs to that transaction satisfy clauses (i), (ii), and (iii) of that subparagraph; and
+(ii)
+no output of that transaction is transferred to an address not controlled by the same seller, other than amounts paid as transaction fees.
+(2)
+Eligible sellers
+Bitcoin meeting the requirements of paragraph (1) may be acquired by the Secretary of the Treasury directly fromâ
+(A)
+a certified Bitcoin miner; or
+(B)
+any owner of Bitcoin that satisfies the requirements of paragraph (1).
+(3)
+Deposit
+Bitcoin acquired under this subsection shall be deposited into the Reserve and treated as Government BTC.
+(4)
+Verification standard
+(A)
+In general
+Verification under this subsection shall be based exclusively on data recorded on the Bitcoin blockchain.
+(B)
+Prohibitions
+For purposes of subparagraph (A), the Secretary of the Treasury may not require off-chain attestations, third-party certifications, custodial records, or discretionary determinations beyond confirmation that the conditions set forth in paragraph (1) have been satisfied.
+(g)
+Rule of construction
+Nothing in this section may be construed to alter forfeiture law, impair victim restitution, create any private right-of-action, or expand regulatory authority over digital asset markets.
+.
+(2)
+Technical and conforming amendment
+The table of sections for subchapter II of
+chapter 3
+of title 31, United States Code, is amended by adding at the end the following:
+Sec. 334. Strategic Bitcoin Reserve and United States Digital Asset Stockpile; yield-generating authority.
+.

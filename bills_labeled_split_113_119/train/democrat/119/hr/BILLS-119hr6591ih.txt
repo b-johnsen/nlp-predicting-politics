@@ -1,0 +1,243 @@
+1.
+Short title
+This Act may be cited as the
+Computer Science for All Act of 2025
+.
+2.
+Findings
+Congress finds the following:
+(1)
+Computer science is transforming industry, creating new fields of commerce, driving innovation, and bolstering productivity. By 2034, computer science and information jobs are expected to grow by 20 percent, faster than the average of any other occupation.
+(2)
+Knowledge of computer science and use of technology is increasingly essential for all individuals, not just those working or planning to work in the technology sector.
+(3)
+Providing students with computer science education in elementary school and secondary school is critical for student success, and strengthening the workforce of a 21st century economy.
+(4)
+While an estimated 90 percent of parents want computer science taught in their childrenâs schools, just 60 percent of public high schools offer a foundational computer science course.
+(5)
+Black and Hispanic workers in the science and engineering workforce continue to be underrepresented. Black employees represent 11 percent of the United States workforce, but only 9 percent of the STEAM workforce. Hispanic employees represent 17 percent of the United States workforce, but only 8 percent of the STEAM workforce.
+(6)
+While underrepresented minority students overall face an opportunity gap in STEAM education, women of color particularly face an achievement gap in science and engineering education. In 2022, while women were conferred nearly a third of all science and engineering degrees, women of color received only 15 percent (Black: 3 percent; Hispanic: 4.5 percent; Native American or Alaskan Native: 1 percent; Asian or Pacific Islander: 5 percent; and multiracial: 1 percent).
+(7)
+In 2022, of all engineering technologies and engineering-related bachelor level-related studies, only 4 percent of nationwide enrollment was represented by Black students, while just 13 percent were represented by Hispanic students.
+(8)
+Women overall face challenges in accessing computer science education. Only 18 percent of all bachelorâs degrees conferred in computer science went to women in 2015, and women of color received only 9 percent of degrees (Black: 3 percent; Hispanic: 2 percent; Native American or Alaska Native: 0.8 percent; and Asian or Pacific islander: 3 percent).
+(9)
+Lack of universal computer science education is evident in the lack of a widespread tech industry, which is overwhelmingly concentrated in a few cities nationwide. Tech industry entrepreneurship is concentrated in just a few States and computer science education is limited to affluent schools and students, placing low-income, minority, and rural communities at risk of being left behind.
+3.
+Definitions
+In this Act:
+(1)
+Computational thinking
+The term
+computational thinking
+â
+(A)
+means the wide range of creative processes that go into formulating problems and their solutions in such a way that the solutions can be carried out by a computer; and
+(B)
+may involve some understanding of software and hardware design, logic and the use of abstraction and representation, algorithm design, algorithm expression, problem decomposition, modularity, programming paradigms and languages, issues of information security and privacy, the application of computation across a wide range of disciplines, and the societal impact of computing. Programming is a hands-on, inquiry-based way in which computational thinking may be learned.
+(2)
+Computer science education
+The term
+computer science education
+includes any of the following:
+(A)
+Computational thinking.
+(B)
+Software design.
+(C)
+Hardware architecture and organization.
+(D)
+Theoretical foundations.
+(E)
+Use of abstraction and representation in problem solving.
+(F)
+Logic.
+(G)
+Algorithm design and implementation.
+(H)
+The limits of computation.
+(I)
+Programming paradigms and languages.
+(J)
+Parallel and distributed computing.
+(K)
+Information security and privacy.
+(L)
+Computing systems and networks.
+(M)
+Graphics and visualization.
+(N)
+Databases and information retrieval.
+(O)
+The relationship between computing and mathematics.
+(P)
+Artificial intelligence.
+(Q)
+Applications of computing across a broad range of disciplines and problems.
+(R)
+Cloud computing.
+(S)
+The social impacts and professional practices of computing.
+(3)
+Eligible entity
+The term
+eligible entity
+means a State, local educational agency, or eligible Tribal school that demonstrates an ability to carry out an ambitious computer science education expansion effort for all students served by the State, agency, or school, respectively, including traditionally underrepresented students.
+(4)
+Eligible tribal school
+The term
+eligible Tribal school
+meansâ
+(A)
+a school operated by the Bureau of Indian Education;
+(B)
+a school operated pursuant to the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 450 et seq.
+); or
+(C)
+a tribally controlled school (as defined in section 5212 of the Tribally Controlled Schools Act of 1988 (
+25 U.S.C. 2511
+)).
+(5)
+Institution of higher education
+The term
+institution of higher education
+has the meaning given the term in section 102 of the Higher Education Act of 1965 (
+20 U.S.C. 1002
+).
+(6)
+Local educational agency
+The term
+local educational agency
+means a local educational agency that meets the requirements of section 1003(f) of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 6303(f)
+).
+(7)
+Poverty line
+The term
+poverty line
+has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 8101
+).
+(8)
+Secretary
+The term
+Secretary
+means the Secretary of Education.
+(9)
+State
+The term
+State
+has the meaning given the term in section 8101 of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 7801
+), in which at least one local educational agency is located.
+(10)
+STEAM
+The term
+STEAM
+means the subjects of science, technology, engineering, arts, and mathematics, including computer science.
+4.
+Grants to states, local educational agencies, and eligible tribal schools
+(a)
+Grants to states, local educational agencies, and eligible tribal schools
+(1)
+In general
+The Secretary shall award grants to eligible entities to serve as models for national replication of computer science education expansion efforts.
+(2)
+Consortia and partnerships
+An eligible entity may apply for a grant under this section as part of a consortium or in partnership with a State educational agency or other partner.
+(3)
+Duration
+Grants awarded under this section shall be for a period of not more than 5 years.
+(b)
+Application requirements
+An eligible entity that desires a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including, at a minimum, plans for the following:
+(1)
+Every high school student served by eligible entity to have access to computer science education not later than 5 years after receipt of grant funds.
+(2)
+All students served by the eligible entity to have access to a progression of computer science education from prekindergarten through middle school that prepares students for high school computer science education.
+(3)
+Expansion of overall access to rigorous STEAM classes, utilizing computer science as a catalyst for increased interest in STEAM more broadly, and reducing the enrollment and academic achievement gap for underrepresented groups such as minorities, girls, and youth from families living at, or below, the poverty line.
+(4)
+Continuous monitoring and evaluation of project activities.
+(5)
+Effectively sustaining project activities after the grant period ends, and the length of time which the applicant plans to sustain the project activities.
+(6)
+Preparing the students for application of computer science knowledge in rapidly evolving technologies, such as artificial intelligence.
+(c)
+Use of grant funds
+(1)
+Required activities
+An eligible entity that receives a grant under this section shall use the grant funds for each of the following activities:
+(A)
+Training teachers of elementary school and secondary school to teach computer science.
+(B)
+Expanding access to high-quality learning materials and online learning options.
+(C)
+Creating plans for expanding overall access to rigorous STEAM classes, utilizing computer science as a catalyst for increased interest in STEAM more broadly, and reducing course equity gaps for all students, including underrepresented groups such as minorities, girls, and youth from low-income families.
+(D)
+Ensuring additional support and resources, which may include mentoring for students traditionally underrepresented in STEAM fields.
+(2)
+Permissible activities
+An eligible entity that receives a grant under this section may use the grant funds for the following activities:
+(A)
+Building effective regional collaborations with industry, nonprofit organizations, 2-year and 4-year degree granting institutions of higher education (including community colleges, Historically Black Colleges and Universities, Hispanic-serving institutions, Asian American and Native American Pacific Islander-serving institutions, American Indian Tribally controlled colleges and universities, Alaska Native and Native Hawaiian-serving institutions, Predominantly Black Institutions, Native American-serving, Nontribal institutions, and other minority-serving institutions), and out-of-school providers.
+(B)
+Recruiting and hiring instructional personnel as needed, including curriculum specialists.
+(C)
+Preparations for effectively sustaining project activities after the grant period ends.
+(D)
+Disseminating information about effective practices.
+(E)
+Including the use of artificial intelligence in the classroom to expand studentsâ access to a rapidly evolving technology.
+(3)
+Limitation
+Not more than 15 percent of a grant awarded under this Act may be used to purchase equipment.
+(d)
+National activities
+Of the amount appropriated under subsection (e) for a fiscal year, the Secretary may reserve not more than 2.5 percent of funds available for grants under this section for national activities, including technical assistance, evaluation, and dissemination.
+(e)
+Authorization of appropriations
+There are authorized to be appropriated to carry out this section a total of $250,000,000 for fiscal year 2026 and the succeeding 4 fiscal years.
+5.
+Reporting requirements
+(a)
+Grantee reports
+Each eligible entity that receives a grant under this Act shall submit to the Secretary a report, not less than twice a year during the grant period, on the use of grant funds that shall include data on the numbers of students served through activities funded under this Act, disaggregated by race (for Asian and Native Hawaiian or Pacific Islander students using the same race response categories as the decennial census of the population), ethnicity, gender, and eligibility to receive a free or reduced price lunch under the Richard B. Russell National School Lunch Act (
+42 U.S.C. 1751 et seq.
+).
+(b)
+Report by the secretary
+Not later than 5 years after the first grant is awarded under this Act, the Secretary shall submit to Congress a report based on the analysis of reports received under subsection (a) with a recommendation on how to expand the program under this Act.
+6.
+Amendments to other laws
+(a)
+Department of Education Organization Act
+Section 203(c)(1) of the Department of Education Organization Act (
+20 U.S.C. 3413(c)(1)
+) is amended by inserting before the semicolon the following:
+, which shall include information with respect to the existence of computer science education (as defined in section 3 of the
+Computer Science for All Act of 2025
+), disaggregated by the type of computer science education and by State, local educational agency, and eligible tribal school (as such terms are defined in such section 3)
+.
+(b)
+The Education Sciences Reform Act of 2002
+Section 153(a)(1) of the Education Sciences Reform Act of 2002 (
+20 U.S.C. 9543(a)(1)
+) is amendedâ
+(1)
+in subparagraph (N), by striking
+and
+at the end;
+(2)
+in subparagraph (O), by adding
+and
+at the end; and
+(3)
+by adding at the end the following:
+(P)
+the existence of computer science education (as defined in section 3 of the
+Computer Science for All Act of 2025
+) in elementary schools and secondary schools, and the degree of competency in computer science fields among such students.
+.

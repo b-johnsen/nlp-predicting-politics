@@ -1,0 +1,636 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Artificial Intelligence Initiative Act
+or
+AIâIA
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Sense of Congress.
+Sec. 3. Definitions.
+TITLE IâNational Artificial Intelligence Research and Development Initiative
+Sec. 101. National Artificial Intelligence Research and Development Initiative.
+Sec. 102. National Artificial Intelligence Coordination Office.
+Sec. 103. Interagency Committee on Artificial Intelligence.
+Sec. 104. National Artificial Intelligence Advisory Committee.
+Sec. 105. Study on the artificial intelligence workforce.
+TITLE IIâNational Institute of Standards and Technology Artificial Intelligence Activities
+Sec. 201. National Institute of Standards and Technology activities on artificial intelligence.
+TITLE IIIâNational Science Foundation and Multidisciplinary Centers for Artificial Intelligence
+Research and Education
+Sec. 301. Research and education program on artificial intelligence and artificial intelligence
+engineering.
+Sec. 302. Multidisciplinary Centers for Artificial Intelligence Research and Education.
+TITLE IVâDepartment of Energy Artificial Intelligence Research and Development Program
+Sec. 401. Research and development program on artificial intelligence.
+2.
+Sense of Congress
+It is the sense of Congress thatâ
+(1)
+there is a need for a National Artificial Intelligence Initiative, including a comprehensive strategy for and coordination across agencies on research and development on artificial intelligence;
+(2)
+there are currently several interagency committees working on related tasks with respect to artificial intelligence; and
+(3)
+the reporting structure of such committees could be simplified to address efficiently the goals of an initiative described in paragraph (1).
+3.
+Definitions
+In this Act:
+(1)
+Artificial intelligence
+The term
+artificial intelligence
+includes the following:
+(A)
+Any artificial system that performs tasks under varying and unpredictable circumstances without significant human oversight, or that can learn from experience and improve performance when exposed to data sets.
+(B)
+An artificial system developed in computer software, physical hardware, or other context that solves tasks requiring human-like perception, cognition, planning, learning, communication, or physical action.
+(C)
+An artificial system designed to think or act like a human, including cognitive architectures and neural networks.
+(D)
+A set of techniques, including machine learning, that is designed to approximate a cognitive task.
+(E)
+An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting.
+(2)
+Advisory Committee
+The term
+Advisory Committee
+means the advisory committee established or designated under section 104.
+(3)
+Emerging research institution
+The term
+emerging research institution
+means an institution of higher education thatâ
+(A)
+receives less than $20,000,000 in Federal research funding annually; and
+(B)
+may grant a doctoral degree.
+(4)
+Industry
+The term
+industry
+means entities in industries relevant to artificial intelligence.
+(5)
+Initiative
+The term
+Initiative
+means the National Artificial Intelligence Research and Development Initiative established under section 101.
+(6)
+Institutions of higher education
+The term
+institutions of higher education
+has the meaning given the term in section 101 of the Higher Education Act of 1965 (
+20 U.S.C. 1001
+).
+(7)
+Interagency Committee
+The term
+Interagency Committee
+means the interagency committee established or designated under section 103.
+(8)
+Kâ12 education
+The term
+Kâ12 education
+means elementary school and secondary education, as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 7801
+).
+(9)
+Machine learning
+The term
+machine learning
+means a subfield of artificial intelligence that is characterized by giving computers the autonomous ability to progressively optimize performance of a specific task based on data without being explicitly programmed.
+(10)
+Minority-serving institution
+The term
+minority-serving institution
+means any of the following:
+(A)
+A Hispanic-serving institution (as defined in section 502(a) of the Higher Education Act of 1965 (
+20 U.S.C. 1101a(a)
+)).
+(B)
+A Tribal College or University (as defined in section 316(b) of the Higher Education Act of 1965 (
+20 U.S.C. 1059c(b)
+)).
+(C)
+An Alaska Native-serving institution (as defined in section 317(b) of the Higher Education Act of 1965 (
+20 U.S.C. 1059d(b)
+)).
+(D)
+A Native Hawaiian-serving institution (as defined in section 317(b) of the Higher Education Act of 1965 (
+20 U.S.C. 1059d(b)
+)).
+(E)
+A Predominantly Black Institution (as defined in section 318(b) of the Higher Education Act of 1965 (
+20 U.S.C. 1059e(b)
+)).
+(F)
+A Native American-serving nontribal institution (as defined in section 319(b) of the Higher Education Act of 1965 (
+20 U.S.C. 1059f(b)
+)).
+(G)
+An Asian American and Native American Pacific Islander-serving institution (as defined in section 320(b) of the Higher Education Act of 1965 (
+20 U.S.C. 1059g(b)
+)).
+I
+National Artificial Intelligence Research and Development Initiative
+101.
+National Artificial Intelligence Research and Development Initiative
+The President shall establish and implement an initiative with respect to artificial intelligence to be known as the
+National Artificial Intelligence Research and Development Initiative
+. In carrying out the Initiative, the President shall, acting through appropriate Federal entities, including the Networking and Information Technology Research and Development Programâ
+(1)
+establish objectives, priorities, and metrics for strategic plans under section 103(d) to accelerate development of science and technology applications for artificial intelligence in the United States;
+(2)
+invest in research, development, demonstration, application to analysis and modeling, and other activities with respect to science and technology in artificial intelligence;
+(3)
+support the development of a workforce pipeline for science and technology with respect to artificial intelligence by making strategic investments toâ
+(A)
+expand the number of researchers, educators, and students with training in science and technology in artificial intelligence;
+(B)
+increase the number of skilled and trained workers from underrepresented communities who can contribute to the development of artificial intelligence and artificial intelligence technology, diversify the artificial intelligence workforce, and expand the artificial intelligence workforce pipeline;
+(C)
+promote the development and inclusion of multidisciplinary curricula and research opportunities for science and engineering with respect to artificial intelligence, including advanced technological education, during the primary, secondary, undergraduate, graduate, postdoctoral, adult learning, and career retraining stages of education; and
+(D)
+equip workers with the knowledge and skill sets required to operate effectively in occupations and workplaces that will be increasingly influenced by artificial intelligence;
+(4)
+facilitate coordination of efforts and collaboration with respect to research and development of artificial intelligence among government agencies, Federal and national laboratories, nonprofit organizations, institutions of higher education, and industry;
+(5)
+leverage existing Federal research investments, and partner with industry and institutions of higher education to leverage knowledge and resources, to advance objectives and priorities of the Initiative;
+(6)
+strengthen research, development, demonstration, and applications in science and technology with respect to artificial intelligence byâ
+(A)
+addressing gaps in basic research knowledge with respect to artificial intelligence through research;
+(B)
+promoting the further development of facilities and centers available for research, testing, and education in science and technology with respect to artificial intelligence;
+(C)
+stimulating research on, and promoting more rapid development and commercialization of, artificial intelligence-based technologies;
+(D)
+promoting research into the effects of artificial intelligence and applications of artificial intelligence on society, the workforce and workplace, and individuals, including those from underrepresented communities;
+(E)
+promoting data and model sharing among the Federal government, academic researchers, the private sector, and other practitioners of artificial intelligence;
+(F)
+identifying and minimizing inappropriate bias in data sets, algorithms, and other aspects of artificial intelligence; and
+(G)
+supporting efforts to create metrics to assess safety, security, and reliability of applications of science and technology with respect to artificial intelligence; and
+(7)
+ensure that research, development, demonstration, and applications efforts with respect to artificial intelligence create measurable benefits for all individuals in the United States, including members of disadvantaged and underrepresented groups.
+102.
+National Artificial Intelligence Coordination Office
+(a)
+In general
+The Director of the Office of Science and Technology Policy, in consultation with the Director of the National Science Foundation, the Secretary of Energy, and the Secretary of Commerce, shall establish or designate, and appoint a director of, an office to be known as the
+National Artificial Intelligence Coordination Office
+(in this section referred to as the
+Office
+).
+(b)
+Duties
+The Office shallâ
+(1)
+provide technical and administrative support to the Advisory Committee;
+(2)
+serve as the point of contact on Federal artificial intelligence activities for government organizations, academia, industry, professional societies, State artificial intelligence programs, interested citizen groups, and others to exchange technical and programmatic information;
+(3)
+conduct public outreach, including dissemination of findings and recommendations of the Advisory Committee (as appropriate); and
+(4)
+promote access to and development of early applications of the technologies, innovations, and expertise that benefit the public derived from Initiative activities to agency missions and systems across the Federal Government, and to United States industry, including startup companies.
+(c)
+Funding
+The Office shall be funded through interagency funding.
+(d)
+Report
+Not later than 90 days after the date of the enactment of this Act, the Director of the Office of Science and Technology Policy shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on funding for the National Artificial Intelligence Coordination Office. The report shall includeâ
+(1)
+the amount of funding required to adequately fund the Office;
+(2)
+the adequacy of existing mechanisms to fund the Office; and
+(3)
+the actions taken by the director of the Office to ensure stable funding for the Office.
+103.
+Interagency Committee on Artificial Intelligence
+(a)
+In general
+The Director of the Office of Science and Technology Policy shall establish or designate an interagency committee to be known as the
+Interagency Committee on Artificial Intelligence
+.
+(b)
+Composition; chairs
+(1)
+Composition
+The Interagency Committee shall be comprised of representatives from the following, as detailed to the Interagency Committee by the head of the agency concerned:
+(A)
+The National Institute of Standards and Technology.
+(B)
+The National Science Foundation.
+(C)
+The Department of Energy.
+(D)
+The National Aeronautics and Space Administration.
+(E)
+The Department of Defense.
+(F)
+The Office of the Director of National Intelligence.
+(G)
+The Office of Management and Budget.
+(H)
+The Office of Science and Technology Policy.
+(I)
+The National Institutes of Health.
+(J)
+Any other Federal agency the Director of the Office of Science and Technology Policy considers appropriate.
+(2)
+Co-chairs
+The Interagency Committee shall be co-chaired by the following:
+(A)
+The Secretary of Energy.
+(B)
+The Director of the Office of Science and Technology Policy.
+(C)
+The Director of the National Institute of Standards and Technology.
+(D)
+The Director of the National Science Foundation.
+(c)
+Duties
+The Interagency Committee shallâ
+(1)
+coordinate, and make recommendations for, activities and programs of Federal agencies on research and education with respect to artificial intelligence and artificial intelligence technology;
+(2)
+establish objectives and priorities for the Initiative, consistent with the objectives and purposes specified in section 101, based on identified knowledge and workforce gaps and other national needs;
+(3)
+assess and recommend Federal infrastructure needs to support the Initiative; and
+(4)
+evaluate opportunities for international cooperation with strategic allies on research and development with respect to artificial intelligence and artificial intelligence technology.
+(d)
+Strategic Plan
+Not later than 1 year after the date of the enactment of this Act, the Interagency Committee shall develop a 5-year strategic plan, and 6 years after enactment of this Act develop an additional 5-year strategic plan, with periodic updates (as appropriate), to guide the activities of the Initiative, meet Initiative goals and priorities, and anticipate outcomes at participating agencies. In carrying out this subsection, the Interagency Committee should take into consideration reports from the Advisory Committee.
+104.
+National Artificial Intelligence Advisory Committee
+(a)
+In General
+The Director of the National Science Foundation (in this section referred to as the
+Director
+) shall establish or designate an advisory committee to be known as the
+National Artificial Intelligence Advisory Committee
+.
+(b)
+Qualification of members
+(1)
+In general
+The Director of the National Science Foundation, in consultation with the Director of the Office of Science and Technology Policy, shall appoint as members of the Advisory Committee individual who are qualified to provide advice and information on research, development, demonstrations, education, infrastructure, technology transfer, commercial applications, and concerns of a national security, social, or economic nature with respect to artificial intelligence and artificial intelligence technology. The Director shall seek public input, and individuals so appointed shall collectively have expertise on a wide range of defense and non-defense artificial intelligence matters.
+(2)
+Limitation
+Not more than half of the members of the Advisory Committee may be representatives of the artificial intelligence industry.
+(c)
+Duties
+The Advisory Committee shall advise the Director of the Office of Science and Technology Policy and the Interagency Committee on Artificial Intelligence under section 103 on matters relating to the Initiative, including assessingâ
+(1)
+trends and developments in artificial intelligence, including the current and near future state of artificial intelligence systems and forecasting;
+(2)
+progress made in implementing the Initiative;
+(3)
+the need to revise the Initiative;
+(4)
+balance among the components of the Initiative, including funding levels for component areas of the Initiative;
+(5)
+whether the component areas, priorities, and technical goals of the Initiative are helping to maintain United States leadership in artificial intelligence and artificial intelligence technology;
+(6)
+the management, coordination, implementation, and activities of the Initiative; and
+(7)
+whether societal, ethical, legal, environmental, and workforce concerns with respect to artificial intelligence and artificial intelligence technology are adequately addressed by the Initiative.
+(d)
+Reports
+Not later than 4 years after the date of the most recent assessment under subsection (c), and quadrennially thereafter, the Advisory Committee shall submit to the Director of the National Science Foundation, the
+Committee on Commerce, Science, and Transportation of the Senate,
+and the
+Committee on Science, Space, and Technology of the House of Representatives
+a report on its assessments under subsection (c) and its recommendations for ways to improve the Initiative.
+(e)
+Travel Expenses of Non-Federal Members
+Non-Federal members of the Advisory Committee, while attending meetings of the Advisory Committee or while otherwise serving at the request of the head of the Advisory Committee away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for individuals in the government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Committee who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
+(f)
+Exemption from Sunset
+Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+105.
+Study on the artificial intelligence workforce
+(a)
+In general
+Not later than 60 days after the date of the enactment of this Act, the National Artificial Intelligence Coordination Office shall seek to enter into a contract with a federally funded research and development center for a study on the mechanisms that produce or contribute to the workforce in artificial intelligence (including researchers and specialists in artificial intelligence and users of artificial intelligence) in order to identify and develop actions to ensure an appropriate increase in the size, quality, and diversity of the workforce.
+(b)
+Collaboration in study
+The contract referred to in subsection (a) shall require the federally funded research and development center entering into the contract to do the following:
+(1)
+Collaborate with the Secretary of Commerce, the Commissioner of Labor Statistics, and the Director of the Census in developing a comprehensive and detailed understanding of the workforce needs of and employment opportunities in the artificial intelligence field, by State and by region.
+(2)
+Collaborate in carrying out the study with educational institutions, State and local workforce development boards, nonprofit organizations, labor organizations, apprenticeship programs, industry, and other entities in the artificial intelligence field.
+(3)
+Collaborate with minority-serving institutions in order to facilitate the sharing of best practices and approaches for increasing and retaining underrepresented populations in the artificial intelligence field.
+(4)
+Facilitate the sharing of best practices and approaches for the development and sustainment of the workforce in artificial intelligence that are identified or developed through the study amongâ
+(A)
+entities in the artificial intelligence field, State and local workforce development boards, nonprofit organizations, labor organizations, and apprenticeship programs that provide training programs for employment in the artificial intelligence field; and
+(B)
+educational institutions that seek to establish such training programs.
+(c)
+Department of Labor annual report on job creation
+Ech year while the contract referred to in subsection (a) is in force, the Secretary of Labor shall, using information derived from the study described in that subsection and other appropriate information, issue to the public a report on job creation in the artificial intelligence field during the preceding year.
+II
+National Institute of Standards and Technology Artificial Intelligence Activities
+201.
+National Institute of Standards and Technology activities on artificial intelligence
+(a)
+In general
+As part of the Initiative, the Director of the National Institute of Standards and Technology (in this section referred to as the
+Director
+) shallâ
+(1)
+support the development of measurements and standards necessary to advance commercial development of artificial intelligence applications, including byâ
+(A)
+developing measurements and standards;
+(B)
+supporting efforts to develop measurements and consensus standards by standards development organizations; and
+(C)
+modernizing the infrastructure used for benchmarking artificial intelligence technologies;
+(2)
+establishing and supporting collaborative ventures or consortia with public or private sector entities, including institutions of higher education, National Laboratories, and industry for the purpose of advancing fundamental and applied research and development on artificial intelligence; and
+(3)
+use existing authorities to award contracts as necessary to carry out the Initiative, including cooperative agreements and other similar transactions.
+(b)
+Artificial intelligence outreach
+(1)
+In general
+The Director shall conduct outreachâ
+(A)
+to receive input from stakeholders on the development of a plan to address future measurements and standards related to artificial intelligence; and
+(B)
+to provide an opportunity for public comment on any such measurements or standards.
+(2)
+Meetings
+(A)
+In general
+Not later than 1 year after the date of the enactment of this Act, and a periodic basis thereafter, as the Director determines appropriate, the Director shall convene 1 or more meetings of stakeholders, including technical expert representatives from government organizations, industry, and institutions of higher education, to discuss topics described in subparagraph (B).
+(B)
+Topics
+Meetings under subparagraph (A) may cover topics that the Director determines to be important to the development of standards and measurements with respect to artificial intelligence, includingâ
+(i)
+cybersecurity;
+(ii)
+algorithm accountability;
+(iii)
+algorithm explainability;
+(iv)
+algorithm trustworthiness;
+(v)
+establishment of a common lexicon for artificial intelligence; and
+(vi)
+resources and methods for benchmarking artificial intelligence technologies.
+(C)
+Purposes
+The purposes of meetings under this paragraph shall beâ
+(i)
+to assess contemporary research on the topics determined by the Director under subparagraph (B);
+(ii)
+to evaluate research gaps relating to such topics;
+(iii)
+to provide an opportunity for stakeholders to provide recommendations on the research to be addressed by the National Institute of Standards and Technology and the Initiative; and
+(iv)
+to coordinate engagement with international standards bodies in order to ensure United States leadership in the development of global technical standards, including witb respect to artificial intelligence and cybersecurity.
+(3)
+Report to Congress
+Not later than 2 years after the date of the enactment of this Act, the Director shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report summarizing the results of outreach and meetings conducted under this subsection.
+(c)
+Authorization of appropriations
+There are authorized to be appropriated for each of fiscal years 2020 through 2024, $40,000,000 to carry out this section.
+III
+National Science Foundation and Multidisciplinary Centers for Artificial Intelligence Research and
+Education
+301.
+Research and education program on artificial intelligence and artificial intelligence engineering
+(a)
+In general
+As part of the Initiative, the Director of the National Science Foundation (in this section referred to as the
+Director
+) shall establish and implement a research and education program on artificial intelligence and artificial intelligence engineering.
+(b)
+Program components
+In carrying out the program required under subsection (a), the Director shallâ
+(1)
+continue to support interdisciplinary research on, and human resources development in, all aspects of science and engineering with respect to artificial intelligence, includingâ
+(A)
+algorithm accountability;
+(B)
+minimization of inappropriate bias in training data sets or algorithmic feature selection;
+(C)
+qualitative and quantitative forecasting of future capabilities and applications; and
+(D)
+societal and ethical implications of artificial intelligence;
+(2)
+use existing authorities and programs and collaborate with other Federal agenciesâ
+(A)
+to improve teaching and learning in science and engineering with respect to artificial intelligence during the primary, secondary, undergraduate, graduate, postgraduate, adult learning, and career retraining stages of education;
+(B)
+to increase participation in artificial intelligence fields, including by individuals identified in sections 33 and 34 of the Science and Engineering Equal Opportunities Act (
+42 U.S.C. 1885a
+, 1885b);
+(C)
+to formulate goals for education activities in engineering and research with respect to artificial intelligence to be supported by the National Science Foundation related to topics important to the Initiative, includingâ
+(i)
+algorithm accountability;
+(ii)
+algorithm explainability;
+(iii)
+consumer data privacy;
+(iv)
+assessment and minimization of inappropriate bias in training data and output;
+(v)
+societal and ethical implications of the use of artificial intelligence;
+(vi)
+algorithm trustworthiness; and
+(vii)
+algorithmic forecasting;
+(D)
+to engage with institutions of higher education, research communities, potential users of information produced under this section, entities in the private sector, and non-Federal entitiesâ
+(i)
+to leverage the collective body of knowledge from existing research and education activities with respect to artificial intelligence and artificial intelligence engineering; and
+(ii)
+to support partnerships among institutions of higher education and industry that facilitate collaborative research, personnel exchanges, and workforce development with respect to artificial intelligence and artificial intelligence engineering;
+(E)
+to coordinate research efforts with respect to artificial intelligence and artificial intelligence engineering funded through existing programs across the directorates of the National Science Foundation;
+(F)
+to ensure adequate access to research and education infrastructure with respect to artificial intelligence and artificial intelligence engineering, including through development of hardware and facilitation of the use of computing resources, including cloud-based computing services; and
+(G)
+to increase participation rates in research and education on artificial intelligence among underrepresented communities by engaging with minority-serving institutions.
+(c)
+Graduate traineeships
+In carrying out the program required under subsection (a), the Director may provide traineeships to graduate students at institutions of higher education whoâ
+(1)
+are United States nationals or aliens lawfully admitted for permanent residence in the United States; and
+(2)
+who choose to pursue masters or doctoral degrees in artificial intelligence or artificial intelligence engineering.
+302.
+Multidisciplinary Centers for Artificial Intelligence Research and Education
+(a)
+In general
+The Director of the National Science Foundation (in this section referred to as the
+Director
+), in consultation with other appropriate Federal agencies, shall award grants to eligible entities to establish up to 5 research and education centers (in this section referred to as
+Centers
+) to conduct research and education activities in support of the Initiative. Each Center established pursuant to such a grant shall be known as a
+Multidisciplinary Center for Artificial Intelligence Research and Education
+.
+(b)
+Eligible entities
+For purposes of this section, an eligible entity is any entity as follows:
+(1)
+An institution of higher education.
+(2)
+A relevant nonprofit organization.
+(3)
+A State or local government.
+(4)
+A consortium of entities that consists ofâ
+(A)
+two or more entities specified in paragraphs (1) through (3); or
+(B)
+at least one entity specified in such paragraphs and a relevant private sector organization that is not a nonprofit organization.
+(c)
+Minimum number of grants for certain purposes
+(1)
+Kâ12 education
+Not less than 1 grant under this section must be for a Center with the primary purpose of integrating artificial intelligence into Kâ12 education.
+(2)
+Minority-serving institution
+Not less than 1 grant under this section must be for a Center located at a minority-serving institution.
+(d)
+Application
+An eligible entity seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall includeâ
+(1)
+a plan for the proposed Centerâ
+(A)
+to work with other research institutions, emerging research institutions, and industry to leverage expertise in artificial intelligence, education and curricula development, and technology transfer;
+(B)
+to promote active collaboration among researchers in multiple disciplines and across multiple institutions involved in artificial intelligence research including physics, engineering, mathematical sciences, computer and information science, biological and cognitive sciences, material science, education, and social and behavioral sciences (such as industrial-organizational psychology);
+(C)
+to integrate into the activities of such Center consideration of the ethics of development, technology usage, and data collection, storage, and sharing (including training data sets) in connection with artificial intelligence;
+(D)
+to support long-term and short-term workforce development in artificial intelligence, including broadening participation of underrepresented communities; and
+(E)
+to support an innovation ecosystem to work with industry to translate Center research into applications and products; and
+(2)
+a description of the anticipated long-term impact of such Center beyond the termination of support under this section.
+(e)
+Selection and duration
+(1)
+In general
+A Center established using a grant under this section may receive funding under this section for a period of 5 years.
+(2)
+Extension
+Such a Center may apply for, and the Director may grant, an extension of a grant under this section for an additional 5-year period.
+(3)
+Termination
+The Director may terminate for cause funding under this section for a Center that underperforms.
+(f)
+Funding
+During each of fiscal years 2020 through 2024, the amount provided each fiscal year for a Center established pursuant to this section through a grant under this section shall be $20,000,000.
+IV
+Department of Energy Artificial Intelligence Research and Development Program
+401.
+Research and development program on artificial intelligence
+(a)
+Program required
+As a part of the Initiative, the Secretary of Energy (in this section referred to as the
+Secretary
+) shall carry out a research and development program on artificial intelligence.
+(b)
+Components
+In carrying out the program required under subsection (a), the Secretary shallâ
+(1)
+formulate objectives for research on artificial intelligence to be supported by the Department of Energy that are consistent with the Initiative;
+(2)
+leverage the collective body of knowledge from existing research on artificial intelligence;
+(3)
+coordinate research efforts on artificial intelligence that are funded through existing programs across the Department;
+(4)
+engage with other Federal agencies, research communities, and potential users of information produced under this section;
+(5)
+build, maintain, and, to the extent practicable, make available for use by academic, government, and private sector researchers the computing hardware and software necessary to carry out the program; and
+(6)
+establish and maintain on an Internet website of the Department available to the public a resource center thatâ
+(A)
+provides current information and resources on training programs for employment in artificial intelligence; and
+(B)
+otherwise serves as a resource for educational institutions, State and local workforce development boards, nonprofit organizations, and apprenticeship programs seeking to develop and implement training programs for employment in artificial intelligence.
+(c)
+Research centers
+(1)
+Grants
+In carrying out this section, the Secretary may award grants to eligible entities to establish and operate up to 5 artificial intelligence research centers (in this subsection referred to as
+Centers
+) for the purposes described in paragraph (3).
+(2)
+Selection
+(A)
+In general
+Except as provided in subparagraph (C), grants under this subsection shall be awarded through a competitive, merit-reviewed process.
+(B)
+Eligible entities
+For purposes of this subsection, an eligible entity is any entity as follows:
+(i)
+An institution of higher education.
+(ii)
+A relevant nonprofit organization.
+(iii)
+A State or local government.
+(iv)
+A National Laboratory or a federally funded research and development center.
+(v)
+A consortium of entities that consists ofâ
+(I)
+two or more entities specified in clauses (i) through (iv); or
+(II)
+at least one entity specified in such clauses and a relevant private sector organization that is not a nonprofit organization.
+(C)
+National security laboratory
+At least 1 of the grants under this subsection shall be awarded to a national security laboratory of the National Nuclear Security Administration.
+(3)
+Purposes
+The purposes of the Centers established under this subsection areâ
+(A)
+to serve the needs of the Department and such academic, educational, and private sector entities as the Secretary considers appropriate;
+(B)
+to advance research and education in artificial intelligence and facilitate improvement in the competitiveness of the United States; and
+(C)
+to provide access to computing resources to promote scientific progress and enable users from institutions of higher education, educational institutions, the National Laboratories, and industryâ
+(i)
+to make scientific discoveries relevant to research in artificial intelligence;
+(ii)
+to conduct research to accelerate scientific breakthroughs in science and technology with respect to artificial intelligence;
+(iii)
+to support research conducted under this section; and
+(iv)
+to increase the distribution of research infrastructure and broaden the spectrum of students exposed to research in artificial intelligence at institutions of higher education (including emerging research institutions).
+(4)
+Coordination
+The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of each Center with the activities ofâ
+(A)
+other research entities of the Department, including the Nanoscale Science Research Centers, the Energy Frontier Research Centers, and the Energy Innovation Hubs; and
+(B)
+industry.
+(5)
+Duration
+(A)
+In general
+Any center selected and established under this section is authorized to carry out activities for a period of 5 years.
+(B)
+Extension
+Such a Center may apply for, and the Director may grant, an extension of a grant under this section for an additional 5-year period.
+(C)
+Termination
+Consistent with existing authorities of the Department, the Secretary may terminate for cause a Center that underperforms during the performance period.
+(d)
+Authorization of appropriations
+There are authorized to be appropriated for each of fiscal years 2020 through 2024 for the Department of Energy, $300,000,000 to be available for the Department to carry out this section.

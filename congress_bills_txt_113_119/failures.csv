@@ -1,0 +1,31 @@
+bill_id,package_id,stage,url,error
+hjres55-114,BILLS-114hjres55ih,bill_text,https://www.govinfo.gov/bulkdata/BILLS/114/1/hjres/BILLS-114hjres55ih.xml,Failed to fetch https://www.govinfo.gov/bulkdata/BILLS/114/1/hjres/BILLS-114hjres55ih.xml: 404 Client Error: Not Found for url: https://www.govinfo.gov/bulkdata/BILLS/114/1/hjres/BILLS-114hjres55ih.xml
+hr3239-117,BILLS-117hr3239ih,bill_text,https://www.govinfo.gov/bulkdata/BILLS/117/1/hr/BILLS-117hr3239ih.xml,Extracted empty plain text
+hr3241-117,BILLS-117hr3241ih,bill_text,https://www.govinfo.gov/bulkdata/BILLS/117/1/hr/BILLS-117hr3241ih.xml,Failed to fetch https://www.govinfo.gov/bulkdata/BILLS/117/1/hr/BILLS-117hr3241ih.xml: 404 Client Error: Not Found for url: https://www.govinfo.gov/bulkdata/BILLS/117/1/hr/BILLS-117hr3241ih.xml
+hr8969-117,BILLS-117hr8969ih,bill_text,https://www.govinfo.gov/bulkdata/BILLS/117/2/hr/BILLS-117hr8969ih.xml,Extracted empty plain text
+hres148-113,BILLS-113hres148ih,bill_text,https://www.govinfo.gov/bulkdata/BILLS/113/1/hres/BILLS-113hres148ih.xml,"not well-formed (invalid token): line 7, column 82"
+hres213-119,BILLS-119hres213eh,bill_text,https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres213eh.xml,Failed to fetch https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres213eh.xml: 404 Client Error: Not Found for url: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres213eh.xml
+hres276-113,BILLS-113hres276ih,bill_text,https://www.govinfo.gov/bulkdata/BILLS/113/1/hres/BILLS-113hres276ih.xml,"not well-formed (invalid token): line 7, column 114"
+s1248-118,BILLS-118s1248is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/1/s/BILLS-118s1248is.xml,Extracted empty plain text
+s1333-116,BILLS-116s1333is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/116/1/s/BILLS-116s1333is.xml,Extracted empty plain text
+s1339-113,BILLS-113s1339is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/113/1/s/BILLS-113s1339is.xml,"not well-formed (invalid token): line 7, column 49"
+s142-118,BILLS-118s142is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/1/s/BILLS-118s142is.xml,Extracted empty plain text
+s243-118,BILLS-118s243is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/1/s/BILLS-118s243is.xml,Extracted empty plain text
+s2519-117,BILLS-117s2519is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/117/1/s/BILLS-117s2519is.xml,Extracted empty plain text
+s254-118,BILLS-118s254is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/1/s/BILLS-118s254is.xml,Extracted empty plain text
+s2564-117,BILLS-117s2564is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/117/1/s/BILLS-117s2564is.xml,Extracted empty plain text
+s2802-116,BILLS-116s2802is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/116/1/s/BILLS-116s2802is.xml,Extracted empty plain text
+s2930-118,BILLS-118s2930is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/1/s/BILLS-118s2930is.xml,Extracted empty plain text
+s297-117,BILLS-117s297is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/117/1/s/BILLS-117s297is.xml,Extracted empty plain text
+s310-118,BILLS-118s310is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/1/s/BILLS-118s310is.xml,Extracted empty plain text
+s4065-116,BILLS-116s4065is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/116/2/s/BILLS-116s4065is.xml,Extracted empty plain text
+s4106-119,BILLS-119s4106is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4106is.xml,Failed to fetch https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4106is.xml: 404 Client Error: Not Found for url: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4106is.xml
+s421-117,BILLS-117s421is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/117/1/s/BILLS-117s421is.xml,Extracted empty plain text
+s4697-118,BILLS-118s4697is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/2/s/BILLS-118s4697is.xml,Extracted empty plain text
+s495-118,BILLS-118s495is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/1/s/BILLS-118s495is.xml,Extracted empty plain text
+s628-117,BILLS-117s628is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/117/1/s/BILLS-117s628is.xml,Extracted empty plain text
+s667-116,BILLS-116s667is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/116/1/s/BILLS-116s667is.xml,Extracted empty plain text
+s791-118,BILLS-118s791is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/118/1/s/BILLS-118s791is.xml,Extracted empty plain text
+sconres13-113,BILLS-113sconres13is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/113/1/sconres/BILLS-113sconres13is.xml,"not well-formed (invalid token): line 7, column 47"
+sres104-113,BILLS-113sres104is,bill_text,https://www.govinfo.gov/bulkdata/BILLS/113/1/sres/BILLS-113sres104is.xml,"not well-formed (invalid token): line 7, column 82"
+sres264-113,BILLS-113sres264ats,bill_text,https://www.govinfo.gov/bulkdata/BILLS/113/1/sres/BILLS-113sres264ats.xml,"not well-formed (invalid token): line 6, column 123"

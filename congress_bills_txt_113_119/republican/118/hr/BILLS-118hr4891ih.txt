@@ -1,0 +1,104 @@
+1.
+Short title
+This Act may be cited as the
+Multi-Cloud Innovation and Advancement Act of 2023
+.
+2.
+Findings
+Congress makes the following findings:
+(1)
+The Federal Government, across multiple presidential administrations and Congresses, has continuously supported the ability of Federal agencies to move to cloud computing, including throughâ
+(A)
+the
+Federal Cloud Computing Strategy
+released by the United States Chief Information Officer on February 8, 2011;
+(B)
+the
+2019 Federal Cloud Computing Strategy-Cloud Smart
+released by the United States Chief Information Officer in 2019;
+(C)
+the prioritization of cloud computing security in Executive Order No. 14028 (86 Fed. Reg. 26633; relating to improving the Nationâs cybersecurity), which was issued on May 12, 2021; and
+(D)
+more than a decade of appropriations and authorization legislation that provides Federal agencies with relevant authorities and appropriations to modernize on-premises information technology systems and more readily adopt cloud computing products and services.
+(2)
+Federal agencies have adopted cloud computing using various service delivery models, often through duplicative contract actions and engineering efforts, which approach, while offering faster deployments, does not capitalize on opportunities for operational efficiencies, standardized security, and cost reduction through service streamlining and consolidated procurement.
+(3)
+The COVIDâ19 pandemic accelerated the adoption of cloud computing by Federal agencies, prompting such agencies to require assistance managing and developing multi-cloud strategies to allow Federal agencies to select cloud computing providers that will meet their mission needs while achieving the goals of the Federal cloud computing strategies described in paragraph (1).
+(4)
+There is a shortage of staff within Federal agencies who have the necessary digital skills and expertise relating toâ
+(A)
+cloud computing services; and
+(B)
+deploying and securing applications on more than one cloud computing service.
+(5)
+Adoption of multi-cloud software technology can securely deliver operational and management consistency and resiliency to optimize Federal agenciesâ use of cloud computing environments and provide a flexible and scalable infrastructure to Federal agencies.
+3.
+Implementation of multi-cloud software technology
+(a)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Director, in consultation with the Administrator of General Services, the Director of the National Institute of Standards and Technology, the Director of the Cybersecurity and Infrastructure Security Agency, and the Administrator of the United States Digital Service, is directed to carry out the following:
+(1)
+Examine how executive agencies can implement multi-cloud computing software technology architecture to allow for portability and interoperability across multiple cloud computing software vendors.
+(2)
+Develop written guidance for all executive agencies based on the results of the examination described in paragraph (1) thatâ
+(A)
+describes how executive agencies should use multi-cloud software technology to allow for applications, data, and programs to be portable and interoperable between public, private, and edge cloud environments; and
+(B)
+outlines a roadmap for implementation of multi-cloud software technology across executive agencies no later than January 1, 2025.
+(b)
+Briefing
+Not later than 1 year after the date of the enactment of this Act, the Director shall provide to the relevant committees of Congressâ
+(1)
+a copy of the written guidance described in subsection (a); and
+(2)
+a briefing on implementation of multi-cloud software technology by executive agencies, along with any recommendations related to expansion or extension of such implementation.
+(c)
+Workforce development study
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall submit to Congress and make publicly available a reportâ
+(1)
+assessing the state of the digital skills and expertise gap within the Federal workforce relating to information and communications technology, with particular attention to the skills and expertise gap relating to cloud computing and multi-cloud software technology;
+(2)
+any recommendations for Federal workforce development activities, including trainings, certifications, and partnerships, to address any gap identified as a result of the assessment described in paragraph (1); and
+(3)
+any recommendations relating to hiring practices for executive agencies to address any gap identified as a result of the assessment described in paragraph (1).
+(d)
+Report to Congress
+Not later than 2 years after the date of enactment of this Act, the Comptroller General shall submit to Congress and make publicly available a report assessing how executive agencies have implemented the guidance developed under subsection (a) to deploy and secure multi-cloud software technology architecture that includes multiple cloud computing software vendors.
+(e)
+Definitions
+In this section:
+(1)
+Cloud computing
+The term
+cloud computing
+has the meaning given the term in Special Publication 800â145 of the National Institute of Standards and Technology, or any successor document.
+(2)
+Comptroller general
+The term
+Comptroller General
+means the Comptroller General of the United States.
+(3)
+Director
+The term
+Director
+means the Director of the Office of Management and Budget.
+(4)
+Executive agency
+The term
+executive agency
+has the meaning given the term in section 133 of title 41, United States Code.
+(5)
+Information and communications technology
+The term
+information and communications technology
+has the meaning given the term in subpart 2.101 of the Federal Acquisition Regulation, or successor regulation, and includes associated services.
+(6)
+Multi-cloud software technology
+The term
+multi-cloud software technology
+means software technology that allows for data, application, and program portability and interoperability between multiple cloud computing software vendors and between public, private, and edge cloud environments in a manner that securely delivers operational and management consistency, comprehensive visibility, and resiliency.
+(7)
+Relevant committees of Congress
+The term
+relevant committees of Congress
+means the Committee on Oversight and Accountability of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.

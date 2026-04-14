@@ -1,0 +1,652 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Unified Savings and Accountability Act
+or the
+USA Act
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec.â1.âShort title; table of contents.
+Title IâProvisions relating to Federal property, Federal contracts and information technology
+Subtitle AâAmendments and Other Provisions Relating to Federal Property, Federal Contracts, and Information Technology
+Sec.â101.âPromotion of competition in Federal contracting.
+Sec.â102.âPromotion of strategic sourcing in Federal contracting.
+Sec.â103.âAvoiding duplicative information technology investments.
+Sec.â104.âStrengthening oversight of information technology investments.
+Sec.â105.âStrengthening oversight of information technology operations.
+Sec.â106.âPromotion of reverse auctions in Federal contracting.
+Sec.â107.âCreation of long-term strategy for targeted ownership investments to replace some high-value leases.
+Subtitle BâData Center Consolidation
+Sec.â111.âPurpose.
+Sec.â112.âDefinitions.
+Sec.â113.âFederal Data Center Optimization Initiative.
+Sec.â114.âPerformance requirements related to data center consolidation.
+Sec.â115.âCost savings related to data center optimization.
+Sec.â116.âReporting requirements to Congress and the Federal Chief Information Officer.
+Sec.â117.âReduction and consolidation of data centers.
+Title IIâOther Matters
+Sec.â201.âReport on implementation of certain Medicare and Medicaid fraud detection and program integrity provisions.
+Sec.â202.âRevocation or denial of passport and passport card in case of certain tax delinquencies.
+Sec.â203.âProhibition on non-cost-effective minting and printing of coins and currency.
+Sec.â204.âRestrictions on printing and distribution of paper copies of Congressional documents.
+Sec.â205.âReplacing the $1 note with the $1 coin.
+Sec.â206.âEnhancing the Internal Revenue Serviceâs online services.
+Sec.â207.âImproving foreclosure loss mitigation efforts for mortgages made, insured, or guaranteed by Federal agencies.
+I
+Provisions relating to Federal property, Federal contracts and information technology
+A
+Amendments and Other Provisions Relating to Federal Property, Federal Contracts, and Information Technology
+101.
+Promotion of competition in Federal contracting
+(a)
+Office of Federal procurement policy
+Not later than six months after the date of enactment of this Act, the Administrator for Federal Procurement Policy shall issue guidance to Federal agencies to reinvigorate the role of the competition advocate, consistent with the recommendations of the Government Accountability Office in its report GAOâ10â833 (July 26, 2010).
+(b)
+Elements of guidance
+The guidance issued pursuant to subsection (a) shall include key factors agencies should consider in appointing and utilizing competition advocates, such as placement within the organization, skill set, and potential methods to effectively carry out their duties, and shall direct agencies to require their competition advocates to actively involve program offices in highlighting opportunities to increase competition.
+102.
+Promotion of strategic sourcing in Federal contracting
+(a)
+Savings goals
+Not later than six months after the date of enactment of this Act, and for 4 years annually thereafter, the Director of the Office of Management and Budget shall issue Government-wide savings goals for the strategic sourcing of goods and services by executive agencies required to designate or appoint a Chief Financial Officer as set forth in section 901 of title 31, United States Code. The Director may issue goals required by this section that are customized to individual agencies or sourcing efforts.
+(b)
+Matters covered
+In complying with subsection (a), the Director shall provide at a minimumâ
+(1)
+guidance to executive agencies on calculating savings generated from strategic sourcing efforts; and
+(2)
+standards to measure progress towards meeting savings goals established by subsection (a).
+(c)
+Report
+Not later than 5 years after the date of enactment of this Act, the Director shall submit to Congress a report on the extent of savings realized through the strategic sourcing of goods and services by executive agencies during the period Government-wide savings goals are required to be issued pursuant to subsection (a).
+103.
+Avoiding duplicative information technology investments
+(a)
+Purpose
+The purpose of this section is to improve transparency in order to ensure that agencies avoid making duplicative information technology investments.
+(b)
+Reporting potential duplication
+(1)
+Responsibility of agency chief information officers
+Each agency chief information officer shall utilize existing or newly developed transparency mechanisms to report to the Director of the Office of Management and Budget, not later than six months after the date of enactment of this Act and at least annually thereafter, on the results of the agencyâs efforts to identify and eliminate, where appropriate, each potentially duplicative information technology investment.
+(2)
+Functions of the director
+Not later than 90 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall issue a policy requiring consistency among all agencies in identifying information technology investments in any required reporting, and such investments shall include applicable research and development projects and mission-essential systems.
+104.
+Strengthening oversight of information technology investments
+Section 11303(b) of title 40, United States Code, is amendedâ
+(1)
+by redesignating paragraph (5) as paragraph (6); and
+(2)
+by inserting after paragraph (4) the following new paragraph (5):
+(5)
+Analyses of investments in operations and maintenance
+The Director shall require each executive agency to develop a policy consistent with OMB guidance for performing analysis on each operational/steady state information technology investment to measure how well the investment is achieving expected cost, schedule, performance, and other goals, and to determine whether the investment provides the most cost effective way of delivering business value. The agencies shall conduct these operational analyses on a yearly basis and shall report the results to the Director and through existing or newly developed transparency mechanisms.
+.
+105.
+Strengthening oversight of information technology operations
+(a)
+Improvement of PortfolioStat implementation
+Not later than six months after the date of enactment of this Act, the Director of the Office of Management and Budget shall carry out the following, consistent with the recommendations of the Government Accountability Office in its report GAOâ14â343SP (April 2014):
+(1)
+Issue guidance for the Secretaries of Agriculture, Commerce, Defense, Housing and Urban Development, the Interior, and Labor, and the agency heads of the Environmental Protection Agency, U.S. Nuclear Regulatory Commission, Office of Personnel Management, Small Business Administration, Social Security Administration, and U.S. Agency for International Development, to complete their commodity IT baselines (as part of PortfolioStat).
+(2)
+Require the Secretaries of Defense, Housing and Urban Development, the Interior, Labor, State, Transportation, and Veterans Affairs, and the agency heads of the Environmental Protection Agency, General Services Administration, National Aeronautics and Space Administration, Office of Personnel Management, Social Security Administration, and U.S. Agency for International Development, to report quarterly to the Director on each departmentâs or agencyâs progress in the migration of two commodity IT areas (enterprise IT systems and IT infrastructure) to a shared service.
+(b)
+Required actions by Federal Chief Information Officer
+(1)
+The Director of the Office of Management and Budget shall direct the Federal Chief Information Officer to take the following actions, consistent with the recommendations of the Government Accountability Office in its report GAOâ14â343SP (April 2014) and as part of integrated data collection quarterly reporting:
+(A)
+Require that agenciesâ
+(i)
+describe the actions that have been taken to ensure the completeness of their commodity IT baseline information; and
+(ii)
+identify any limitation in such information.
+(B)
+Require agencies to report on the progress of their efforts to migrate two commodity IT areas (enterprise IT systems and IT infrastructure) to a shared service.
+(C)
+Require agencies to fully disclose any limitations their chief information officers might have in exercising the authorities and responsibilities provided by law and the 2013 PortfolioStat guidance of the Office of Management and Budget.
+(D)
+Require agencies to disclose the limitations of any data reported (or disclose the parameters and assumptions of these data) on the agenciesâ data consolidation efforts and associated cost savings and cost avoidance.
+(E)
+Require agencies to improve transparency of and accountability for PortfolioStat by publicly disclosing planned and actual data consolidation efforts and related cost savings.
+(c)
+Definitions
+In this section:
+(1)
+PortfolioStat
+The term
+PortfolioStat
+refers to the initiative launched by the Office of Management and budget in March 2012 to maximize the return on information technology investments across the Federal Government.
+(2)
+IT
+The term
+IT
+means information technology.
+106.
+Promotion of reverse auctions in Federal contracting
+(a)
+Revision of FAR
+Not later than six months after the date of the enactment of this Act, the Federal Acquisition Regulation shall be revised to address reverse auctions by Federal agencies, including how and when they should be used, the roles and responsibilities of contracting officers, and what agencies should do if there is no interactive bidding during an auction.
+(b)
+Guidance on reverse auctions
+Not later than six months after the date of enactment of this Act, the Director of Office of Management and Budget shall, consistent with the recommendations of the Government Accountability Office on reverse auctions in its report GAOâ14â343SP (April 2014), issue Government-wide guidanceâ
+(1)
+advising agencies to collect and analyze data on the level of interactive bidding and, where applicable, fees paid, to determine the cost effectiveness of using reverse auctions in the procurement of goods or services; and
+(2)
+on best practices to maximize competition and savings in the use of reverse auctions.
+107.
+Creation of long-term strategy for targeted ownership investments to replace some high-value leases
+Not later than six months after the date of the enactment of the Act, the Administrator of General Services shall take the following actions pursuant to the recommendations of the Government Accountability Office in its report GAOâ14â343SP:
+(1)
+Develop and use criteria to rank and prioritize potential long-term ownership solutions to current high-value leases among other capital investments and use this ranking to create long-term cross agency strategy that facilitates consideration of targeted investments in ownership.
+(2)
+Report to the appropriate congressional committees any leases above the prospectus threshold that did not follow the congressional prospectus process and include in the lease prospectus a description of the length of time that an agency estimates it will need the space, an historical account of how long the agency will need to make the leased space meet its mission. For the spaces for which an agency has a long-term projected need, also include an appropriate form of cost-to-lease versus cost-to-own alternatives analysis to facilitate the evaluation.
+B
+Data Center Consolidation
+111.
+Purpose
+The purpose of this subtitle is to optimize Federal data center usage and efficiency.
+112.
+Definitions
+In this subtitle:
+(1)
+Federal Data Center Optimization Initiative
+The term
+Federal Data Center Optimization Initiative
+or the
+Initiative
+means the initiative developed and implemented by the Director, through the Federal Chief Information Officer, as required under section 113.
+(2)
+Covered agency
+The term
+covered agency
+means any agency included in the Federal Data Center Optimization Initiative.
+(3)
+Federal Chief Information Officer
+The term
+Federal Chief Information Officer
+means the Administrator of the Office of Electronic Government established under section 3602 of title 44, United States Code.
+(4)
+Data Center
+The term
+data center
+means a closet, room, floor, or building for the storage, management, and dissemination of data and information, as defined by the Federal Chief Information Officer under guidance issued pursuant to this section.
+(5)
+Federal Data Center
+The term
+Federal data center
+means any data center of a covered agency used or operated by a covered agency, by a contractor of a covered agency, or by another organization on behalf of a covered agency.
+(6)
+Server Utilization
+The term
+server utilization
+refers to the activity level of a server relative to its maximum activity level, expressed as a percentage.
+(7)
+Power usage effectiveness
+The term
+power usage effectiveness
+means the ratio obtained by dividing the total amount of electricity and other power consumed in running a data center by the power consumed by the information and communications technology in the data center.
+113.
+Federal Data Center Optimization Initiative
+(a)
+Requirement for initiative
+The Federal Chief Information Officer, in consultation with the chief information officers of covered agencies, shall develop and implement an initiative, to be known as the Federal Data Center Optimization Initiative, to optimize the usage and efficiency of Federal data centers by meeting the requirements of this Act and taking additional measures, as appropriate.
+(b)
+Requirement for plan
+Within 6 months after the date of the enactment of this Act, the Federal Chief Information Officer, in consultation with the chief information officers of covered agencies, shall develop and submit to Congress a plan for implementation of the Initiative required by subsection (a) by each covered agency. In developing the plan, the Federal Chief Information Officer shall take into account the findings and recommendations of the Comptroller General review required by section 115(e).
+(c)
+Matters covered
+The plan shall includeâ
+(1)
+descriptions of how covered agencies will use reductions in floor space, energy use, infrastructure, equipment, applications, personnel, increases in multiorganizational use, and other appropriate methods to meet the requirements of the initiative; and
+(2)
+appropriate consideration of shifting federally owned data centers to commercially owned data centers.
+114.
+Performance requirements related to data center consolidation
+(a)
+Server utilization
+Each covered agency may use the following methods to achieve the maximum server utilization possible as determined by the Federal Chief Information Officer:
+(1)
+The closing of existing data centers that lack adequate server utilization, as determined by the Federal Chief Information Officer. If the agency fails to close such data centers, the agency shall provide a detailed explanation as to why this data center should remain in use as part of the submitted plan. The Federal Chief Information Officer shall include an assessment of the agency explanation in the annual report to Congress.
+(2)
+The consolidation of services within existing data centers to increase server utilization rates.
+(3)
+Any other method that the Federal Chief Information Officer, in consultation with the chief information officers of covered agencies, determines necessary to optimize server utilization.
+(b)
+Power usage effectiveness
+Each covered agency may use the following methods to achieve the maximum energy efficiency possible as determined by the Federal Chief Information Officer:
+(1)
+The use of the measurement of power usage effectiveness to calculate data center energy efficiency.
+(2)
+The use of power meters in data centers to frequently measure power consumption over time.
+(3)
+The establishment of power usage effectiveness goals for each data center.
+(4)
+The adoption of best practices for managingâ
+(A)
+temperature and airflow in data centers; and
+(B)
+power supply efficiency.
+(5)
+The implementation of any other method that the Federal Chief Information Officer, in consultation with the Chief Information Officers of covered agencies, determines necessary to optimize data center energy efficiency.
+115.
+Cost savings related to data center optimization
+(a)
+Requirement To track costs
+(1)
+In general
+Each covered agency shall track costs resulting from implementation of the Federal Data Center Optimization Initiative within the agency and submit a report on those costs annually to the Federal Chief Information Officer. Covered agencies shall determine the net costs from data consolidation on an annual basis.
+(2)
+Factors
+In calculating net costs each year under paragraph (1), a covered agency shall use the following factors:
+(A)
+Energy costs.
+(B)
+Personnel costs.
+(C)
+Real estate costs.
+(D)
+Capital expense costs.
+(E)
+Operating system, database, and other software license expense costs.
+(F)
+Other appropriate costs, as determined by the agency in consultation with the Federal Chief Information Officer.
+(b)
+Requirement To track savings
+(1)
+In general
+Each covered agency shall track savings resulting from implementation of the Federal Data Center Optimization Initiative within the agency and submit a report on those savings annually to the Federal Chief Information Officer. Covered agencies shall determine the net savings from data consolidation on an annual basis.
+(2)
+Factors
+In calculating net savings each year under paragraph (1), a covered agency shall use the following factors:
+(A)
+Energy savings.
+(B)
+Personnel savings.
+(C)
+Real estate savings.
+(D)
+Capital expense savings.
+(E)
+Operating system, database, and other software license expense savings.
+(F)
+Other appropriate savings, as determined by the agency in consultation with the Federal Chief Information Officer.
+(c)
+Requirement To use cost-Effective measures
+Covered agencies shall use the most cost-effective measures to implement the Federal Data Center Optimization Initiative.
+(d)
+Use of savings
+Any savings resulting from implementation of the Federal Data Center Optimization Initiative within a covered agency shall be used for the following purposes:
+(1)
+To offset the costs of implementing the Initiative within the agency.
+(2)
+To further enhance information technology capabilities and services within the agency.
+(e)
+Government accountability office review
+Not later than 3 months after the date of the enactment of this Act, the Comptroller General of the United States shall examine methods for calculating savings from the Initiative and using them for the purposes identified in subsection (d), including establishment and use of a special revolving fund that supports data centers and server optimization, and shall submit to the Federal Chief Information Officer and Congress a report on the Comptroller Generalâs findings and recommendations.
+116.
+Reporting requirements to Congress and the Federal Chief Information Officer
+(a)
+Agency Requirement To report to CIO
+Each year, each covered agency shall submit to the Federal Chief Information Officer a report on the implementation of the Federal Data Center Optimization Initiative, including savings resulting from such implementation. The report shall include an update of the agencyâs plan for implementing the Initiative.
+(b)
+Federal Chief Information Officer requirement To report to Congress
+Each year, the Federal Chief Information Officer shall submit to the relevant congressional committees a report that assesses agency progress in carrying out the Federal Data Center Optimization Initiative and updates the plan under section 113. The report may be included as part of the annual report required under section 3606 of title 44, United States Code.
+117.
+Reduction and consolidation of data centers
+(a)
+OMB recommendation
+Not later than 6 months after the date of the enactment of this Act, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services and the heads of other executive agencies, shall issue recommendations for reducing or consolidating the number of Federal data centers in existence as of the date of the enactment of this Actâ
+(1)
+by at least 40 percent not later than September 30, 2018; and
+(2)
+by at least 80 percent not later than September 30, 2023.
+(b)
+Reduction of data centers
+Not later than 6 months after the issuance of recommendations by the Director of the Office of Management and Budget under subsection (a), the head of each executive agency shall implement the recommendations by reducing the number of Federal data centers in accordance with such recommendations.
+II
+Other Matters
+201.
+Report on implementation of certain Medicare and Medicaid fraud detection and program integrity provisions
+Section 1128J(a)(1)(A) of the Social Security Act (42 U.S.C. 1320aâ7k(a)(1)(A)) is amended by adding at the end the following new clause:
+(iii)
+Report on integrated data repository and one program integrity system
+Not later than six months after the date of enactment of this clause, the Secretary shall submit to the appropriate congressional committees a report on the following:
+(I)
+Integrated Data Repository
+Efforts to finalize plans and schedules for fully implementing and expanding the use of the Integrated Data Repository, including actions taken to finalize, implement, and manage plans for incorporating data into the Integrated Data Repository and actions taken to define measurable financial benefits expected from the implementation of the Integrated Data Repository.
+(II)
+One Program Integrity System
+Actions taken to plan, schedule, and conduct training on the One Program Integrity System, a Web-based portal and suite of software tools used to analyze and extract data from the Integrated Data Repository, and actions taken to define measurable financial benefits expected from the use of the One Program Integrity System.
+.
+202.
+Revocation or denial of passport and passport card in case of certain tax delinquencies
+(a)
+In general
+Subchapter D of
+chapter 75
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
+7345.
+Revocation or denial of passport and passport card in case of certain tax delinquencies
+(a)
+In general
+If the Secretary receives certification by the Commissioner of Internal Revenue that any individual has a seriously delinquent tax debt in an amount in excess of $50,000, the Secretary shall transmit such certification to the Secretary of State for action with respect to denial, revocation, or limitation of a passport or passport card pursuant to section 4 of the Act entitled
+An Act to regulate the issue and validity of passports, and for other purposes
+, approved July 3, 1926 (
+22 U.S.C. 211a et seq.
+), commonly known as the
+Passport Act of 1926
+.
+(b)
+Seriously delinquent tax debt
+For purposes of this section, the term
+seriously delinquent tax debt
+means an outstanding debt under this title for which a notice of lien has been filed in public records pursuant to section 6323 or a notice of levy has been filed pursuant to section 6331, except that such term does not includeâ
+(1)
+a debt that is being paid in a timely manner pursuant to an agreement under section 6159 or 7122, and
+(2)
+a debt with respect to which collection is suspended because a collection due process hearing under section 6330, or relief under subsection (b), (c), or (f) of section 6015, is requested or pending.
+(c)
+Adjustment for inflation
+In the case of a calendar year beginning after 2015, the dollar amount in subsection (a) shall be increased by an amount equal toâ
+(1)
+such dollar amount, multiplied byâ
+(2)
+the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting
+calendar year 2014
+for
+calendar year 1992
+in subparagraph (B) thereof. If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the next highest multiple of $1,000.
+.
+(b)
+Clerical amendment
+The table of sections for subchapter D of
+chapter 75
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:
+Sec. 7345. Revocation or denial of passport and passport card in case of certain tax delinquencies.
+.
+(c)
+Authority for information sharing
+(1)
+In general
+Subsection (l) of
+section 6103
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+(23)
+Disclosure of return information to department of state for purposes of passport and passport card revocation under section 7345
+(A)
+In general
+The Secretary shall, upon receiving a certification described in section 7345, disclose to the Secretary of State return information with respect to a taxpayer who has a seriously delinquent tax debt described in such section. Such return information shall be limited toâ
+(i)
+the taxpayer identity information with respect to such taxpayer, and
+(ii)
+the amount of such seriously delinquent tax debt.
+(B)
+Restriction on disclosure
+Return information disclosed under subparagraph (A) may be used by officers and employees of the Department of State for the purposes of, and to the extent necessary in, carrying out the requirements of section 4 of the Act entitled
+An Act to regulate the issue and validity of passports, and for other purposes
+, approved July 3, 1926 (
+22 U.S.C. 211a et seq.
+), commonly known as the
+Passport Act of 1926
+.
+.
+(2)
+Conforming amendment
+Paragraph (4) of section 6103(p) of such Code is amended by striking
+or (22)
+each place it appears in subparagraph (F)(ii) and in the matter preceding subparagraph (A) and inserting
+(22), or (23)
+.
+(d)
+Revocation authorization
+The Act entitled
+An Act to regulate the issue and validity of passports, and for other purposes.
+, approved July 3, 1926 (
+22 U.S.C. 211a et seq.
+), commonly known as the
+Passport Act of 1926
+, is amended by adding at the end the following:
+4.
+Authority to deny or revoke passport and passport card
+(a)
+Ineligibility
+(1)
+Issuance
+Except as provided under subsection (b), upon receiving a certification described in
+section 7345
+of the Internal Revenue Code of 1986 from the Secretary of the Treasury, the Secretary of State may not issue a passport or passport card to any individual who has a seriously delinquent tax debt described in such section.
+(2)
+Revocation
+The Secretary of State shall revoke a passport or passport card previously issued to any individual described in paragraph (1).
+(b)
+Exceptions
+(1)
+Emergency and humanitarian situations
+Notwithstanding subsection (a), the Secretary of State may issue a passport or passport card, in emergency circumstances or for humanitarian reasons, to an individual described in paragraph (1) of such subsection.
+(2)
+Limitation for return to united states
+Notwithstanding subsection (a)(2), the Secretary of State, before revocation, mayâ
+(A)
+limit a previously issued passport or passport card only for return travel to the United States; or
+(B)
+issue a limited passport or passport card that only permits return travel to the United States.
+.
+(e)
+Effective date
+The amendments made by this section shall take effect on January 1, 2015.
+203.
+Prohibition on non-cost-effective minting and printing of coins and currency
+(a)
+Prohibition with respect to coins
+Section 5111 of title 31, United States Code, is amended by adding at the end the following:
+(e)
+Prohibition on certain minting
+Notwithstanding any other provision of this subchapter, after the end of the 4-year period following the date of the enactment of this subsection, the Secretary may not mint or issue any circulating coin that costs more to produce than the denomination of the coin (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
+.
+(b)
+Prohibition with respect to currency
+Section 5114(a) of title 31, United States Code, is amended by adding at the end the following:
+(4)
+Prohibition on certain printing
+Notwithstanding any other provision of this subchapter, after the end of the 4-year period following the date of the enactment of this paragraph, the Secretary may not engrave or print any United States currency that costs more to produce than the denomination of the currency (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
+.
+204.
+Restrictions on printing and distribution of paper copies of Congressional documents
+(a)
+Printing and Distribution of Documents by Public Printer
+(1)
+Restrictions
+Chapter 7
+of title 44, United States Code, is amended by adding at the end the following new section:
+742.
+Restrictions on printing and distribution of paper copies
+(a)
+Mandatory Use of Electronic Format for Distribution of Congressional Documents
+Notwithstanding any other provision of this chapter, the Public Printer shall make any document of the House of Representatives or Senate which is subject to any of the provisions of this chapter available only in an electronic format which is accessible through the Internet, and may not print or distribute a printed copy of the document except as provided in subsection (b).
+(b)
+Permitting Printing and Distribution of Printed Copies Upon Request
+Notwithstanding subsection (a), at the request of any person to whom the Public Printer would have been required to provide a printed copy of a document under this chapter had subsection (a) not been in effect, the Public Printer may print and distribute a copy of a document or report for the use of that person, except thatâ
+(1)
+the number of printed copies the Public Printer may provide to the person may not exceed the number of printed copies the Public Printer would have provided to the person had subsection (a) not been in effect; and
+(2)
+the Public Printer may print and distribute copies to the person only upon payment by the person of the costs of printing and distributing the copies, except that this paragraph shall not apply to an office of the House of Representatives or Senate (including the office of a Member of Congress).
+.
+(2)
+Clerical amendment
+The table of sections of chapter 7 of such title is amended by adding at the end following new item:
+742. Restrictions on printing and distribution of paper copies.
+.
+(b)
+Provision of Documents in Electronic Format Deemed To Meet Requirements of House and Senate Rules Regarding Distribution of Printed Copies
+(1)
+In general
+If any rule or regulation of the House of Representatives or Senate requires a Member or committee to provide printed copies of any document (including any bill or resolution) for the use of the House or Senate or for the use of any office of the House or Senate, the Member or committee shall be considered to have met the requirement of the rule or regulation if the Member or committee makes the document available to the recipient in an electronic format.
+(2)
+Exercise of rulemaking authority of Senate and House
+This subsection is enacted by Congressâ
+(A)
+as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+(B)
+with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+(c)
+Effective Date
+This section and the amendments made by this section shall apply with respect to documents produced on or after January 1, 2015.
+205.
+Replacing the $1 note with the $1 coin
+(a)
+Duties of the Board of Governors of the Federal Reserve System
+(1)
+Coin sequestration
+(A)
+In general
+Within six months of the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall sequester all $1 coins bearing the design common to those $1 coins minted and issued from 1979â1981 and again in 1999.
+(B)
+Treatment of coins
+Coins sequestered pursuant to subparagraph (A) shall not be returned to ordinary circulation or otherwise released from storage controlled by the Federal Reserve System or an agent of the Federal Reserve System.
+(C)
+Exception for certain uses
+Notwithstanding subparagraph (B), coins sequestered pursuant to subparagraph (A) may be released, at face value and in bulk quantitiesâ
+(i)
+to dealers in collectible coins; and
+(ii)
+to countries that have adopted the United States dollar as their base unit of exchange.
+(D)
+Obsolete coins
+At the end of the 1-year period beginning on the date of the enactment of this Act, the Secretary of the Treasury shall declare all coins described under subparagraph (A) to be obsolete, and such coinsâ
+(i)
+shall be treated in the same manner as all other obsolete United States coins; and
+(ii)
+to the extent such coins remain in general circulation, shall remain legal tender.
+(2)
+Quarterly report on $1 coins
+The Board of Governors of the Federal Reserve System shall issue quarterly reports to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate onâ
+(A)
+the number of coins sequestered pursuant to paragraph (1)(A);
+(B)
+the number of coins described in paragraph (1)(A) that remain in general circulation; and
+(C)
+efforts that have been made to reduce the number of coins described in subparagraphs (A) and (B) to zero.
+(3)
+Improvement of circulation
+The Board of Governors of the Federal Reserve System shallâ
+(A)
+undertake efforts to improve the circulation and remove barriers to the circulation of the $1 coin, other than those coins described under paragraph (1)(A);
+(B)
+issue a quarterly report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate onâ
+(i)
+what efforts have been made to improve the circulation of $1 coins and what efforts are being planned to improve the circulation of $1 coins;
+(ii)
+the success of such efforts, including an analysis of such coins held in storage owned or controlled by the Federal Reserve System and the number of such coins in circulation;
+(iii)
+barriers to the circulation of such coins, including the availability of such coins in quantities unmixed with the $1 coins described in paragraph (1)(A); and
+(iv)
+the extent to which the Federal Reserve System and any agents of the Federal Reserve System are unable to meet end-user requests for delivery of unmixed quantities of such coins in whatever form such end user requires, including rolls, disposable tubes, or volume bags of such coins.
+(4)
+Outreach and education
+The Board of Governors of the Federal Reserve System shall continuously conduct outreach and education programs aimed at helping each business using or accepting cash to choose the best mix of $1 coins and banknotes to facilitate transactions and reduce costs of transactions and of
+cashing out
+at the end of a transaction period.
+(5)
+Use of $1 coins by foreign countries
+The Board of Governors of the Federal Reserve System shall work with the Departments of State and the Treasury to ensure that countries that have adopted the dollar as a base unit of exchange and which place orders with the Federal Reserve System, or through any United States financial institution, for supplies of $1 monetary units, are fully briefed before placing each such order on the durability and longevity of $1 coins in high-circulation economies when used for transactions of a low dollar value.
+(b)
+Publicity requirement
+Section 5112(p)(2) of title 31, United States Code, is amended by inserting after
+Mint
+the following:
+and the Board of Governors of the Federal Reserve System
+.
+(c)
+Report on implementation
+Not later than the end of the 1-year period beginning on the date of the enactment of this Act, and annually thereafter, the Comptroller General of the United States and the Inspector General of the Federal Reserve System and the Bureau of Consumer Financial Protection shall each issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on steps being taken by the Board of Governors of the Federal Reserve System to carry out this Act.
+(d)
+Clarification with respect to seigniorage
+The ninth proviso of section 5136 of title 31, United States Code, is amended, by inserting after
+miscellaneous receipts
+the following:
+and such amount shall be included as an estimated receipt of the Government and a receipt of the Government under paragraphs (6) and (7), respectively, of section 1105(a) in any budget submitted under such section
+.
+(e)
+Policy statement
+It is the policy of the United States that after $1 coins achieve sufficient market penetration such that consumers and retailers are comfortable using $1 coins and are able to obtain adequate supplies of $1 coins, $1 coins should replace $1 Federal Reserve notes as the only $1 monetary unit issued and circulated by the Federal Reserve System.
+(f)
+Deadline for placing $1 Federal Reserve notes into circulation
+Federal Reserve banks may continue to place into circulation $1 Federal Reserve notes until the earlier ofâ
+(1)
+the date on which the number of $1 coins placed into circulation after the date of the enactment of this Act exceeds 600,000,000 annually; or
+(2)
+the date that is 4 years after the date of the enactment of this Act.
+(g)
+Transition period
+After the date referred to in subsection (f), a Federal Reserve bank may not order additional $1 Federal Reserve notes but may, for a period of one year, continue to place into circulation $1 Federal Reserve notes on hand or those deposited with it, except for notes described in subsection (h).
+(h)
+Removal of unfit currency
+After the date referred to in subparagraph (f), a Federal Reserve bank shall continue to remove unfit currency from circulation, and shall continue to destroy such currency.
+(i)
+Exception
+Notwithstanding subsections (f) and (g), the Board of Governors of the Federal Reserve System shall produce such Federal Reserve notes of $1 denomination as the Board determines from time to time are appropriate solely to meet the needs of collectors of that denomination. Such notes shall be issued by one or more Federal Reserve banks in accordance with section 16 of the Federal Reserve Act and sold by the Board, in whole or in part, under procedures prescribed by the Board.
+(j)
+No effect on legal tender
+Notwithstanding any other subsection of this section, $1 Federal Reserve notes are legal tender in the United States for all debts, public and private, public charges, taxes, and duties, regardless of the date of printing or issue.
+206.
+Enhancing the Internal Revenue Serviceâs online services
+No later than six months after the date of the enactment of the Act, the Commissioner of Internal Revenue shall, pursuant to the recommendations of the Government Accountability Office in its report GAOâ14â343SP (April, 2014):
+(1)
+Develop a long-term strategy to improve web services provided to taxpayers, in accordance with www.Howto.gov and other Federal guidance outlined in the April 2013 report of the Government Accountability Office GAOâ13â279SP.
+(2)
+Study leading practices of other organizations to understand how web improvement strategies were developed and new services prioritized.
+(3)
+Develop business cases for all new online services, describing the potential benefits and costs of the project, and use them to prioritize future projects.
+(4)
+Review risk mitigation plans for interactive tools to ensure all risks are addressed and link investments in security to the long-term plan.
+207.
+Improving foreclosure loss mitigation efforts for mortgages made, insured, or guaranteed by Federal agencies
+(a)
+Periodic analysis of loss mitigation actions
+Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act and annually thereafter, the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Secretary of Veterans Affairs shall each analyze the effectiveness and long-term costs and benefits of the programs, actions, and strategies of the applicable agency for avoidance or mitigation of foreclosure losses with respect to covered loans and mortgages of the applicable agency, which shall include analyses ofâ
+(1)
+the re-default rates associated with various types of loss mitigation actions; and
+(2)
+the impacts that loan and borrower characteristics have on the performance of different loss mitigation actions.
+(b)
+Re-Evaluation
+Upon completion of each periodic analysis conducted pursuant to subsection (a) with respect to covered loans and mortgages of an applicable agency, the head of the applicable agency shall use the results of the analysis toâ
+(1)
+re-evaluate the programs, actions, and strategies of the agency for avoidance or mitigation of foreclosure losses with respect to covered loans and mortgages; and
+(2)
+provide additional guidance to servicers of covered loans and mortgages to more effectively target and implement loss mitigation efforts.
+(c)
+Collection of information
+Each of the agency heads referred to in subsection (a) shallâ
+(1)
+collect such information regarding covered loans and mortgages of the applicable agency as may be necessary to conduct the analysis required under such subsection, including loan level data and information regarding loan performance; or
+(2)
+require servicers of such loans and mortgages to provide any such information not maintained or collected by the applicable agency.
+(d)
+Consultation and coordination
+Each of the agency heads referred to in subsection (a) shall consult and coordinate with each other in conducting the analyses and re-evaluations required under subsection (a) and (b) to ensure the sharing of information and promote effective loss mitigation efforts.
+(e)
+Definitions
+For purposes of this section, the following definitions shall apply:
+(1)
+Applicable agency
+The term
+applicable agency
+meansâ
+(A)
+with respect to the Secretary of Housing and Urban Development, the Department of Housing and Urban Development;
+(B)
+with respect to the Secretary of Agriculture, the Department of Agriculture; and
+(C)
+with respect to the Secretary of Veterans Affairs, the Department of Veterans Affairs.
+(2)
+Covered loans and mortgages
+The term
+covered loans and mortgages
+means, with respect to an applicable agency, loans for and mortgages on 1- to 4-family homes made, insured, or guaranteed by such applicable agency.

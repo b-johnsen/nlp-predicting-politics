@@ -1,0 +1,529 @@
+1.
+Short title
+This Act may be cited as the
+Satellite And Telecommunications Streamlining Act
+or the
+SAT Streamlining Act
+.
+2.
+Authority regarding certain licenses
+(a)
+Amendment
+Part I of title III of the Communications Act of 1934 (
+47 U.S.C. 301 et seq.
+) is amended by adding at the end the following:
+346.
+Radiofrequency licensing authority relating to certain operations
+(a)
+Definitions
+In this section:
+(1)
+Covered application
+The term
+covered application
+means an application for a license or grant of market access to operate a system described in subsection (c)(1)(B) or (d)(1)(B) that is pending on the date of enactment of this section.
+(2)
+Covered authorization
+The term
+covered authorization
+meansâ
+(A)
+a license or grant of market access granted by the Commission to operate a system described in subsection (c)(1)(B) or (d)(1)(B) that is in effect on the date of enactment of this section; or
+(B)
+a license or grant of market access granted by Commission approval of a covered application.
+(3)
+Covered radiocommunication service
+The term
+covered radiocommunication service
+â
+(A)
+means a radiocommunication service (as defined in the radio regulations of the International Telecommunication Union that are in force as of the date of enactment of this section, or any successor regulations); and
+(B)
+does not include any radionavigation or safety service specifically identified by the Commission as a safety service for aeronautical or maritime transportation.
+(4)
+Gateway station
+The term
+gateway station
+means an earth station or a group of earth stations thatâ
+(A)
+supports the routing and switching functions of a system operated under a license granted under subsection (c) or a grant of market access granted under subsection (d);
+(B)
+may also be used for telemetry, tracking, and command transmissions;
+(C)
+does not originate or terminate communication traffic; and
+(D)
+is not for the exclusive use of any customer.
+(5)
+Individually licensed earth station
+The term
+individually licensed earth station
+meansâ
+(A)
+an earth station, other than a blanket-licensed earth station, that sends a signal to, and receives a signal fromâ
+(i)
+a nongeostationary orbit space station operated under a license granted under subsection (c)(1) or a grant of market access granted under subsection (d)(1); or
+(ii)
+a geostationary orbit space station operated under a license granted under subsection (c)(2) or a grant of market access granted under subsection (d)(2); or
+(B)
+a gateway station.
+(6)
+National defense or security of the United States
+The term
+national defense or security of the United States
+â
+(A)
+means the protection of the United States from foreign aggression; and
+(B)
+does not otherwise include the protection of the general welfare of the United States.
+(b)
+Rules
+Not later than 12 months after the date of enactment of this section, the Commission shall issue rules to amend part 25 of title 47, Code of Federal Regulations, to establishâ
+(1)
+for any license granted under subsection (c), specific modifications, or classes of modifications, to the license that warrant expedited treatment under subparagraph (A) or (B), as applicable, of subsection (g)(2);
+(2)
+for any license granted under subsection (c), grant of market access granted under subsection (d), authorization granted under subsection (e), or covered authorization, the manner in which the licensee, grantee, or entity shall notify the Commission of a request to submit a modification under subsection (g)(3);
+(3)
+rules that seek to promote competition, innovation, and efficient use of spectrum by entities with covered authorizations, including by accounting for advancements in technology capable of managing interference concerns to the greatest extent practicable; and
+(4)
+for any application or request for modification described in subsection (n), what constitutes reportable foreign ownership for purposes of paragraph (1) of that subsection.
+(c)
+Application for license
+(1)
+NGSO determination required
+(A)
+In general
+(i)
+Applications
+Except as provided in clause (ii), paragraph (5), and subsection (m), not later than 1 year after the date on which the Commission issues a public notice of the acceptance for filing of a written application submitted to the Commission for a license described in subparagraph (B) of this paragraph, the Commission shall determine whether to grant the application, including any amendment to the application.
+(ii)
+Major Amendments
+Except as provided in paragraph (5) and subsection (m), if a major amendment (within the meaning of section 25.116 of title 47, Code of Federal Regulations, or any successor regulation) to an application described in clause (i) is submitted to the Commission, the Commission shall determine whether to grant the application, including the major amendment and any other amendment to the application, not later than 1 year after the date on which the Commission issues a public notice of the acceptance for filing of the major amendment.
+.
+(B)
+Types of applications
+An application described in this subparagraph is an application for a license for covered radiocommunication services usingâ
+(i)
+a nongeostationary orbit space station;
+(ii)
+a blanket-licensed earth station or earth stations that will operate with a nongeostationary orbit space station; or
+(iii)
+a nongeostationary orbit space station and a blanket-licensed earth station or earth stations that will operate with the nongeostationary orbit space station.
+(2)
+GSO determination required
+(A)
+In general
+(i)
+Applications
+Except as provided in clause (ii), paragraph (5), and subsection (m), not later than 1 year after the date on which the Commission issues a public notice of the acceptance for filing of a written application submitted to the Commission for a license described in subparagraph (B) of this paragraph, the Commission shall determine whether to grant the application, including any amendment to the application.
+(ii)
+Major Amendments
+Except as provided in paragraph (5) and subsection (m), if a major amendment (within the meaning of section 25.116 of title 47, Code of Federal Regulations, or any successor regulation) to an application described in clause (i) is submitted to the Commission, the Commission shall determine whether to grant the application, including the major amendment and any other amendment to the application, not later than 1 year after the date on which the Commission issues a public notice of the acceptance for filing of the major amendment.
+(B)
+Types of applications
+An application described in this subparagraph is an application for a license for covered radiocommunication services usingâ
+(i)
+a geostationary orbit space station;
+(ii)
+a blanket-licensed earth station or earth stations that will operate with a geostationary orbit space station; or
+(iii)
+a geostationary orbit space station and a blanket-licensed earth station or earth stations that will operate with the geostationary orbit space station.
+(3)
+Contents of application
+In addition to the application requirements described in section 308(b), an application submitted under paragraph (1) or (2) shall include performance metrics with respect to the frequencies and transmission power to be used.
+(4)
+Term of initial license
+The Commission shall grant a license for a term not to exceed 15 years for any application granted under this subsection.
+(5)
+Exceptions
+The deadline for the determination required in paragraphs (1) and (2) may be extended by the Commission for an application subject to review under subsection (m).
+(d)
+Application for grant of market access
+(1)
+NGSO determination required
+(A)
+In general
+(i)
+Applications
+Except as provided in clause (ii) and subsection (m), after the date on which the Commission issues a public notice of the acceptance for filing of a written application submitted to the Commission for market access described in subparagraph (B) of this paragraph, the Commission shall determine whether to grant the application, including any amendment to the application.
+(ii)
+Major Amendments
+If a major amendment (within the meaning of section 25.116 of title 47, Code of Federal Regulations, or any successor regulation) to an application described in clause (i) is submitted to the Commission, the Commission shall determine whether to grant the application, including the major amendment and any other amendment to the application, not later than 1 year after the date on which the Commission issues a public notice of the acceptance for filing of the major amendment.
+(B)
+Types of applications
+An application described in this subparagraph is an application for market access within the United States for covered radiocommunication services usingâ
+(i)
+a nongeostationary orbit space station;
+(ii)
+a blanket-licensed earth station or earth stations that will operate with a nongeostationary orbit space station; or
+(iii)
+a nongeostationary orbit space station and a blanket-licensed earth station or earth stations that will operate with the nongeostationary orbit space station.
+(2)
+GSO determination required
+(A)
+In general
+(i)
+Applications
+Except as provided in clause (ii) and subsection (m), after the date on which the Commission issues a public notice of the acceptance for filing of a written application submitted to the Commission for market access described in subparagraph (B), the Commission shall determine whether to grant the application, including any amendment to the application.
+(ii)
+Major Amendments
+If a major amendment (within the meaning of section 25.116 of title 47, Code of Federal Regulations, or any successor regulation) to an application described in clause (i) is submitted to the Commission, the Commission shall determine whether to grant the application, including the major amendment and any other amendment to the application, not later than 1 year after the date on which the Commission issues a public notice of the acceptance for filing of the major amendment.
+(B)
+Type of application
+An application described in this subparagraph is an application for market access within the United States for covered radiocommunication services using a geostationary orbit space station.
+(3)
+Contents of application
+In addition to the application requirements described in section 308(b), an application submitted under paragraph (1) or (2) shall include performance metrics with respect to the frequencies and transmission power to be used.
+(4)
+Term of initial grant of market access
+The Commission shall grant market access for a term not to exceed 15 years for any application granted under this subsection.
+(e)
+Earth station authorization
+(1)
+Determination required for individually licensed earth stations
+(A)
+In general
+(i)
+Applications
+Except as provided in clause (ii), paragraph (4), and subsection (m), not later than 180 days after the date on which the Commission issues a public notice of the acceptance for filing of a written application submitted to the Commission for authorization described in subparagraph (B) of this paragraph, the Commission shall determine whether to grant the application, including any amendment to the application.
+(ii)
+Major Amendments
+If a major amendment (within the meaning of section 25.116 of title 47, Code of Federal Regulations, or any successor regulation) to an application described in clause (i) is submitted to the Commission, the Commission shall determine whether to grant the application, including the major amendment and any other amendment to the application, not later than 1 year after the date on which the Commission issues a public notice of the acceptance for filing of the major amendment.
+(B)
+Type of application
+An application described in this subparagraph is an application for authorization to use an individually licensed earth station.
+(2)
+Determination required for receive-only earth stations
+(A)
+In general
+(i)
+Applications
+Except as provided in clause (ii), paragraph (3), and subsection (m), not later than 30 days after the date on which the Commission issues a public notice of the acceptance for filing of a written application submitted to the Commission for authorization described in subparagraph (B) of this paragraph, the Commission shall determine whether to grant the application, including any amendment to the application.
+(ii)
+Major Amendments
+If a major amendment (within the meaning of section 25.116 of title 47, Code of Federal Regulations, or any successor regulation) to an application described in clause (i) is submitted to the Commission, the Commission shall determine whether to grant the application, including the major amendment and any other amendment to the application, not later than 1 year after the date on which the Commission issues a public notice of the acceptance for filing of the major amendment.
+(B)
+Types of application
+An application described in this subparagraph is an application for authorization to use an earth station or earth stations to receive a signal fromâ
+(i)
+a nongeostationary orbit space station operated under a license granted under subsection (c)(1) or a grant of market access granted under subsection (d)(1); or
+(ii)
+a geostationary orbit space station operated under a license granted under subsection (c)(2) or a grant of market access granted under subsection (d)(2).
+(3)
+Exception
+The deadline for the determination required under paragraph (1) or (2) may be extended by the Commission for an application subject to review under subsection (n).
+(4)
+Inapplicability to blanket-licensed earth stations
+This subsection does not apply with respect to an earth station or earth stations to the extent that the earth station or earth stations will be blanket-licensed with a space station, as described in subsection (c)(1)(B)(ii), (c)(1)(C)(iii), (c)(2)(B)(ii), (c)(2)(C)(iii), (d)(1)(B)(ii), or (d)(1)(C)(iii).
+(f)
+Renewal of license, grant of market access, or authorization
+Except as provided in subsection (m), not later than 180 days after the date on which the Commission receives a request for renewal of a license granted under subsection (c), a grant of market access granted under subsection (d), or an authorization granted under subsection (e) from the licensee, grantee, or entity with such authorization, as applicableâ
+(1)
+if the Commission determines the requirements under section 309(k) have been met, the Commission shall grant the request, including any amendment to the request, and renew the license, grant of market access, or authorization for a term not to exceed the length of the initial term beginning the day after the date on which the preceding term of the license, grant of market access, or authorization expires; or
+(2)
+the Commission shall make the determination described in section 309(k)(3) and deny the request, including any amendment to the request.
+(g)
+Modification of license or grant of market access
+(1)
+Major modifications
+(A)
+NGSO license major modifications
+Except as provided in paragraphs (2), (3), and (4) of this subsection and in subsection (m), and not later than 1 year after the date on which the Commission receives a request to modify a license granted under subsection (c)(1), the Commission shall grant or deny the request (including any amendment to the request).
+(B)
+GSO license and grant of market access major modifications
+Except as provided in paragraphs (2), (3), and (4) of this subsection, the Commission may grant a request (including any amendment to the request) to modify a license granted under subsection (c)(2) or a grant of market access granted under subsection (d).
+(2)
+Expedited treatment for minor modifications
+(A)
+NGSO license modifications
+Except as provided in paragraphs (3) and (4) of this subsection and in subsections (h) and (m), and not later than 90 days after the date on which the Commission receives a request to modify a license granted under subsection (c)(1), the Commission shall grant the request, including any amendment to the request, if the request is limited only to modifications, or a class of modifications, thatâ
+(i)
+increase transmission capacity;
+(ii)
+improve spectral efficiency, such as by improving compression technologies; or
+(iii)
+otherwise do not substantially modify the space station authorized by the license.
+(B)
+GSO license modifications
+Except as provided in paragraphs (3) and (4) of this subsection and in subsections (h) and (m), and not later than 90 days after the date on which the Commission receives a request to modify a license granted under subsection (c)(2), the Commission shall grant the request, including any amendment to the request, if the request is limited only to modifications, or a class of modifications, thatâ
+(i)
+increase transmission capacity;
+(ii)
+improve spectral efficiency, such as by improving compression technologies; or
+(iii)
+otherwise do not substantially modify the space station authorized by the license.
+(C)
+Exclusion
+This paragraph shall not apply to a request to modify a license forâ
+(i)
+the addition of an ancillary terrestrial component; or
+(ii)
+modifying the service offered under the initial license granted under subsection (c) between fixed satellite service and mobile satellite service.
+(3)
+Expedited treatment for certain modifications
+(A)
+In general
+Not later than 30 days after the Commission receives a request to modify a license granted under subsection (c), a grant of market access granted under subsection (d), an authorization granted under subsection (e), or a covered authorization, in order to conduct a replacement described in subparagraph (B), the Commission shall grant or deny the request.
+(B)
+Replacement
+A replacement described in this subparagraph is a replacement ofâ
+(i)
+1 space station, or component of a space station, with a technically similar space station, or component of a space station, previously approved by the Commission; or
+(ii)
+1 earth station, or component of an earth station, with a technically similar earth station, or component of an earth station, previously approved by the Commission.
+(4)
+Exceptions
+The Commission may extend the deadlines under paragraphs (1) and (2) for a request subject to review under subsection (n).
+(h)
+Emergency grant, renewal, or modification
+If the Commission finds that there are extraordinary circumstances involving a danger to life or property or an action that is necessary for the national defense or security of the United States, the Commissionâ
+(1)
+may grant, for a period not to exceed 180 days in a manner and upon the terms the Commission shall by rule prescribeâ
+(A)
+a license described in subsection (c), a grant of market access described in subsection (d), or an authorization described in subsection (e);
+(B)
+a renewal of a license, grant of market access, or authorization described in subparagraph (A); or
+(C)
+a modification of a license, grant of market access, or authorization described in subparagraph (A);
+(2)
+shall include with a grant made under this subsection a statement of the reasons of the Commission for making the grant;
+(3)
+may extend a grant made under this subsection for a period not to exceed 180 days; and
+(4)
+shall give expeditious treatment to anyâ
+(A)
+timely filed petition to deny a grant under this subsection; or
+(B)
+timely filed petition for rehearing of a grant made under this subsection that is filed under section 405.
+(i)
+State preemption of market entry; rates
+(1)
+In general
+Notwithstanding any other provision of law, a State or local government may not regulate the rates charged byâ
+(A)
+an applicant or licensee with respect to a license granted under subsection (b);
+(B)
+an applicant or grantee with respect to a grant of market access granted under subsection (c); or
+(C)
+an applicant or entity with respect to an authorization granted under subsection (d).
+(2)
+Exception
+Paragraph (1) shall not prohibit a State or local government from adopting fair and reasonable regulations governing the other terms and conditions of a licensee, grantee, or entity, including regulations to protect aesthetic and safety interests, provided such regulations do not prohibit or have the effect of prohibiting market entry or the provision of service.
+(j)
+Regulatory restraint
+(1)
+Limitation on information required to be provided
+In performing any act, issuing any rule or regulation, or issuing any order necessary to carry out this section, the Commissionâ
+(A)
+shall limit the information required to be furnished to the Commission to that which is strictly necessary; and
+(B)
+with respect to an application filed under subsection (c), (d), or (e), a request for renewal made under subsection (f), or a request for modification made under subsection (g)â
+(i)
+may not require the filing of any information that previously has been furnished to the Commission or that is not directly material to the considerations that affect the granting or denial of such application or request; and
+(ii)
+may require information about new or additional facts that the Commission determines necessary to make its findings.
+(2)
+Deadline for petition determination
+If an applicant for a license or a licensee under subsection (c) files a petition under part 1 of title 47, Code of Federal Regulations, or any successor regulation, relating to information required to be furnished to the Commission under this section, the Commission shall grant or deny the petition not later than 90 days after the date on which the petition is filed.
+(k)
+Relation to experimental and amateur uses
+This section shall not apply to any Commission authorization inâ
+(1)
+the experimental radio service; or
+(2)
+the amateur radio service.
+(l)
+Completeness
+(1)
+In general
+Not later than 30 days after receiving a written application submitted under subsection (c), (d), or (e), the Commission shallâ
+(A)
+determine whetherâ
+(i)
+the application containsâ
+(I)
+in the case of an application submitted under subsection (c), all of the information required to be submitted with the application under subsection (c)(3) and the first sentence of section 308(b);
+(II)
+in the case of an application submitted under subsection (d), all of the information required to be submitted with the application under subsection (d)(3) and the first sentence of section 308(b); or
+(III)
+in the case of an application submitted under subsection (e), all of the information required to be submitted with the application under the first sentence of section 308(b); and
+(ii)
+the applicant has paid the fee, if any, required under section 8 in connection with the application; and
+(B)
+(i)
+if both determinations under subparagraph (A) are in the affirmative, issue a public notice of the acceptance for filing of the application; or
+(ii)
+if either determination under subparagraph (A) is in the negative, provide notice to the applicant of the negative determination, including the information required to be submitted that was not submitted, the amount of the application fee due, or both, as applicable.
+(2)
+Inaction by Commission
+If the Commission does not comply with paragraph (1) with respect to an application by the deadline specified in that paragraph, the Commission shall be deemed for purposes of subsection (c), (d), or (e), as applicable, to have issued a public notice of the acceptance for filing of the application on the date that is 30 days after the date on which the application was received.
+(m)
+Tolling
+(1)
+In general
+Except as provided in subsections (c)(5), (e)(4), and (g)(4), with respect to an application for a license under subsection (c) or an authorization under subsection (e), or a request for renewal under subsection (f) or modification under subsection (g) of a license granted under subsection (c), a grant of market access granted under subsection (d), or an authorization granted under subsection (e), the Commission may extend the deadline under subsection (c), (e), (f), or (g), as applicable, for consideration of the application or request only ifâ
+(A)
+(i)
+the Commission finds that there are extraordinary circumstances involving a danger to life or property or an action that is necessary for the national defense or security of the United States requiring additional time for consideration of the application or request; or
+(ii)
+a lapse in appropriations occurs with respect to the Commission granting such applications; and
+(B)
+the Commission publishes and submits to the
+Committee on Commerce, Science, and Transportation of the Senate
+and the
+Committee on Energy and Commerce of the House of Representatives
+a notice of the finding described in subparagraph (A) that statesâ
+(i)
+the reasons of the Commission for the extension; and
+(ii)
+the length of the period of the extension.
+(2)
+Length
+The Commission may not grant an extension of a deadline under paragraph (1) for a period that exceeds 90 days or, in the case of a lapse in appropriations described in paragraph (1)(A)(ii), the duration of the lapse in appropriations.
+(3)
+Limit on extensions
+The Commission may grant not more than 2 extensions of a deadline under paragraph (1).
+(n)
+Review for national security and law enforcement concerns
+(1)
+Review required for entities with reportable foreign ownership
+In the case of an application under subsection (c), (d), or (e), a request for modification under subsection (g), or a request for modification of a covered authorization, that is submitted by an entity that the Commission determines to have reportable foreign ownership, the Commission shall refer the application or request to the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector established by Executive Order 13913 (85 Fed. Reg. 19643; relating to the establishment of the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector) (in this subsection referred to as the
+Committee
+) for review of national security and law enforcement concerns that may be raised by the application or request.
+(2)
+Review at discretion of Commission
+In addition to the applications and requests that the Commission is required to refer to the Committee under paragraph (1), the Commission may, in the discretion of the Commission, refer any other application under subsection (c), (d), or (e), request for modification under subsection (g), or request for modification of a covered authorization to the Committee for review of national security and law enforcement concerns that may be raised by the application or request.
+(o)
+Spectrum protection plan updates
+(1)
+In general
+Not later than April 20, 2028, and biennially thereafter, the Commission shall review and update the regulations of the Commission that relate to spectrum sharing for non-geostationary orbit and fixed-satellite service.
+(2)
+Exception
+If the Commission determines that no update under paragraph (1) is required, the Commission shall submit to Congress a notice that provides justification for the determination.
+(p)
+Alleviation of delays for certain applications
+(1)
+Addition of certain authorized space stations
+The Commission shall permit non-geostationary orbit operators to add an authorized space station as a point of communication to an authorized ground station on a notification-only basis without filing an application for modification under subsection (g) if the addition of the authorized space station involves no other changes to the authorized parameters of the ground stations.
+(2)
+Extension of Special Temporary Authority
+The Commission may extend a 60-day Special Temporary Authority granted under 47 C.F.R. 25.120(b)(3), the request for which was filed alongside an application for regular nonbroadcast operation, on its own motion and without placing the request for Special Temporary Authority on public notice during the time that the application remains pending.
+(q)
+Deemed granted
+If the Commission fails to grant or deny an application or request, including any amendment to an application or request, submitted under subsection (c)(1), (c)(2), (e)(1), (e)(2), (g)(1), or (g)(2) by the deadline for the determination required by such subsection, the application or request, including an amendment to an application or request, shall be deemed granted on the date on which the Commission receives from the applicant or requestor written notice of the failure to grant or deny the application or request by the applicable deadline.
+.
+(b)
+Relation to other law amendments
+Section 309 of the Communications Act of 1934 (
+47 U.S.C. 309
+) is amendedâ
+(1)
+in subsection (j)(2)â
+(A)
+in subparagraph (B), by striking
+; or
+and inserting a semicolon;
+(B)
+by redesignating subparagraph (C) as subparagraph (D); and
+(C)
+by inserting after subparagraph (B) the following:
+(C)
+for licenses, grants of market access, or authorizations granted under section 346; or
+; and
+(2)
+in subsection (k)â
+(A)
+in the heading, by striking
+Broadcast station renewal procedures
+and inserting
+Renewal procedures for certain authorizations
+;
+(B)
+in paragraph (1)â
+(i)
+in the matter preceding subparagraph (A)â
+(I)
+by inserting
+, the holder of a license granted under section 346(c), the recipient of a grant of market access granted under section 346(d), or an entity with authorization granted under section 346(e),
+after
+broadcast station
+;
+(II)
+by inserting
+, grant, or authorization
+after
+such license
+;
+(III)
+by striking
+that station
+and inserting
+that licensee, recipient, or entity
+; and
+(IV)
+by inserting
+, grant of market access, or authorization
+after
+its license
+;
+(ii)
+in subparagraph (A), by striking
+the station
+and inserting
+in the case of a broadcast station, the station
+;
+(iii)
+in subparagraph (B), by inserting
+, recipient, or entity
+after
+licensee
+; and
+(iv)
+in subparagraph (C), by inserting
+, recipient, or entity
+after
+licensee
+;
+(C)
+in paragraph (2), by inserting
+, or the holder of a license granted under section 346(d), the recipient of a grant of market access granted under section 346(d), or an entity with authorization granted under section 346(e),
+after
+broadcast station
+;
+(D)
+in paragraph (3)â
+(i)
+in the matter preceding subparagraph (A), by inserting
+of a broadcast station, a holder of a license granted under section 346(c), a recipient of a grant of market access granted under section 346(d), or an entity with authorization granted under section 346(e)
+after
+that a licensee
+;
+(ii)
+in subparagraph (A)â
+(I)
+by inserting
+, recipient, or entity
+after
+licensee
+; and
+(II)
+by inserting
+or 346
+after
+section 308
+; and
+(iii)
+in subparagraph (B), by striking
+former licensee
+and inserting
+former licensee of a broadcast station or such applications for a license, grant of market access, or authorization as may be filed under section 346(c), 346(d), or 346(e) specifying the information of the former licensee, recipient, or entity
+; and
+(E)
+in paragraph (4), by inserting
+, grant of market access, or grant of an authorization
+after
+license
+.
+(c)
+Applicability
+The requirements in the amendments made by this section shall apply with respect to any application submitted under subsection (c), (d), or (e) of section 346 of the Communications Act of 1934, as added by subsection (a), and any request for renewal or modification submitted under such section, on or after the date of enactment of this Act.

@@ -1,0 +1,848 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Do Not Track Kids Act of 2018
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Online collection, use, and disclosure of personal information of children and minors.
+Sec. 4. Fair Information Practices Principles.
+Sec. 5. Digital Marketing Bill of Rights for Minors.
+Sec. 6. Targeted marketing to children or minors.
+Sec. 7. Removal of content.
+Sec. 8. Privacy dashboard for connected devices for children and minors.
+Sec. 9. Prohibition on sale of connected devices for children and minors that fail to meet
+appropriate cybersecurity and data security standards.
+Sec. 10. Rule for treatment of users of websites, services, and applications directed to children
+or minors.
+Sec. 11. Enforcement and applicability.
+Sec. 12. Effective dates.
+2.
+Definitions
+(a)
+In
+general
+In this Act:
+(1)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(2)
+Standards
+The term
+standards
+means benchmarks, guidelines, best practices, methodologies, procedures, and processes.
+(b)
+Other definitions
+The definitions set forth in section 1302 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6501
+), as amended by section 3(a) of this Act, shall apply in this Act, except to the extent the Commission provides otherwise by regulations issued under section 553 of title 5, United States Code.
+3.
+Online collection, use, and disclosure of personal information of children and minors
+(a)
+Definitions
+Section 1302 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6501
+) is amendedâ
+(1)
+by amending paragraph (2) to read as follows:
+(2)
+Operator
+The term
+operator
+â
+(A)
+means any personâ
+(i)
+who, for commercial purposes, in interstate or foreign commerceâ
+(I)
+operates or provides a website on the Internet, an online service, an online application, or a mobile application; or
+(II)
+manufactures a connected device; and
+(ii)
+whoâ
+(I)
+collects or maintains, either directly or through a service provider, personal information from or about the users of that website, service, application, or connected device;
+(II)
+allows another person to collect personal information directly from users of that website, service, application, or connected device (in which case, the operator is deemed to have collected the information); or
+(III)
+allows users of that website, service, application, or connected device to publicly disclose personal information (in which case, the operator is deemed to have collected the information); and
+(B)
+does not include any nonprofit entity that would otherwise be exempt from coverage under section 5 of the Federal Trade Commission Act (
+15 U.S.C. 45
+).
+;
+(2)
+in paragraph (4)â
+(A)
+by amending subparagraph (A) to read as follows:
+(A)
+the release of personal information collected from a child or minor for any purpose, except where the personal information is provided to a person other than an operator whoâ
+(i)
+provides support for the internal operations of the website, online service, online application, or mobile application of the operator, excluding any activity relating to targeted marketing directed to children, minors, or connected devices; and
+(ii)
+does not disclose or use that personal information for any other purpose; and
+; and
+(B)
+in subparagraph (B)â
+(i)
+by inserting
+or minor
+after
+child
+each place the term appears;
+(ii)
+by inserting
+or minors
+after
+children
+; and
+(iii)
+by striking
+website or online service
+and inserting
+website, online service, online application, or mobile application
+;
+(3)
+in paragraph (8)â
+(A)
+by amending subparagraph (G) to read as follows:
+(G)
+information concerning a child or minor or the parents of that child or minor (including any unique or substantially unique identifier, such as a customer number) that an operator collects online from the child or minor and combines with an identifier described in subparagraphs (A) through (G).
+;
+(B)
+by redesignating subparagraphs (F) and (G) as subparagraphs (H) and (I), respectively; and
+(C)
+by inserting after subparagraph (E) the following:
+(F)
+information (including an Internet protocol address) that permits the identification ofâ
+(i)
+an individual;
+(ii)
+a computer of an individual; or
+(iii)
+any other device used by an individual to access the Internet or an online service, online application, or mobile application;
+(G)
+geolocation information;
+;
+(4)
+by amending paragraph (9) to read as follows:
+(9)
+Verifiable consent
+The term
+verifiable consent
+means any reasonable effort (taking into consideration available technology), including a request for authorization for future collection, use, and disclosure described in the notice, to ensure that, in the case of a child, a parent of the child, or, in the case of a minor, the minorâ
+(A)
+receives notice of the personal information collection, use, and disclosure practices of the operator; and
+(B)
+before the personal information of the child or minor is collected, authorizesâ
+(i)
+the collection, use, and disclosure, as applicable, of that personal information; and
+(ii)
+any subsequent use of that personal information.
+;
+(5)
+by striking paragraph (10) and redesignating paragraphs (11) and (12) as paragraphs (10) and (11), respectively; and
+(6)
+by adding at the end the following:
+(12)
+Connected device
+The term
+connected device
+means a device that isâ
+(A)
+capable of connecting to the Internet, directly or indirectly, or to another connected device; and
+(B)
+directed towards a child or minor.
+(13)
+Online; online application; online service; directed to a child; directed to a minor; mobile
+application
+(A)
+In general
+Subject to subparagraphs (C) and (D), the terms
+online
+,
+online application
+,
+online service
+,
+directed to a child
+,
+directed to a minor
+, and
+mobile application
+shall have the meanings given those terms by regulation promulgated by the Commission under subparagraph (B).
+(B)
+Promulgation of regulations
+Not later than 1 year after the date of the enactment of the Do Not Track Kids Act of 2018, the Commission shall promulgate, under section 553 of title 5, United States Code, regulations that define the terms described in subparagraph (A) broadly enough to ensure that the terms are not limited to current technology, consistent withâ
+(i)
+the principles articulated by the Commission regarding the definition of the term
+Internet
+in the statement of basis and purpose on the final rule under this title promulgated on November 3, 1999 (64 Fed. Reg. 59891); and
+(ii)
+the principles articulated by the Commission regarding the definition of the term
+directed to children
+in the statement of basis and purpose on the final rule under this title promulgated on January 17, 2013 (78 Fed. Reg. 3972).
+(C)
+Online service
+The definition of the term
+online service
+in the regulations promulgated under subparagraph (B) shall include broadband Internet access service (as defined in the Report and Order on Remand, Declaratory Ruling, and Order in the matter of protecting and promoting the open Internet, adopted by the Federal Communications Commission on February 26, 2015 (FCC 15â24)).
+(D)
+Online application; online service; mobile application
+The terms
+online service
+,
+online application
+, and
+mobile application
+include a service or application offered via a connected device.
+(14)
+Geolocation information
+The term
+geolocation information
+means information sufficient to identify a street name and name of a city or town.
+(15)
+Minor
+The term
+minor
+means an individual over the age of 12 and under the age of 16.
+(16)
+Targeted marketing
+The term
+targeted marketing
+means advertising or any other effort to market a product or service that is directed to a specific individual or deviceâ
+(A)
+based on the personal information of the individual or a unique identifier of the device; and
+(B)
+as a result of use by the individual, or access by the device, ofâ
+(i)
+a website;
+(ii)
+an online service;
+(iii)
+an online application; or
+(iv)
+a mobile application.
+.
+(b)
+Online collection, use, and disclosure of personal information of children and minors
+Section 1303 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6502
+) is amendedâ
+(1)
+by striking the heading and inserting the following:
+Online collection, use, and disclosure of personal information of children and minors.
+;
+(2)
+in subsection (a)â
+(A)
+by amending paragraph (1) to read as follows:
+(1)
+In general
+It is unlawful for an operator of a website, online service, online application, or mobile application directed to a child or minor, or an operator having actual knowledge that personal information being collected is from a child or minor, to collect personal information from a child or minor in a manner that violates the regulations prescribed under subsection (b).
+; and
+(B)
+in paragraph (2)â
+(i)
+by striking
+of such a website or online service
+; and
+(ii)
+by striking
+subsection (b)(1)(B)(iii) to the parent of a child
+and inserting
+subsection (b)(1)(C)(iii) to the parent of a child or under subsection (b)(1)(D)(iii) to a minor
+; and
+(3)
+in subsection (b)â
+(A)
+by amending paragraph (1) to read as follows:
+(1)
+In general
+Not later than 1 year after the date of the enactment of the Do Not Track Kids Act of 2018, the Commission shall promulgate, under section 553 of title 5, United States Code, regulations to require an operator of a website, online service, online application, or mobile application directed to children or minors, or an operator having actual knowledge that personal information being collected is from a child or minorâ
+(A)
+to provide clear and conspicuous notice in clear and plain language ofâ
+(i)
+the types of personal information the operator collects;
+(ii)
+how the operator uses the information;
+(iii)
+whether the operator discloses the information; and
+(iv)
+the procedures or mechanisms the operator uses to ensure that personal information is not collected from children or minors except in accordance with the regulations promulgated under this paragraph;
+(B)
+to obtain verifiable consent for the collection, use, or disclosure of personal information of a child or minor;
+(C)
+to provide to a parent whose child has provided personal information to the operator, upon request by and proper identification of the parentâ
+(i)
+a description of the specific types of personal information collected from the child by the operator;
+(ii)
+the opportunity at any time to refuse to permit the further use or maintenance in retrievable form, or future collection, by the operator of personal information collected from the child; and
+(iii)
+a means that is reasonable under the circumstances for the parent to obtain any personal information collected from the child, if such information is available to the operator at the time the parent makes the request;
+(D)
+to provide to a minor who has provided personal information to the operator, upon request by and proper identification of the minorâ
+(i)
+a description of the specific types of personal information collected from the minor by the operator;
+(ii)
+the opportunity at any time to refuse to permit the further use or maintenance in retrievable form, or future collection, by the operator of personal information collected from the minor; and
+(iii)
+a means that is reasonable under the circumstances for the minor to obtain any personal information collected from the minor, if such information is available to the operator at the time the minor makes the request;
+(E)
+not to condition participation in a game, or use of a website, service, or application, by a child or minor on the provision by the child or minor of more personal information than is reasonably required to participate in the game or use the website, service, or application; and
+(F)
+to establish and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children and minors.
+;
+(B)
+in paragraph (2)â
+(i)
+in the matter preceding subparagraph (A), by striking
+verifiable parental consent under paragraph (1)(A)(ii)
+and inserting
+verifiable consent under paragraph (1)(B)
+; and
+(ii)
+in subparagraph (A)â
+(I)
+by inserting
+or minor
+after
+collected from a child
+;
+(II)
+by inserting
+or minor
+after
+request from the child
+; and
+(III)
+by inserting
+or minor or to contact a different child or minor
+after
+to recontact the child
+;
+(iii)
+in subparagraph (B)â
+(I)
+by striking
+parent or child
+and inserting
+parent, child, or minor
+; and
+(II)
+by striking
+parental consent
+each place the term appears and inserting
+verifiable consent
+;
+(iv)
+in subparagraph (C)â
+(I)
+in the matter preceding clause (i), by inserting
+or minor
+after
+child
+each place the term appears;
+(II)
+in clause (i)â
+(aa)
+by inserting
+or minor
+after
+child
+each place the term appears; and
+(bb)
+by inserting
+or minor, as applicable,
+after
+parent
+each place the term appears; and
+(III)
+in clause (ii)â
+(aa)
+by inserting
+or minor, as applicable,
+after
+parent
+; and
+(bb)
+by inserting
+or minor
+after
+child
+each place the term appears; and
+(v)
+in subparagraph (D)â
+(I)
+in the matter preceding clause (i), by inserting
+or minor
+after
+child
+each place the term appears;
+(II)
+in clause (ii), by inserting
+or minor
+after
+child
+; and
+(III)
+in the flush text following clause (iii)â
+(aa)
+by inserting
+or minor, as applicable,
+after
+parent
+each place the term appears; and
+(bb)
+by inserting
+or minor
+after
+child
+; and
+(C)
+by amending paragraph (3) to read as follows:
+(3)
+Continuation of service
+The regulations shall prohibit an operator from discontinuing service provided to a child or minor on the basis of refusal by the parent of the child or by the minor, under the regulations prescribed under subparagraphs (C)(ii) and (D)(ii) of paragraph (1), respectively, to permit the further use or maintenance in retrievable form, or future collection, by the operator of personal information collected from the child or minor, to the extent that the operator is capable of providing such service without such information.
+.
+(c)
+Safe harbors
+Section 1304 of the Children's Online Privacy Protection Act of 1998 (
+15 U.S.C. 6503
+) is amendedâ
+(1)
+in subsection (b)(1), by inserting
+and minors
+after
+children
+; and
+(2)
+by adding at the end the following:
+(d)
+Publication
+The Commission shall publish on the internet website of the Commission any report or documentation required by regulation to be submitted to the Commission to carry out this section, except to the extent that the report or documentation contains proprietary information, which the Commission may in its discretion redact.
+.
+(d)
+Administration and applicability of act
+Section 1306 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6505
+) is amendedâ
+(1)
+in subsection (b)â
+(A)
+in paragraph (1), by striking
+, in the case of
+and all that follows and inserting the following:
+by the appropriate Federal banking agency, with respect to any insured depository institution (as those terms are defined in section 3 of that Act (
+12 U.S.C. 1813
+));
+; and
+(B)
+by striking paragraph (2) and redesignating paragraphs (3) through (6) as paragraphs (2) through (5), respectively; and
+(2)
+by adding at the end the following new subsection:
+(f)
+Telecommunications carriers and cable operators
+(1)
+Enforcement by Commission
+Notwithstanding section 5(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(2)
+), compliance with the requirements imposed under this title shall be enforced by the Commission with respect to any telecommunications carrier (as defined in section 3 of the Communications Act of 1934 (
+47 U.S.C. 153
+)).
+(2)
+Relationship to other law
+To the extent that section 222, 338(i), or 631 of the Communications Act of 1934 (
+47 U.S.C. 222
+; 338(i); 551) is inconsistent with this title, this title controls.
+.
+4.
+Fair Information Practices Principles
+The Fair Information Practices Principles described in this section are the following:
+(1)
+Collection limitation principle
+Except as provided in paragraph (3), personal information should be collected from a minor only when collection of the personal information isâ
+(A)
+consistent with the context of a particular transaction or service or the relationship of the minor with the operator, including collection necessary to fulfill a transaction or provide a service requested by the minor; or
+(B)
+required or specifically authorized by law.
+(2)
+Data quality principle
+The personal information of a minor should be accurate, complete, and kept up-to-date to the extent necessary to fulfill the purposes described in subparagraphs (A) through (D) of paragraph (3).
+(3)
+Purpose specification principle
+The purposes for which personal information is collected should be specified to the minor not later than at the time of the collection of the information. The subsequent use or disclosure of the information should be limited toâ
+(A)
+fulfillment of the transaction or service requested by the minor;
+(B)
+support for the internal operations of the website, service, or application, as described in section 312.2 of title 16, Code of Federal Regulations, excluding any activity relating to targeted marketing directed to children, minors, or connected devices;
+(C)
+compliance with legal process or other purposes expressly authorized under specific legal authority; or
+(D)
+other purposesâ
+(i)
+that are specified in a notice to the minor; and
+(ii)
+to which the minor has consented under paragraph (7) before the information is used or disclosed for such other purposes.
+(4)
+Retention limitation principle
+The personal information of a minor should not be retained for longer than is necessary to fulfill a transaction or provide a service requested by the minor or such other purposes specified in subparagraphs (A) through (D) of paragraph (3). The operator should implement a reasonable and appropriate data disposal policy based on the nature and sensitivity of such personal information.
+(5)
+Security safeguards principle
+The personal information of a minor should be protected by reasonable and appropriate security safeguards against risks such as loss or unauthorized access, destruction, use, modification, or disclosure.
+(6)
+Openness principle
+(A)
+In general
+The operator should maintain a general policy of openness about developments, practices, and policies with respect to the personal information of a minor. The operator should provide each minor using the website, online service, online application, or mobile application of the operator with a clear and prominent meansâ
+(i)
+to identify and contact the operator, by, at a minimum, disclosing, clearly and prominently, the identity of the operator andâ
+(I)
+in the case of an operator who is an individual, the address of the principal residence of the operator and an email address and telephone number for the operator; or
+(II)
+in the case of any other operator, the address of the principal place of business of the operator and an email address and telephone number for the operator;
+(ii)
+to determine whether the operator possesses any personal information of the minor, the nature of any such information, and the purposes for which the information was collected and is being retained;
+(iii)
+to obtain any personal information of the minor that is in the possession of the operator from the operator, or from a person specified by the operator, within a reasonable time after making a request, at a charge (if any) that is not excessive, in a reasonable manner, and in a form that is readily intelligible to the minor;
+(iv)
+to challenge the accuracy of personal information of the minor that is in the possession of the operator; and
+(v)
+if the minor establishes the inaccuracy of personal information in a challenge under clause (iv), to have such information erased, corrected, completed, or otherwise amended.
+(B)
+Limitation
+Nothing in this paragraph shall be construed to permit an operator to erase or otherwise modify personal information requested by a law enforcement agency pursuant to legal authority.
+(7)
+Individual participation principle
+The operator shouldâ
+(A)
+obtain consent from a minor before using or disclosing the personal information of the minor for any purpose other than the purposes described in subparagraphs (A) through (C) of paragraph (3); and
+(B)
+obtain affirmative express consent from a minor before using or disclosing previously collected personal information of the minor for purposes that constitute a material change in practice from the original purposes specified to the minor under paragraph (3).
+5.
+Digital Marketing Bill of Rights for Minors
+(a)
+Acts prohibited
+It is unlawful for an operator of a website, online service, online application, or mobile application directed to minors, or an operator having actual knowledge that personal information being collected is from a minor, to collect personal information from a minor unless such operator has adopted and complies with a Digital Marketing Bill of Rights for Minors that is consistent with the Fair Information Practices Principles described in section 4.
+(b)
+Regulations
+Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate, under section 553 of title 5, United States Code, regulations to implement this section, including regulations further defining the Fair Information Practices Principles described in section 4.
+6.
+Targeted marketing to children or minors
+(a)
+Acts prohibited
+It is unlawful forâ
+(1)
+an operator of a website, online service, online application, mobile application, or connected device directed to children, or an operator having actual knowledge that personal information being collected is from a child or a connected device of a child, to use, disclose to third parties, or compile personal information for purposes of targeted marketing; or
+(2)
+an operator of a website, online service, online application, mobile application, or connected device directed to minors, or an operator having actual knowledge that personal information being collected is from a minor or a connected device of a minor, to use, disclose to third parties, or compile personal information for purposes of targeted marketing without the verifiable consent of the minor.
+(b)
+Regulations
+Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate, under section 553 of title 5, United States Code, regulations to implement this section.
+7.
+Removal of content
+(a)
+Acts prohibited
+It is unlawful for an operator to make publicly available through a website, online service, online application, or mobile application content or information that contains or displays personal information of children or minors in a manner that violates a regulation prescribed under subsection (b).
+(b)
+Regulations
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate, under section 553 of title 5, United States Code, regulations that require an operatorâ
+(A)
+to the extent technologically feasible, to implement mechanisms that permit a user of the website, online service, online application, or mobile application of the operator to erase or otherwise eliminate content or information that isâ
+(i)
+submitted to the website, online service, online application, or mobile application by that user;
+(ii)
+publicly available through the website, online service, online application, or mobile application; and
+(iii)
+contains or displays personal information of children or minors; and
+(B)
+to take appropriate steps to make users aware of the mechanisms described in subparagraph (A) and to provide notice to users that the mechanisms do not necessarily provide comprehensive removal of the content or information submitted by users.
+(2)
+Exception
+The regulations promulgated under paragraph (1) may not require an operator or third party to erase or otherwise eliminate content or information thatâ
+(A)
+any other provision of Federal or State law requires the operator or third party to maintain; or
+(B)
+was submitted to the website, online service, online application, or mobile application of the operator by any person other than the user who is attempting to erase or otherwise eliminate the content or information, including content or information submitted by the user that was republished or resubmitted by another person.
+(3)
+Limitation
+Nothing in this section shall be construed to limit the authority of a law enforcement agency to obtain any content or information from an operator as authorized by law or pursuant to an order of a court of competent jurisdiction.
+8.
+Privacy dashboard for connected devices for children and minors
+(a)
+In general
+A manufacturer of a connected device shall prominently display on the packaging for the connected device a standardized and easy-to-understand privacy dashboard, detailing whether, what, and how personal information of a child or minor isâ
+(1)
+collected from the connected device;
+(2)
+transmitted from the connected device;
+(3)
+retained on the connected device;
+(4)
+retained by the manufacturer or affiliated person;
+(5)
+used by the manufacturer or affiliated person; and
+(6)
+protected.
+(b)
+Features
+A privacy dashboard under subsection (a) shall inform a consumer ofâ
+(1)
+the extent to which the connected device meets the highest cybersecurity and data security standards, including if and how to obtain security patches;
+(2)
+the extent to which the connected device givesâ
+(A)
+a parent meaningful control over the information of a child of the parent; and
+(B)
+a minor meaningful control over the information of the minor;
+(3)
+the extent to which the device minimizes the collection, retention, and use of information from a child or minor;
+(4)
+the location of privacy policies;
+(5)
+the type of personal information the connected device may collect; and
+(6)
+any other information as the Commission considers appropriate.
+(c)
+Regulations
+Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate, under section 553 of title 5, United States Code, regulations to implement this section.
+9.
+Prohibition on sale of connected devices for children and minors that fail to meet
+appropriate cybersecurity and data security standards
+(a)
+Prohibition
+Beginning 1 year after the date of enactment of this Act, or such earlier date as the Commission considers appropriate, no person may sell a connected device unless the connected device meets appropriate cybersecurity and data security standards established by the Commission.
+(b)
+Cybersecurity and data security standards
+(1)
+In general
+The Commission shall promulgate, under section 553 of title 5, United States Code, cybersecurity and data security standards described in subsection (a).
+(2)
+Considerations
+In promulgating cybersecurity and data security standards under paragraph (1), the Commission shallâ
+(A)
+create cybersecurity and data security standards for different subsets of connected devices based on the varying degrees ofâ
+(i)
+cybersecurity and data security risk associated with each subset of connected device;
+(ii)
+sensitivity of information collected, stored, or transmitted by each subset of connected device; and
+(iii)
+functionality of each subset of connected device;
+(B)
+consider incorporating, to the extent practicable, existing cybersecurity and data security standards; and
+(C)
+ensure that the cybersecurity and data security standardsâ
+(i)
+are consistent with Fair Information Practice Principles described in section 4; and
+(ii)
+promote data minimization.
+10.
+Rule for treatment of users of websites, services, and applications directed to children or minors
+For the purposes of this Act, an operator of a website, online service, online application, or mobile application that is directed to children or minors shall treat each user of that website, online service, online application, or mobile application as a child or minor, respective to whether the website, online service, online application, or mobile application is directed to children or minors, except as permitted by the Commission pursuant to a regulation promulgated under this Act.
+11.
+Enforcement and applicability
+(a)
+Enforcement by the Commission
+(1)
+In general
+Except as otherwise provided, this Act and the regulations prescribed under this Act shall be enforced by the Commission under the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+(2)
+Unfair or deceptive acts or practices
+Subject to subsection (b), a violation of this Act or a regulation prescribed under this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(3)
+Actions by the Commission
+(A)
+In general
+Subject to subsection (b), and except as provided in subsection (d)(1), the Commission shall prevent any person from violating this Act or a regulation prescribed under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of this Act, and any person who violates this Act or such regulation shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
+(B)
+Violations
+In an action brought by the Commission to enforce this Act and the regulations prescribed under this Act, each connected device that fails to meet a standard promulgated under this Act shall be treated as a separate violation.
+(b)
+Enforcement by certain other agencies
+Notwithstanding subsection (a), compliance with the requirements imposed under this Act shall be enforced as follows:
+(1)
+Under section 8 of the Federal Deposit Insurance Act (
+12 U.S.C. 1818
+) by the appropriate Federal banking agency, with respect to an insured depository institution (as such terms are defined in section 3 of such Act (
+12 U.S.C. 1813
+)).
+(2)
+Under the Federal Credit Union Act (
+12 U.S.C. 1751
+et seq.) by the National Credit Union Administration Board, with respect to any Federal credit union.
+(3)
+Under part A of subtitle VII of title 49, United States Code, by the Secretary of Transportation, with respect to any air carrier or foreign air carrier subject to such part.
+(4)
+Under the Packers and Stockyards Act, 1921 (
+7 U.S.C. 181
+et seq.) (except as provided in section 406 of that Act (
+7 U.S.C. 226
+; 227)) by the Secretary of Agriculture, with respect to any activities subject to that Act.
+(5)
+Under the Farm Credit Act of 1971 (
+12 U.S.C. 2001
+et seq.) by the Farm Credit Administration, with respect to any Federal land bank, Federal land bank association, Federal intermediate credit bank, or production credit association.
+(c)
+Enforcement by State attorneys general
+(1)
+In general
+(A)
+Civil actions
+In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates this Act or a regulation prescribed under this Act, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction toâ
+(i)
+enjoin that practice;
+(ii)
+enforce compliance with this Act or such regulation;
+(iii)
+obtain damages, restitution, or other compensation on behalf of residents of the State; or
+(iv)
+obtain such other relief as the court may consider to be appropriate.
+(B)
+Notice
+(i)
+In general
+Before filing an action under subparagraph (A), the attorney general of the State involved shall provide to the Commissionâ
+(I)
+written notice of that action; and
+(II)
+a copy of the complaint for that action.
+(ii)
+Exemption
+(I)
+In general
+Clause (i) shall not apply with respect to the filing of an action by an attorney general of a State under this paragraph if the attorney general of the State determines that it is not feasible to provide the notice described in that clause before the filing of the action.
+(II)
+Notification
+In an action described in subclause (I), the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.
+(2)
+Intervention
+(A)
+In general
+On receiving notice under paragraph (1)(B), the Commission shall have the right to intervene in the action that is the subject of the notice.
+(B)
+Effect of intervention
+If the Commission intervenes in an action under paragraph (1), it shall have the rightâ
+(i)
+to be heard with respect to any matter that arises in that action; and
+(ii)
+to file a petition for appeal.
+(3)
+Construction
+For purposes of bringing any civil action under paragraph (1), nothing in this Act shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State toâ
+(A)
+conduct investigations;
+(B)
+administer oaths or affirmations; or
+(C)
+compel the attendance of witnesses or the production of documentary and other evidence.
+(4)
+Actions by the Commission
+In any case in which an action is instituted by or on behalf of the Commission for violation of this Act or a regulation prescribed under this Act, no State may, during the pendency of that action, institute an action under paragraph (1) against any defendant named in the complaint in the action instituted by or on behalf of the Commission for that violation.
+(5)
+Venue; service of process
+(A)
+Venue
+Any action brought under paragraph (1) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code.
+(B)
+Service of process
+In an action brought under paragraph (1), process may be served in any district in which the defendantâ
+(i)
+is an inhabitant; or
+(ii)
+may be found.
+(d)
+Telecommunications carriers and cable operators
+(1)
+Enforcement by Commission
+Notwithstanding section 5(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(2)
+), compliance with the requirements imposed under this Act shall be enforced by the Commission with respect to any telecommunications carrier (as defined in section 3 of the Communications Act of 1934 (
+47 U.S.C. 153
+)).
+(2)
+Relationship to other laws
+To the extent that section 222, 338(i), or 631 of the Communications Act of 1934 (
+47 U.S.C. 222
+; 338(i); 551) is inconsistent with this Act, this Act controls.
+(e)
+Safe harbors
+(1)
+Definition
+In this subsectionâ
+(A)
+the term
+applicable section
+means section 5, 6, 7, 8, or 9 of this Act;
+(B)
+the term
+covered operator
+means an operator subject to guidelines approved under paragraph (2);
+(C)
+the term
+requesting entity
+means an entity that submits a safe harbor request to the Commission; and
+(D)
+the term
+safe harbor request
+means a request to have self-regulatory guidelines described in paragraph (2)(A) approved under that paragraph.
+(2)
+Guidelines
+(A)
+In general
+An operator may satisfy the requirements of regulations issued under an applicable section by following a set of self-regulatory guidelines, issued by representatives of the marketing or online industries, or by other persons, that, after notice and an opportunity for comment, are approved by the Commission upon making a determination that the guidelines meet the requirements of the regulations issued under that applicable section.
+(B)
+Expedited response to requests
+Not later than 180 days after the date on which a safe harbor request is filed under subparagraph (A), the Commission shall act upon the request set forth in writing the conclusions of the Commission with regard to the request.
+(C)
+Appeals
+A requesting entity may appeal the final action of the Commission under subparagraph (B), or a failure by the Commission to act in the period described in that paragraph, to a district court of the United States of appropriate jurisdiction, as provided for in section 706 of title 5, United States Code.
+(3)
+Incentives
+(A)
+Self-regulatory incentives
+In prescribing regulations under an applicable section, the Commission shall provide incentives for self-regulation by covered operators to implement the protections afforded children and minors, as applicable, under the regulatory requirements described in those sections.
+(B)
+Deemed compliance
+The incentives under subparagraph (A) shall include provisions for ensuring that a covered operator will be deemed to be in compliance with the requirements of the regulations under an applicable section if that person complies with guidelines approved under paragraph (2).
+(4)
+Regulations
+In prescribing regulations relating to safe harbor guidelines under an applicable section, the Commission shallâ
+(A)
+establish criteria for the approval of guidelines that will ensure that a covered operator provides substantially the same or greater protections for children and minors, as applicable, as those contained in the regulations issued under the applicable section; and
+(B)
+require that any report or documentation required to be submitted to the Commission by a covered operator or requesting entity will be published on the internet website of the Commission, except to the extent that the report or documentation contains proprietary information, which the Commission may in its discretion redact.
+12.
+Effective dates
+(a)
+In general
+Except as provided in subsections (b) and (c), this Act and the amendments made by this Act shall take effect on the date that is 1 year after the date of enactment of this Act.
+(b)
+Authority To promulgate regulations
+The following shall take effect on the date of enactment of this Act:
+(1)
+Section 2(b).
+(2)
+The amendments made by subsections (a)(6) and (b) of section 3.
+(3)
+Sections 5(b), 6(b), 7(b), 8(c), and 9(b).
+(c)
+Digital Marketing Bill of Rights for minors
+Section 5(a) shall take effect on the date that is 180 days after the promulgation of regulations under that subsection.
+(d)
+Privacy dashboard for connected devices for children and minors
+Subsections (a) and (b) of section 8 shall take effect on the date that is 180 days after the promulgation of regulations under such subsection.

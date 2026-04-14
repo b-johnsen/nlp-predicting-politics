@@ -1,0 +1,833 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+National Artificial Intelligence Initiative Act of 2020
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+Sec. 3. Definitions.
+Title IâNational Artificial Intelligence Initiative
+Sec. 101. National Artificial Intelligence Initiative.
+Sec. 102. National Artificial Intelligence Initiative Office.
+Sec. 103. Coordination by Interagency Committee.
+Sec. 104. National Artificial Intelligence Advisory Committee.
+Sec. 105. National Academies artificial intelligence impact study on workforce.
+Sec. 106. GAO report on computational needs.
+Title IIâNational Artificial Intelligence Research Institutes
+Sec. 201. National Artificial Intelligence Research Institutes.
+Title IIIâNational Institute of Standards and Technology Artificial Intelligence Activities
+Sec. 301. National Institute of Standards and Technology activities.
+Title IVâNational Science Foundation Artificial Intelligence Activities
+Sec. 401. Artificial intelligence research and education.
+Title VâDepartment of Energy Artificial Intelligence Research Program
+Sec. 501. Department of Energy Artificial Intelligence Research Program.
+2.
+Findings
+Congress finds the following:
+(1)
+Artificial intelligence is a tool that has the potential to change and possibly transform every sector of the United States economy and society.
+(2)
+The Federal Government should continue to play an important role advancing research, development, standards, and education activities in artificial intelligence through coordination and collaboration between government, academia, and the private sector to leverage the intellectual, physical, and digital resources of each stakeholder.
+(3)
+The Federal Government lacks clear understanding of the capabilities of artificial intelligence and its potential to affect various social and economic sectors, including ethical concerns, national security implications, and workforce impacts.
+(4)
+Researchers from academia, Federal laboratories, and much of the private sector have limited access to many high-quality datasets, computing resources, or real-world testing environments to design and deploy safe and trustworthy artificial intelligence systems.
+(5)
+There is a lack of standards and benchmarking for artificial intelligence systems that academia and the public and private sectors can use to evaluate the performance of these systems before and after deployment.
+(6)
+Artificial intelligence is increasingly becoming a highly interdisciplinary field with expertise required from a diverse range of scientific and other scholarly disciplines that traditionally work independently and continue to face cultural and institutional barriers to large scale collaboration.
+(7)
+Current Federal investments and funding mechanisms are largely insufficient to incentivize and support the large-scale interdisciplinary and public-private collaborations that will be required to advance trustworthy artificial intelligence systems in the United States.
+(8)
+The United States education pipeline for artificial intelligence fields faces significant challenges. Not only does the artificial intelligence research field lack the gender and racial diversity of the American population as a whole, but it is failing to both retain researchers and adequately support educators to meet the demands of the next generation of students studying artificial intelligence.
+(9)
+In order to help drive forward advances in trustworthy artificial intelligence across all sectors and to the benefit of all Americans, the Federal Government must provide sufficient resources and use its convening power to facilitate the growth of artificial intelligence human capital, research, and innovation capacity in academia and other nonprofit research organizations, companies of all sizes and across all sectors, and within the Federal Government.
+3.
+Definitions
+In this Act:
+(1)
+Advisory Committee
+The term
+Advisory Committee
+means the National Artificial Intelligence Advisory Committee established under section 104(a).
+(2)
+Agency head
+The term
+agency head
+means the head of any Executive agency (as defined in section 105 of title 5, United States Code) other than the Department of Defense.
+(3)
+Artificial intelligence
+The term
+artificial intelligence
+means a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations or decisions influencing real or virtual environments. Artificial intelligence systems use machine and human-based inputs toâ
+(A)
+perceive real and virtual environments;
+(B)
+abstract such perceptions into models through analysis in an automated manner; and
+(C)
+use model inference to formulate options for information or action.
+(4)
+Initiative
+The term
+Initiative
+means the National Artificial Intelligence Initiative established under section 101(a).
+(5)
+Initiative Office
+The term
+Initiative Office
+means the National Artificial Intelligence Initiative Office established under section 102(a).
+(6)
+Institute
+The term
+Institute
+means an Artificial Intelligence Research Institute described in section 201(b)(1).
+(7)
+Interagency Committee
+The term
+Interagency Committee
+means the interagency committee established under section 103(a).
+(8)
+K-12
+education
+The term
+K-12 education
+means elementary school and secondary education, as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 7801
+).
+(9)
+Machine learning
+The term
+machine learning
+means an application of artificial intelligence that is characterized by providing systems the ability to automatically learn and improve on the basis of data or experience, without being explicitly programmed.
+I
+National Artificial Intelligence Initiative
+101.
+National Artificial Intelligence Initiative
+(a)
+Establishment; purposes
+The President shall establish and implement an initiative to be known as the
+National Artificial Intelligence Initiative
+. The purposes of the Initiative shall be toâ
+(1)
+ensure continued United States leadership in artificial intelligence research and development;
+(2)
+lead the world in the development and use of trustworthy artificial intelligence systems in the public and private sectors;
+(3)
+maximize the benefits of artificial intelligence systems for all American people; and
+(4)
+prepare the present and future United States workforce for the integration of artificial intelligence systems across all sectors of the economy and society.
+(b)
+Initiative activities
+In carrying out the Initiative, the President, acting through the Initiative Office, the Interagency Committee, and agency heads as the President considers appropriate, shall carry out activities that include the following:
+(1)
+Sustained, consistent, and coordinated support for artificial intelligence research and development through grants, cooperative agreements, testbeds, and access to data and computing resources.
+(2)
+Support for the development of voluntary standards, best practices, and benchmarks for the development and use of trustworthy artificial intelligence systems.
+(3)
+Support for educational programs at all levels, in both formal and informal learning environments, to prepare the American workforce and the general public to be able to use and interact with artificial intelligence systems, as well as adapt to the potentially transformative impact of artificial intelligence on society and the economy.
+(4)
+Support for interdisciplinary research, education, and training programs for students and researchers that promote learning in the methods and systems used in artificial intelligence and foster interdisciplinary perspectives and collaborations among subject matter experts in relevant fields, including computer science, mathematics, statistics, engineering, social sciences, psychology, behavioral science, ethics, security, legal scholarship, and other disciplines that will be necessary to advance artificial intelligence research and development responsibly.
+(5)
+Support for partnerships to leverage knowledge, computing resources, access to open datasets, and other resources from industry, government, nonprofit organizations, Federal laboratories, State programs, and institutions of higher education to advance activities under the Initiative.
+(6)
+Interagency planning and coordination of Federal artificial intelligence research, development, demonstration, standards engagement, and other activities under the Initiative.
+(7)
+Outreach to diverse stakeholders, including citizen groups and industry, to ensure public input is taken into account in the activities of the Initiative.
+(8)
+Leveraging existing Federal investments to advance objectives of the Initiative.
+(9)
+Support for a network of interdisciplinary artificial intelligence research institutes, as described in section 201(b)(7)(B).
+(10)
+Support opportunities for international cooperation with strategic allies, as appropriate, on the research and development, assessment, and resources for trustworthy artificial intelligence systems and the development of voluntary consensus standards for those systems.
+102.
+National Artificial Intelligence Initiative Office
+(a)
+In general
+The Director of the Office of Science and Technology Policy shall establish or designate, and appoint a director of, an office to be known as the
+National Artificial Intelligence Initiative Office
+to carry out the responsibilities described in subsection (b) with respect to the Initiative. The Initiative Office shall have sufficient staff to carry out such responsibilities, including staff detailed from the Federal departments and agencies described in section 103(c).
+(b)
+Responsibilities
+The Director of the Initiative Office shallâ
+(1)
+provide technical and administrative support to the Interagency Committee and the Advisory Committee;
+(2)
+serve as the point of contact on Federal artificial intelligence activities for Federal departments and agencies, industry, academia, nonprofit organizations, professional societies, State governments, and such other persons as the Initiative Office considers appropriate to exchange technical and programmatic information;
+(3)
+conduct regular public outreach to diverse stakeholders, including through the convening of conferences and educational events, the publication of information about significant Initiative activities on a publicly available website, and the dissemination of findings and recommendations of the Advisory Committee, as appropriate; and
+(4)
+promote access to and early adoption of the technologies, innovations, lessons learned, and expertise derived from Initiative activities to agency missions and systems across the Federal Government, and to industry, including startup companies.
+(c)
+Funding estimate
+The Director of the Office of Science and Technology Policy shall develop an estimate of the funds necessary to carry out the activities of the Initiative Coordination Office, including an estimate of how much each participating Federal department and agency described in section 103(c) will contribute to such funds, and submit such estimate to Congress not later than 90 days after the enactment of this Act. The Director shall update this estimate each year based on participating agency investments in artificial intelligence.
+103.
+Coordination by Interagency Committee
+(a)
+Interagency committee
+The Director of the Office of Science and Technology Policy, acting through the National Science and Technology Council, shall establish or designate an Interagency Committee to coordinate Federal programs and activities in support of the Initiative.
+(b)
+Co-Chairs
+The Interagency Committee shall be co-chaired by the Director of the Office of Science and Technology Policy and, on an annual rotating basis, a representative from the National Institute of Standards and Technology, the National Science Foundation, or the Department of Energy, as selected by the Director of the Office of Science and Technology Policy.
+(c)
+Agency participation
+The Committee shall include representatives fromâ
+(1)
+the National Institute of Standards and Technology;
+(2)
+the National Science Foundation;
+(3)
+the Department of Energy;
+(4)
+the National Aeronautics and Space Administration;
+(5)
+the Department of Defense;
+(6)
+the Defense Advanced Research Projects Agency;
+(7)
+the Department of Commerce;
+(8)
+the Office of the Director of National Intelligence;
+(9)
+the Office of Management and Budget;
+(10)
+the Office of Science and Technology Policy;
+(11)
+the Department of Health and Human Services;
+(12)
+the Department of Education;
+(13)
+the Department of Labor;
+(14)
+the Department of the Treasury;
+(15)
+the General Services Administration;
+(16)
+the Department of Transportation;
+(17)
+the Department of State;
+(18)
+the Department of Veterans Affairs; and
+(19)
+any other Federal agency as considered appropriate by the Director of the Office of Science and Technology Policy.
+(d)
+Responsibilities
+The Interagency Committee shallâ
+(1)
+provide for interagency coordination of Federal artificial intelligence research, development, and demonstration activities, development of voluntary consensus standards and guidelines for research, development, testing, and adoption of ethically developed, safe, and trustworthy artificial intelligence systems, and education and training activities and programs of Federal departments and agencies undertaken pursuant to the Initiative;
+(2)
+not later than 2 years after the date of the enactment of this Act, develop a strategic plan for artificial intelligence (to be updated not less than every 3 years) thatâ
+(A)
+establishes goals, priorities, and metrics for guiding and evaluating the Initiativeâs activities; and
+(B)
+describes how the agencies carrying out the Initiative willâ
+(i)
+determine and prioritize areas of artificial intelligence research, development, and demonstration requiring Federal Government leadership and investment;
+(ii)
+support long-term funding for interdisciplinary artificial intelligence research, development, demonstration, education and public outreach activities;
+(iii)
+support research and other activities on ethical, legal, environmental, safety, security, and other appropriate societal issues related to artificial intelligence;
+(iv)
+provide or facilitate the availability of curated, standardized, secure, representative, and privacy-protected data sets for artificial intelligence research and development;
+(v)
+provide or facilitate the necessary computing, networking, and data facilities for artificial intelligence research and development;
+(vi)
+reduce barriers to transferring artificial intelligence systems from the laboratory into application for the benefit of society and United States competitiveness;
+(vii)
+support and coordinate the network of artificial intelligence research institutes described in section 201(b)(7)(B); and
+(viii)
+in consultation with the Council of Economic Advisers, measure and track the contributions of artificial intelligence to United States economic growth and other societal indicators;
+(3)
+propose an annually coordinated interagency budget for the Initiative to the Office of Management and Budget that is intended to ensure that the balance of funding across the Initiative is sufficient to meet the goals and priorities established for the Initiative; and
+(4)
+in carrying out this section, take into consideration the recommendations of the Advisory Committee, existing reports on related topics, and the views of academic, State, industry, and other appropriate groups.
+(e)
+Annual report
+For each fiscal year beginning with fiscal year 2022, not later than 90 days after submission of the Presidentâs annual budget request for such fiscal year, the Interagency Committee shall prepare and submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includesâ
+(1)
+a summarized budget in support of the Initiative for such fiscal year and the preceding fiscal year, including a disaggregation of spending for each Federal agency participating in the Initiative and for the development and acquisition of any research facilities and instrumentation; and
+(2)
+an assessment of how Federal agencies are implementing the plan described in subsection (d)(2), and a description of those efforts.
+104.
+National Artificial Intelligence Advisory Committee
+(a)
+In general
+The Secretary of Energy shall, in consultation with the Director of the Office of Science and Technology Policy, establish an advisory committee to be known as the
+National Artificial Intelligence Advisory Committee
+.
+(b)
+Qualifications
+The Advisory Committee shall consist of members, appointed by the Secretary of Energy, who are representing broad and interdisciplinary expertise and perspectives, including from academic institutions, companies across diverse sectors, nonprofit and civil society entities, and Federal laboratories, that are qualified to provide advice and information on science and technology research, development, ethics, standards, education, technology transfer, commercial application, security, and economic competitiveness related to artificial intelligence.
+(c)
+Membership consideration
+In selecting the members of the Advisory Committee, the Secretary of Energy may seek and give consideration to recommendations from the Congress, industry, nonprofit organizations, the scientific community (including the National Academy of Sciences, scientific professional societies, and academic institutions), the defense community, and other appropriate organizations.
+(d)
+Duties
+The Advisory Committee shall advise the President and the Initiative Office on matters related to the Initiative, including recommendations related toâ
+(1)
+the current state of United States competitiveness and leadership in artificial intelligence, including the scope and scale of United States investments in artificial intelligence research and development in the international context;
+(2)
+the progress made in implementing the Initiative, including a review of the degree to which the Initiative has achieved the goals under the metrics established by the Interagency Committee under section 103(d)(2);
+(3)
+the state of the science around artificial intelligence, including progress towards artificial general intelligence;
+(4)
+the need to update the Initiative;
+(5)
+the balance of activities and funding across the Initiative;
+(6)
+whether the strategic plan developed or updated by the Interagency Committee established under section 103(d)(2) is helping to maintain United States leadership in artificial intelligence;
+(7)
+the management, coordination, and activities of the Initiative;
+(8)
+whether ethical, legal, safety, security, and other appropriate societal issues are adequately addressed by the Initiative; and
+(9)
+opportunities for international cooperation with strategic allies on artificial intelligence research activities and standards development.
+(e)
+Reports
+Not later than 1 year after the date of the enactment of this Act, and not less frequently than once every 3 years thereafter, the Advisory Committee shall submit to the President, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, a report on the Advisory Committeeâs findings and recommendations under subsection (d).
+(f)
+Travel expenses of non-Federal members
+Non-Federal members of the Advisory Committee, while attending meetings of the Advisory Committee or while otherwise serving at the request of the head of the Advisory Committee away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for individuals in the Government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Committee who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
+(g)
+FACA exemption
+The Secretary of Energy shall charter the Advisory Committee in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), except that the Advisory Committee shall be exempt from section 14 of such Act.
+105.
+National Academies artificial intelligence impact study on workforce
+(a)
+In general
+Not later than 90 days after the date of the enactment of this Act, the National Science Foundation shall enter into a contract with the National Research Council of the National Academies of Sciences, Engineering, and Medicine to conduct a study of the current and future impact of artificial intelligence on the workforce of the United States across sectors.
+(b)
+Contents
+The study shall addressâ
+(1)
+workforce impacts across sectors caused by the increased adoption of artificial intelligence, automation, and other related trends;
+(2)
+workforce needs and employment opportunities generated by the increased adoption of artificial intelligence across sectors;
+(3)
+research gaps and data needed to better understand and track both workforce impacts and workforce needs and opportunities generated by adoption of artificial intelligence systems across sectors; and
+(4)
+recommendations to address the challenges and opportunities described in paragraphs (1), (2), and (3).
+(c)
+Stakeholders
+In conducting the study, the National Academies of Sciences, Engineering, and Medicine shall seek input from a wide range of stakeholders in the public and private sectors.
+(d)
+Report to Congress
+The contract entered into under subsection (a) shall require the National Academies of Sciences, Engineering, and Medicine, not later than 2 years after the date of the enactment of this Act, toâ
+(1)
+submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the findings and recommendations of the study conducted under subsection (a); and
+(2)
+make a copy of such report available on a publicly accessible website.
+106.
+GAO report on computational needs
+(a)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a study of artificial intelligence computer hardware and computing required in order to maintain U.S. leadership in artificial intelligence research and development. The Comptroller General shallâ
+(1)
+assess the composition of civilian computing resources supported by the Federal Government at universities and Federal Laboratories, including programs with laboratory computing, high performance computing, cloud computing, quantum computing, edge computing, and other computing resources;
+(2)
+evaluate projected needs for computing consumption and performance required by the public and private sector for the training, auditing, validation, testing, and use of artificial intelligence over the next five years; and
+(3)
+offer recommendations to meet these projected needs.
+II
+National Artificial Intelligence Research Institutes
+201.
+National Artificial Intelligence Research Institutes
+(a)
+In general
+As part of the Initiative, the Director of the National Science Foundation shall establish a program to award financial assistance for the planning, establishment, and support of Institutes (as described in subsection (b)(2)) in accordance with this section.
+(b)
+Financial assistance To establish and support national artificial intelligence research institutes
+(1)
+In general
+Under the Initiative, the Secretary of Energy, the Secretary of Commerce, the Director of the National Science Foundation, and every other agency head may award financial assistance to an eligible entity, or consortia thereof, as determined by an agency head, to establish and support an Institute.
+(2)
+Artificial intelligence institutes
+An Institute described in this subsection is an artificial intelligence research institute thatâ
+(A)
+is focused onâ
+(i)
+a particular economic or social sector, including health, education, manufacturing, agriculture, security, energy, and environment, and includes a component that addresses the ethical, societal, safety, and security implications relevant to the application of artificial intelligence in that sector; or
+(ii)
+a cross-cutting challenge for artificial intelligence systems, including trustworthiness, or foundational science;
+(B)
+requires partnership among public and private organizations, including, as appropriate, Federal agencies, research universities, community colleges, nonprofit research organizations, Federal laboratories, State, local, and tribal governments, and industry (or consortia thereof);
+(C)
+has the potential to create an innovation ecosystem, or enhance existing ecosystems, to translate Institute research into applications and products, as appropriate to the topic of each Institute;
+(D)
+supports interdisciplinary research and development across multiple institutions and organizations involved in artificial intelligence research and related disciplines, including physics, engineering, mathematical sciences, computer and information science, robotics, biological and cognitive sciences, material science, social and behavioral sciences, cybersecurity, and technology ethics;
+(E)
+supports interdisciplinary education activities, including curriculum development, research experiences, and faculty professional development across two-year, undergraduates, masters, and doctoral level programs; and
+(F)
+supports workforce development in artificial intelligence related disciplines in the United States, including broadening participation of underrepresented communities.
+(3)
+Use of funds
+Financial assistance awarded under paragraph (1) may be used by an Institute forâ
+(A)
+managing and making available to researchers accessible, curated, standardized, secure, and privacy protected data sets from the public and private sectors for the purposes of training and testing artificial intelligence systems and for research using artificial intelligence systems, pursuant to section 301(b) and 301(c);
+(B)
+developing and managing testbeds for artificial intelligence systems, including sector-specific test beds, designed to enable users to evaluate artificial intelligence systems prior to deployment;
+(C)
+conducting research and education activities involving artificial intelligence systems to solve challenges with social, economic, health, scientific, and national security implications;
+(D)
+providing or brokering access to computing resources, networking, and data facilities for artificial intelligence research and development relevant to the Instituteâs research goals;
+(E)
+providing technical assistance to users, including software engineering support, for artificial intelligence research and development relevant to the Instituteâs research goals;
+(F)
+engaging in outreach and engagement to broaden participation in artificial intelligence research and workforce; and
+(G)
+such other activities that an agency head, whose agencyâs missions contribute to or are affected by artificial intelligence, considers consistent with the purposes described in section 101(a).
+(4)
+Duration
+(A)
+Initial periods
+An award of financial assistance under paragraph (1) shall be awarded for an initial period of 5 years.
+(B)
+Extension
+An established Institute may apply for, and the agency head may grant, extended funding for periods of 5 years on a merit-reviewed basis using the merit review criteria of the sponsoring agency.
+(5)
+Application for financial assistance
+(A)
+In general
+A person or group of persons seeking financial assistance under paragraph (1) shall submit to an agency head an application at such time, in such manner, and containing such information as the agency head may require.
+(B)
+Requirements
+An application submitted under subparagraph (A) for an Institute shall, at a minimum, include the following:
+(i)
+A plan for the Institute to includeâ
+(I)
+the proposed goals and activities of the Institute;
+(II)
+how the Institute will form partnerships with other research institutions, industry, and nonprofits to leverage expertise in artificial intelligence and access to data, including non-governmental data and computing resources;
+(III)
+how the institute will support long-term and short-term education and workforce development in artificial intelligence, including broadening participation of underrepresented communities; and
+(IV)
+a plan for how the Institute will transition from planning into operations.
+(ii)
+A description of the anticipated sources and nature of any non-Federal contributions, including privately held data sets, computing resources, and other types of in-kind support.
+(iii)
+A description of the anticipated long-term impact of such Institute.
+(6)
+Competitive, merit review
+In awarding financial assistance under paragraph (1), the agency head shallâ
+(A)
+use a competitive, merit review process that includes peer review by a diverse group of individuals with relevant expertise from both the private and public sectors; and
+(B)
+ensure the focus areas of the Institute do not substantially duplicate the efforts of any other Institute.
+(7)
+Collaboration
+(A)
+In general
+In awarding financial assistance under paragraph (1), an agency head may collaborate with Federal departments and agencies whose missions contribute to or are affected by artificial intelligence systems, including the agencies outlined in section 103(c).
+(B)
+Coordinating network
+The Director of the National Science Foundation shall establish a network of Institutes receiving financial assistance under this subsection, to be known as the
+Artificial Intelligence Leadership Network
+, to coordinate cross-cutting research and other activities carried out by the Institutes.
+(C)
+Funding
+The head of an agency may request, accept, and provide funds from other Federal departments and agencies, State, United States territory, local, or tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support an Instituteâs activities. The head of an agency may not give any special consideration to any agency or entity in return for a donation.
+III
+National Institute of Standards and Technology Artificial Intelligence Activities
+301.
+National Institute of Standards and Technology activities
+(a)
+In general
+As part of the Initiative, the Director of the National Institute of Standards and Technology shallâ
+(1)
+support measurement research and development of best practices and voluntary standards for trustworthy artificial intelligence systems, including forâ
+(A)
+privacy and security, including for datasets used to train or test artificial intelligence systems and software and hardware used in artificial intelligence systems;
+(B)
+advanced computer chips and hardware designed for artificial intelligence systems;
+(C)
+data management and techniques to increase the usability of data, including strategies to systematically clean, label, and standardize data into forms useful for training artificial intelligence systems and the use of common, open licenses;
+(D)
+safety and robustness of artificial intelligence systems, including assurance, verification, validation, security, control, and the ability for artificial intelligence systems to withstand unexpected inputs and adversarial attacks;
+(E)
+auditing mechanisms and benchmarks for accuracy, transparency, verifiability, and safety assurance for artificial intelligence systems;
+(F)
+applications of machine learning and artificial intelligence systems to improve other scientific fields and engineering; and
+(G)
+all other areas deemed by the Director to be critical to the development and deployment of trustworthy artificial intelligence;
+(2)
+produce curated, standardized, representative, secure, and privacy protected data sets for artificial intelligence research, development, and use, prioritizing data for high-value, high-risk research;
+(3)
+support one or more institutes as described in section 201(a) of this Act for the purpose of advancing the field of artificial intelligence;
+(4)
+support and strategically engage in the development of voluntary consensus standards, including international standards, through open, transparent, and consensus-based processes; and
+(5)
+enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this Act.
+(b)
+Risk management framework
+Not later than 2 years after the date of the enactment of this Act, the Director shall work to develop, and periodically update, in collaboration with other public and private sector organizations, including the National Science Foundation and the Department of Energy, a voluntary risk management framework for the trustworthiness of artificial intelligence systems. The framework shallâ
+(1)
+identify and provide standards, guidelines, best practices, methodologies, procedures, and processes for assessing the trustworthiness of, and mitigating risks to, artificial intelligence systems;
+(2)
+establish common definitions and characterizations for aspects and levels of trustworthiness, including explainability, transparency, safety, privacy, security, robustness, fairness, bias, ethics, validation, verification, and other properties related to artificial intelligence systems that are common across all sectors;
+(3)
+provide guidance and implementation steps for risk management of artificial intelligence systems;
+(4)
+provide sector-specific case studies of implementation of the framework;
+(5)
+align with voluntary consensus standards, including international standards, to the fullest extent possible;
+(6)
+incorporate voluntary consensus standards and industry best practices; and
+(7)
+not prescribe or otherwise requireâ
+(A)
+the use of specific solutions; or
+(B)
+the use of specific information or communications technology products or services.
+(c)
+Data sharing best practices
+Not later than 1 year after the date of enactment of this Act, the Director shall, in collaboration with other public and private sector organizations, develop guidance to facilitate the creation of voluntary data sharing arrangements between industry, federally funded research centers, and Federal agencies for the purpose of advancing artificial intelligence research and technologies, includingâ
+(1)
+options for partnership models between government entities, industry, universities, and nonprofits that incentivize each party to share the data they collected; and
+(2)
+best practices for datasets involving human characteristics, includingâ
+(A)
+standards for metadata that describe the properties of datasets, includingâ
+(i)
+how the data was collected;
+(ii)
+what populations are included and excluded from the datasets; and
+(iii)
+any other properties as determined by the Director; and
+(B)
+standards for privacy and security of datasets with human characteristics.
+(d)
+Stakeholder outreach
+In carrying out the activities under this subsection, the Director shallâ
+(1)
+solicit input from university researchers, private sector experts, relevant Federal agencies, Federal laboratories, State and local governments, civil society groups, and other relevant stakeholders;
+(2)
+solicit input from experts in relevant fields of social science, technology ethics, and law; and
+(3)
+provide opportunity for public comment on guidelines and best practices developed as part of the Initiative, as appropriate.
+(e)
+Authorization of appropriations
+There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this subsectionâ
+(1)
+$64,000,000 for fiscal year 2021;
+(2)
+$70,400,000 for fiscal year 2022;
+(3)
+$77,440,000 for fiscal year 2023;
+(4)
+$85,180,000 for fiscal year 2024; and
+(5)
+$93,700,000 for fiscal year 2025.
+IV
+National Science Foundation Artificial Intelligence Activities
+401.
+Artificial intelligence research and education
+(a)
+In general
+As part of the Initiative, the Director of the National Science Foundation shall fund research and education activities in artificial intelligence systems and related fields, including competitive awards or grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).
+(b)
+Uses of funds
+In carrying out the activities under subsection (a), the Director of the National Science Foundation shallâ
+(1)
+support research, including interdisciplinary research on artificial intelligence systems and related areas;
+(2)
+support collaborations among researchers across disciplines, including between social scientists and computer and data scientists, to advance research critical to the development and deployment of trustworthy artificial intelligence systems, including support for interdisciplinary research relating advances in artificial intelligence to changes in the future workplace, in a social and economic context;
+(3)
+use the existing programs of the National Science Foundation, in collaboration with other Federal departments and agencies, as appropriate toâ
+(A)
+improve the teaching and learning of artificial intelligence systems at all levels of education; and
+(B)
+increase participation in artificial intelligence related fields, including by individuals identified in sections 33 and 34 of the Science and Engineering Equal Opportunity Act (
+42 U.S.C. 1885a
+, 1885b);
+(4)
+engage with institutions of higher education, research communities, industry, Federal laboratories, nonprofit organizations, State and local governments, and potential users of information produced under this section, including through the convening of workshops and conferences, to leverage the collective body of knowledge across disciplines relevant to artificial intelligence, facilitate new collaborations and partnerships, and identify emerging research needs;
+(5)
+support partnerships among institutions of higher education and industry that facilitate collaborative research, personnel exchanges, and workforce development with respect to artificial intelligence systems;
+(6)
+ensure adequate access to research and education infrastructure with respect to artificial intelligence systems, including through the development of new computing resources and partnership with the private sector for the provision of cloud-based computing services;
+(7)
+conduct prize competitions, as appropriate, pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3719
+);
+(8)
+coordinate research efforts funded through existing programs across the directorates of the National Science Foundation;
+(9)
+provide guidance on data sharing by grantees to public and private sector organizations consistent with the standards and guidelines developed under section 301(c); and
+(10)
+evaluate opportunities for international collaboration with strategic allies on artificial intelligence research and development.
+(c)
+Artificial intelligence research grants
+(1)
+In general
+The Director shall award grants for research on artificial intelligence systems. Research areas may includeâ
+(A)
+artificial intelligence systems, including machine learning, computer vision, robotics, and hardware for accelerating artificial intelligence systems;
+(B)
+artificial intelligence-enabled systems;
+(C)
+fields and research areas that will contribute to the advancement of artificial intelligence systems, including information theory, causal and statistical inference, data mining, information extraction, human-robot interaction, and intelligent interfaces;
+(D)
+fields and research areas that increase understanding of human characteristics relevant to artificial intelligence systems, including computational neuroscience, reasoning and representation, speech and language, multi-agent systems, intelligent interfaces, human-artificial intelligence cooperation, and artificial intelligence-augmented human problem solving;
+(E)
+fields and research areas that increase understanding of learning, adaptability, and resilience beyond the human cognitive model, including topics in developmental biology, zoology, botany, morphological computation, and organismal systems;
+(F)
+fields and research areas that will contribute to the development and deployment of trustworthy artificial intelligence systems, includingâ
+(i)
+algorithmic explainability;
+(ii)
+methods to assess, characterize, and reduce bias in datasets and artificial intelligence systems; and
+(iii)
+safety and robustness of artificial intelligence systems, including assurance, verification, validation, security, and control;
+(G)
+privacy and security, including for datasets used for the training and inference of artificial intelligence systems, and software and hardware used in artificial intelligence systems;
+(H)
+fields and research areas that address the application of artificial intelligence systems to scientific discovery and societal challenges;
+(I)
+societal, ethical, safety, education, workforce, and security implications of artificial intelligence systems, including social impact of artificial intelligence systems on different groups within society, especially historically marginalized groups; and
+(J)
+qualitative and quantitative forecasting of future capabilities, applications, and impacts.
+(2)
+Engineering support
+In soliciting proposals for funding under this section, the Director shall permit applicants to include in their proposed budgets funding for software engineering support to assist with the proposed research.
+(3)
+Ethics
+(A)
+Sense of Congress
+It is the sense of Congress thatâ
+(i)
+a number of emerging areas of research, including artificial intelligence, have potential ethical, social, safety, and security implications that might be apparent as early as the basic research stage;
+(ii)
+the incorporation of ethical, social, safety, and security considerations into the research design and review process for Federal awards may help mitigate potential harms before they happen;
+(iii)
+the National Science Foundationâs intent to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to conduct a study and make recommendations with respect to governance of research in emerging technologies is a positive step toward accomplishing this goal; and
+(iv)
+the National Science Foundation should continue to work with stakeholders to understand and adopt policies that promote best practices for governance of research in emerging technologies at every stage of research.
+(B)
+Ethics statements
+(i)
+In general
+Not later than 18 months after the date of enactment of this Act, the Director shall amend grant proposal instructions to include a requirement for an ethics statement to be included as part of any proposal for funding prior to making the award. Such statement shall be considered by the Director in the review of proposals, taking into consideration any relevant input from the peer-reviewers for the proposal, and shall factor into award decisions as deemed necessary by the Director.
+(ii)
+Contents
+Such statements may include, as appropriateâ
+(I)
+the potential societal benefits of the research;
+(II)
+any foreseeable or quantifiable risks to society, including how the research could enable products, technologies, or other outcomes that could intentionally or unintentionally cause significant societal harm; and
+(III)
+how technical or social solutions can mitigate such risks and, as appropriate, a plan to implement such mitigation measures.
+(iii)
+Guidance
+The Director shall issue clear guidance on what constitutes a foreseeable or quantifiable risk described in clause (ii)(II), and to the extent practical harmonize this policy with existing ethical policies or related requirements for human subjects.
+(iv)
+Annual reports
+The Director shall encourage grantees to update their ethics statements as appropriate as part of the annual reports required by all grantees under the grant terms and conditions.
+(d)
+Education
+(1)
+In general
+The Director of the National Science Foundation shall award grants for education programs at the K-12, community college, undergraduate, graduate, postdoctoral, adult learning, and retraining stages of education thatâ
+(A)
+support the development of a diverse workforce pipeline for science and technology with respect to artificial intelligence systems;
+(B)
+increase awareness of ethical, social, safety, and security implications of artificial intelligence systems; and
+(C)
+promote the widespread understanding of artificial intelligence principles and methods to create an educated workforce and general public able to use products enabled by artificial intelligence systems and adapt to future societal and economic changes caused by artificial intelligence systems.
+(2)
+Use of funds
+Grants awarded under this section for education activities referred to in paragraph (1) may be used forâ
+(A)
+K-12, undergraduate, and community college curriculum development and other educational tools and methods in artificial intelligence related fields;
+(B)
+curriculum development in the field of technology ethics;
+(C)
+support for informal education activities for K-12 students to engage with artificial intelligence systems;
+(D)
+efforts to achieve equitable access to K-12 artificial intelligence education for populations and geographic areas traditionally underrepresented in the artificial intelligence field;
+(E)
+training and professional development programs, including innovative pre-service and in-service programs, in artificial intelligence and related fields for K-12 teachers;
+(F)
+efforts to improve the retention rate for researchers focusing on artificial intelligence systems at institutions of higher learning and other nonprofit research institutions;
+(G)
+outreach programs to educate the general public about the uses of artificial intelligence and its societal implications;
+(H)
+assessments of activities conducted under this subsection; and
+(I)
+any other relevant activities the Director determines will accomplish the aim described in paragraph (1).
+(3)
+Artificial intelligence traineeships and fellowships
+(A)
+Artificial intelligence traineeships
+(i)
+In general
+The Director of the National Science Foundation shall award grants to institutions of higher education to establish traineeship programs for graduate students who pursue artificial intelligence-related research leading to a masters or doctorate degree by providing funding and other assistance, and by providing graduate students opportunities for research experiences in government or industry related to the studentsâ artificial intelligence studies.
+(ii)
+Use of funds
+An institution of higher education shall use grant funds provided under clause (i) for the purposes ofâ
+(I)
+providing traineeships to students who are pursuing research in artificial intelligence leading to a masters or doctorate degree;
+(II)
+paying tuition and fees for students receiving traineeships who are citizens, nationals, or lawfully admitted permanent resident aliens of the United States;
+(III)
+creating and requiring courses or training programs in technology ethics for students receiving traineeships;
+(IV)
+creating opportunities for research in technology ethics for students receiving traineeships;
+(V)
+establishing scientific internship programs for students receiving traineeships in artificial intelligence at for-profit institutions, nonprofit research institutions, or government laboratories; and
+(VI)
+other costs associated with the administration of the program.
+(B)
+Artificial intelligence fellowships
+The Director of the National Science Foundation shall award fellowships to masters and doctoral students and postdoctoral researchers at institutions of higher education who are pursuing degrees or research in artificial intelligence and related fields, including in the field of technology ethics. In making such awards, the Director shallâ
+(i)
+ensure recipients of artificial intelligence fellowships are citizens, nationals, or lawfully admitted permanent resident aliens of the United States; and
+(ii)
+conduct outreach, including through formal solicitations, to solicit proposals from students and postdoctoral researchers seeking to carry out research in aspects of technology ethics with relevance to artificial intelligence systems.
+(e)
+Authorization of appropriations
+There are authorized to be appropriated to the National Science Foundation to carry out this sectionâ
+(1)
+$868,000,000 for fiscal year 2021;
+(2)
+$911,400,000 for fiscal year 2022;
+(3)
+$956,970,000 for fiscal year 2023;
+(4)
+$1,004,820,000 for fiscal year 2024; and
+(5)
+$1,055,060,000 for fiscal year 2025.
+V
+Department of Energy Artificial Intelligence Research Program
+501.
+Department of Energy Artificial Intelligence Research Program
+(a)
+In general
+The Secretary shall carry out a cross-cutting research and development program to advance artificial intelligence tools, systems, capabilities, and workforce needs and to improve the reliability of artificial intelligence methods and solutions relevant to the mission of the Department. In carrying out this program, the Secretary shall coordinate across all relevant offices and programs at the Department, including the Office of Science, the Office of Energy Efficiency and Renewable Energy, the Office of Nuclear Energy, the Office of Fossil Energy, the Office of Electricity, the Office of Cybersecurity, Energy Security, and Emergency Response, the Advanced Research Projects Agency-Energy, and any other relevant office determined by the Secretary.
+(b)
+Research areas
+In carrying out the program under subsection (a), the Secretary shall award financial assistance to eligible entities to carry out research projects on topics includingâ
+(1)
+the application of artificial intelligence systems to improve large-scale simulations of natural and other phenomena;
+(2)
+the study of applied mathematics, computer science, and statistics, including foundations of methods and systems of artificial intelligence, causal and statistical inference, and the development of algorithms for artificial intelligence systems;
+(3)
+the analysis of existing large-scale datasets from science and engineering experiments and simulations, including energy simulations and other priorities at the Department as determined by the Secretary using artificial intelligence tools and techniques;
+(4)
+the development of operation and control systems that enhance automated, intelligent decisionmaking capabilities;
+(5)
+the development of advanced computing hardware and computer architecture tailored to artificial intelligence systems, including the codesign of networks and computational hardware;
+(6)
+the development of standardized datasets for emerging artificial intelligence research fields and applications, including methods for addressing data scarcity; and
+(7)
+the development of trustworthy artificial intelligence systems, includingâ
+(A)
+algorithmic explainability;
+(B)
+analytical methods for identifying and mitigating bias in artificial intelligence systems; and
+(C)
+safety and robustness, including assurance, verification, validation, security, and control.
+(c)
+Technology transfer
+In carrying out the program under subsection (a), the Secretary shall support technology transfer of artificial intelligence systems for the benefit of society and United States economic competitiveness.
+(d)
+Facility use and upgrades
+In carrying out the program under subsection (a), the Secretary shallâ
+(1)
+make available high-performance computing infrastructure at national laboratories;
+(2)
+make any upgrades necessary to enhance the use of existing computing facilities for artificial intelligence systems, including upgrades to hardware;
+(3)
+establish new computing capabilities necessary to manage data and conduct high performance computing that enables the use of artificial intelligence systems; and
+(4)
+maintain and improve, as needed, networking infrastructure, data input and output mechanisms, and data analysis, storage, and service capabilities.
+(e)
+Ethics
+(1)
+In general
+Not later than 18 months after the date of enactment of this Act, the Secretary shall amend grant proposal instructions to include a requirement for an ethics statement to be included as part of any proposal for funding prior to making the award. Such statement shall be considered by the Secretary in the review of proposals, taking into consideration any relevant input from the peer-reviewers for the proposal, and shall factor into award decisions as deemed necessary by the Secretary. Such statements may include, as appropriateâ
+(A)
+the potential societal benefits of the research;
+(B)
+any foreseeable or quantifiable risks to society, including how the research could enable products, technologies, or other outcomes that could intentionally or unintentionally cause significant societal harm; and
+(C)
+how technical or social solutions can mitigate such risks and, as appropriate, a plan to implement such mitigation measures.
+(2)
+Guidance
+The Secretary shall issue clear guidance on what constitutes risks as described in section (1)(B), and to the extent practical harmonize this policy with existing ethical policies or related requirements for human subjects.
+(3)
+Annual reports
+The Secretary shall encourage awardees to update their ethics statements as appropriate as part of the annual reports required by all awardees under the grant terms and conditions.
+(f)
+Risk management
+The Secretary shall review agency policies for risk management in artificial intelligence related projects and issue as necessary policies and principles that are consistent with the framework developed under section 301(b).
+(g)
+Data privacy and sharing
+The Secretary shall review agency policies for data sharing with other public and private sector organizations and issue as necessary policies and principles that are consistent with the standards and guidelines submitted under section 301(c). In addition, the Secretary shall establish a streamlined mechanism for approving research projects or partnerships that require sharing sensitive public or private data with the Department.
+(h)
+Partnerships with other Federal agencies
+The Secretary may request, accept, and provide funds from other Federal departments and agencies, State, United States territory, local, or Tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support a research project or partnership carried out under this section. The Secretary may not give any special consideration to any agency or entity in return for a donation.
+(i)
+Stakeholder engagement
+In carrying out the activities authorized in this section, the Secretary shallâ
+(1)
+collaborate with a range of stakeholders including small businesses, institutes of higher education, industry, and the National Laboratories;
+(2)
+leverage the collective body of knowledge from existing artificial intelligence and machine learning research; and
+(3)
+engage with other Federal agencies, research communities, and potential users of information produced under this section.
+(j)
+Authorization of appropriations
+There are authorized to be appropriated to the Department to carry out this sectionâ
+(1)
+$200,000,000 for fiscal year 2021;
+(2)
+$214,000,000 for fiscal year 2022;
+(3)
+$228,980,000 for fiscal year 2023;
+(4)
+$245,000,000 for fiscal year 2024; and
+(5)
+$262,160,000 for fiscal year 2025.
+(k)
+Definitions
+In this section:
+(1)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(2)
+Department
+The term
+Department
+means the Department of Energy.
+(3)
+National laboratory
+The term
+national laboratory
+has the meaning given such term in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+).
+(4)
+Eligible entities
+The term
+eligible entities
+meansâ
+(A)
+an institution of higher education;
+(B)
+a National Laboratory;
+(C)
+a Federal research agency;
+(D)
+a State research agency;
+(E)
+a nonprofit research organization;
+(F)
+a private sector entity; or
+(G)
+a consortium of 2 or more entities described in subparagraph (A) through (F).

@@ -1,0 +1,162 @@
+1.
+Short title
+This Act may be cited as the
+Department of Veterans Affairs Information Technology Reform Act of 2019
+.
+2.
+Management of Department of Veterans Affairs information technology projects
+(a)
+Update of review process and Information Technology Dashboard Chief Information Officer ratings
+(1)
+In general
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall update the review process for information technology projects of the Department of Veterans Affairs to ensure that active risks are factored into the Information Technology Dashboard Chief Information Officer ratings.
+(2)
+Review by Comptroller General of the United States
+Not later than one year after the date on which the Secretary completes updating the review process under paragraph (1), the Comptroller General of the United States shall complete a review such process.
+(b)
+Annual report on project budget discrepancies
+(1)
+In general
+Each fiscal year, not later than 120 days after the end of the previous fiscal year, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on covered information technology projects of the Department with respect to which the amounts that were obligated and the amounts expended by the Department in that fiscal year were, in aggregate, 10 percent or more greater or less than the amount budgeted for the project in that fiscal year.
+(2)
+Covered information technology projects
+For purposes of this subsection, a covered information technology project of the Department is an information technology project of the Department for which the Secretary estimates the Department will expend or obligate $25,000,000 or more for development and sustainment over a three-year lifecycle.
+(3)
+Mitigation plans
+Each report submitted under paragraph (1) shall include, for each project described in the report, a plan to rectify the budget discrepancy and improve the accuracy of the budget formulation process of the Department.
+3.
+Plan for expenditures relating to Department of Veterans Affairs information technology projects
+and investments
+(a)
+Plan required
+(1)
+In general
+The Secretary of Veterans Affairs shall submit to the appropriate committees of Congress a plan for expenditures of the Department of Veterans Affairs relating to large information technology projects and investments.
+(2)
+Contents
+The report submitted under paragraph (1) shall include the following:
+(A)
+Identification of each information technology project and investment planned by the Secretary for which the Secretary estimates the Department will expend or obligate $25,000,000 or more for development and sustainment over a three-year lifecycle.
+(B)
+For each such project and investment, a description ofâ
+(i)
+the functional and performance capabilities to be delivered and the mission benefits to be realized;
+(ii)
+the estimated lifecycle cost, including estimates for development as well as maintenance and operations; and
+(iii)
+key milestones to be met.
+(C)
+Demonstration that each project and investment isâ
+(i)
+consistent with the Information Technology Modernization Plan of the Department, or successor plan;
+(ii)
+being managed in accordance with applicable lifecycle management policies and guidance; and
+(iii)
+subject to applicable planning and investment control requirements of the Department.
+(D)
+A statement as to whether the plan has been reviewed by the Comptroller General of the United States.
+(b)
+Definition of appropriate committees of Congress
+In this section, the term
+appropriate committees of Congress
+meansâ
+(1)
+the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate; and
+(2)
+the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives.
+4.
+Budget justification for Department of Veterans Affairs information technology programs
+The Secretary of Veterans Affairs shall ensure that whenever the budget justification materials are submitted to Congress in support of the Department of Veterans Affairs budget for a fiscal year (as submitted with the budget of the President for such fiscal year under section 1105(a) of title 31, United States Code), such budget justification materials include a specific accounting, including life cycle costs, of all funds requested for the information technology programs of the Department.
+5.
+Department of Veterans Affairs compliance with Office of Management and Budget Data Center
+Optimization Initiative
+(a)
+Requirement
+The Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs complies with all applicable requirements of the Data Center Optimization Initiative (DCOI) of the Office of Management and Budget, including byâ
+(1)
+fully identifying the data center inventory of the Department; and
+(2)
+meeting any targets assigned by the Director of the Office of Management and Budget pursuant to such initiative regarding data center closures, optimization savings, and optimization metrics.
+(b)
+Plan for compliance
+Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a plan to fully comply with the requirements described in subsection (a).
+(c)
+Annual report
+Not later than March 31, 2020, and in March of each year thereafter until the date on which the Director of the Office of Management and Budget determines that the Department is in full compliance with the requirements of the initiative referred to in subsection (a), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the progress of the Secretary in carrying out the plan submitted under subsection (b).
+6.
+Annual list of Department of Veterans Affairs information technology projects
+(a)
+Annual list
+Not less frequently than once each year, the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress a comprehensive, prioritized list of all information technology projects being funded by the Department of Veterans Affairs, disaggregated by business line or portfolio division.
+(b)
+Definition of appropriate committees of Congress
+In this section, the term
+appropriate committees of Congress
+meansâ
+(1)
+the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate; and
+(2)
+the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives.
+7.
+Assessment of suitability of Department of Veterans Affairs information technology investments for
+migration to cloud computing service
+(a)
+Assessment required
+Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs, acting through the Chief Information Officer of the Department of Veterans Affairs, shall complete an assessment, in accordance with guidance from the Office of Management and Budget, of all information technology investments of the Department of Veterans Affairs to determine the suitability of the investments for migration to a cloud computing service.
+(b)
+Mechanism To track savings
+The Secretary shall create a consistent and repeatable mechanism to track savings and cost avoidances fromâ
+(1)
+migration of information technology investments to cloud computing services; and
+(2)
+deployment of cloud computing services.
+(c)
+Report on spending
+Not later than 180 days after the date of the enactment of this Act, the Secretary, acting through the Chief, shall submit to the appropriate committees of Congress a report on spending by the Department on information technology investments, disaggregated by information technology investment.
+(d)
+Definition of appropriate committees of Congress
+In this section, the term
+appropriate committees of Congress
+meansâ
+(1)
+the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate; and
+(2)
+the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives.
+8.
+Department of Veterans Affairs information technology management policies with respect to role of
+Chief Information Officer
+The Secretary of Veterans Affairs shall ensure that the information technology management policies of the Department of Veterans Affairs address the role of the Chief Information Officer of the Department with respect to the following key responsibilities:
+(1)
+Information technology strategic planning.
+(2)
+Information technology workforce.
+(3)
+Information technology planning, programming, and budgeting.
+(4)
+Information technology investment management.
+(5)
+Innovations and emerging technologies.
+9.
+Continuous monitoring strategy to improve information security programs of Department of Veterans Affairs
+In order to improve information security programs of the Department of Veterans Affairs, the Secretary of Veterans Affairs shall develop a continuous monitoring strategy that addresses the following:
+(1)
+Organization-defined metrics.
+(2)
+Frequency of monitoring metrics.
+(3)
+Ongoing status monitoring of metrics.
+(4)
+Reporting of security status.
+10.
+Revision of processes of Department of Veterans Affairs Office of Information and Technology
+relating to risk management
+(a)
+In general
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs, acting through the Chief Information Officer of the Department of Veterans Affairs, shall revise the processes of the Office of Information and Technology of the Department relating to risk management to include the following:
+(1)
+Determining costs and benefits of implementing the risk mitigation plan for each risk.
+(2)
+Collecting performance measures on risk handling activities.
+(b)
+Review by Comptroller General of the United States
+Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall complete a review of the processes revised pursuant to subsection (a).

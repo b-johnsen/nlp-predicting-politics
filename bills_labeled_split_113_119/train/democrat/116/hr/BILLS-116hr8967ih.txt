@@ -1,0 +1,386 @@
+1.
+Short title
+This Act may be cited as the
+Federal All-Payer Claims Database Act of 2020
+.
+2.
+Establishment and maintenance of health care claims database to lower health care costs
+(a)
+In general
+Not later than the date that is 180 days after the date of the enactment of this Act, the Secretary of Health and Human Services (referred to in this section as the
+Secretary
+), acting through the Administrator of the Centers for Medicare & Medicaid Services and in consultation with the Secretary of Labor, shall award a contract in accordance with subsection (b) to an eligible nonprofit entity described in such subsection for purposes of carrying out the requirements of such entity under this section.
+(b)
+Contract with eligible nonprofit entity
+(1)
+Competitive procedures
+The Secretary shall award the contract described in subsection (a) to an eligible nonprofit entity described in paragraph (2) using full and open competition procedures pursuant to
+chapter 33
+of title 41, United States Code.
+(2)
+Eligible nonprofit entity
+An eligible nonprofit entity described in this paragraph is a nonprofit entity thatâ
+(A)
+is governed by a board that includesâ
+(i)
+representatives of the academic research community; and
+(ii)
+individuals with expertise in employer-sponsored insurance, research using health care claims data, and actuarial analysis; and
+(B)
+conducts its business in an open and transparent manner that provides the opportunity for public comment on its activities.
+(3)
+Considerations
+In awarding a contract to an eligible nonprofit entity under this section, the Secretary shall consider the experience of each eligible nonprofit entity inâ
+(A)
+collecting and aggregating health care claims data, ensuring quality assurance and security of such claims data, and securing such claims data;
+(B)
+supporting academic research on health care costs, spending, and utilization for and by privately insured patients;
+(C)
+working with large health insurance issuers, group health plans, and third-party administrators of group health plans to assemble a health care claims database;
+(D)
+effectively collaborating with and engaging stakeholders to develop reports;
+(E)
+meeting budgets and timelines, including with respect to developing reports; and
+(F)
+facilitating the creation of, or supporting, State all-payer claims databases.
+(4)
+Period of contract
+(A)
+In general
+A contract awarded under this section shall be for a period of 5 years and may be renewed, subject to the full and open competition procedures described in paragraph (1).
+(B)
+Transition of contract
+In the case that a contract is not renewed for a subsequent 5-year period under subparagraph (A) after the use of the full and open competition procedures described in paragraph (1), the Secretary shall require the entity whose contract is expiring to transfer all data maintained by the health care claims database described in paragraph (5)(A) to the entity to whom the Secretary has awarded a contract for the subsequent 5-year period. The entity whose contract is expiring may not disclose such data to any other entity or keep such data after the expiration of such contract.
+(5)
+Requirements of contract
+Each contract awarded under this section shall require the entity awarded such contract to carry out each of the following:
+(A)
+Establish and maintain a health care claims database in accordance with the requirements of the HIPAA privacy regulation.
+(B)
+Ensure that such health care claims database makes available data submitted under subsection (d) in accordance with the requirements of subsection (c).
+(C)
+In the case that the contract is not renewed after the end of the 5-year period of the contract, carry out the transfer of data required pursuant to paragraph (4)(B) in accordance with a schedule and process determined by the Secretary.
+(D)
+Comply with the HIPAA privacy regulation in the same manner and to the same extent as such regulation applies to a covered entity (as defined pursuant to such regulation).
+(E)
+Strictly limit staff access to such health care claims database to staff with appropriate training, clearance, and background checks, and require such staff to undergo regular privacy and security training.
+(F)
+Maintain effective security standards for transferring data from such health care claims database and making such data available to all individuals and entities who are authorized users pursuant to subsection (c)(2).
+(G)
+Adhere to best security practices with respect to the management and use of such data for health services research, in accordance with applicable Federal privacy law.
+(H)
+Report on the security methods of the entity toâ
+(i)
+the Secretary;
+(ii)
+the Committee on Health, Education, Labor, and Pensions, the Committee on Finance, and the Committee on Commerce, Science, and Transportation of the Senate; and
+(iii)
+the Committee on Education and Labor, the Committee on Energy and Commerce, the Committee on the Judiciary, and the Committee on Ways and Means of the House of Representatives.
+(c)
+Availability of data from health care claims database
+(1)
+In general
+Subject to paragraph (2), the entity maintaining the health care claims database described in subsection (b)(5)(A) shall make available, at cost, the data submitted under subsection (d)â
+(A)
+to patients to inform such patients about the cost, quality, and value of their health care;
+(B)
+to health care providers and hospitalsâ
+(i)
+to assist such providers and hospitals in making informed choices while providing health care; and
+(ii)
+to enable such providers and hospitals to improve health care services provided to patients and health care outcomes for such patients by benchmarking their performance against that of other health care providers and hospitals;
+(C)
+to group health plans and health insurance issuers offering individual or group health insurance coverage to assist such group health plans and health insurance issuers in evaluating and reducing health care costs for enrollees of such group health plans and individual or group health insurance coverage, respectively;
+(D)
+to States to facilitate State-led initiatives to lower health care costs and improve the quality of health care;
+(E)
+to any State all-payer claims database and regional health care claims database operated pursuant to the authorization of each State covered by such regional health care claims database;
+(F)
+to any individual or entity conducting research;
+(G)
+to the Secretary of Defense for purposes of carrying out the TRICARE program under
+chapter 55
+of title 10, United States Code;
+(H)
+to the Director of the Office of Personnel Management for purposes of carrying out the Federal Employees Health Benefits Program established under
+chapter 89
+of title 5, United States Code; and
+(I)
+to the Director of the Congressional Budget Office, the Comptroller General of the United States, the Executive Director of the Medicare Payment Advisory Commission, and the Executive Director of the Medicaid and CHIP Payment Advisory Commission.
+(2)
+Authorization for access to data
+(A)
+In general
+The entity maintaining the health care claims database described in subsection (b)(5)(A) may only make available the data described in paragraph (1) to an individual or entity described in any of subparagraphs (A) through (F) of such paragraph if such individual or entity submits an application to such entity requesting authorization for access to such database in accordance with this paragraph.
+(B)
+Application
+An application under this paragraph shall be submitted at such time, in such manner, and containing such information as the Secretary may require and shall includeâ
+(i)
+in the case of an individual or entity requesting access to the health care claims database described in subsection (b)(5)(A) for research purposesâ
+(I)
+a description of the uses and methodologies for evaluating health system performance using the data from such database; and
+(II)
+documentation of approval of such research purposes by an institutional review board, if applicable for a particular plan of research; and
+(ii)
+in the case of a group health plan, health insurance issuer, third-party administrator of a group health plan, or health care provider requesting access to such health care claims database for the purpose of quality improvement or cost-containment, a description of the intended uses for the data from such database.
+(C)
+Data use and confidentiality agreement
+Upon approval of an application under subparagraph (B), the authorized user shall enter into a data use and confidentiality agreement with the entity that approved such application, which shall include a prohibition on attempts to reidentify and disclose protected health information and proprietary financial information. In the case of an approval of an application for quality improvement or cost-containment purposes under subparagraph (B)(ii), access to data from the health care claims database described in subsection (b)(5)(A) shall be provided in a form and manner such that the authorized user may not obtain individually identifiable price information with respect to direct competitors.
+(3)
+Availability of reports and analyses based on data
+(A)
+In general
+Subject to subparagraph (B), the entity maintaining the health care claims database described in subsection (b)(5)(A), in consultation with the advisory committee convened under subsection (e), shall make available to all individuals and entities who are authorized users pursuant to paragraph (2) any report or analysis based on data from such database, including aggregate data sets, free of charge.
+(B)
+Customized reports
+Group health plans may request customized reports from the entity maintaining the health care claims database described in subsection (b)(5)(A), at cost, but subject to the requirements of the HIPPA privacy regulation.
+(d)
+Submission of data to health care claims database
+(1)
+In general
+Subject to paragraphs (2) and (3), a group health plan (through its sponsor, third-party administrator, pharmacy benefit manager, or other entity designated by the group health plan) or a health insurance issuer offering group or individual health insurance coverage shall electronically submit to the health care claims database maintained under this section all claims data (including claims with respect to treatment of substance use disorders and prescription drug claims) with respect to the plan or group or individual health insurance coverage, respectively.
+(2)
+Scope of information and format of submission
+The entity maintaining the health care claims database under this section, in consultation with the advisory committee convened under subsection (e), shallâ
+(A)
+specify the data elements required to be submitted under paragraph (1), which shall include all data related to transactions described in subparagraphs (A) and (E) of section 1173(a)(2) of the Social Security Act (
+42 U.S.C. 1320dâ2(a)(2)
+), including all data elements normally present in such transactions when adjudicated, and enrollment information;
+(B)
+specify the form and manner for submissions under this subsection and the historical period to be included in the initial submission; and
+(C)
+offer an automated submission option to minimize administrative burdens relating to the submission of data under this subsection.
+(3)
+De-identification of data
+The entity maintaining the health care claims database under this section, in consultation with the advisory committee convened under subsection (e), shallâ
+(A)
+establish a process under which data is de-identified in accordance with section 164.514(a) of title 45, Code of Federal Regulations (or any successor regulations), while retaining the ability to link data longitudinally for the purposes of research on cost and quality and the ability to complete risk adjustment and geographic analysis;
+(B)
+ensure that any third-party subcontractors who perform the de-identification process described in subparagraph (A) retain the minimum necessary information to perform such process and adhere to effective security and encryption practices in data storage and transmission;
+(C)
+store claims and other data collected under this subsection only in de-identified form, in accordance with section 164.514(a) of title 45, Code of Federal Regulations (or any successor regulations); and
+(D)
+ensure that data is encrypted, in accordance with the HIPAA privacy regulation.
+(4)
+Other data
+(A)
+Medicaid data
+The Administrator of the Centers for Medicare & Medicaid Services shall submit all health care claims data with respect to the Medicare program under title XVIII of the Social Security Act (
+42 U.S.C. 1395
+et seq.) and the Medicaid program under title XIX of such Act (
+42 U.S.C. 1396
+et seq.) in accordance with scope, format, and de-identification requirements applicable pursuant to paragraphs (2) and (3).
+(B)
+TRICARE
+The Secretary of Defense shall submit all health care claims data with respect to the TRICARE program under
+chapter 55
+of title 10, United States Code, in accordance with scope, format, and de-identification requirements applicable pursuant to paragraphs (2) and (3).
+(C)
+FEHB
+The Director of the Office of Personnel Management shall submit all health care claims data with respect to the Federal Employee Health Benefits program in accordance with scope, format, and de-identification requirements applicable pursuant to paragraphs (2) and (3).
+(D)
+State data
+The entity maintaining the health care claims database under this section may collect data from State all-payer claims databases that seek access to such health care claims database. A State may require health insurance issuers and other payers to submit claims data to a State-mandated all-payer claims database, provided that such data is submitted in a form and manner established by the Secretary. A State may also require health insurance issuers and other payers to submit claims data to the health care claims database maintained under this section, provided that such data is submitted in a form and manner established by the Secretary and consistent with scope, format, and de-identification requirements applicable pursuant to paragraphs (2) and (3).
+(5)
+Prohibition
+Any individual or entity required to submit data under this subsection may not place any restrictions on the use of such data by authorized users under subsection (c)(2).
+(e)
+Advisory committee
+(1)
+In general
+Not later than the date that is 180 days after the date of the enactment of this Act, the Secretary shall convene an advisory committee (referred to in this subsection as the
+Committee
+) to advise the Secretary, any entity awarded a contract under subsection (b), and Congress on the establishment, operations, and use of the health care claims database established and maintained under this section.
+(2)
+Membership
+(A)
+Appointment
+In accordance with clause (ii), the Secretary, in consultation with the Comptroller General of the United States, shall appoint members to the Committee who have distinguished themselves in the fields of health services research, health economics, health informatics, or the governance of State all-payer claims databases, or who represent organizations likely to submit data to or use the health care claims database established and maintained under this section, including patients, health care providers, group health plans, health insurance issuers, and third-party administrators of group health plans.
+(B)
+Composition
+For purposes of clause (i)â
+(i)
+the Secretary shall appoint to the Committeeâ
+(I)
+one member to serve as the chair of the Committee;
+(II)
+the Assistant Secretary for Planning and Evaluation of the Department of Health and Human Services;
+(III)
+one representative from the Centers for Medicare & Medicaid Services;
+(IV)
+one representative from the Agency for Health Research and Quality;
+(V)
+one representative from the Office for Civil Rights of the Department of Health and Human Services with expertise in data privacy and security; and
+(VI)
+one representative of the National Center for Health Statistics; and
+(ii)
+the Comptroller General of the United States shall appoint to the Committeeâ
+(I)
+one representative from an employer that sponsors a group health plan;
+(II)
+one representative from an employee organization that sponsors a group health plan;
+(III)
+one academic researcher with expertise in health economics or health services research;
+(IV)
+one patient advocate;
+(V)
+one representative of Designated Standards Maintenance Organizations named by the Secretary of Health and Human Services to maintain standards adopted under regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (
+42 U.S.C. 1320dâ2
+note);
+(VI)
+one representative with expertise in the governance of State all-payer claims databases; and
+(VII)
+two additional members.
+(C)
+Terms and vacancies
+Members of the Committee shall serve three-year terms on a staggered basis. A vacancy on the Committee shall be filled by appointment in a manner consistent with the requirements of this subsection not later than 90 days after the vacancy arises.
+(3)
+Duties
+The Committee shallâ
+(A)
+assist and advise the Secretary on the management of contracts awarded under subsection (b);
+(B)
+assist and advise entities awarded such contracts in establishingâ
+(i)
+the appropriate uses of data by all individuals and entities who are authorized users pursuant to subsection (c)(2), including developing standards for the approval of applications submitted pursuant to such subsection; and
+(ii)
+the appropriate formats and methods for making available to the public reports and analyses based on the health care claims database maintained under this section;
+(C)
+conduct an annual review of whether data from such health care claims database was used according to the appropriate uses described in subparagraph (B)(ii);
+(D)
+report, as appropriate, to the Secretary and Congress on the operations of such health care claims database and opportunities to better achieve the objectives of this section;
+(E)
+establish additional restrictions on researchers who receive compensation from entities specified by the Committee in order to protect proprietary financial information; and
+(F)
+establish objectives for research and public reporting.
+(f)
+Funding
+(1)
+Initial funding
+There are authorized to be appropriated, and there are appropriated, out of monies in the Treasury not otherwise appropriated, $20,000,000 for fiscal year 2021, for the implementation of the initial contract and establishment of the database under this section.
+(2)
+Ongoing funding
+There are authorized to be appropriated $15,000,000 for each of fiscal years 2022 through 2026, for purposes of carrying out this section (other than the grant program under subsection (h)).
+(g)
+Annual report
+Not later than March 1, 2022, and March 1 of each year thereafter, the entity with a contract in effect under subsection (b) shall submit to Congress and the Secretary, and make publicly available on an internet website, a report containing a description ofâ
+(1)
+trends in the price, utilization, and total spending on health care services, including a geographic analysis of differences in such trends;
+(2)
+limitations in the data set;
+(3)
+progress towards the objectives of this section; and
+(4)
+the performance by the entity of the duties required under such contract.
+(h)
+Grants to States
+(1)
+In general
+The Secretary may award grants to States for the purpose of establishing and maintaining State all-payer claims databases that improve transparency of health care claims data.
+(2)
+Funding
+There is authorized to be appropriated $100,000,000 for the period of fiscal years 2021 through 2028 for the purpose of awarding grants to States under this subsection.
+(i)
+Exemption from public disclosure
+(1)
+In general
+Data submitted to the health care claims database under subsection (d) shall not be considered public records and shall be exempt from any Federal law relating to public disclosure requirements.
+(2)
+Restrictions on uses for certain proceedings
+Such data may not be subject to discovery or admission as public information or evidence in judicial or administrative proceedings without the consent of the affected parties.
+(j)
+Definitions
+In this section:
+(1)
+HIPAA privay regulation
+The term
+HIPAA privacy regulation
+has the meaning given such term in section 1180(b)(3) of the Social Security Act (
+42 U.S.C. 1320dâ9(b)(3)
+).
+(2)
+PHSA definitions
+The terms
+group health plan
+,
+group health insurance coverage
+,
+health insurance issuer
+, and
+individual health insurance coverage
+have the meanings given such terms in section 2791 of the Public Health Service Act (
+42 U.S.C. 300ggâ91
+).
+(3)
+Protected health information
+The term
+protected health information
+has the meaning given such term in section 160.103 of title 45, Code of Federal Regulations (or any successor regulations).
+(4)
+Proprietary financial information
+The term
+proprietary financial information
+â
+(A)
+means data that would disclose the terms of a specific contract between an individual health care provider or facility and a specific group health plan, Medicaid managed care organization or other managed care entity, or health insurance issuer offering group or individual health insurance coverage; and
+(B)
+does not include any billing or payment information from claims between such a provider or facility and such a health plan, managed care organization or other managed care entity, or health insurance issuer.
+(k)
+Conforming amendments
+(1)
+PHSA
+Subpart II of part A of title XXVII of the Public Health Service Act (
+42 U.S.C. 300ggâ11
+et seq.) is amended by adding at the end the following new section:
+2730.
+Health care claims database reporting requirement
+A group health plan and a health insurance issuer offering group or individual health insurance coverage shall comply with the provisions of section 1(d) of the Federal All-Payer Claims Database Act of 2020.
+.
+(2)
+ERISA
+(A)
+In general
+Subpart B of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (
+29 U.S.C. 1185
+et seq.) is amended by adding at the end the following new section:
+716.
+Health care claims database reporting requirement
+A group health plan and a health insurance issuer offering group health insurance coverage shall comply with the provisions of section 1(d) of the Federal All-Payer Claims Database Act of 2020.
+.
+(B)
+Clerical amendment
+The table of contents in section 1 of such Act is amended by inserting after the item relating to section 714 the following new items:
+Sec. 715. Additional market reforms.
+Sec. 716. Health care claims database reporting requirement.
+.
+(3)
+IRC
+(A)
+In general
+Subchapter B of
+chapter 100
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
+9816.
+Health care claims database reporting requirement
+A group health plan shall comply with the provisions of section 1(d) of the Federal All-Payer Claims Database Act of 2020.
+.
+(B)
+Clerical amendment
+The table of sections for such subchapter is amended by adding at the end the following new items:
+Sec. 9815. Additional market reforms.
+Sec. 9816. Health care claims database reporting requirement.
+.
+3.
+Study and reports by Comptroller General
+(a)
+Study
+The Comptroller General of the United States shall conduct a study onâ
+(1)
+the performance of each entity awarded a contract under subsection (b) of section 1;
+(2)
+the privacy and security of any data submitted to such entity under subsection (d) of such section; and
+(3)
+the costs incurred by such entity in performing duties under such a contract.
+(b)
+Reports
+Not later than two years after the effective date of the first contract awarded under section 1(b), and again not later than four years after such effective date, the Comptroller General of the United States shall submit to Congress a report containing the results of the study conducted under subsection (a), together with recommendations for such legislation and administrative action as the Comptroller General determines appropriate.

@@ -1,0 +1,81 @@
+1.
+Short title
+This Act may be cited as the
+Prescription Drug Price Transparency Act
+.
+2.
+Pharmacy benefits manager standards under the Medicare program for prescription drug plans and MAâPD plans
+(a)
+In general
+Section 1860Dâ12(b) of the Social Security Act (
+42 U.S.C. 1395wâ112(b)
+) is amended by adding at the end the following new paragraph:
+(8)
+Pharmacy benefits manager transparency requirements
+Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor or with an MA organization offering an MAâPD plan under part C shall provide that the sponsor or organization, respectively, may not enter into a contract with any pharmacy benefits manager (referred to in this paragraph as a
+PBM
+) to manage the prescription drug coverage provided under such plan, or to control the costs of the prescription drug coverage under such plan, if the PBMâ
+(A)
+requires that a plan enrollee use a retail pharmacy, mail order pharmacy, specialty pharmacy, or other pharmacy entity providing pharmacy services in which the PBM has an ownership interest or that has an ownership interest in the PBM; or
+(B)
+provides an incentive (including a reduced copayment or coinsurance) to a plan enrollee to encourage the enrollee to use a retail pharmacy, mail order pharmacy, specialty pharmacy, or other pharmacy entity providing pharmacy services in which the PBM has an ownership interest or that has an ownership interest in the PBM, if the incentive is applicable only to such pharmacies.
+.
+(b)
+Regular update of prescription drug pricing standard
+Paragraph (6) of section 1860Dâ12(b) of the Social Security Act (
+42 U.S.C. 1395wâ112(b)
+) is amended to read as follows:
+(6)
+Regular update of prescription drug pricing standard
+(A)
+In general
+If the PDP sponsor of a prescription drug plan (or MA organization offering an MAâPD plan) uses a standard for reimbursement (as described in subparagraph (B)) of pharmacies based on the cost of a drug, each contract entered into with such sponsor under this part (or organization under part C) with respect to the plan shall provide that the sponsor (or organization) shallâ
+(i)
+update such standard not less frequently than once every 7 days, beginning with an initial update on January 1 of each year, to accurately reflect the market price of acquiring the drug;
+(ii)
+disclose to applicable pharmacies and the respective contracting entities of such pharmacies the sources used for making any such update immediately without requirement of request;
+(iii)
+if the source for such a standard for reimbursement is not publicly available, disclose to the applicable pharmacies and the respective contracting entities of such pharmacies all individual drug prices to be so updated in advance of the use of such prices for the reimbursement of claims;
+(iv)
+establish a process for applicable pharmacies and respective contracting entities to appeal, investigate, and resolve disputes regarding individual drug prices that are less than the pharmacy acquisition price for such drug, which must be adjudicated within 7 days of the pharmacy filing its appeal; and
+(v)
+provide to applicable pharmacies and respective contracting entities all such pricing data in an .xml spreadsheet format or a comparable easily accessible and complete spreadsheet format.
+(B)
+Prescription drug pricing standard defined
+For purposes of subparagraph (A), a standard for reimbursement of a pharmacy is any methodology or formula for varying the pricing of a drug or drugs during the term of the pharmacy reimbursement contract that is based on the cost of the drug involved, including drug pricing references and amounts that are based upon average wholesale price, wholesale average cost, average manufacturer price, average sales price, maximum allowable cost (MAC), or other costs, whether publicly available or not.
+.
+(c)
+Effective date
+The amendments made by this section shall apply to plan years beginning on or after January 1, 2020.
+3.
+Prescription drug transparency in the Federal Employees Health Benefits program
+(a)
+In general
+Section 8902 of title 5, United States Code, is amended by adding at the end the following new subsections:
+(p)
+A contract may not be made or a plan approved under this chapter under which a carrier has an agreement with a pharmacy benefits manager (in this subsection referred to as a
+PBM
+) to manage prescription drug coverage or to control the costs of the prescription drug coverage if the PBMâ
+(1)
+requires that an individual enrolled under such contract or plan use a retail pharmacy, mail order pharmacy, specialty pharmacy, or other pharmacy entity providing pharmacy services in which the PBM has an ownership interest or that has an ownership interest in the PBM; or
+(2)
+provides an incentive (including a reduced copayment or coinsurance) to a plan enrollee to encourage the enrollee to use a retail pharmacy, mail order pharmacy, specialty pharmacy, or other pharmacy entity providing pharmacy services in which the PBM has an ownership interest or that has an ownership interest in the PBM, if the incentive is applicable only to such pharmacies.
+(q)
+(1)
+If a contract made or plan approved under this chapter provides for a standard for reimbursement (as described in paragraph (2)) with respect to a prescription drug plan, such contract or plan shall provide that the applicable carrierâ
+(A)
+update such standard not less frequently than once every 7 days, beginning with an initial update on January 1 of each year, to accurately reflect the market price of acquiring the drug;
+(B)
+disclose to applicable pharmacies and the respective contracting entities of such pharmacies the sources used for making any such update immediately without requirement of request;
+(C)
+if the source for such a standard for reimbursement is not publicly available, disclose to the applicable pharmacies and respective contracting entities of such pharmacies all individual drug prices to be so updated in advance of the use of such prices for the reimbursement of claims;
+(D)
+establish a process for applicable pharmacies and respective contracting entities to appeal, investigate, and resolve disputes regarding individual drug prices that are less than the pharmacy acquisition price for such drug, which must be adjudicated within 7 days of the pharmacy filing its appeal; and
+(E)
+provide to applicable pharmacies and respective contracting entities all such pricing data in an .xml spreadsheet format or a comparable easily accessible and complete spreadsheet format.
+(2)
+For purposes of paragraph (1), a standard for reimbursement of a pharmacy is any methodology or formula for varying the pricing of a drug or drugs during the term of the pharmacy reimbursement contract that is based on the cost of the drug involved, including drug pricing references and amounts that are based upon average wholesale price, wholesale average cost, average manufacturer price, average sales price, maximum allowable cost, or other costs, whether publicly available or not.
+.
+(b)
+Application
+The amendment made by subsection (a) shall apply to any contract entered into under section 8902 of title 5, United States Code, on or after the date of enactment of this section.

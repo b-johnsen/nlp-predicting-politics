@@ -1,0 +1,151 @@
+1.
+Short title
+This Act may be cited as the
+Privacy Score Act of 2020
+.
+2.
+Privacy framework and scores
+(a)
+Privacy framework
+(1)
+Development
+The Commission shall develop a framework for assessing the privacy practices of interactive computer services (in this section referred to as the
+privacy framework
+).
+(2)
+Framework criteria
+The privacy framework shall include an assessment of the following criteria, with respect to an interactive computer service:
+(A)
+Whether the service collects, stores, uses, and shares only covered information necessary to perform a relevant user-facing purpose.
+(B)
+The level of transparency of the service regarding the privacy practices of the service, including the extent to which the service communicates to users the following:
+(i)
+What covered information may be collected.
+(ii)
+How such information may be stored.
+(iii)
+How such information may be used.
+(iv)
+With whom such information may be shared.
+(C)
+Whether the service offers users any options to designate preferences for covered information collected, stored, used, or shared in excess of the minimum information necessary to perform a relevant user-facing purpose, and whether such preferences are respected.
+(D)
+The risk that covered information collected by the service may be used to identify users, while taking into consideration whether the identification is necessary to perform a relevant user-facing purpose of the service and whether a reasonable user would be aware of such purpose.
+(E)
+The security of sensitive covered information collected by the service.
+(F)
+Any other criteria the Commission determines necessary to protect the privacy of users with respect to covered information.
+(b)
+Privacy scores
+(1)
+Development
+The Commission shall use the privacy framework to develop a system for issuing a score for an interactive computer service that reflects the extent to which the service protects the privacy of the covered information of users, taking into consideration the purpose of the service and options offered to users with respect to covered information (in this section referred to as a
+privacy score
+).
+(2)
+Issuance of score
+The Commissionâ
+(A)
+shall issue a privacy score for the 100 interactive computer services that have the most unique United States users each year (as determined by the Commission); and
+(B)
+may issue a privacy score for interactive computer services not described in subparagraph (A) with a high number of unique United States users (as determined by the Commission).
+(3)
+Evaluation of score
+Each year, the Commission shall evaluate interactive computer services to determineâ
+(A)
+whether the interactive computer services required to be issued a privacy score under paragraph (2)(A) have changed;
+(B)
+whether the interactive computer services eligible to be issued a privacy score under paragraph (2)(B) have changed; and
+(C)
+whether to modify a privacy score previously issued for an interactive computer service based on changes inâ
+(i)
+the extent to which the service protects the privacy of the covered information of users;
+(ii)
+the purposes of the service; or
+(iii)
+the options offered to users with respect to covered information collected by the service.
+(4)
+Publication of score
+(A)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Commission shall publish on a public website of the Commission the privacy scores issued pursuant to paragraph (2), the corresponding dates of issuance, and a link to the online privacy policy of the interactive computer service.
+(B)
+Updates
+Beginning on the date that is 1 year after the date on which the Commission initially publishes the privacy scores under subparagraph (A), and annually thereafter, the Commission shall publish updates of such scores based on the evaluation conducted under paragraph (3) for the relevant year.
+(C)
+Decline in unique United States users
+Notwithstanding the Commission determining that an interactive computer service for which a privacy score has been issued pursuant to paragraph (2) no longer has a high number of unique United States users, the Commission may continue to publish the most recently issued score and the corresponding date of issuance.
+(5)
+Dispute Process
+Not later than 1 year after the date of the enactment of this Act, the Commission shall establish a process for resolving disputes related to the issuance of privacy scores that have been raisedâ
+(A)
+by an interactive computer service for which a privacy score has been issued; or
+(B)
+by a third party.
+(6)
+Report
+Not later than 2 years after the date of the publication of the initial privacy scores under paragraph (4)(A), and annually thereafter, the Commission shall submit to Congress a report that describes the following:
+(A)
+The number of interactive computer services evaluated with respect to the issuance of privacy scores during the most recently completed year and in total.
+(B)
+Trends related to privacy scores, including the number of privacy scores that the Commission issued or modified during the most recently completed year and in total.
+(C)
+Any common characteristics of interactive computer services with low privacy scores, such as privacy policy terms, industry, location where the service is based, type of service offered, or ownership or control of the service.
+(D)
+If applicable, an identification of trends in the practices of interactive computer services with respect to the privacy of the covered information of users of such services, including any potential emerging threats posed by such practices.
+(E)
+If determined necessary by the Commission, recommendations for congressional action to promote the privacy of users of interactive computer services.
+(c)
+Public awareness and recognition
+The Commission mayâ
+(1)
+conduct public awareness campaigns to educate users about the privacy scores issued under subsection (b); and
+(2)
+establish a recognition program for interactive computer services with outstanding privacy scores issued under such subsection.
+(d)
+Definitions
+In this section:
+(1)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(2)
+Covered information
+The term
+covered information
+means information that is linked or that the Commission determines is reasonably linkable to a unique user of an interactive computer service, includingâ
+(A)
+first and last name of the user;
+(B)
+home or other physical address of the user, including the name of a street, city, or town;
+(C)
+email address of the user;
+(D)
+telephone number of the user; and
+(E)
+Social Security number of the user.
+(3)
+Interactive computer service
+The term
+interactive computer service
+has the meaning given the term in section 230(f) of the Communications Act of 1934 (
+47 U.S.C. 230(f)
+).
+(4)
+Sensitive covered information
+The term
+sensitive covered information
+means any of the following covered information:
+(A)
+Financial information of the user.
+(B)
+Biometric identifiers of the user.
+(C)
+Citizenship or immigration status of the user.
+(D)
+Medical information of the user.
+(E)
+Race, ethnicity, or religious affiliation of the user.
+(F)
+Criminal history of the user.

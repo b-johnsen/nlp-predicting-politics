@@ -1,0 +1,33 @@
+1.
+Short title
+This Act may be cited as the
+CBDC Anti-Surveillance State Act
+.
+2.
+Prohibition on Federal reserve banks relating to certain products or services for individuals and prohibition on directly issuing a central bank digital currency
+Section 13 of the Federal Reserve Act is amended by adding at the end the following new paragraph:
+(15)
+A Federal reserve bank shall notâ
+(A)
+offer products or services directly to an individual;
+(B)
+maintain an account on behalf of an individual; or
+(C)
+issue a central bank digital currency, or any digital asset that is substantially similar under any other name or label, directly to an individual.
+.
+3.
+Prohibition on Federal reserve banks indirectly issuing a central bank digital currency
+Section 13 of the Federal Reserve Act, as amended by section 2, is further amended by adding at the end the following new paragraph:
+(16)
+(A)
+A Federal reserve bank shall not offer a central bank digital currency, or any digital asset that is substantially similar under any other name or label, indirectly to an individual through a financial institution or other intermediary.
+(B)
+Subparagraph (A) may not be construed to prohibit any dollar-denominated currency that is open, permissionless, and private, and fully preserves the privacy protections of United States coins and physical currency.
+.
+4.
+Prohibition on the use of central bank digital currency for monetary policy
+Section 10 of the Federal Reserve Act is amended by inserting before paragraph (12) the following new paragraph:
+(11)
+Prohibition on the use of central bank digital currency for monetary policy
+The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall not use any central bank digital currency, or any digital asset that is substantially similar under any other name or label, to implement monetary policy.
+.

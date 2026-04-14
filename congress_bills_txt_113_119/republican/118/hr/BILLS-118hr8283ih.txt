@@ -1,0 +1,60 @@
+1.
+Short title
+This Act may be cited as the
+Clean Commitment to Leveraging Artificial Intelligence to Improve Medicare Sustainability Act
+or the
+Clean CLAIMS Act
+.
+2.
+Demonstration project to support automatic clean claim submissions under Medicare
+Section 1115 of the Social Security Act (
+42 U.S.C. 1315
+) is amended by adding at the end following new subsection:
+(g)
+(1)
+The Secretary shall enter into an agreement with a MAC submitting an application under the jurisdiction of the MAC for the purpose of conducting a demonstration project under this subsection.
+(2)
+An agreement to conduct a demonstration project under this subsection shallâ
+(A)
+require the demonstration project to begin on the date that is the sooner of 1 year after the date of the enactment of this subsection or the first day on which the Secretary has sufficiently educated the physicians described in subparagraph (B), and end 3 years after the appropriate date;
+(B)
+require the MAC to identify and contract with no less than 500 physicians (as defined in 1861(r)) with National Provider Identifiers or Tax Identification Numbers to voluntarily participate in the demonstration project for the purpose of carrying out subparagraph (D);
+(C)
+provide for the education and training of providers described in subparagraph (B) on how the platform described in subparagraph (D) operates; and
+(D)
+provide for a point of care clean claims processing platform for physicians that leverages artificially intelligent technologies that is capable of automaticallyâ
+(i)
+creating claims under part B of title XVIII after live audio recording a patient-physician encounter;
+(ii)
+submitting claims described in clause (i) to the Secretary for reimbursement under such parts (as appropriate);
+(iii)
+applying the appropriate payer guidelines; and
+(iv)
+populates the required corresponding medical record documentation to support the items and services billed via the clean claim submitted pursuant to clause (ii).
+(3)
+The Secretary shall, within 6 months after the date of the enactment of this subsection, publish a request for proposal for the purpose of contracting with an entity with a service platform with the capabilities to perform the activities for the demonstration described in paragraph (2)(D).
+(4)
+Notwithstanding title XVIII, an individual enrolled under part B of title XVIII who receives care for a claim which is submitted under this demonstration project may not be responsible for any cost sharing for items and services furnished by a physicians described in subparagraph (B) during the demonstration project for items and services billed incorrectly or not covered under part B.
+(5)
+Any claim which is submitted under this demonstration project shall be exempt from the Medicare Fee for Service Recovery Audit Program.
+(6)
+Not later than 1 year after the date on which the demonstration project begins pursuant to paragraph (2)(A), the Secretary shall submit to Congress a report thatâ
+(A)
+analyzes the data collected from the claims submitted pursuant to paragraph (2)(D);
+(B)
+evaluates feedback submitted by physicians described in paragraph (2)(B);
+(C)
+recommends any improvements of the demonstration project with respect, including how to scale the project; and
+(D)
+any other information the Secretary determines appropriate.
+(7)
+In this subsection:
+(A)
+The term
+jurisdiction
+means the defined geographic area in which a MAC processes claims submitted under part B of title XVIII.
+(B)
+The term
+MAC
+has the meaning given such term in section 1874A(a)(3).
+.

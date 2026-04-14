@@ -1,0 +1,871 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Uniting and Strengthening American Liberty Act of 2017
+or the
+USA Liberty Act of 2017
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec.â1.âShort title; table of contents.
+Title IâForeign intelligence surveillance and accountability
+Sec.â101.âCourt orders and protection of incidentally collected United States person
+communications.
+Sec.â102.âLimitation on collection and improvements to targeting procedures and minimization
+procedures.
+Sec.â103.âPublication of minimization procedures under section 702.
+Sec.â104.âAppointment of amicus curiae for annual certifications.
+Sec.â105.âIncreased accountability on incidentally collected communications.
+Sec.â106.âSemiannual reports on certain queries by Federal Bureau of Investigation.
+Sec.â107.âAdditional reporting requirements.
+Sec.â108.âSense of Congress on purpose of section 702 and respecting foreign nationals.
+Title IIâSafeguards and oversight of privacy and civil liberties
+Sec.â201.âLimitation on retention of certain data.
+Sec.â202.âImprovements to Privacy and Civil Liberties Oversight Board.
+Sec.â203.âPrivacy and civil liberties officers.
+Sec.â204.âWhistleblower protections for contractors of the intelligence community.
+Title IIIâExtension of authorities, increased penalties, reports, and other matters
+Sec.â301.âExtension of title VII of FISA.
+Sec.â302.âPenalties for unauthorized removal and retention of classified documents or material.
+Sec.â303.âComptroller General study on unauthorized disclosures and the classification system.
+Sec.â304.âSense of Congress on information sharing among intelligence community to protect national
+security.
+Sec.â305.âSense of Congress on combating terrorism.
+Sec.â306.âTechnical amendments.
+Sec.â307.âSeverability.
+I
+Foreign intelligence surveillance and accountability
+101.
+Court orders and protection of incidentally collected United States person communications
+(a)
+In general
+Section 702 of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1881a
+) is amendedâ
+(1)
+by redesignating subsections (j) through (l) as subsections (k) through (m), respectively; and
+(2)
+by inserting after subsection (i) the following new subsection (j):
+(j)
+Requirements for access and dissemination of collections of communications
+(1)
+Court orders and other requirements
+(A)
+Court orders to access contents
+Except as provided by subparagraph (C), in response to a query for evidence of a crime, the contents of queried communications acquired under subsection (a) may be accessed or disseminated only uponâ
+(i)
+an application by the Attorney General to a judge of the Foreign Intelligence Surveillance Court that describes the determination of the Attorney General thatâ
+(I)
+there is probable cause to believe that such contents may provide evidence of a crime specified in section 2516 of title 18, United States Code (including crimes covered by paragraph (2) of such section);
+(II)
+noncontents information accessed or disseminated pursuant to subparagraph (B) is not the sole basis for such probable cause;
+(III)
+such queried communications are relevant to an authorized investigation or assessment, provided that such investigation or assessment is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and
+(IV)
+any use of such queried communications pursuant to section 706 will be carried out in accordance with such section; and
+(ii)
+an order of the judge approving such application.
+(B)
+Relevance and supervisory approval to access noncontents information
+Except as provided by subparagraph (C), in response to a query for evidence of a crime, the information of queried communications acquired under subsection (a) relating to the dialing, routing, addressing, signaling, or other similar noncontents information may be accessed or disseminated only upon a determination by the Attorney General thatâ
+(i)
+such queried communications are relevant to an authorized investigation or assessment, provided that such investigation or assessment is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and
+(ii)
+any use of such queried communications pursuant to section 706 will be carried out in accordance with such section.
+(C)
+Exceptions
+The requirement for an order of a judge pursuant to subparagraph (A) and the requirement for a determination by the Attorney General under subparagraph (B), respectively, shall not apply to accessing or disseminating queried communications acquired under subsection (a) if one or more of the following conditions are met:
+(i)
+Such query is reasonably designed for the primary purpose of returning foreign intelligence information.
+(ii)
+The Attorney General makes the determination described in subparagraph (A)(i) andâ
+(I)
+the person related to the queried term is the subject of an order or emergency authorization that authorizes electronic surveillance or physical search under this Act or title 18, United States Code; or
+(II)
+the Attorney General has a reasonable belief that the life or safety of a person is threatened and such contents are sought for the purpose of assisting that person.
+(iii)
+Pursuant to paragraph (5), the person related to the queried term consents to such access or dissemination.
+(D)
+Limitation on electronic surveillance of United States persons
+If the Attorney General determines that it is necessary to conduct electronic surveillance on a known United States person who is related to a term used in a query of communications acquired under subsection (a), the Attorney General may only conduct such electronic surveillance using authority provided under other provisions of law.
+(E)
+Simultaneous access of FBI databases
+The Director of the Federal Bureau of Investigation shall ensure that all available investigative or intelligence databases of the Federal Bureau of Investigation are simultaneously accessed when the Bureau properly uses an information system of the Bureau to determine whether information exists in such a database. Regardless of any positive result that may be returned pursuant to such access, the requirements of this subsection shall apply.
+(F)
+Delegation
+The Attorney General shall delegate the authority under this paragraph to the fewest number of officials that the Attorney General determines practicable.
+(2)
+Authorized purposes for queries
+A collection of communications acquired under subsection (a) may only be queried for legitimate national security purposes or legitimate law enforcement purposes.
+(3)
+Retention of auditable records
+The Attorney General and each Director concerned shall retain records of queries that return a positive result from a collection of communications acquired under subsection (a). Such records shallâ
+(A)
+include such queries for not less than 5 years after the date on which the query is made; and
+(B)
+be maintained in a manner that is auditable and available for congressional oversight.
+(4)
+Compliance and maintenance
+The requirements of this subsection do not apply with respect to queries made for the purpose ofâ
+(A)
+submitting to Congress information required by this Act or otherwise ensuring compliance with the requirements of this section; or
+(B)
+performing maintenance or testing of information systems.
+(5)
+Consent
+The requirements of this subsection do not apply with respect toâ
+(A)
+queries made using a term relating to a person who consents to such queries; or
+(B)
+the accessing or the dissemination of the contents of queried communications of a person who consents to such access or dissemination.
+(6)
+Director concerned
+In this subsection, the term
+Director concerned
+means the following:
+(A)
+The Director of the National Security Agency, with respect to matters concerning the National Security Agency.
+(B)
+The Director of the Federal Bureau of Investigation, with respect to matters concerning the Federal Bureau of Investigation.
+(C)
+The Director of the Central Intelligence Agency, with respect to matters concerning the Central Intelligence Agency.
+(D)
+The Director of the National Counterterrorism Center, with respect to matters concerning the National Counterterrorism Center.
+.
+(b)
+Procedures
+Subsection (e) of such section (
+50 U.S.C. 1881a(e)
+) is amended by adding at the end the following new paragraph:
+(3)
+Certain procedures for querying
+The minimization procedures adopted in accordance with paragraph (1) shall describe a query reasonably designed for the primary purpose of returning foreign intelligence information pursuant to subsection (j)(1)(C)(i).
+.
+(c)
+Conforming amendment
+Subsection (g)(2)(B) of such section (
+50 U.S.C. 1881a(g)(2)(B)
+) is amended by striking
+and (e)
+and inserting
+(e), and (j)
+.
+102.
+Limitation on collection and improvements to targeting procedures and minimization procedures
+(a)
+Targeting procedures; limitation on collection
+Subsection (d) of section 702 of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1881a(d)
+) is amendedâ
+(1)
+in paragraph (1), by striking
+The Attorney General
+and inserting
+In accordance with paragraphs (3) and (4), the Attorney General
+; and
+(2)
+by adding at the end the following new paragraphs:
+(3)
+Due diligence
+The procedures adopted in accordance with paragraph (1) shall require due diligence in determining whether a person targeted is a non-United States person reasonably believed to be located outside the United States byâ
+(A)
+making the determination based on the totality of the circumstances, including by, to the extent practicable, ensuring that any conflicting information regarding whether the person is reasonably believed to be located outside the United States or is a United States person is resolved before making such determination;
+(B)
+documenting the processes under subparagraph (A); and
+(C)
+documenting the rationale for why targeting such person will result in the acquisition of foreign intelligence information authorized by subsection (a).
+(4)
+Limitation
+During the period preceding September 30, 2023, the procedures adopted in accordance with paragraph (1) shall require that the targeting of a person is limited to communications to or from the targeted person.
+.
+(b)
+Minimization procedures
+Subsection (e) of such section (
+50 U.S.C. 1881a(e)
+), as amended by section 101, is further amendedâ
+(1)
+in paragraph (1), by inserting
+, and the requirements of this subsection
+before the period at the end; and
+(2)
+by adding at the end the following new paragraph:
+(4)
+Requests to unmask information
+The procedures adopted under paragraph (1) shall include specific procedures adopted by the Attorney General for elements of the Federal Government to submit requests to unmask information in disseminated intelligence reports. Such specific procedures shallâ
+(A)
+require that an individual who is making the request documents the rationale that such request is for legitimate reasons authorized pursuant to paragraph (1); and
+(B)
+require the requesting element of the Federal Government to retain records of each request, includingâ
+(i)
+a copy of the request;
+(ii)
+the name and position of the individual who is making the request; and
+(iii)
+if the request is approved, the name and position of the individual who approved the request and the date of the approval.
+.
+(c)
+Unmask defined
+Section 701(b) of such Act (
+50 U.S.C. 1881(b)
+) is amended by adding at the end the following new paragraph:
+(6)
+Unmask
+The term
+unmask
+means, with respect to a disseminated intelligence report containing a reference to a United States person that does not identify that person (including by name or title), to disseminate the identity of the United States person, including the name or title of the person.
+.
+(d)
+Consistent requirements To retain records on requests To unmask information
+The Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1801
+et seq.) is amended as follows:
+(1)
+In section 101(h) (
+50 U.S.C. 1801(h)
+)â
+(A)
+in paragraph (3), by striking
+; and
+and inserting a semicolon;
+(B)
+in paragraph (4), by striking the period at the end and inserting
+; and
+; and
+(C)
+by adding at the end the following new paragraph:
+(5)
+specific procedures as described in section 702(e)(4).
+.
+(2)
+In section 301(4) (
+50 U.S.C. 1821(4)
+)â
+(A)
+in subparagraph (C), by striking
+; and
+and inserting a semicolon;
+(B)
+in subparagraph (D), by striking the period at the end and inserting
+; and
+; and
+(C)
+by adding at the end the following new subparagraph:
+(E)
+specific procedures as described in section 702(e)(4).
+.
+(3)
+In section 402(h) (
+50 U.S.C. 1842(h)
+)â
+(A)
+by redesignating paragraph (2) as paragraph (3); and
+(B)
+by inserting after paragraph (1) the following new paragraph (2):
+(2)
+Requests for nonpublicly available information
+The policies and procedures adopted under paragraph (1) shall include specific procedures as described in section 702(e)(4).
+.
+(4)
+In section 501(g)(2) (
+50 U.S.C. 1861(g)(2)
+)â
+(A)
+in subparagraph (B), by striking
+; and
+and inserting a semicolon;
+(B)
+in subparagraph (C), by striking the period at the end and inserting
+; and
+; and
+(C)
+by adding at the end the following new subparagraph:
+(D)
+specific procedures as described in section 702(e)(4).
+.
+(e)
+Report on unmasking
+Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the Permanent Select Committee on Intelligence of the House of Representatives, the Select Committee on Intelligence of the Senate, and the Committees on the Judiciary of the House of Representatives and the Senate a report on the progress made by the Director with respect toâ
+(1)
+ensuring that incidentally collected communications of United States persons are properly masked if masking is necessary; and
+(2)
+implementing procedures for requests to unmask information under section 702(e)(4) of such Act (
+50 U.S.C. 1881a(e)(4)
+), as added by subsection (c).
+103.
+Publication of minimization procedures under section 702
+Subsection (e) of section 702 of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1881a(e)
+), as amended by sections 101 and 102, is further amended by adding at the end the following new paragraph:
+(5)
+Publication
+The Director of National Intelligence, in consultation with the Attorney General, shallâ
+(A)
+conduct a declassification review of any minimization procedures adopted or amended in accordance with paragraph (1); and
+(B)
+consistent with such review, make such minimization procedures publicly available to the greatest extent practicable, which may be in redacted form.
+.
+104.
+Appointment of amicus curiae for annual certifications
+Section 103(i) of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1803(i)(2)
+) is amendedâ
+(1)
+in paragraph (2)â
+(A)
+in subparagraph (A), by striking
+; and
+and inserting a semicolon;
+(B)
+by redesignating subparagraph (B) as subparagraph (C); and
+(C)
+by inserting after subparagraph (A) the following new subparagraph (B):
+(B)
+shall appoint an individual who has been designated under paragraph (1) to serve as amicus curiae to assist such court in the review of a certification under section 702(i), unless the court issues a finding that such appointment is not appropriate; and
+; and
+(2)
+in paragraphs (4) and (5), by striking
+paragraph (2)(A)
+both places it appears and inserting
+subparagraph (A) or (B) of paragraph (2)
+.
+105.
+Increased accountability on incidentally collected communications
+Section 707 of such Act (
+50 U.S.C. 1881f
+) is amended by adding at the end the following new subsection:
+(c)
+Incidentally collected communications and other information
+Together with the semiannual report submitted under subsection (a), the Director of National Intelligence shall submit to the congressional committees specified in such subsection a report on incidentally collected communications and other information regarding United States persons under section 702. Each such report shall include, with respect to the 6-month period covered by the report, the following:
+(1)
+Except as provided by paragraph (2), the number, or a good faith estimate, of communications acquired under subsection (a) of such section of known United States persons that the National Security Agency positively identifies as such in the ordinary course of its business, including a description of any efforts of the intelligence community to ascertain such number or good faith estimate.
+(2)
+If the Director determines that calculating the number, or a good faith estimate, under paragraph (1) is not achievable, a detailed explanation for why such calculation is not achievable.
+(3)
+The number ofâ
+(A)
+United States persons whose information is unmasked pursuant to subsection (e)(4) of such section;
+(B)
+requests made by an element of the Federal Government, listed by each such element, to unmask information pursuant to such subsection; and
+(C)
+requests that resulted in the dissemination of names, titles, or other identifiers potentially associated with individuals pursuant to such subsection, including the element of the intelligence community and position of the individual making the request.
+(4)
+The number of disseminations of communications acquired under subsection (a) of section 702 to the Federal Bureau of Investigation for cases not pertaining to national security or foreign intelligence.
+(5)
+The number of instances in which evidence of a crime not pertaining to national security or foreign intelligence that was identified in communications acquired under subsection (a) of section 702 was disseminated from the national security branch of the Bureau to the criminal investigative division of the Bureau (or from such successor branch to such successor division).
+.
+106.
+Semiannual reports on certain queries by Federal Bureau of Investigation
+Section 707 of such Act (
+50 U.S.C. 1881f
+), as amended by section 105, is further amended by adding at the end the following new subsection:
+(d)
+Semiannual FBI reports
+Together with the semiannual report submitted under subsection (a), the Director of the Federal Bureau of Investigation shall submit to the congressional committees specified in such subsection, and make publicly available, a report containing, with respect to the period covered by the report, the number of queries made by the Federal Bureau of Investigation described in subsection (j)(1) of section 702 that resulted in communications being accessed or disseminated pursuant to such subsection.
+.
+107.
+Additional reporting requirements
+(a)
+Electronic surveillance
+Section 107 of such Act (
+50 U.S.C. 1807
+) is amended to read as follows:
+107.
+Report of electronic surveillance
+(a)
+Annual report
+In April of each year, the Attorney General shall transmit to the Administrative Office of the United States Courts and to Congress a report setting forth with respect to the preceding calendar yearâ
+(1)
+the total number of applications made for orders and extensions of orders approving electronic surveillance under this title;
+(2)
+the total number of such orders and extensions either granted, modified, or denied; and
+(3)
+the total number of persons who were subject to electronic surveillance conducted under an order or emergency authorization under this title, rounded to the nearest 500, including the number of such individuals who are United States persons, reported to the nearest band of 500, starting with 0â499.
+(b)
+Form
+Each report under subsection (a) shall be submitted in unclassified form. Not later than 7 days after the date on which the Attorney General submits each such report, the Attorney General shall make the report publicly available.
+.
+(b)
+Pen registers and trap and trace devices
+Section 406 of such Act (
+50 U.S.C. 1846
+) is amendedâ
+(1)
+in subsection (b)â
+(A)
+in paragraph (4), by striking
+; and
+and inserting a semicolon;
+(B)
+in paragraph (5), by striking the period at the end and inserting
+; and
+; and
+(C)
+by adding at the end the following new paragraph:
+(6)
+a good faith estimate of the total number of persons who were targeted by the installation and use of a pen register or trap and trace device under an order or emergency authorization issued under this title, rounded to the nearest 500, includingâ
+(A)
+the number of such persons who are United States persons, reported to the nearest band of 500, starting with 0â499; and
+(B)
+of the number of United States persons described in subparagraph (A), the number of persons whose information acquired pursuant to such order was reviewed or accessed by a Federal officer, employee, or agent, reported to the nearest band of 500, starting with 0â499.
+; and
+(2)
+by adding at the end the following new subsection:
+(c)
+Each report under subsection (b) shall be submitted in unclassified form. Not later than 7 days after the date on which the Attorney General submits such a report, the Attorney General shall make such report publicly available.
+.
+108.
+Sense of Congress on purpose of section 702 and respecting foreign nationals
+It is the sense of Congress thatâ
+(1)
+the acquisition of communications by the National Security Agency under section 702 of the Foreign Intelligence Surveillance Act (
+50 U.S.C. 1881a
+) should respect the norms of international comity by avoiding, both in actuality and appearance, targeting of foreign individuals based on unfounded discrimination or for the purpose of affording a commercial competitive advantage to companies and business sectors of the United States; and
+(2)
+the collection of intelligence under such section 702 is meant to shield the United States, and by extension, the allies of the United States, from foreign security threats.
+II
+Safeguards and oversight of privacy and civil liberties
+201.
+Limitation on retention of certain data
+(a)
+Required purging
+Subsection (e) of section 702 of the of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1881a(e)
+), as amended by title I, is further amended by adding at the end the following new paragraph:
+(6)
+Limitation on retention
+(A)
+Period of retention and requirement for purging
+Notwithstanding section 309 of the Intelligence Authorization Act for Fiscal Year 2015 (
+50 U.S.C. 1813
+), except as provided by subparagraph (B), the procedures adopted under paragraph (1) shall ensure that any communications that do not contain foreign intelligence information are purged by not later than 90 days after the date on which the communications are determined to not contain foreign intelligence information.
+(B)
+Waiver
+The Director of the National Security Agency may waive the requirements of subparagraph (A), on an individualized and specific basis, if the Director determines that such waiver is necessary to protect the national security of the United States.
+.
+(b)
+Semiannual assessment
+Subsection (m) of such section, as redesignated by section 101, is amendedâ
+(1)
+by redesignating paragraphs (2) and (3) as paragraphs (3) and (4); and
+(2)
+by inserting after paragraph (1) the following new paragraph (2):
+(2)
+Matters included in semiannual assessment to FISC and Congress
+Each semiannual assessment under paragraph (1) shall include, with respect to the 6-month period covered by the assessment, the following:
+(A)
+An affidavit by the Director of the National Security Agency, without delegation, that communications described in subsection (e)(6)(A) were purged pursuant to such subsection.
+(B)
+The number of waivers made under subsection (e)(6)(B), including a description of the purpose for each such waiver.
+.
+202.
+Improvements to Privacy and Civil Liberties Oversight Board
+(a)
+Appointment of staff
+Subsection (j) of section 1061 of the Intelligence Reform and Terrorism Prevention Act of 2004 (
+42 U.S.C. 2000ee(j)
+) is amendedâ
+(1)
+by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and
+(2)
+by inserting after paragraph (1) the following new paragraph:
+(2)
+Appointment in absence of chairman
+If the position of chairman of the Board is vacant, during the period of the vacancy, the Board, at the direction of the unanimous vote of the serving members of the Board, may exercise the authority of the chairman under paragraph (1).
+.
+(b)
+Meetings
+Subsection (f) of such section (
+42 U.S.C. 2000ee(f)
+) is amendedâ
+(1)
+by striking
+The Board shall
+and inserting
+The Board
+;
+(2)
+in paragraph (1) by striking
+make its
+and inserting
+shall make its
+; and
+(3)
+in paragraph (2)â
+(A)
+by striking
+hold public
+and inserting
+shall hold public
+; and
+(B)
+by inserting before the period at the end the following:
+, but may, notwithstanding section 552b of title 5, United States Code, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public
+.
+(c)
+Report on section 702 and terrorism
+Not later than 1 year after the date on which the Privacy and Civil Liberties Oversight Board first achieves a quorum following the date of the enactment of this Act, the Board shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report assessingâ
+(1)
+how communications acquired under section 702 of the of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1881a
+) are used by the United States to prevent or defend against terrorism;
+(2)
+how technological challenges and changes in technology affect such prevention and defense; and
+(3)
+how privacy and civil liberties are affected by the actions identified under paragraph (1) and the changes in technology identified under paragraph (2).
+203.
+Privacy and civil liberties officers
+(a)
+Codification of certain officers
+Section 1062(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (
+42 U.S.C. 2000eeâ1(a)
+) is amended by inserting
+, the Director of the National Security Agency, the Director of the Federal Bureau of Investigation
+after
+the Director of the Central Intelligence Agency
+.
+(b)
+Annual reports on incidental communications of known United States persons
+Paragraph (4)(A) of subsection (m) of section 702 of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1881a
+), as redesignated by sections 101 and 201, is amendedâ
+(1)
+in clause (iii), by striking
+; and
+and inserting a semicolon;
+(2)
+in clause (iv), by striking the period at the end and inserting
+; and
+; and
+(3)
+by adding at the end the following new clause:
+(v)
+a review by the privacy and civil liberties officer of the element of incidentally collected communications of known United States persons.
+.
+204.
+Whistleblower protections for contractors of the intelligence community
+(a)
+Prohibited personnel practices in the intelligence community
+Section 1104 of the National Security Act of 1947 (
+50 U.S.C. 3234
+) is amendedâ
+(1)
+in subsection (a), by adding at the end the following new paragraph:
+(4)
+Contractor employee
+The term
+contractor employee
+means an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a covered intelligence community element.
+;
+(2)
+by redesignating subsections (c) and (d) as subsections (d) and (e), respectively;
+(3)
+by inserting after subsection (b) the following new subsection (c):
+(c)
+Contractor employees
+(1)
+Any employee of an agency who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to any contractor employee as a reprisal for a lawful disclosure of information by the contractor employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, the head of the contracting agency (or an employee designated by the head of that agency for such purpose), the appropriate inspector general of the contracting agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the contractor employee reasonably believes evidencesâ
+(A)
+a violation of any Federal law, rule, or regulation (including with respect to evidence of another employee or contractor employee accessing or sharing classified information without authorization); or
+(B)
+mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+(2)
+A personnel action under paragraph (1) is prohibited even if the action is undertaken at the request of an agency official, unless the request takes the form of a nondiscretionary directive and is within the authority of the agency official making the request.
+;
+(4)
+in subsection (b), by striking the heading and inserting
+Agency employees
+.â
+; and
+(5)
+in subsection (e), as redesignated by paragraph (2), by inserting
+contractor employee,
+after
+any employee,
+.
+(b)
+Federal Bureau of Investigation
+(1)
+In general
+Any employee of the Federal Bureau of Investigation who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to a contractor employee as a reprisal for a disclosure of informationâ
+(A)
+madeâ
+(i)
+to a supervisor in the direct chain of command of the contractor employee, up to and including the Director of the Federal Bureau of Investigation;
+(ii)
+to the Inspector General;
+(iii)
+to the Office of Professional Responsibility of the Department of Justice;
+(iv)
+to the Office of Professional Responsibility of the Federal Bureau of Investigation;
+(v)
+to the Inspection Division of the Federal Bureau of Investigation;
+(vi)
+as described in section 7211 of title 5, United States Code;
+(vii)
+to the Office of Special Counsel; or
+(viii)
+to an employee designated by any officer, employee, office, or division described in clauses (i) through (vii) for the purpose of receiving such disclosures; and
+(B)
+which the contractor employee reasonably believes evidencesâ
+(i)
+any violation of any law, rule, or regulation (including with respect to evidence of another employee or contractor employee accessing or sharing classified information without authorization); or
+(ii)
+gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+(2)
+Actions by request
+A personnel action under paragraph (1) is prohibited even if the action is undertaken at the request of an official of the Bureau, unless the request takes the form of a nondiscretionary directive and is within the authority of the official making the request.
+(3)
+Regulations
+The Attorney General shall prescribe regulations to ensure that a personnel action described in paragraph (1) shall not be taken against a contractor employee of the Bureau as a reprisal for any disclosure of information described in subparagraph (A) of such paragraph.
+(4)
+Enforcement
+The President shall provide for the enforcement of this subsection in a manner consistent with applicable provisions of sections 1214 and 1221 of title 5, United States Code.
+(5)
+Definitions
+In this subsection:
+(A)
+The term
+contractor employee
+means an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of the Federal Bureau of Investigation.
+(B)
+The term
+personnel action
+means any action described in clauses (i) through (x) of section 2302(a)(2)(A) of title 5, United States Code, with respect to a contractor employee.
+(c)
+Retaliatory revocation of security clearances and access determinations
+Section 3001(j) of the Intelligence Reform and Terrorism Prevention Act of 2004 (
+50 U.S.C. 3341(j)
+) is amended by adding at the end the following new paragraph:
+(8)
+Inclusion of contractor employees
+In this subsection, the term
+employee
+includes an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of an agency. With respect to such employees, the term
+employing agency
+shall be deemed to be the contracting agency.
+.
+III
+Extension of authorities, increased penalties, reports, and other matters
+301.
+Extension of title VII of FISA
+(a)
+Extension
+Section 403(b) of the FISA Amendments Act of 2008 (
+Public Law 110â261
+; 122 Stat. 2474) is amendedâ
+(1)
+in paragraph (1)â
+(A)
+by striking
+December 31, 2017
+and inserting
+September 30, 2023
+; and
+(B)
+by inserting
+and by the USA Liberty Act of 2017
+after
+section 101(a)
+; and
+(2)
+in paragraph (2) in the matter preceding subparagraph (A), by striking
+December 31, 2017
+and inserting
+September 30, 2023
+.
+(b)
+Conforming amendments
+Section 404(b) of the FISA Amendments Act of 2008 (
+Public Law 110â261
+; 122 Stat. 2476) is amendedâ
+(1)
+in paragraph (1)â
+(A)
+in the heading, by striking
+December 31, 2017
+and inserting
+September 30, 2023
+; and
+(B)
+by inserting
+and by the USA Liberty Act of 2017
+after
+section 101(a)
+;
+(2)
+in paragraph (2), by inserting
+and by the USA Liberty Act of 2017
+after
+section 101(a)
+; and
+(3)
+in paragraph (4)â
+(A)
+by striking
+702(l)
+each place it appears and inserting
+702(m)
+;
+(B)
+by inserting
+and amended by the USA Liberty Act of 2017
+after
+as added by section 101(a)
+both places it appears; and
+(C)
+by inserting
+and by the USA Liberty Act of 2017
+after
+as amended by section 101(a)
+both places it appears.
+(c)
+Effective date of amendments to FISA and FAA
+The amendments made to the FISA Amendments Act of 2008 (
+Public Law 110â261
+) by subsections (a) and (b) and to the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1801
+et seq.) by titles I and II shall take effect on the earlier of the date of the enactment of this Act or December 31, 2017.
+302.
+Penalties for unauthorized removal and retention of classified documents or material
+Section 1924 of title 18, United States Code, is amendedâ
+(1)
+in subsection (a), by striking
+one year
+and inserting
+five years
+;
+(2)
+by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and
+(3)
+by inserting after subsection (a) the following new subsection (b):
+(b)
+Whoever, being an officer, employee, contractor, or consultant of the United States, and, by virtue of his office, employment, position, or contract, becomes possessed of documents or materials containing classified information of the United States, negligently removes such documents or materials without authority and knowingly retains such documents or materials at an unauthorized location shall be fined under this title or imprisoned for not more than one year, or both.
+.
+303.
+Comptroller General study on unauthorized disclosures and the classification system
+(a)
+Study
+The Comptroller General of the United States shall conduct a study of the unauthorized disclosure of classified information and the classification system of the United States.
+(b)
+Matters included
+The study under subsection (a) shall address the following:
+(1)
+Insider threat risks to the unauthorized disclosure of classified information.
+(2)
+The effect of modern technology on the unauthorized disclosure of classified information, including with respect toâ
+(A)
+using cloud storage for classified information; and
+(B)
+any technological means to prevent or detect such unauthorized disclosure.
+(3)
+The effect of overclassification on the unauthorized disclosure of classified information.
+(4)
+Any ways to improve the classification system of the United States, including with respect to changing the levels of classification used in such system.
+(5)
+How to improve the authorized sharing of classified information, including with respect to sensitive compartmented information.
+(6)
+The value of polygraph tests in determining who is authorized to access classified information.
+(7)
+Whether each element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (
+50 U.S.C. 3003(4)
+))â
+(A)
+applies uniform standards in determining who is authorized to access classified information; and
+(B)
+provides proper training with respect to the handling of classified information.
+(c)
+Cooperation
+The heads of the intelligence community shall provide to the Comptroller General information the Comptroller General determines necessary to carry out the study under subsection (a).
+(d)
+Report
+Not later than 180 days after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the study under subsection (a).
+(e)
+Form
+The report under subsection (d) shall be submitted in unclassified form, but may include a classified annex.
+304.
+Sense of Congress on information sharing among intelligence community to protect national security
+It is the sense of Congress that, in carrying out section 702 of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1881a
+), as amended by this Act, the United States Government should ensure that the barriers, whether real or perceived, to sharing critical foreign intelligence among the intelligence community that existed before September 11, 2001, are not reimposed by sharing information vital to national security among the intelligence community in a manner that is consistent with such section, applicable provisions of law, and the Constitution of the United States.
+305.
+Sense of Congress on combating terrorism
+It is the sense of Congress that, consistent with the protection of sources and methods, the President should share information learned by acquiring communications under section 702 of the Foreign Intelligence Surveillance Act (
+50 U.S.C. 1881a
+) with allies of the United States to prevent and defend against terrorism.
+306.
+Technical amendments
+The Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1801
+et seq.) is amended as follows:
+(1)
+In section 302(a)(1)(A)(iii) (
+50 U.S.C. 1822(a)(1)(A)(iii)
+), by striking
+paragraphs (1) through (4)
+and inserting
+subparagraphs (A) through (D)
+.
+(2)
+In section 406(b) (
+50 U.S.C. 1846(b)
+), by striking
+and to the Committees on the Judiciary of the House of Representatives and the Senate
+.
+(3)
+In section 604(a)(3) (
+50 U.S.C. 1874(a)(3)
+), by striking
+comply in the into
+and inserting
+comply into
+.
+(4)
+In section 701â
+(A)
+in subsection (a), by striking
+The terms
+and inserting
+In this title, the terms
+; and
+(B)
+in subsection (b)â
+(i)
+by inserting
+In this title:
+after the subsection heading; and
+(ii)
+in paragraph (5), by striking
+(
+50 U.S.C. 401a(4)
+)
+and inserting
+(
+50 U.S.C. 3003(4)
+)
+.
+(5)
+In section 702(g)(2)(A)(i) (
+50 U.S.C. 1881a(g)(2)(A)(i)
+), by inserting
+targeting
+before
+procedures in place
+.
+(6)
+In section 801(7) (
+50 U.S.C. 1885(7)
+), by striking
+(
+50 U.S.C. 401a(4)
+)
+and inserting
+(
+50 U.S.C. 3003(4)
+)
+.
+307.
+Severability
+If any provision of this Act, any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby.

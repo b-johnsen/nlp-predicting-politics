@@ -1,0 +1,97 @@
+1.
+Short title
+This Act may be cited as the
+Stay in Your Lane Act
+.
+2.
+Operational design domain restriction for driving systems
+(a)
+Safe domains for driving automation systems
+(1)
+In general
+Subchapter II of
+chapter 301
+of title 49, United States Code, is amended by adding at the end the following:
+30130.
+Safe domains for driving automation systems
+(a)
+Definitions
+In this section:
+(1)
+Administrator
+The term
+Administrator
+means the Administrator of the National Highway Traffic Safety Administration.
+(2)
+Driving automation system
+The term
+driving automation system
+means the hardware and software that are collectively capable of simultaneously performing all of the lateral and longitudinal vehicle motor control subtasks of the dynamic driving task of a motor vehicle on a sustained basis.
+(3)
+Operational design domain
+The term
+operational design domain
+means operating conditions, as defined by the manufacturer, under which a driving automation system, or feature thereof, is specifically designed to function safely, includingâ
+(A)
+environmental, geographical, and time-of-day restrictions; and
+(B)
+the requisite presence or absence of certain traffic, road users, or roadway characteristics.
+(4)
+Safely
+The term
+safely
+, with respect to motor vehicle safety, means presenting no more than an inconsequential risk.
+(b)
+Operational design domain
+Each manufacturer of a driving automation system shall ensure that the driving automation system does not operate outside of its operational design domain.
+(c)
+Declarations
+(1)
+In general
+Each manufacturer of a driving automation system shallâ
+(A)
+define the operational design domain as the conditions under which the driving automation system, or feature thereof, is designed to function safely; and
+(B)
+submit to the Administrator a declaration of that definition.
+(2)
+Publication
+Each manufacturer of a driving automation system shall make the declaration submitted by the manufacturer under paragraph (1)(B) available on a publicly accessible website of the manufacturer, which shall be the exact declaration submitted to the Administrator under that paragraph.
+.
+(2)
+Clerical amendment
+The analysis for subchapter II of
+chapter 301
+of title 49, United States Code, is amended by inserting after the item relating to
+section 30129
+the following:
+Sec. 30130. Safe domains for driving automation systems.
+.
+(b)
+Civil penalties
+Section 30165(a)(1) of title 49, United States Code, is amended, in the first sentence, by inserting
+30130(b),
+after
+30127,
+.
+(c)
+Limited definition of motor vehicle safety standard
+Section 30102(b) of title 49, United States Code, is amendedâ
+(1)
+in paragraph (1)â
+(A)
+by redesignating subparagraphs (C) through (H) as subparagraphs (D) through (I), respectively; and
+(B)
+by inserting after subparagraph (B) the following:
+(C)
+motor vehicle safety standard
+includes a requirement described in subsections (b) and (c)(1) of section 30130;
+; and
+(2)
+in paragraph (2), by striking
+paragraph (1)(C), (D), (F), or (G) of this subsection
+and inserting
+subparagraph (D), (E), (G), or (H) of paragraph (1)
+.
+(d)
+Effective date
+This Act and the amendments made by this Act shall take effect on the date that is 180 days after the date of enactment of this Act.

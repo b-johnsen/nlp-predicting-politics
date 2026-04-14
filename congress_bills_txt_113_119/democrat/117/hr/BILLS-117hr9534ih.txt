@@ -1,0 +1,438 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Space Safety and Situational Awareness Transition Act of 2022
+or the
+Space SSA Transition Act of 2022
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Title IâAuthorization of Appropriations
+Sec. 101. Authorization of appropriations for fiscal year 2024.
+Title IIâPolicy
+Sec. 201. Findings.
+Sec. 202. Sense of Congress on United States Government responsibility.
+Sec. 203. United States policy.
+Title IIIâTransition to Civil Space Situational Awareness Capability
+Sec. 301. Sense of Congress on need for transition.
+Sec. 302. Interagency Transition Team.
+Title IVâAgency Roles and Responsibilities for Implementation of Civil Space Situational Awareness Transition
+Sec. 401. Space situational awareness services and information.
+Sec. 402. Organizational management structure for space situational awareness services and information.
+Title VâResearch and Development
+Sec. 501. Informing and improving space situational awareness.
+Sec. 502. Research strategy.
+Title VIâOther Considerations
+Sec. 601. Cybersecurity plan.
+Sec. 602. Study on international cooperation in space situational awareness.
+Sec. 603. Report on international data sharing agreements.
+Title VIIâGAO Review
+Sec. 701. GAO review.
+2.
+Definitions
+In this Act:
+(1)
+Administration
+The term
+Administration
+has the meaning given such term in section 10101 of title 51, United States Code.
+(2)
+Administrator
+The term
+Administrator
+has the meaning given such term in section 10101 of title 51, United States Code.
+(3)
+Appropriate committees of Congress
+The term
+appropriate committees of Congress
+means the Committee on Science, Space, and Technology and the Committee on Armed Services of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate.
+(4)
+DoD
+The term
+DoD
+means the Department of Defense.
+(5)
+NASA
+The term
+NASA
+means the National Aeronautics and Space Administration.
+(6)
+NOAA
+The term
+NOAA
+means the National Oceanic and Atmospheric Administration of the Department of Commerce.
+(7)
+Secretary
+The term
+Secretary
+means the Secretary of Commerce.
+(8)
+Space object
+The term
+space object
+means any artificial object or system, including components or pieces thereof, orbiting or passing through outer space.
+(9)
+Space operator
+The term
+space operator
+means the person or entity that has responsibility for commanding operations of a space object in outer space.
+(10)
+Space situational awareness
+The term
+space situational awareness
+means the knowledge and characterization of space objects and their operational environment to facilitate decisions that support safe, stable, and sustainable space activities.
+(11)
+Space traffic coordination
+The term
+space traffic coordination
+means the planning, assessment, and on-orbit coordination of activities to enhance the safety, stability, and sustainability of operations in the space environment.
+I
+Authorization of Appropriations
+101.
+Authorization of appropriations for fiscal year 2024
+To carry out this Act, there is authorized to be appropriated for fiscal year 2024â
+(1)
+to the Department of Commerce, $95,000,000; and
+(2)
+to NASA, $50,000,000.
+II
+Policy
+201.
+Findings
+Congress finds the following:
+(1)
+Commercial activity in space is accelerating to meet the global demand for a growing commercial space market.
+(2)
+Space is becoming more congested, particularly in some orbital regimes, with the number of active satellites increasing significantly over the past ten years and continuing to grow.
+(3)
+Orbital debris ranging from sub-millimeter-sized debris to large defunct rocket bodies and inoperable spacecraft threatens the safety of orbital operations.
+(4)
+Space situational awareness provides the foundation for understandingâ
+(A)
+where objects, both active and inactive, are located and for predicting where satellites or debris will be in the future; and
+(B)
+the distribution of orbital debris and the risk they pose to operational satellites and crewed spacecraft.
+(5)
+United States leadership in coordinating international efforts on space situational awareness is essential for the safety and sustainability of the space environment, including human activities in outer space.
+(6)
+Conducting safe and responsible space operations will have a major impact on the sustainability of space activities, and in turn for the prosperity and national security of the United States.
+(7)
+To date, the Secretary of Defense, acting through the Commander, United States Space Command, has been providing certain space situational awareness services and information to Federal Government, commercial and international space operators, and the international community, including warnings of potential conjunctions.
+202.
+Sense of Congress on United States Government responsibility
+It is the sense of Congress that the United States Government, in coordination with other countries and the private sector, has a responsibility to be a good steward of the space environment. It is the further sense of Congress that the United States Government shouldâ
+(1)
+lead in practices and policies to maintain a safe, sustainable space environment for civil, national security, and commercial use;
+(2)
+provide validated space situational awareness services and information as public goods for the purposes of promoting on-orbit operational safety;
+(3)
+develop a coordinated and integrated approach to improving and delivering space situational awareness services and information;
+(4)
+leverage, to the maximum extent practicable, commercial innovation and capabilities relevant to space situational awareness;
+(5)
+lead collaborations with international and non-governmental entities, including satellite operators and space situational awareness services and information providers, as appropriate, on space situational awareness and on best practices regarding space traffic coordination thatâ
+(A)
+support the growth of commerce in space and foster a competitive United States commercial space industry; and
+(B)
+promote innovation in technology and operations while improving safety;
+(6)
+lead the international community in collaborations on practices and approaches that advance a sustainable and accessible space environment; and
+(7)
+transition to the Department of Commerce certain space situational awareness services and information, including public conjunction notifications, from the Department of Defense.
+203.
+United States policy
+It is the policy of the United States toâ
+(1)
+make publicly and continually available, free of direct user fees, validated space situational awareness services and information, including conjunction data messages;
+(2)
+continue to enhance and improve the accuracy and precision of the services and information referred to in paragraph (1);
+(3)
+make available to governmental and non-governmental space operators space safety and sustainability tools, private sector-led voluntary consensus standards, and risk mitigation information and practices;
+(4)
+support interdisciplinary research and development to promote space safety and improve space situational awareness;
+(5)
+support mechanisms for transitioning into operational activities the research and development described in paragraph (4);
+(6)
+support the use, where validated and practicable, of commercial technologies, data, systems, and services that can supplement and enhance United States Government-provided space situational awareness services and information;
+(7)
+ensure the Federal Government remains the United States authoritative source for United States conjunction data messages;
+(8)
+promote and facilitate the development and encourage the adoption of private sector-led voluntary consensus standards and best practices for space situational awareness; and
+(9)
+lead international collaborations to the widest extent possible on a framework for internationally harmonized space situational awareness and best practices for space traffic coordination.
+III
+Transition to Civil Space Situational Awareness Capability
+301.
+Sense of Congress on need for transition
+It is the sense of Congress that the DoD continues to make essential contributions to the safety of the space environment by providing space operators with services and information for managing the safe operations of United States Government, commercial, and non-United States space operations, in accordance with section 2274 of title 10, United States Code. It is the further sense of Congress that the growing number of space objects has created an increasing demand for improved accuracy and precision of space situational awareness services and information for space operators, which requires personnel and resources that are not related to the DoDâs primary mission. Therefore, it is the sense of Congress that the President should provide all necessary support to plan for an effective transition to the Department of Commerce from the Department of Defense of certain space situational awareness services and information.
+302.
+Interagency Transition Team
+(a)
+In general
+Not later than 60 days after the date of the enactment of this Act, the Secretary and the Secretary of Defense, in coordination with the Administrator, shall establish an Interagency Transition Team for Space Situational Awareness (in this Act referred to as the
+Interagency Transition Team
+) to lead the planning, assessment, and transition of certain activities carried out under section 2274 of title 10, United States Code, as appropriate, from the existing DoD-based space situational awareness operations to a civil space situational awareness capability under the Secretary.
+(b)
+Leadership and composition
+The Interagency Transition Team established pursuant to subsection (a) shallâ
+(1)
+be led byâ
+(A)
+a Senior Executive Service-level official (in this Act referred to as the
+Team Chair
+) appointed by the Secretary; and
+(B)
+a Senior Executive Service or Flag Officer level official (in this Act referred to as the
+Team Vice Chair
+) appointed by the Secretary of Defense; and
+(2)
+includeâ
+(A)
+a dedicated team of Federal Government employees from relevant Federal agencies, including the DoD and NASA, with experience and expertise in space situational awareness activities, including tracking, data processing, conjunction assessment, and space operations;
+(B)
+the Director of the Office of Space Commerce;
+(C)
+the Deputy Commander of United States Space Command; and
+(D)
+the Commander of United States Space Force Space Operations Command.
+(c)
+Responsibilities
+(1)
+In general
+The Interagency Transition Team shallâ
+(A)
+develop and support a Transition Plan (as described in subsection (d)) for the planning, assessment, and transition of certain activities, including the issuance of conjunction data messages, carried out under section 2274 of title 10, United States Code, to a civil space situational awareness capability under the Secretary;
+(B)
+in consultation with the National Institute of Standards and Technology, standards organizations, and private industry, promote and facilitate the development and encourage the adoption of private sector-led voluntary consensus standards and best practices for space situational awareness;
+(C)
+establish definitions for an initial operational capability and a full operational capability for a civil space situational awareness capability; and
+(D)
+carry out an assessment ofâ
+(i)
+Federal Government and non-government space situational awareness capabilities and needs for an initial operational capability and a full operational capability; and
+(ii)
+Federal Government and non-government best practices regarding risk mitigation and collision avoidance.
+(2)
+Agency agreements
+(A)
+With the Secretary of Defense
+The Secretary and the Secretary of Defense shall enter into one or more interagency agreements providing for cooperation and collaboration related to the transition of certain space situational awareness services and information in accordance with this Act.
+(B)
+With the Administrator
+The Secretary and the Administrator may enter into one or more interagency agreements providing for cooperation and collaboration related to the transition of certain space situational awareness services and information in accordance with this Act.
+(3)
+Milestones
+The Interagency Transition Team shall ensureâ
+(A)
+the demonstration of an initial operational capability by not later than September 30, 2024; and
+(B)
+the establishment of a full operational capability by not later than December 31, 2025.
+(d)
+Transition Plan
+(1)
+In general
+Not later than six months after the date of the enactment of this Act, the Secretary and the Secretary of Defense shall transmit to the appropriate committees of Congress the Transition Plan developed pursuant to subsection (c)(1).
+(2)
+Elements
+The Transition Plan shall include the following elements:
+(A)
+A definition of an initial operational capability and a full operational capability for a civil space situational awareness capability.
+(B)
+A system architecture, including requirements for an initial operational capability, and a full operational capability, including relating to the following:
+(i)
+Identification of the Federal Government and non-government data, observations, and analytical tools needed for such initial operational capability and full operational capability, and a description of how such data, observations, and analytical tools are to be obtained.
+(ii)
+Identification of the space situational awareness services and information to be transitioned from the Department of Defense and any additional services and information that may be provided in accordance with section 203(1) under an initial operational capability and a full operational capability.
+(iii)
+Identification of criteria and methods for verifying and validating non-Federal Government space situational awareness services and information, including associated data, provided by space operators.
+(iv)
+Identification of risk assessment and mitigation support services and information that may be provided.
+(v)
+Identification of options for an information platform or mechanism to enable innovative research, development, testing, and experimentation opportunities for commercial, academic, or other entities to support and improve space situational awareness services and information, as practicable.
+(C)
+Performance measures for the level of accuracy needed for the space situational awareness services and information to be identified and provided in accordance with subparagraph (B)(ii).
+(D)
+A description of the milestones and timelines for demonstrating an initial operational capability and establishing a full operational capability by not later than the respective dates specified in subsection (c)(3).
+(E)
+An estimate of the workforce, training, infrastructure, including ground-based, space-based, and in-situ infrastructure, and annual budgetary resources necessary to carry out a civil space situational awareness capability for the next five years.
+(e)
+Consideration
+In developing the Transition Plan required under paragraph (1) of subsection (c), the Interagency Transition Team shall take into consideration any agency agreements under paragraph (2) of such subsection.
+(f)
+Biannual reporting
+The Team Chair and Team Vice Chair shall report biannually to the appropriate committees of Congress on the progress of the transition under this section.
+(g)
+Briefings
+The Team Chair and Team Vice Chair shall brief the appropriate committees of Congress on the Transition Plan not later than 14 days after transmitting the Transition Plan pursuant to subsection (d)(1).
+(h)
+Private sector-Led voluntary consensus standards and best practices
+(1)
+Development
+(A)
+In general
+Not later than December 31, 2023, the Interagency Transition Team shall review existing private sector-led voluntary consensus standards and best practices, promote and facilitate the development of private sector-led voluntary consensus standards, as needed, and make publicly available such voluntary consensus standards and best practices for space situational awareness.
+(B)
+Consultation
+The Interagency Transition Team shall promote and facilitate the development of the private sector-led voluntary consensus standards and best practices under subparagraph (A) in consultation with private industry and standards organizations.
+(2)
+Updates
+The Interagency Transition Team shall biennially through 2028 update the private sector-led voluntary consensus standards and best practices developed pursuant to paragraph (1).
+(3)
+Elements
+The private sector-led voluntary consensus standards and best practices developed and updated in accordance with this subsection should include the following elements:
+(A)
+Space situational awareness data interoperability and data sharing protocols.
+(B)
+Criteria and methods for verification and validation of the space situational awareness services and information described in subsection (d)(2)(B)(iii).
+(C)
+Content and message format for conjunction data messages.
+(D)
+Emergency response protocols after a collision event, including communication between Federal Government agencies, space operators, and other relevant entities.
+(E)
+Any other matters the Interagency Transition Team determines appropriate.
+(i)
+Sunset
+The Interagency Transition Team shall terminate six months after the date of the establishment pursuant to section 402(b) of an organizational management structure for space situational awareness services and information.
+IV
+Agency Roles and Responsibilities for Implementation of Civil Space Situational Awareness Transition
+401.
+Space situational awareness services and information
+(a)
+In general
+In carrying out section 302(c)(3) (relating to the demonstration of an initial operational capability and establishment of a full operational capability), the Interagency Transition Team shall collaborate with the Secretary.
+(b)
+Demonstration
+The capabilities referred to in subsection (a) shallâ
+(1)
+follow the Transition Plan under section 302, as appropriate;
+(2)
+make publicly available and free of direct user fees space situational awareness services and information, including conjunction data messages;
+(3)
+include a digital space object identification and characterization system to organize known characteristics concerning space objects;
+(4)
+communicate and make publicly available the private sector-led voluntary consensus standards and best practices under section 302(h);
+(5)
+support openness and transparency, to the greatest extent practicable, in space situational awareness services and information, including conjunction data messages;
+(6)
+carry out testing toâ
+(A)
+demonstrate the interoperability of data and observations under section 302(d)(2)(B);
+(B)
+verify and validate such data and observations, as appropriate and practicable; and
+(C)
+demonstrate the issuance ofâ
+(i)
+conjunction data messages; and
+(ii)
+conjunction assessments; and
+(7)
+issue conjunction data messages.
+402.
+Organizational management structure for space situational awareness services and information
+(a)
+Proposal
+Not later than six months after the establishment of full operational capability, the Secretary, in consultation with the Secretary of Defense and the Administrator, shall submit to the appropriate committees of Congress a proposal forâ
+(1)
+an organizational management structure within the Department of Commerce for managing the activities under this title;
+(2)
+transitioning to such organizational management structure the functions and responsibilities of the Interagency Transition Team under section 302 after the termination of such Team pursuant to subsection (i) of such section; and
+(3)
+establishing milestones and performance measures for such organizational management structure.
+(b)
+Organizational management
+Not later than six months after the submission of the proposal described in subsection (a), the Secretary, in accordance with such proposal, shall establish the organizational management structure referred to in paragraph (1) of such subsection, and shall appoint a Director of such organizational management structure, who shall be a member of the Senior Executive Service. The Director shall establish a schedule and budgetary requirements for such organizational management structure.
+V
+Research and Development
+501.
+Informing and improving space situational awareness
+(a)
+In general
+The Administrator, in coordination with the heads of other relevant Federal agencies, shallâ
+(1)
+carry out United States Government civil research and development to inform and improve space situational awareness; and
+(2)
+support the transition into the full operational capability of such research and development, as practicable.
+(b)
+Program establishment
+To carry out subsection (a), the Administrator, as necessary, shall establish research and development programs to address areas of relevant basic and applied research and development, including research and development that will support, enable, and facilitate the transition under section 302. Areas of research and development may include the following:
+(1)
+Analytics.
+(2)
+Space object identification.
+(3)
+Modeling, analysis, and predictions.
+(4)
+Space environmental conditions and impacts.
+(5)
+Risk assessment.
+(6)
+Post-mission disposal.
+(7)
+Orbital debris mitigation, including research and development on active debris removal.
+(8)
+Any other areas the Administrator determines appropriate, including areas to be prioritized in accordance with the research strategy under section 502.
+(c)
+Consideration
+The Administrator shall use competitively selected grants, contracts, and agreements, as appropriate and practicable, in addition to other competitive research and development arrangements, in carrying out this section.
+502.
+Research strategy
+(a)
+Strategy
+Not later than three months after the transmittal of the Transition Plan pursuant to section 302(d), the Administrator shall enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine to develop a research strategy to inform and improve space situational awareness. Such strategy shall provide prioritized recommendations on research and the transition of research into operations and practice, and shall include measures to monitor progress on such recommendations, as well as any other appropriate recommendations.
+(b)
+Transmittal
+Not later than two years after the date of the enactment of this Act, the Administrator shall transmit to the Committee on Science, Space, and Technology and the Committee on Commerce, Science, and Transportation of the Senate a copy of the research strategy under subsection (a) and a plan for implementing any recommendations included in such strategy.
+VI
+Other Considerations
+601.
+Cybersecurity plan
+(a)
+In general
+The Secretary, in collaboration with the Director of the National Institute of Standards and Technology, and in consultation with the Secretary of Defense, the Administrator, and the heads of other relevant Federal agencies, shall develop a cybersecurity plan for reducing cybersecurity-related threats to the Department of Commerceâs provision of space situational awareness services and information.
+(b)
+Inclusion
+In developing the cybersecurity plan under subsection (a), the Secretary shouldâ
+(1)
+identify cybersecurity risks to the provision of space situational awareness services and information, and proposed actions to prevent and mitigate such risks;
+(2)
+identify supply chain risks and proposed actions to prevent and mitigate such risks;
+(3)
+consider any other issues the Secretary determines appropriate to ensure the cybersecurity of a civil space situational awareness capability;
+(4)
+seek input from stakeholders, including other relevant Federal Government agencies and private industry; and
+(5)
+include a classified appendix, if necessary.
+(c)
+Transmittal and briefing
+Not later than one year after the date of the enactment of this Act, the Secretary shall transmit to the appropriate committees of Congress a copy of the cybersecurity plan under subsection (a) and, not later than 21 days after such transmittal, provide to such committees an unclassified briefing on such plan.
+602.
+Study on international cooperation in space situational awareness
+(a)
+Study
+The Secretary, in consultation with the Administrator and the heads of other relevant Federal agencies, shall carry out a study on international cooperation in space situational awareness. Such study shallâ
+(1)
+examine the extent to which the United States is involved in and leading international cooperation in space situational awareness;
+(2)
+consider how other countries are approaching space situational awareness, including the provision of space situational awareness services and information;
+(3)
+identify the formal and informal agreements that are in place to support international cooperation in space situational awareness;
+(4)
+identify how United States international relations in space situational awareness can be strengthened and cooperation improved; and
+(5)
+identify the barriers, including technical and policy issues, to improving such cooperation and what steps can be taken to overcome such barriers.
+(b)
+Transmittal
+Not later than 270 days after the date of the enactment of this Act, the Secretary shall transmit to the Committee on Science, Space, and Technology and the Committee on Commerce, Science, and Transportation of the Senate a copy of the study described in subsection (a), together with a Plan for implementing any recommended actions contained in such study and for coordinating with international partners and entities on standards and sharing of space situational awareness services and information, including associated data.
+603.
+Report on international data sharing agreements
+Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the status and plans for international data sharing agreements relating to the transition of certain space situational services and information in accordance with this Act.
+VII
+GAO Review
+701.
+GAO review
+Not later than three years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Science, Space, and Technology and the Committee on Commerce, Science, and Transportation of the Senate a review of the status, performance, and progress of activities carried out under titles III and IV.

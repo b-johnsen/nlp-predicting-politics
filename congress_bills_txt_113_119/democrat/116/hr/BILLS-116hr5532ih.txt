@@ -1,0 +1,31 @@
+1.
+Short title
+This Act may be cited as the
+Deep Fake Detection Prize Competition Act
+.
+2.
+Findings
+Congress finds the following:
+(1)
+Prize competitions have been used throughout Americaâs history, dating back to the designing of the United States Capitol Building in 1792.
+(2)
+The America COMPETES Reauthorization Act granted authority for Federal agencies to carry out prize competitions in order to stimulate innovation to advance each agencyâs mission.
+(3)
+Prize competitions provide a benefit to the American people by providing a high reward return on taxpayer dollars.
+(4)
+Since 2010, Federal agencies have conducted nearly 1,000 prize competitions to help address some of our Nationâs greatest challenges.
+(5)
+Prize competitions at the National Science Foundation have helped to spark further research on important and emerging topics within data science, engineering, astrophysics, biology, and other areas.
+(6)
+Artificial Intelligence and machine learning (AI/ML) are rapidly being developed for deployment across all sectors creating a demand for new innovation from researchers and developers in order to address technological and social challenges from AI/ML.
+(7)
+AI/ML technologies are currently being used to create sophisticated deep fake videos, images, and audio, digital content that is manipulated in order to spread false information which can lead to a degradation of public trust and national security concerns.
+(8)
+As deep fake technology continues to advance, its detection will become increasingly difficult without new tools for digital forensics.
+(9)
+Although other Federal agencies are currently involved in supporting and conducting research into deep fake detection technology in the context of national security, research spurred by prize competitions at the National Science Foundation can have broader benefits for the American public.
+3.
+Establishment of prize competition
+The Director of the National Science Foundation shall carry out prize competitions pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3719
+) to incentivize research into technology that advances detection of deep fake audio, images, and video. The Director shall consider conducting subsequent or recurring competitions to account for changing and advancing technologies.

@@ -1,0 +1,9 @@
+1.
+Extending additional temporary exception from Medicare site-neutral IPPS payment rate to additional severe wound discharges LTCH DRG codes
+Section 1886(m)(6)(G)(i)(II) of the Social Security Act (
+42 U.S.C. 1395ww(m)(6)(G)(i)(II)
+) is amended by striking
+MSâLTCHâDRG 602, 603, 539, or 540
+and inserting
+MSâLTCHâDRG 981, 579, 592, 593, 602, 603, 539, or 540
+.

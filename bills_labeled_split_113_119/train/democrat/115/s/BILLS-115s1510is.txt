@@ -1,0 +1,569 @@
+1.
+Short title, etc
+(a)
+In general
+This Act may be cited as the
+Helping State and Local Governments Prevent Cyber Attacks (HACK) Act
+.
+(b)
+Table of contents
+The table of contents of this Act is as follows:
+Sec. 1. Short title, etc.
+TITLE IâElection integrity and cybersecurity improvement
+Sec. 101. Short title.
+Sec. 102. Study and report on best practices for cybersecurity of Federal elections and election audits.
+Sec. 103. Election technology improvement grants.
+TITLE IIâVoter registration
+Sec. 201. Federal electronic voter registration application form.
+Sec. 202. Voter registration deadline.
+Sec. 203. Change of address.
+Sec. 204. Mail voter registration form may not require full social security number.
+TITLE IIIâVoting
+Sec. 301. Availability of early voting and no-excuse absentee voting.
+Sec. 302. Requirements for counting provisional ballots.
+I
+Election integrity and cybersecurity improvement
+101.
+Short title
+This title may be cited as the
+Election Integrity and Cybersecurity Improvement Act of 2017
+.
+102.
+Study and report on best practices for cybersecurity of Federal elections and election audits
+(a)
+In general
+The Help America Vote Act of 2002 (
+52 U.S.C. 20901
+et seq.) is amended by inserting after section 247 the following new section:
+248.
+Study and report on best practices for cybersecurity of Federal elections and election audits
+(a)
+In general
+The Commission, in consultation with the National Institute of Standards and Technology, the Secretary of the Department of Homeland Security, the Election Assistance Commission Standards Board, the Election Assistance Commission Board of Advisors, the Election Assistance Commission Technical Guidelines Development Committee, the National Association of Secretaries of State, the National Association of State Election Directors, the National Association of Election Officials, the International Association of Government Officials, and other stakeholders the Commission determines necessary, shall conduct a study on each of the following:
+(1)
+Best practices for cybersecurity of Federal elections.
+(2)
+Best practices for election audits.
+(b)
+Public hearings
+In conducting each of the studies under this section, the Commission shall hold public hearings.
+(c)
+Issues considered
+(1)
+Cybersecurity of Federal elections
+In conducting the study under subsection (a)(1), the Commission shall consider the following:
+(A)
+The interference by foreign actors in the 2016 Federal election.
+(B)
+The opinion of intelligence officials that foreign states are likely to attempt to interfere in future Federal elections.
+(C)
+Election administration profiles based on the cybersecurity framework of the National Institute of Standards and Technology.
+(D)
+All components of election infrastructure, as designated by the Secretary of Homeland Security, on January 6, 2017, as a subsector of a critical infrastructure sector (as defined in section 2001 of the Homeland Security Act of 2002 (
+6 U.S.C. 601
+)).
+(E)
+The implications of the aging of voting equipment on cybersecurity.
+(F)
+Any existing Federal funding sources that may be used to assist State and local governments to improve election cybersecurity.
+(G)
+Any related issues the Commission identifies as necessary to complete a comprehensive study of best practices for cybersecurity of Federal elections.
+(2)
+Election audits
+In conducting the study under subsection (a)(2), the Commission shall consider the following:
+(A)
+Public confidence in the administration of Federal elections.
+(B)
+Verifying the integrity of the election process.
+(C)
+Confirming the accuracy of results reported by the voting system.
+(D)
+Ensuring that the voting system is accurately tabulating ballots.
+(E)
+Ensuring that the winners of each election for Federal office are called correctly.
+(F)
+Current State requirements related to election audits.
+(G)
+Durational requirements needed to facilitate an election audit prior to election certification, including variations in the acceptance of postal ballots and election certification deadlines.
+(H)
+Administrative requirements and challenges for various types of election audits.
+(I)
+The potential to identify areas of improvement in election administration using varying types of election audits.
+(J)
+Any related issues the Commission identifies as necessary to complete a comprehensive study of best practices for election audits.
+(d)
+Report and recommendations
+Not later than the date that is 9 months after the date of the enactment of the
+Election Integrity and Cybersecurity Improvement Act of 2017
+, the Commission shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on Administration of the House of Representatives on each of the studies conducted under this section, together with recommendations with respect to the following:
+(1)
+Best practices for cybersecurity of Federal elections.
+(2)
+Best practices for election audits.
+.
+(b)
+Clerical Amendment
+The table of contents for such Act is amended by inserting after the item relating to section 247 the following new item:
+Sec. 248. Study and report on best practices for cybersecurity of Federal elections and
+election audits.
+.
+103.
+Election technology improvement grants
+(a)
+In general
+The Help America Vote Act of 2002 (
+52 U.S.C. 20901
+et seq.) is amended by adding at the end the following new title:
+X
+Election technology improvement grants
+1001.
+Election technology improvement grants
+(a)
+In general
+The Commission shall make a payment in an amount determined under section 1002 to each State which meets the conditions described in section 1003.
+(b)
+Use of funds
+(1)
+In general
+Except as provided in paragraph (2), a State receiving payment under this title shall use the payment to implement the recommendations of the Commission with respect to best practices for cybersecurity of Federal elections and election audits under section 248(d).
+(2)
+Other activities
+A State may use a payment under this title to carry out other activities to improve the administration of elections for Federal office if the State certifies to the Commission thatâ
+(A)
+the State has implemented the recommendations of the Commission with respect to best practices for cybersecurity of Federal elections and election audits under section 248(d);
+(B)
+the State will use any remaining funds to improve, upgrade, or acquire new technological equipment related to election administration, which may includeâ
+(i)
+voting machines;
+(ii)
+election management systems;
+(iii)
+electronic poll books;
+(iv)
+online voter registration systems;
+(v)
+participation in the Electronic Registration Information Center;
+(vi)
+accessible voting equipment; and
+(vii)
+other technological upgrades identified by the Commission in their studies on best practices for cybersecurity and election audits; and
+(C)
+the State has appropriated funds for carrying out such activities in an amount equal to 10 percent of the total amount to be spent for such activities (taking into account the payment under this section and the amount spent by the State).
+1002.
+Allocation of funds
+(a)
+In general
+Subject to subsection (c), the amount of a payment made to a State under this title shall be equal to the product ofâ
+(1)
+the total amount appropriated for payments pursuant to the authorization under section 1007; and
+(2)
+the State allocation percentage for the State (as determined under subsection (b)).
+(b)
+State allocation percentage defined
+The
+State allocation percentage
+for a State is the amount (expressed as a percentage) equal to the quotient ofâ
+(1)
+the voting age population of the State (as reported in the most recent decennial census); and
+(2)
+the total voting age population of all States (as reported in the most recent decennial census).
+(c)
+Minimum amount of payment
+The amount of a payment made to a State under this section may not be less thanâ
+(1)
+in the case of any of the several States or the District of Columbia, one-half of 1 percent of the total amount appropriated for payments under this title under section 1007; or
+(2)
+in the case of the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands, one-tenth of 1 percent of such total amount.
+(d)
+Pro rata reductions
+The Commission shall make such pro rata reductions to the allocations determined under subsection (a) as are necessary to comply with the requirements of subsection (c).
+(e)
+Continuing availability of funds after appropriation
+A payment to a State under this title shall be available to the State without fiscal year limitation.
+1003.
+Condition for receipt of funds
+(a)
+In general
+A State is eligible to receive a payment under this title if the chief executive officer of the State, or designee, in consultation and coordination with the chief State election official, has filed with the Commission a statement certifying that the State is in compliance with the requirements referred to in subsection (b). A State may meet the requirement of the previous sentence by filing with the Commission a statement which reads as follows:
+______ hereby certifies that it is in compliance with the requirements referred to in section 1003(b) of the Help America Vote Act of 2002.
+(with the blank to be filled in with the name of the State involved).
+(b)
+State plan requirement; certification of compliance with applicable laws and requirements
+The requirements referred to in this subsection are as follows:
+(1)
+The State has filed with the Commission a State plan which the State certifiesâ
+(A)
+contains each of the elements described in section 1004;
+(B)
+is developed in accordance with section 1005; and
+(C)
+meets the public notice and comment requirements of section 1006.
+(2)
+The State is in compliance with each of the laws described in section 906, as such laws apply with respect to this Act.
+(3)
+To the extent that any portion of the payment is used for activities other than implementing the recommendations of the Commission with respect to best practices for cybersecurity of Federal elections and election audits under section 248(d)â
+(A)
+the State's proposed uses of the payment are not inconsistent with such recommendations; and
+(B)
+the use of the funds under this subparagraph is consistent with the requirements of section 1001(b)(2)(B).
+(c)
+Methods of compliance left to discretion of state
+The specific choices on the methods of complying with the elements of a State plan shall be left to the discretion of the State.
+(d)
+Timing for filing of certification
+A State may not file a statement of certification under subsection (a) until the expiration of the 45-day period which begins on the date the State plan under this section has been published on both the website of the chief State election official and the website of the Election Assistance Commission pursuant to section 1005(b).
+(e)
+Chief State election official defined
+In this title, the
+chief State election official
+of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 (
+42 U.S.C. 1973ggâ8
+) to be responsible for coordination of the State's responsibilities under such Act.
+1004.
+State plan
+(a)
+In general
+The State plan shall contain a description of each of the following:
+(1)
+How the State will use the payment under this title to implement the recommendations of the Commission with respect to best practices for cybersecurity of Federal elections and election audits under section 248(d) and, if applicable under section 1001(b)(2), to carry out other activities to improve the administration of elections.
+(2)
+How the State will distribute and monitor the distribution of the payment to units of local government or other entities in the State for carrying out the activities described in paragraph (1), including a description ofâ
+(A)
+the criteria to be used to determine the eligibility of such units or entities for receiving the payment; and
+(B)
+the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed, consistent with the performance goals and measures adopted under paragraph (3).
+(3)
+How the State will adopt performance goals and measures that will be used by the State to determine its success and the success of units of local government in the State in carrying out the plan, including timetables for meeting each of the elements of the plan, descriptions of the criteria the State will use to measure performance and the process used to develop such criteria, and a description of which official is to be held responsible for ensuring that each performance goal is met.
+(4)
+How the State will conduct ongoing management of the plan, except that the State may not make any material change in the administration of the plan unless the changeâ
+(A)
+is developed and published on the website of the chief State election official and the website of the Election Assistance Commission in accordance with section 1005 in the same manner as the State plan;
+(B)
+is subject to public notice and comment in accordance with section 1006 in the same manner as the State plan; and
+(C)
+takes effect only after the expiration of the 30-day period which begins on the date the change has been published on both the website of the chief State election official and the website of the Election Assistance Commission.
+(5)
+A description of the committee which participated in the development of the State plan in accordance with section 1005 and the procedures followed by the committee under such section and section 1006.
+(b)
+Protection against actions based on information in plan
+(1)
+In general
+No action may be brought under this Act against a State or other jurisdiction on the basis of any information contained in the State plan filed under this title.
+(2)
+Exception for criminal acts
+Paragraph (1) may not be construed to limit the liability of a State or other jurisdiction for criminal acts or omissions.
+1005.
+Process for development and filing of plan; publication by commission
+(a)
+In general
+The chief State election official shall develop the State plan under this title through a committee of appropriate individuals, including the chief election officials of the two most populous jurisdictions within the State, other local election officials, stake holders, and other citizens, appointed for such purpose by the chief State election official.
+(b)
+Publication of plan by commission
+After receiving the State plan of a State under this title, the Commission shall cause to have the plan published on both the website of the chief State election official and the website of the Election Assistance Commission.
+1006.
+Requirement for public notice and comment
+For purposes of section 1003(b)(1)(C), a State plan meets the public notice and comment requirements of this section ifâ
+(1)
+not later than 30 days prior to the submission of the plan, the State made a preliminary version of the plan available for public inspection and comment;
+(2)
+the State publishes notice that the preliminary version of the plan is so available; and
+(3)
+the State took the public comments made regarding the preliminary version of the plan into account in preparing the plan which was filed with the Commission.
+1007.
+Authorization of appropriations
+(a)
+In general
+There are authorized to be appropriated for payments under this title for fiscal year 2018, $325,000,000.
+(b)
+Availability
+Any amounts appropriated pursuant to the authority of subsection (a) shall remain available without fiscal year limitation until expended.
+1008.
+Reports
+Not later than 6 months after the end of the fiscal year for which a State received a payment under this title, the State shall submit a report to the Commission on the activities conducted with the funds provided, and shall include in the reportâ
+(1)
+a list of expenditures made with respect to each category of activities described in section 1001(b); and
+(2)
+an analysis and description of the activities funded under this title to meet the requirements of this title and an analysis and description of how such activities conform to the State plan under section 1004.
+.
+(b)
+Clerical amendment
+The table of contents of such Act is amended by adding at the end the following:
+TITLE XâElection Technology Improvement Grants
+Sec. 1001. Election technology improvement grants.
+Sec. 1002. Allocation of funds.
+Sec. 1003. Condition for receipt of funds.
+Sec. 1004. State plan.
+Sec. 1005. Process for development and filing of plan; publication by commission.
+Sec. 1006. Requirement for public notice and comment.
+Sec. 1007. Authorization of appropriations.
+Sec. 1008. Reports.
+.
+II
+Voter registration
+201.
+Federal electronic voter registration application form
+(a)
+In general
+The National Voter Registration Act of 1993 (
+52 U.S.C. 20501
+et seq.) is amended by inserting after section 6 the following new section:
+6A.
+Online voter registration
+(a)
+Development
+The Election Assistance Commission shall, in consultation with chief election officials of the States, develop an online voter registration platform whichâ
+(1)
+contains an electronic version of the mail voter registration application form prescribed under section 9(a)(2) (in this section referred to as the
+electronic voter registration application form
+) thatâ
+(A)
+meets the requirements of section 9(b) and section 303(a)(4) of the Help America Vote Act of 2002; and
+(B)
+allows for the applicant to provideâ
+(i)
+sufficient information required by the State or jurisdiction in which the applicant is registering for the purposes of identifying an existing signature of the applicant on file with such State or jurisdiction; or
+(ii)
+an electronic signature in such form or by such method as is acceptable by the State or jurisdiction to which the applicant is registering; and
+(2)
+(A)
+requires an applicant to indicate whether the applicant is currently registered to vote in any other jurisdiction (and, if so, to provide information identifying such other jurisdiction); and
+(B)
+in the case of an applicant who is registered to vote in another jurisdiction, treats submission and acceptance of such application in a new jurisdiction as a request to cancel registration in such other jurisdiction.
+(b)
+Duties of Election Assistance Commission
+(1)
+Transmission of completed applications and cancellation requests
+The Election Assistance Commission shall automatically forward completed electronic voter registration application forms and cancellation requests pursuant to subsection (a)(2)(B) to the appropriate chief State election officials and, acting through such officials, to appropriate State and local election officials in the State.
+(2)
+Registration through State-based platforms
+If the chief election official of a State certifies that the State has developed a platform that meets the requirements of subsection (a), the Election Assistance Commission shall automatically connect applicants for registration in that State to such State platform in lieu of the platform developed under subsection (a).
+(c)
+Acceptance of
+completed applications
+A State shall accept an electronic voter registration application form transmitted under subsection (b), and ensure that the individual is registered to vote in the State, if the individual meets the same voter registration requirements applicable to individuals who register to vote by mail in accordance with section 6(a)(1) using the mail voter registration application form prescribed by the Election Assistance Commission pursuant to section 9(a)(2).
+(d)
+Procedures if no existing electronic signature
+If a State does not accept an electronic signature for individuals registering electronically and there is insufficient information to identify an existing signature of the applicant on file with the State or jurisdiction, the State shall allow individuals to provide a signature at the poll prior to voting for the first time in such jurisdiction after acceptance of an electronic voter registration form.
+(e)
+First-Time voters
+(1)
+In general
+Subject to paragraph (2), a State may by law require a person to vote in person ifâ
+(A)
+the person was registered to vote in a jurisdiction electronically; and
+(B)
+the person has not previously voted in that jurisdiction.
+(2)
+Exception
+Paragraph (1) does not apply in the case of a personâ
+(A)
+who is entitled to vote by absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act;
+(B)
+who is provided the right to vote otherwise than in person under section 3(b)(2)(B)(ii) of the Voting Accessibility for the Elderly and Handicapped Act;
+(C)
+who has provided sufficient information for the purposes of identifying an existing signature of the applicant on file with such State or jurisdiction; or
+(D)
+who is entitled to vote otherwise than in person under any other Federal law.
+.
+(b)
+Conforming Amendments
+(1)
+State procedures
+Section 4(a) of the National Voter Registration Act of 1993 (
+52 U.S.C. 20503(a)
+) is amendedâ
+(A)
+by striking
+and
+at the end of paragraph (2);
+(B)
+by redesignating paragraph (3) as paragraph (4); and
+(C)
+by inserting after paragraph (2) the following new paragraph:
+(3)
+by electronic application pursuant to section 6A; and
+.
+(2)
+Timing of
+registration
+Section 8(a)(1) of the National Voter Registration Act of 1993 (
+52 U.S.C. 20507(a)(1)
+) is amendedâ
+(A)
+by striking
+and
+at the end of subparagraph (C);
+(B)
+by redesignating subparagraph (D) as subparagraph (E); and
+(C)
+by inserting after subparagraph (C) the following new subparagraph:
+(D)
+in the case of registration online under section 6A, if the valid voter registration application is submitted not later than the lesser of 20 days, or the period provided by State law, before the date of the election (as determined by treating the date on which the application is completed electronically as the date on which it is submitted); and
+.
+(3)
+Informing
+applicants of eligibility requirements and penalties
+Section 8(a)(5) of such Act (
+52 U.S.C. 20507(a)(5)
+) is amended by striking
+and 7
+and inserting
+6A, and 7
+.
+202.
+Voter registration deadline
+Section 8(a)(1) of the National Voter Registration Act of 1993 (
+52 U.S.C. 20507(a)(1)
+) is amended by striking
+30 days
+each place it appears and inserting
+28 days
+.
+203.
+Change of address
+(a)
+Modification of procedures
+(1)
+In general
+Section 8(e) of the National Voter Registration Act of 1993 (
+52 U.S.C. 20507(e)
+) is amended to read as follows:
+(e)
+Procedure for voting following failure To return card
+(1)
+Notwithstanding failure to notify the registrar of the change of address prior to the date of an election, a registrant who has moved from an address in the State to an address in the same State shall, upon oral or written affirmation by the registrant of the change of address before an election official, be permitted to voteâ
+(A)
+at the polling place of the registrant's current address; or
+(B)
+at a central location within the same registrar's jurisdiction.
+(2)
+If the registration records indicate that a registrant has moved from an address in the area covered by a polling place, the registrant shall, upon oral or written affirmation by the registrant before an election official that the registrant continues to reside at the address previously made known to the registrar, be permitted to voteâ
+(A)
+at that polling place; or
+(B)
+at a central location within the same registrar's jurisdiction.
+.
+(2)
+Effective date
+The amendment made by this section shall take effect on January 1, 2019.
+(b)
+Inclusion of electronic voter registration application in USPS Online Change of Address process
+(1)
+In general
+The Postmaster General shall ensure that the United States Postal Service Online Change of Address processâ
+(A)
+incorporates the online voter registration platform developed under section 6A of the National Voter Registration Act of 1993, as added by section 201; and
+(B)
+allows individuals to register to vote during the process.
+(2)
+Transmission of completed applications
+The Postmaster General shall coordinate with the Election Assistance Commission to ensure that applications and requests for cancellation through the platform under paragraph (1) are forwarded in accordance with section 6A(b)(1) of the National Voter Registration Act of 1993, as added by section 201.
+204.
+Mail voter registration form may not require full social security number
+Section 9(b) of the National Voter Registration Act of 1993 (
+52 U.S.C. 20508(b)
+) is amendedâ
+(1)
+in paragraph (1), by inserting
+except as provided in paragraph (2)
+before
+may require
+;
+(2)
+by redesignating paragraphs (2), (3), and (4), as paragraphs (3), (4), and (5), respectively; and
+(3)
+by inserting after paragraph (1) the following new paragraph:
+(2)
+may not require more than the last 4 digits of an applicant's social security number;
+.
+III
+Voting
+301.
+Availability of early voting and no-excuse absentee voting
+(a)
+Requirements
+Subtitle A of title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21081
+et seq.) is amendedâ
+(1)
+by redesignating sections 304 and 305 as sections 305 and 306, respectively; and
+(2)
+by inserting after section 303 the following new section:
+304.
+Availability of voting prior to Election Day
+(a)
+In general
+Each State shallâ
+(1)
+allow individuals to vote in an election for Federal office prior to the date of the election throughâ
+(A)
+early voting which meets the requirements of subsection (b); or
+(B)
+voting by mail which meets the requirements of subsection (c); and
+(2)
+publicize the details of any voting allowed under paragraph (1).
+(b)
+Early voting
+Early voting meets the requirements of this subsection if such voting occursâ
+(1)
+over a period of 7 consecutive days (including weekend days) during the 10-day period preceding the date of the election; and
+(2)
+for no less than 8 hours on each day such early voting occurs.
+(c)
+Voting by mail
+Voting by mail meets the requirements of this subsection ifâ
+(1)
+the State does not require an excuse in order to obtain and cast a ballot by mail for any Federal election; and
+(2)
+the State does not include any requirements for notarization or other formal authentication.
+(d)
+Effective date
+This section shall apply with respect to elections held on or after January 1, 2019.
+.
+(b)
+Conforming amendment relating to enforcement
+Section 401 of such Act (
+52 U.S.C. 21111
+) is amended by striking
+and 303
+and inserting
+303, and 304
+.
+(c)
+Clerical amendment
+The table of contents of such Act is amendedâ
+(1)
+by redesignating the items relating to sections 304 and 305 as relating to sections 305 and 306, respectively; and
+(2)
+by inserting after the item relating to section 303 the following new item:
+Sec. 304. Availability of voting prior to Election Day.
+.
+302.
+Requirements for counting provisional ballots
+(a)
+In general
+Section 302 of the Help America Vote Act of 2002 (
+52 U.S.C. 21082
+) is amendedâ
+(1)
+by redesignating subsection (d) as subsection (e); and
+(2)
+by inserting after subsection (c) the following new subsection:
+(d)
+Statewide counting of provisional ballots
+(1)
+In general
+For purposes of subsection (a)(4), notwithstanding the precinct or polling place at which a provisional ballot is cast within the State, the appropriate election official shall count each vote on such ballot for each election in which the individual who cast such ballot is eligible to vote within the State.
+(2)
+Effective date
+This subsection shall apply with respect to elections held on or after January 1, 2019.
+.
+(b)
+Conforming amendment
+Section 302(e) of such Act (
+52 U.S.C. 21082(e)
+), as redesignated by subsection (a), is amended by striking
+Each State
+and inserting
+Except as provided in subsection (d)(2), each State
+.

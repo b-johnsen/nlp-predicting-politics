@@ -1,0 +1,283 @@
+1.
+Short title
+This Act may be cited as the
+Building Integrated Grids With Inter-Regional Energy Supply Act
+or the
+BIG WIRES Act
+.
+2.
+Findings
+Congress finds thatâ
+(1)
+interregional electric transmission is foundational to a modern grid and a growing economy based on affordable and abundant energy;
+(2)
+in recent decades, the interregional electric grid infrastructure of North America, and of the United States in particular, has stagnated;
+(3)
+since 2014, the total capacity of planned or newly constructed large-scale interregional transmission in North America has amounted to less than
+1/3
+that of South America,
+1/6
+that of Europe, and
+1/30
+that of China;
+(4)
+such a shortage of interregional transmission threatens the reliability of the electric grid of the United States and its resiliency to extreme weather events and cyber and physical attacks while artificially inflating energy prices for the people of the United States;
+(5)
+the damages resulting from that interregional transmission shortfall have been borne across the United States, in part during extreme weather events, including the 2022 freeze affecting the majority of the United States, the 2020 and 2022 heat waves in California, the 2019 heat wave and 2021 freeze in Texas, the 2018 cyclone on the East Coast, and the 2014 polar vortex in the Northeast and Midwest, and those extreme weather events collectively cost the people of the United States hundreds of billions of dollars;
+(6)
+new interregional transmission, and transfer capability achieved by means of other technologies and grid-operational practices, represents a unique opportunity to fortify the critical energy infrastructure of the United States while lowering the cost of living for families;
+(7)
+studies of interregional transmission routinely find benefit-cost ratios as high as 2.5, in line with real-world experience;
+(8)
+by relieving grid congestion and promoting more efficient grid planning and operation, new interregional transmission presents an all-of-the-above opportunity for the full energy-generating portfolio of renewable, fossil, and nuclear resources of the United States; and
+(9)
+interregional transmission represents a 2-way value proposition, with secure careers for workers in energy communities and competitively sourced, low-cost, reliable energy for industrial, commercial, and residential energy customers nationwide.
+3.
+Minimum interregional transfer capabilities and requirements
+(a)
+In general
+Part II of the Federal Power Act (
+16 U.S.C. 824 et seq.
+) is amended by adding at the end the following:
+224.
+Interregional reliability
+(a)
+Definitions
+In this section:
+(1)
+Coincident interregional transfer capability
+The term
+coincident interregional transfer capability
+, with respect to an interregional transmission planning region, means the ability of the interconnected electrical system to coincidently move electric energy reliably between the interregional transmission planning region in question and the rest of the interconnected electrical system.
+(2)
+Commission
+The term
+Commission
+means the Federal Energy Regulatory Commission.
+(3)
+Interregional transfer capability
+The term
+interregional transfer capability
+means the ability of the interconnected electrical system to move electric energy reliably between 2 or more interregional transmission planning regions.
+(4)
+Interregional transmission planning region
+The term
+interregional transmission planning region
+means a region for which electric energy transmission planning is appropriate, as determined by the Commission, such as a region approved by the Commission to meet the requirements of the final rule of the Commission entitled
+Transmission Planning and Cost Allocation by Transmission Owning and Operating Public Utilities
+(Docket No. RM10â23).
+(5)
+Minimum interregional transfer capability
+The term
+minimum interregional transfer capability
+means, as applicableâ
+(A)
+the coincident interregional transfer capability described in subsection (b)(1)(A); or
+(B)
+a higher coincident interregional transfer capability established in accordance with subsection (b)(1)(B).
+(6)
+Minimum interregional transfer requirement
+The term
+minimum interregional transfer requirement
+means any requirement to meet or maintain a minimum interregional transfer capability.
+(b)
+Establishment of minimum interregional transfer capabilities
+(1)
+In general
+Not later than 18 months after the date of enactment of this section, the Commission shall promulgate a final rule thatâ
+(A)
+requires each interregional transmission planning region to establish or increase interregional transfer capabilities such that the coincident interregional transfer capability of each interregional transmission planning region is not less than the lesser ofâ
+(i)
+30 percent of its own present-day coincident peak load; and
+(ii)
+the sum obtained by addingâ
+(I)
+the present-day coincident interregional transfer capability of the interregional transmission planning region; and
+(II)
+15 percent of its own present-day coincident peak load;
+(B)
+on a showing of net benefits, may require 1 or more interregional transmission planning regions to meet or maintain a coincident interregional transfer capability that exceeds the applicable minimum interregional transfer capability described in subparagraph (A);
+(C)
+based on the applicable minimum interregional transfer capability, shall govern the establishment of minimum interregional transfer requirements for interconnections between interregional transmission planning regions;
+(D)
+calculates the present-day coincident interregional transfer capabilities of the interregional transmission planning regions byâ
+(i)
+defining the present-day coincident interregional transfer capability of each interregional transmission planning region as being equal to the greater ofâ
+(I)
+the coincident import capability of the interregional transmission planning region; and
+(II)
+the coincident export capability of the interregional transmission planning region;
+(ii)
+defining the coincident import capability of each interregional transmission planning region as being equal to the absolute value of the first
+1/10
+of the first percentile (0.1th percentile) of the coincident hourly electrical transfers of that interregional transmission planning region;
+(iii)
+defining the coincident export capability of the interregional transmission planning region as being equal to the absolute value of the last
+1/10
+of the 99th percentile (99.9th percentile) of the coincident hourly electrical transfers of that interregional transmission planning region;
+(iv)
+defining the coincident hourly electrical transfers of each interregional transmission planning region as being equal to the sum obtained by adding, with respect to each hour, the hourly electrical transfers of all balancing authorities that, in the determination of the Commission, most closely correspond to the interregional transmission planning region in question using data from Form EIAâ930 of the Energy Information Administration for the 5-year period ending onâ
+(I)
+for each plan described in subparagraph (G) that is required to be submitted by the date described in that subparagraph, the date that is 1 year before the date of enactment of this section; and
+(II)
+for each plan submitted under paragraph (4)(A) and each updated plan submitted under paragraph (4)(B), the date that is 1 year before the deadline for submission of that plan; and
+(v)
+defining the hourly electrical transfers of each interregional transmission planning region as being equal to, for each hourâ
+(I)
+the hourly exports of that interregional transmission planning region; minus
+(II)
+the hourly imports of that interregional transmission planning region;
+(E)
+calculates the present-day coincident peak loads of the interregional transmission planning regions byâ
+(i)
+defining the present-day coincident peak load of each interregional transmission planning region as being equal to the last
+1/10
+of the 99th percentile (99.9th percentile) of the coincident hourly load of that interregional transmission planning region; and
+(ii)
+defining the coincident hourly load of each interregional transmission planning region as being equal to the sum obtained by adding, with respect to each hour, the hourly loads of all balancing authorities that, in the determination of the Commission, most closely correspond to the interregional transmission planning region in question using data from Form EIAâ930 of the Energy Information Administration for the 5-year period ending onâ
+(I)
+for each plan described in subparagraph (G) that is required to be submitted by the date described in that subparagraph, the date that is 1 year before the date of enactment of this section; and
+(II)
+for each plan submitted under paragraph (4)(A) and each updated plan submitted under paragraph (4)(B), the date that is 1 year before the deadline for submission of that plan;
+(F)
+for purposes of determining the adequacy of a plan described in subparagraph (G) to provide for the achievement of the minimum interregional transfer capability applicable to an interregional transmission planning region, describes and employs a clear methodology for calculating anticipated changes to the coincident peak load and coincident interregional transfer capability of an interregional transmission planning region designed to correspond approximately to what would be reasonably expected to be calculated under subparagraphs (D) and (E) at a future date based onâ
+(i)
+the construction or modification of new or existing transmission facilities, including facilities built between interregional transmission planning regions and facilities within interregional transmission planning regions that impact the ability of the interregional transmission planning regions to move electric energy between themselves and neighboring interregional transmission planning regions;
+(ii)
+the use of nontransmission alternatives, including grid-enhancing technologies;
+(iii)
+changes to generation or load within interregional transmission planning regions, including energy efficiency and demand response programs; and
+(iv)
+other changes to the bulk-power system (as defined in section 215(a)) or the operation of the bulk-power system that are expected to meaningfully alter coincident peak loads or coincident interregional transfer capabilities, as determined by the Commission;
+(G)
+establishes a process for each interregional transmission planning region to submit, jointly with each other interregional transmission planning region with which the interregional transmission planning region has, or plans to establish, an interregional transfer capability, not later than 2 years after the effective date of the final rule, a plan thatâ
+(i)
+designates 1 or more entities for construction of new facilities or modification of existing facilities to achieve the applicable minimum interregional transfer capability in an efficient and timely manner for the benefit of ultimate consumers;
+(ii)
+allocates the costs of the facilities described in clause (i); and
+(iii)
+includes a timeline for the construction of the facilities described in clause (i)â
+(I)
+by December 31, 2035; or
+(II)
+if any construction will extend beyond that date, that includes an explanation of the reasons for that construction extending beyond that date; and
+(H)
+explains how the Commission will designate 1 or more entities to construct or modify, and how the Commission will allocate the costs of, the facilities described in clause (i) of subparagraph (G) in the event that an interregional transmission planning region fails to submit a plan in accordance with that subparagraph.
+(2)
+Presumptions; consultation
+In establishing the methodology under paragraph (1)(F), the Commission mayâ
+(A)
+establish and use simplified, rebuttable presumptions relating to the extent to which coincident interregional transfer capabilities or coincident peak loads will be anticipated to be altered by facilities, technologies, or programs described in clauses (i) through (iv) of that paragraph; and
+(B)
+consult with appropriate officials of the Department of Energy.
+(3)
+Considerations
+In carrying out paragraph (1), the Commission shall consider and determine the role of transfer capabilities between interregional transmission planning regions and other electrical systems in North America in meeting the requirements of that paragraph.
+(4)
+Plans
+(A)
+New interregional transmission planning regions
+Not later than 2 years after the establishment of any new interregional transmission planning region, the new interregional transmission planning region and each interregional transmission planning region with which the new interregional transmission planning region has, or plans to establish, an interregional transfer capability, shall jointly submit to the Commission a plan described in paragraph (1)(G) to meet the minimum interregional transfer capability applicable to that new interregional transmission planning region.
+(B)
+Updates
+(i)
+In general
+The Commission shall require each plan submitted in accordance with paragraph (1)(G) or subparagraph (A) to be updated, and the updated plan submitted to the Commission, every 5 years after the deadline for submission of the initial plan.
+(ii)
+Requirement
+An updated plan submitted in accordance with clause (i) shall, at a minimum, account for any changes in regional coincident peak load since the most recent previous submission.
+(C)
+Review
+The Commission shall review each plan submitted in accordance with paragraph (1)(G) or subparagraph (A) or (B) in a manner consistent withâ
+(i)
+the principles described in subsection (g); and
+(ii)
+sections 205 and 206, with respect to the requirement that all rates, charges, terms, and conditions be just and reasonable and not unduly discriminatory or preferential.
+(c)
+Equal application
+In carrying out this section, including with respect to the imposition of, and assessing compliance with, any minimum interregional transfer requirement, the Commission shall apply all provisions of this section, and any regulations promulgated under this section, equally to all interregional transmission planning regions, including by using the same terms, definitions, and standards with respect to each interregional transmission planning region.
+(d)
+Commission jurisdiction
+The Commission shall have jurisdiction within the United States over all transmitting utilities for the purposes of establishing minimum interregional transfer capabilities in accordance with this section and establishing and enforcing compliance with minimum interregional transfer requirements.
+(e)
+Electric Reliability Council of Texas
+(1)
+In general
+The Public Utility Commission of Texas may, at its sole discretion, choose to support the reliability and affordability of the ERCOT system by voluntarily complying with a minimum interregional transfer requirement relating to a coincident interregional transfer capability that is equal to a percentage, determined by ERCOT, of the coincident peak load of ERCOT.
+(2)
+Savings clause
+(A)
+In general
+The construction or operation of an interregional facility, or the allocation of costs for that construction, to meet a minimum interregional transfer capability shall not affect the jurisdiction of the Commission with respect toâ
+(i)
+ERCOT; or
+(ii)
+any ERCOT utility.
+(B)
+Not public utilities
+The construction or operation of a facility described in subparagraph (A), or the allocation of costs for that construction, shall not render ERCOT or any ERCOT utility a public utility.
+(f)
+Data quality
+(1)
+In general
+Not later than 180 days after the date of enactment of this section, the Administrator of the Energy Information Administration shall submit to the Commission an updated version of the data from Form EIAâ930 for use in accordance with subparagraphs (D) and (E) of subsection (b)(1).
+(2)
+Errors
+In updating the Form EIAâ930 data for purposes of paragraph (1), the Administrator of the Energy Information Administration, to the maximum extent practicable, shall control for the quality of the data byâ
+(A)
+identifying any suspected erroneous values; and
+(B)
+removing those suspected erroneous values or overwriting those suspected erroneous values with data that, in the determination of the Administrator, is likely to be more accurate.
+(g)
+Requirement
+In carrying out this section, the Commission shall endeavorâ
+(1)
+to improve the reliability and resilience of the electric grid of the United States, including duringâ
+(A)
+extreme weather scenarios;
+(B)
+physical attacks; and
+(C)
+cyber attacks; and
+(2)
+to reduce the cost of delivered power to ultimate consumers by increasing access to low-cost generating resources.
+.
+(b)
+Conforming amendments
+Section 201 of the Federal Power Act (
+16 U.S.C. 824
+) is amendedâ
+(1)
+in subsection (b)(2)â
+(A)
+in the first sentenceâ
+(i)
+by striking
+section 201(f)
+and inserting
+subsection (f)
+; and
+(ii)
+by striking
+and 222
+and inserting
+222, and 224
+; and
+(B)
+in the second sentence, by striking
+or 222
+and inserting
+222, or 224
+; and
+(2)
+in subsection (e)â
+(A)
+by striking
+206(f),
+; and
+(B)
+by striking
+or 222
+and inserting
+222, or 224
+.

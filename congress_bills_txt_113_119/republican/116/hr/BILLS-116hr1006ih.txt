@@ -1,0 +1,112 @@
+1.
+Short title
+This Act may be cited as the
+Open Internet Act of 2019
+.
+2.
+Internet openness
+Title I of the Communications Act of 1934 (
+47 U.S.C. 151
+et seq.) is amended by adding at the end the following new section:
+14.
+Internet openness
+(a)
+Duties of broadband internet access service providers
+(1)
+In general
+To the extent that a person is engaged in the provision of broadband internet access service, such personâ
+(A)
+shall not block lawful content, applications, or services, or prohibit the use of non-harmful devices, subject to reasonable network management;
+(B)
+shall not unjustly or unreasonably discriminate in transmitting lawful traffic over a consumerâs broadband internet access service; and
+(C)
+shall disclose accurate and relevant information in plain language regarding the price, performance, and network management practices of such personâs broadband internet access service sufficientâ
+(i)
+for consumers to make informed choices regarding use of such service; and
+(ii)
+for content, application, service, and device providers to develop and market new internet offerings.
+(2)
+Commission requirements
+The Commission may promulgate rules to implement paragraph (1)(C). Any such rulesâ
+(A)
+shall require, at a minimum, such person to display or provide links to the required information on an internet website and to update such information in a timely fashion to reflect material changes in the information subject to such paragraph; and
+(B)
+shall not require public disclosure ofâ
+(i)
+competitively sensitive information;
+(ii)
+information that would compromise network security; or
+(iii)
+information that would undermine the efficacy of reasonable network management practices.
+(3)
+Rule of construction
+For purposes of paragraph (1)(B), reasonable network management shall not be construed to be unjustly or unreasonably discriminatory.
+(b)
+Enforcement
+(1)
+Commission authority
+The Commission shall enforce the duties established in subsections (a)(1)(A) and (a)(1)(B) through adjudication of a complaint alleging that a service violates one or more of such duties. Nothing in this section limits the Commissionâs authority to adopt procedures for the adjudication of a complaint, to adopt an order requiring compliance from an entity subject to a complaint, to initiate an enforcement action, or to issue a declaratory ruling or guidance.
+(2)
+Injunctive relief and penalties
+If the Commission finds that a provider of broadband internet access service has violated any provision of subsection (a), the Commission may issue an order enjoining such violation, including interim injunctive relief. If the Commission finds that a provider of broadband internet access service has engaged in a willful and knowing violation of such subsection, the Commission may issue a fine or forfeiture of no more than $2,000,000 for any practice found to violate such subsection, consistent with the procedures in section 503. The Commission may not order the payment of damages for any violation of such subsection.
+(3)
+No additional private rights authorized
+Nothing in this section shall be construed to authorize any private right of action in court.
+(c)
+Relationship to other titles and laws
+(1)
+The Commission
+The Commission may not impose regulations on broadband internet access service or any component thereof under title II, except in the event that a provider of broadband internet access service elects to provide the transmission component of such service as a telecommunications service under such title. Except as expressly provided in this section, nothing in this section shall increase, reduce, or otherwise alter the Commissionâs authority.
+(2)
+Providers
+Nothing in this section shall supersede any obligation or authorization a provider of broadband internet access service may have, or limit the providerâs ability, to address the needs of emergency communications, law enforcement, public safety, or national security, consistent with applicable law. Nothing in this section shall prohibit reasonable efforts by a provider of broadband internet access service to address copyright infringement or other unlawful activity.
+(3)
+Savings clause
+Nothing in this section shall increase, reduce, or otherwise alter the antitrust or other authorities of the Department of Justice or the Federal Trade Commission.
+(d)
+Definitions
+For purposes of this section:
+(1)
+Broadband internet access service
+(A)
+In general
+The term
+broadband internet access service
+means a mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up internet access service.
+(B)
+Functional equivalent; evasion
+The term includes any service thatâ
+(i)
+the Commission finds to be providing a functional equivalent of the service described in subparagraph (A); or
+(ii)
+is used to evade the protections set forth in this section.
+(2)
+Reasonable network management
+(A)
+In general
+The term
+reasonable network management
+means a network management practice that is appropriate and tailored to achieving a legitimate network management function, taking into account the particular network architecture or technology of the provider.
+(B)
+Inclusions
+The term includes appropriate and tailored practicesâ
+(i)
+to reduce or mitigate the effects of congestion on a broadband internet access service providerâs network;
+(ii)
+to ensure network security or integrity;
+(iii)
+to address traffic that is harmful to or unwanted byâ
+(I)
+users, including premises operators;
+(II)
+the providerâs network; or
+(III)
+the internet;
+(iv)
+to meet the needs of public safety; and
+(v)
+to provide services or capabilities consistent with a consumerâs choices regarding parental control or security capabilities.
+(C)
+Considerations
+In determining whether a network management practice is reasonable, the Commission shall consider technical requirements, standards, or best practices adopted by one or more independent, widely recognized internet community governance initiatives or standard-setting organizations.
+.

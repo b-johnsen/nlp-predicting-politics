@@ -1,0 +1,334 @@
+1.
+Short title
+This Act may be cited as the
+Data Breach Prevention and Compensation Act of 2019
+.
+2.
+Definitions
+In this Act:
+(1)
+Affected consumer
+The term
+affected consumer
+means any individual to whom personally identifying information pertains that was, or that may have been, affected by a covered breach.
+(2)
+Agency
+The term
+agency
+has the meaning given the term in section 551 of title 5, United States Code.
+(3)
+Career appointee
+The term
+career appointee
+has the meaning given the term in section 3132(a) of title 5, United States Code.
+(4)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(5)
+Consumer report; consumer reporting agency
+The terms
+consumer report
+and
+consumer reporting agency
+have the meanings given the terms in section 603 of the Fair Credit Reporting Act (
+15 U.S.C. 1681a
+).
+(6)
+Covered breach
+The term
+covered breach
+means any instance in which not less than 1 piece of personally identifying information held by a covered consumer reporting agency is exposed, or is reasonably likely to have been exposed, to an unauthorized party.
+(7)
+Covered consumer reporting agency
+The term
+covered consumer reporting agency
+meansâ
+(A)
+a consumer reporting agency described in section 603(p) of the Fair Credit Reporting Act (
+15 U.S.C. 1681a(p)
+); or
+(B)
+a consumer reporting agency that earns not less than $7,000,000 in annual revenue from the sale of consumer reports.
+(8)
+Detail
+The term
+detail
+means a temporary assignment of an employee to a different position for a specified period, with the employee returning to the regular duties of the employee at the end of the specified period.
+(9)
+Director
+The term
+Director
+means the Director of the Office.
+(10)
+Office
+The term
+Office
+means the Office of Cybersecurity established under section 3(a).
+(11)
+Personally identifying information
+The term
+personally identifying information
+means, with respect to an individualâ
+(A)
+the social security number of the individual;
+(B)
+a driverâs license number of the individual;
+(C)
+a passport number of the individual;
+(D)
+an alien registration number or other government-issued unique identification number of the individual;
+(E)
+unique biometric data, such as a faceprint, a fingerprint, a voice print, an iris image, or any other unique physical representation of the individual;
+(F)
+the first and last name of the individual, or the first initial of the first name and the last name of the individual, in combination with any information that relates toâ
+(i)
+the past, present, or future physical or mental health or condition of the individual; or
+(ii)
+the provision of health care to, or a diagnosis of, the individual;
+(G)
+(i)
+a financial account number, debit card number, or credit card number of the individual; or
+(ii)
+any passcode required to access an account described in clause (i); and
+(H)
+such additional information, as determined by the Director.
+3.
+Cybersecurity standards and FTC authority
+(a)
+Establishment
+There is established in the Commission an Office of Cybersecurity, which shall be headed by a Director, who shall be a career appointee.
+(b)
+Duties
+The Officeâ
+(1)
+shallâ
+(A)
+supervise covered consumer reporting agencies with respect to data security;
+(B)
+promulgate regulations, through notice and comment rulemaking that complies with section 553 of title 5, United States Code, for effective data security for covered consumer reporting agencies, including requirements for a covered consumer reporting agency toâ
+(i)
+provide the Commission with descriptions of technical and organizational security measures of the consumer reporting agency, includingâ
+(I)
+system and network security measures, includingâ
+(aa)
+asset management, includingâ
+(AA)
+an inventory of devices of the covered consumer reporting agency that are authorized to access data maintained by the covered consumer reporting agency;
+(BB)
+an inventory of software that is authorized by the covered consumer reporting agency to access data maintained by the covered consumer reporting agency, including application whitelisting; and
+(CC)
+secure configurations for hardware and software of the covered consumer reporting agency;
+(bb)
+network management and monitoring, includingâ
+(AA)
+mapped data flows, including functional mission mapping;
+(BB)
+maintenance, monitoring, and analysis of audit logs;
+(CC)
+network segmentation; and
+(DD)
+local and remote access privileges, defined and managed; and
+(cc)
+application management, includingâ
+(AA)
+continuous vulnerability assessment and remediation;
+(BB)
+server application hardening;
+(CC)
+vulnerability handling, such as coordinated vulnerability disclosure policy; and
+(DD)
+patch management, including at, or near, real-time dashboards of patch implementation across network hosts; and
+(II)
+data security measures, includingâ
+(aa)
+data-centric security mechanisms such as format-preserving encryption, cryptographic data-splitting, and data-tagging and lineage;
+(bb)
+encryption for data at rest;
+(cc)
+encryption for data in transit;
+(dd)
+systemwide data minimization evaluations and policies; and
+(ee)
+data recovery capability;
+(ii)
+employ reasonable technical measures and corporate governance processes for continuous monitoring of data, intrusion detection, and continuous evaluation and timely patching of vulnerabilities;
+(iii)
+employ reasonable technical measures and corporate governance processes that satisfy and exceed all relevant data security policy recommendations contained in the framework of the National Institute of Standards and Technology entitled
+Framework for Improving Critical Infrastructure Cybersecurity
+, dated February 12, 2014, or any successor thereto, as determined appropriate by the Office; and
+(iv)
+create and maintain documentation demonstrating that the covered consumer reporting agency is employing the technical measures and corporate governance processes described in clauses (ii) and (iii);
+(C)
+annually examine the data security measures of covered consumer reporting agencies for compliance with the requirements described in clauses (ii) and (iii) of subparagraph (B);
+(D)
+investigate any covered consumer reporting agency if the Office has reason to suspectâ
+(i)
+a covered breach has occurred and the covered consumer reporting agency was subject to the covered breach; or
+(ii)
+the covered consumer reporting agency is not in compliance with the requirements described in clauses (ii) and (iii) of subparagraph (B);
+(E)
+after consultation with members of the technical and academic communities, develop a rigorous, repeatable methodologyâ
+(i)
+for evaluating, testing, and measuring effective data security practices of covered consumer reporting agencies; and
+(ii)
+that employs forms of static and dynamic software analysis and penetration testing;
+(F)
+submit to Congress an annual report on the findings of each investigation carried out under subparagraph (D) during the year covered by the report that includes a statement of how Congress could enhance the authorities of the Office in order to assist the Office in carrying out the duties of the Office under this Act;
+(G)
+determine whether covered consumer reporting agencies are complying with the requirements described in clauses (ii) and (iii) of subparagraph (B); and
+(H)
+coordinate with the National Institute of Standards and Technology and the National Cybersecurity and Communications Integration Center of the Department of Homeland Security; and
+(2)
+mayâ
+(A)
+investigate any covered breach to determine if the covered consumer reporting agency that was subject to the covered breach was in compliance with the requirements described in clauses (ii) and (iii) of paragraph (1)(B) as of the date on which the covered breach occurred; and
+(B)
+if the Director has reason to believe that any covered consumer reporting agency is violating, or in the immediate future will violate, a requirement described in clause (ii) or (iii) of paragraph (1), bring a suit in an appropriate district court of the United States to enjoin any such act or practice.
+(c)
+Staff
+(1)
+In general
+The Director shall, without regard to the civil service laws and regulations, appoint such personnel, including computer security researchers and practitioners with technical expertise in computer science, engineering, and cybersecurity, as the Director determines are necessary to carry out the duties of the Office.
+(2)
+Details
+(A)
+In general
+An employee of the National Institute of Standards and Technology, the Bureau of Consumer Financial Protection, or the National Cybersecurity and Communications Integration Center of the Department of Homeland Security may be detailed to the Office, without reimbursement.
+(B)
+Civil service status and privilege
+Detail under subparagraph (A) shall be without interruption or loss of the civil service status or privilege of the employee who is detailed to the Office.
+4.
+Notification and enforcement
+(a)
+Notification
+(1)
+Notification to the Commission and relevant federal law enforcement and intelligence agencies
+(A)
+Notification to the Commission
+Except as provided in paragraph (3), not later than 10 days after the date on which a covered breach occurs, any covered consumer reporting agency that was subject to the covered breach shall notify the Commission of the covered breach.
+(B)
+Notification to relevant federal law enforcement and intelligence agencies
+Not later than 10 days after the date on which the Commission receives a notification under subparagraph (A) that a covered breach has occurred, the Commission shallâ
+(i)
+notify the relevant Federal law enforcement agencies and intelligence agencies that the covered breach has occurred; and
+(ii)
+with respect to the covered breach, consult with the relevant Federal law enforcement agencies and intelligence agencies, as appropriate.
+(2)
+Notification to affected consumers and the public
+(A)
+In general
+Except as provided in paragraph (3), on an expeditious and practical timeline, as determined appropriate by the Commission, a covered consumer reporting agency that is subject to a covered breach shallâ
+(i)
+submit to each affected consumer with respect to whom the covered consumer reporting agency holds a piece of personally identifying information a notification regarding the covered breach that complies with subparagraph (B); and
+(ii)
+publish on the internet website of the covered consumer reporting agency a notice that contains a statement ofâ
+(I)
+the information described in clauses (i) and (ii) of subparagraph (B) and subclauses (I) and (II) of clause (iii) of that subparagraph; and
+(II)
+the steps that the covered consumer reporting agency is taking to notify the affected consumers described in clause (i) regarding the covered breach.
+(B)
+Notification to affected consumers
+In a notification to affected consumers under subparagraph (A)(i), the covered consumer reporting agency submitting the notification shall include a statement ofâ
+(i)
+the fact that the covered breach occurred;
+(ii)
+the approximate date on which the covered breach occurred; and
+(iii)
+with respect to the covered breachâ
+(I)
+the number of affected consumers;
+(II)
+the measures that the covered consumer reporting agency is taking to remedy the covered breach; and
+(III)
+the potential risks created by the covered breach, a list of which the covered consumer reporting agency shall develop in consultation with the Office.
+(3)
+Delay of notification authorized for law enforcement or national security purposes
+(A)
+Notification by law enforcement agency or intelligence agency
+If a Federal law enforcement agency or intelligence agency to which the Commission has provided notice under paragraph (1)(B)(i) determines that the notification required under paragraph (2) may impede a criminal investigation or national security activityâ
+(i)
+the Federal law enforcement agency or intelligence agency shall provide written notice to the Commission and the covered consumer reporting agency that was subject to the covered breach that is the subject of the notification that statesâ
+(I)
+that the notification required under paragraph (2) shall be delayed for law enforcement or national security purposes; and
+(II)
+the date on which the delay imposed under subclause (I) shall end; and
+(ii)
+subject to subparagraph (B), the covered consumer reporting agency that was subject to the covered breach shall delay notification under paragraph (2) until the date described in clause (i)(II) of this subparagraph.
+(B)
+Extended delay of notification
+If the notification required under paragraph (2) is delayed under subparagraph (A) of this paragraph, a covered consumer reporting agency that is required to provide notice under paragraph (2) shall provide that notice on an expeditious and practical timeline, as determined appropriate by the Commission, after the date on which the law enforcement or national security delay under subparagraph (A) of this paragraph ends, unless a Federal law enforcement or intelligence agency to which the Commission has provided notice under paragraph (1)(B)(i) provides written notification to the Commission and the covered consumer reporting agency that statesâ
+(i)
+that further delay is necessary; and
+(ii)
+the date on which the further delay shall end.
+(C)
+Law enforcement immunity
+No nonconstitutional cause of action shall lie in any court against any agency for acts relating to the delay of notification under subparagraph (A), or the extended delay of notification under subparagraph (B), for law enforcement or national security purposes.
+(b)
+Penalty
+(1)
+In general
+In the event of a covered breach, the Commission shall, not later than 30 days after the date on which the Commission receives notification of the covered breach under subsection (a)(1)(A), commence a civil action to recover a civil penalty in an appropriate district court of the United States against the covered consumer reporting agency that was subject to the covered breach.
+(2)
+Determining penalty amount
+(A)
+In general
+Except as provided in subparagraph (B), in determining the amount of a civil penalty under paragraph (1), the court shall impose a civil penalty on a covered consumer reporting agency ofâ
+(i)
+$100 for each consumer for whom the first and last name, or the first initial of the first name and last name, and 1 other item of personally identifying information were exposed to an unauthorized party; and
+(ii)
+in addition to the penalty imposed under clause (i), an additional $50 for each item of personally identifying information of the consumer, other than an item described in that clause, that was exposed to an unauthorized party.
+(B)
+Exception
+(i)
+In general
+Except as provided in clause (ii), in an action commenced under this subsection, a court may not impose a civil penalty in an amount that is more than 50 percent of the gross revenue of the covered consumer reporting agency against which the action is brought for the fiscal year before the fiscal year in which the covered consumer reporting agency became aware of the covered breach that is the subject of the action.
+(ii)
+Penalty doubled
+In an action commenced under this subsection, the court shall impose a civil penalty on a covered consumer reporting agency in an amount that is 2 times the amount of the penalty described in subparagraph (A), but not greater than 75 percent of the gross revenue of the covered consumer reporting agency for the fiscal year before the fiscal year in which the covered consumer reporting agency became aware of the covered breach that is subject to the action, ifâ
+(I)
+the covered consumer reporting agency fails to notify the Commission of the covered breach before the deadline established under subsection (a)(1)(A); or
+(II)
+the covered consumer reporting agency violates any requirement described in clause (ii) or (iii) of section 3(b)(1)(B).
+(3)
+Proceeds of the penalties
+Of the penalties imposed under this subsectionâ
+(A)
+50 percent shall be used for cybersecurity research and inspections by the Office; and
+(B)
+50 percent shall be used by the Office to be divided fairly among consumers affected by the covered breach.
+(4)
+No preemption
+Nothing in this subsection shall preclude an action by a consumer under State or other Federal law.
+(c)
+Injunctive relief
+The Commission, acting through the Office, may bring suit in an appropriate district court of the United States or in the United States court of any territory to require a covered consumer reporting agency to implement or correct a particular security measure in order to promote effective security in accordance with the requirements described in clauses (ii) and (iii) of section 3(b)(1)(B).
+5.
+Amendments to the Gramm-Leach-Bliley Act
+(a)
+Enforcement relating to disclosure of nonpublic personal information
+Section 505(a)(7) of the Gramm-Leach-Bliley Act (
+15 U.S.C. 6805(a)(7)
+) is amended by inserting
+, including any consumer reporting agency that compiles and maintains files on consumers on a nationwide basis (as defined in section 603(p) of the Fair Credit Reporting Act (
+15 U.S.C. 1681a(p)
+))
+before the period at the end.
+(b)
+Definitions relating to disclosure of nonpublic personal information
+Section 509(3) of the Gramm-Leach-Bliley Act (
+15 U.S.C. 6809(3)
+) is amended by adding at the end the following:
+(E)
+Consumer reporting agencies specifically included
+The term
+financial institution
+includes any consumer reporting agency that compiles and maintains files on consumers on a nationwide basis (as defined in section 603(p) of the Fair Credit Reporting Act (
+15 U.S.C. 1681a(p)
+)).
+.
+6.
+Authorization of appropriations
+There are authorized to be appropriated $100,000,000 to carry out this Act, to remain available until expended.

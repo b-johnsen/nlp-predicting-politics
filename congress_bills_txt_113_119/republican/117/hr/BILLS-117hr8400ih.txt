@@ -1,0 +1,99 @@
+1.
+Short title
+This Act may be cited as the
+Weather Innovation for the Next Generation Act of 2022
+or the
+WING Act of 2022
+.
+2.
+Radar obstruction Research, Development, Test, and Evaluation Program
+(a)
+Radar obstruction research
+Title IV of the Weather Research and Forecasting Innovation Act of 2017 (
+15 U.S.C. 8514 et seq.
+) is amended by adding at the end the following new section:
+415.
+Radar obstruction Research, Development, Test, and Evaluation Program
+(a)
+Establishment
+The Director of the National Weather Service, in coordination with the Assistant Administrator for Oceanic and Atmospheric Research, shall establish a Research, Development, Test, and Evaluation Program (in this section referred to as the
+Program
+) to ensure the continued performance of weather radar detection and prediction capabilities with physical obstructions in the line of sight of such radar.
+(b)
+Requirements
+In carrying out the Program, the Director, in consultation with the Interagency Council for Advancing Meteorological Services, shallâ
+(1)
+partner with industry, academia, Federal, State, and local government entities, and any other entity that the Director considers appropriate;
+(2)
+identify and test existing or near-commercial technologies and solutions that mitigate the potential impact of obstructions on a weather radar;
+(3)
+research additional solutions that could mitigate the effects of an obstruction on weather radar, includingâ
+(A)
+signal processing algorithms;
+(B)
+short-term forecasting algorithms to replace contaminated data; and
+(C)
+the use of dual polarization characteristics in mitigating the effects of wind turbines on weather radar; and
+(4)
+develop commercially viable technical mitigation solutions for obstructions to weather radar capabilities.
+(c)
+Priority
+In carrying out the requirements described in subsection (b), the Director shall prioritize consideration ofâ
+(1)
+multifunction phased array radar;
+(2)
+the replacement of contaminated data with commercial radar data;
+(3)
+the utilization of data from private-sector-associated meteorological towers;
+(4)
+providing wind farm boundaries and consolidated wind farm areas to display on local forecasting equipment;
+(5)
+installing and providing access to rain gauges; and
+(6)
+any other technology-based mitigation solution that the Director determines could overcome beam blockage or ghost echoes.
+(d)
+Termination
+The authority of the Director to carry out the Program shall terminate on the earlier ofâ
+(1)
+September 30, 2027; or
+(2)
+1 year after date on which the final recommendation required by subsection (e)(2) is submitted by the Director.
+(e)
+Report; recommendation
+(1)
+In general
+Not later than two years after the date of enactment of this section and annually thereafter until the Program terminates pursuant to subsection (d), the Director shall submit to Congress a report on the implementation of the Program, including an evaluation of each technology-based mitigation solution identified for priority consideration in subsection (c), and a recommendation regarding additional identification and testing of new technologies based on such consideration.
+(2)
+Final recommendation
+Not later than five years after the date of enactment of this section, the Director shall provide to Congress a recommendation on whether additional research, testing, and development through the Program established by subsection (a) is needed, and a determination of whether a cessation of field research, development, testing, and evaluation is appropriate.
+(f)
+Definitions
+In this section:
+(1)
+Beam blockage
+The term
+beam blockage
+means a signal that is partially or fully blocked due to an obstruction.
+(2)
+Director
+The term
+Director
+means the Director of the National Weather Service.
+(3)
+Ghost echo
+The term
+ghost echo
+means radar signal reflectivity or velocity return errors in radar data due to the close proximity of an obstruction.
+(4)
+Obstruction
+The term obstruction includesâ
+(A)
+a wind turbine that could limit the effectiveness of a weather radar system; and
+(B)
+any building that disrupts or limits the effectiveness of a weather radar system.
+.
+(b)
+Clerical amendment
+The table of sections for the Weather Research and Forecasting Innovation Act of 2017 is amended by inserting after the item relating to section 414 the following new item:
+415. Radar obstruction Research, Development, Test, and Evaluation Program.
+.

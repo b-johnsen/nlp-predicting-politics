@@ -1,0 +1,1315 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Digital Services Oversight and Safety Act of 2022
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Bureau of Digital Services Oversight and Safety.
+Sec. 4. Studies and investigations.
+Sec. 5. Internal complaint-handling systems.
+Sec. 6. Transparency regarding content moderation and related matters.
+Sec. 7. Risk assessment and risk mitigation reporting.
+Sec. 8. Guidance on best practices.
+Sec. 9. Recommender systems.
+Sec. 10. Independent research facilitation.
+Sec. 11. Research fellowship program.
+Sec. 12. Report and disclosure integrity.
+Sec. 13. Enforcement by Federal Trade Commission.
+Sec. 14. Authorization of appropriations.
+Sec. 15. Rule of construction.
+2.
+Definitions
+In this Act:
+(1)
+Advertisement
+The term
+advertisement
+means information that isâ
+(A)
+designed to promote the message of a person, irrespective of whether to achieve commercial or non-commercial purposes; and
+(B)
+displayed by a provider of a covered platform on the online interface of the platform for remuneration specifically for promoting such information.
+(2)
+Advertiser
+The term
+advertiser
+means a person who purchases advertising services.
+(3)
+Advertising services
+The term
+advertising services
+means tools, services, and interfaces provided by a provider of a covered platform to place advertisements.
+(4)
+Biometric information
+(A)
+In general
+The term
+biometric information
+means any personal information generated from the measurement or specific technological processing of an individualâs unique biological, physical, or physiological characteristics.
+(B)
+Inclusions
+The term
+biometric information
+includes measurements of fingerprints, voice prints, iris scans, facial characteristics, identifying DNA (deoxyribonucleic acid) information, or other unique biological characteristics, including any mathematical code or algorithmic model generated or extracted from measurements of such characteristics.
+(C)
+Exclusions
+The term
+biometric information
+does not include writing samples, written signatures, photographs, demographic data, or physical descriptions such as height, weight, hair color, or eye color.
+(5)
+Bureau
+The term
+Bureau
+means the Bureau of Digital Services Oversight and Safety established under section 3(a).
+(6)
+Certified researcher
+The term
+certified researcher
+means an individual certified under section 10(b).
+(7)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(8)
+Community standards
+The term
+community standards
+means a policy adopted by a provider of a hosting service that specifies, at a minimum, the user behavior and activities that are permitted on the service and the user behavior and activities that may subject a user or an item of content to a content moderation action.
+(9)
+Constitutional lawyer
+The term
+constitutional lawyer
+means a lawyer with expertise regarding the interpretation, implementation, and amendment of, and how to protect rights guaranteed by, the Constitution of the United States and State constitutions.
+(10)
+Content moderation
+The term
+content moderation
+means the activities undertaken by a provider of a hosting service aimed at detecting, identifying, and addressing content provided by users of such service that is illegal content or content that is incompatible with the terms and conditions or community standards of such provider, including measures taken that affectâ
+(A)
+the availability, visibility, and accessibility of such content, such as demotion of, disabling of access to, or removal of such content; or
+(B)
+the usersâ ability to provide such content, such as the termination or suspension of a userâs account.
+(11)
+Covered platform
+(A)
+In general
+The term
+covered platform
+means a hosting serviceâ
+(i)
+that disseminates to the public information; and
+(ii)
+to which a designation by the Commission under subparagraph (B) applies.
+(B)
+Designation
+(i)
+In general
+The Commission shall verify, at least every 2 years, whether the number of average monthly active users in the United States of each hosting service provided by a provider described in paragraph (22) is equal to or greater than the number described in subparagraph (D). On the basis of the verification, the Commission shall adopt a decision designating the service as a covered platform for the purposes of this Act (if the number of average monthly active users of the service in the United States is equal to or greater than the number described in subparagraph (D)), or terminating such designation (if the number of average monthly active users of the service in the United States is less than the number described in subparagraph (D) and a previous designation under this subparagraph applies to the service), and communicate such decision, without undue delay, to the provider.
+(ii)
+Applicability
+A designation under this subparagraph shall apply, or cease to apply, beginning on the date that is 4 months after the publication of the designation on, or the removal of the designation from, the list under subparagraph (C).
+(C)
+Publication of list of designated covered platforms
+The Commission shall ensure that the list of covered platforms designated under subparagraph (B) is published on the website of the Commission and keep such list updated.
+(D)
+Number of average monthly active users described
+The number of average monthly active users described in this subparagraph is 10,000,000.
+(E)
+Adjustment
+When the population of the United States increases or decreases since the last adjustment under this subparagraph (or, before the first adjustment under this subparagraph is made, since the date of the enactment of this Act) by 5 percent or more, the Commission shall adjust the number described in subparagraph (D) so that such number is equal to 3 percent of the United States population at the time of the adjustment, rounded up or down to the nearest million.
+(F)
+Methodology
+Not later than 6 months after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, to create a methodology for calculating the number of average monthly active users of a hosting service in the United States for purposes of this paragraph and paragraph (18). The methodology shall specify, in particular, how to determine the United States population and criteria to determine the number of average monthly active users of a hosting service in the United States, taking into account different accessibility features and business relationships.
+(G)
+Exception
+The term
+covered platform
+does not include a hosting service with respect to which the dissemination to the public of information is merely a minor and purely ancillary feature of another service, if such feature cannot, for objective technical reasons, be used without such other, principal service, and the integration of such feature is not a means to circumvent the applicability of this Act and the regulations issued under this Act. Such an ancillary feature may include a feature such as the comments section in an online newspaper, where it is clear that it is ancillary to the main service represented by the publication of news under the editorial responsibility of the publisher.
+(12)
+Deidentify
+The term
+deidentify
+means, with respect to information, to take an action so that the information cannot reasonably be used to infer information about, or otherwise be linked to, an individual, a household, or a device used by an individual or a household.
+(13)
+Disseminate to the public
+The term
+disseminate to the public
+means, with respect to information provided by a user of a covered platform, to make the information available, at the request of the user, to a potentially unlimited number of third parties.
+(14)
+Hosting service
+The term
+hosting service
+means an interactive computer service thatâ
+(A)
+stores information provided by, and at the request of, a user of the service; and
+(B)
+at any point during the preceding 2 calendar years, was owned or controlled by an entity with net annual sales or a market capitalization greater than $2,500,000, adjusted annually for inflation on the basis of the Consumer Price Index.
+(15)
+Illegal content
+The term
+illegal content
+means any information, which, in itself or by its reference to an activity, including the sale of products or provision of services, is not in compliance with Federal law.
+(16)
+Influencer marketing
+The term
+influencer marketing
+means a practice by which a company compensates an individual who is considered by the company to have the potential to review, promote, or sell a product or service online to an intended target audience.
+(17)
+Interactive computer service
+The term
+interactive computer service
+has the meaning given such term in section 230(f) of the Communications Act of 1934 (
+47 U.S.C. 230(f)
+).
+(18)
+Large covered platform
+(A)
+In general
+The term
+large covered platform
+means a hosting serviceâ
+(i)
+that disseminates to the public information; and
+(ii)
+to which a designation by the Commission under subparagraph (B) applies.
+(B)
+Designation
+(i)
+In general
+The Commission shall verify, at least every 2 years, whether the number of average monthly active users in the United States of each hosting service provided by a provider described in paragraph (22) is equal to or greater than the number described in subparagraph (D). On the basis of the verification, the Commission shall adopt a decision designating the service as a large covered platform for the purposes of this Act (if the number of average monthly active users of the service in the United States is equal to or greater than the number described in subparagraph (D)), or terminating such designation (if the number of average monthly active users of the service in the United States is less than the number described in subparagraph (D) and a previous designation under this subparagraph applies to the service), and communicate such decision, without undue delay, to the provider.
+(ii)
+Applicability
+A designation under this subparagraph shall apply, or cease to apply, beginning on the date that is 4 months after the publication of the designation on, or the removal of the designation from, the list under subparagraph (C).
+(C)
+Publication of list of designated large covered platforms
+The Commission shall ensure that the list of large covered platforms designated under subparagraph (B) is published on the website of the Commission and keep such list updated.
+(D)
+Number of average monthly active users described
+The number of average monthly active users described in this subparagraph is 66,000,000.
+(E)
+Adjustment
+When the population of the United States increases or decreases since the last adjustment under this subparagraph (or, before the first adjustment under this subparagraph is made, since the date of the enactment of this Act) by 5 percent or more, the Commission shall adjust the number described in subparagraph (D) so that such number is equal to 20 percent of the United States population at the time of the adjustment, rounded up or down to the nearest million.
+(F)
+Exception
+The term
+large covered platform
+does not include a hosting service with respect to which the dissemination to the public of information is merely a minor and purely ancillary feature of another service, if such feature cannot, for objective technical reasons, be used without such other, principal service, and the integration of such feature is not a means to circumvent the applicability of this Act and the regulations issued under this Act. Such an ancillary feature may include a feature such as the comments section in an online newspaper, where it is clear that it is ancillary to the main service represented by the publication of news under the editorial responsibility of the publisher.
+(19)
+Office
+The term
+Office
+means the Office of Independent Research Facilitation established under section 10(a).
+(20)
+Personal health information
+The term
+personal health information
+includes personal information thatâ
+(A)
+relates to the physical or mental health or condition of an individual or the provision of health care to an individual;
+(B)
+is processed for the purpose or in the course of providing health or wellness services; or
+(C)
+is derived from the testing or examination of a body part or bodily substance, including from genetic data and biological samples.
+(21)
+Precise geospatial information
+(A)
+In general
+The term
+precise geospatial information
+means information derived from a consumer device through any technology that is capable of determining with specificity the spatial location of a person or device, such as latitude-longitude coordinates with an accuracy level of below 1,750 feet provided by GPS, triangulated location provided by network radios or beacons such as Wi-Fi, or other technologies and inferences.
+(B)
+Exclusion
+The term
+precise geospatial information
+does not include information that is or will be altered prior to subsequent processing such that the physical location of an individual or device cannot be determined with specificity.
+(22)
+Provider
+The term
+provider
+means, with respect to a hosting service, covered platform, or large covered platform, a person, partnership, or corporation over which the Commission has authority pursuant to section 6(a) of the Federal Trade Commission Act (
+15 U.S.C. 46(a)
+) that provides such service or platform.
+(23)
+Public content
+The term
+public content
+means information on a covered platform that is available to a potentially unlimited number of third parties. Such term does not exclude information merely because an individual must log into an account in order to see the information.
+(24)
+Recognized place
+The term
+recognized place
+means any of the following:
+(A)
+Each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands of the United States.
+(B)
+Each noncontiguous area of Indian country (as defined in section 1151 of title 18, United States Code).
+(C)
+A county, municipality, city, town, township, village, borough, or similar unit of general government that isâ
+(i)
+incorporated pursuant to a State law; or
+(ii)
+an incorporated place (as such term is defined in the most recent glossary of the Bureau of the Census).
+(D)
+A census designated place (as such term is defined in the most recent glossary of the Bureau of the Census).
+(E)
+A congressional district.
+(F)
+A country.
+(25)
+Recommender system
+The term
+recommender system
+means a fully or partially automated system used on a covered platform to suggest in the online interface of the platform specific information to users of the platform, including as a result of a search initiated by a user or otherwise determining the relative order or prominence of information displayed.
+(26)
+Sociotechnical expert
+The term
+sociotechnical expert
+means an information science researcher, privacy or human rights advocate, international data governance expert, sociologist, psychologist, ethicist, language scholar, statistician, user interface designer, child development scholar, or an individual with expertise in another related field or application.
+(27)
+State
+The term
+State
+means each State of the United States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.
+(28)
+Technologist
+The term
+technologist
+means an individual with training and expertise regarding the state of the art in information technology, information security, network security, software development, computer science, computer engineering, or another related field or application.
+(29)
+Terms and conditions
+The term
+terms and conditions
+means all terms and conditions or specifications, irrespective of their name or form, which govern the contractual relationship between the provider of a hosting service and users of the service.
+3.
+Bureau of Digital Services Oversight and Safety
+(a)
+Establishment
+Not later than 6 months after the date of the enactment of this Act, the Commission shall establish an administrative unit in the Commission to be known as the
+Bureau of Digital Services Oversight and Safety
+, which shall carry out such duties of the Commission under this Act, and such other duties relating to hosting services, as the Commission considers appropriate.
+(b)
+Appointments
+(1)
+Director
+The Bureau shall be headed by a Director, who shall be appointed by the Commission.
+(2)
+Personnel
+(A)
+In general
+The Director of the Bureau shall, without regard to the civil service laws (including regulations), establish at least 500 positions in the Bureau and appoint certified professionals to such positions to carry out the duties of the Bureau. The Director may fix the rate of basic pay for such positions at any rate up to the annual rate of basic pay for Level I of the Executive Schedule under section 5312 of title 5, United States Code.
+(B)
+Technologists
+In appointing certified professionals under subparagraph (A), the Director shall appoint at least 80 technologists.
+(C)
+Sociotechnical experts
+In appointing certified professionals under subparagraph (A), the Director shall appoint at least 80 sociotechnical experts.
+(D)
+Constitutional lawyers
+In appointing certified professionals under subparagraph (A), the Director shall appoint at least 15 constitutional lawyers.
+4.
+Studies and investigations
+(a)
+Sense of Congress regarding use of section
+6(b)
+authority
+It is the sense of Congress that the Commission should do the following:
+(1)
+Use the authority of the Commission under section 6(b) of the Federal Trade Commission Act (
+15 U.S.C. 46(b)
+), on an ongoing basis, to conduct investigative studies of providers of hosting services.
+(2)
+Provide the Bureau with adequate authority and resources to conduct such investigative studies.
+(3)
+Conduct such investigative studies to gain a better understanding of the following systemic risks:
+(A)
+The dissemination of illegal content or illegal goods, or the facilitation of illegal activity, through a hosting service.
+(B)
+Discrimination against individuals based on race, color, religion or creed, national origin or ancestry, sex (including gender, pregnancy status, sexual orientation, or gender identity), age, physical or mental disability, veteran status, genetic information, or citizenship by, or resulting from the activities of, a provider of a hosting service.
+(C)
+Any malfunctioning or intentional manipulation of a hosting service, including by means of inauthentic use or coordinated, automated, or other exploitation of the service or risks inherent to the intended operation of the service, including the amplification of illegal content, and of content that is in breach of the community standards of the provider of the service and has an actual or foreseeable negative effect on the protection of public health, minors, civic discourse, electoral processes, public security, or the safety of vulnerable and marginalized communities.
+(b)
+Whistleblower protections
+(1)
+Definitions
+In this subsection:
+(A)
+Covered person
+The term
+covered person
+means a person who isâ
+(i)
+a provider of a hosting service;
+(ii)
+an officer, employee, contractor, subcontractor, or agent of a provider of a hosting service; or
+(iii)
+an officer, employee, or agent of a contractor or subcontractor of a provider of a hosting service.
+(B)
+Protected individual
+The term
+protected individual
+means an individual who isâ
+(i)
+an officer, employee, contractor, subcontractor, or agent of a provider of a hosting service;
+(ii)
+an officer, employee, or agent of a contractor or subcontractor of a provider of a hosting service; or
+(iii)
+a certified researcher.
+(2)
+Whistleblower protection
+(A)
+In general
+A covered person may not discharge, demote, suspend, threaten, harass, or in any other manner discriminate against (in the terms and conditions of employment or otherwise) a protected individual if such discrimination is due, in whole or in part, to the protected individualâs lawful, good faith act done, or perceived by the covered person to have been done or about to be done, because the protected individualâ
+(i)
+provides information, causes information to be provided, or otherwise assists in an investigation regarding any conduct which the protected individual reasonably believes constitutes a violation of this Act or the regulations issued by the Commission under this Act when the information or assistance is provided to or the investigation is conducted byâ
+(I)
+a Federal regulatory or law enforcement agency;
+(II)
+any Member of Congress or any committee of Congress; or
+(III)
+in the case of a protected individual who is an employee of a provider of a hosting service or of a contractor or subcontractor of such a provider, a person with supervisory authority over the employee (or such other person working for the provider, contractor, or subcontractor who has the authority to investigate, discover, or terminate misconduct); or
+(ii)
+files, causes to be filed, testifies in, participates in, or otherwise assists in a proceeding filed or about to be filed relating to an alleged violation of this Act or the regulations issued by the Commission under this Act.
+(B)
+Prohibition on service discrimination
+In addition to the discrimination prohibited by subparagraph (A), a provider of a hosting service may not condition, degrade, or otherwise discriminate in the provision of a service or product to a protected individual because the protected individual engaged in any action described in clause (i) or (ii) of such subparagraph.
+(3)
+Enforcement action
+(A)
+In general
+A protected individual who alleges discharge or other discrimination by any covered person in violation of paragraph (2) may seek relief under paragraph (4) byâ
+(i)
+filing a complaint with the Secretary of Labor; or
+(ii)
+if the Secretary has not issued a final decision within 180 days after the filing of the complaint under clause (i) and there is no showing that such delay is due to the bad faith of the protected individual, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+(B)
+Procedure
+(i)
+In general
+Any proceeding with respect to a complaint under subparagraph (A)(i) shall be governed under the rules and procedures set forth in section 42121(b) of title 49, United States Code.
+(ii)
+Exception
+Notification made under section 42121(b)(1) of title 49, United States Code, shall be made to the covered person named in the complaint and, in the case of a complaint filed by a protected individual who is an employee of a provider of a hosting service or of a contractor or subcontractor of such a provider, to the provider, contractor, or subcontractor.
+(iii)
+Burdens of proof
+An action brought under subparagraph (A)(ii) shall be governed by the legal burdens of proof set forth in section 42121(b) of title 49, United States Code.
+(iv)
+Statute of limitations
+A complaint under subparagraph (A)(i) shall be filed not later than 180 days after the later ofâ
+(I)
+the date on which the violation occurs; or
+(II)
+the date on which the protected individual becomes aware of the violation.
+(v)
+Jury trial
+A party to an action brought under subparagraph (A)(ii) shall be entitled to trial by jury.
+(4)
+Relief
+(A)
+In general
+A protected individual prevailing in any proceeding or action under paragraph (3)(A) shall be entitled to all relief necessary to make the protected individual whole, including compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+(B)
+For employees
+In the case of a protected individual who is an employee of a provider of a hosting service or of a contractor or subcontractor of such a provider, if the employee prevails in any proceeding or action under paragraph (3)(A) against the provider, contractor, or subcontractor, relief under subparagraph (A) of this paragraph may includeâ
+(i)
+reinstatement with the same seniority status that the employee would have had, but for the discrimination; and
+(ii)
+the amount of back pay, with interest.
+(5)
+Rights retained by protected individual
+Nothing in this subsection shall be construed to diminish the rights, privileges, or remedies of any protected individual under any Federal or State law, or under any collective bargaining agreement.
+(6)
+Nonenforceability of certain provisions waiving rights and remedies or requiring arbitration of disputes
+(A)
+Waiver of rights and remedies
+The rights and remedies provided for in this subsection may not be waived, including by a predispute arbitration agreement.
+(B)
+Predispute arbitration agreements
+No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this subsection.
+(7)
+No conditional service
+A provider of a hosting service may not condition, degrade, or otherwise discriminate in the provision of a service or product to a protected individual based on the protected individualâs waiver of or refusal to waive any right or remedy provided for in this subsection.
+(8)
+Prohibition on disclosure of identity of protected individual
+(A)
+By federal agencies
+Except with the written consent of the protected individual, an agency (as defined in section 552(f) of title 5, United States Code) may not disclose any information that may be used to identify a protected individual who has provided information about an alleged violation of this Act or the regulations issued by the Commission under this Act, except in accordance with the provisions of section 552a of title 5, United States Code, unless and until required to be disclosed to a defendant or respondent in connection with a public proceeding instituted by the agency. Any information that may be used to identify a protected individual shall be exempt from disclosure under section 552(b)(3)(B) of title 5, United States Code.
+(B)
+By covered persons
+Except with the written consent of the protected individual, a covered person may not disclose any information that may be used to identify a protected individual who has provided information about an alleged violation of this Act or the regulations issued by the Commission under this Act, unless and until required to be disclosed by law (including pursuant to an order issued by a court of competent jurisdiction).
+(c)
+Interagency reports
+(1)
+In general
+Upon request by an agency described in paragraph (2), the Commission may, at the discretion of the Commissionâ
+(A)
+investigate conduct by a provider of a hosting service that may be unlawful under a provision of law enforced by or a regulation issued by such agency; and
+(B)
+issue a report to such agency on the results of the investigation.
+(2)
+Agencies described
+The agencies described in this paragraph are the following:
+(A)
+The Department of Education.
+(B)
+The Department of Labor.
+(C)
+The Department of Housing and Urban Development.
+(D)
+The Department of Commerce.
+(E)
+The Department of Health and Human Services.
+(F)
+The Department of Veterans Affairs.
+(G)
+The Equal Employment Opportunity Commission.
+(H)
+The Bureau of Consumer Financial Protection.
+(I)
+The Federal Communications Commission.
+(J)
+The Federal Election Commission.
+(K)
+The Department of State.
+(3)
+Public availability of reports
+A report issued by the Commission under paragraph (1) shall be made publicly available by the Commission consistent with section 552 of title 5, United States Code (commonly known as the
+Freedom of Information Act
+).
+5.
+Internal complaint-handling systems
+(a)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, that require a provider of a covered platform to provide a user of the platform, for a period of at least 6 months after a content moderation action described in subsection (b) with respect to information provided by the user, with access to an internal complaint-handling system that allows the user to appeal the content moderation action.
+(b)
+Covered content moderation actions
+The content moderation actions described in this subsection are the following:
+(1)
+A decision to remove or disable access to the information.
+(2)
+A decision to suspend or terminate the provision of the service, in whole or in part, to the user.
+(3)
+A decision to suspend or terminate the userâs account.
+(c)
+Requirements
+In issuing regulations under subsection (a), the Commission shall require a provider of a covered platform to do the following:
+(1)
+To ensure that the internal complaint-handling system is easy to access (including for individuals with disabilities), is user-friendly, and enables and facilitates the submission of sufficiently precise and adequately substantiated complaints.
+(2)
+To ensure that the internal complaint-handling system is available in each language in which the covered platform operates.
+(3)
+To handle complaints submitted through the internal complaint-handling system in a timely, diligent, and objective manner.
+(4)
+To inform a complainant without undue delay of the decision the provider has taken regarding the complaint and the reasoning for the decision.
+(5)
+To ensure that a decision regarding a complaint is not taken solely on the basis of automated means, subject to exceptions specified by the Commission for circumstances such as frivolous complaints submitted by automated means, repetitive complaints, or coordinated abuse of the complaint-handling system.
+(d)
+Exceptions
+In issuing regulations under subsection (a), the Commission shall consider exceptions to when a provider of a covered platform is required to respond to a complaint submitted through the internal complaint-handling system, such as if providing a response would risk imminent harm to any person or impede law enforcement activities.
+(e)
+Variation based on size and scope
+In issuing regulations under subsection (a), the Commission shall vary the requirements based on the size and scope of a covered platform, including by having different requirements for different services such as social media services, online marketplaces, augmented reality and virtual reality services, and digital advertising placement services.
+6.
+Transparency regarding content moderation and related matters
+(a)
+Community standards
+(1)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, that require a provider of a hosting service to include in the community standards of the provider the following information:
+(A)
+Information on any restrictions that the provider imposes with respect to information provided by users of the service, including information on any policies, procedures, measures, or tools used for the purpose of content moderation, including algorithmic decision making and human review.
+(B)
+Historical versions of the community standards and change logs.
+(C)
+Anything else determined to be necessary by the Commission.
+(2)
+Format
+The information required by paragraph (1) shall be provided in clear and unambiguous language and shall be publicly available in an electronic format in which pieces of information are identified using an interactive data standard, such as eXtensible Markup Language (XML), that is a standardized list of electronic tags that mark the information required by paragraph (1) within the community standards of a provider of a hosting service.
+(b)
+Transparency reports
+(1)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, that require a provider of a hosting service to issue publicly available transparency reports relating to content moderation by the provider with respect to the service.
+(2)
+Information to be included
+The regulations issued under paragraph (1) shall require the transparency reports to include information (both quantitative and qualitative) on the following, as applicable:
+(A)
+A description of the content moderation practices of the provider, including statistics regarding the amount and type of content moderation actions taken that affect the availability, visibility, and accessibility of information provided by users and the ability of users to provide information, categorized by the type of action and reason for taking the action.
+(B)
+Statistics regarding the method of detection of information with respect to which a content moderation enforcement action was taken, such as employees or contractors of the provider, artificial intelligence software, trusted organizations, users, or shared databases.
+(C)
+Statistics regarding the number of legally enforceable government requirements, non-legally enforceable government referrals (specifying the portion that came from internet referral units alleging violations of the community standards of the providers), and requests from other entities or private third parties, toâ
+(i)
+provide content or personal information of users; or
+(ii)
+restrict access to or block content.
+(D)
+Statistics regarding the number of complaints received through the internal complaint-handling system required by section 5, the basis for such complaints, decisions taken with respect to such complaints, the time needed for taking such decisions, and the number of instances in which such decisions were reversed.
+(E)
+Statistics regarding user exposure to illegal content or content that violates the community standards of the provider, including the type of content the user was exposed to, where and how the content was surfaced to the user (including whether the content was promoted through a creator or account the user follows and whether the content was algorithmically recommended or otherwise amplified by the service) and whether the content was public content.
+(F)
+Aggregate reporting on the language fluency of the employees, contractors, and subcontractors of the provider involved in content moderation, broken down by type of employment and regional assignment.
+(G)
+Significant changes during the period covered by the report from the previous report under this subsection issued by the provider with respect to the service.
+(H)
+Any other information the Commission considers appropriate.
+(3)
+Considerations
+In issuing regulations under paragraph (1), the Commission shall ensure that the reporting requirementsâ
+(A)
+take into consideration the rights and interests of providers and users of hosting services, including the protection of personal information, the protection of confidential information, and maintaining the security of such services;
+(B)
+specify how providers of hosting services should count and communicate their methods for counting content moderation actions, including in the case that content spans multiple reasons for removal or repeated notifications related to the same user or content;
+(C)
+specify when and how posts moderated by volunteer moderators in a hosted community should be reported;
+(D)
+take into consideration relevant standards issued by international standards-setting organizations; and
+(E)
+require the reports to be machine-readable and formatted to allow access by users with disabilities.
+(4)
+Frequency
+In issuing regulations under paragraph (1), the Commission shall specify the frequency with which a provider of a hosting service is required to issue the transparency reports required by such regulations and may vary such frequency under subsection (e) based on the size and scope of the service or the provider. The Commission shall require such reports to be issued at least annually for hosting services and at least quarterly for large covered platforms.
+(c)
+Level of detail of required disclosures
+In issuing regulations under this section, the Commission shall consider the level of detail needed to inform users of hosting services while not impeding the ability of hosting services to mitigate systemic risks, including the systemic risks described in section 4(a)(3).
+(d)
+Language of required disclosures
+In issuing regulations under this section, the Commission shall require a provider of a hosting service to make available the information required to be included in the community standards of the provider under subsection (a) and the transparency reports issued under subsection (b) in each language in which the hosting service operates.
+(e)
+Variation based on size and scope
+In issuing regulations under this section, the Commission shall vary the requirements based on the size and scope of the hosting service, including by having different requirements for different services such as social media services, online marketplaces, augmented reality and virtual reality services, digital advertising placement services, and cloud and web hosting services.
+(f)
+Rule of construction
+Nothing in this section may be construed to require a provider of a hosting service to collect personal information that the provider would not otherwise collect.
+7.
+Risk assessment and risk mitigation reporting
+(a)
+Risk assessment and risk mitigation reports for large covered platforms
+(1)
+In general
+Not later than 18 months after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, that require a provider of a large covered platform toâ
+(A)
+conduct risk assessments with respect to the platform; and
+(B)
+based on the risk assessments conducted under subparagraph (A), submit to the Commission risk assessment and risk mitigation reports with respect to the platform.
+(2)
+Risk assessment
+(A)
+Identification, analysis, and assessment of systemic risks
+The regulations issued under paragraph (1) shall require a provider of a large covered platform, in conducting a risk assessment and preparing a report required by such regulations, to identify, analyze, and assess, in a manner specific to the large covered platform, any significant systemic risks arising from the functioning and use of the platform, including the systemic risks described in section 4(a)(3).
+(B)
+Influence of content moderation and other systems
+The regulations issued under paragraph (1) shall require a provider of a large covered platform, in conducting a risk assessment and preparing a report required by such regulations, to take into account how its content moderation systems, terms and conditions, community standards, algorithmic systems, recommender systems, and systems for selecting and displaying advertisements, as well as the underlying data collection, processing, and profiling, influence any of the systemic risks identified under subparagraph (A), including the potentially rapid and wide dissemination of illegal content and of information that is incompatible with its community standards.
+(3)
+Risk mitigation documentation
+The regulations issued under paragraph (1) shall require a provider of a large covered platform, in preparing a report required by such regulations, to document with particularity the measures used to mitigate any systemic risk identified by the provider under paragraph (2)(A). Such measures may include, where applicable, the following:
+(A)
+Integrating threat modeling and red-teaming processes to guard against systemic risks identified under paragraph (2)(A) in the early stages of product design, and to test potential mitigations prior to the release of a product.
+(B)
+Adapting the content moderation or recommender systems (including policies and enforcement) of the provider, the decision-making processes of the provider, the features or functioning of the platform, or the terms and conditions or community standards of the provider.
+(C)
+Targeted measures aimed at limiting the display of advertisements in association with the platform or the alternative placement and display of public service advertisements or other related factual (as determined by the provider) information.
+(D)
+Reinforcing the internal processes or supervision of any of the activities of the provider, particularly regarding the detection of systemic risks identified under paragraph (2)(A).
+(E)
+User-friendly notification and action mechanisms that allow any person to notify the provider of the presence on the platform of any content the person believes to beâ
+(i)
+illegal content; or
+(ii)
+in violation of the terms and conditions or community standards of the provider.
+(F)
+Crisis protocols, including a description of what constitutes the specific extraordinary circumstance the crisis protocol seeks to address and the objectives the crisis protocol pursues.
+(G)
+Testing for effectiveness and discriminatory bias within any algorithms used in the content moderation process.
+(H)
+Hiring and training of human content moderators, trust and safety personnel, engineers focused on detecting and reducing systemic risks identified under paragraph (2)(A), and others with appropriate subject-matter expertise and cultural competence.
+(I)
+Protections for the health and well-being of human content moderators.
+(J)
+Deliberative approaches to platform governance, including creating citizen panels, assemblies, or independent oversight bodies, or using crowdsourcing mechanisms, to make or inform content moderation decisions or policies.
+(K)
+Age-appropriate design that adjusts features on the platform based on what is in the best interest of children and adolescents, given variations in brain development.
+(L)
+Other risk-mitigation techniques considered relevant by the Commission.
+(4)
+Variation based on size and scope
+In issuing regulations under paragraph (1), the Commission shall vary the requirements based on the size and scope of a large covered platform, including by having different requirements for different services such as social media services, online marketplaces, augmented reality and virtual reality services, and digital advertising placement services.
+(5)
+Frequency
+In issuing regulations under paragraph (1), the Commission shall specify the frequency with which a provider of a large covered platform is required to conduct the risk assessments and submit to the Commission the reports required by such regulations and may vary such frequency under paragraph (4) based on the size and scope of the platform or the provider. The Commission shall require such risk assessments to be conducted and such reports to be submitted at least annually.
+(6)
+FOIA exemption
+The reports required by the regulations issued under paragraph (1) shall be exempt from disclosure under section 552(b)(3)(B) of title 5, United States Code.
+(b)
+Annual reports by Commission on systemic risks posed by large covered platforms
+The Commission shall publish an annual report on systemic risks posed by large covered platforms that includes the following:
+(1)
+Identification and assessment of the most prominent and recurrent systemic risks posed by large covered platforms, based on the reports submitted by providers of such platforms under subsection (a), information obtained by the Commission under section 6(b) of the Federal Trade Commission Act (
+15 U.S.C. 46(b)
+), or other information available to the Commission.
+(2)
+Assessment of the effectiveness of providers of large covered platforms at reducing systemic risks, including successful approaches that have worked across platforms.
+(c)
+Independent audits for large covered platforms
+(1)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, that require a provider of a large covered platform to obtain an annual audit of the risk assessment and risk mitigation measures documented by the provider in the most recent report submitted under subsection (a) with respect to the platform, the accuracy of the most recent transparency report submitted under section 6(b) with respect to the platform, and the compliance by the provider with respect to the platform with the regulations issued under section 10, by an organization thatâ
+(A)
+is independent from the provider;
+(B)
+has proven expertise in the area of risk management;
+(C)
+has the technical competence and technical capabilities necessary to perform the audit;
+(D)
+has proven objectivity and professional ethics, based on adherence to codes of practice or other appropriate standards; and
+(E)
+meets any other requirements considered necessary by the Commission.
+(2)
+Report
+The regulations issued under paragraph (1) shall require an organization that performs an audit under such paragraph to prepare a written report on the audit, which shall include the following:
+(A)
+The name, address, and point of contact of the provider of the large covered platform.
+(B)
+The name, address, and point of contact of the organization performing the audit.
+(C)
+The period covered by the audit.
+(D)
+A description of the specific elements audited, and the methodology applied.
+(E)
+A description of the main findings drawn from the audit.
+(F)
+An audit opinion on whether the provider of the platform accurately, fully, and meaningfully described all of the systemic risks known to the provider which were required to be included in the report submitted under subsection (a) to which the audit relates.
+(G)
+An audit opinion on the adequacy of the processes and procedures of the provider of the platform for identifying, assessing, and reporting systemic risks as required under subsection (a).
+(H)
+An audit opinion on whether the provider implemented the risk mitigation measures documented in the report submitted under subsection (a) to which the audit relates.
+(I)
+An audit opinion on the accuracy of and thoroughness of the transparency report submitted under section 6(b) to which the audit relates.
+(J)
+An audit opinion on the compliance by the provider with respect to the platform with the regulations issued under section 10.
+(K)
+Recommendations for changes the provider could make to better address systemic risks.
+(L)
+Any additional information considered necessary by the Commission.
+(3)
+Submission of report
+The regulations issued under paragraph (1) shall require a provider of a large covered platform to submit to the Commission the report prepared under paragraph (2).
+(4)
+Information to be disclosed to audit organization
+The regulations issued under paragraph (1) shallâ
+(A)
+specify what information a provider of a large covered platform and the contractors of the provider are required to disclose to an organization performing an audit under such paragraph; and
+(B)
+require the organization to comply with privacy measures similar to those for certified researchers under section 10 and any other measures determined appropriate by the Commission to protect the privacy of users of large covered platforms and employees and contractors of providers of large covered platforms.
+8.
+Guidance on best practices
+(a)
+In general
+The Commission shall, on an ongoing basis, issue a series of evidence-based nonbinding guidance on best practices for providers of large covered platforms to address the systemic risks described in section 4(a)(3). The guidance shall focus on product design features and content moderation processes that aim to be content neutral.
+(b)
+Registry
+The Commission shall maintain, and make publicly available on the website of the Commission, a registry of all large covered platforms with a list of the guidance issued under this section that each platform follows, according to the independent audits conducted under section 7(c) or other information provided to the Commission under this Act.
+(c)
+Advisory committees
+The Commission may create advisory committees (as defined in
+section 3
+of the Federal Advisory Committee Act (5 U.S.C. App.)) to solicit views regarding the guidance under this section from stakeholders, including communities most impacted by the systemic risks described in section 4(a)(3) and content moderators and employees (current or former) at covered platforms focused on mitigating such risks.
+9.
+Recommender systems
+(a)
+In general
+Not later than 2 years after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, that require a provider of a large covered platform that uses a recommender system to do the following:
+(1)
+To specify in the terms and conditions of the provider, in a clear, accessible, and easily comprehensible mannerâ
+(A)
+the most salient features, inputs, or parameters used by the recommender system;
+(B)
+how any personal information used by the recommender system is collected or inferred about a user of the platform, and the categories of such information (including demographic, behavioral, and any other categories defined by the Commission); and
+(C)
+any options that the provider makes available for a user of the platform to modify the profile of the user or to influence the features, inputs, or parameters used by the recommender system.
+(2)
+To provide an option that does not rely on any of the userâs personal information (either collected or inferred) to determine the order of information presented to the user. The Commission may determine reasonable exceptions to ensure product functionality, such as the userâs language preference or recognized place. Such option shall be set as a default or presented prominently within the main interface containing the results of the recommender system. The provider shall present the options in good faith, and avoid misleading or harassing consumers into making different choices, failing to maintain parity of unrelated features, or other measures as determined by the Commission.
+(b)
+Opt-In for certain personal information
+In issuing regulations under subsection (a), the Commission may determine that certain personal information may not be used to customize a recommender system without specific opt-in consent from users. In the case of such a determination, a provider of a large covered platform shall independently obtain opt-in consent for separate categories of personal information (as categorized and according to standards set by the Commission) rather than obtaining a global opt-in consent for all personal information or multiple categories of personal information simultaneously.
+(c)
+Considerations for rulemaking
+In issuing regulations under subsection (a), the Commission shall considerâ
+(1)
+the ways recommender systems may be used to help providers of large covered platforms mitigate systemic risks described in section 4(a)(3);
+(2)
+the frequency with which recommendation algorithms are trained; and
+(3)
+the technical feasibility of disabling or modifying use of features, inputs, or parameters for each user.
+(d)
+Variation based on size and scope of platform and type of recommender system
+In issuing regulations under subsection (a), the Commission shall vary the requirements based on the size and scope of the large covered platform, including by having different requirements and for different types of recommender systems.
+10.
+Independent research facilitation
+(a)
+Office of Independent Research Facilitation
+In establishing the Bureau under section 3(a), the Commission shall establish within the Bureau an office to be known as the
+Office of Independent Research Facilitation
+, which shall carry out such duties of the Commission under this section, and such other duties relating to facilitation of independent research on covered platforms, as the Commission considers appropriate.
+(b)
+Researcher certification process
+(1)
+In general
+Not later than 18 months after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, to establish a process by whichâ
+(A)
+an organization may, upon application to the Commission, be qualified as a host organization; and
+(B)
+an individual who is affiliated with a host organization may, upon application to the Commission, be certified in order to obtain access to information under this section for the purposes described in paragraph (2).
+(2)
+Purposes of access to information
+The purposes described in this paragraph are to gain understanding and measure the impacts of the content moderation, product design decisions, and algorithms of covered platforms on society, politics, the spread of hate, harassment, and extremism, security, privacy, and physical and mental health.
+(3)
+Requirements and commitments to be qualified as host organization
+(A)
+In general
+In order to be qualified as a host organization under paragraph (1)(A), an organization shallâ
+(i)
+meet the requirements described in subparagraph (B); and
+(ii)
+make the commitments described in subparagraph (C).
+(B)
+Requirements
+The requirements described in this subparagraph for an organization are the following:
+(i)
+The organizationâ
+(I)
+is described in
+section 501(c)(3)
+of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code; or
+(II)
+is an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (
+20 U.S.C. 1001(a)
+)).
+(ii)
+The mission of the organization includes developing a deeper understanding of the impacts of covered platforms described in paragraph (2).
+(iii)
+The organization has the capacity toâ
+(I)
+comply with the rules issued under subsection (c) relating to information security; and
+(II)
+analyze information to which access is provided under this section using data science and best practices for investigative and qualitative research.
+(iv)
+Any additional requirements established by the Commission in the regulations issued under paragraph (1).
+(C)
+Commitments
+The commitments described in this subparagraph for an organization are the following:
+(i)
+To provide training to certified researchers affiliated with the organization to ensure that the researchers abide by the commitments described in paragraph (4)(C).
+(ii)
+With respect to a project or study being carried out by a certified researcher affiliated with the organization using information to which access is obtained under this section, to conduct a review of the project or study to ensure thatâ
+(I)
+the project or study is consistent with the purposes of access described in paragraph (2); and
+(II)
+the researcher has sought the approval of an institutional review board for the project or study, if applicable.
+(iii)
+Any additional commitments established by the Commission in the regulations issued under paragraph (1).
+(4)
+Requirements and commitments to be certified as a certified researcher
+(A)
+In general
+In order to be certified as a certified researcher under paragraph (1)(B), an individual shallâ
+(i)
+meet the requirements described in subparagraph (B); and
+(ii)
+make the commitments described in subparagraph (C).
+(B)
+Requirements
+The requirements described in this subparagraph for an individual are the following:
+(i)
+The individual is affiliated with an organization that is qualified as a host organization under this subsection.
+(ii)
+The individual is not under review by the host organization for research misconduct.
+(iii)
+Any additional requirements established by the Commission in the regulations issued under paragraph (1).
+(C)
+Commitments
+The commitments described in this subparagraph for an individual are the following:
+(i)
+To have the capacity to comply with, and to comply with, any information security or confidentiality requirements the Commission considers appropriate with respect to information accessed under this section.
+(ii)
+Not to reidentify, or to attempt to reidentify, the individual to whom information accessed under this section relates.
+(iii)
+Not to publish personal information derived from information accessed under this section.
+(iv)
+To comply with applicable Federal, State, and local information sharing and privacy laws and regulations.
+(v)
+To complete Responsible Conduct of Research training provided by the Office of Research Integrity of the Department of Health and Human Services.
+(vi)
+To disseminate the results of the research conducted using information accessed under this section to the public.
+(vii)
+To comply with limits on commercial use of information accessed under this section or research conducted using such information, as specified by the Commission in regulations issued under this section.
+(viii)
+To seek a certificate of confidentiality issued by the Secretary of Health and Human Services under section 301(d) of the Public Health Service Act (
+42 U.S.C. 241(d)
+), if applicable.
+(ix)
+Any additional commitments established by the Commission in the regulations issued under paragraph (1).
+(5)
+Requalification and recertification required
+(A)
+Requalification
+In issuing regulations under paragraph (1), the Commission shall provide for the qualification of an organization as a host organization to expire at the end of a 3-year period and for the organization, upon application to the Commission, to be qualified as a host organization for a 3-year period in addition to the initial or any subsequent such period, if the organizationâ
+(i)
+continues to meet the requirements described in paragraph (3)(B);
+(ii)
+abided by the commitments described in paragraph (3)(C) that the organization made with respect to the previous such period; and
+(iii)
+makes the commitments described in paragraph (3)(C) for the next such period.
+(B)
+Recertification
+In issuing regulations under paragraph (1), the Commission shall provide for the certification of an individual as a certified researcher to expire at the end of a 1-year period and for the individual, upon application to the Commission, to be certified as a certified researcher for a 1-year period in addition to the initial or any subsequent such period, if the individualâ
+(i)
+continues to meet the requirements described in paragraph (4)(B);
+(ii)
+abided by the commitments described in paragraph (4)(C) that the individual made with respect to the previous such period; and
+(iii)
+makes the commitments described in paragraph (4)(C) for the next such period.
+(6)
+Revocation of qualification or certification
+(A)
+Qualification
+In issuing regulations under paragraph (1), the Commission shall provide for the revocation of the qualification of an organization as a host organization if the Commission determines that the organizationâ
+(i)
+no longer meets the requirements described in paragraph (3)(B); or
+(ii)
+is not abiding by the commitments described in paragraph (3)(C) that the organization made with respect to the applicable qualification period.
+(B)
+Certification
+In issuing regulations under paragraph (1), the Commission shall provide for the revocation of the certification of an individual as a certified researcher if the Commission determines that the individualâ
+(i)
+no longer meets the requirements described in paragraph (4)(B); or
+(ii)
+is not abiding by the commitments described in paragraph (4)(C) that the individual made with respect to the applicable certification period.
+(7)
+Nondiscrimination
+No person on grounds of race, color, age, sex, national origin, political affiliation, or disability shall be excluded from participation in, be denied the benefits of, or be subjected to discrimination under the researcher certification process established under this subsection.
+(8)
+Consultation
+In issuing regulations under paragraph (1), the Commission shall consult with the Director of the National Science Foundation, the Secretary of Health and Human Services, and the Federal Statistical Research Data Centers of the Bureau of the Census.
+(9)
+GAO audit and report
+(A)
+Audit
+Not later than 3 years after the date on which the Commission issues the regulations required by paragraph (1), the Comptroller General of the United States shall complete an audit of the process established by such regulations.
+(B)
+Report
+(i)
+In general
+Not later than 90 days after the date on which the audit required by subparagraph (A) is completed, the Comptroller Generalâ
+(I)
+shall submit to Congress a report on the audit; and
+(II)
+shall make the report required by subclause (I) available to the Speaker of the House of Representatives, the majority and minority leaders of the House of Representatives, the majority and minority leaders of the Senate, the Chairman and Ranking Member of the committee and each subcommittee of jurisdiction in the House of Representatives and the Senate, and any other Member of Congress who requests the report.
+(ii)
+Contents
+The report required by clause (i)(I) shall includeâ
+(I)
+an assessment of the process, including whether the Office is effectively balancing information security with the need for rigorous independent research, done in a timely manner, for the purposes described in paragraph (2);
+(II)
+any signs of discrimination in the process of certifying researchers; and
+(III)
+recommendations for improvements to the process.
+(c)
+Secure research access
+(1)
+In general
+Not later than 2 years after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, to specifyâ
+(A)
+the types of information that should be made available to certified researchers by providers of covered platforms;
+(B)
+the manner in which such information is accessed; and
+(C)
+under what circumstances the provision of access to such information to certified researchers by providers of covered platforms is required or optional.
+(2)
+Tiered access
+In issuing the regulations required by paragraph (1), the Commission shall create a system of tiered access in which information about users of covered platforms that the Commission considers more sensitive has more safeguards in place and is accessed by fewer certified researchers than information that the Commission considers less sensitive.
+(3)
+Types of information to be considered
+The types of information to be considered by the Commission in issuing the regulations required by paragraph (1) shall include the following:
+(A)
+Information related to how covered platforms conduct internal studies, including the metrics used to evaluate the platformâs success and quality of content.
+(B)
+Information related to content moderation decisions (including choices related to the ranking, ordering, promotion, or recommendation of content and requests for removal of content), the setting of policies for content moderation, and the demographics of individuals setting such policies.
+(C)
+The demographics, cultural competency, and content category-specific expertise of individuals setting content moderation policies and making content moderation decisions.
+(D)
+Requests to a provider of a covered platform from a third party to act on a user, account, or content (such as user-flagged content, content removal requests, account suspension requests, and network shutdowns).
+(E)
+Information related to engagement (such as sharing and likes) with content (such as news articles and video clips), including the demographic breakdown of users that interact with content (to the extent such breakdown is known or inferred) and the source of engagement (such as organic search or recommendation).
+(F)
+Information related to exposure (such as viewership or impressions) to content (such as news articles and video clips), including the demographic breakdown of users that interact with content (to the extent such breakdown is known or inferred) and the source of exposure (such as organic search or recommendation).
+(G)
+Classification of information sources, such as opinion, sports, entertainment, and politics.
+(H)
+Archives of removed content.
+(I)
+Archives of accounts that have been removed by a provider of a covered platform, includingâ
+(i)
+any special treatment of accounts that previously belonged to high-profile individuals;
+(ii)
+archives of fake or bot accounts that have been removed; and
+(iii)
+archives of coordinated influence operation accounts that have been removed.
+(J)
+Advertisements and influencer marketing content, in addition to the information described in subsection (f).
+(K)
+Materials used to train content moderators.
+(L)
+Detailed information related to the algorithms of a covered platform, including feature importance, optimization objectives (such as predictions of user behavior or engagement), descriptions of datasets used in model development including its composition, collection process, and any preprocessing (including cleaning or labeling) done on the data.
+(M)
+Any other information the Commission considers necessary.
+(4)
+Considerations relating to manner of access
+In issuing the regulations required by paragraph (1), the Commission shall consider the following:
+(A)
+Size and sampling techniques used to create the data sets containing the information described in paragraph (3) to which access is provided under this subsection.
+(B)
+Limits on time and amount of information stored, broken down by the type of information.
+(C)
+Under what circumstances privacy preserving techniques such as differential privacy and statistical noise should be used.
+(D)
+Information security standards, such as those included in the National Institute of Standards and Technology portfolio.
+(E)
+When aggregation of demographic information is required and the required level of aggregation.
+(F)
+When standardized variable names should be used across covered platforms and for what types of information.
+(G)
+Under what circumstances secure application computer interfaces are required and the specific level of security.
+(H)
+Designation of secure facilities and computers to analyze information through a Federally Funded Research and Development Center described in paragraph (7) or as otherwise determined by the Commission.
+(I)
+Under what circumstances to limit access to information to a subset of certified researchers based on the nature of the study or when to require preliminary results prior to more restricted access.
+(J)
+The technical feasibility for a provider of a covered platform to provide access to information.
+(5)
+Consideration of when Commission review prior to publication is required
+In issuing the regulations required by paragraph (1), the Commission shall consider under what circumstances the Commission will review a publication based on information accessed under this section prior to publication to determine whether the publication violates the privacy of a user of the covered platform or would reveal trade secrets of the provider of the covered platform.
+(6)
+User privacy
+(A)
+Protection of reasonable expectations of personal privacy
+(i)
+In general
+In issuing the regulations required by paragraph (1), the Commission shall ensure that the provision of access to information under this section does not infringe upon reasonable expectations of personal privacy of users of covered platforms or of other individuals, including by requiring a provider of a covered platformâ
+(I)
+to deidentify any information described in clause (ii) before providing certified researchers with access to such information; and
+(II)
+in the case of location information to which certified researchers are provided access, to ensure that such accessâ
+(aa)
+is provided at a level that is not more specific than a recognized place; and
+(bb)
+does not include access to precise geospatial information.
+(ii)
+Information described
+The information described in this clause is the following:
+(I)
+Information that is not (or was not before removal from the covered platform) public content.
+(II)
+Personal health information.
+(III)
+Biometric information.
+(IV)
+Information relating to an individual under 13 years of age.
+(B)
+Notice to platform users
+In issuing the regulations required by paragraph (1), the Commission shall require a provider of a covered platform, through the posting of notices or other appropriate means, to keep users informed of the types of information to which the provider is required or permitted to provide access to certified researchers under this section and the privacy protections applicable to such access.
+(C)
+User opt-out
+In issuing the regulations required by paragraph (1), the Commission shall require a provider of a covered platform to make available to a user whose profile does not host public content an opportunity to opt out of having access to the information of such user provided to a certified researcher under this section.
+(D)
+Prohibition against compelled disclosure to governmental entities
+A certified researcher, or an organization that is qualified as a host organization under this section, may not be required (by a subpoena, court order, or otherwise) to divulge to a governmental entity (as defined in section 2711 of title 18, United States Code) any information obtained from a provider of a covered platform under this section.
+(E)
+Relationship to other law
+Section 2702(b) of title 18, United States Code, is amendedâ
+(i)
+in paragraph (8), by striking
+; or
+and inserting a semicolon;
+(ii)
+in paragraph (9), by striking the period at the end and inserting
+; or
+; and
+(iii)
+by adding at the end the following:
+(10)
+to a certified researcher under section 10 of the
+Digital Services Oversight and Safety Act of 2022
+in accordance with such section and the regulations issued by the Federal Trade Commission under such section.
+.
+(7)
+Federally Funded Research and Development Center
+(A)
+In general
+The Commission may sponsor a Federally Funded Research and Development Center as described in section 35.017 of title 48, Code of Federal Regulations (or any successor regulation), to facilitate information sharing between covered platforms and certified researchers.
+(B)
+Consortium required
+A Federally Funded Research and Development Center sponsored by the Commission under subparagraph (A) shall be comprised of at least 3 organizations that are qualified as host organizations under subsection (b).
+(C)
+Mission
+The mission of a Federally Funded Research and Development Center sponsored by the Commission under subparagraph (A) may include the following:
+(i)
+Enabling certified researchers to perform studies requiring information from multiple covered platforms.
+(ii)
+Serving as a means to provide certified researchers access to information as described in paragraph (4)(H).
+(iii)
+Upon request of the Director of the Bureau, supporting and assisting in the development of guidance under section 8.
+(iv)
+Collaborating with international research organizations with a similar mission.
+(8)
+Variation based on size and scope
+In issuing the regulations required by paragraph (1), the Commission shall vary the specifications based on the size and scope of a covered platform, including by having different specifications for different services such as social media services, online marketplaces, augmented reality and virtual reality services, and digital advertising placement services. In the case of a large covered platform, the regulations issued under paragraph (1) shall apply in addition to the regulations issued under subsections (f) and (g), and the Commission shall also vary the requirements of the regulations issued under such subsections based on the size and scope of a large covered platform.
+(9)
+Safe harbor for providers
+If a provider of a covered platform provides a certified researcher with access to information in accordance with the regulations required by paragraph (1) (regardless of whether such access is optional or required), the Commission may not bring an enforcement action against the provider based solely on the act of disclosing such information to the certified researcher.
+(10)
+Safe harbor for researcher accounts and data donations
+(A)
+Immunity from liability
+A certified researcher shall not be liable under any Federal, State, or local law, or for a violation of the terms and conditions of a covered platform, for any of the following:
+(i)
+The creation and use of an account or accounts on a covered platform that are created for and used solely for a research project carried out for the purposes described in subsection (b)(2), ifâ
+(I)
+the certified researcher takes reasonable measures to avoid misleading users of the covered platform in the creation and use of the account or accounts; and
+(II)
+the creation and use of the account or accounts does not materially burden the technical operation of the covered platform.
+(ii)
+The collection of information provided for research purposes by a user of a covered platform, including through a browser extension or plug-in, if the certified researcher obtains informed consent for such collection in accordance with section 46.116 of title 45, Code of Federal Regulations (or any successor regulation).
+(B)
+Prohibition on service discrimination
+A provider of a covered platform may not condition, degrade, or otherwise discriminate in the provision of a service or product to a certified researcher because the certified researcher takes an action described in clause (i) or (ii) of subparagraph (A).
+(d)
+Submission of data dictionaries
+Not later than 18 months after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, toâ
+(1)
+require a provider of a covered platform, not later than 6 months after the date on which such regulations are issued, and every 12 months thereafter, to submit to the Commission a data dictionary created by the provider during the period covered by the submission, which shall include a description of the information collected by the provider that may be meaningful to a certified researcher, including the meaning, relationship to other information, origin, and format of the information; and
+(2)
+establish a process by which the Commission will consult a data dictionary submitted under paragraph (1) in offering advice to a certified researcher under subsection (e)(1).
+(e)
+Consultation
+(1)
+Researcher consultation
+The Commission shall offer a certified researcher attempting to formulate studies using information to which access is provided under this section, or to negotiate a memorandum of understanding with a provider of a covered platform to conduct research, advice related toâ
+(A)
+the types of information to which the researcher could obtain access; and
+(B)
+ways to protect the security of such information in accordance with this section and the regulations issued under this section.
+(2)
+Covered platform consultation
+The Commission shall offer a provider of a covered platform support and assistance in complying with this section and the regulations issued under this section in the provision of access to information to certified researchers, regardless of whether the provision of such access is required or optional under this section.
+(f)
+Advertisement libraries
+(1)
+In general
+Not later than 18 months after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, that require the following:
+(A)
+A provider of a large covered platform that sells advertising services to maintain and grant certified researchers and the Commission access to an advertisement library that contains in a searchable, machine-readable format the following information (which may be updated by the Commission as the Commission determines to be necessary) related to any advertiser that purchases $500 or more of advertising services from the provider in a calendar year:
+(i)
+The legal name and unique identification number for each advertiser.
+(ii)
+The full content contained within the advertisement, including machine-readable text and textual descriptions of any images.
+(iii)
+The method used, as selected either by the advertiser or by the provider, to target an advertisement to users of the large covered platform, including uploaded lists of users, pre-set categories of users, key words, and contextual information.
+(iv)
+The optimization objective chosen by the advertiser (such as awareness, reach, traffic, and engagement).
+(v)
+A description of the targeted audience for each advertisement, including information (that may have been collected from the profile of a user or based on an algorithm) on the demographics of the audience (including age, gender, geographic location, race, ethnicity, language, and political affiliation), interests of the audience, and any other description of the targeted audience determined to be reasonable by the Commission.
+(vi)
+A description of the delivery audience of the advertisement determined by a count of users who viewed the advertisement, including information (that may have been collected from the profile of a user or based on an algorithm) on the demographics of the audience (including age, gender, geographic location, race, ethnicity, language, and political affiliation), interests of the audience, and any other description of the delivery audience determined to be reasonable by the Commission.
+(vii)
+The number of times the advertisement was viewed by users.
+(viii)
+Advertisement conversion (including how often an advertisement was shared, liked, or clicked-through) and over what timeframe.
+(ix)
+The date and time that the advertisement was first displayed and last displayed.
+(x)
+The amount the advertiser budgeted for advertising services with respect to the advertisement on the large covered platform and the amount paid for such advertising services.
+(xi)
+The category of the advertisement as defined by the provider (such as politics, employment opportunity, housing opportunity, or apparel).
+(xii)
+Each language contained within the advertisement.
+(xiii)
+Any advertising services policy of the provider that is made available to advertisers.
+(xiv)
+Whether the advertisement was determined to violate any policy described in clause (xiii).
+(xv)
+Any other information the Commission considers necessary.
+(B)
+The methodology used by the large covered platform to calculate the demographics of the targeted audience described in subparagraph (A)(v) to be the same as the methodology used to calculate the demographics of the delivery audience described in subparagraph (A)(vi).
+(C)
+In the case of advertisements that are deleted by an advertiser or blocked by the advertising services policy of a provider of a large covered platform, the provider to treat such advertisements (with respect to whether or how such advertisements are made available in the advertisement library) as specified in such regulations.
+(D)
+A provider of a large covered platform to make an advertisement available in the advertisement library within an amount of time specified in such regulations after the advertisement is posted on the platform.
+(E)
+A provider of a large covered platform to make an advertisement available in the advertisement library for an amount of time specified in such regulations.
+(F)
+A provider of a large covered platform to ensure that the advertisement library cannot be used to identify an individual targeted by an advertisement.
+(2)
+No additional information collection required
+The regulations issued under paragraph (1) shall specify that a provider of a large covered platform is not required to collect any information for the advertisement library that the provider does not collect in the ordinary course of business.
+(3)
+Public availability
+The regulations issued under paragraph (1) shall require a provider of a large covered platform to make available to the public a version of the advertisement library maintained under such regulations. Such regulations may specify that such public version is not required to contain certain information required to be included in the version to which the Commission and certified researchers are granted access.
+(g)
+High-Reach public content stream
+(1)
+In general
+Not later than 18 months after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, that require a provider of a large covered platform to maintain, and grant certified researchers and the Commission access to, a high-reach public content stream that contains in a searchable, machine-readable format the following information (which may be updated by the Commission as the Commission determines to be necessary):
+(A)
+The pieces of high-reach and high-engagement public content, such as user-generated posts, texts, hyperlinks, images, and videos, made available on the large covered platform.
+(B)
+The frequency with which such pieces of content are shared over a period of time within a recognized place.
+(C)
+Engagement (such as sharing and likes) with such pieces of content, including the demographic breakdown of users that interact with the content (to the extent such breakdown is known or inferred).
+(D)
+Exposure (such as viewership or impressions) to such pieces of content, including the demographic breakdown of users exposed to the content (to the extent such breakdown is known or inferred).
+(E)
+Public high-profile accounts involved in the spread of such pieces of content.
+(F)
+Any other information relating to such pieces of content that the Commission considers appropriate.
+(2)
+Considerations
+In issuing regulations under paragraph (1), the Commission shall consider the following:
+(A)
+What constitutes high-reach and high-engagement public content for purposes of such regulations.
+(B)
+The time by which a piece of content is required to become available, and the period of time for which the piece of content is required to remain available, in the high-reach public content stream, with the goal of providing a near real-time understanding of high-reach and high-engagement public content on the platform.
+(C)
+What constitutes a public high-profile account, considering not only that the profile is set to public but that the number of followers is greater than 25,000 users.
+(D)
+Any other matters the Commission considers appropriate.
+(3)
+No additional information collection required
+The regulations issued under paragraph (1) shall specify that a provider of a large covered platform is not required to collect any information about users for the high-reach public content stream that the provider does not collect in the ordinary course of business.
+(4)
+Public availability
+The regulations issued under paragraph (1) may require a provider of a large covered platform to make available to the public a version of the high-reach public content stream maintained under such regulations. Such regulations may specify that such public version is not required to contain certain information required to be included in the version to which the Commission and certified researchers are granted access because of national security or privacy concerns.
+11.
+Research fellowship program
+(a)
+Establishment
+Not later than 1 year after the date of the enactment of this Act, the Commission shall issue regulations under section 553 of title 5, United States Code, to establish within the Bureau a fellowship program (in this section referred to as the
+program
+) in accordance with this section that offers individuals appointments as fellows to conductâ
+(1)
+research relating to understanding of and mitigating systemic risks described in section 4(a)(3), with a focus on research that requires information that is difficult or impossible for a certified researcher to obtain under section 10; and
+(2)
+research projects with a focus on domestic and global information ecosystem studies that require information from or about multiple hosting services and longer time horizons.
+(b)
+Applications
+The Commission shall prescribe the process for an individual to apply for appointment as a fellow under the program.
+(c)
+Eligibility
+(1)
+In general
+To be eligible for appointment as a fellow under the program, an individual shall meet the following requirements:
+(A)
+The individual shall be a national of the United States or lawfully admitted to the United States for permanent residence.
+(B)
+The individual may not be a current Commission employee as of the time when the individual is appointed as a fellow.
+(C)
+The individual may not have a conflict of interest (as determined by the Commission).
+(2)
+No consecutive terms
+An individual may not serve consecutive terms as a fellow under the program.
+(d)
+Number
+The Commission shall maintain at least 15 fellows under the program at any time.
+(e)
+Term
+A fellow appointed under the program shall serve a term of not less than 1 year and not more than 3 years.
+(f)
+Pay
+The Commission shall establish annual rates of pay, benefits, and standards for fellows under the program.
+(g)
+Fellowship agreement
+The Commission and a fellow appointed under the program shall enter into a fellowship agreement, which shall state the amount of compensation to be received by the fellow and the terms and conditions governing the fellowship.
+(h)
+Compliance with information security practices
+A fellow appointed under the program shall comply with information security practices established by the Commission.
+(i)
+Access to information
+A fellow appointed under the program shall have access toâ
+(1)
+the same information as a certified researcher; and
+(2)
+information relating to hosting services and providers of hosting services obtained under section 6(b) of the Federal Trade Commission Act (
+15 U.S.C. 46(b)
+).
+(j)
+Prohibition on carrying out enforcement duties
+A fellow appointed under the program may not perform work for purposes of an enforcement action by the Commission.
+(k)
+Inapplicability of certain rules
+Any rule of the Commission that restricts an individual formerly employed by the Commission from accepting other employment shall not apply to an individual by reason of the service of the individual as a fellow under the program.
+12.
+Report and disclosure integrity
+In the case of any report or other disclosure required to be made by a provider of a hosting service under this Act, it shall be a violation of this Act for such report or other disclosure to include any untrue statement of a material fact or to omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which the report or other disclosure is made, not misleading.
+13.
+Enforcement by Federal Trade Commission
+(a)
+Unfair or deceptive acts or practices
+A violation of this Act or a regulation issued under this Act shall be treated as a violation of a regulation under section 18(a)(1)(B) of the
+Federal Trade Commission Act
+(
+15 U.S.C. 57a(a)(1)(B)
+) regarding unfair or deceptive acts or practices.
+(b)
+Powers of Commission
+The Commission shall enforce this Act and the regulations issued under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the
+Federal Trade Commission Act
+(
+15 U.S.C. 41 et seq.
+) were incorporated into and made a part of this Act, and any person who violates this Act or a regulation issued under this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
+(c)
+Commission litigation authority
+Section 16(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 56(a)(2)
+) is amendedâ
+(1)
+in subparagraph (D), by striking
+or
+after the semicolon;
+(2)
+in subparagraph (E)â
+(A)
+by moving the margins 2 ems to the left; and
+(B)
+by inserting
+or
+after the semicolon; and
+(3)
+by inserting after subparagraph (E) the following:
+(F)
+under subsection (l) or (m) of section 5 of this Act that arises from a violation of the
+Digital Services Oversight and Safety Act of 2022
+or a regulation issued under such Act;
+.
+(d)
+Regulations
+The Commission may issue regulations under section 553 of title 5, United States Code, to implement this Act.
+14.
+Authorization of appropriations
+There is authorized to be appropriated to the Commission to carry out this Act, and to remain available until expended, $500,000,000 for each fiscal year beginning with fiscal year 2022.
+15.
+Rule of construction
+Nothing in section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+) may be construed to limit the application of, or to impair or limit the enforcement ofâ
+(1)
+this Act or a regulation issued under this Act; or
+(2)
+section 6(b) of the Federal Trade Commission Act (
+15 U.S.C. 46(b)
+).

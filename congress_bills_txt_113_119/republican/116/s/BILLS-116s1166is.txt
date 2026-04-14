@@ -1,0 +1,83 @@
+1.
+Short title
+This Act may be cited as the
+Internet Exchange Act of 2019
+.
+2.
+Definitions
+In this Act:
+(1)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(2)
+Core based statistical area
+The term
+core based statistical area
+has the meaning given the term by the Office of Management and Budget in the Notice of Decision entitled
+2010 Standards for Delineating Metropolitan and Micropolitan Statistical Areas
+, published in the Federal Register on June 28, 2010 (75 Fed. Reg. 37246), or any successor to that Notice.
+(3)
+Covered grant
+The term
+covered grant
+means a grant awarded under section 3(a).
+(4)
+Internet exchange facility
+The term
+internet exchange facility
+means physical infrastructure through which internet service providers and content delivery networks exchange internet traffic between their networks.
+3.
+National Telecommunications and Information Administration grants
+(a)
+Grants
+On and after the first day of the first fiscal year beginning after the date on which the Assistant Secretary establishes rules and timelines under subsection (d), the Assistant Secretary shall award grants to entities to acquire real property and necessary equipment toâ
+(1)
+establish a new internet exchange facility in a core based statistical area in which, at the time the grant is awarded, there are no existing internet exchange facilities; or
+(2)
+expand operations at an existing internet exchange facility in a core based statistical area in which, at the time the grant is awarded, there is only 1 internet exchange facility.
+(b)
+Eligibility
+An entity may not receive a covered grant unless the entity certifies to the Assistant Secretary that the entity has sufficient interest from third party entities that will use the internet exchange facility to be funded by the grant once the facility is established or operations are expanded, as applicable.
+(c)
+Federal share
+The Federal share of the total cost of the establishment of, or expansion of operations at, an internet exchange facility for which a covered grant is awarded may not exceed 50 percent.
+(d)
+Applications
+(1)
+Rules and timelines
+Not later than 1 year after the date of enactment of this Act, the Assistant Secretary shall establish rules and timelines for applications for covered grants.
+(2)
+Third party review
+To prevent fraud in the covered grant program, the Assistant Secretary shall enter into a contract with an independent third party under which the third party reviews an application for a covered grant not later than 60 days after the date on which the application is submitted to ensure that only an entity that is eligible for a covered grant receives a covered grant.
+(e)
+Rule of construction
+Nothing in this section shall be construed to authorize the Assistant Secretary to regulate, issue guidance for, or otherwise interfere with the activities at an internet exchange facility.
+(f)
+No additional funds authorized
+No additional funds are authorized to be appropriated to carry out this section. This section shall be carried out using amounts otherwise authorized.
+4.
+Use of E-Rate and Rural Health Care universal service support
+Section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+) is amended by adding at the end the following:
+(m)
+Use of E-Rate and Rural Health Care support for costs relating to internet exchange facility
+connection
+(1)
+In general
+Notwithstanding any other provision of law or regulation, including subpart F or G of part 54 of title 47, Code of Federal Regulations (or any successor regulation), a recipient of support under such subpart F or G may receive support under that subpartâ
+(A)
+to contract with a broadband internet service provider to obtain connection to an internet exchange facility; or
+(B)
+for the costs of maintaining a point of presence at an internet exchange facility.
+(2)
+Rule of construction
+Nothing in this subsection shall be construed to authorize the Commission to regulate, issue guidance for, or otherwise interfere with the activities at an internet exchange facility.
+(3)
+Internet exchange facility defined
+In this subsection, the term
+internet exchange facility
+means physical infrastructure through which internet service providers and content delivery networks exchange internet traffic between their networks.
+.

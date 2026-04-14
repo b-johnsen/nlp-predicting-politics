@@ -1,0 +1,50 @@
+1.
+Short title
+This Act may be cited as the
+Clean Air in the Cloud Act
+.
+2.
+Factors, operational analysis, and business case
+(a)
+In general
+Not later than 90 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall, as described in the GAO reportâ
+(1)
+identify factors for evaluating whether the information technology systems of the Environmental Protection Agency may be ready for replacement or retirement;
+(2)
+document an operational analysis for the AQS and AirNow; and
+(3)
+develop and document a business case, in accordance with the System Life Cycle Management process of the Agencyâ
+(A)
+for a new information technology system that manages and reports air quality data collected through the national ambient air quality monitoring system to replace the AQS and AirNow;
+(B)
+that addresses issues with the AQS and AirNow; and
+(C)
+that details considerations of alternatives, if appropriate.
+(b)
+Report
+Not later than 120 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall submit to Congress a report describing the factors identified, the operational analysis documented, and the business case developed and documented, under subsection (a).
+(c)
+Definitions
+In this Act:
+(1)
+AirNow
+The term
+AirNow
+means the information technology system of the Environmental Protection Agency that receives near real-time air quality data, primarily on ozone and particulate matter, that the Environmental Protection Agency reports to the public through a website and the AirNow app.
+(2)
+Air Quality System
+The term
+Air Quality System
+means the repository of the Environmental Protection Agency for ambient air quality data that the Environmental Protection Agency uses for regulatory purposes.
+(3)
+AQS
+The term
+AQS
+means the Air Quality System.
+(4)
+GAO report
+The term
+GAO report
+means the report of the Government Accountability Office to the Ranking Member, Subcommittee on Cybersecurity, Information Technology, and Government Innovation, Committee on Oversight and Accountability, House of Representatives, titled
+AIR POLLUTION: EPA Needs to Develop a Business Case for Replacing Legacy Air Quality Data Systems
+and dated September 2023 (GAOâ23â105618).

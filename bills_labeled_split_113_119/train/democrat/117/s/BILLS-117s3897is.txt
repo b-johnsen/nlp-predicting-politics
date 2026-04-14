@@ -1,0 +1,320 @@
+1.
+Short title
+This Act may be cited as the
+Legacy IT Reduction Act of 2022
+.
+2.
+Definitions
+In this Act:
+(1)
+Administrator
+The term
+Administrator
+means the Administrator of General Services.
+(2)
+Agency
+The term
+agency
+means an agency described in paragraph (1) or (2) of section 901(b) of title 31, United States Code.
+(3)
+Chief information officer
+The term
+Chief Information Officer
+means a Chief Information Officer designated under section 3506(a)(2) of title 44, United States Code.
+(4)
+Comptroller general
+The term
+Comptroller General
+means the Comptroller General of the United States.
+(5)
+Congressional oversight committee
+The term
+congressional oversight committee
+means, with respect to a particular agency, a committee or subcommittee of the Senate and the House of Representatives that provide oversight of the agency.
+(6)
+Director
+The term
+Director
+means the Director of the Office of Management and Budget.
+(7)
+Information technology
+The term
+information technology
+has the meaning given the term in section 11101 of title 40, United States Code.
+(8)
+IT working capital fund; legacy information technology system
+The terms
+IT working capital fund
+and
+legacy information technology system
+have the meaning given the terms in section 1076 of the National Defense Authorization Act for Fiscal Year 2018 (
+40 U.S.C. 11301
+note; Public Law (115â91)).
+(9)
+National security system
+The term
+national security system
+has the meaning given the term in section 11103 of title 40, United States Code.
+(10)
+Technology Modernization Fund
+The term
+Technology Modernization Fund
+means the fund established under section 1078(b)(1) of the National Defense Authorization Act for Fiscal Year 2018 (
+40 U.S.C. 11301
+note;
+Public Law 115â91
+).
+3.
+Legacy information technology system inventory
+(a)
+Inventory of legacy information technology systems
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, and not later than 5 years thereafter, the Chief Information Officer of each agency shall compile an inventory that lists each legacy information technology system used, operated, or maintained by the agency.
+(2)
+Contents
+The Director shall issue guidance prescribing the information that the Chief Information Officer of each agency shall include for each legacy technology information system listed in the inventory required under paragraph (1). In issuing such guidance, the Director shall consider including for each legacy technology information system listed in the inventoryâ
+(A)
+the name or an identification of the legacy information technology system;
+(B)
+the office or mission of the agency that the legacy information technology system supports and how the office or mission uses the legacy information technology system;
+(C)
+to the extent that information is availableâ
+(i)
+the date of the last update or refresh of the legacy information technology system;
+(ii)
+the price, including recurring subscription costs and any costs to contract labor to operate or maintain the legacy information technology system; and
+(iii)
+the name and contact information of the vendor; and
+(D)
+the date of the next expected update or modernization, retirement, or disposal of the legacy information technology system.
+(b)
+Transparency and accountability
+(1)
+In general
+Upon request by a House of Congress, a congressional oversight committee of an agency, the Comptroller General of the United States, or an inspector general of an agency, the head of the agency shall make available the inventory compiled under subsection (a)(1) or the relevant portion of that inventory.
+(2)
+Reporting
+The Director may require an agency to include the inventory compiled under subsection (a)(1) in a reporting structure determined by the Director.
+4.
+Agency legacy information technology systems modernization plans
+(a)
+In general
+Not later than 2 years after the date of enactment of this Act, and every 5 years thereafter, the head of an agency shall develop and include as part of the information resource management strategic plan of the agency submitted under section 3506(b)(2) of title 44, United States Code, a plan to modernize the legacy information technology systems of the agency.
+(b)
+Contents
+A modernization plan of an agency developed under subsection (a) shall includeâ
+(1)
+an inventory of the legacy information technology systems of the agency;
+(2)
+an identification of legacy information technology systems that the agency has prioritized for updates, modernization, retirement, or disposal;
+(3)
+steps the agency intends to make toward updating, modernizing, retiring, or disposing of the legacy information technology systems of the agency during the 5-year period beginning on the date of submission of the plan; and
+(4)
+any additional information that the Director determines necessary or useful for the agency to consider or include to effectively and efficiently execute the modernization plan, which may includeâ
+(A)
+the capacity of the agency to operate and maintain an updated or modernized legacy information technology system;
+(B)
+the cost and sources of funding required to execute the modernization plan;
+(C)
+any security standards that an updated or modernized legacy information technology system must meet;
+(D)
+any technology procurement principles by which the agency should abide;
+(E)
+the degree to which updating or modernizing a legacy information technology system is anticipated to gain operational efficiencies, address technology constraints, meet customer experience expectation, and support adoption of and integration with other systems based on comparable up-to-date technology platforms;
+(F)
+the ability of the agency to transfer and use data or intelligence held in an agency legacy information technology system to include such data or intelligence in the updated or modernized system, as necessary; and
+(G)
+the ability of the agency to adapt an updated or modernized legacy information technology system to changes in policy, technology, or other user needs, as necessary.
+(c)
+Publication and submission to Congress
+Not later than 30 days after the date on which the head of an agency submits the modernization plan developed under subsection (a) as part of the information resource management strategic plan of the agency submitted under section 3506(b)(2) of title 44, United States Code, the head of the agency shall submit the modernization plan to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform of the House of Representatives, and each congressional oversight committee of the agency.
+5.
+Role of the Office of Management and Budget
+Not later than 180 days after the date of enactment of this Act, the Director, in coordination with the Administrator of the Office of Electronic Government, shall issue guidance on the implementation of this Act and the amendments made by this Act, which shall includeâ
+(1)
+criteria to determine whether information technology qualifies as a
+legacy information technology system
+for the purposes of compiling the inventory required under section 3(a)(1);
+(2)
+instructions and templates to inform the compilation of the inventory required under section 3(a)(1), as necessary;
+(3)
+instructions and templates to inform the compilation and publication of, and any subsequent updates to, the modernization plans required under section 4(a), as necessary; and
+(4)
+any other guidance determined necessary for the implementation of this Act or the amendments made by this Act, including how the implementation of this Act or those amendments complements laws, regulations, and guidance relating to information technology modernization.
+6.
+Computers for learning program
+(a)
+In general
+The head of each agency may make available for transfer under subsection (j) of section 11 of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3710
+), as added by subsection (b) of this section, any educationally useful Federal equipment (as defined in such subsection) that the agency no longer uses.
+(b)
+Computers for learning program
+Section 11 of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3710
+) is amended by adding at the end the following:
+(j)
+Computers for learning program
+(1)
+Definitions
+In this subsection:
+(A)
+Administrator
+The term
+Administrator
+means the Administrator of General Services.
+(B)
+Community-based educational organization
+The term
+community-based educational organization
+means a nonprofit entityâ
+(i)
+that is engaged in collaborative projects with schools; or
+(ii)
+the primary focus of which is education.
+(C)
+Educationally useful Federal equipment
+The term
+educationally useful Federal equipment
+meansâ
+(i)
+a computer or related peripheral tool that is appropriate for use in prekindergarten, elementary, middle, or secondary school education; and
+(ii)
+includesâ
+(I)
+a printer, modem, router, server, switch, wireless access point, and network management device;
+(II)
+telecommunications and research equipment; and
+(III)
+computer software if the transfer of the license of the software is permitted.
+(D)
+Eligible entity
+The term
+eligible entity
+meansâ
+(i)
+a school; or
+(ii)
+a community-based educational organization.
+(E)
+Federal Executive Board
+The term
+Federal Executive Board
+means a Federal Executive Board established by the President under section 960.102 of title 5, Code of Federal Regulations or any successor regulation.
+(F)
+Nonprofit entity
+The term
+nonprofit entity
+means an organization described under
+section 501(c)
+of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code.
+(G)
+Nonprofit reuse or recycling program
+The term
+nonprofit reuse or recycling program
+a means nonprofit entity that has the ability to upgrade computer equipment at no or low cost for an eligible entity that takes title to the equipment under this subsection.
+(H)
+Research equipment
+The term
+research equipment
+means property determined to be essential to conduct scientific or technical research.
+(I)
+School
+The term
+school
+â
+(i)
+means an individual public or private educational institution for any grade level between prekindergarten and twelfth grade; and
+(ii)
+includes public school districts.
+(2)
+Findings
+Congress finds thatâ
+(A)
+educationally useful Federal equipment is a vital resource of the United States; and
+(B)
+educationally useful Federal equipment is a valuable tool for computer education ifâ
+(i)
+the equipment can be used as is; or
+(ii)
+professional technicians, students, or recycling efforts can separate the equipment into parts for other computers or upgrade the equipment.
+(3)
+Requirement
+To the greatest extent practicable, each Federal agency shall protect and safeguard educationally useful Federal equipment of the Federal agency, particularly when that equipment is declared excess or surplus, so that the equipment may be recycled and transferred, if appropriate, to eligible entities under this subsection.
+(4)
+Efficient transfer of educationally useful Federal equipment to schools and nonprofit organizations
+(A)
+Transfer
+Each Federal agency shall, where appropriate, identify educationally useful Federal equipment that the Federal agency no longer needs and transfer the educationally useful equipment to eligible entities byâ
+(i)
+conveying excess educationally useful Federal equipment directly to an eligible entity pursuant to subsection (i); or
+(ii)
+in accordance with subparagraph (B), reporting excess educationally useful Federal equipment to the Administrator for donation to eligible entities when declared surplus, as described in section 549(b)(2)(A)(ii) of title 40, United States Code.
+(B)
+Advance reporting
+In reporting excess educationally useful Federal equipment under subparagraph (A)(ii), a Federal agency shall report the equipment as far as possible in advance of the date the equipment becomes excess, so that the Administrator may attempt to arrange direct transfers from the donating Federal agency to eligible entities under this subsection.
+(C)
+Requirements
+In conveying educationally useful Federal equipment under subparagraph (A)(i)â
+(i)
+title of the equipment shall transfer directly from the Federal agency to an eligible entity;
+(ii)
+the Federal agency shall report the conveyance to the Administrator; and
+(iii)
+at the direction of the recipient of the equipment, and if appropriate, the equipment may be initially conveyed to a nonprofit reuse or recycling program for upgrade.
+(D)
+Transfer by nonprofit reuse or recycling program
+A nonprofit reuse or recycling program to which educationally useful Federal equipment is conveyed for the purpose of upgrading for an eligible entity under subparagraph (C)(iii) shall transfer the equipment to the eligible entity upon the completion of the upgrade.
+(E)
+Responsibility for cost
+Any costs relating to a transfer of educationally useful Federal equipment under this subsection shall be the responsibility of the eligible entity that receives the transfer.
+(F)
+Outreach
+The Administrator, in coordination with the Secretary of Education, shall perform outreach to eligible entities about the availability of transfers under this subsection by all practicable means, including through television or print media, community announcements, and the internet.
+(G)
+Federal Executive Boards
+Each Federal Executive Board shall help facilitate the transfer of educationally useful Federal equipment from Federal agencies under this subsection to eligible entities.
+(5)
+Guidance, regulations, and assistance to chief information officers
+The Administratorâ
+(A)
+may issue guidance or regulations to facilitate the implementation of this subsection; and
+(B)
+shall provide assistance to the chief information officers of Federal agencies to enhance the participation of Federal agencies in transfers under this subsection.
+(6)
+Rule of construction
+Nothing in this subsection shall be construed to prohibit a recipient of educationally useful Federal equipment from lending that equipment, whether on a permanent or temporary basis, to a teacher, administrator, student, employee, or other designated individual in furtherance of educational goals.
+(7)
+Judicial review
+Nothing in this subsection shall be construed to create any substantive or procedural right or benefit enforceable by law by a party against the United States, its agencies, its officers, or its employees.
+.
+7.
+Comptroller General review
+(a)
+In general
+Not later than 3 years after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report onâ
+(1)
+the implementation of this Act and the amendments made by this Act; and
+(2)
+how this Act and the amendments made by this Act function alongside other information technology modernization offices, policies, and programs, such asâ
+(A)
+the Technology Modernization Fund and the IT working capital fund;
+(B)
+the Federal Risk and Authorization Management Program, the 18F program, and the 10X program of the General Services Administration;
+(C)
+programs and policies of the Office of Management and Budget, including the Office of Electronic Government and the United States Digital Service; and
+(D)
+any other office, policy, or program of the Federal Government determined relevant by the Comptroller General.
+8.
+Protection of sensitive information; exemption of national security systems
+(a)
+In general
+Nothing in this Act or the amendments made by this Act shall be construed to require the head of an agency to disclose sensitive information thatâ
+(1)
+is protected from disclosure under any other law; or
+(2)
+that would compromise the security of any information technology system of the Federal Government.
+(b)
+Exemption
+Nothing in this Act or the amendments made by this Act shall be construed to authorize or require the head of an agency to inventory, develop a report relating to, or transfer, a national security system.

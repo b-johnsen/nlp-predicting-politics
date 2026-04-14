@@ -1,0 +1,392 @@
+1.
+Care management demonstration programs for chronic kidney disease
+Title XVIII of the Social Security Act (
+42 U.S.C. 1395
+et seq.) is amended by inserting after section 1866E the following new section:
+1866F.
+Care management demonstration programs for chronic kidney disease
+(a)
+Demonstration program for earlier and improved detection and treatment of chronic kidney disease
+(1)
+In general
+Not later than 18 months after the enactment of this section, the Secretary shall establish a demonstration program (referred to in this section as the
+CKD early detection and treatment demonstration program
+) of the use of the payment system described in paragraph (2) that, with respect to an enrolled CKDâEDT individual (as defined in paragraph (8)(D)), provides to a CKDâEDT practitioner (as defined in paragraph (8)(A)) a single monthly care management payment for all CKDâEDT services (as defined in paragraph (8)(B)) furnished to such individual by such practitioner in a month.
+(2)
+Payment system described
+The payment system described in this paragraph is a payment system that, with respect to all CKDâEDT services furnished in a month by a CKDâEDT practitioner to an enrolled CKDâEDT individual, provides a care management payment to such practitioner in an amount thatâ
+(A)
+is greater than the amount of payment that such practitioner otherwise would receive pursuant to this title for furnishing such services to such individual if the practitioner had not elected to participate in the CKD early detection and treatment demonstration program (to be calculated in a manner that includes, as part of such amount that the practitioner otherwise would so receive, any amounts that the practitioner would receive as cost-sharing amounts from the individual);
+(B)
+with respect to a fiscal year that is after the first fiscal year in which the CKDâEDT practitioner participates in the CKD early detection and treatment demonstration program, is, to the extent feasible, adjusted based on the performance of the practitioner during the prior fiscal year with respect to the measures developed by the Secretary pursuant to paragraph (3); and
+(C)
+is determined through the use of a computation that is developed in consultation withâ
+(i)
+chronic kidney disease patient advocates;
+(ii)
+clinicians in the primary care community; and
+(iii)
+such other entities as the Secretary determines appropriate.
+For purposes of applying subparagraph (A) with respect to CKDâEDT services that are furnished via a
+telecommunications system by a CKDâEDT practitioner to an enrolled CKDâEDT
+individual, the Secretary shall calculate the amount that the practitioner
+otherwise would so receive with respect to such services in a manner that
+makes such amount equal the amount that such practitioner otherwise would
+so receive for such services if such services had been furnished without
+the use of a telecommunications system.
+(3)
+Measures
+(A)
+In general
+For purposes of paragraph (2)(B), the Secretary, in conjunction with stakeholders (including chronic kidney care patient advocates, clinicians in the primary care community, and experts in the development or use of evidence-based guidelines for the detection, diagnosis, and management of chronic kidney care), shall specify measures of performance with respect to the tasks described in subparagraph (B). Such measures shall be in accordance with clinical guidelines in existence with respect to chronic kidney disease at the time of such specification.
+(B)
+Tasks described
+The tasks described in this subparagraph, with respect to a CKDâEDT practitioner, are the following:
+(i)
+Administering, as appropriate, an annual serum creatinine and urine albumin testing in accordance with published chronic kidney care practice guidelines to individuals for whom the practitioner is the primary care practitioner and that either are CKDâEDT individuals or are at the highest risk for chronic kidney disease.
+(ii)
+Ensuring that, when appropriate, individuals that are enrolled CKDâEDT individuals with respect to the practitioner receive timely consultations, in accordance with published chronic kidney care practice guidelines, with nephrologists located in the geographic area in which the individual resides.
+(C)
+Flexibility in measure specification
+For purposes of subparagraph (A), the Secretary may specify measures that the Secretary develops for purposes of such subparagraph or that the Secretary did not develop for such purposes.
+(4)
+Waiving of cost-sharing
+A CKDâEDT practitioner that participates in the CKD early detection and treatment demonstration program shall, with respect to any CKDâEDT services for which payment is made under the payment system described in paragraph (2), accept any payment made under such paragraph for such services as payment in full for such services, and may not collect any amount of cost-sharing (including any amount of deductible, coinsurance, or copayment) from an enrolled CKDâEDT individual for the furnishing of such services to such individual.
+(5)
+Geographic distribution of providers
+To the extent practicable, the Secretary shall ensure (including through targeted outreach to physicians, nurse practitioners, and physician assistants that are primary care practitioners with respect to enrolled CKDâEDT individuals) that the individuals who receive CKDâEDT services for which payment is provided under the CKD early detection and treatment demonstration program are evenly distributedâ
+(A)
+in different regions of the United States;
+(B)
+in urban and rural areas; and
+(C)
+among appropriate facilities, includingâ
+(i)
+federally qualified health centers; and
+(ii)
+community health centers that receive assistance under section 330 of the Public Health Service Act.
+(6)
+Duration and scope of demonstration
+(A)
+Three-year minimum
+Subject to subparagraph (C), the Secretary shall conduct the CKD early detection and treatment demonstration program for a period of three years.
+(B)
+Scope
+Subject to subparagraph (C), the Secretary shall enroll, subject to paragraph (10), not more than 5,000 CKDâEDT individuals for participation in the demonstration program. Such an individual may participate in the demonstration program on a voluntary basis and may terminate participation at any time.
+(C)
+Option to extend
+The Secretary may, through rulemaking, expand (including implementation on a nationwide basis) the duration and the scope of the CKD early detection and treatment demonstration program, to the extent determined appropriate by the Secretary, ifâ
+(i)
+the Secretary determines that such expansion is expected toâ
+(I)
+reduce spending under this title without reducing the quality of care; or
+(II)
+improve the quality of patient care without increasing spending under this title;
+(ii)
+the Chief Actuary of the Centers for Medicare & Medicaid Services certifies that such expansion would reduce (or would not result in any increase in) net program spending under this title; and
+(iii)
+the Secretary determines that such expansion would not deny or limit the coverage or provision of benefits under this title for applicable individuals.
+(7)
+Consultation with stakeholders
+(A)
+In general
+The Secretary shall consult with stakeholders regarding the establishment and implementation of the CKD early detection and treatment demonstration program.
+(B)
+Timing of consultation
+The Secretary shall begin to consult with stakeholders pursuant to subparagraph (A) not later than six months after the date of the enactment of this section.
+(8)
+Definitions
+For purposes of this section, the following definitions apply:
+(A)
+CKDâEDT practitioner
+Subject to paragraph (9), the term
+CKDâEDT practitioner
+means, with respect to an enrolled CKDâEDT individual, a physician, nurse practitioner, or physician assistant whoâ
+(i)
+is the primary care practitioner for such individual;
+(ii)
+agrees, with respect to each fiscal year in which the practitioner participates in the CKD early detection and treatment demonstration program, toâ
+(I)
+assess the at-risk patient populations of such physician, nurse practitioner, or physician assistant (as applicable) for chronic kidney disease pursuant to published clinical practice guidelines with respect to chronic kidney disease; and
+(II)
+submit to the Secretary the results of the assessments described in subclause (I);
+(iii)
+uses certified EHR technology (as defined in section 1833(o)(4));
+(iv)
+elects to participate in the CKD early detection and treatment demonstration program with respect to all enrolled CKDâEDT individuals for whom such physician, nurse practitioner, or physician assistant (as applicable) is the primary care practitioner;
+(v)
+agrees, with respect to each fiscal year in which the practitioner participates in the demonstration program, to assess annually (pursuant to established clinical guidelines with respect to the monitoring of the progression of chronic kidney disease) all enrolled CKDâEDT individuals for whom such physician, nurse practitioner, or physician assistant (as applicable) is the primary care practitioner and that are eitherâ
+(I)
+confirmed to have chronic kidney disease; or
+(II)
+at the highest risk of becoming an individual with confirmed chronic kidney disease;
+(vi)
+agrees to provide to each enrolled CKDâEDT individual for whom such physician, nurse practitioner, or physician assistant (as applicable) is the primary care practitionerâ
+(I)
+educational materials that provide background information about chronic kidney disease and that are developed by credible organizations, as specified by the Secretary, with expertise in the development of clinical guidelines and patient educational materials with respect to chronic kidney disease; and
+(II)
+a notification of the potential benefits that the individual may receive as a result of the practitioner participating in the CKD early detection and treatment demonstration program; and
+(vii)
+agrees to comply with the requirements of paragraph (10).
+(B)
+CKDâEDT services
+(i)
+In general
+The term
+CKDâEDT services
+means administration and evaluation of such services as the Secretary may specify that are screening services and care management services for chronic kidney disease and for which, subject to clause (iv), payment may otherwise be made under this title.
+(ii)
+Consultation required
+In determining which services to specify for purposes of clause (i), the Secretary shall consult withâ
+(I)
+chronic kidney disease patient advocates;
+(II)
+clinicians in the primary care nephrologist community; and
+(III)
+experts in the development of evidence-based guidelines for the detection, diagnosis, and management of chronic kidney disease.
+(iii)
+Considered services
+In specifying services for purposes of clause (i), the Secretary may, in addition to considering other services and patient benefits, consider the following services with respect to the screening, care, and management of chronic kidney disease:
+(I)
+Blood pressure management.
+(II)
+Lipid management.
+(III)
+Assessment for bone and mineral metabolism abnormalities, anemia, nutritional needs, mental health, and availability of family and other social support networks.
+(IV)
+Delivery of patient education on self-management strategies for chronic kidney disease.
+(V)
+Development of care plans with respect to chronic kidney disease.
+(VI)
+Medication reconciliation and dosage adjustments.
+(VII)
+Review of laboratory tests.
+(VIII)
+Medical nutrition therapy.
+(iv)
+Permissible inclusion of telehealth services
+The term
+CKDâEDT services
+may include services that are furnished via a telecommunications system by a CKDâEDT practitioner to an enrolled CKDâEDT individual and that would have been CKDâEDT services under clause (i) if such services had been furnished without the use of a telecommunications system.
+(C)
+CKDâEDT individual
+The term
+CKDâEDT individual
+means an individual whoâ
+(i)
+is not under the care of a nephrologist or nephrology practitioner;
+(ii)
+is an individual with confirmed chronic kidney disease at a stage equal to, or greater than, stage 3; and
+(iii)
+is entitled to benefits under part A and enrolled under part B.
+(D)
+Enrolled CKDâEDT individual
+The term
+enrolled CKDâEDT individual
+means a CKDâEDT individual who is enrolled to participate in the demonstration program under paragraph (6).
+(9)
+Integrated care strategy
+(A)
+In general
+Under the demonstration, a CKDâEDT practitioner, with respect to enrolled CKDâEDT individuals, shall develop and submit for the Secretaryâs approval, subject to subparagraphs (B) and (C), a CKDâEDT integrated care strategy.
+(B)
+Integrated care strategy
+In assessing a CKDâEDT integrated care strategy, the Secretary shall consider the extent to which the strategy includes elements, such as the following:
+(i)
+Interdisciplinary care teams led by at least one nephrologist, and comprised of registered nurses, social workers, and other representatives from alternative settings described in clause (vi).
+(ii)
+Health risk and other assessments to determine the physical, psychosocial, nutrition, language, cultural, and other needs of enrolled CKDâEDT individuals involved.
+(iii)
+Development and at least annual updating of individualized care plans that incorporate at least the medical, social, and functional needs, preferences, and care goals of enrolled CKDâEDT individuals.
+(iv)
+Coordination and delivery of non-clinical services, such as transportation, aimed at improving the adherence of enrolled CKDâEDT individuals with care recommendations.
+(v)
+Services, such as transplant evaluation and vascular access care.
+(vi)
+In the case of an individual who, while enrolled in the demonstration, receives confirmation that a kidney transplant is imminent, the provision by an interdisciplinary care team described in clause (i) of counseling services to such individual on preparation for and potential challenges surrounding such transplant.
+(vii)
+Delivery of benefits and services in alternative settings, such as the home of the enrolled CKDâEDT individuals, in coordination with the provider or other appropriate stakeholder involved in such delivery serving on an interdisciplinary care team described in clause (i).
+(viii)
+Use of patient reminder systems.
+(ix)
+Education programs for patients, families, and caregivers.
+(x)
+Use of health care advice resources, such as nurse advice lines.
+(xi)
+Use of team-based health care delivery models that provide comprehensive and continuous medical care, such as medical homes.
+(xii)
+Co-location of providers and services.
+(xiii)
+Use of a demonstrated capacity to share electronic health record information across sites of care.
+(xiv)
+Use of programs to promote better adherence to recommended treatment regimens by individuals, including by addressing barriers to access to care by such individuals.
+(xv)
+Other services, strategies, and approaches identified by the CKDâEDT practitioner to improve care coordination and delivery.
+(C)
+Requirements
+The Secretary may not approve a CKDâEDT integrated care strategy of a CKDâEDT practitioner unless under such strategy the pracitionerâ
+(i)
+provides services to enrolled CKDâEDT individuals through a comprehensive, multidisciplinary health and social services delivery system which integrates acute and long-term care services pursuant to regulations; and
+(ii)
+specifies the covered items and services that will not be provided directly by the practitioner, and to arrange for delivery of those items and services through contracts meeting the requirements of regulations.
+(10)
+Beneficiary protections
+(A)
+Antidiscrimination
+In the case of a CKDâEDT practitioner that participates in the CKD early detection and treatment demonstration program that is treating a CKDâEDT individual and such individual elects for the practitioner not to so participate in such demonstration program with respect to such individual, such practitioner may not participate in such demonstration program with respect to such individual (but may so participate with respect to other CKDâEDT individuals).
+(B)
+No impact on quality of care
+A CKDâEDT practitioner that participates in the CKD early detection and treatment demonstration program may not allow the participation of such practitioner in such program to affect the quality of services furnished under this title to an individual, regardless of whether the practitioner participates in such demonstration program with respect to such individual.
+(C)
+Quality assurance; patient safeguards
+The Secretary shall require that each CKDâEDT practitioner that participates in the CKD early detection and treatment demonstration program has in effectâ
+(i)
+a written plan of quality assurance and improvement with respect to CKDâEDT services for which payment is made under such demonstration program, and procedures implementing such plan, in accordance with regulations; and
+(ii)
+written safeguards of the rights of enrolled CKDâEDT individuals for whom such practitioner is the primary care practitioner (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations and with other requirements of this title and Federal and State law that are designed for the protection of patients.
+(b)
+Demonstration program for advanced chronic kidney disease
+(1)
+In general
+Not later than 18 months after the enactment of this section, the Secretary shall establish a demonstration program (referred to in this section as the
+advanced CKD demonstration program
+) of the use of the payment system described in paragraph (2) that, with respect to an individual entitled to benefits under part A or enrolled under part B with confirmed chronic kidney disease at a stage equal to, or greater than, stage 4 (as confirmed by testing serum creatinine and urine albumin in alignment with evidence-based chronic kidney disease clinical guidelines), provides to an advanced CKD practitioner (as defined in paragraph (5)(A)) a single care management payment for all advanced CKD services (as defined in paragraph (5)(B)) furnished to such individual by such practitioner in a month.
+(2)
+Payment system described
+The payment system described in this paragraph is a payment system that, with respect to all advanced CKD services furnished in a month by an advanced CKD practitioner to an individual described in paragraph (1), provides a care management payment to such practitioner in an amount thatâ
+(A)
+is greater than the amount of payment that such practitioner otherwise would receive pursuant to title XVIII for furnishing such services to such individual if the practitioner had not elected to participate in the advanced CKD demonstration program (to be calculated in a manner that includes, as part of such amount that the practitioner otherwise would so receive, any amounts that the practitioner would receive as cost-sharing amounts from the individual);
+(B)
+with respect to a fiscal year that is after the first fiscal year in which the advanced CKD practitioner participates in the advanced CKD demonstration program, is adjusted based on the performance of the practitioner during the prior fiscal year with respect to the measures developed by the Secretary pursuant to paragraph (3);
+(C)
+is determined through the use of a computation that is developed in consultation withâ
+(i)
+chronic kidney disease patient advocates;
+(ii)
+clinicians in the nephrology community;
+(iii)
+experts in the development of evidence-based guidelines for the detection, diagnosis, and management of chronic kidney disease; and
+(iv)
+such other entities as the Secretary determines appropriate.
+For purposes of applying subparagraph (A)(i) with respect to advanced CKD services that are furnished via a telecommunications system by an advanced CKD practitioner to an individual described in paragraph (1), the Secretary shall calculate the amount that the practitioner otherwise would so receive with respect to such services in a manner that makes such amount equal the amount that such practitioner otherwise would so receive for such services if such services had been furnished without the use of a telecommunications system.
+(3)
+Measures
+(A)
+In general
+For purposes of paragraph (2)(B), the Secretary, in conjunction with stakeholders (including chronic kidney care patient advocates, clinicians in the nephrology community, experts in the development of evidence-based guidelines for the detection, diagnosis, and management of chronic kidney care, and such other entities as the Secretary determines appropriate), shall specify measures of performance with respect to the tasks described in subparagraph (B). Such measures shall be in accordance with clinical guidelines in existence with respect to chronic kidney disease at the time of such specification.
+(B)
+Tasks described
+The tasks described in this subparagraph are the following:
+(i)
+Reducing costs associated with hospitalizations of individuals described in paragraph (1) that are furnished CKDâEDT services by such practitioner.
+(ii)
+Providing education to such individuals regarding the importance of avoidance of non-steroidal anti-inflammatory drugs for patients with confirmed chronic kidney disease.
+(iii)
+Providing appropriate prescription of kidney-protective blood pressure medications to such individuals for such chronic kidney disease (unless contra-indicated for individuals with confirmed chronic kidney disease), elevated urine albumin, and elevated blood pressure in alignment with evidence-based guidelines.
+(iv)
+Providing such individuals, as appropriate, with planned starts of renal replacement therapy through the receipt by such individuals of preemptive kidney transplants, the initiation of home dialysis, the initiation of outpatient in-center hemodialysis through arteriovenuous fistula or arteriovenous graft, or supportive care.
+(C)
+Flexibility in measure specification
+For purposes of subparagraph (A), the Secretary may specify measures that the Secretary develops for purposes of such subparagraph or that the Secretary did not develop for such purposes.
+(4)
+Application of early detection and treatment demonstration program provisions
+The Secretary shall, under this subsection, apply the provisions of paragraphs (4), (5), (6), (7), and (10) of subsection (a) to the advanced CKD demonstration program, advanced CKD practitioners, advanced CKD services, and individuals described in paragraph (1) to the same extent that such provisions apply under subsection (a) to the CKD early detection and treatment demonstration program, CKDâEDT practitioners, CKDâEDT services, and enrolled CKDâEDT individuals, respectively.
+(5)
+Definitions
+For purposes of this section, the following definitions apply:
+(A)
+Advanced CKD practitioner
+Subject to paragraph (6), the term
+advanced CKD practitioner
+means, with respect to an individual described in paragraph (1), a nephrologist whoâ
+(i)
+participates in the Medicare program under this title;
+(ii)
+subject to subsection (a)(10)(A) as applied pursuant to paragraph (4), elects to participate in the advanced CKD demonstration program with respect to all individuals described in paragraph (1) who receive care from the nephrologist;
+(iii)
+agrees to provide to each individual described in paragraph (1) who receives care from the nephrologistâ
+(I)
+educational materials that provide background information about chronic kidney disease and that are developed by credible organizations with expertise in the development of clinical guidelines and patient educational materials with respect to chronic kidney disease; and
+(II)
+a notification of the potential benefits that the individual may receive as a result of the practitioner participating in the advanced CKD demonstration program; and
+(iv)
+agrees to comply with the requirements of subsection (a)(10), as applied pursuant to paragraph (4).
+(B)
+Advanced CKD services
+(i)
+In general
+The term
+advanced CKD services
+means, with respect to individuals described in paragraph (1), such services as the Secretary may specify that are care and management services for chronic kidney disease and that, subject to clause (iv), are services for which payment may otherwise be made under this title.
+(ii)
+Consultation required
+In determining which services to specify for purposes of clause (i), the Secretary shall consult withâ
+(I)
+chronic kidney disease patient advocates;
+(II)
+clinicians in the nephrology community;
+(III)
+experts in the development of evidence-based guidelines for the detection, diagnosis, and management of chronic kidney disease; and
+(IV)
+such other entities as the Secretary determines appropriate.
+(iii)
+Considered services
+In specifying services for purposes of clause (i), the Secretary may, in addition to considering other services, consider the following services with respect to the care and management of chronic kidney disease:
+(I)
+Kidney disease education benefit sessions.
+(II)
+Patient care planning (including patient choice of renal replacement therapy or palliative or advanced care planning).
+(III)
+Comorbidities assessment and management (with respect to conditions such as anemia, bone and mineral abnormalities, and cardiovascular disease).
+(IV)
+Mental health assessment and referral.
+(V)
+Practitioner consultation and coordination with cardiologists, endocrinologists, mental health specialists, primary care practitioners, and other appropriate health care providers and suppliers.
+(VI)
+Vascular or peritoneal dialysis access assessments and coordinations with surgeons.
+(VII)
+Referrals and coordinations with transplant centers.
+(VIII)
+Medication reconciliations and coordinations with pharmacists.
+(IX)
+Medical nutrition therapy administered by dieticians.
+(iv)
+Permissible inclusion of telehealth services
+The term
+advanced CKD services
+may include services that are furnished via a telecommunications system by an advanced CKD practitioner to an individual described in paragraph (1) and that would have been advanced CKD services under clause (i) if such services had been furnished without the use of a telecommunications system.
+(6)
+Participation of care teams
+(A)
+In general
+With respect to an individual described in paragraph (1), a nephrologist for such individual may participate in a care team described in subparagraph (B) that, with respect to the furnishing of advanced CKD services to such individual, participates in the advanced CKD demonstration program as an advanced CKD practitioner. In applying this subsection, such group shall be treated as such an advanced CKD practitioner.
+(B)
+Care team described
+A care team described in this subparagraph, with respect to an individual described in paragraph (1), is, subject to subparagraph (C), a group of providersâ
+(i)
+each of which participates in the Medicare program under this title;
+(ii)
+each of which elects to participate in the advanced CKD demonstration program with respect to all individuals described in paragraph (1) for whom the nephrologist described in subparagraph (A) is the nephrologist; and
+(iii)
+that agrees to provide to each individual described in paragraph (1) for whom the nephrologist described in subparagraph (A) is the nephrologistâ
+(I)
+educational materials that provide background information about chronic kidney disease and that are developed by credible organizations with expertise in the development of clinical guidelines and patient educational materials with respect to chronic kidney disease; and
+(II)
+a notification of the potential benefits that the individual may receive as a result of the practitioner participating in the advanced CKD demonstration program.
+(C)
+Permissible assembly and administration by third party-administrator organizations
+(i)
+In general
+A care team described in subparagraph (B) may be assembled and administered by a third party-administrator organization.
+(ii)
+Third party-administrator organization
+For purposes of this paragraph, the term
+third party-administrator organization
+means the following:
+(I)
+A Medicare Advantage plan described in section 1851(a)(2) or a Medicare Advantage organization offering such a plan.
+(II)
+A prescription drug plan (as defined in section 1860Dâ41(a)(14)).
+(III)
+A medicaid managed care organization (as defined in section 1903(m)).
+.

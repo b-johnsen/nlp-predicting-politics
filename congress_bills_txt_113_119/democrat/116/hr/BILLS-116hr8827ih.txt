@@ -1,0 +1,264 @@
+1.
+Short title
+This Act may be cited as the
+Stablecoin Classification and Regulation Act of 2020
+.
+2.
+Findings
+Congress finds the following:
+(1)
+Article I, Section 8, Clause 5 of the United States Constitution provides that Congress shall have the power
+to coin money, regulate the value thereof, and of foreign coin, and fix the standard of weights and measures
+.
+(2)
+Section 2A of the Federal Reserve Act (
+12 U.S.C. 225a
+) provides that the mandate of the Board of Governors of the Federal Reserve System is to
+promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates
+.
+(3)
+Section 21(a) of the Banking Act of 1933 (
+12 U.S.C. 378(a)
+) provides in part that:
+(a)
+After the expiration of one year after [June 16, 1933] it shall be unlawful â¦
+(2)
+For any person, firm, corporation, association, business trust, or other similar organization to engage, to any extent whatever with others than his or its officers, agents or employees, in the business of receiving deposits subject to check or to repayment upon presentation of a pass book, certificate of deposit, or other evidence of debt, or upon request of the depositor, unless such person, firm, corporation, association, business trust, or other similar organization (A) shall be incorporated under, and authorized to engage in such business by, the laws of the United States or of any State, Territory, or District, and subjected, by the laws of the United States, or of the State, Territory, or District wherein located, to examination and regulation, or (B) shall be permitted by the United States, any State, territory, or district to engage in such business and shall be subjected by the laws of the United States, or such State, territory, or district to examination and regulations or, (C) shall submit to periodic examination by the banking authority of the State Territory, or District where such business is carried on and shall make and publish periodic reports of its condition, exhibiting in detail its resources and liabilities, such examination and reports to be made and published at the same times and in the same manner and under the same conditions as required by the law of such State, Territory, District in the case of incorporated banking institutions engaged in such business in the same locality.
+.
+(4)
+Section 3(l) of the Federal Deposit Insurance Act (
+12 U.S.C. 1813(l)
+) provides that under the Federal Deposit Insurance Act, the term
+deposit
+means:
+(1)
+the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a travelerâs check on which the bank or savings association is primarily liable: Provided, That, without limiting the generality of the term money or its equivalent, any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection,
+(2)
+trust funds as defined in this Act received or held by such bank or savings association, whether held in the trust department or held or deposited in any other department of such bank or savings association,
+(3)
+money received or held by a bank or savings association, or the credit given for money or its equivalent received or held by a bank or savings association, in the usual course of business for a special or specific purpose, regardless of the legal relationship thereby established, including without being limited to, escrow funds, funds held as security for an obligation due to the bank or savings association or others (including funds held as dealers reserves) or for securities loaned by the bank or savings association, funds deposited by a debtor to meet maturing obligations, funds deposited as advance payment on subscriptions to United States Government securities, funds held for distribution or purchase of securities, funds held to meet its acceptances or letters of credit, and withheld taxes: Provided, That there shall not be included funds which are received by the bank or savings association for immediate application to the reduction of an indebtedness to the receiving bank or savings association, or under condition that the receipt thereof immediately reduces or extinguishes such an indebtedness,
+(4)
+outstanding draft (including advice or authorization to charge a bankâs or a savings associationâs balance in another bank or savings association), cashierâs check, money order, or other officerâs check issued in the usual course of business for any purpose, including without being limited to those issued in payment for services, dividends, or purchases, and
+(5)
+such other obligations of a bank or savings association as the Board of Directors, after consultation with the Comptroller of the Currency, and the Board of Governors of the Federal Reserve System, shall find and prescribe by regulation to be deposit liabilities by general usage, except that the following shall not be a deposit for any of the purposes of this Act or be included as part of the total deposits or of an insured deposit:
+(A)
+any obligation of a depository institution which is carried on the books and records of an office of such bank or savings association located outside of any State, unlessâ
+(i)
+such obligation would be a deposit if it were carried on the books and records of the depository institution, and would be payable at, an office located in any State; and
+(ii)
+the contract evidencing the obligation provides by express terms, and not by implication, for payment at an office of the depository institution located in any State;
+(B)
+any international banking facility deposit, including an international banking facility time deposit, as such term is from time to time defined by the Board of Governors of the Federal Reserve System in regulation D or any successor regulation issued by the Board of Governors of the Federal Reserve System; and
+(C)
+any liability of an insured depository institution that arises under an annuity contract, the income of which is tax deferred under
+section 72
+of the Internal Revenue Code of 1986.
+.
+(5)
+Section 1(a) of the Federal Deposit Insurance Act (
+12 U.S.C. 1811(a)
+) provides that the Federal Deposit Insurance Corporation was established for the purpose of
+insur[ing] â¦ the deposits of all banks â¦ which are entitled to the benefits of insurance
+under the Federal Deposit Insurance Act.
+3.
+Regulation of stablecoins
+(a)
+Definitions
+Section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+) is amendedâ
+(1)
+in subsection (l)â
+(A)
+in paragraph (4), by striking
+and
+at the end;
+(B)
+by redesignating paragraph (5) as paragraph (6); and
+(C)
+by inserting after paragraph (4) the following:
+(5)
+stablecoins issued by such bank or savings association; and
+;
+(2)
+by adding at the end the following:
+(aa)
+Definitions related to stablecoins
+(1)
+Stablecoin
+The term
+stablecoin
+means any cryptocurrency or other privately-issued digital financial instrument thatâ
+(A)
+is directly or indirectly distributed to investors, financial institutions, or the general public;
+(B)
+isâ
+(i)
+denominated in United States dollars or pegged to the United States dollar; or
+(ii)
+denominated in or pegged to another national or state currency; and
+(C)
+is issuedâ
+(i)
+with a fixed nominal redemption value;
+(ii)
+with the intent of establishing a reasonable expectation or belief among the general public that the instrument will retain a nominal redemption value that is so stable as to render the nominal redemption value effectively fixed; or
+(iii)
+in such a manner that, regardless of intent, has the effect of creating a reasonable expectation or belief among the general public that the instrument will retain a nominal redemption value that is so stable as to render the nominal redemption value effectively fixed.
+(2)
+Nominal redemption value
+(A)
+In general
+With respect to a stablecoin, the term
+nominal redemption value
+means the value at which the stablecoin can readily be converted into United States dollars, or any other national or state currency, or a functional monetary equivalent, on demand, at the time of issuance, or otherwise accepted in payment or to satisfy debts denominated in United States dollars or any other national or state currency.
+(B)
+Treatment of instruments pegged to the United States dollar
+For purposes of subparagraph (A), the value at which a stablecoin that is pegged to the United States dollar or a functional monetary equivalent can readily be converted into United States dollars, on demand, at the time of issuance shall be calculated using the express or implied pegged rate for such conversion at the time of issuance.
+(C)
+Treatment of instruments denominated in or pegged to another national or state currency
+For purposes of subparagraph (A), the value at which a stablecoin that is denominated in or pegged to another national or state currency or a functional monetary equivalent can readily be converted into United States dollars, on demand, at the time of issuance shall be calculated using the express or implied exchange rate for such conversion at the time of issuance.
+(D)
+Functional monetary equivalent defined
+For purposes of this Act and any Act enacted after the date of enactment of this subsection, the term
+functional monetary equivalent
+meansâ
+(i)
+deposits, as defined under section 3 of the Federal Deposit Insurance Act;
+(ii)
+e-money and money transmitter balances;
+(iii)
+other stablecoins; and
+(iv)
+any other financial instrument issued for the purpose of circulating as money, making payments, or satisfying debts denominated in United States dollars or any other national or state currency.
+.
+(b)
+Regulations
+The Federal Deposit Insurance Act (
+12 U.S.C. 1811
+et seq.) is amended by adding at the end the following:
+52.
+Stablecoins
+(a)
+Issuing stablecoins
+(1)
+Limitation on who may issue stablecoins
+It shall be unlawful for any person to issue a stablecoin other than an insured depository institution that is a member of the Federal Reserve System.
+(2)
+Limitation on stablecoin-related commercial activities
+It shall be unlawful for any person to issue a stablecoin or stablecoin-related product, to provide any stablecoin-related service, or otherwise engage in any stablecoin-related commercial activity, including activity involving stablecoins issued by other persons, without obtaining written approval in advance, and on an ongoing basis, from the appropriate Federal banking agency, the Corporation, and the Board of Governors of the Federal Reserve System.
+(3)
+Notice and approval requirements
+Any person issuing a stablecoin shallâ
+(A)
+notify the appropriate Federal banking agency, the Corporation, and the Board of Governors of the Federal Reserve System of the personâs intent to issue the stablecoin at least 6 months prior to the date of issuance;
+(B)
+obtain written approval from the appropriate Federal banking agency, the Corporation, and the Board of Governors of the Federal Reserve System prior to issuing any stablecoin or stablecoin-related product, providing any stablecoin-related services, or otherwise engaging in any stablecoin-related commercial activity, including activity involving stablecoins issued by other persons; and
+(C)
+provide ongoing analysis to the Board of Governors of the Federal Reserve System, the Financial Stability Oversight Council, and the Office of Finance Research on any potential systemic impacts or monetary policy implications of the stablecoin.
+(4)
+Master account access
+With respect to an insured depository institution that is a member of the Federal Reserve System and that has obtained written approval described under paragraph (3)(B)â
+(A)
+the Board of Governors of the Federal Reserve System shall provide the institution with a master account at the Federal Reserve System; and
+(B)
+the institution shall be eligible to receive all benefits and access to services associated with such account.
+(b)
+Requirement To maintain fixed value
+Any issuer of a stablecoin shall take all possible actions to ensure that, at no point over the life of the stablecoin, the redemption value of the stablecoin does not drop below the nominal redemption value of the stablecoin.
+(c)
+Ability To redeem stablecoins
+(1)
+In general
+Any issuer of stablecoins shall maintain the ability to immediately redeem all outstanding stablecoins at their nominal redemption value, upon demand, in United States dollars.
+(2)
+Requirement to maintain collateral for uninsured stablecoin amounts
+(A)
+In general
+Any issuer of stablecoins shall deposit reserves with the applicable Federal reserve bank in a segregated account in an amount equal to the nominal redemption value of all outstanding stablecoins issued by the issuer, and such reserves shall serve as collateral for such stablecoins.
+(B)
+Exception for insured deposits
+Subparagraph (A) shall not apply with respect to the value of any outstanding stablecoins that the issuer of the stablecoins knows are insured deposits.
+(3)
+Penalties
+If the issuer of a stablecoin fails to immediately redeem an outstanding stablecoin, upon demand, in United States dollars (or if the appropriate Federal banking agency determines that the issuer does not have the ability to immediately redeem all outstanding stablecoins, upon demand, in United States dollars) the appropriate Federal banking agency shall penalize the issuer, which may includeâ
+(A)
+the revocation of deposit insurance provided under this Act;
+(B)
+the revocation of the issuerâs membership in the Federal Reserve System;
+(C)
+the revocation of the issuerâs Federal charter; and
+(D)
+such lesser penalty as the agency determines appropriate.
+(d)
+Products and services related to stablecoins
+(1)
+Disclosures
+Any person offering or providing a product or service with respect to a stablecoin, regardless of whether such person is the issuer of the stablecoin, shall clearly disclosureâ
+(A)
+whether the person is the original issuer of the stablecoin; and
+(B)
+if the person is the original issuer of the stablecoin, whetherâ
+(i)
+the stablecoin is being held as an insured deposit; or
+(ii)
+the stablecoin is fully collateralized by reserves maintained at a Federal reserve bank.
+(2)
+Use of the term
+dollar
+A person offering or providing a product or service with respect to a stablecoin may not use the term
+dollar
+or
+dollars
+to refer to stablecoin balances unless such reference is pre-approved by either the Comptroller of the Currency or the Board of Governors of the Federal Reserve System.
+(e)
+Prioritization under deposit insurance
+With respect to a depositor, for purposes of determining whether a deposit is an insured deposit, the Corporation shall first include deposits that are not stablecoins.
+(f)
+Oversight by Federal banking agencies
+(1)
+In general
+The appropriate Federal banking agency shall have general regulatory authority over an insured depository institutionâs business activities related to stablecoins, including all existing regulatory powers that the agency has with respect to the institutionâs business activities related to other deposits
+(2)
+Capital adequacy rules
+The Federal banking agencies shall promulgate rules and standards regarding the capital adequacy, leverage, liquidity, and permitted activities of stablecoin issuers and other persons engaged in stablecoin-related activities.
+(3)
+Effect on other rules
+To the extent a person is subject to capital adequacy, liquidity, and other rules issued under this section, the appropriate Federal banking agency may provide exceptions or exemptions from similar rules issued pursuant to other provisions of law, if the agency determines such exceptions or exemptions are appropriate, taking into account the activities of such person.
+(g)
+Rule of construction
+Nothing in this section may be construed as removing any jurisdictional or regulatory authority of any Federal agency.
+.
+(c)
+Banking Act of 1933
+Section 21 of the Banking Act of 1933 (
+12 U.S.C. 378
+) is amendedâ
+(1)
+in subsection (a)â
+(A)
+in paragraph (1), by inserting after
+to any extent whatever in the business of
+the following:
+issuing stablecoins or
+; and
+(B)
+in paragraph (2), by inserting after
+officers, agents or employees, in the business of
+the following:
+issuing stablecoins or
+;
+(2)
+by redesignating subsection (b) as subsection (c); and
+(3)
+by inserting after subsection (a) the following:
+(b)
+For the purposes of subsection (a), the term
+stablecoin
+has the meaning given that term under section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+).
+.
+(d)
+Rulemaking
+Not later than the end of the 3-month period beginning on the date of enactment of this Act, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation shall issue rules to carry out this Act and the amendments made by this Act.

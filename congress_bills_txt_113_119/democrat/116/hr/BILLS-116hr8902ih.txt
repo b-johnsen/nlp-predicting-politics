@@ -1,0 +1,4334 @@
+1.
+Short title
+This Act may be cited as the
+Consumer Bankruptcy Reform Act of 2020
+.
+2.
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+TITLE IâChapter 10 individual bankruptcy
+Sec. 101. Findings and purpose.
+Sec. 102. Chapter 10 individual bankruptcy.
+Sec. 103. Repeal of chapter 13.
+Sec. 104. Other amendments to the Bankruptcy Code.
+Sec. 105. Data collection.
+Sec. 106. Electronic signatures.
+Sec. 107. Judicial education.
+Sec. 108. Conforming amendments to other laws.
+TITLE IIâConsumer financial protection amendments
+Sec. 201. Amendments to the Consumer Financial Protection Act of 2010.
+Sec. 202. Amendments to the Truth in Lending Act.
+Sec. 203. Amendments to the Fair Credit Reporting Act.
+Sec. 204. Amendments to the Equal Credit Opportunity Act.
+Sec. 205. Amendments to the Fair Debt Collection Practices Act.
+Sec. 206. Amendments to the Electronic Fund Transfers Act.
+TITLE IIIâBankruptcy rules
+Sec. 301. Rules Enabling Act amendments.
+Sec. 302. Bankruptcy rules amendments.
+Sec. 303. Sense of Congress.
+TITLE IVâFunding the bankruptcy system
+Sec. 401. Bankruptcy fees.
+Sec. 402. Trustee compensation.
+TITLE VâBankruptcy lien filing system
+Sec. 501. Bankruptcy lien filing system.
+TITLE VIâMiscellaneous
+Sec. 601. Effective date.
+Sec. 602. Transition.
+Sec. 603. Severability.
+I
+Chapter 10 individual bankruptcy
+101.
+Findings and purpose
+(a)
+Findings
+Congress finds thatâ
+(1)
+individuals and families are often in financial distress for reasons outside of their control, such as job loss, medical bills, or educational debt, and an effective bankruptcy system not only provides those individuals and families with a fresh start but also ensures that they can participate fully in the United States economy;
+(2)
+the Bankruptcy Code was adopted in 1978, and, since then, consumer lending has grown dramatically and been transformed by technology and the preemption of State usury and consumer protection laws for certain types of lenders;
+(3)
+unnecessary paperwork and overly complex laws increase the cost of bankruptcy and prevent individuals and families in the United States who need help from accessing the bankruptcy system;
+(4)
+many consumer debtors cannot afford bankruptcy counsel and must instead save up to pay an attorney to file their bankruptcy petitions;
+(5)
+the dual-track bankruptcy system produces racially disparate outcomes that disadvantage people of color;
+(6)
+student loan debt burdens are creating distortions in the labor and housing market;
+(7)
+the nondischargeability of private student loan debt has not resulted in lower financing costs for student loan borrowers;
+(8)
+the inability of debtors to restructure home mortgage loans has led to unnecessary foreclosures that have created hardships for individuals and families and their communities without reducing costs of mortgage financing;
+(9)
+individuals and families often rely on their cars to get to work and to get dependents to school and medical appointments but often cannot retain their cars in bankruptcy without paying substantially more than the car is worth;
+(10)
+the difficulty of enforcing the discharge injunction has enabled illegal debt collection activity that undercuts the fresh start policy of bankruptcy;
+(11)
+existing law does not provide a sufficient deterrent to predatory creditors that harm individuals and families in bankruptcy by violating consumer financial laws or failing to comply with bankruptcy rules; and
+(12)
+well-counseled, affluent debtors can avoid repaying creditors through asset protection planning.
+(b)
+Purpose
+The purpose of the Act is to establish a bankruptcy system that helps individuals and families in the United States regain financial stability and protects against abusive and predatory behavior byâ
+(1)
+streamlining the process of filing for bankruptcy, simplifying court procedures in bankruptcy, and lowering the cost of bankruptcy for both consumers and creditors;
+(2)
+creating a single-chapter consumer bankruptcy system that allows consumers greater flexibility in addressing their debts and prevents disparate treatment of similarly situated consumers;
+(3)
+offering consumers more and better options to deal with debts, while ensuring the fair treatment of creditors;
+(4)
+making it easier for consumers to pay an attorney for counsel or representation in a bankruptcy case;
+(5)
+simplifying the identification and treatment of cases by expanding the number of routine cases that are handled by the court in which there is no chance of a reasonable payment to creditors and reducing paperwork requirements in those routine cases;
+(6)
+allowing the modification of mortgages on all residences;
+(7)
+allowing the modification of car loans based on the market value of a car;
+(8)
+allowing the discharge of student loan debt on equal terms with most other types of debt;
+(9)
+reducing racial, gender, and other harmful disparities in the availability, accessibility, costs, and outcomes with respect to the bankruptcy process;
+(10)
+ensuring the fair treatment of claimants for domestic support obligations;
+(11)
+reducing abusive creditor behavior; and
+(12)
+closing bankruptcy loopholes that allow the wealthy to exploit the bankruptcy process.
+102.
+Chapter 10 individual bankruptcy
+(a)
+In general
+Title 11, United States Code, is amended by inserting after section 946 the following:
+10
+Individual bankruptcy
+SUBCHAPTER IâGeneral provisions
+Sec.
+1001. Trustee.
+1002. Rights and powers of debtor.
+1003. Debtor engaged in business.
+1004. Possession of property of the estate.
+1005. Conversion or dismissal.
+1006. Treatment of certain contracts and leases.
+1007. Treatment of rental purchase agreements.
+1008. Obtaining credit.
+1009. Stay of action against codebtor.
+1010. Interpretive principle.
+SUBCHAPTER IIâPlans
+1021. Filing of plans.
+1022. Contents of plans.
+1023. Plan confirmation hearing.
+1024. Confirmation of plans.
+1025. Payments under a repayment plan.
+1026. Payments under a residence plan or property plan.
+1027. Protection of lessors and purchase money lenders.
+1028. Effect of confirmation.
+1029. Modification of repayment plan.
+SUBCHAPTER IIIâDischarge
+1031. Discharge; scope and timing.
+1032. Revocation of discharge or order of confirmation.
+SUBCHAPTER IVâAvoidance actions
+1041. Treatment of certain liens.
+1042. Limitations on avoidance actions.
+SUBCHAPTER VâLimited proceedings
+1051. Election of limited proceeding.
+1052. Effect of limited proceeding.
+1053. Dismissal or conversion of limited proceedings.
+I
+General provisions
+1001.
+Trustee
+(a)
+Appointment
+Except as provided by section 1052, in a case under this chapter, the United States trusteeâ
+(1)
+shall appoint 1 disinterested individual to serve as trustee from the panel of private trustees under section 586(a) of title 28 or a standing trustee under subsection (b) of that section who meets the requirements of a trustee under section 522 of this title; or
+(2)
+may serve as trustee.
+(b)
+Duties
+The trustee shallâ
+(1)
+perform the duties required under paragraphs (2) through (5) and (7) of section 704;
+(2)
+appear and be heard at any hearing that concernsâ
+(A)
+the value of property subject to a lien; or
+(B)
+confirmation of a repayment plan, a residence plan, or a property plan;
+(3)
+advise, other than on legal matters, and assist the debtor in the formulation of, and performance under, any plan;
+(4)
+ensure that the debtor commences making timely payments under section 1025;
+(5)
+in the case of a debtor against whom there is a claim for a domestic support obligation, provide the notices required under subsection (d); and
+(6)
+in the case of a debtor engaged in business as described in section 1003(a), perform the duties required under paragraphs (3) and (4) of section 1106(a).
+(c)
+Prohibitions
+The trustee may notâ
+(1)
+serve as an advocate for debtors or creditors;
+(2)
+advise debtors or creditors on legal matters; or
+(3)
+raise an objection to a plan filed under section 1021 solely on the basis of the treatment of a secured claim under the plan.
+(d)
+Domestic support claim notice
+(1)
+Definition of state or local child support enforcement agency
+In this subsection, the term
+State or local child support enforcement agency
+means any agency of a State or political subdivision thereof operating pursuant to a plan described in section 454 of the Social Security Act (
+42 U.S.C. 654
+) that has been approved by the Secretary of Health and Human Services under part D of title IV of such Act (
+42 U.S.C. 651
+et seq.).
+(2)
+Additional duties
+In the case of a debtor against whom there is a claim for a domestic support obligation, the trustee shallâ
+(A)
+provide written notice of the claim to the holder of the domestic support obligation that includesâ
+(i)
+a notice of the right of the holder to use the services of a State or local child support enforcement agency for assistance in collecting child support during and after the case; and
+(ii)
+the address and telephone number of the State or local child support enforcement agency of the State or political subdivision thereof in which the holder resides;
+(B)
+provide written notice of the claim to the State or local child support enforcement agency of the State or political subdivision thereof in which the holder resides that includes the name, address, and telephone number of the holder of the domestic support obligation; and
+(C)
+on the date on which the debtor is granted a discharge under section 1031, provide written notice to the holder of the domestic support obligation and the State or local child support enforcement agency of the State or political subdivision thereof in which the holder resides ofâ
+(i)
+the granting of the discharge;
+(ii)
+the most recent known address of the debtor;
+(iii)
+the most recent known name and address of the most recent known employer of the debtor; and
+(iv)
+the name of each creditor that holds a claim that is not discharged under paragraph (2) or (4) of section 523(a).
+(3)
+Address request
+(A)
+In general
+The holder of a claim for domestic support against the debtor or a State or local child support enforcement agency of the State or political subdivision thereof in which the holder resides may request from a creditor described in paragraph (2)(C)(iv) the most recent known address of the debtor.
+(B)
+No liability
+Notwithstanding any other provision of law, a creditor that makes a disclosure in connection with a request made under subparagraph (A) shall not be liable for making the disclosure.
+1002.
+Rights and powers of debtor
+(a)
+In general
+Subject to any limitations of a trustee under this chapter, the debtor shall have, exclusive of the trustee, the rights and powers of a trustee underâ
+(1)
+subsections (b), (c), (d), (f), and (l) of section 363; and
+(2)
+section 364.
+(b)
+Avoidance of transfers
+The debtor may avoid a transfer of property of the debtor or recover a setoff ifâ
+(1)
+(A)
+the transfer is avoidable by the trustee under section 544, 545, 547, 548, 549, or 1041 or recoverable by the trustee under section 553; and
+(B)
+the trustee does not attempt to avoid the transfer; or
+(2)
+section 1042 prohibits the trustee from avoiding the transfer.
+1003.
+Debtor engaged in business
+(a)
+In general
+For the purposes of this chapter, a debtor is engaged in business if the debtor isâ
+(1)
+self-employed; and
+(2)
+required to withhold taxes under
+section 3402
+of the Internal Revenue Code of 1986.
+(b)
+Rights
+Unless the court orders otherwise, a debtor engaged in business may operate the business of the debtor and, subject to any limitations on a trustee under sections 363(c) and 364 and to such limitations or conditions as the court prescribes, shall have, exclusive of the trustee, the rights and powers of the trustee under such sections.
+(c)
+Duties
+A debtor engaged in businessâ
+(1)
+shall perform the duties of the trustee required under section 704(7); and
+(2)
+is not subject to the provisions of section 308.
+1004.
+Possession of property of the estate
+The debtor shall remain in possession of all property of the estate, unlessâ
+(1)
+a confirmed plan or an order confirming a plan provides otherwise; or
+(2)
+the court, for cause, orders otherwise.
+1005.
+Conversion or dismissal
+(a)
+Conversion on request of debtor
+At any time, the debtor may convert a case under this chapter to a case underâ
+(1)
+chapter 11, if the debtor is eligible under section 109(e); or
+(2)
+chapter 12, if the debtor is eligible under section 109(f).
+(b)
+Conversion or dismissal on request of other parties
+After notice and a hearing, the court, on its own motion, or on a motion by a creditor, the United States trustee, the trustee, or any other party in interest, may, for cause, dismiss a case under this chapter or, with the consent of the debtor, convert a case under this chapter to a case under chapter 11 or 12, includingâ
+(1)
+unreasonable delay by the debtor that is prejudicial to creditors;
+(2)
+nonpayment of any fees or costs required under section 1930 of title 28;
+(3)
+failure to timely file a plan under section 1021, unless the debtor is eligible for a discharge without a plan under section 1031;
+(4)
+failure to commence making timely payments required under section 1025 if the debtor files a repayment plan;
+(5)
+denial of confirmation of a plan under section 1024 and denial of a request for additional time for filing another plan;
+(6)
+except as provided by section 1052(8), and only on request of the United States trustee, failure of the debtor in a voluntary case to file, not later than 14 days after the date of the commencement of the case, or additional time as the court may allow, the information required under section 521(a)(1); and
+(7)
+failure to file a repayment plan, if required, by the deadline prescribed under section 1021(e).
+(c)
+Dismissal
+(1)
+Dismissal for manifestly improper use of the bankruptcy system
+(A)
+In general
+Notwithstanding subsection (b), after notice and a hearing, the court, on its own motion or on a motion by the United States trustee or the trustee, may dismiss a case on grounds that the granting of relief would be a manifestly improper use of the bankruptcy system.
+(B)
+Manifestly improper use of the bankruptcy system
+For the purpose of subparagraph (A), the failure of a debtor to pay an amount that is greater than the minimum payment obligation under a repayment plan alone does not constitute a manifestly improper use of the bankruptcy system.
+(2)
+Dismissal at request of debtor
+(A)
+In general
+At the request of the debtor, at any time, the court shall dismiss a case under this chapter if the case has not been converted under subsection (a).
+(B)
+Waiver unenforceable
+A waiver of the right to dismiss a case under this section is unenforceable.
+1006.
+Treatment of certain contracts and leases
+Notwithstanding a provision in any contract or unexpired lease, or in applicable law, with respect to any contract or unexpired lease of the debtor, the contract or lease and any right or obligation under the contract or lease may not be terminated or modified, and neither the debtor nor any individual liable on such contract or unexpired lease with the debtor may be declared in default under the contract or lease at any time during or after the case, solely because of a provision in the contract or lease that is conditioned onâ
+(1)
+the insolvency or financial condition of the debtor at any time before the closing of the case;
+(2)
+the commencement of a case under this title;
+(3)
+the appointment of, or taking possession byâ
+(A)
+a trustee in a case under this title; or
+(B)
+a custodian before the commencement of a case under this title; or
+(4)
+the filing of a plan or the exercise of any other right under this title.
+1007.
+Treatment of rental-purchase agreements
+(a)
+Definition of rental-Purchase agreement
+In this section, the term
+rental-purchase agreement
+means an agreement, irrespective of formâ
+(1)
+for the use of personal property, other than a vehicle, by the debtor for personal, family, or household purposes;
+(2)
+that is renewable with each payment; and
+(3)
+that permits, but does not obligate, the debtor to become the owner of the property that is the subject of the agreement.
+(b)
+No interest in property
+For the purpose of this chapter and notwithstanding applicable nonbankruptcy law, the lessor on a rental-purchase agreement does not have an interest in the property covered by the rental-purchase agreement.
+(c)
+Election To retain property
+Notwithstanding section 365 and subject to subsection (d), in a case under this chapter, the debtor may elect to retain the property covered by a rental-purchase agreement.
+(d)
+Claims of lessor-Seller
+Notwithstanding section 365 and subject to section 502, if the debtor elects to retain the property covered by a rental-purchase agreement, the lessor-seller shall have a claim for the sum ofâ
+(1)
+accrued and unpaid rent under the rental-purchase agreement; and
+(2)
+if the debtor has elected to become owner of the property under the rental-purchase agreement, future rent and other payments due under the rental-purchase agreement.
+(e)
+Termination
+Nothing in this section shall be construed to prohibit the debtor from terminating a rental-purchase agreement.
+(f)
+Post-Discharge exercise of lessor-Seller's rights prohibited
+Any attempt to exercise the rights of a lessor-seller under a rental-purchase agreement or applicable nonbankruptcy law after the issuance of a discharge under section 1028 shall be deemed to be a violation of section 524(a).
+1008.
+Obtaining credit
+(a)
+Definition of credit
+In this section, the term
+credit
+has the meaning given the term in section 103 of the Truth in Lending Act (
+15 U.S.C. 1602
+).
+(b)
+Obtaining credit
+(1)
+In general
+The debtor in a case under this chapter may not obtain credit outside the ordinary course of the affairs of the debtor without prior authorization by the court.
+(2)
+Court approval
+After notice and a hearing, the court shall may authorize the debtor to obtain credit under paragraph (1) or incur debt only if it is in the best interests of the debtor.
+(3)
+Voiding of other post-petition credit incurred
+Any credit obtained or debt incurred by a debtor not in accordance with this subsection is void.
+(4)
+Credit rate limit
+In no event may the court authorize the debtor to obtain credit with an annual percentage rate that exceeds the annual percentage rate described in section 987(b) of title 10.
+(5)
+Compliance with nonbankruptcy law
+Credit obtained by a debtor pursuant to this section shall comply with applicable nonbankruptcy law.
+(c)
+Application of section
+This section shall apply to credit obtained by a debtor until the date on which the case is closed under section 350.
+1009.
+Stay of action against codebtor
+(a)
+Collection of debt
+Except as provided in subsections (b) and (c) of this section, after the entry of the order for relief under this chapter, a creditor may not act or commence or continue any civil action to collect all or any part of a consumer debt of the debtor from any individual that is liable on the consumer debt with the debtor or that secured the consumer debt, unlessâ
+(1)
+the individual became liable on, or secured, the consumer debt in the ordinary course of business of the individual; or
+(2)
+the case is closed, dismissed, or converted to a case under chapter 11 or 12 of this title.
+(b)
+Negotiable instruments
+A creditor may present a negotiable instrument, and may give notice of dishonor of such an instrument.
+(c)
+Relief from stay
+On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided under subsection (a) with respect to a creditor, to the extent thatâ
+(1)
+as between the debtor and the individual protected under subsection (a), the individual received consideration for the claim held by the creditor;
+(2)
+the plan filed by the debtor does not propose to pay the claim; or
+(3)
+the interest of the creditor would be irreparably harmed by a continuation of the stay.
+(d)
+Termination of stay
+On the date that is 20 days after the date on which a party in interest files a request under subsection (c) for relief from the stay provided under subsection (a), the stay shall be terminated with respect to the party in interest, unless the debtor or any individual that is liable on the consumer debt with the debtor files and serves upon the party in interest a written objection to the proposed relief from the stay.
+1010.
+Interpretive principle
+In cases in under this chapter, the provisions of this title shall be interpreted liberally in favor of relief for consumer debtors.
+II
+Plans
+1021.
+Filing of plans
+(a)
+In general
+Except as provided in subsection (c), the debtor may fileâ
+(1)
+a repayment plan that solely provides for the treatment of unsecured claims;
+(2)
+a residence plan that solely provides for the treatment of claims secured by the debtor's principal residence; or
+(3)
+a property plan that solely provides for the treatment of claims secured by property that is not the debtor's principal residence.
+(b)
+Multiple plans
+(1)
+In general
+(A)
+More than 1 plan
+Subject to subparagraph (B), the debtor may file 1 or more plans.
+(B)
+Prohibition
+If the court confirms a repayment plan of a debtor, the debtor may not file an additional repayment plan in a case under this chapter.
+(2)
+Separate treatment
+Except as provided in section 1023(a), each plan shall be treated separately for purposes of confirmation, discharge, and revocation of an order of confirmation or discharge.
+(c)
+Involuntary cases
+In a case commenced under section 303â
+(1)
+a petitioning creditor may file only a repayment plan under which the minimum payment obligation of the debtor shall be calculated to exclude any amounts required by clause (ii) or (iii) of section 101(54)(B);
+(2)
+the debtor may file a repayment plan, which shall supersede any repayment plan filed under paragraph (1); and
+(3)
+if more than 1 petitioning creditor files a repayment plan under paragraph (1) and the debtor does not file a repayment plan under paragraph (2), the court shall confirm the repayment plan that is in the best interest of creditors.
+(d)
+Discharge without a plan
+A debtor with a minimum payment obligation of $0 shall receive a discharge under section 1031 without filing a plan if the debtor is otherwise eligible to receive a discharge under this chapter.
+(e)
+Filing deadline
+The debtor shall promptly file a plan within such period of time as permitted in a rule prescribed the Judicial Conference of the United States, except that the court may extend such time period for cause.
+1022.
+Contents of plans
+(a)
+Repayment plans
+(1)
+In general
+A repayment planâ
+(A)
+shall provide thatâ
+(i)
+the debtor shall satisfy the minimum payment obligation byâ
+(I)
+making deferred cash payments; or
+(II)
+upon request of the trustee, and subject to paragraph (2), tendering to the trustee all property of the estate that is not exempt under section 522 not later than 30 days after the date on which the court confirms the plan, unless the court orders a later date;
+(ii)
+any payments under the repayment plan occur during a period not to exceed 36 months from the date on which the first payment is due under a repayment plan under section 1025(b)(1); and
+(iii)
+any payment under a repayment plan, other than the final payment, shall be in an amount that is not less than the payments required for 36 equal monthly installments, unless the court orders otherwise for cause, which may include the irregular or seasonal nature of the debtor's income; and
+(B)
+mayâ
+(i)
+pursuant to section 365, provide for the assumption, rejection, or assignment of any executory contract or unexpired lease of the debtor that has not previously been assumed or rejected under that section;
+(ii)
+provide for the payment in full, in deferred cash payments, over the duration of the repayment plan, of any claim based on a debt of a kind described in section 523 if the plan also provides for the payment in full, in deferred cash payments, of all claims entitled to priority under section 507, other than the claim of a holder that is based on a debt described in section 507 that agrees to a different treatment of that claim;
+(iii)
+provide for the exercise of any other power of the debtor or the trustee under this title;
+(iv)
+provide for an order garnishing the earnings of the debtor or ordering the authorization of electronic fund transfers from a deposit account of the debtor during the duration of the repayment plan; and
+(v)
+include any other appropriate provision not inconsistent with this title.
+(2)
+Request for tender by trustee
+(A)
+In general
+The trustee shall request the tender of property of the estate that is not exempt under section 522 only if the liquidation of such property would be reasonably likely to produce a meaningful distribution to creditors.
+(B)
+Installment redemption as an alternative to tender
+In lieu of tendering nonexempt property of the estate under paragraph (1)(A)(i)(II), the debtor may elect to pay to the trustee under the repayment plan an amount equal to the value of the interest of the debtor in such property that is in excess of the sum ofâ
+(i)
+any allowed secured claims that are secured by that property; and
+(ii)
+any exemption applicable under section 522(b).
+(b)
+Residence plans
+A residence plan mayâ
+(1)
+modify or leave unaffected the rights of a holder of a claim secured by the debtor's principal residence;
+(2)
+provide for the waiving or curing within a reasonable time of any default on any claim secured by the debtor's principal residence in accordance with subsection (d);
+(3)
+provide for payment of any allowed secured claim secured by the debtor's principal residence;
+(4)
+authorize the debtor to sell any property that is the debtor's principal residence free and clear of any liens not earlier than 60 days and not later than 180 days after the date of confirmation if the plan provides thatâ
+(A)
+the debtor shall tender the property that is the debtor's principal residence to the holder of the first-priority lien, subject to a lien secured by any allowed secured claim of a junior lienholder;
+(B)
+upon acceptance of the tender described in subparagraph (A), the debtor shall transfer the debtor's principal residence to the holder of the first-priority lien not later than 14 days after acceptance of the tender; and
+(C)
+if there is not a timely acceptance of the tender of the principal residenceâ
+(i)
+a sale free and clear of liens of the debtor's principal residence shall be conducted in a commercially reasonable manner; and
+(ii)
+after deducting the costs of the sale, any liens against the debtor's principal residence shall attach to the proceeds of the sale;
+(5)
+provide for an order garnishing the earnings of the debtor or authorizing electronic fund transfers from a deposit account of the debtor during the duration of the residence plan, but only to the extent necessary to cure any default on a claim secured by the debtor's principal residence in accordance with subsection (d); and
+(6)
+include any other appropriate provision not inconsistent with this title.
+(c)
+Property plans
+A property plan mayâ
+(1)
+modify or leave unaffected the rights of holders of claims secured by the property, other than property that is the debtor's principal residence;
+(2)
+provide for the curing or waiving within a reasonable time of any default on any claim secured by the property of the debtor that is not the debtor's principal residence in accordance with subsection (d)(2);
+(3)
+provide for payment of any allowed secured claim secured by the property of the debtor that is not the debtor's principal residence;
+(4)
+subject to section 522(e), treat as the holder of a secured claimâ
+(A)
+the seller or assignee of an installment sales contract for personal property or the equivalent of such a contract;
+(B)
+the lessor of a lease of personal property, the term of which extends beyond the remaining economic life of the property; or
+(C)
+a party to an agreement, irrespective of form, that is a security interest in personal property under applicable nonbankruptcy law;
+(5)
+provide for an order garnishing the earnings of the debtor or ordering the authorization of electronic fund transfers from a deposit account of the debtor during the duration of the property plan; and
+(6)
+include any other appropriate provision not inconsistent with this title.
+(d)
+Cure of default
+(1)
+Principal residence
+Notwithstanding any applicable nonbankruptcy law, a default with respect to, or that gives rise to, a lien on the property that is the debtor's principal residence may be cured by a residence plan under subsection (a)(2)(B) until the debtor ceases to have rights, including a right of redemption, in the property.
+(2)
+Amount to cure
+(A)
+In general
+Notwithstanding section 506(b), if a repayment plan, a residence plan, or a property plan provides for the curing of a default, the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
+(B)
+Prohibition
+The cure of a default under subparagraph (A) may not requireâ
+(i)
+interest on arrearages; or
+(ii)
+the payment of any penalty rate, late fee, or payment required under a penalty provision or a similar provision.
+1023.
+Plan confirmation hearing
+(a)
+In general
+If the trustee, the United States trustee, or a creditor objects to confirmation of a plan filed under section 1021, the court shall hold a hearing on confirmation of the plan within such period of time as permitted in a rule prescribed the Judicial Conference of the United States, except that the court may extend such time period for cause.
+(b)
+Confirmation without hearing
+If no objection is raised, the court shall, upon notice, promptly confirm a plan that complies with section 1024(a) without a hearing.
+(c)
+Multiple plans
+If the debtor files more than 1 plan under section 1021, the court shall hold a single hearing on confirmation on all of the plans, unlessâ
+(1)
+the court orders otherwise for cause; or
+(2)
+no hearing is required under subsection (b).
+1024.
+Confirmation of plans
+(a)
+Plan requirements
+Subject to subsections (b) through (d), the court shall confirm a plan under this section if all of the following requirements are met:
+(1)
+The plan complies with the applicable provisions of this title, other than section 1022(a)(1).
+(2)
+Any fee, charge, or amount that is required to be paid before confirmation under
+chapter 123
+of title 28 or the plan has been paid.
+(3)
+The plan has not been proposedâ
+(A)
+in bad faith, which may not be demonstrated solely by the amount of payments proposed by the debtor under a repayment plan; or
+(B)
+by any means forbidden by law.
+(4)
+The debtor is likely to be able to make all payments under the plan and to comply with the plan.
+(5)
+In the case of a debtor that is required by a judicial or administrative order or by a statute to pay a domestic support obligation, the debtor has paid all amounts required by such domestic support obligation that first became payable after the date of the filing of the petition.
+(6)
+Any compensation paid under the plan to the attorney of the debtor is reasonable and satisfies the requirements of section 329(c).
+(b)
+Objection to repayment plan
+If the trustee or the holder of an allowed unsecured claim objects to a repayment plan that complies with subsection (a), the court shall confirm the repayment plan only ifâ
+(1)
+the plan satisfies the requirements of section 1022(a)(1); or
+(2)
+the court finds that, because of circumstances that the debtor cannot reasonably avoid, the debtor is justly excused from satisfying all or part of the requirements of section 1022(a)(1).
+(c)
+Objection to residence plan
+If the holder of an allowed secured claim secured by the debtor's principal residence objects to the confirmation of a residence plan, the court shall confirm the residence plan only if, for any such allowed secured claim of which the holder has objected to the confirmation, the residence plan provides thatâ
+(1)
+the holder retains the lien securing the claim;
+(2)
+the value, as of the effective date of the residence plan, of the payments to be distributed under the residence plan on account of the claim is not less than the allowed amount of the secured claim;
+(3)
+payments on all claims under the residence plan are in equal monthly amounts, other than payments to cure a default under section 1022(a)(2)(B);
+(4)
+except as provided in paragraph (5), default under the residence plan constitutes default under any security agreement that creates a security interest in the debtor's principal residence;
+(5)
+the debtor will be in default for a late payment under the plan and any security agreement that creates a security interest in the debtor's principal residence only if the debtor is more than 120-days delinquent on any payment under the residence plan;
+(6)
+the holders of any judicial lien or statutory lien created before the order for relief cannot exercise any remedies under applicable nonbankruptcy law, unless the debtor is 120-days delinquent on any payment under the residence plan;
+(7)
+the last payment on account of the secured claim is due on a date that is not later than the later ofâ
+(A)
+15 years after the date of confirmation of the residence plan; or
+(B)
+5 years after the original maturity date of the loan relating to the claim; and
+(8)
+the debt secured by the debtor's principal residence that is dealt with by the residence plan has not been previously provided for by a residence plan that wasâ
+(A)
+confirmed on a date that is not more than 6 years before the date of the filing of the petition; and
+(B)
+completed.
+(d)
+Objection to property plan
+If the holder of an allowed secured claim that is secured by property that is not the debtor's principal residence objects to the confirmation of a property plan, the court shall confirm the property plan only ifâ
+(1)
+the property plan provides thatâ
+(A)
+the holder of the claim retains the lien securing the allowed secured claim;
+(B)
+the value, as of the effective date of the property plan, of the property to be distributed under the property plan on account of the claim is not less than the amount of the allowed secured claim, unlessâ
+(i)
+the property securing the claim is a motor vehicle that was acquired by the debtor within the 90-day period immediately preceding the date of the filing of the petition; and
+(ii)
+the lien securing the claim is a purchase-money security interest;
+(C)
+the value, as of the effective date of the property plan, of property to be distributed on account of a claim described in clauses (i) through (iii) of subparagraph (B) is not less than the allowed amount of the claim, as calculated under section 502;
+(D)
+payments on all claims under the property plan are in equal monthly amounts;
+(E)
+except as provided in subparagraph (F), default under the property plan constitutes default under any security agreement that creates a security interest in the property subject to the property plan;
+(F)
+the debtor is in default for a late payment under the plan and any security agreement that creates a security interest in the property subject to the property plan only if the debtor is not less than 90 days delinquent on payment to the holder of the security interest under the property plan;
+(G)
+the property plan provides that the holder of a judicial lien or statutory lien created before the date of the order for relief cannot exercise any remedies relating to the judicial lien or statutory lien under applicable nonbankruptcy law, unless the debtor is not less than 90 days delinquent on any payment to the lienholder under the property plan;
+(H)
+the last payment due under the property plan is due on a date that is not later than the later ofâ
+(i)
+5 years after the date of confirmation of the property plan; or
+(ii)
+the original maturity date of loan; and
+(I)
+the debt secured by the property that is dealt with by the property plan has not been previously provided for by a property plan that wasâ
+(i)
+confirmed on a date that is not more than 6 years before the date of the filing of the petition; and
+(ii)
+completed;
+(2)
+if the property securing the claim of the objecting holder is a motor vehicleâ
+(A)
+the debtor has provided the holder of any security interest in the motor vehicle with reasonable evidence of the maintenance of any required insurance coverage on the motor vehicle securing the claim sufficient to protect the interest of the holder in the motor vehicle; and
+(B)
+the motor vehicle isâ
+(i)
+used regularly as a means of transportation for the debtor or a dependent of the debtor; or
+(ii)
+used by the debtor or a dependent of the debtor in business; and
+(3)
+if the property securing the claim of the objecting holder is not a motor vehicleâ
+(A)
+the property is reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor; or
+(B)
+the property is reasonably necessary for the continuation, preservation, and operation of a business owned or operated by the debtor or a dependent of the debtor.
+(e)
+Impairment
+(1)
+In general
+The holder of an allowed secured claim that is not impaired under a plan may not object to a residence plan under subsection (c) or a property plan under subsection (d).
+(2)
+Determination
+For the purpose of this subsection, impairment shall be determined under section 1124.
+(f)
+Denial of motion
+(1)
+In general
+A denial of a motion to confirm a plan shall constitute a final, appealable order.
+(2)
+Plan modification
+Nothing in this section shall be construed to prevent a debtor from proposing to modify a plan that has been denied confirmation.
+(g)
+Multiple plans
+If the debtor has filed multiple plans, any party in interest may request that the confirmation of any plan be stayed until the date on which the court confirms or denies any other plan.
+(h)
+Interest rate
+The rate of interest that shall be used to calculate the value of property distributed under a plan, as of the effective date of the plan, shall beâ
+(1)
+for the purpose of subsection (c)(2)â
+(A)
+in the case of a first priority lien, the current average prime offer rate (as defined in section 1026.35(a)(2) of title 12, Code of Federal Regulations) for a loan of the most similar duration and rate type; and
+(B)
+in the case of any other lien, a rate that is 300 basis points greater than the current average prime offer rate (as defined in section 1026.35(a)(2) of title 12, Code of Federal Regulations) for a loan of the most similar duration and rate type; and
+(2)
+for the purpose of subsection (d)(2), the current average prime offer rate for motor vehicle financing of the most similar duration and rate type, as determined by the Bureau of Consumer Financial Protection under section 201(e) of the Consumer Bankruptcy Reform Act of 2020.
+1025.
+Payments under a repayment plan
+(a)
+Duties of trustee
+The trustee shallâ
+(1)
+collect and be accountable for any future income of the debtor that is designated for a payment to a creditor under a repayment plan;
+(2)
+accept and be accountable for any property of the estate tendered by the debtor pursuant to a repayment plan under section 1022(a)(1)(A)(i)(II); and
+(3)
+reduce to money and be accountable for any property of the estate tendered by the debtor under the repayment plan as expeditiously as is compatible with the best interests of the parties in interest.
+(b)
+Payments
+(1)
+In general
+Except as provided by section 1027 and unless the court orders otherwise, not later than 30 days after the date of the order for relief under this chapter, the debtor shallâ
+(A)
+commence making payments in the amount proposed to be made under a repayment plan; and
+(B)
+tender to the trustee any relevant property of the estate requested by the trustee under section 1022(a)(1)(A)(i)(II), unless the debtor has elected under section 1022(a)(2)(B) to pay the trustee for the value of such property under a repayment plan.
+(2)
+Action by trustee
+(A)
+Retention of payments pending plan confirmation
+The trustee shall retain a payment made under paragraph (1) until the date on which the repayment plan is confirmed or denied under section 1024.
+(B)
+Distribution of payments
+If a repayment plan is confirmed under section 1024, the trustee shall distribute any payments retained under subparagraph (A) in accordance with the repayment plan as soon as is practicable.
+(C)
+Return of payments
+The trustee, after deducting the sum of each allowed administrative expense under section 503(b), shall return to the debtor any payments retained under paragraph (1) if the case is dismissed or converted.
+(3)
+Modification
+Subject to section 363, pending confirmation of a repayment plan, the court, after notice and a hearing, may for cause modify, increase, or reduce the payments required under this subsection.
+(c)
+Payments to creditors
+(1)
+In general
+Except as otherwise provided in the repayment plan or in the order confirming the repayment plan, after confirmation of the plan, the trustee shall make payments to creditors under the repayment plan.
+(2)
+Prohibition
+Except as provided in subsection (d), the trustee may not make a payment described in section 1022(a)(1)(B)(ii) under a repayment plan until the date on which the trustee makes every payment in accordance with any entitlement of a creditor, including a creditor provided for under section 1022(a)(1)(B)(ii), to payment under the minimum payment obligation.
+(d)
+Priority of payments
+(1)
+In general
+Subject to paragraphs (2) and (3), all payments made by the trustee under this section shall be disbursed according to the order of priority in section 726.
+(2)
+Administrative expenses and fees
+Before or at the time of each payment to a creditor under a repayment plan, the trustee shall pay any unpaid claim of a kind specified in section 507(a)(2).
+(3)
+Exceptions
+In disbursing payments under this section, the trustee shall, at the time of each disbursement, payâ
+(A)
+any unpaid claim of the kind described in section 507(a)(2); and
+(B)
+if a standing trustee appointed under section 586(b) of title 28 is serving in the case, the percentage fee fixed for the standing trustee under section 586(e) of title 28.
+(4)
+Property recovered in avoidance actions
+Subject to any exemption allowed under section 522, the trustee shall disburse any property the trustee recovers under section 550 in accordance with this subsection.
+(e)
+Enforcement of obligations of debtor
+(1)
+In general
+Subject to paragraph (2), the obligations of a debtor under a repayment plan may be enforced solely by the trustee.
+(2)
+Exception
+The holder of a claim provided for under section 1022(a)(1)(B)(ii) may enforce the debt that is the basis for the claim in accordance with section 1028(b).
+(3)
+90-day delinquency requirement
+The trustee may not commence any action to enforce an obligation of the debtor under a repayment plan based on a delinquent payment until after the date on which the debtor has been delinquent on the payment for an 90-day period.
+(4)
+Plan enforceable by trustee as a simple contract
+Subject to sections 362 and 1029 and paragraph (7), the trustee may enforce an obligation of the debtor under a repayment plan only as a simple contract under applicable nonbankruptcy law.
+(5)
+Application of nonbankruptcy law
+Except as provided in section 1029, enforcement of the obligations of a debtor under a repayment plan shall be subject to applicable nonbankruptcy law, including laws relating to the garnishment of the wages of the debtor.
+(6)
+Inefficient enforcement prohibited
+The trustee may not enforce an obligation of the debtor under a repayment plan if the reasonably anticipated costs of the enforcement would exceed the reasonably anticipated recovery to creditors after deducting the fee and expenses of the trustee.
+(7)
+Statute of limitations for trustee enforcement
+An action by the trustee to enforce an obligation of the debtor under a repayment plan may not be commended on a date that is more than 2 years after the earliest date on which the trustee may bring an action under paragraph (3).
+(8)
+Trustee's rights nonassignable
+Any assignment, factoring, or transferring of rights or amounts a debtor owes to a trustee under a repayment plan, or of rights or authority to collect any such amounts, is void.
+1026.
+Payments under a residence plan or property plan
+(a)
+In general
+Payments under a residence plan or a property plan shall be made by the debtor in accordance with the plan.
+(b)
+Cure of default
+(1)
+In general
+If a residence plan or property plan proposes to cure a default on a claim secured by property of the debtor, the debtor may, upon completion of the cure payments due under the plan, certify to the holder of such claim using a form prescribed by the Judicial Conference of the United States, with notice given to the court, that the default has been cured.
+(2)
+Presumptive evidence
+A certification of a debtor of cure of a default by the debtor under paragraph (1) shall constitute presumptive evidence that the default has in fact been cured.
+1027.
+Protection of lessors and purchase money lenders
+(a)
+Lease payments
+The debtor shall timely make any payments scheduled in a lease of personal property directly to the lessor for the portion of the obligation that becomes due after the date of the order for relief under this chapter, unlessâ
+(1)
+the court orders otherwise;
+(2)
+the debtor rejects a lease of personal property under section 365(a); or
+(3)
+the debtor assumes a lease of personal property under section 365(p)(1)(B).
+(b)
+Insurance coverage
+Not later than 60 days after the date of the order for relief under this chapter, a debtor who has proposed a plan that retains possession of personal property subject to a lease a purchase money security interest shallâ
+(1)
+provide the lessor or holder of the claim reasonable evidence of the maintenance of any insurance coverage required under the lease or purchase money security agreement with respect to the use or ownership of the property; and
+(2)
+continue to provide the reasonable evidence required under paragraph (1) for as long as the debtor retains possession of the property before the date of confirmation of a plan addressing the property.
+1028.
+Effect of confirmation
+(a)
+Binding effect
+The provisions of a confirmed plan bind the debtor and each creditor of a claim for which the plan provides, regardless of whether the creditor has objected to the plan.
+(b)
+Repayment plan injunction
+Confirmation of a repayment plan shall operate as an injunction against the commencement or continuation of an action, the employment of process, or an act to collect, recover, or offset any debt excepted from discharge under section 523(a) and treated under section 1022(a)(1)(B)(ii) untilâ
+(1)
+the date on which the debtor completes all payments due under the plan; or
+(2)
+the debtor is not less than 90 days delinquent on a payment required under a repayment plan.
+(c)
+Residence plan injunction
+Except as provided in subsection (e), confirmation of a residence plan shall operate as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover, or offset any debt treated under section 1022(b)(2) or property securing such debt as long as the debtor is not more than 120 days delinquent on a payment required under a residence plan.
+(d)
+Property plan injunction
+Except as provided in subsection (e), confirmation of a property plan shall operate as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover, or offset any debt treated under section 1022(c)(2) or property securing such debt as long as the debtor is not more than 90 days delinquent on a payment required under a property plan.
+(e)
+Request for relief from injunction
+A party in interest may request from the court relief from the operation of an injunction under subsection (c) or (d).
+(f)
+Vesting of property
+Except as otherwise provided in a plan or the order confirming the plan, the confirmation of a plan vests all of the property of the estate in the debtor.
+(g)
+Free and clear
+Except as otherwise provided in a plan or in the order confirming the plan, the property vesting in the debtor under subsection (f) is free and clear of any claim or interest of any creditor holding a claim provided for by the plan.
+(h)
+Secured claims
+Except as provided by section 1031, the confirmation of a repayment plan leaves unaltered the rights of the holder of a secured claim that has not been avoided under this title.
+(i)
+Lien created To secure repayment plan obligation
+(1)
+In general
+The confirmation of a repayment plan creates a lien in favor of the trustee in the amount of the minimum payment obligation on any non-exempt property of the estate retained by the debtor pursuant to section 1022(a)(1)(A)(i)(II) to secure the minimum payment obligation.
+(2)
+Priority of lien
+Without regard to the knowledge of the trustee or any creditor, a lien created under paragraph (1) shall have the same status, priority, rights, and powers, with respect to the property retained by the debtor to secure the obligation, asâ
+(A)
+a creditor, regardless of whether such a creditor exists, that extends credit to the debtor at the time of the commencement of the case and obtains, at such time, and with respect to such credit, a judicial lien on any such non-exempt property that is personal property;
+(B)
+a bona fide purchaser of any such real property, other than fixtures, from the debtor against whom applicable law permits such transfer to be perfected and that obtains the status of a bona fide purchaser; and has perfected such transfer at the time of the commencement of the case, whether or not any such purchaser exists;
+(C)
+the holder of a perfected security interest in any such personal property of the debtor against which applicable law permits such security interest to be perfected as of the date of the confirmation of the repayment plan, whether or not such a holder exists; or
+(D)
+the holder of a perfected garnishment lien against the wages of the debtor, whether or not such a holder exists.
+(3)
+Effect of lien
+A lien created under paragraph (1)â
+(A)
+may not be considered a garnishment for the purposes of section 304(a) of the Consumer Credit Protection Act (
+15 U.S.C. 1674(a)
+); and
+(B)
+shall be subordinate to any lien for payment of a domestic support obligation.
+(4)
+Record of lien
+The trustee shall record a lien created under paragraph (1) in the bankruptcy lien filing system maintained by the Executive Office of the United States Trustee under section 501 of the Consumer Bankruptcy Reform Act of 2020.
+(j)
+Effect of residence or property plan
+Except to the extent inconsistent with the plan or the provisions of this title, confirmation of a residence plan or a property plan leaves unaltered the rights of the parties under any agreement that is the basis for a claim secured by property provided for by the plan.
+(k)
+Certain contract provisions void
+(1)
+Ipso facto clauses void
+The confirmation of a plan voids any provision in a contract provided for by the plan that is conditioned onâ
+(A)
+the insolvency or financial condition of the debtor at any time before the closing of a case;
+(B)
+the commencement of a case under this title; or
+(C)
+the appointment of, or taking of possession by, a trustee in a case under this title or a custodian before a case is commenced under this title.
+(2)
+Arbitration and joint-action provisions void
+Notwithstanding any contrary provision of nonbankruptcy law, the confirmation of a plan voids any pre-dispute arbitration agreement or pre-dispute joint-action lawsuit waiver relating to property subject to the plan.
+(l)
+Jurisdiction To resolve disputes
+Upon confirmation of a plan, the court shall retain jurisdiction to resolve any disputes arising under, or relating to, the plan and may order any appropriate relief in such a dispute, including the suspension of the payment obligations of the debtor under the plan.
+1029.
+Modification of repayment plan
+(a)
+In general
+After notice and a hearing, the court may, for cause, modify an obligation of the debtor under a repayment plan based on a material change in the financial condition of the debtor thatâ
+(1)
+occurs after the date of the confirmation of the repayment plan; and
+(2)
+would impose a substantial burden on the debtor or a dependent of the debtor.
+(b)
+Unanticipated attorney's fees
+If the debtor incurs unanticipated attorneyâs fees for services provided subsequent to confirmation of a repayment plan, including for services relating to this section, after notice and a hearing, the court may, for causeâ
+(1)
+subject to section 502(b)(3), allow the debtor to modify the repayment plan to include treatment of such attorneyâs fees; and
+(2)
+permit the debtor to extend the term of a repayment plan by up to 6 months to facilitate treatment of such attorneyâs fees.
+III
+Discharge
+1031.
+Discharge; scope and timing
+(a)
+In general
+Subject to subsection (b), the court shall grant the debtor a discharge in accordance with subsection (c) as soon as is practicable afterâ
+(1)
+the date of confirmation of a repayment plan; or
+(2)
+in the case of a debtor that has no minimum payment obligation, the date on which the deadline for filing a repayment plan under section 1021(e) expires.
+(b)
+Exceptions
+The court may not grant a discharge under subsection (a) to a debtor who hasâ
+(1)
+been granted a discharge under this section, under section 1141, 1192, 1128, or under former section 727 or 1328, within 6 years of the date of the filing of the petition;
+(2)
+failed to tender the property of the estate that is designated to be tendered under a repayment plan under section 1022(a)(1)(A)(i)(II);
+(3)
+(A)
+executed a written waiver of discharge after the date of the order for relief; and
+(B)
+appeared at a hearing at which the court determined that the debtor adequately understands the terms and consequences of the waiver described in subparagraph (A);
+(4)
+with the intent to hinder, delay, or defraud a creditor or an officer of the estate charged with the custody of property under this title, transferred, removed, destroyed, mutilated, concealed, or permitted the transfer, removal, destruction, mutilation, or concealment ofâ
+(A)
+property of the debtor within 1 year of the date of the filing of the petition; or
+(B)
+property of the estate after the date of the filing of the petition;
+(5)
+concealed, destroyed, mutilated, falsified, or failed to keep or preserve any recorded information from which the financial condition or business transactions of the debtor might have been ascertained, unless such act or failure was justified under all of the circumstances of the case;
+(6)
+knowingly and fraudulently, in the case or in connection with the caseâ
+(A)
+made a false oath or account;
+(B)
+presented or used a false claim;
+(C)
+gave, offered, received, or attempted to obtain money, property, or advantage, or a promise of money, property, or advantage, for acting or forbearing to act; or
+(D)
+withheld from the trustee any recorded information, including books, documents, records, and papers, relating to the property or financial affairs of the debtor;
+(7)
+failed to satisfactorily explain, before the determination of denial of discharge under this paragraph, any loss of assets or deficiency of assets to meet the liabilities of the debtor; or
+(8)
+refused in the caseâ
+(A)
+to obey any lawful order of the court, other than an order to respond to a material question or to testify;
+(B)
+on the ground of privilege against self-incrimination, to respond to a material question approved by the court or to testify after the debtor has been granted immunity with respect to the matter concerning which the privilege was invoked; or
+(C)
+on a ground other than a properly invoked privilege against self-incrimination, to respond to a material question approved by the court or to testify.
+(c)
+Debts discharged
+Except as provided in section 523, a discharge under subsection (a) discharges the debtor from all debts that arose before the date of the order for relief under this chapter and any liability on a claim that is determined under section 502 as if such debt or claim had arisen before the commencement of the case, whether or notâ
+(1)
+a proof of claim based on any such debt or liability is filed under section 501; or
+(2)
+a claim based on any such debt or liability is allowed under section 502.
+(d)
+Notice of debtor's rights
+Upon granting a discharge under subsection (a), the court shall include in the discharge order provided to the debtor on a form prescribed by the Judicial Conference of the United States in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure a conspicuous notice ofâ
+(1)
+the right to bring an action for contempt or a civil action under section 524(c); and
+(2)
+the existence of other Federal or State laws that may provide additional remedies to the debtor in the event a person violates section 524.
+1032.
+Revocation of discharge or order of confirmation
+(a)
+In general
+On request of the trustee, a creditor, or the United States trustee, at any time within 1 year after the date of the entry of an order of confirmation under section 1024 or an order of discharge under section 1031, and after notice and a hearing, the court may revoke such order only ifâ
+(1)
+such confirmation or discharge was obtained through the fraud of the debtor and the requesting party did not know of such fraud until after the granting of such confirmation or discharge; or
+(2)
+the debtor has refused, in the caseâ
+(A)
+to obey any lawful order of the court, other than an order to respond to a material question or to testify;
+(B)
+on the ground of privilege against self-incrimination, to respond to a material question approved by the court or to testify, after the debtor has been granted immunity with respect to the matter concerning which such privilege was invoked; or
+(C)
+on a ground other than the properly invoked privilege against self-incrimination, to respond to a material question approved by the court or to testify.
+(b)
+Disposal of case
+If the court revokes an order of confirmation or an order of discharge under subsection (a), the court shall convert or dismiss the case under section 1005.
+IV
+Avoidance actions
+1041.
+Treatment of certain liens
+The trustee may avoid a lien that secures a claim of a kind described in section 726(a)(4).
+1042.
+Limitations on avoidance actions
+The trustee may not bring an action to avoid a transfer or obligation under section 544, 545, 547, 548, 553, or 1041, unless there are allowed unsecured claims against the estate that the debtor does not propose to pay in full under a repayment plan.
+V
+Limited proceedings
+1051.
+Election of limited proceeding
+(a)
+In general
+(1)
+Election of limited proceeding
+In a case commenced under section 301 or 302, a debtor that is eligible to file under this chapter may, as part of the petition for relief, elect to conduct a limited proceeding that affects only claims secured by specific items of the property of the debtor under this subchapter.
+(2)
+General proceeding as default
+If the debtor does not elect to conduct a limited proceeding in a case under this chapterâ
+(A)
+the case shall proceed as a general proceeding under this title; and
+(B)
+this subchapter shall not apply to the case.
+(b)
+Limitation on election
+(1)
+In general
+After the entry of order for relief, the debtor may not elect to conduct a limited proceeding.
+(2)
+Election after dismissal
+Nothing in this section shall preclude a debtor, subsequent to the dismissal of a case, fromâ
+(A)
+filing a petition under section 301 or 302; and
+(B)
+electing to conduct a limited proceeding under subsection (a).
+1052.
+Effect of limited proceeding
+If the debtor elects to conduct a limited proceeding under section 1051(a)â
+(1)
+the debtor shall file with the petition a schedule of affected property designating the property to be subject to the limited proceeding that lists any creditor that has an interest in such property;
+(2)
+the property of the estate under section 541 shall be limited to property that the debtor has indicated in the schedule of affected property;
+(3)
+sections 341, 365, 1001, 1002, 1003, 1005(a), 1005(b)(4), 1005(b)(7), 1005(c), 1008, 1021(a)(1), 1025, 1027(a), 1031, 1032, 1041, and 1042 shall not apply to the case;
+(4)
+subject to any limitations of a trustee under this chapter, the debtor shall have the rights and powers of a trustee underâ
+(A)
+subsections (b), (c), (d), (f), and (l) of section 363; and
+(B)
+sections 364, 544, 546, 547, 548, 549, and 553;
+(5)
+the debtor shall file 1 or more plans under paragraphs (2) and (3) of section 1021(a) with respect to property listed in the schedule of affected property within 7 days of the order for relief, or such further time as the court may allow for cause, but in no case more than 30 days after the date of the order for relief;
+(6)
+the stay under subsection section 362(a) shall apply only to entities with an interest in the property that the debtor has indicated in the schedule of affected property as intended for treatment under a plan;
+(7)
+the debtor shall not be required to file the items required under section 521(a)(1)(B), other than a statement of current income and current expenditures; and
+(8)
+notice of the order for relief shall not be required to be provided to parties other than parties with claims secured by property that the debtor has indicated in the schedule of affected property and to the United States trustee.
+1053.
+Dismissal or conversion of limited proceedings
+(a)
+Election of dismissal or conversion of limited proceeding
+The debtor may elect to dismiss a limited proceeding or convert a limited proceeding to a general proceeding under this chapter by filing a notice of termination or conversion within 7 days of the earlier ofâ
+(1)
+the failure of the debtor to timely file a plan required under section 1052(5); or
+(2)
+the failure of the court to confirm a plan within 60 days of the date of the order for relief.
+(b)
+Conversion of limited proceeding
+If a debtor elects to convert a limited proceeding to a general proceeding under this chapter under subsection (a)â
+(1)
+the property of the estate shall be determined under section 541, without regard to section 1052(2), as of the date of the notice of conversion;
+(2)
+the stay under section 362(a) shall apply to each entity as of the date of the notice of conversion;
+(3)
+notice of the order for relief shall be provided to each party in interest that was not notified under section 1052(8);
+(4)
+any timeline for an action to be taken by the debtor under this title that begins on the date of the order for relief shall be adjusted to begin on the date of the notice of conversion;
+(5)
+except as provided in section 506, with respect to a creditor that has a claim secured by property included in the schedule of affected property filed under section 1052(1), any claims that arose against the debtor after the date of the order for relief and before the date of the notice of conversion shall be deemed to have arisen immediately before the date of the filing of the petition; and
+(6)
+any valuation of property or an allowed secured claim, any determination of a claim allowance, and any other determination made in the course of the limited proceeding may be used in the general proceeding, unless the court for cause orders otherwise.
+(c)
+Dismissal by court of limited proceeding
+At any time, after notice and a hearing, the court, on its own motion or on a motion by the United States trustee, may dismiss a case that is proceeding as a limited proceeding on the grounds that the granting of relief would be a manifestly improper use of the bankruptcy system.
+.
+(b)
+Clerical amendment
+The table of chapters for title 11, United States Code, is amended by inserting after the item relating to chapter 9 the following:
+10.
+Individual bankruptcy
+1001
+.
+103.
+Repeal of chapter 13
+(a)
+In general
+Chapter 13
+of title 11, United States Code, is repealed.
+(b)
+Clerical amendment
+The table of chapters for title 11, United States Code, is amended by striking the item relating to chapter 13.
+104.
+Other amendments to the Bankruptcy Code
+(a)
+Definitions
+(1)
+In general
+Section 101 of title 11, United States Code, is amendedâ
+(A)
+by striking paragraphs (3), (4A), (10A), (12A), and (30);
+(B)
+by redesignating paragraphs (53B), (53C), (56A), (53D), (54), (54A), and (55) as paragraphs (86), (87), (88), (89), (90), (91), and (92), respectively;
+(C)
+by inserting before paragraph (87), as so redesignated, the following:
+(85)
+The term
+store gift card
+means a card, code, or other device that isâ
+(A)
+issued in exchange for payment on a prepaid basis primarily for personal, family, or household purposes to a consumer in a specified amount, whether or not that amount may be increased or reloaded; and
+(B)
+redeemable for goods or services upon presentation at a single merchant or an affiliated group of merchants.
+;
+(D)
+by redesignating paragraphs (48), (48A), (49), (50), (51), (51A), (51B), (51C), (51D), (52), (53), and (53A) as paragraphs (73), (74), (75), (76), (77), (78), (79), (80), (81), (82), (83), and (84), respectively;
+(E)
+by inserting before paragraph (73), as so redesignated, the following:
+(72)
+The term
+residence plan
+means a plan filed pursuant to section 1022(b) of this title.
+;
+(F)
+by redesignating paragraphs (46) and (47) as paragraphs (70) and (71), respectively;
+(G)
+by inserting before paragraph (70), as so redesignated, the following:
+(69)
+The term
+repayment plan
+means a plan filed pursuant to section 1022(a) of this title.
+;
+(H)
+by redesignating paragraph (45) as paragraph (68);
+(I)
+by inserting before paragraph (68), as so redesignated, the following:
+(67)
+The term
+realizable value
+means the value, as of the relevant date, that could be obtained for the relevant property in a lawful foreclosure, repossession, or execution sale, less the costs of such sale.
+;
+(J)
+by redesignating paragraphs (43) and (44) as paragraphs (65) and (66), respectively;
+(K)
+by inserting before paragraph (65), as so redesignated, the following:
+(64)
+The term
+property plan
+means a plan filed pursuant to section 1022(c) of this title.
+;
+(L)
+by redesignating paragraph (42A) as paragraph (63);
+(M)
+by inserting before paragraph (63), as so redesignated, the following:
+(61)
+The term
+pre-dispute arbitration agreement
+means any agreement to which the debtor is a party to arbitrate a dispute that has not arisen at the time of the making of the agreement.
+(62)
+The term
+pre-dispute joint-action waiver
+means any agreement to which the debtor is a party, whether or not part of a predispute arbitration agreement, that would prohibit the debtor from participating, or waive the right of the debtor to participate, in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.
+;
+(N)
+by redesignating paragraphs (40), (40A), (40B), (41), (41A), and (42) as paragraphs (55), (56), (57), (58), (59), and (60), respectively;
+(O)
+by inserting before paragraph (56), as so redesignated, the following:
+(54)
+The term
+minimum payment obligation
+means, except as provided in section 1021(c)(1) of this title, an amount equal to the lesser ofâ
+(A)
+the allowed unsecured claims; or
+(B)
+the sum ofâ
+(i)
+the value of the debtorâs interest in property of the bankruptcy estate in excess ofâ
+(I)
+any allowed secured claims that are secured by that property; plus
+(II)
+any exemption applicable under section 522(b);
+(ii)
+in the case of a debtor in a household of 1, 2, 3, or 4 individuals, to the extent the debtorâs annual income exceeds 135 percent of the median family income of the applicable State for a family of the same number of individuals or fewer as the debtorâ
+(I)
+if the excess is not over $10,000, 15 percent of the excess;
+(II)
+if the excess is over $10,000 but not over $50,000, $1,500 plus 45 percent of the excess over $10,000;
+(III)
+if the excess is over $50,000 but not over $100,000, $19,500 plus 75 percent of the excess over $50,000; or
+(IV)
+if the excess is over $100,000, $94,500 plus 150 percent of the excess over $100,000; and
+(iii)
+in the case of a debtor in a household exceeding 4 individuals, clause (ii) shall apply, except that excess income shall be calculated as the extent to which the debtorâs annual income exceeds the sum of 135 percent of the highest median family income of the applicable State for a family of 4 or fewer individuals and $9,000 for each individual in excess of 4.
+;
+(P)
+by redesignating paragraphs (31), (32), (33), (34), (35), (35A), (36), (37), (38), (38A), (38B), (39), and (39A) as paragraphs (41), (42), (43), (44), (45), (46), (47), (48), (49), (50), (51), (52), and (53), respectively;
+(Q)
+in paragraph (45)(B), as so redesignated, by striking
+paragraphs (21B) and (33)(A)
+and inserting
+paragraphs (29) and (43)(A)
+;
+(R)
+by redesignating paragraphs (14), (14A), (15), (16), (17), (18), (19), (19A), (19B), (20), (21), (21A), (21B), (22), (22A), (23), (24), (25), (26), (27), (27A), (27B), (28), and (29) as paragraphs (17), (18), (19), (20), (21), (22), (23), (24), (25), (26), (27), (28), (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), and (40), respectively;
+(S)
+in paragraph (18), as so redesignatedâ
+(i)
+in the matter preceding subparagraph (A), by inserting
+attorneysâ fees and
+before
+interest
+; and
+(ii)
+by striking subparagraph (A) and inserting the following:
+(A)
+owed to or recoverable by a spouse, former spouse, or child of the debtor or a parent, legal guardian, or responsible relative of such a child;
+;
+(T)
+by striking paragraph (13A) and inserting the following:
+(16)
+The term
+debtorâs principal residence
+, with respect to a debtor, means 1 of the following:
+(A)
+A residential structure that the debtor or a dependent uses as a residence, including an individual condominium, a mobile or manufactured home, or trailer or houseboat, and incidental property, without regard to whether that structure is attached to real property.
+(B)
+An interest in a cooperative that owns property that the debtor or a dependent of the debtor uses as a residence.
+(C)
+A residential leasehold that the debtor or a dependent of the debtor uses as a residence.
+;
+(U)
+by redesignating paragraphs (7A), (7B) (8), (9), (10), (11), (12), and (13) as paragraphs (8), (9), (10), (11), (12), (13), (14), and (15), respectively; and
+(V)
+by inserting before paragraph (4) the following:
+(3)
+The term
+annual income
+meansâ
+(A)
+an amount equal to twice the income from all sources that the debtor receives (or in a joint case the debtor and the debtorâs spouse receive) without regard to whether such income is taxable, derived during the 6-month period ending on the last day of the calendar month immediately preceding the date of the filing of the petition; and
+(B)
+any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtorâs spouse), on a regular basis on behalf of the debtor, except that the proceeds from the sale of an asset not in the ordinary course of business shall not be included in annual income.
+.
+(2)
+Conforming amendments to other laws
+(A)
+Section 1503(3)(A)(iv) of the S.A.F.E. Mortgage Licensing Act of 2008 (
+12 U.S.C. 1502(3)(A)(iv)
+) is amended by striking
+section 101(53D)
+and inserting
+section 101(89)
+.
+(B)
+Section 116(a)(2)(A) of the Emergency Economic Stabilization Act of 2008 (
+12 U.S.C. 5226(a)(2)(A)
+) is amended by striking
+section 101(27)
+and inserting
+section 101(36)
+.
+(C)
+Section 210(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (
+12 U.S.C. 5390(a)
+)â
+(i)
+in paragraph (11)(H)â
+(I)
+in clause (i)(I), by striking
+section 101(31)
+and inserting
+section 101(41)
+; and
+(II)
+in clause (ii)(II), by striking
+section 101(32)
+and inserting
+section 101(42)
+; and
+(ii)
+in paragraph (12)(C), by striking
+section 101(32)
+and inserting
+section 101(42)
+.
+(D)
+Section 3E(g) of the Securities Exchange Act of 1934 (
+15 U.S.C. 78câ5(g)
+) is amended by striking
+section 101(53A)(B)
+and inserting
+section 101(84)(B)
+.
+(E)
+Section 103(dd)(5) of the Truth in Lending Act (
+15 U.S.C. 1602(dd)(5)
+) is amended by striking
+section 101(53D)
+and inserting
+section 101(89)
+.
+(F)
+Section 128(b)(2)(G)(i) of the Truth in Lending Act (
+15 U.S.C. 1638(b)(2)(G)(i)
+) is amended, in the matter preceding subclause (I), by striking
+section 101(53D)
+and inserting
+section 101(89)
+.
+(G)
+Section 129B(f) of the Truth in Lending Act (
+15 U.S.C. 1639b(f)
+) is amended by striking
+section 101(53D)
+and inserting
+section 101(89)
+.
+(H)
+Section 129C(i) of the Truth in Lending Act (
+15 U.S.C. 1639c(i)
+) is amended by striking
+section 101(53D)
+and inserting
+section 101(89)
+.
+(I)
+Section 1016(f)(2)(A) of the Oil Pollution Act of 1990 (
+33 U.S.C. 2716(f)(2)(A)
+) is amended by striking
+section 101(32)
+and inserting
+section 101(42)
+.
+(J)
+Section 405(j)(2)(C) of PROMESA (
+48 U.S.C. 2194(j)(2)(C)
+) is amended by striking
+section 101(11)
+and inserting
+section 101(13)
+.
+(b)
+Applicability of chapters
+Section 103 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+by striking
+chapter 7, 11, 12, or 13 of this title
+and inserting
+chapter 7, 10, 11, or 12 of this title
+; and
+(B)
+by striking
+section 362(o)
+and inserting
+section 362(m)
+; and
+(2)
+in subsection (j) by striking
+Chapter 13
+and inserting
+Chapter 10
+.
+(c)
+Adjustment of dollar amounts
+Section 104 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a) by striking
+sections 101(3)
+and all that follows through
+of this title
+and inserting
+this title
+; and
+(2)
+in subsection (b) by striking
+sections 101(3)
+and all that follows through
+of this title
+and inserting
+this title
+.
+(d)
+Waiver of sovereign immunity
+Section 106(a)(1) of title 11, United States Code, is amendedâ
+(1)
+by striking
+722,
+;
+(2)
+by inserting
+1028,
+after
+944,
+; and
+(3)
+by striking
+1231, 1301, 1303, 1305, and 1327
+and inserting
+and 1231
+.
+(e)
+Extension of time
+Section 108 of title 11, United States Code, is amendedâ
+(1)
+in subsection (b), in the matter preceding paragraph (1), by striking
+or 1301
+; and
+(2)
+in subsection (c)â
+(A)
+in the matter preceding paragraph (1), by striking
+1201 or 1301
+and inserting
+1009 or 1201
+; and
+(B)
+in paragraph (2), by striking
+section 362, 922, 1201, or 1301 of this title,
+and inserting
+section 362, 922, or 1201 of this title,
+.
+(f)
+Who may be a debtor
+(1)
+In general
+Section 109 of title 11, United States Code, is amendedâ
+(A)
+in subsection (b)â
+(i)
+by redesignating paragraphs (1), (2), and (3) as paragraphs (2), (3), and (4), respectively; and
+(ii)
+by inserting before paragraph (2), as so redesignated, the following:
+(1)
+an individual;
+;
+(B)
+by striking subsection (e);
+(C)
+by redesignating subsection (d) as (e);
+(D)
+by inserting after subsection (c) the following:
+(d)
+Only an individual that owes aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $7,500,000 (excluding debts owed to 1 or more affiliates or insiders) may be a debtor under chapter 10 of this title.
+;
+(E)
+in subsection (e), as so redesignated, by striking
+railroad, a person
+and inserting
+railroad, an individual, a person
+;
+(F)
+by striking subsection (g) and inserting the following:
+(g)
+Notwithstanding any other provision of this section, no individual or family farmer may be a debtor under this title who has been a debtor in a case pending under this title at any time in the preceding 180 days if the case was dismissed by the court for willful failure of the debtor to abide by orders of the court, or to appear before the court in proper prosecution of the case.
+; and
+(G)
+by striking subsection (h) and inserting the following:
+(h)
+(1)
+Upon motion of a party in interest or on the courtâs own motion, the court may, after notice and a hearing, include in an order dismissing a case under sections 707, 1005, 1053(c), 1112, or 1208 of this title a restriction of the debtorâs eligibility to refile a subsequent case under this title upon a finding of cause, includingâ
+(A)
+willful failure of the debtor toâ
+(i)
+abide by orders of the court; or
+(ii)
+propose a plan required under sections 1021, 1129, or 1225 in good faith and not by any means forbidden by law;
+(B)
+willful and substantial default by the debtor with respect to a term of a confirmed plan;
+(C)
+a pattern or practice of filing bankruptcy petitions as part of a manifestly improper use of the bankruptcy system;
+(D)
+willful failure of the debtor to appear before the court in proper prosecution of the case; or
+(E)
+other manifestly improper use of the provisions of this title.
+(2)
+The period of ineligibility for a subsequent caseâ
+(A)
+shall extend for 180 days from the date of the entry of the courtâs order unless the court orders otherwise; and
+(B)
+may extend for a period longer than 180 days (but not to exceed 720 days) only if the court finds manifestly improper use the bankruptcy system.
+(3)
+After notice and a hearing, the court may decrease the period of ineligibility based upon a showing of changed circumstances or for good cause shown.
+.
+(2)
+Conforming amendments
+(A)
+Section 1501(c)(2) of title 11, United States Code, is amended by striking
+109(e)
+and inserting
+109(d)
+.
+(B)
+Section 303(1) of PROMESA (
+48 U.S.C. 2163(1)
+) is amended by striking
+section 109(b)(2)
+and inserting
+section 109(b)(3)
+.
+(g)
+Penalty for persons who negligently or fraudulently prepare bankruptcy petitions
+Section 110(e)(2)(B)(i)(II) of title 11, United States Code, is amended by striking
+under chapter 7, 11, 12, or 13
+and inserting
+under chapter 10, 11, or 12
+.
+(h)
+Nonprofit budget and credit counseling agencies; financial management instructional courses
+(1)
+Chapter 1
+of title 11, United States Code, is amended by striking section 111.
+(2)
+The table of sections for
+chapter 1
+of title 11, United States Code, is amended by striking the item relating to section 111.
+(i)
+Involuntary cases
+Section 303 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a) by striking
+chapter 7 or 11 of this title
+and inserting
+chapter 7, 10, or 11 of this title
+;
+(2)
+in subsection (b) by striking
+chapter 7 or 11 of this titleâ
+and inserting
+chapter 7, 10, or 11 of this titleâ
+;
+(3)
+in subsection (g)â
+(A)
+by striking
+chapter 7 of this title
+and inserting
+chapter 7 or 10 of this title
+; and
+(B)
+by striking
+section 701 of this title
+and inserting section 701 or 1003 of this titleâ; and
+(4)
+in subsection (k)(2), by striking
+the court may enter an order
+and inserting
+the court shall enter an order
+.
+(j)
+Appearance by consumer financial protection bureau
+(1)
+In general
+Subchapter I of
+chapter 3
+of title 11, United States Code, is amended by adding at the end the following:
+309.
+Bureau of Consumer Financial Protection appearances in bankruptcy cases
+Notwithstanding section 1054(e) of the Consumer Financial Protection Act (
+12 U.S.C. 5564(e)
+), the Bureau of Consumer Financial Protection may represent itself in its own name and may raise, appear, and be heard on any issue in a case under this title before any court with appropriate jurisdiction.
+.
+(2)
+Conforming amendment
+The table of sections for
+chapter 3
+of title 11, United States Code, is amended by inserting after the item relating to
+section 308
+the following:
+309. Bureau of Consumer Financial Protection appearances in bankruptcy cases.
+.
+(k)
+Eligibility To serve as trustee
+Section 321(a) of title 11, United States Code, is amended by striking
+under chapter 7, 12, or 13 of this title,
+each place it appears and inserting
+under chapter 7, 10, or 12 of this title,
+.
+(l)
+Qualification of trustee
+Section 322(a) of title 11, United States Code, is amended by striking
+701, 702, 703, 1104, 1163, 1183, 1202, or 1302
+and inserting
+701, 702, 703, 1001, 1104, 1163, 1183, or 1202
+.
+(m)
+Limitation on compensation of trustee
+Section 326(b) of title 11, United States Code, is amendedâ
+(1)
+by striking
+chapter 12 or 13 of this title,
+and inserting
+chapter 10 or 12 of this title,
+; and
+(2)
+by striking
+under section 1202(a) or 1302(a) of this title
+and inserting
+under section 1001(a) or 1202(a) of this title
+.
+(n)
+Debtorâs transactions with attorneys
+Section 329 of title 11, United States Code, is amendedâ
+(1)
+in subsection (b)(1)(B), by striking
+chapter 11, 12, or 13 of this title
+and inserting
+chapter 10, 11, or 12 of this title
+; and
+(2)
+by adding at the end the following:
+(c)
+In a case under chapter 10 of this title, no compensation shall be allowed for the debtorâs attorney under this title unlessâ
+(1)
+the agreement between the debtor and the debtorâs attorney providing for compensationâ
+(A)
+was made not more than 90 days before the date of the filing of the petition;
+(B)
+specifies the services provided or to be provided by the debtorâs attorney and the attorneyâs related fees and expenses;
+(C)
+provides that the debtor will not be requested to pay or be liable for any amounts other than attorneysâ fees and expensesâ
+(i)
+specified in the agreement;
+(ii)
+for any adversary proceeding in which the debtor is a party; or
+(iii)
+for services required by the debtor or the court that the attorney should not have reasonably anticipated at the time of the agreement;
+(D)
+does not provide for the payment of interest or any additional fees based on delay in payment or risk of nonpayment or for costs of collection on installment payments; and
+(E)
+does not include a pre-dispute arbitration agreement or a pre-dispute joint-action waiver with respect to any dispute under the agreement;
+(2)
+the attorney has discussed with the debtor the attorneyâs fees and expenses under the agreement and the consequences of the attorneyâs filing the certification required under paragraph (3), and, after full disclosure, the debtor consents to the filing of the certification; and
+(3)
+the attorney files with the court a certification, in accordance with rule 9011 of the Federal Rules of Bankruptcy Procedure, with respect to the agreement thatâ
+(A)
+the conditions specified in paragraphs (1) and (2) are satisfied; and
+(B)
+the enforcement of the agreement would not impose an undue hardship on the debtor or the debtorâs dependents.
+(d)
+In a case under chapter 10 of this title, any assignment, factoring, or transfer of rights or amounts, or of rights or authority to collect any such amounts, due under an agreement between the debtor and the debtorâs attorney is void.
+(e)
+The bankruptcy court shall have exclusive jurisdiction over any disputes under an agreement that is subject to this section, whether or not the case has been closed.
+.
+(o)
+Compensation of officers
+(1)
+In general
+Section 330 of title 11, United States Code, is amendedâ
+(A)
+in subsection (a)(4)(B), by striking
+In a chapter 12 or chapter 13 case in which the debtor is an individual,
+and inserting
+In a chapter 10 or 12 case in which the debtor is an individual,
+;
+(B)
+by redesignating subsections (c) and (d) as subsections (d) and (f), respectively;
+(C)
+by striking
+(b)(1) There
+and inserting
+(b) There
+;
+(D)
+by striking
+title $45
+and inserting
+title $75
+;
+(E)
+by striking
+(2) The Judicial
+and inserting
+(c) The Judicial
+;
+(F)
+by striking
+(A) shall
+and inserting
+(1) shall
+;
+(G)
+by striking
+(B) may
+and inserting
+(2) may
+;
+(H)
+by striking
+paid under paragraph (1).
+and inserting
+paid under subsection (b).
+;
+(I)
+in subsection (d), as so redesignated, by striking
+in a case under chapter 12 or 13
+and inserting
+in a case under chapter 10 or 12
+; and
+(J)
+by inserting after subsection (d), as so redesignated, the following:
+(e)
+There shall be paid from the filing fee in a case under chapter 10 of this title $120 to the trustee serving in such case, after such trusteeâs services are rendered.
+.
+(2)
+Conforming amendment
+Section 589a(b)(7) of title 28, United States Code, is amended by striking
+section 330(d)
+and inserting
+section 330(f)
+.
+(p)
+Meetings of creditors and equity security holders
+Section 341 of title 11, United States Code, is amendedâ
+(1)
+in subsection (c), by striking
+chapter 7 or 13
+and inserting
+chapter 10 of this title
+;
+(2)
+in subsection (d)â
+(A)
+in the matter preceding paragraph (1), by striking
+chapter 7
+and inserting
+chapter 10
+;
+(B)
+in paragraph (1), by adding
+and
+at the end;
+(C)
+by striking paragraph (2);
+(D)
+by redesignating paragraph (3) as paragraph (2);
+(E)
+in paragraph (2), as so redesignated, by striking
+; and
+and inserting a period; and
+(F)
+by striking paragraph (4); and
+(3)
+by adding at the end the following:
+(f)
+In a case under chapter 10 of this titleâ
+(1)
+the meeting of creditors under subsection (a) may be convened electronically and allow remote appearances of all parties;
+(2)
+(A)
+the debtor shall not be required to appear in person if it would impose an unreasonable burden on the debtor; and
+(B)
+there shall be a rebuttable presumption that in-person attendance at the meeting of creditors under subsection (a) is an unreasonable burden on the debtor if the debtorâs address on the bankruptcy petition is more than 10 miles from the location of the courthouse of the bankruptcy court where the meeting of creditors under subsection (a) would occur; and
+(3)
+the meeting of creditors under subsection (a) shall be scheduled at such times to avoid conflict with the debtorâs employment.
+.
+(q)
+Notice
+Section 342 of title 11, United States Code, is amendedâ
+(1)
+by striking subsections (b) and (d);
+(2)
+by redesignating subsections (c), (e), (f), and (g) as subsections (b), (c), (d), and (e), respectively;
+(3)
+in subsection (c)(1), as so redesignated, by striking
+chapter 7 or 13
+and inserting
+chapter 10
+;
+(4)
+in subsection (d), as so redesignatedâ
+(A)
+in paragraph (1), by striking
+chapters 7 or 13
+and inserting
+chapter 10
+; and
+(B)
+in paragraph (2)â
+(i)
+by striking
+chapter 7 or 13
+and inserting
+chapter 10
+; and
+(ii)
+by striking
+subsection (e)
+and inserting
+subsection (c)
+; and
+(5)
+in subsection (e)(2), as so redesignated, by striking
+section 362(k)
+and inserting
+section 362(j)
+.
+(r)
+Unclaimed property
+Section 347(a) of title 11, United States Code, is amended by striking
+under section
+and all that follows through
+as the case may be
+and inserting
+under section 726, 1025, 1194, or 1226 of this title under chapter 7, chapter 10, subchapter V of chapter 11, or chapter 12 of this title, as the case may be
+.
+(s)
+Effect of conversion
+Section 348 of title 11, United States Code, is amendedâ
+(1)
+in subsection (b)â
+(A)
+by striking
+sections 701(a), 727(a)(10), 727(b), 1102(a), 1110(a)(1), 1121(b), 1121(c), 1141(d)(4), 1201(a), 1221, 1228(a), 1301(a), and 1305(a) of this title
+and inserting
+sections 701(a), 1009(a), 1025(b), 1027(a), 1027(b), 1031(c), 1102(a), 1110(a)(1), 1121(b), 1121(c), 1141(d)(4), 1201(a), 1221, and 1228(a) of this title
+; and
+(B)
+by striking
+under section 706, 1112, 1208, or 1307 of this title
+and inserting
+under section 706, 1005, 1053(c), 1112, or 1208 of this title
+;
+(2)
+in subsection (c), by striking
+under section 706, 1112, 1208, or 1307 of this title
+and inserting
+under section 706, 1005, 1053(c), 1112, or 1208
+of this title;
+(3)
+in subsection (d), by striking
+under section 1112, 1208, or 1307 of this title
+and inserting
+under section 1005, 1053(c), 1112, or 1208 of this title
+;
+(4)
+in subsection (e), by striking
+under section 706, 1112, 1208, or 1307 of this title
+and inserting
+under section 706, 1005, 1053(c), 1112, or 1208
+of this title; and
+(5)
+by striking subsection (f).
+(t)
+Effect of dismissal
+Section 349 of title 11, United States Code, is amendedâ
+(1)
+by striking subsection (a) and inserting the following:
+(a)
+The dismissal of a case shall notâ
+(1)
+bar the discharge, in a later case, of debts that were dischargeable in the case dismissed, except as provided in section 523, 1031, 1141, or 1228; or
+(2)
+prejudice the debtor with regard to the filing of a subsequent petition, except as provided in subsection (g) or (h) of section 109.
+; and
+(2)
+in subsection (b)(1)(B), by striking
+or 724(a) of this title,
+and inserting
+724(a), or 1041 of this title,
+.
+(u)
+Automatic stay
+(1)
+In general
+Section 362 of title 11, United States Code, is amendedâ
+(A)
+in subsection (a)â
+(i)
+in paragraph (3), by inserting
+or to retain
+after
+to exercise control over
+;
+(ii)
+in paragraph (7), by striking
+and
+at the end;
+(iii)
+in paragraph (8), by striking the period at the end and inserting
+; and
+; and
+(iv)
+by adding at the end the following:
+(9)
+in a case under chapter 10 of this title, at any time before the earliest of a conversion or dismissal under section 1005 of this title, a dismissal under section 1053(c) of this title, or a discharge under section 1031 of this title, any act to alter, refuse, or discontinue utility service provided to the debtor under an agreement entered into before the entry of the order for relief.
+;
+(B)
+in subsection (b)â
+(i)
+by striking paragraph (22);
+(ii)
+by redesignating paragraphs (23), (24), (25), (26), (27), and (28) as paragraphs (22), (23), (24), (25), (26), and (27), respectively;
+(iii)
+in paragraph (22), as so redesignated, by striking
+subsection (m)
+and inserting
+subsection (l)
+;
+(iv)
+in paragraph (26), as so redesignated, by striking
+and
+at the end;
+(v)
+in paragraph (27), as so redesignated, by striking the period and inserting
+; and
+; and
+(vi)
+by striking the matter following paragraph (27), as so redesignated and inserting the following:
+(28)
+under subsection (a), over retention of property of the estate subject to a potential loss of value due to accident, casualty, or theft unless the party entitled to possession provides proof of insurance or other security sufficient to protect the creditor against such loss of value.
+;
+(C)
+in subsection (c)â
+(i)
+in the matter preceding paragraph (1), by striking
+(f), and (h)
+and inserting
+and (f)
+;
+(ii)
+by striking paragraphs (2) and (3) and inserting the following:
+(2)
+in a case under chapter 7, 9, 11, or 12, the stay of any other act under subsection (a) of this section continues until the earliest ofâ
+(A)
+the time the case is closed;
+(B)
+the time the case is dismissed; or
+(C)
+if the case is a case under chapter 9, 11, or 12, the time a discharge is granted or denied;
+(3)
+in a case under chapter 10, the stay of any other act under subsection (a) of this section continues until the earliest ofâ
+(A)
+the time the case is closed;
+(B)
+the time the case is dismissed; or
+(C)
+the time specified in section 1021(e) has expired without the debtor having filed a plan; and
+; and
+(iii)
+in subparagraph (A)(i) of paragraph (4), by striking
+dismissed, other than a case refiled under a chapter other than chapter 7 after dismissal under section 707(b),
+and inserting
+dismissed,
+;
+(D)
+in subsection (e)(2), by striking
+chapter 7, 11, or 13
+and inserting
+chapter 10 or 11
+;
+(E)
+by striking subsections (h) and (i);
+(F)
+by redesignating subsections (j) through (o) as subsections (h) through (m) respectively;
+(G)
+in subsection (i), as so redesignatedâ
+(i)
+by striking
+(1) Except as provided in paragraph (2), an
+and inserting
+An
+; and
+(ii)
+by striking paragraph (2); and
+(H)
+by adding at the end the following:
+(n)
+Any agreement of the debtor entered into before the filing of the petition to waive the provisions of this section or any other provision of this title is void.
+.
+(2)
+Conforming amendments
+(A)
+Section 1519(f) of title 11, United States Code, is amended by striking
+section 362(o)
+and inserting
+section 362(m)
+.
+(B)
+Section 1521(f) of title 11, United States Code, is amended by striking
+section 362(o)
+and inserting
+section 362(m)
+.
+(v)
+Use, sale, or lease of property
+Section 363 of title 11, United States Code, is amendedâ
+(1)
+in subsection (c)(1) by striking
+section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title
+and inserting
+section 721, 1003, 1108, 1183, 1184, 1203, or 1204 of this title
+; and
+(2)
+in subsection (l) by striking
+under chapter 11, 12, or 13 of this title
+and inserting
+under chapter 10, 11, or 12 of this title
+.
+(w)
+Obtaining credit
+Section 364(a) of title 11, United States Code, is amended by striking
+section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title,
+and inserting
+section 721, 1108, 1183, 1183, 1203, or 1204 of this title,
+.
+(x)
+Executory contracts and unexpired leases
+Section 365 of title 11, United States Code, is amendedâ
+(1)
+in subsection (d)(2), by striking
+under chapter 9, 11, 12, or 13 of this title
+and inserting
+under chapter 9, 10, 11, or 12 of this title
+;
+(2)
+in subsection (g)â
+(A)
+in paragraph (1), by striking
+under chapter 9, 11, 12, or 13 of this title,
+and inserting
+under chapter 9, 10, 11, or 12 of this title,
+; and
+(B)
+in paragraph (2)â
+(i)
+in the matter preceding subparagraph (A), by striking
+under chapter 9, 11, 12, or 13 of this title
+and inserting
+under chapter 9, 10, 11, or 12 of this title
+;
+(ii)
+in subparagraph (A) by striking
+under section 1112, 1208 or 1307 of this title,
+and inserting
+under section 1005, 1053(c), 1112, or 1208 of this title,
+; and
+(iii)
+in subparagraph (B), in the matter preceding clause (i), by striking
+under section 1112, 1208 or 1307 of this title
+and inserting
+under section 1005, 1053(c), 1112, or 1208 of this title
+; and
+(3)
+by striking subsection (p) and inserting the following:
+(p)
+Notwithstanding any provision in a lease or applicable nonbankruptcy law, the following shall apply:
+(1)
+(A)
+If the debtor is an individual, the trustee shall be deemed to have abandoned any unexpired lease of residential real property that is the debtorâs principal residence of which the debtor or the debtorâs spouse or dependents is a tenant.
+(B)
+(i)
+Notwithstanding any other provision of this section, the debtor may assume such a leaseâ
+(I)
+without curing any monetary defaults under the lease that aggregate no more than the amount described in clause (iii); and
+(II)
+without adequate assurance of future performance.
+(ii)
+If there are monetary defaults under the lease that aggregate to more than the amount described in clause (iii), the debtor may not assume such lease unless all monetary defaults in excess of the amount described in clause (iii) are cured.
+(iii)
+The amount described in this clause is the amount equal to 6 times the monthly rent to be paid by the debtor under the lease.
+(C)
+Any monetary defaults on such a lease left uncured shall become claims against the estate in accordance with section 365(g).
+(D)
+(i)
+All non-monetary defaults on such a lease shall be deemed waived, except those relating to health or safety, which shall require permission of the court to waive or modify if the lessor objects to their waiver or modification.
+(ii)
+Any pecuniary loss in accordance with such a non-monetary default shall constitute a claim against the estate in accordance with subsection 365(g).
+(E)
+Such a lease not assumed by the debtor, including satisfaction or adequate assurance of any cure required within 60 days of the order of relief, under this paragraph shall return to the bankruptcy estate.
+(2)
+(A)
+If the debtor is an individual and if an unexpired lease of property not subject to paragraph (1) is rejected or not timely assumed by the trustee under subsection (d), the debtor may move to assume the lease.
+(B)
+The courtâ
+(i)
+may approve such an assumption if the debtor cures any monetary default within 90 days after the date of assumption; and
+(ii)
+shall withhold any discharge of the debtor until such cure is made.
+(C)
+The debtorâs interest in the lease or property that is the subject of the lease ceases to be property of the estate ifâ
+(i)
+the debtor fails to move to assume the lease within 14 days after the lease is rejected or not timely assumed by the trustee; or
+(ii)
+the debtorâs motion to assume the lease is denied.
+(D)
+All non-monetary defaults on such a lease shall be deemed waived except those relating to health or safety, which shall require permission of the court upon motion to waive or modify if the lessor objects to their waiver or modification.
+(3)
+In this subsection, the term
+lease
+does not includeâ
+(A)
+an agreement that is a security interest under applicable nonbankruptcy law, irrespective of its form; or
+(B)
+a lease the term of which extends beyond the remaining economic life of the property.
+.
+(y)
+Utility service
+Section 366(b) of title 11, United States Code, is amended by striking
+Such utility
+and inserting
+In a case other than under chapter 10 of this title, such utility
+.
+(z)
+Filing of proofs of claims or interests
+Section 501 of title 11, United States Code, is amended by adding at the end the following:
+(f)
+(1)
+Any creditor that files a claim, and any attorney representing such creditor, shall at the time of filing certify, under penalty of perjury, whether the creditor has a beneficial interest in the claim and to what extent.
+(2)
+If the creditor does not hold the entire beneficial interest in the claim, the creditor shall disclose in the certification under paragraph (1) the identity of the party or parties holding the beneficial interest.
+(3)
+The creditor shall promptly notify the court, the trustee, the United States Trustee, and the debtor of any updates necessary to maintain the accuracy of the certification under paragraph (1).
+(g)
+The filing of a claim under this title shall not revive any period of limitations under applicable nonbankruptcy law.
+.
+(aa)
+Allowance of claims or interests
+(1)
+In general
+Section 502 of title 11, United States Code, is amendedâ
+(A)
+in subsection (b)â
+(i)
+in the matter preceding paragraph (1), by striking
+subsections (e)(2), (f), (g), (h), and (i)
+and inserting
+subsections (c), (f)(2), (g), (h), (i), and (j)
+;
+(ii)
+in paragraph (2), by striking
+interest;
+and inserting
+interest, including under a prepayment penalty, yield maintenance clause, make-whole clause, or similar contractual provision;
+;
+(iii)
+by redesignating paragraphs (3) through (9) as paragraphs (5) through (11), respectively;
+(iv)
+by inserting after paragraph (2) the following:
+(3)
+such claim is for attorneysâ fees incurred after the entry of the order for relief under this title, except to the extent permitted under section 503 or 506 of this title;
+(4)
+notwithstanding section 506(b), such claim is for a fee incurred under section 1930(b) of title 28;
+;
+(v)
+in paragraph (10), as so redesignated, by striking
+or
+at the end; and
+(vi)
+in paragraph (11), as so redesignated, by striking
+may provide,
+and all that follows and inserting
+may provide.
+;
+(B)
+by striking subsection (k);
+(C)
+by redesignating subsections (d), (e), (f), (g), (h), (i), and (j) as subsections (e), (f), (g), (h), (i), (j), and (k), respectively;
+(D)
+by inserting after subsection (c) the following:
+(d)
+The court shall, after notice and a hearing, disallow any claim ifâ
+(1)
+the creditor, an affiliate of the creditor, an agent of the creditor, a direct or indirect transferor of the claim to the creditor, or an affiliate of such transferor engaged in inequitable conduct (which shall include a violation of Federal or State law) that harmed the debtor, whether or not the inequitable conduct was connected with the claim or an obligation that gave rise to the claim; or
+(2)
+the creditor, an affiliate of the creditor, an agent of the creditor, a direct or indirect transferor of the claim to the creditor, or an affiliate of such transferor violated a Federal consumer financial law, as defined in section 1002 of the Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5481
+), in connection with the claim or an obligation that gave rise to the claim.
+;
+(E)
+in subsection (e), as so redesignated, by striking
+or 724(a) of this title
+and inserting
+724(a) or 1041 of this title
+;
+(F)
+in subsection (f), as so redesignated, in paragraph (2), by striking
+or disallowed under subsection (d)
+and inserting
+or disallowed under subsection (d) or (e)
+;
+(G)
+in subsection (g), as so redesignated, by striking
+or disallowed under subsection (d) or (e)
+and inserting
+or disallowed under subsection (d), (e), or (f)
+;
+(H)
+in subsection (h), as so redesignatedâ
+(i)
+in paragraph (1)â
+(I)
+by striking
+chapter 9, 11, 12, or 13
+and inserting
+chapter 9, 10, 11, or 12
+; and
+(II)
+by striking
+or disallowed under subsection (d) or (e)
+and inserting
+or disallowed under subsection (d), (e), or (f)
+; and
+(ii)
+in paragraph (2), by striking
+or disallowed under subsection (d) or (e)
+and inserting
+or disallowed under subsection (d), (e), or (f)
+;
+(I)
+in subsection (i), as so redesignated, by striking
+or disallowed under subsection (d) or (e)
+and inserting
+or disallowed under subsection (d), (e), or (f)
+;
+(J)
+in subsection (j), as so redesignated, by striking
+or disallowed under subsection (d) or (e)
+and inserting
+or disallowed under subsection (d), (e), or (f)
+;
+(K)
+by adding at the end the following:
+(l)
+(1)
+(A)
+If a claim that is disallowed under subsection (b) of this section was filed in bad faith, the court shall grant judgment against the creditor and in favor of the estate forâ
+(i)
+costs and reasonable attorneysâ fees; and
+(ii)
+punitive damages, as are necessary to deter future bad faith claim filing by the creditor.
+(B)
+A claim filed in bad faith includes a claim that is filed without an actual, reasonable, good faith belief that the debt on which it is based is within the applicable statutory limitations period.
+(C)
+Not more than 50 percent of the total amount of any punitive damages awarded to the estate under subparagraph (A) shall be reserved for the trustee, debtor, or both and shall be exempt from the property of the estate, notwithstanding section 522.
+(2)
+If a claim is disallowed under subsection (d), the court shall grant judgment against the creditor and in favor of the estate for costs and reasonable attorneysâ fees.
+(3)
+The estate may offset the liability of a creditor under this subsection against any distribution to be made on the claim of the creditor.
+.
+(2)
+Conforming amendments
+(A)
+Section 101 of title 11, United States Code, is amended in paragraph (12)(B), as redesignated by this section, by striking
+502(f), 502(g), 502(h), or 502(i)
+and inserting
+subsection (g), (h), (i), or (j) of section 502
+.
+(B)
+Section 501(d) of title 11, United States Code, is amended by striking
+in section 502(e)(2), 502(f), 502(g), 502(h), or 502(i)
+and inserting
+in subsection (f)(2), (g), (h), (i), or (j) of section 502
+.
+(C)
+Section 503(b) of title 11, United States Code, is amendedâ
+(i)
+in the matter preceding paragraph (1), by striking
+section 502(f)
+and inserting
+section 502(g)
+; and
+(ii)
+in paragraph (7), by striking
+section 502(b)(6)
+and inserting
+section 502(b)(8)
+.
+(D)
+Section 506(d)(1) of title 11, United States Code, is amended by striking
+section 502(b)(5) or 502(e)
+and inserting
+subsection (b)(7) or (f) of section 502
+.
+(E)
+Section 507(a)(3) of title 11, United States Code, is amended by striking
+section 502(f)
+and inserting
+section 502(g)
+.
+(F)
+Section 509(b)(1)(B) of title 11, United States Code, is amended by striking
+section 502(e)
+and inserting
+section 502(f)
+.
+(G)
+Section 544(b)(1) of title 11, United States Code, is amended by striking
+section 502(e)
+and inserting
+section 502(f)
+.
+(H)
+Section 929 of title 11, United States Code, is amended by striking
+section 502(b)(6)
+and inserting
+section 502(b)(8)
+.
+(I)
+Section 1114(j) of title 11, United States Code, is amended by striking
+section 502(b)(7)
+and inserting
+section 502(b)(9)
+.
+(J)
+Section 1141(d)(1)(A) of title 11, United States Code, is amended by striking
+section 502(g), 502(h), or 502(i)
+and inserting
+subsection (h), (i), or (j) of section 502
+.
+(K)
+Section 1232(d)(4) of title 11, United States Code, is amended by striking
+or disallowed under subsection (d) or (e) of section 502
+and inserting
+or disallowed under subsection (d), (e), or (f) of section 502
+.
+(L)
+Section 311 of PROMESA (
+48 U.S.C. 2171
+) is amended by striking
+502(b)(6)
+and inserting
+502(b)(8)
+.
+(bb)
+Determination of secured status
+Section 506 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a), by striking paragraph (2) and inserting the following:
+(2)
+In a case under chapter 10 of this title, any interest of a creditor in property of the debtor or the estate shall be determined by its realizable value as of the date of the filing of the petition.
+;
+(2)
+in subsection (b), by striking
+interest on such claim,
+and all that follows and inserting
+interest on such claim and any reasonable fees, costs, or charges provided for under the agreement or applicable nonbankruptcy law under which such claim arose, with post-petition interest credited to the allowed secured claim before other fees, costs, or charges.
+; and
+(3)
+in subsection (d), in the matter preceding paragraph (1) by striking
+allowed secured claim,
+and inserting
+allowed secured claim pursuant to subsection (a),
+.
+(cc)
+Priorities
+(1)
+In general
+Section 507(a) of title 11, United States Code, is amendedâ
+(A)
+in paragraph (1)â
+(i)
+by striking subparagraph (B);
+(ii)
+by redesignating subparagraph (C) as subparagraph (B); and
+(iii)
+in subparagraph (B), as so redesignatedâ
+(I)
+by striking
+701, 702, 703, 1104, 1202, or 1302
+and inserting
+1001, 1104, or 1202
+; and
+(II)
+by striking
+subparagraphs (A) and (B)
+and inserting
+subparagraph (A)
+; and
+(B)
+in paragraph (7), by inserting
+including the purchase of a store gift card,
+after
+purchase of services,
+.
+(2)
+Conforming amendments
+(A)
+Section 724(b)(2) of title 11, United States Code, is amended by striking
+section 507(a)(1)(C)
+and inserting
+section 507(a)(1)(B)
+.
+(B)
+Section 1222(a)(4) of title 11, United States Code, is amendedâ
+(i)
+in paragraph (3), by adding
+and
+at the end;
+(ii)
+by striking paragraph (4); and
+(iii)
+by redesignating paragraph (5) as paragraph (4).
+(dd)
+Rate of interest on tax claims
+Section 511 of title 11, United States Code, is amended by adding at the end the following:
+(c)
+This section shall not apply in a case under chapter 10 of this title.
+.
+(ee)
+Debtorâs duties
+Section 521, of title 11, United States Code, is amended by striking subsections (a) through (j) and inserting the following:
+(a)
+The debtor shallâ
+(1)
+fileâ
+(A)
+a list of creditors; and
+(B)
+unless the court orders otherwiseâ
+(i)
+a schedule of assets and liabilities;
+(ii)
+a schedule of current income and current expenditures;
+(iii)
+a statement of the debtorâs financial affairs;
+(iv)
+a statement disclosing any reasonably anticipated increase in income or expenditures over the 12-month period following the date of the filing of the petition; and
+(v)
+if the debtorâs annual income creates or increases the minimum payment obligation as described in clause (ii) or (iii) of section 101(54)(B) of this titleâ
+(I)
+a statement of the debtorâs annual income; and
+(II)
+the calculations that determine the amount by which the debtorâs annual income creates or increases the minimum payment obligation;
+(2)
+if a trustee is serving in the case, cooperate with the trustee as necessary to enable the trustee to perform the trusteeâs duties under this title;
+(3)
+appear at the hearing required under section 524(d) of this title; and
+(4)
+unless a trustee is serving in the case, continue to perform the obligations required of the administrator (as defined in section 3 of the Employee Retirement Income Security Act of 1974) of an employee benefit plan if at the time of the commencement of the case the debtor (or any entity designated by the debtor) served as such administrator.
+(b)
+In a case under chapter 10 of this title:
+(1)
+Not later than 7 days before the date first set for the first meeting of creditors, the debtor shall provide to the trustee documentation that establishes the debtorâs income in one or more of the following forms:
+(A)
+One or more payment advices, issued within 60 days before the date of the filing of the petition, showing the debtorâs year-to-date income.
+(B)
+A copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was filed.
+(C)
+A Wâ2 form issued by each employer for the tax year preceding the year the petition is filed.
+(D)
+Other evidence of payment received within 60 days before the date of the filing of the petition that establishes the debtorâs income.
+(2)
+If the debtorâs annual income creates or increases the minimum payment obligation as described in clause (ii) or (iii) of section 101(54)(B) of this title, the debtor shall, to the extent not already provided under paragraph (1), provide to the trustee as documentation of incomeâ
+(A)
+a copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was required and filed; and
+(B)
+copies of all payment advices or other evidence of payment received within 60 days before the date of the filing of the petition, by the debtor from any employer of the debtor.
+(3)
+Notwithstanding paragraphs (1) and (2), the debtor shall provide additional documentation of income if requested by the trustee or the United States trustee upon reasonable grounds to believe the debtorâs actual income is greater than disclosed and would create or increase the minimum payment obligation as described in clause (ii) or (iii) of section 101(54)(B) of this title.
+(c)
+If the schedule of current income required by subsection (a)(1)(B)(ii) discloses income that is not more than 80 percent of the amount of annual income that would trigger the documentation obligations in subsection (b)(2) and in the absence of actual knowledge of facts to the contrary, an attorney for the debtor or a bankruptcy petition preparer for the debtor under section 110 of this title may rely on the schedule of current income to determine thatâ
+(1)
+the documentation requirements of subsection (b)(2) do not apply; and
+(2)
+the debtor is not required to file the statement of annual income required by subsection (a)(1)(B)(v).
+(d)
+In a case under chapter 7 or 11:
+(1)
+The debtor shall provideâ
+(A)
+not later than 7 days before the date first set for the first meeting of creditors, to the trustee a copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was filed; and
+(B)
+at the same time the debtor complies with subparagraph (A), a copy of such return (or if elected under subparagraph (A), such transcript) to any creditor that timely requests such copy.
+(2)
+If the debtor fails to comply with subparagraph (A) or (B) of paragraph (1), the court shall dismiss the case unless the debtor demonstrates that the failure to so comply is due to circumstances beyond the debtors's control.
+(3)
+If a creditor requests a copy of such tax return or such transcript and if the debtor fails to provide a copy of such tax return or such transcript to such creditor at the time the debtor provides such tax return or such transcript to the trustee, the court shall dismiss the case unless the debtor demonstrates that the failure to provide a copy of such tax return or such transcript is due to circumstances beyond the debtor's control.
+(e)
+Failure by the debtor to disclose a cause of action in a schedule required to be filed under this section shall not alone be grounds to dismiss a lawsuit brought to enforce the cause of action.
+(f)
+If requested by the United States trustee or by the trustee, the debtor shall provideâ
+(1)
+a document that establishes the identity of the debtor, including a driverâs license, passport, or other document that contains a photograph of the debtor; or
+(2)
+such other personal identifying information relating to the debtor that establishes the identity of the debtor.
+(g)
+At the request of the court, the trustee, or the United States trustee, a debtor under chapter 10 or 11 who is an individual shall file with the courtâ
+(1)
+at the same time filed with the taxing authority, a copy of each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) with respect to each tax year of the debtor ending while the case is pending under such chapter;
+(2)
+at the same time filed with the taxing authority, each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) that had not been filed with such authority as of the date of the commencement of the case and that was subsequently filed for any tax year of the debtor ending in the 3-year period ending on the date of the commencement of the case; and
+(3)
+a copy of each amendment to any Federal income tax return or transcript filed with the court under paragraph (1) or (2).
+(h)
+(1)
+Notwithstanding any other provision of this title, if the debtor fails to file a tax return that becomes due after the commencement of the case or to properly obtain an extension of the due date for filing such return, the taxing authority may request that the court enter an order converting or dismissing the case.
+(2)
+If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
+.
+(ff)
+Exemptions
+(1)
+In general
+Section 522 of title 11, United States Code, is amended by striking subsections (a) through (q) and inserting the following:
+(a)
+In this sectionâ
+(1)
+the term
+conforming loan limit
+means that applicable limitation for the debtorâs county of residence governing the maximum original principal obligation for a mortgage secured by a single-family residence, as determined and adjusted annually under section 302(b)(2) of the Federal National Mortgage Association Charter Act (
+12 U.S.C. 1717(b)(2)
+) and section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (
+12 U.S.C. 1454(a)(2)
+);
+(2)
+the term
+dependent
+includes spouse, whether or not actually dependent; and
+(3)
+the term
+value
+means valueâ
+(A)
+as of the date of the filing of the petition; or
+(B)
+with respect to property that becomes property of the estate after such date, as of the date such property becomes property of the estate.
+(b)
+(1)
+Notwithstanding section 541 of this title, an individual debtor may elect to exempt from property of the estate either the property listed in paragraph (2) or, in the alternative, the property listed in paragraph (3).
+(2)
+(A)
+The property listed in this paragraph is the following:
+(i)
+The debtorâs interest in the debtorâs principal residence, not to exceedâ
+(I)
+75 percent of the conforming loan limit, if the debtor is age 65 or older on the date of the petition not to exceed not to exceed; and
+(II)
+50 percent of the conforming loan limit in any other case.
+(ii)
+The debtorâs aggregate interest, unlimited in amount except as provided in subparagraph (B), in the following:
+(I)
+Professionally prescribed health aids for the debtor or a dependent of the debtor.
+(II)
+The debtorâs right to receive, or property that is traceable toâ
+(aa)
+a social security benefit, railroad retirement benefit, government pension or retirement benefit, unemployment compensation, or a local public assistance benefit;
+(bb)
+a veteransâ benefit;
+(cc)
+a disability, illness, or unemployment benefit;
+(dd)
+alimony, support, or separate maintenance;
+(ee)
+a payment under a stock bonus, pension, profit sharing, annuity, or similar plan or contract on account of illness, disability, death, age, or length of service, unlessâ
+(AA)
+such plan or contract was established by or under the auspices of an insider that employed the debtor at the time the debtorâs rights under such plan or contract arose;
+(BB)
+such payment is on account of age or length of service; and
+(CC)
+such plan or contract does not qualify under section 401(a), 403(a), 403(b), or 408 of the Internal Revenue Code of 1986;
+(ff)
+an award under a crime victimâs reparation law;
+(gg)
+a payment on account of the wrongful death of an individual of whom the debtor was a dependent, except to the extent that such payment is for punitive damages;
+(hh)
+a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individualâs death;
+(ii)
+a payment on account of personal bodily injury, pain and suffering, or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent, except to the extent that such payment is for punitive damages;
+(jj)
+a payment in compensation of loss of future earnings of the debtor or an individual of whom the debtor is or was a dependent;
+(kk)
+retirement funds, including a direct transfer of retirement funds from a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986, under
+section 401(a)(31)
+of the Internal Revenue Code of 1986, or otherwise, or a distribution that qualifies as an eligible rollover distribution within the meaning of
+section 402(c)
+of the Internal Revenue Code of 1986 or has been distributed from a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986 and to the extent allowed by law is deposited in such a fund or account not later than 60 days after the distribution of such amount, to the extent that those funds are or were in a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986; or
+(ll)
+a tax credit for earned income under
+section 32
+of the Internal Revenue Code of 1986.
+(iii)
+The debtorâs interest in any other property up to $30,000 in aggregate value.
+(B)
+(i)
+The court on its own motion, or upon motion by the trustee or United States trustee, may limit the amount property exempt under item (dd), (ee), (hh), (jj), or (kk) of subparagraph (A)(ii)(II) after notice and hearing if it determines that such property is manifestly unnecessary for the support of the debtor or the debtorâs dependents.
+(ii)
+There shall be a rebuttable presumption that aggregate value of property described in any such item in excess of $1,500,000 is manifestly unnecessary for the support of the debtor or the debtorâs dependents.
+(C)
+(i)
+If the debtor has a dependent, the debtor may double the exemption amounts under subparagraph (A)(iii) unless the dependent is filing a concurrent petition or has filed a petition within the previous 6 years.
+(ii)
+The debtor may increase the amounts exempt under subparagraph (A)(iii) in accordance with the number of additional dependents not claimed under clause (i) of this subparagraph byâ
+(I)
+25 percent for the first additional dependent;
+(II)
+an additional 10 percent for the second additional dependent;
+(III)
+an additional 5 percent for the third additional dependent; and
+(IV)
+an additional 1 percent for each additional dependent beyond the third.
+(iii)
+If a debtor has been claimed as dependent under this subparagraph on a previous debtorâs petition within the past 6 years, the court may reduce the amount of such debtorâs exemptions under this subparagraph as the equities of the case require. There shall be a rebuttable presumption that an intervening change in family circumstances, such as separation or divorce, shall not require such a reduction.
+(iv)
+If a debtor has a dependent that has been claimed on another debtorâs petition under this subparagraph within the past 6 years, the court may reduce the amount of the debtorâs exemptions under this subparagraph as the equities of the case require. There shall be a rebuttable presumption that an intervening change in family circumstances, such as separation or divorce, shall not require such a reduction.
+(v)
+When claiming property as exempt from the estate under this subparagraph, the debtor shall indicate on an official form prescribed by the Judicial Conference of the United States in accordance with the Federal Rules of Bankruptcy Procedure whether any of the debtorâs dependents have filed for bankruptcy within the previous 6 years or whether this information is unknown.
+(3)
+(A)
+The property listed in this paragraph is the following:
+(i)
+Subject to subparagraphs (B) through (E), any property that is exempt under Federal law, other than paragraph (2) of this subsection, or State or local law that is applicable on the date of the filing of the petition to the place in which the debtorâs domicile has been located for the 730 days immediately preceding the date of the filing of the petition or if the debtorâs domicile has not been located in a single State for such 730-day period, the place in which the debtorâs domicile was located for 180 days immediately preceding the 730-day period or for a longer portion of such 180-day period than in any other place.
+(ii)
+Any interest in property in which the debtor had, immediately before the commencement of the case, an interest as a tenant by the entirety or joint tenant to the extent that such interest as a tenant by the entirety or joint tenant is exempt from process under applicable nonbankruptcy law.
+(iii)
+Retirement funds to the extent that those funds are in a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986.
+(B)
+(i)
+Notwithstanding any contrary provision of nonbankruptcy law, the exempt amount under this paragraph of any homestead acquired by the debtor within the 1-year period immediately preceding the date of the filing of the petition shall be limited to the exempt amount of value of the debtorâs previous principal residence.
+(ii)
+If the value of the debtorâs interest in property claimed as a principal residence under this paragraph exceeds $1,000,000, clause (i) applies to a principal residence acquired within the 3-year period immediately preceding the date of filing of the petition.
+(C)
+The value of an interest in the debtorâs principal residence shall be reduced to the extent that such value is attributable to any portion of any property that the debtor disposed of in the 10-year period ending on the date of the filing of the petition with the intent to hinder, delay, or defraud a creditor and that the debtor could not exempt, or that portion that the debtor could not exempt under this subsection if on such date the debtor had held the property so disposed of.
+(D)
+(i)
+Except as provided in clause (ii) of this subparagraph and sections 544 and 548, as a result of electing to exempt property under State or local law under subparagraph (A)(i), a debtor may not exempt any amount of interest that was acquired by the debtor during the 4-year period preceding the date of the filing of the petition that exceeds in the aggregate $170,000 in value in the debtorâs principal residence.
+(ii)
+(I)
+The limitation under clause (i) shall not apply to an exemption claimed under subparagraph (A)(i) by a family farmer for the principal residence of such farmer.
+(II)
+For purposes of clause (i), any amount of such interest does not include any interest transferred from a debtorâs previous principal residence (which was acquired prior to the beginning of such 4-year period) into the debtorâs current principal residence, if the debtorâs previous and current residences are located in the same State.
+(E)
+(i)
+A debtor electing to exempt property under this paragraph may not exempt any amount of an interest in the debtorâs principal residence that exceeds in the aggregate $170,000 ifâ
+(I)
+the court determines, after notice and a hearing, that the debtor has been convicted of a felony (as defined in section 3156 of title 18), which under the circumstances demonstrates that the filing of the case was an abuse of the provisions of this title; or
+(II)
+the debtor owes a debt arising fromâ
+(aa)
+any violation of the Federal securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934), any State securities laws, or any regulation or order issued under Federal securities laws or State securities laws;
+(bb)
+fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 or under section 6 of the Securities Act of 1933;
+(cc)
+any civil remedy under section 1964 of title 18;
+(dd)
+for debts arising from a violation of section 1979 of the Revised Statutes (
+42 U.S.C. 1983
+); or
+(ee)
+any criminal act, intentional tort, or willful or reckless misconduct that caused serious physical injury or death to another individual in the preceding 5 years.
+(ii)
+Clause (i) shall not apply to the extent the amount of an interest in the debtorâs principal residence is reasonably necessary for the support of the debtor or any dependent of the debtor.
+(4)
+(A)
+For the purposes of item (kk) of paragraph (2)(A)(ii)(II) and clause (iii) of paragraph (3)(A), if the trustee, United States trustee, or court on its own motion objects to retirement fundsâ status as exempt, and if those retirement funds are in a retirement fund or account that has received a favorable determination under
+section 7805
+of the Internal Revenue Code of 1986 and that determination is in effect as of the date of the filing of the petition in a case under this title, those funds shall be presumed to be exempt from the estate.
+(B)
+If the retirement funds are in a retirement fund or account that has not received a favorable determination under such section 7805, those funds shall be exempt from the estate if the court determines thatâ
+(i)
+no prior determination to the contrary has been made by a court or the Internal Revenue Service; and
+(ii)
+(I)
+the retirement fund is in substantial compliance with the applicable requirements of the Internal Revenue Code of 1986; or
+(II)
+the retirement fund fails to be in substantial compliance with the applicable requirements of the Internal Revenue Code of 1986 and the debtor is not materially responsible for that failure.
+(5)
+(A)
+A direct transfer of retirement funds from 1 fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986, under
+section 401(a)(31)
+of the Internal Revenue Code of 1986, or otherwise, shall not cease to qualify for exemption under item (kk) of paragraph (2)(A)(ii)(II) or clause (iii) of paragraph (3)(A) by reason of such direct transfer.
+(B)
+(i)
+Any distribution that qualifies as an eligible rollover distribution within the meaning of
+section 402(c)
+of the Internal Revenue Code of 1986 or that is described in clause (ii) of this subparagraph shall not cease to qualify for exemption under item (kk) of paragraph (2)(A)(ii)(II) or clause (iii) of paragraph (3)(A) by reason of such distribution.
+(ii)
+A distribution described in this clause is an amount thatâ
+(I)
+has been distributed from a fund or account that is exempt from taxation under section 401, 403, 408, 408A, 414, 457, or 501(a) of the Internal Revenue Code of 1986; and
+(II)
+to the extent allowed by law, is deposited in such a fund or account not later than 60 days after the distribution of such amount.
+(6)
+(A)
+In joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against 2 debtors who are married to each other, and whose estates are ordered to be jointly administered under the Federal Rules of Bankruptcy Procedure, the debtors shall be deemed to elect exempt property under paragraph (2) unless they both affirmatively elect to exempt property under paragraph (3).
+(B)
+In a joint case, the residence exemptions in subparagraphs (2)(A)(i) and (3)(A)(i) shall be allocated one-half each to each debtor.
+(C)
+The nonresidence exemptions in paragraphs (2)(A)(iii) and (3)(A)(iii) shall apply separately with respect to each debtor in a joint case.
+(c)
+Unless the case is dismissed, property exempted under this section is not liable during or after the case for any debt of the debtor that arose, or that is determined under section 502 of this title as if such debt had arisen, before the commencement of the case, exceptâ
+(1)
+a debt of a kind specified in paragraph (5) of section 523(a) (in which case, notwithstanding any provision of applicable nonbankruptcy law to the contrary, such property shall be liable for a debt of a kind specified in such paragraph); or
+(2)
+a debt secured by a lien that isâ
+(A)
+not avoided under subsection (e) or (g) of this section or under section 544, 545, 547, 548, or 549 of this title; and
+(B)
+not void under section 506(d) of this title.
+(d)
+(1)
+A waiver of an exemption executed in favor of a creditor that holds an unsecured claim against the debtor is unenforceable in a case under this title with respect to such claim against property that the debtor may exempt under subsection (b).
+(2)
+A waiver by the debtor of a power under subsection (e) or (g) to avoid a transfer, under subsection (f) or (h) to exempt property, or under subsection (h) to recover property or to preserve a transfer, is unenforceable in a case under this title.
+(e)
+(1)
+Notwithstanding any waiver of exemptions, the debtor may avoid the fixing of a lien on an interest of the debtor in property to the extent that such lien impairs an exemption to which the debtor would have been entitled under subsection (b), if such lien isâ
+(A)
+a judicial lien, other than a judicial lien that secures a debt of a kind that is specified in section 523(a)(5); or
+(B)
+a nonpossessory, non-purchase-money security interest in any personal, family, or household goods or in any implements, professional books, or tools, of the trade of the debtor or the trade of a dependent of the debtor.
+(2)
+(A)
+For the purposes of this subsection, a lien shall be considered to impair an exemption to the extent that the sum ofâ
+(i)
+the lien;
+(ii)
+all other liens on the property; and
+(iii)
+the amount of the exemption that the debtor could claim if there were no liens on the property, exceeds the value that the debtorâs interest in the property would have in the absence of any liens.
+(B)
+In the case of a property subject to more than 1 lien, a lien that has been avoided shall not be considered in making the calculation under subparagraph (A) with respect to other liens.
+(C)
+This paragraph shall not apply with respect to a judgment arising out of a mortgage foreclosure.
+(f)
+Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such property under subsection (b) of this section if such property had not been transferred, ifâ
+(1)
+(A)
+such transfer was not a voluntary transfer of such property by the debtor; and
+(B)
+the debtor did not conceal such property; or
+(2)
+the debtor could have avoided such transfer under subsection (e)(1) of this section.
+(g)
+The debtor may avoid a transfer of property of the debtor or recover a setoff to the extent that the debtor could have exempted such property under subsection (f)(1) if the trustee had avoided such transfer, ifâ
+(1)
+such transfer is avoidable by the trustee under section 544, 545, 547, 548, 549, or 1041 of this title or recoverable by the trustee under section 553 of this title; and
+(2)
+the trustee does not attempt to avoid such transfer.
+(h)
+(1)
+If the debtor avoids a transfer or recovers a setoff under subsection (e) or (g), the debtor may recover in the manner prescribed by, and subject to the limitations of, section 550 of this title, the same as if the trustee had avoided such transfer, and may exempt any property so recovered under subsection (b).
+(2)
+Notwithstanding section 551 of this title, a transfer avoided under section 544, 545, 547, 548, 549, or 1041 of this title, under subsection (e) or (g) of this section, or property recovered under section 553 of this title, may be preserved for the benefit of the debtor to the extent that the debtor may exempt such property under subsection (f) of this section or paragraph (1) of this subsection.
+(i)
+Notwithstanding subsections (f) and (h), the debtor may exempt a particular kind of property under subsections (f) and (h) only to the extent that the debtor has exempted less property in value of such kind than that to which the debtor is entitled under subsection (b).
+(j)
+Property that the debtor exempts under this section is not liable for payment of any administrative expense exceptâ
+(1)
+the aliquot share of the costs and expenses of avoiding a transfer of property that the debtor exempts under subsection (f), or of recovery of such property, that is attributable to the value of the portion of such property exempted in relation to the value of the property recovered; and
+(2)
+any costs and expenses of avoiding a transfer under subsection (e) or (g), or of recovery of property under subsection (h)(1), that the debtor has not paid.
+(k)
+(1)
+(A)
+The debtor shall file a list of property that the debtor claims as exempt under subsection (b).
+(B)
+If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor.
+(2)
+Unless a party in interest objects, the property claimed as exempt on such list is exempt.
+.
+(2)
+Conforming amendment
+(A)
+Section 349(b)(1)(B) of title 11, United States Code, is amended by striking
+522(i)(1),
+and inserting
+522(h)(i),
+.
+(B)
+Subsection (e) of section 502 of title 11, United States Code, as so redesignated by subsection (aa) of this section, is amendedâ
+(i)
+by striking
+section 522(f), 522(h),
+and inserting
+section 522(e), 522(g),
+; and
+(ii)
+by striking
+section 522(i)
+and inserting
+section 522(h)
+.
+(gg)
+Exceptions To discharge
+Section 523 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+in the matter preceding paragraph (1)â
+(i)
+by striking
+727,
+; and
+(ii)
+by striking
+1328(b)
+and inserting
+1031(a)
+;
+(B)
+in paragraph (1)(B), in the matter preceding clause (i), by inserting
+subject to subsection (f),
+before
+with respect
+;
+(C)
+in paragraph (2)â
+(i)
+in subparagraph (A), by adding
+or
+at the end;
+(ii)
+in subparagraph (B), by striking
+or
+at the end; and
+(iii)
+by striking subparagraph (C);
+(D)
+in paragraph (3)â
+(i)
+in subparagraph (A), by striking
+(4), or (6)
+and inserting
+(4), (6), or (7)
+; and
+(ii)
+in subparagraph (B), by striking
+(4), or (6)
+and inserting
+(4), (6), or (7)
+;
+(E)
+by striking paragraph (7) and inserting the following:
+(7)
+to the extent such debt is for a fine, penalty, or restitutionâ
+(A)
+that is incurred in a criminal proceeding and specifically designated as a fine, penalty, or restitution in the sentencing order upon the debtorâs conviction;
+(B)
+that is notâ
+(i)
+for the cost of prosecuting the debtor, including the cost of public defense, incarceration, probation, or any diversion program;
+(ii)
+for the cost of operating the criminal justice system or funding government functions;
+(iii)
+for the cost of collecting such debt; or
+(iv)
+a fee, surcharge, assessment, or interest or collection charge imposed in connection with such debt; and
+(C)
+only if the creditor demonstrates that the debtor has substantial financial resources that permit the debtor to pay all or a significant portion of the fine, penalty, or restitution forâ
+(i)
+a fine, penalty, or restitution with respect to which the petition is filed on or after the date that is 3 years after the later ofâ
+(I)
+the date of the sentencing order; or
+(II)
+the date on which the debtor was released from incarceration pursuant to the sentencing order; or
+(ii)
+a debt that is a tax penaltyâ
+(I)
+relating to a tax of a kind not specified in paragraph (1) of this subsection; or
+(II)
+imposed with respect to a transaction or event that occurred before 3 years before the date of the filing of the petition;
+;
+(F)
+by striking paragraph (8);
+(G)
+by redesignating paragraph (9) as paragraph (8);
+(H)
+by inserting after paragraph (8), as so redesignated, the following:
+(9)
+that was or could have been listed or scheduled by the debtor in a prior case concerning the debtor under this title in which the debtor waived a discharge, or was denied a discharge under section 727(a) (2), (3), (4), (5), (6), or (7), as in effect on the day before the date of enactment of the Consumer Bankruptcy Reform Act of 2020, or under section 1031, unless such debt was the subject of a written waiver of discharge and the court has made the determination required by section 1031(b)(3)(B);
+;
+(I)
+by striking paragraphs (14) and (14A);
+(J)
+by redesignating paragraph (14B) as paragraph (14);
+(K)
+in paragraph (16), by inserting
+and the debtor or the trustee possesses, occupies, or uses the property
+after
+such lot
+;
+(L)
+by striking paragraph (17);
+(M)
+by redesignating paragraph (18) as paragraph (17); and
+(N)
+by striking paragraph (19) and inserting the following:
+(18)
+for debts arising from a violation of section 1979 of the Revised Statutes (
+42 U.S.C. 1983
+).
+;
+(2)
+in subsection (b), by striking
+(a)(1), (a)(3), or (a)(8)
+and inserting
+(a)(1) or (a)(3)
+;
+(3)
+in subsection (c), by adding at the end the following:
+(3)
+Notwithstanding subsection (a) of this section, the debtor shall be discharged from a debt of the kind specified in subsection (a)(7) of this section if the sentencing order fails to separately list any fees, costs, assessments or surcharges in addition to any fine, penalty, or restitution, and such fees, costs, assessments, or surcharges are authorized to be assessed under nonbankruptcy law for the particular crime committed by the debtor, unlessâ
+(A)
+the sentencing order expressly states that no fees, costs, assessments or surcharges are assessed against the debtor in addition to any fine, penalty, or restitution; or
+(B)
+on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt shall not be discharged under subsection (a)(7) of this section.
+; and
+(4)
+by adding at the end the following:
+(f)
+For purposes of subparagraph (B) of subsection (a)(1), a returnâ
+(1)
+must satisfy the requirements of applicable nonbankruptcy law;
+(2)
+must have been filed in a manner permitted by applicable nonbankruptcy law regardless of whether it was filed before or after any applicable deadline;
+(3)
+includes a return prepared pursuant to
+section 6020(a)
+of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment entered by a nonbankruptcy tribunal; and
+(4)
+does not include a return made pursuant to
+section 6020(b)
+of the Internal Revenue Code of 1986, or similar State or local law.
+.
+(hh)
+Effect of discharge
+Section 524 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+in paragraph (1), by striking
+727, 944, 1141, 1192, 1228, or 1328
+and inserting
+sections 727 or 1328, as in effect on the day before the date of enactment of the Consumer Bankruptcy Reform Act of 2020, or sections 944, 1031, 1141, 1192, or 1228
+; and
+(B)
+in paragraph (3), by striking
+1192, 1128(a)(1), or 1328(a)(1)
+and inserting
+1031, 1192, or 1228(a), or section 1328(a)(1), as in effect on the day before the date of enactment of the Consumer Bankruptcy Reform Act of 2020
+;
+(2)
+in subsection (b)(2)(B), by striking
+727
+and inserting
+1031
+;
+(3)
+by striking subsection (c) and inserting the following:
+(c)
+(1)
+A debtor that receives a discharge under section 1031, or section 727 or 1328, as in effect on the day before the date of enactment of the Consumer Bankruptcy Reform Act of 2020, the trustee, the United States trustee, or the bankruptcy administrator may bring a civil action against a person that knows or should know that the discharge injunction is applicable and has intentionally or negligently commenced or continued any action described in subsection (a).
+(2)
+An action under paragraph (1) shall be commenced not later than 1 year after the date on which the discharged debtor, the trustee, or the United States trustee discovers that a person has commenced or continued any action described in subsection (a).
+(3)
+In an action under paragraph (1), the court may award relief consistent with this title if the court finds that a person hasâ
+(A)
+engaged in conduct in violation of this section or of any provision of this title; or
+(B)
+engaged in fraudulent, unfair, deceptive, or abusive conduct with respect to the debtor or the case.
+(4)
+Subject to paragraph (6), in a successful action under paragraph (1)â
+(A)
+the courtâ
+(i)
+shall award to a discharged debtor injured by a violation of subsection (a)â
+(I)
+actual damages, including damages for emotional distress; and
+(II)
+reasonable costs and attorneysâ fees; and
+(ii)
+if the trustee or the United States trustee is a prevailing party in the action, shall award to the trustee or the United States trusteeâ
+(I)
+reasonable costs and attorney fees; and
+(II)
+a fee equal to 3 times the amount sought to be collected by the person found to be in violation of subsection (a); and
+(B)
+the court may award punitive damages, as appropriate.
+(5)
+(A)
+If the court awards punitive damages under paragraph (4) in an action brought or joined by the trustee, the court may award between 10 percent and 25 percent of the punitive damages to the trustee who brought or joined the action.
+(B)
+Any punitive damages under this subsection shall be in addition to the compensation set out in section 326.
+(6)
+If the commencement or continuation of any action described in subsection (a) was taken by a person in the good faith belief that subsection (a) did not apply to the debt, and the action was withdrawn upon discovery that subsection (a) applied to the debt, the recovery shall be limited to actual damages, including damages for emotional distress, and reasonable costs and attorneysâ fees.
+(7)
+Nothing in this subsection shall be construed to prejudice the ability to bring a motion for contempt of court for a violation of subsection (a).
+(8)
+An agreement between a holder of a claim and the debtor, the consideration for which, in whole or in part, is based on a debt that is dischargeable in a case under this title is voidable by the debtor.
+(9)
+Any pre-dispute arbitration agreement or pre-dispute joint-action waiver regarding an action under paragraph (1) is voidable by the debtor.
+;
+(4)
+in subsection (d)â
+(A)
+in the matter preceding paragraph (1), by striking
+727, 1141, 1192, 1228, or 1328
+and inserting
+1031, 1141, 1192, or 1228
+; and
+(B)
+beginning in the matter preceding paragraph (1), by striking
+If a discharge has been granted
+and all that follows through the end of paragraph (2);
+(5)
+in subsection (f), by striking
+(c) or
+; and
+(6)
+by striking subsections (k), (l), and (m) and inserting the following:
+(k)
+(1)
+Nothing in this section prejudices the ability to bring a motion for contempt of court for a violation of subsection (a) or any cause of action under applicable nonbankruptcy law.
+(2)
+Any pre-dispute arbitration agreement or pre-dispute joint-action waiver purporting to apply to such an action is void.
+(l)
+Upon an entityâs request, and after notice and a hearing, the court shall issue an order declaring whether an action proposed to be taken by the entity would be a violation of the discharge injunction under subsection (a).
+(m)
+The debtorâs failure to assert, raise, or plead the discharge shall not be construed to be a waiver against asserting the discharge.
+.
+(ii)
+Protection against discriminatory treatment
+Section 525 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a), by striking
+solely
+;
+(2)
+in subsection (b), in the matter preceding paragraph (1)â
+(A)
+by inserting
+deny employment to,
+following
+may
+; and
+(B)
+by striking
+solely
+; and
+(3)
+by adding at the end the following:
+(d)
+(1)
+A person aggrieved by a violation of this section may enforce this section in the bankruptcy case or by bringing a civil action in an appropriate district court of the United States.
+(2)
+To remedy a violation of this section, a court mayâ
+(A)
+award damages including back pay;
+(B)
+grant injunctive or other equitable relief; and
+(C)
+award of costs, including attorneysâ fees, to an aggrieved party who prevails.
+.
+(jj)
+Restrictions on debt relief agencies
+(1)
+In general
+Section 526 of title 11, United States Code, is repealed.
+(2)
+Conforming amendment
+The table of sections for
+chapter 5
+of title 11, United States Code, is amended by striking the item relating to section 526.
+(kk)
+Disclosures
+(1)
+In general
+Section 527 of title 11, United States Code, is repealed.
+(2)
+Conforming amendment
+The table of sections for
+chapter 5
+of title 11, United States Code, is amended by striking the item relating to section 527.
+(ll)
+Requirements for debt relief agencies
+(1)
+In general
+Section 528 of title 11, United States Code, is repealed.
+(2)
+Conforming amendment
+The table of sections for
+chapter 5
+of title 11, United States Code, is amended by striking the item relating to section 528.
+(mm)
+Property of the estate
+Section 541 of title 11, United States Code, is amendedâ
+(1)
+in subsection (b)(7)â
+(A)
+by striking
+except that such amount under this subparagraph shall not constitute disposable income as defined in section 1325(b)(2); or
+each place it appears;
+(B)
+in subparagraph (A)(i)(III), by adding
+or
+at the end; and
+(C)
+in subparagraph (B)(i)(III), by adding
+or
+at the end;
+(2)
+in subsection (c)(2), by striking the period at the end and inserting
+, except to the extent necessary to satisfy claims entitled to priority under section 507(a)(1).
+; and
+(3)
+by adding at the end the following:
+(g)
+Notwithstanding any contrary provision of nonbankruptcy law, a pre-dispute arbitration agreement or pre-dispute joint-action waiver entered into by the debtor shall not be enforceable against the bankruptcy estate or the debtor for matters arising in, arising under, or related to a case under this title.
+.
+(nn)
+Turnover of property to estate
+(1)
+In general
+Section 542 of title 11, United States Code, is amendedâ
+(A)
+in subsection (a)â
+(i)
+by striking
+subsection (c) or (d)
+and inserting
+subsection (d), (e), or (f)
+; and
+(ii)
+by striking
+shall deliver to the trustee
+and inserting
+shall, without any condition or further action by the trustee, the debtor, or the court, deliver promptly to the trustee
+;
+(B)
+in subsection (b), by striking
+subsection (c) or (d)
+and inserting
+subsection (d), (e), or (f)
+;
+(C)
+by redesignating subsections (c), (d), and (e) as subsections (e), (f), and (g), respectively; and
+(D)
+by adding before subsection (e), as so redesignated, the following:
+(c)
+An entity in possession of property that the trustee may use, sell, or lease under section 363 of this title, or that the debtor may exempt under section 522 of this title, shall have, upon delivery of such property to the trustee, the same rights in the property as if the entity remained in possession.
+(d)
+An entity that holds property that the trustee may use, sell, or lease under section 363 of this title, or that the debtor may exempt under section 522 of this title, and that is subject to a potential loss of value due to accident, casualty, or theft shall not be required to deliver such property to the trustee unless the party entitled to possession provides proof of insurance or other security sufficient to protect the creditor against such loss of value.
+.
+(2)
+Conforming amendment
+Section 549(a)(2)(A) of title 11, United States Code, is amended by striking
+542(c)
+and inserting
+542(e)
+.
+(oo)
+Limitations on avoiding powers
+Section 546(a)(1)(B) of title 11, United States Code, is amended by striking
+1104, 1163, 1202, or 1302
+and inserting
+1001, 1104, 1163, or 1202
+.
+(pp)
+Fraudulent transfers and obligations
+Section 548 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a)(1), in the matter preceding subparagraph (A), by striking
+2 years
+and inserting
+4 years
+;
+(2)
+in subsection (b)(1), by striking
+2 years
+and inserting
+4 years
+;
+(3)
+in subsection (e)â
+(A)
+in paragraph (1)â
+(i)
+in the matter preceding subparagraph (A), by striking
+In addition
+and inserting
+Subject to paragraphs (3) and (4), in addition
+;
+(ii)
+in subparagraph (B), by adding
+and
+at the end;
+(iii)
+in subparagraph (C), by striking
+; and
+and inserting a period; and
+(iv)
+by striking subparagraph (D); and
+(B)
+by adding at the end the following:
+(3)
+The trustee may not avoid under paragraph (1) a transfer of property that is exempt from the estate pursuant to paragraph (2)(A)(ii)(II)(kk) or (3)(A)(iii) of section 522(b).
+(4)
+(A)
+The trustee may not avoid under paragraph (1) a transfer that was not made with actual intent to hinder, delay, or defraud.
+(B)
+The defendant in any action under this subsection has the burden of proof in pleading and proving that the transfer was not made with actual intent to hinder, delay, or defraud creditors.
+.
+(qq)
+Liability of transferee of avoided transfer
+Section 550 of title 11, United States Code, is amended by adding at the end the following:
+(g)
+The trustee may recover from a transferee the costs of bringing a successful avoidance action, including reasonable attorney fees, for the avoidance of a transfer under section 544(b) underâ
+(1)
+an applicable nonbankruptcy law that prohibits a transfer made with actual intent to hinder, delay, or defraud a creditor;
+(2)
+section 548(a)(1); or
+(3)
+section 548(e).
+.
+(rr)
+Expedited determination of interests in, and abandonment or other disposition of grain assets
+Section 557(d)(3) of title 11, United States Code, is amended by striking
+1104, 1183, 1202, and 1302
+and inserting
+1001, 1104, 1183, and 1202
+.
+(ss)
+Duties of trustee
+Section 704 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+by striking
+(a)
+;
+(B)
+by striking paragraphs (3) and (10); and
+(C)
+by redesignating paragraphs (4), (5), (6), (7), (8), (9), (11), and (12) as paragraphs (3), (4), (5), (6), (7), (8), (9), and (10), respectively;
+(2)
+by striking subsection (b); and
+(3)
+by striking subsection (c).
+(tt)
+Conversion
+Section 706 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+by striking
+11, 12, or 13
+and inserting
+11 or 12
+; and
+(B)
+by striking
+1112, 1208, or 1307
+and inserting
+1112 or 1208
+; and
+(2)
+in subsection (c), by striking
+12 or 13
+and inserting
+12
+.
+(uu)
+Dismissal of a case or conversion to a case under chapter 11 or 13
+(1)
+In general
+Section 707 of title 11, United States Code, is amendedâ
+(A)
+in the section heading, by striking
+or conversion to a case under chapter 11 or 13
+;
+(B)
+in subsection (a), by striking
+(a) The
+and inserting
+The
+;
+(C)
+by striking subsection (b); and
+(D)
+by striking subsection (c).
+(2)
+Conforming amendment
+The table of sections for
+chapter 7
+of title 11, United States Code, is amended by striking the item relating to section 707 and inserting the following:
+707. Dismissal of a case.
+.
+(vv)
+Redemption
+(1)
+In general
+Section 722 of title 11, United States Code, is repealed.
+(2)
+Conforming amendment
+The table of sections for
+chapter 7
+of title 11, United States Code, is amended by striking the item relating to section 722.
+(ww)
+Distribution of property of the estate
+Section 726(b) of title 11, United States Code, is amended by striking
+1112, 1208, or 1307
+and inserting
+1005, 1053(c), 1112, or 1208
+.
+(xx)
+Discharge
+(1)
+In general
+Section 727 of title 11, United States Code, is repealed.
+(2)
+Conforming amendment
+The table of sections for
+chapter 7
+of title 11, United States Code, is amended by striking the item relating to section 727.
+(yy)
+Duties of trustee and examiner
+Section 1106 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+in paragraph (1), by striking
+paragraphs (2), (5), (7), (8), (9), (10), (11), and (12) of section 704(a)
+and inserting
+paragraphs (2), (4), (6), (7), (8), (9), and (10) of section 704
+; and
+(B)
+in paragraph (5), by striking
+12, or 13
+and inserting
+7, 10, or 12
+; and
+(2)
+in subsection (c)(1)(C), by striking clause (iv) and inserting the following:
+(iv)
+the name of each creditor that holds a claim that is not discharged under paragraph (2) or (4) of section 523(a) of this title.
+.
+(zz)
+Conversion or dismissal
+Section 1112 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+in paragraph (2), by striking
+or
+;
+(B)
+in paragraph (3), by striking the period at the end and inserting
+; or
+; and
+(C)
+by adding at the end the following:
+(4)
+the debtor is an individual.
+;
+(2)
+in subsection (b)(1), by inserting
+in a case in which the debtor is not an individual,
+after
+subsection (c),
+;
+(3)
+in subsection (d), by striking
+12 or 13
+and insert
+10 or 12
+;
+(4)
+by redesignating subsection (f) as subsection (g); and
+(5)
+by inserting after subsection (e), the following:
+(f)
+The debtor may convert a case under this chapter to a case under chapter 10 of this title at any time. Any waiver of the right to convert under this subsection is unenforceable.
+.
+(aaa)
+Property of the estate
+Section 1115(a) of title 11, United States Code, is amended by striking
+7, 12, or 13
+each place it appears and inserting
+10 or 12
+.
+(bbb)
+Contents of plan
+Section 1123(a)(8) of title 11, United States Code, is amended by striking
+for the execution of the plan.
+and inserting
+for the debtor to meet the minimum payment obligation of the debtor.
+.
+(ccc)
+Confirmation of plan
+Section 1129(a)(15)(B) of title 11, United States Code, is amended by striking
+the projected disposable income
+and all that follows through
+whichever is longer
+and inserting
+the minimum payment obligation of the debtor under a repayment plan under section 1021(a)(1) if the case were a case under chapter 10
+.
+(ddd)
+Effect of confirmation
+Section 1141(d) of title 11, United States Code, is amendedâ
+(1)
+in paragraph (3)(C)â
+(A)
+by striking
+section 727(a)
+and inserting
+section 1031
+; and
+(B)
+by striking
+chapter 7
+and inserting
+chapter 10
+; and
+(2)
+in paragraph (5)â
+(A)
+in subparagraph (A), by adding
+and
+at the end;
+(B)
+in subparagraph (B), by striking
+; and
+at the end and inserting a period; and
+(C)
+by striking subparagraph (C).
+(eee)
+Trustee
+Section 1183(b) of title 11, United States Code, is amendedâ
+(1)
+in paragraph (1), by striking
+paragraphs (2), (5), (6), (7), and (9) of section 704(a)
+and inserting
+paragraphs (2), (4), (5), (6), and (8) of section 704
+;
+(2)
+in paragraph (5), by striking
+704(a)(8)
+and inserting
+704(7)
+; and
+(3)
+in paragraph (6), by striking
+704(c)
+and inserting
+1001(b)(5)
+.
+(fff)
+Property of the estate
+Section 1186(a) of title 11, United States Code, is amended by striking
+7, 12, or 13
+each place it appears and inserting
+7, 10, or 12
+.
+(ggg)
+Trustee
+Section 1202 of title 11, United States Code, is amendedâ
+(1)
+in subsection (b)â
+(A)
+in paragraph (1), by striking
+sections 704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9)
+and inserting
+paragraphs (2), (3), (4), (5), (6), and (8) of section 704
+; and
+(B)
+in paragraph (5), by striking
+704(a)(8)
+and inserting
+704(7)
+; and
+(2)
+in subsection (c)(1)(C), by striking clause (iv) and inserting the following:
+(iv)
+the name of each creditor that holds a claim that is not discharged under paragraph (2) or (4) of section 523(a) of this title.
+.
+(hhh)
+Conversion or dismissal
+Section 1208 of title 11, United States Code, is amendedâ
+(1)
+in subsection (a) by striking
+7 of
+and inserting
+7 or 10 of
+; and
+(2)
+in subsection (b) by striking
+or 1112
+and inserting
+, 1005, 1053(c), or 1112
+.
+(iii)
+Discharge
+Section 1228 of title 11, United States Code, is amended by striking subsection (f).
+105.
+Data collection
+Section 159 of title 28, United States Code, is amended by striking subsections (a), (b), and (c) and inserting the following:
+(a)
+(1)
+When a case is filed under
+chapter 10
+of title 11, each debtor in the case may file with the court the following information about the debtor:
+(A)
+Marital status.
+(B)
+Age.
+(C)
+Sex.
+(D)
+Race.
+(E)
+Ethnicity.
+(2)
+The Attorney General, in consultation with the Consumer Bankruptcy Ombuds of the Bureau of Consumer Financial Protection and the Director of the Administrative Office of the United States Courts (referred to in this section as the
+Director
+), shall prescribe a standard form for the collection of the information described in paragraph (1).
+(3)
+Any information collected, stored, received, or published under paragraph (1) shallâ
+(A)
+be so collected, stored, received, or published in a manner that protects the privacy of individuals whose information is included in such data;
+(B)
+be de-identified or anonymized in a manner that protects the identity of all individuals whose information is included in such data; and
+(C)
+be limited in use for the purpose of identifying and addressing disparities in the bankruptcy system and be protected from all other internal use by any entity that collects, stores, or receives the information and from any other inappropriate uses.
+(4)
+Any information collected under paragraph (1)â
+(A)
+shall not be part of the public record of the bankruptcy case; and
+(B)
+shall be maintained in a nonpublic record by the court to fulfill its duties under subsection (b).
+(b)
+The clerk of the district court, or the clerk of the bankruptcy court if one is certified pursuant to section 156(b), shall collect information regarding individual debtors seeking relief under
+chapter 10
+of title 11. The information shall be in a standardized format prescribed by the Director so that the Director can fulfill the duties in subsection (c).
+(c)
+(1)
+In this subsection, the term
+qualified researcher
+means a person who has undertaken to protect the confidentiality and privacy of the information in the database in a protocol that has been reviewed and approved by an institutional review board that is establishedâ
+(A)
+to protect the rights and welfare of human subjects participating in scientific research; and
+(B)
+in accordance with the requirements established under part 46 of title 45, Code of Federal Regulations, or any successor thereto.
+(2)
+The Director shallâ
+(A)
+compile statistical tables from the information referred to in subsections (a) and (b) and make the tables available to the public;
+(B)
+not later than July 1, 2022, and annually thereafter, prepare, and submit to Congress a report concerning the information collected under subsections (a) and (b) that contains an analysis of the information; and
+(C)
+not later than December 31 of the year following the calendar year in which the information is collected, make available toâ
+(i)
+qualified researchers an electronic database containing the information collected under subsections (a) and (b) or used to create the compilation required by this subsection; and
+(ii)
+the public an electronic database containing the information collected under subsection (b) or used to create the compilation required by this subsection.
+(d)
+The compilation required under subsection (c) shallâ
+(1)
+be presented in the aggregate and for each judicial district and division; and
+(2)
+include information concerningâ
+(A)
+the total assets and total liabilities of the debtors and in each category of assets and liabilities, as reported in the schedules prescribed pursuant to section 2075 and filed by debtors;
+(B)
+the current monthly income of debtors as reported on the schedules and statements that each debtor files under section 521 of title 11;
+(C)
+the total compensation the debtors promised to pay to an attorney, the amount of the compensation paid to an attorney before filing, and the total number of cases in which a wage garnishment order or electronic funds transfer order was entered to pay an attorney;
+(D)
+the total number of dependents of the debtors and the total number of dependents of the debtors under the age of 18;
+(E)
+whether the debtors had an ownership interest in real estate that served as the debtorsâ principal residence;
+(F)
+whether the debtors had an ownership interest in real estate other than that served as the debtorsâ principal residence;
+(G)
+the minimum payment obligation of the debtors as determined under section 101(54) of title 11;
+(H)
+whether the debtors filed a repayment plan, a residence plan, or a property plan; and
+(I)
+the average period of time between the date of the filing of the petition and the closing of the case for cases closed during the reporting period.
+(e)
+The Director may add other information to the compilations and databases required by this section that improve the understanding of the causes of bankruptcy and the functioning of the bankruptcy system.
+.
+106.
+Electronic signatures
+(a)
+Electronic signature defined
+In this section, the term
+electronic signature
+has the meaning given the term in section 106 of the Electronic Signatures in Global and National Commerce Act (
+15 U.S.C. 7006
+).
+(b)
+Electronic signatures allowed
+A signature required for a filing in a case under title 11, United States Code, may not be denied legal effect, validity, or enforceability solely because it is an electronic signature.
+(c)
+Original electronic signatures allowed
+In a case under title 11, United States Code, an original signature may be an electronic signature.
+107.
+Judicial education
+The Director of the Federal Judicial Center, in consultation with the Director of the Executive Office for United States Trustees, shall develop materials and conduct training that may be useful to courts in implementing this Act and the amendments made by this Act.
+108.
+Conforming amendments to other laws
+(a)
+Bankruptcy abuse and consumer protection act of 2005
+(1)
+Audit procedures
+Section 603 of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (
+28 U.S.C. 586
+note) is amended by striking subsection (a).
+(2)
+Judicial education
+Section 1226 of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (
+11 U.S.C. 101
+note) is repealed.
+(3)
+Tax documents
+Section 1228(b) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (
+11 U.S.C. 521
+note) is repealed.
+(b)
+Consolidated farm and rural development act
+Section 373(b)(2)(A)(ii) of the Consolidated Farm and Rural Development Act (
+7 U.S.C. 2008h(b)(2)(A)(ii)
+) is amended by striking
+11, 12, or 13
+and inserting
+10, 11, or 12
+.
+(c)
+Consumer credit protection act
+Section 303(b)(1)(B) of the Consumer Credit Protection Act (
+15 U.S.C. 1673(b)(1)(B)
+) is amended by striking
+any order of any court of bankruptcy under chapter XIII of the Bankruptcy Act
+and inserting
+any order of any court of the United States having jurisdiction over cases under title 11; and
+.
+(d)
+Higher education act of 1965
+Section 437(b) of the Higher Education Act of 1965 (
+20 U.S.C. 1087(b)
+) is amendedâ
+(1)
+in paragraph (1), by striking
+chapter 12 or 13
+and inserting
+chapter 10 or 12
+; and
+(2)
+in paragraphs (2) and (3), by striking
+chapter 7 or 11
+and inserting
+chapter 10, 11, or 12
+.
+(e)
+Housing and community development amendments of 1978
+Section 201(l)(2)(C) of the Housing and Community Development Amendments of 1978 (12 U.S.C. 1715zâ1a(l)(2)(C)) is amended by striking
+727, 1141, or 1328(b)
+and inserting
+1031, 1141, or 1192
+.
+(f)
+Internal revenue code of 1986
+The Internal Revenue Code of 1986 is amendedâ
+(1)
+in section 1398â
+(A)
+in subsection (a), by striking
+chapter 7 (relating to liquidation) or chapter 11 (relating to reorganizations)
+and inserting
+chapter 10, chapter 11, or chapter 12
+; and
+(B)
+in subsection (b)(1), by striking
+chapter 7 or 11
+and inserting
+7, 10, or 12
+;
+(2)
+in section 6327â
+(A)
+by striking paragraph (4); and
+(B)
+by redesignating paragraph (5) and (6) as paragraphs (4) and (5), respectively; and
+(3)
+in section 7437â
+(A)
+by striking paragraph (4); and
+(B)
+by redesignating paragraphs (5), (6), (7), (8), and (9) as paragraphs (4), (5), (6), (7), and (8), respectively.
+(g)
+Title 28
+Title 28, United States Code, is amendedâ
+(1)
+in section 157(b)(2)â
+(A)
+in subparagraph (B), by striking
+chapter 11, 12, or 13
+and inserting
+chapter 10, 11, or 12
+;
+(B)
+in subparagraph (O), by striking
+and
+;
+(C)
+in subparagraph (P), by striking the period at the end and inserting
+; and
+; and
+(D)
+by adding at the end the following:
+(Q)
+proceedings to enforce rights under sections 524 or 525 of title 11.
+;
+(2)
+in section 589bâ
+(A)
+in subsection (a)(1), by striking
+chapters 7, 12, and 13
+and inserting
+chapters 7, 10, and 12
+; and
+(B)
+in subsection (d)â
+(i)
+in the matter preceding paragraph (1), by striking
+chapters 7, 12, and 13
+and inserting
+chapters 7, 10, and 12
+;
+(ii)
+in paragraph (5), by striking
+, including for use under section 707(b), actual costs of administering cases under chapter 13 or chapter 11
+; and
+(iii)
+in the matter following paragraph (8), by striking
+chapters 12 and 13
+and inserting
+chapters 10 and 12
+; and
+(3)
+in section 3014(a)(1), by striking
+section 522(d)
+and inserting
+section 522(b)
+.
+(h)
+Title 38
+Section 3732(a)(2)(B) of title 38, United States Code, is amended by striking
+1322(b)
+and inserting
+1022(b)
+.
+II
+Consumer financial protection amendments
+201.
+Amendments to the Consumer Financial Protection Act of 2010
+(a)
+Consumer bankruptcy ombuds
+The Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5481
+et seq.) is amended by inserting after section 1035 (
+12 U.S.C. 5535
+) the following:
+1035A.
+Consumer bankruptcy ombuds
+(a)
+Establishment
+The Director, in consultation with the Attorney General, shall designate a Consumer Bankruptcy Ombuds (in this section referred to as the
+Ombuds
+) within the Bureau, to provide timely assistance to individual debtors in bankruptcy.
+(b)
+Public information
+The Director and the Attorney General and the bankruptcy clerks appointed under section 156(b) of title 11, United States Code, shall disseminate information about the availability and functions of the Ombuds to individual debtors in bankruptcy and consumer bankruptcy attorneys and consumer credit counseling agencies.
+(c)
+Functions of ombuds
+The Ombuds designated under this subsection shallâ
+(1)
+in accordance with regulations of the Director, receive, review, and attempt to resolve informally complaints from individual debtors in bankruptcy, including, as appropriate, attempts to resolve such complaints in collaboration with creditors, the United States Trustee Program of the Department of Justice, trustees in bankruptcy, the bankruptcy clerks appointed under section 156(b) of title 11, United States Code, and consumer privacy ombudsmen and future claims representatives appointed in bankruptcy;
+(2)
+not later than 90 days after the date of enactment of this section, establish a memorandum of understanding with the Executive Office of the United States Trustee Program, to ensure coordination in providing assistance to and serving individual debtors in bankruptcy seeking to resolve complaints related to their bankruptcy cases;
+(3)
+compile and analyze data on consumer bankruptcy filings, including on the causes of individual bankruptcy filings, the relationship between consumer bankruptcy filings and consumer financial products and services, and any disparities in the bankruptcy system, including any disparities based on the demographic categories described in section 159(a)(1) of title 28, United States Code;
+(4)
+compile and analyze data on complaints from individual debtors in bankruptcy;
+(5)
+make recommendations to the Director and the Attorney General regarding the filing of amicus curiae briefs and making appearances in individual bankruptcy cases, particularly in the cases involving repeat patterns of creditor behavior;
+(6)
+consult with the Director of the Administrative Office of the United States Courts regarding the duties of that officer under section 159 of title 28, United States Code, regarding data collection and reporting; and
+(7)
+make other appropriate recommendations to the Director, the Attorney General, the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate and the Committee on Financial Services and the Committee on Judiciary of the House of Representatives.
+(d)
+Annual reports
+(1)
+In general
+The Ombuds shall prepare an annual report that describes the activities, and evaluates the effectiveness of the Ombuds during the preceding year.
+(2)
+Submission
+The report required by paragraph (1) shall be submitted on the same date annually to the Attorney General, the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate and the Committee on Financial Services and the Committee on the Judiciary of the House of Representatives.
+.
+(b)
+Supervision of higher cost lenders
+Section 1024(a)(1)(E) of the Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5514(a)(1)(E)
+) is amended by striking
+a payday loan
+and inserting
+a loan with an annual percentage rate of greater than 36 percent, as determined under section 987(i)(4) of title 10, United States Code
+.
+(c)
+Violations of discharge injunction
+Section 1036(a) of the Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5536(a)
+), is amendedâ
+(1)
+in paragraph (2)(C), by striking
+or
+at the end;
+(2)
+in paragraph (3), by striking the period at the end and inserting
+; or
+; and
+(3)
+by adding at the end the following:
+(4)
+to violate section 524(a) of title 11, United States Code, in a case involving an individual debtor.
+.
+(d)
+Authority To exercise supervision and enforcement authority regarding bankruptcy law
+(1)
+Definitions
+Section 1002(12) of the Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5481(12)
+) is amendedâ
+(A)
+in subparagraph (Q), by striking
+and
+and the end;
+(B)
+in subparagraph (R), by striking the period at the end and inserting a semicolon; and
+(C)
+by adding at the end the following:
+(S)
+title 11, United States Code, with respect to individual debtors.
+.
+(2)
+Exception from rulemaking
+Section 1022 of the Consumer Financial Protection Act of 2010 (
+12 U.S.C. 5512
+) is amended by inserting
+, except title 11, United States Code,
+after
+Federal consumer financial laws
+each place the term appears.
+(e)
+Average prime offer rate for motor vehicle financings
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, and not less frequently than monthly thereafter, the Bureau of Consumer Financial Protection shall publish on the website of the Bureau the following information with respect to motor vehicle financing:
+(A)
+The current (as of the date of publication) average prime offer rate for that type of financing, including the provision of that financing through retail installment sales contracts.
+(B)
+The most common duration of that type of financing.
+(C)
+Rate structures for financings for the purchase of new and used light motor vehicles that are used primarily for personal, family, or household use.
+(2)
+Data collection
+In carrying out paragraph (1), the Bureau of Consumer Financial Protection may engage in the collection of information without regard to
+chapter 35
+of title 44, United States Code.
+202.
+Amendments to the Truth in Lending Act
+Section 130 of the Truth in Lending Act (
+15 U.S.C. 1640
+) is amendedâ
+(1)
+in subsection (a)(2)â
+(A)
+in subparagraph (A)â
+(i)
+by striking
+$200
+and inserting
+$1,600
+;
+(ii)
+by striking
+$2,000
+and inserting
+$16,000
+;
+(iii)
+by striking
+$500
+and inserting
+$4,000
+;
+(iv)
+by striking
+$5,000
+and inserting
+$40,000
+;
+(v)
+by striking
+$400
+and inserting
+$3,200
+; and
+(vi)
+by striking
+$4,000
+and inserting
+$32,000
+; and
+(B)
+in subparagraph (B), by striking
+$1,000,000 or 1
+and inserting
+$8,000,000 or 5
+; and
+(2)
+by adding at the end the following:
+(m)
+Adjustments
+On April 1, 2022, and each April 1 thereafter, each dollar amount in effect under subsections (a) and (b) on the day before such April 1 shall be adjustedâ
+(1)
+to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent period ending immediately before January 1 preceding such April 1; and
+(2)
+to round to the nearest $25 the dollar amount that represents the change described in paragraph (1).
+.
+203.
+Amendments to the Fair Credit Reporting Act
+The Fair Credit Reporting Act (
+15 U.S.C. 1681
+et seq.) is amendedâ
+(1)
+in section 605(a) (
+15 U.S.C. 1681c(a)
+), by striking paragraph (1) and inserting the following:
+(1)
+Cases under title 11, United States Code, that, from the date of entry of the order for relief, antedate the report by more than 7 years.
+; and
+(2)
+in section 616 (
+15 U.S.C. 1681n
+)â
+(A)
+in subsection (a)(1)â
+(i)
+in subparagraph (A)â
+(I)
+by striking
+$100
+and inserting
+$700
+; and
+(II)
+by striking
+$1,000
+and inserting
+$7,000
+; and
+(ii)
+in subparagraph (B), by striking
+$1,000
+and inserting
+$7,000
+;
+(B)
+in subsection (b), by striking
+$1,000
+and inserting
+$7,000
+; and
+(C)
+by adding at the end the following:
+(e)
+Adjustment
+On April 1, 2022, and each April 1 thereafter, each dollar amount in effect under subsections (a) and (b) on the day before such April 1 shall be adjustedâ
+(1)
+to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent period ending immediately before January 1 preceding such April 1; and
+(2)
+to round to the nearest $25 the dollar amount that represents the change described in paragraph (1).
+.
+204.
+Amendments to the Equal Credit Opportunity Act
+Section 706 of the Equal Credit Opportunity Act (
+15 U.S.C. 1691e
+) is amendedâ
+(1)
+in subsection (b)â
+(A)
+by striking
+$10,000
+and inserting
+$60,000
+; and
+(B)
+by striking
+500,000 or 1
+and inserting
+$5,000,000 or 5
+;
+(2)
+by adding at the end the following:
+(l)
+Adjustment
+On April 1, 2022, and each April 1 thereafter, each dollar amount in effect under subsection (b) on the day before such April 1 shall be adjustedâ
+(1)
+to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent period ending immediately before January 1 preceding such April 1; and
+(2)
+to round to the nearest $25 the dollar amount that represents the change described in paragraph (1).
+.
+205.
+Amendments to the Fair Debt Collection Practices Act
+The Fair Debt Collection Practices Act (
+15 U.S.C. 1692
+et seq.) is amendedâ
+(1)
+in section 808 (
+15 U.S.C. 1692f
+), by adding at the end the following:
+(9)
+Filing a lawsuit or a claim in a bankruptcy case that is based on a debt without an actual, reasonable, good-faith belief that the applicable statute of limitations for enforcement of that debt has not expired at the time of filing.
+(10)
+Any act to knowingly collect or attempt to collect a debt that has been discharged in bankruptcy except acceptance of a purely voluntary payment of the debtor without encouragement or coercion by the debt collector.
+; and
+(2)
+in section 813 (
+15 U.S.C. 1692k
+)â
+(A)
+in subsection (a)(2)â
+(i)
+in subparagraph (A), by striking
+$1,000
+and inserting
+$5,000
+; and
+(ii)
+in subparagraph (B), by striking
+$500,000 or 1
+and inserting
+$5,000,000 or 5
+; and
+(B)
+by adding at the end the following:
+(f)
+On April 1, 2022, and each April 1 thereafter, each dollar amount in effect under paragraph (a)(2) on the day before such April 1 shall be adjustedâ
+(1)
+to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent period ending immediately before January 1 preceding such April 1; and
+(2)
+to round to the nearest $25 the dollar amount that represents the change described in paragraph (1).
+.
+206.
+Amendments to the Electronic Fund Transfers Act
+Section 916 of the Electronic Fund Transfers Act (
+15 U.S.C. 1693m
+) is amendedâ
+(1)
+in subsection (a)(2)â
+(A)
+in subparagraph (A)â
+(i)
+by striking
+$100
+and inserting
+$500
+; and
+(ii)
+by striking
+$1,000
+and inserting
+$5,000
+; and
+(B)
+in subparagraph (B), by striking
+$500,000 or 1
+and inserting
+$5,000,000 or 5
+; and
+(2)
+by adding at the end the following:
+(h)
+On April 1, 2022, and each April 1 thereafter, each dollar amount in effect under paragraph (a)(2) on the day before such April 1 shall be adjustedâ
+(1)
+to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent period ending immediately before January 1 preceding such April 1, and
+(2)
+to round to the nearest $25 the dollar amount that represents the change described in paragraph (1).
+.
+III
+Bankruptcy rules
+301.
+Rules Enabling Act amendments
+(a)
+In general
+Notwithstanding the third undesignated paragraph of section 2075 of title 28, United States Code, the Supreme Court of the United States may prescribe by general rules, the forms of process, writs, pleadings, and motions, and the practice and procedure in cases under title 11, United States Code, as may be necessary to carry out this Act before the effective date of this Act.
+(b)
+Technical and conforming amendment
+Section 2075 of title 28, United States Code, is amended by striking the fourth undesignated paragraph.
+(c)
+Plain writing
+In drafting the form required by section 1031(d) of title 11, as added by this Act, the Judicial Conference of the United States should comply with the requirements of the Plain Writing Act of 2010 (
+5 U.S.C. 301
+note).
+(1)
+â157A. Fraudulent transfers.
+.
+302.
+Bankruptcy rules amendments
+Rule 7004 of the Federal Rules of Bankruptcy Procedure is amended by striking subdivision (h).
+303.
+Sense of Congress
+It is the sense of Congress that the Judicial Conference of the United States shouldâ
+(1)
+promulgate a simplified version of the schedule of current income and current expenditures required under section 521(a)(1)(B)(ii) of title 11, United States Code, for debtors who, by virtue of section 521(c) of title 11, United States Code, are not subject to the documentation requirements of that section or the statement of annual income required by section 521(a)(1)(B)(v) of title 11, United States Code; and
+(2)
+draft rules that provide that, with respect to a case in which the debtor is an individual, the rights under section 542 of title 11, United States Code, may be enforced by motion.
+IV
+Funding the bankruptcy system
+401.
+Bankruptcy fees
+Title 28, United States Code, is amendedâ
+(1)
+in section 589a(b), by amending paragraph (1) to read as follows:
+(1)
+38.50 percent of the fees collected under section 1930(a)(1);
+; and
+(2)
+in section 1930â
+(A)
+in subsection (a)â
+(i)
+by amending paragraph (1) to read as follows:
+(1)
+For a case commenced under chapter 10, $250.
+;
+(ii)
+in paragraph (6)(B)â
+(I)
+by striking
+During each of fiscal years 2018 through 2022, if
+and inserting
+If
+; and
+(II)
+by striking
+$200,000,000
+and inserting
+$250,000,000
+; and
+(iii)
+in the undesignated matter following paragraph (7), by striking
+chapter 7, or 13 of title 11
+and inserting
+chapter 7 or 10 of title 11
+;
+(B)
+by redesignating subsections (c), (d), (e), and (f) as subsections (d), (e), (f), and (g), respectively;
+(C)
+by striking subsection (b) and inserting the following:
+(b)
+On April 1, 2022, and each April 1 thereafter, the dollar amounts in effect under paragraph (a)(6)(A) on the day before such April 1 shall be adjustedâ
+(1)
+to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent period ending immediately before January 1 preceding such April 1; and
+(2)
+to round to the nearest $25 the dollar amount that represents the change described in paragraph (1).
+(c)
+The Judicial Conference of the United States may prescribed additional fees in cases under title 11, other than cases under chapter 10 of that title, of the same kind as the Judicial Conference prescribes under section 1914(b) of this title.
+; and
+(D)
+in subsection (g), as so redesignatedâ
+(i)
+in paragraph (1), by striking
+(1) Under
+and all that follows and inserting the following: â(1)(A) Under the procedures prescribed by the Judicial Conference of the United States, the district court or the bankruptcy court may waive all fees payable to the clerk of the court in a case under
+chapter 10
+of title 11 for an individual if the court determines that such individual has income less than 150 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 673(2) of the Omnibus Budget Reconciliation Act of 1981) applicable to a family of the size involved and is unable to pay that fee in installments.
+(B)
+If the court determines that such an individual has income less than 100 percent of the income official poverty line applicable to a family of the size involved, such individual shall be conclusively presumed to be unable to pay that fee in instalments.
+; and
+(ii)
+in paragraph (2), by striking
+subsections (b) and (c)
+and inserting
+subsections (c) and (d)
+.
+402.
+Trustee compensation
+(a)
+Amendments
+Section 586 of title 28, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+in paragraph (3)â
+(i)
+in the matter preceding subparagraph (A), by striking
+chapter 7, 11 (including subchapter V of chapter 11), 12, 13, or 15
+and inserting
+chapter 7, 10, 11 (including subchapter V of chapter 11), 12, or 15
+; and
+(ii)
+in subparagraph (C)â
+(I)
+by striking
+chapters 12 and 13 of title 11
+and inserting
+chapters 10 and 12 of title 11
+; and
+(II)
+by striking
+sections 1224, 1229, 1324, and 1329
+and inserting
+sections 1024, 1025(k), 1224, and 1229
+;
+(B)
+by striking paragraph (6); and
+(C)
+by redesignating paragraphs (7) and (8) as paragraphs (6) and (7), respectively;
+(2)
+by amending subsection (b) to read as follows:
+(b)
+If the number of cases under chapter 10 or 12 of title 11 or subchapter V of
+chapter 11
+of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint 1 or more individuals to serve as standing trustee, or designate 1 or more assistant United States trustees to serve in cases under such chapter. The United States trustee may also establish, maintain, and supervise a panel of private trustees that are eligible and available to serve as trustees in cases under
+chapter 10
+of title 11. The United States trustee for such region shall supervise the performance of the duties of any such individual appointed under this subsection.
+;
+(3)
+in subsection (d)(1), by striking
+under subchapter V of chapter 11 or chapter 12 or 13 of title 11
+each place it appears and inserting
+chapter 10 or 12 of title 11 or subchapter V of
+chapter 11
+of title 11
+;
+(4)
+in subsection (e)â
+(A)
+in paragraph (1), in the matter preceding subparagraph (A), by striking
+under subchapter V of chapter 11 or chapter 12 or 13 of title 11
+and inserting
+chapter 12 of title 11 or subchapter V of chapter 11
+;
+(B)
+in paragraph (2)â
+(i)
+in the matter preceding subparagraph (A), by striking
+under subchapter V of chapter 11 or chapter 12 or 13 of title 11
+and inserting
+chapter 12 of title 11 or subchapter V of
+chapter 11
+of title 11
+;
+(ii)
+in subparagraph (A), by striking
+under subchapter V of chapter 11 or chapter 12 or 13 of title 11
+and inserting
+chapter 12 of title 11 or subchapter V of
+chapter 11
+of title 11
+; and
+(iii)
+in subparagraph (B)(ii), by striking
+subparagraph (d)(1)(B)
+and inserting
+subparagraph (e)(1)(B)
+;
+(C)
+by redesignating paragraphs (3), (4), and (5) as paragraphs (5), (6), and (7), respectively; and
+(D)
+by inserting after paragraph (2) the following:
+(3)
+The Attorney General, after consultation with a United States trustee that has appointed an individual under subsection (b) of this section to serve as standing trustee in cases under
+chapter 10
+of title 11, shall fixâ
+(A)
+a maximum annual compensation for such individual consisting ofâ
+(i)
+an amount not to exceed the 1.25 times the highest annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5; and
+(ii)
+the cash value of employment benefits comparable to the employment benefits provided by the United States to individuals who are employed by the United States at the same rate of basic pay to perform similar services during the same period of time; and
+(B)
+a percentage fee not to exceed 10 percent.
+(4)
+An individual serving as standing trustee in cases under
+chapter 10
+of title 11 shall collect such percentage fee from all payments received by such individual (including the value of property tendered to such individual) under plans in such cases for which such individual serves as standing trustee. Such individual shall pay to the United States trustee, and the United States trustee shall deposit in the United States Trustee System Fundâ
+(A)
+any amount by which the actual compensation of such individual exceeds 5 percent upon all payments received under plans in such cases for which such individual serves as standing trustee; and
+(B)
+any amount by which the percentage fee for all such cases exceedsâ
+(i)
+such individualâs actual compensation for such cases, as adjusted under subparagraph (A) of paragraph (3); plus
+(ii)
+the actual, necessary expenses incurred by such individual as standing trustee in such cases. Subject to the approval of the Attorney General, any or all of the interest earned from the deposit of payments under plans by such individual may be utilized to pay actual, necessary expenses without regard to the percentage limitation contained in paragraph (3)(B) of this subsection.
+; and
+(5)
+by striking subsection (f).
+(b)
+Regulations
+Not later than 1 year after the date of enactment of this Act, the Attorney General shall promulgate regulations to implement a process for substituting a trustee under section 1001 of title 11, United States Code, when necessary.
+V
+Bankruptcy lien filing system
+501.
+Bankruptcy lien filing system
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, the Director of the Executive Office For United States Trustees shall establish a searchable electronic system for the filing of liens created by, or under, title 11, United States Code, includingâ
+(1)
+liens created under section 1028(i)(1) of that title; and
+(2)
+liens created pursuant to any order issued in a case under that title.
+(b)
+Regulations
+The Attorney General shall promulgate any necessary regulations to effectuate the establishment and operation of the filing system required under subsection (a), including regulations relating to the effect of the filing of a lien in the system.
+VI
+Miscellaneous
+601.
+Effective date
+The provisions of this Act and the amendments made by this Act shall take effect on the date that is 1 year after the date of enactment of this Act.
+602.
+Transition
+A case commenced under title 11, United States Code, before the date that is 1 year after the date of enactment of this Act, and all matters and proceedings in or relating to any such case, shall be conducted and determined as if this Act had not been enacted, and the substantive rights of parties in connection with any such bankruptcy case, matter, or proceeding shall continue to be governed by the law applicable to such case, matter, or proceeding as if the Act had not been enacted.
+603.
+Severability
+If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be invalid or unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provisions to any person or circumstance shall not be affected thereby.

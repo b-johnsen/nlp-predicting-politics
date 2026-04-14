@@ -1,0 +1,385 @@
+1.
+Short title
+This Act may be cited as the
+Nationwide Dig Once Act of 2020
+.
+2.
+Broadband infrastructure deployment
+(a)
+Definitions
+In this section:
+(1)
+Appropriate state agency
+The term
+appropriate State agency
+means a State governmental agency that is recognized by the executive branch of the State as having the experience necessary to evaluate and facilitate the installation and operation of broadband infrastructure within the State.
+(2)
+Broadband
+The term
+broadband
+has the meaning given the term
+advanced telecommunications capability
+in section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+).
+(3)
+Broadband conduit
+The term
+broadband conduit
+means a conduit or innerduct for fiber optic cables (or successor technology of greater quality and speed) that supports the provision of broadband.
+(4)
+Broadband infrastructure
+The term
+broadband infrastructure
+means any buried or underground facility and any wireless or wireline connection that enables the provision of broadband.
+(5)
+Broadband provider
+The term
+broadband provider
+means an entity that provides broadband to any person or facilitates provision of broadband to any person, including, with respect to such entityâ
+(A)
+a corporation, company, association, firm, partnership, nonprofit organization, or any other private entity;
+(B)
+a State or local broadband provider;
+(C)
+an Indian Tribe; and
+(D)
+a partnership between any of the entities described in subparagraphs (A), (B), and (C).
+(6)
+Covered highway construction project
+(A)
+In general
+The term
+covered highway construction project
+means, without regard to ownership of a highway, a project to construct a new highway or an additional lane for an existing highway, to reconstruct an existing highway, or new construction, including for a paved shoulder.
+(B)
+Exclusions
+The term
+covered highway construction project
+excludes any projectâ
+(i)
+awarded before the date on which regulations required under subsection (b) take effect;
+(ii)
+that does not include work beyond the edge of pavement or current paved shoulder; or
+(iii)
+that does not require excavation.
+(7)
+Dig once requirement
+The term
+dig once requirement
+means a requirement designed to reduce the cost and accelerate the deployment of broadband by minimizing the number and scale of repeated excavations for the installation and maintenance of broadband conduit or broadband infrastructure in rights-of-way.
+(8)
+Indian tribe
+The term
+Indian Tribe
+has the meaning given such term in section 4(e) of the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 5304(e)
+).
+(9)
+NTIA administrator
+The term
+NTIA Administrator
+means the Assistant Secretary of Commerce for Communications and Information.
+(10)
+Secretary
+The term
+Secretary
+means the Secretary of Transportation.
+(11)
+State
+The term
+State
+has the meaning given such term in section 101 of title 23, United States Code.
+(12)
+State or local broadband provider
+The term
+State or local broadband provider
+means a State or political subdivision thereof, or any agency, authority, or instrumentality of a State or political subdivision thereof, that provides broadband to any person or facilitates the provision of broadband to any person in that State.
+(13)
+Tribal government
+The term
+Tribal government
+means the recognized governing body of an Indian Tribe or any agency, authority, or instrumentality of such governing body or such Indian Tribe.
+(b)
+Dig once requirement
+To facilitate the installation of broadband infrastructure, the Secretary shall, not later than 9 months after the date of enactment of this Act, promulgate regulations to ensure that each State that receives funds under
+chapter 1
+of title 23, United States Code, meets the following requirements:
+(1)
+Broadband planning
+The State department of transportation, in consultation with appropriate State agencies, shallâ
+(A)
+identify a broadband coordinator, who may have additional responsibilities in the State department of transportation or in another State agency, that is responsible for facilitating the broadband infrastructure right-of-way efforts within the State; and
+(B)
+review existing State broadband plans, including existing dig once requirements of the State, municipal governments incorporated under State law, and Tribal governments within the State, to determine opportunities to coordinate projects occurring within or across highway rights-of-way with planned broadband infrastructure projects.
+(2)
+Notice of planned construction for broadband providers
+(A)
+Notice
+The State department of transportation, in consultation with appropriate State agencies, shall establish a processâ
+(i)
+for the registration of broadband providers that seek to be included in the advance notification of, and opportunity to participate in, broadband infrastructure right-of-way facilitation efforts within the State; and
+(ii)
+to electronically notify all broadband providers registered under clause (i)â
+(I)
+of the State transportation improvement program on at least an annual basis; and
+(II)
+of projects within the highway right-of-way for which Federal funding is expected to be obligated in the subsequent fiscal year.
+(B)
+Website
+A State department of transportation shall be considered to meet the requirements of subparagraph (A) if it publishes to a public websiteâ
+(i)
+the State transportation improvement program on at least an annual basis; and
+(ii)
+projects within the highway right-of-way for which Federal funding is expected to be obligated in the subsequent fiscal year.
+(C)
+Coordination
+The State department of transportation, in consultation with appropriate State agencies, shall establish a process for a broadband provider to commit to installing broadband conduit or broadband infrastructure as part of any project.
+(3)
+Required installation of conduit
+(A)
+In general
+The State department of transportation shall install broadband conduit, in accordance with this paragraph, except as described in subparagraph (F), as part of any covered highway construction project, unless a broadband provider has committed to install broadband conduit or broadband infrastructure as part of such project in a process described under paragraph (2)(C).
+(B)
+Installation requirements
+The State department of transportation shall ensure thatâ
+(i)
+an appropriate number of broadband conduits, as determined in consultation with the appropriate State agencies, are installed along the highway of a covered highway construction project to accommodate multiple broadband providers, with consideration given to the availability of existing conduits;
+(ii)
+the size of each such conduit is consistent with industry best practices and is sufficient to accommodate potential demand, as determined in consultation with the appropriate State agencies;
+(iii)
+hand holes and manholes necessary for fiber access and pulling with respect to such conduit are placed at intervals consistent with standards determined in consultation with the appropriate State agencies (which may differ by type of road, topologies, and rurality) and consistent with safety requirements;
+(iv)
+each broadband conduit installed pursuant to this paragraph includes a pull tape and is capable of supporting fiber optic cable placement techniques consistent with best practices; and
+(v)
+is placed at a depth consistent with requirements of the covered highway construction project and best practices and that, in determining the depth of placement, consideration is given to the location of existing utilities and cable separation requirements of State and local electrical codes.
+(C)
+Guidance for the installation of broadband conduit
+The Secretary, in consultation with the NTIA Administrator, shall issue guidance for best practices related to the installation of broadband conduit as described in this paragraph and of conduit and similar infrastructure for intelligent transportation systems (as such term is defined in section 501 of title 23, United States Code) that may utilize broadband conduit installed pursuant to this paragraph.
+(D)
+Access
+(i)
+In general
+The State department of transportation shall ensure that any requesting broadband provider has access to each broadband conduit installed pursuant to this paragraph, on a competitively neutral and nondiscriminatory basis, and in accordance with State permitting, licensing, leasing, or other similar laws and regulations.
+(ii)
+Fee schedule
+The State department of transportation, in consultation with appropriate State agencies, shall publish a fee schedule for a broadband provider to access conduit installed pursuant to this paragraph. Fees in such scheduleâ
+(I)
+shall be consistent with the fees established pursuant to section 224 of the Communications Act of 1934 (
+47 U.S.C. 224
+);
+(II)
+may vary by topography, location, type of road, rurality, and other factors in the determination of the State; and
+(III)
+may be updated not more frequently than annually.
+(iii)
+In-kind compensation
+The State department of transportation may negotiate in-kind compensation with any broadband provider requesting access to broadband conduit installed under the provisions of this paragraph as a replacement for part or all of, but not to exceed, the relevant fee in the fee schedule described in clause (ii).
+(iv)
+Safety considerations
+The State department of transportation shall require of broadband providers a process for safe access to the highway right-of-way during installation and on-going maintenance of the broadband fiber optic cables including a traffic control safety plan.
+(v)
+Communication
+A broadband provider with access to the conduit installed pursuant to this subsection shall notify and receive permission from the relevant agencies of State responsible for the installation of such broadband conduit prior to accessing any highway or highway right-of-way.
+(E)
+Treatment of projects
+Notwithstanding any other provision of law, broadband conduit and broadband infrastructure installation projects under this paragraph shall comply with section 113(a) of title 23, United States Code.
+(F)
+Waiver authority
+(i)
+In general
+A State department of transportation may waive the required installation of broadband conduit for part or all of any covered highway construction project under this paragraph if, in the determination of the Stateâ
+(I)
+broadband infrastructure, terrestrial broadband infrastructure, aerial broadband fiber cables, or broadband conduit is present near a majority of the length of the covered highway construction project;
+(II)
+the installation of conduit increases overall costs of a covered highway construction project by 1.5 percent or greater;
+(III)
+the installation of broadband conduit associated with covered highway construction project will not be utilized or connected to future broadband infrastructure in the next 20 years, in the determination of the State department of transportation, in consultation with appropriate State agencies and potentially affected local governments and Tribal governments;
+(IV)
+the requirements of this paragraph would require installation of conduit redundant with a dig once requirement of a local or Tribal government;
+(V)
+there exists a circumstance involving force majeure; or
+(VI)
+other relevant factors, as determined by the Secretary in consultation with the NTIA Administrator through regulation, warrant a waiver.
+(ii)
+Contents of waiver
+A waiver authorized under this subparagraph shallâ
+(I)
+identify the covered highway construction project; and
+(II)
+include a brief description of the determination of the State for issuing such waiver.
+(iii)
+Availability of waiver
+A waiver authorized under this subparagraph shall be included in the plans, specifications, and estimates for the associated project, as long as such info is publicly available.
+(4)
+Priority
+If a State provides for the installation of broadband infrastructure in the right-of-way of an applicable Federal-aid highway project under this subsection, the State department of transportation, along with appropriate State agencies, shall carry out appropriate measures to ensure that any existing broadband providers are afforded equal opportunity access, as compared to other broadband providers, with respect to the program under this subsection.
+(5)
+Consultation
+In promulgating regulations required by this subsection or to implement any part of this section, the Secretary shall consultâ
+(A)
+the NTIA Administrator;
+(B)
+the Federal Communications Commission;
+(C)
+State departments of transportation;
+(D)
+appropriate State agencies;
+(E)
+agencies of local governments responsible for transportation and rights-of-way, utilities, and telecommunications and broadband;
+(F)
+Tribal governments;
+(G)
+broadband providers; and
+(H)
+manufacturers of optical fiber, conduit, pull tape, and related items.
+(6)
+Prohibition on unfunded mandate
+(A)
+In general
+This subsection shall apply only to activities for which Federal obligations or expenditures are initially approved on or after the date regulations required under this subsection take effect.
+(B)
+No mandate
+Absent an available and dedicated Federal source of fundingâ
+(i)
+nothing in this subsection establishes a mandate or requirement that a State install broadband conduit in a highway right-of-way; and
+(ii)
+nothing in paragraph (3) shall establish any requirement for a State.
+(7)
+Rules of construction
+(A)
+State law
+Nothing in this subsection shall be construed to require a State to install or allow the installation of broadband conduit or broadband infrastructureâ
+(i)
+that is otherwise inconsistent with what is allowable under State law; or
+(ii)
+where the State lacks the authority or property easement necessary for such installation.
+(B)
+No requirement for installation of mobile services equipment
+Nothing in this section shall be construed to require a State, a municipal government incorporated under State law, or an Indian Tribe to install or allow for the installation of equipment essential for the provision of commercial mobile services (as defined in section 332(d) of the Communications Act of 1934 (
+47 U.S.C. 332(d)
+)) or commercial mobile data service (as defined in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 (
+47 U.S.C. 1401
+)), other than broadband conduit and associated equipment described in paragraph (3)(B).
+(c)
+Relation to state dig once requirements
+Nothing in subsection (b) or any regulations promulgated under subsection (b) shall be construed to alter or supersede any provision of a State law or regulation that provides for a dig once requirement that includes similar or more stringent requirements to the provisions of subsection (b) and any regulations promulgated under this subsection (b).
+(d)
+Dig once funding task force
+(1)
+Establishment
+There is established an independent task force on funding the nationwide dig once requirement described in this section to be known as the
+Dig Once Funding Task Force
+(hereinafter referred to as the
+Task Force
+).
+(2)
+Duties
+The duties of the Task Force shall be toâ
+(A)
+estimate the annual cost for implementing and administering a nationwide dig once requirement; and
+(B)
+propose and evaluate options for funding a nationwide dig once requirement described in this section that includesâ
+(i)
+a discussion of the role and potential share of costs ofâ
+(I)
+the Federal Government;
+(II)
+State, local, and Tribal governments; and
+(III)
+broadband providers; and
+(ii)
+consideration of the role of existing dig once requirements of State, local, and Tribal governments and private broadband investment, with a goal to not discourage or disincentivize such dig once requirements or such investment.
+(3)
+Reports
+(A)
+Interim report and briefing
+Not later than 9 months after the date of enactment of this Act, the Task Force shall submit an interim report to Congress and provide briefings for Congress on the findings of the Task Force.
+(B)
+Final report
+Not later than 12 months after the date of enactment of this Act, the Task Force shall submit a final report to Congress on the findings of the Task Force.
+(4)
+Members
+(A)
+Appointments
+The Task Force shall consist of 14 members, consisting ofâ
+(i)
+the 2 co-chairs described in subparagraph (B);
+(ii)
+6 members jointly appointed by the Speaker and minority leader of the House of Representatives, in consultation with the respective Chairs and Ranking Members of theâ
+(I)
+the Committee on Transportation and Infrastructure of the House of Representatives;
+(II)
+the Committee on Energy and Commerce of the House of Representatives; and
+(III)
+the Committee on Appropriations of the House of Representatives; and
+(iii)
+6 members jointly appointed by the majority leader and minority leader of the Senate, in consultation with the respective Chairs and Ranking Members ofâ
+(I)
+the Committee on Environment and Public Works of the Senate;
+(II)
+the Committee on Commerce, Science, and Transportation of the Senate; and
+(III)
+the Committee on Appropriations of the Senate.
+(B)
+Co-chairs
+The Task Force shall be co-chaired by the Secretary and the NTIA Administrator, or their designees.
+(C)
+Composition
+The Task Force shall include at leastâ
+(i)
+1 representative from a State department of transportation;
+(ii)
+1 representative from a local government;
+(iii)
+1 representative from a Tribal government;
+(iv)
+1 representative from a broadband provider;
+(v)
+1 representative from a State or local broadband provider; and
+(vi)
+1 representative from a public interest organization.
+(D)
+Appointment deadline
+Members shall be appointed to the Task Force not later than 60 days after the date of enactment of this Act.
+(E)
+Effect of lack of appointment by appointment date
+If 1 or more appointments required under subparagraph (A) is not made by the appointment date specified in subparagraph (D), the authority to make such appointment or appointments shall expire and the number of members of the Task Force shall be reduced by the number equal to the number of appointments so expired.
+(F)
+Terms
+Members shall be appointed for the life of the Task Force. A vacancy in the Task Force shall not affect its powers and shall be filled in the same manner as the initial appointment was made.
+(5)
+Consultations
+In carrying out the duties required under this subsection, the Task Force shall consult, at a minimumâ
+(A)
+the Federal Communications Commission;
+(B)
+agencies of States includingâ
+(i)
+State departments of transportation; and
+(ii)
+appropriate State agencies;
+(C)
+agencies of local governments responsible for transportation and rights of way, utilities, and telecommunications and broadband;
+(D)
+Tribal governments;
+(E)
+broadband providers and other telecommunications providers; and
+(F)
+State or local broadband providers and Tribal governments that act as broadband providers.
+(6)
+Additional provisions
+(A)
+Expenses for non-federal members
+Non-Federal members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees under subchapter I of
+chapter 57
+of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Task Force.
+(B)
+Staff
+Staff of the Task Force shall comprise detailees with relevant expertise from the Department of Transportation and the National Telecommunications and Information Administration, or another Federal agency the co-chairpersons consider appropriate, with the consent of the head of the Federal agency, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+(C)
+Administrative assistance
+The Secretary and NTIA Administrator shall provide to the Task Force on a reimbursable basis administrative support and other services for the performance of the functions of the Task Force.
+(7)
+Termination
+The Task Force shall terminate not later than 90 days after issuance of the final report required under paragraph (3)(B).

@@ -1,0 +1,112 @@
+1.
+Privacy of customers of broadband Internet access service and other telecommunications services
+(a)
+In general
+Section 222 of the Communications Act of 1934 (
+47 U.S.C. 222
+) is amendedâ
+(1)
+by redesignating subsection (h) as subsection (i); and
+(2)
+by inserting after subsection (g) the following:
+(h)
+Privacy of customers of broadband Internet access service and other telecommunications services
+(1)
+Definitions
+In this subsectionâ
+(A)
+the term
+broadband Internet access service
+has the meaning given the term in section 8.2 of title 47, Code of Federal Regulations, or any successor regulation;
+(B)
+the term
+customer
+meansâ
+(i)
+a current or former subscriber to a telecommunications service; or
+(ii)
+an applicant for a telecommunications service;
+(C)
+the term
+customer proprietary information
+means, with respect to information or content that a telecommunications carrier acquires in connection with its provision of telecommunications serviceâ
+(i)
+individually identifiable customer proprietary network information;
+(ii)
+personally identifiable information; and
+(iii)
+content of communications;
+(D)
+the term
+opt-in approval
+means a method for a telecommunications carrier to obtain customer consent to use, disclose, or permit access to the customer's customer proprietary information that requires that the telecommunications carrier obtain from the customer affirmative, express consent allowing the requested usage, disclosure, or access to the customer proprietary information after the customer is provided appropriate notification of the carrierâs request;
+(E)
+the term
+sensitive customer proprietary information
+includesâ
+(i)
+financial information;
+(ii)
+health information;
+(iii)
+information pertaining to children;
+(iv)
+Social Security numbers;
+(v)
+precise geolocation information;
+(vi)
+content of communications;
+(vii)
+call detail information;
+(viii)
+web browsing history, application usage history, and the functional equivalents of either; and
+(ix)
+any other customary proprietary information that the Commission determines to be sensitive; and
+(F)
+the term
+telecommunications service
+includes broadband Internet access service and interconnected VoIP service.
+(2)
+Regulations
+In carrying out this section, the Commission shall promulgate regulations to protect the privacy of customers of telecommunications service.
+(3)
+Contents
+In promulgating regulations under paragraph (2), the Commission shallâ
+(A)
+require a telecommunications carrier to notify a customer about the collection, use, and sharing of his or her customer proprietary information, including byâ
+(i)
+notifying the customer about the types of customer proprietary information the carrier collects;
+(ii)
+specifying how and for what purposes the carrier uses and shares customer proprietary information; and
+(iii)
+identifying the types of entities with which the carrier shares customer proprietary information;
+(B)
+require a telecommunications carrier toâ
+(i)
+provide the notification under subparagraph (A) to a customer at the point of sale, before the purchase of service; and
+(ii)
+update a customer when the carrier makes a material change to a privacy policy, including any of the policies described in subparagraph (A);
+(C)
+require a telecommunications carrier to obtain opt-in approval from a customer to use and share his or her sensitive customer proprietary information;
+(D)
+implement strong protection for de-identified customary proprietary information, to prevent re-identifying such information;
+(E)
+prohibit a telecommunications carrier from refusing to serve a customer who doesnât consent to the use and sharing of his or her customer proprietary information for commercial purposes (commonly known as
+take-it-or-leave-it offers
+); and
+(F)
+require a telecommunications carrier toâ
+(i)
+develop reasonable data security practices; and
+(ii)
+notify customers if a breach of security has occurred.
+.
+(b)
+Deadline
+The Federal Communications Commissionâ
+(1)
+not later than 180 days after the date of enactment of this Act, shall promulgate regulations under section 222(h)(2) of the Communications Act of 1934 (
+47 U.S.C. 222(h)(2)
+), as added by subsection (a); and
+(2)
+shall ensure that the regulations promulgated under paragraph (1) take effect not later than 180 days after the date of promulgation.

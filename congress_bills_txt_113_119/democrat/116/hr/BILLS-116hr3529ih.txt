@@ -1,0 +1,215 @@
+1.
+Short title
+This Act may be cited as the
+Achieving Lasting Electoral Reforms on Transparency and Security Act
+or the
+ALERTS Act
+.
+2.
+Findings; Sense of Congress
+(a)
+Findings
+Congress finds as follows:
+(1)
+Free and fair elections are central to our democratic system of government.
+(2)
+An attack on election systems in the United States by a foreign government is a hostile act, and protecting our election systems from such attacks is a critical national security objective.
+(3)
+The March 2019
+Report on the Investigation into Russian Interference in the 2016 Presidential Election
+, known as the Mueller Report, concludes that Russian military intelligence officers targeted individuals and entities involved in the administration of the November 2016 elections, including State boards of elections, Secretaries of State, county governments, and private technology firms responsible for manufacturing and administering election-related software and hardware.
+(4)
+The Mueller Report states that Russian military intelligence officers sent spearphishing emails to over 120 email accounts used by Florida county officials responsible for administering the 2016 elections, and further states that the Federal Bureau of Investigation
+believes that this operation enabled Russian military intelligence officers to gain access to the network of at least one Florida county government
+.
+(5)
+In May 2019, it came to light that Russian military intelligence officers had gained access to the computer network of a second Florida county in the run-up to the 2016 elections.
+(6)
+To date, government officials have not publicly disclosed or confirmed the identity of the Florida counties whose voter registration systems were breached.
+(7)
+As a result, voters in affected counties do not possess the information necessary to take appropriate responsive action, such as taking affirmative steps to confirm that their individual registration data is accurate and holding State and local election officials accountable for their actions or inactions.
+(b)
+Sense of Congress
+It is the sense of Congress that the principal victim of an attack on election systems in the United States is the voting public and, except in certain narrowly defined cases, the voting public should be promptly informed if Federal officials have credible evidence of an unauthorized intrusion into an election system and a basis to believe that such intrusion could have resulted in voter information systems or voter tabulation systems being altered or otherwise affected.
+3.
+Definitions
+In this Act, the following definitions apply:
+(1)
+Appropriate Members of Congress
+The term
+appropriate Members of Congress
+means, with respect to a notification described in section 3(b)(2)â
+(A)
+the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the chairs and ranking minority members of the Committees on House Administration, Homeland Security, the Judiciary, and Permanent Select Committee on Intelligence of the House of Representatives, and each Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) who represents a congressional district in which the unit of local government involved is located; and
+(B)
+the Majority Leader of the Senate, the Minority Leader of the Senate, the chairs and ranking minority members of the Committees on Rules and Administration, Homeland Security and Governmental Affairs, the Judiciary, and Select Committee on Intelligence of the Senate, and the Senators who represent the State involved.
+(2)
+Department
+The term
+Department
+means the Department of Homeland Security.
+(3)
+Election agency
+The term
+election agency
+means any component of a State or any component of a unit of local government of a State that is responsible for administering Federal elections.
+(4)
+Election cybersecurity incident
+The term
+election cybersecurity incident
+means any incident, as defined in section 2209(a)(3) of the Homeland Security Act of 2002 (
+6 U.S.C. 659(a)(3)
+), involving an election system.
+(5)
+Election system
+The term
+election system
+means a voting system, an election management system, a voter registration website or database, an electronic pollbook, a system for tabulating or reporting election results, an election agency communications system, or any other information system (as defined in section 3502 of title 44, United States Code) that the Secretary identifies as central to the management, support, or administration of a Federal election.
+(6)
+Federal election
+The term
+Federal election
+means any election (as defined in section 301(1) of the Federal Election Campaign Act of 1971 (
+52 U.S.C. 30101(1)
+)) for Federal office (as defined in section 301(3) of the Federal Election Campaign Act of 1971 (
+52 U.S.C. 30101(3)
+)).
+(7)
+Federal entity
+The term
+Federal entity
+means any agency (as defined in section 551 of title 5, United States Code).
+(8)
+Local election official
+The term
+local election official
+means the chief election official of a component of a unit of local government of a State that is responsible for administering Federal elections.
+(9)
+Secretary
+The term
+Secretary
+means the Secretary of Homeland Security.
+(10)
+State
+The term
+State
+means each of the several States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+(11)
+State election official
+The term
+State election official
+meansâ
+(A)
+the chief State election official of a State designated under section 10 of the National Voter Registration Act of 1993 (
+52 U.S.C. 20509
+); or
+(B)
+in the case of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the United States Virgin Islands, a chief State election official designated by the State for purposes of this Act.
+(12)
+Voting system
+The term
+voting system
+has the meaning given the term in section 301(b) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(b)
+).
+4.
+Duty of Secretary of Homeland Security to notify State and local officials and appropriate Members of Congress of unauthorized intrusions into election systems
+(a)
+Duty To share information with Department of Homeland Security
+If a Federal entity receives information about an election cybersecurity incident, the Federal entity shall promptly share that information with the Department, unless the head of the entity (or a Senate-confirmed official designated by the head) makes a specific determination in writing that there is good cause to withhold the particular information.
+(b)
+Response to receipt of information by Secretary of Homeland Security
+(1)
+In general
+Upon receiving information about an election cybersecurity incident under subsection (a), the Secretary, in consultation with the Attorney General and the Director of National Intelligence, shall promptly (but in no case later than 96 hours after receiving the information) review the information and make a determination whether each of the following apply:
+(A)
+There is credible evidence that an unauthorized intrusion into an election system occurred.
+(B)
+There is a basis to believe that the unauthorized intrusion resulted, could have resulted, or could result in voter information systems or voter tabulation systems being altered or otherwise affected.
+(2)
+Duty to notify State and local officials and appropriate Members of Congress
+(A)
+Duty described
+If the Secretary makes a determination under paragraph (1) that subparagraphs (A) and (B) of such paragraph apply with respect to an unauthorized intrusion into an election system, not later than 48 hours after making the determination, the Secretary shall provide a notification of the unauthorized intrusion to each of the following:
+(i)
+The chief executive of the State involved.
+(ii)
+The State election official of the State involved.
+(iii)
+The local election official of the election agency involved.
+(iv)
+The appropriate Members of Congress.
+(B)
+Treatment of classified information
+(i)
+Efforts to avoid inclusion of classified information
+In preparing a notification provided under this paragraph to an individual described in clause (i), (ii), or (iii) of subparagraph (A), the Secretary shall attempt to avoid the inclusion of classified information.
+(ii)
+Providing guidance to State and local officials
+To the extent that a notification provided under this paragraph to an individual described in clause (i), (ii), or (iii) of subparagraph (A) includes classified information, the Secretary (in consultation with the Attorney General and the Director of National Intelligence) shall indicate in the notification which information is classified.
+(3)
+Exception
+(A)
+In general
+If the Secretary, in consultation with the Attorney General and the Director of National Intelligence, makes a determination that it is not possible to provide a notification under paragraph (1) with respect to an unauthorized intrusion without compromising intelligence methods or sources or interfering with an ongoing investigation, the Secretaryâ
+(i)
+shall not provide the notification under such paragraph; and
+(ii)
+shall, not later than 48 hours after making the determination under this subparagraph, provide a classified briefing on the unauthorized intrusion to the appropriate Members of Congress.
+(B)
+Ongoing review
+Not later than 30 days after making a determination under subparagraph (A) and every 30 days thereafter, the Secretary shall review the determination. If, after reviewing the determination, the Secretary makes a revised determination that it is possible to provide a notification under paragraph (2) without compromising intelligence methods or sources or interfering with an ongoing investigation, the Secretary shall provide the notification under paragraph (2) not later than 48 hours after making such revised determination.
+(c)
+Effective date
+This section shall apply with respect to information about an election cybersecurity incident which is received on or after the date of the enactment of this Act.
+5.
+Responsibilities of State and local officials to notify affected individuals
+(a)
+Responsibilities described
+Title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21081
+et seq.) is amended by inserting after section 303 the following new section:
+303A.
+Responsibilities of State and local officials to notify individuals affected by unauthorized intrusions into election systems
+(a)
+Responsibilities described
+If a State or unit of local government receives a notification from the Secretary of Homeland Security under section 4 of the Achieving Lasting Electoral Reforms on Transparency and Security Act of an unauthorized intrusion described in such section, the State election official and the appropriate local election official shall provide notification of the intrusion to the individuals who were affected, could have been affected, or may be affected by the intrusion.
+(b)
+Contents and manner of notification
+The notification provided under this section shall be in such form and manner as the State election official may establish, except thatâ
+(1)
+the notification shall not reveal classified information about the nature of the intrusion or the persons suspected of making the intrusion;
+(2)
+the notification shall be provided in a manner that does not discourage any individual from voting or registering to vote; and
+(3)
+nothing in this section shall be construed to require an election official to provide a separate notification to each affected individual.
+(c)
+Deadline
+The State election official or the appropriate election official shall provide the notification required under this section as soon as practicable after the official receives the notification from the Secretary of Homeland Security under section 4 of the Achieving Lasting Electoral Reforms on Transparency and Security Act, but in no event later thanâ
+(1)
+48 hours before the date of the next election for public office held in the State or unit of local government involved; or
+(2)
+30 days after receiving the notification,
+whichever is earlier.
+(d)
+Definitions
+In this section, the terms
+State
+and
+State election official
+each have the meaning given such term in the Achieving Lasting Electoral Reforms on Transparency and Security Act.
+.
+(b)
+Conforming amendment relating to enforcement
+Section 401 of such Act (
+52 U.S.C. 21111
+) is amended by striking
+sections 301, 302, and 303
+and inserting
+subtitle A of title III
+.
+(c)
+Clerical amendment
+The table of contents of such Act is amended by inserting after the item relating to section 303 the following new item:
+303A. Responsibilities of State and local officials to notify individuals affected by unauthorized intrusions into election systems.
+.

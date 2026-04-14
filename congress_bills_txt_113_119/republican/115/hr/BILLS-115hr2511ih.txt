@@ -1,0 +1,1299 @@
+1.
+Short title
+(a)
+Short title
+This Act may be cited as the
+Defense Acquisition Streamlining and Transparency Act
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec.â1.âShort title.
+Title IâAcquisition System Streamlining
+Sec.â101.âProcurement through online marketplaces.
+Sec.â102.âPerformance of incurred cost audits.
+Sec.â103.âModifications to cost or pricing data and reporting requirements.
+Title IIâEarly Investments in Acquisition Programs
+Sec.â201.âRequirement to emphasize reliability and maintainability in weapon system design.
+Sec.â202.âLicensing of appropriate intellectual property to support major weapon systems.
+Sec.â203.âManagement of intellectual property matters within the Department of Defense.
+Sec.â204.âImprovement of planning for acquisition of services.
+Sec.â205.âImprovements to test and evaluation processes and tools.
+Title IIIâAcquisition Workforce Improvements
+Sec.â301.âEnhancements to the civilian program management workforce.
+Sec.â302.âImprovements to the hiring and training of the acquisition workforce.
+Sec.â303.âExtension and modifications to acquisition demonstration project.
+Sec.â304.âAcquisition positions in the Offices of the Secretaries of the military departments.
+Title IVâTransparency Improvements
+Sec.â401.âTransparency of defense business system data.
+Sec.â402.âMajor defense acquisition programs: display of budget information.
+Sec.â403.âEnhancements to transparency in test and evaluation processes and data.
+I
+Acquisition System Streamlining
+101.
+Procurement through online marketplaces
+(a)
+Establishment of program
+The Secretary of Defense shall establish a program to procure commercial products through online marketplaces for purposes of expediting procurement and ensuring reasonable pricing of commercial products. The Secretary shall carry out the program in accordance with this section, through one or more contracts with one or more online marketplace providers, and shall design the program to enable Department of Defense-wide use of such marketplaces.
+(b)
+Criteria for online marketplaces
+The Secretary shall ensure that an online marketplace used under the program established pursuant to subsection (a)â
+(1)
+is used widely in the private sector, including in business-to-business e-commerce;
+(2)
+provides dynamic selection, in which suppliers and products may be frequently updated, and dynamic pricing, in which suppliers may frequently update product prices;
+(3)
+enables offers from multiple suppliers on the same or similar products to be sorted or filtered based on product and shipping price, delivery date, and reviews of suppliers or products;
+(4)
+does not feature or prioritize a product of a supplier based on any compensation or fee paid to the online marketplace by the supplier that is exclusively for such featuring or prioritization on the online marketplace;
+(5)
+provides procurement oversight controls, including spending limits, order approval, and order tracking;
+(6)
+provides consolidated invoicing, payment, and customer service functions on behalf of all suppliers;
+(7)
+satisfies requirements for supplier and product screening in subsection (c); and
+(8)
+collects information necessary to fulfill the information requirements in subsection (g).
+(c)
+Supplier and product screening
+The Secretary shallâ
+(1)
+provide or ensure electronic availability to an online marketplace provider awarded a contract pursuant to subsection (a), no less frequently than the first day of each monthâ
+(A)
+the list of suspended and debarred contractors contained in the System of Award Management maintained by the General Services Administration;
+(B)
+a list of suppliers, by product category, that satisfy the requirements of section 2533a or 2533b of title 10, United States Code; and
+(C)
+a list of products, by supplier, that are suitable for the Federal Government to procure pursuant to section 8503 of title 41, United States Code; and
+(2)
+ensure that an online marketplace used under the program established pursuant to subsection (a) provides the ability to search suppliers and products and identify such suppliers and products as authorized or not authorized for purchase during the procurement and order approval process based on the most recent lists provided pursuant to paragraph (1).
+(d)
+Relationship to other provisions of law
+Notwithstanding any other provision of law, a procurement of a product made through an online marketplace under the program established pursuant to subsection (a)â
+(1)
+is deemed to satisfy requirements for full and open competition pursuant to section 2304 of title 10, United States Code, and section 3301 of title 41, United States Code, if there are offers from two or more suppliers of such a product on the online marketplace;
+(2)
+is deemed to be a procurement of a commercial product if the product has been purchased within the previous year by a non-Government entity through the online marketplace; and
+(3)
+is deemed to be an award of a prime contract for purposes of the Governmentwide goals established under section 15(g) of the Small Business Act (
+15 U.S.C. 644(g)
+), if the purchase is from a supplier that is a small business concern (as defined under section 3 of the Small Business Act (
+15 U.S.C. 632
+)).
+(e)
+Requirement To use standard terms and conditions of online marketplaces
+Notwithstanding any other provision of law, a procurement of a product through a commercial online marketplace used under the program established pursuant to subsection (a) shall be made under the standard terms and conditions of the marketplace relating to purchasing on the marketplace, and the Secretary shall not require an online marketplace to modify its standard terms and conditions as a condition of receiving a contract pursuant to subsection (a).
+(f)
+Procedures for award of contract
+Notwithstanding section 2304 of title 10, United States Code, or any other provision of law, the award of a contract to an online marketplace provider pursuant to subsection (a) may be made without the use of full and open competition.
+(g)
+Order information
+(1)
+In general
+The Secretary of Defense shall require each online marketplace provider awarded a contract pursuant to subsection (a) to provide to the Department of Defense, not less frequently than the first day of each month, the ability to electronically access the following information with respect to each product ordered during the preceding month:
+(A)
+The product name and description.
+(B)
+The date and time of the order.
+(C)
+The product price.
+(D)
+The Department of Defense purchaser and, if appropriate, the official who authorized the purchase.
+(E)
+The delivery address specified in the order for the product.
+(F)
+The number of suppliers that offered the same product on the same date and time that the product was ordered.
+(2)
+Data system
+The Secretary shall ensure that order information listed in paragraph (1) is entered into the Federal Procurement Data System described in section 1122 of title 41, United States Code.
+(h)
+Limitation on information disclosure
+In any contract awarded to an online marketplace provider pursuant to subsection (a), the Secretary of Defense shall require that the provider agree not to sell or otherwise make available to any third party any of the information listed in subsection (g)(1) in a manner that identifies the Federal Government, or any of its departments or agencies, as the purchaser, except with written consent of the Secretary.
+(i)
+Definitions
+In this section:
+(1)
+Online marketplace provider
+The term
+online marketplace provider
+means a commercial, non-Government entity providing an online portal for the purchase of commercial products. The term does not include an online portal managed by the Government for, or predominantly for use by, Government agencies.
+(2)
+Commercial product
+The term
+commercial product
+means a commercially available off-the-shelf item, as defined in section 104 of title 41, United States Code, except the term does not include services.
+102.
+Performance of incurred cost audits
+(a)
+In general
+(1)
+Performance of incurred cost audits
+Chapter 137
+of title 10, United States Code, is amended by inserting after
+section 2313a
+the following new section:
+2313b.
+Performance of incurred cost audits
+(a)
+Compliance with standards of risk and materiality
+For purposes of performing an incurred cost audit of costs associated with a contract of the Department of Defense, the Secretary of Defense shall comply with commercially accepted standards of risk and materiality.
+(b)
+Audits of indirect costs
+Notwithstanding any other provision of law, a contractor of the Department of Defense may present, and the Secretary of Defense shall accept without performing additional audits or reviews, a summary of audit findings on indirect costs of the contractor that were prepared by a commercial auditor ifâ
+(1)
+the contractor does not have a predominance of cost-type contracts as a percentage of sales;
+(2)
+the commercial auditor previously performed an audit of the allowability, measurement, assignment to accounting periods, and allocation of indirect costs of the contractor; and
+(3)
+such audit was performed using relevant commercial accounting standards (such as Generally Accepted Accounting Principles) established by the commercial auditing industry for the relevant accounting period.
+(c)
+Selection of auditing entity To perform incurred cost audits
+(1)
+For an incurred cost audit of a contract of the Department of Defense for which an indirect cost audit has not been performed pursuant to subsection (b), the Defense Contract Management Agency or a contract administration office of a military department shall have the authority to select the Defense Contract Audit Agency or a qualified private auditor to perform an incurred cost audit, based upon guidelines thatâ
+(A)
+are issued by an audit planning committee that is comprised of one representative from each of the office of the Under Secretary of Defense for Acquisition and Sustainment, the Defense Contract Management Agency, a contract administration office of a military department, and the Defense Contract Audit Agency;
+(B)
+ensures that, after September 1, 2020, not less than 25 percent of incurred costs are audited by qualified private auditors; and
+(C)
+ensures that multi-year auditing is conducted only to address any backlog of incurred cost audits of the Defense Contract Audit Agency in existence on the date of the enactment of this section.
+(2)
+(A)
+Not later than September 1, 2020, the Secretary of Defense shall award an indefinite delivery-indefinite quantity task order contract to two or more qualified private auditors to perform incurred cost audits of costs associated with contracts of the Department of Defense.
+(B)
+The Defense Contract Management Agency, a contract administration office of a military department, or the Defense Contract Audit Agency may issue a task order to perform an incurred cost audit to a qualified private auditor under a task order contract awarded under subparagraph (A). Such task order may be issued only to a qualified private auditor that certifies that the qualified private auditor has no conflict of interest in performing such an audit.
+(C)
+The Defense Contract Audit Agency may not conduct further audit or review of an incurred cost audit performed by a qualified private auditor pursuant to this section.
+(3)
+(A)
+Effective September 1, 2022, the Defense Contract Audit Agency may issue unqualified audit findings for an incurred cost audit only if the Defense Contract Audit Agency is peer reviewed by a commercial auditor and passes such peer review.
+(B)
+The peer review referred to in subparagraph (A) shall occur not less frequently than once every three years.
+(4)
+The Secretary of Defense shall consider the results of an incurred cost audit performed under this section without regard to whether the Defense Contract Audit Agency or a qualified private auditor performed the audit.
+(5)
+The contracting officer for a contract that is the subject of an incurred cost audit shall have the sole discretion to accept or reject an audit finding on direct costs of the contract.
+(d)
+Materiality standards for incurred cost audits
+(1)
+Not later than September 1, 2020, and except as provided in paragraph (2), the minimum materiality standard used by an auditor shallâ
+(A)
+for an incurred cost audit of costs in an amount less than or equal to $100,000, be 4 percent of such costs;
+(B)
+for an incurred cost audit of costs in an amount greater than $100,000 but less than $500,000, be $2,000 plus 2 percent of such costs;
+(C)
+for an incurred cost audit of costs in an amount greater than $500,000 but less than $1,000,000, be $5,000 plus 1 percent of such costs;
+(D)
+for an incurred cost audit of costs in an amount greater than $1,000,000 but less than $5,000,000, be $8,000 plus 0.9 percent of such costs;
+(E)
+for an incurred cost audit of costs in an amount greater than $5,000,000 but less than $10,000,000, be $13,000 plus 0.8 percent of such costs;
+(F)
+for an incurred cost audit of costs in an amount greater than $10,000,000 but less than $50,000,000, be $23,000 plus 0.7 percent of such costs;
+(G)
+for an incurred cost audit of costs in an amount greater than $50,000,000 but less than $100,000,000, be $73,000 plus 0.6 percent of such costs;
+(H)
+for an incurred cost audit of costs in an amount greater than $100,000,000 but less than $500,000,000, be $153,000 plus 0.52 percent of such costs; and
+(I)
+for an incurred cost audit of costs in an amount greater than $500,000,000, be $503,000 plus 0.45 percent of such costs.
+(2)
+An auditor that performs an incurred cost audit under this section may use a materiality standard of a lesser amount than the materiality standard described under paragraph (1) with respect to a particular qualified incurred cost submission from a contractor based on an assessment of risk presented by such qualified incurred cost submission. The risk shall be assessed by the auditor in accordance with generally accepted Government auditing standards and guidance issued by the Secretary of Defense.
+(3)
+Not later than September 1, 2020, and every 5 years thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on commercially accepted standards of risk and materiality for performing incurred cost audits. The report may contain recommendations to modify the materiality standards under paragraph (1) to be consistent with such commercially accepted standards of risk and materiality.
+(e)
+Timeliness of incurred cost audits
+(1)
+The Secretary of Defense shall ensure that all incurred cost audits performed pursuant to subsection (c) are performed in a timely manner.
+(2)
+The Secretary of Defense shall notify a contractor within 30 days after receipt of an incurred cost submission from the contractor whether the submission is a qualified incurred cost submission.
+(3)
+Audit findings shall be issued for an incurred cost audit not later than one year after the date of receipt of a qualified incurred cost submission.
+(4)
+If audit findings are not issued within one year after the date of receipt of a qualified incurred cost submission, such qualified incurred cost submission shall be considered accepted in its entirety unless the Secretary of Defense can demonstrate that the contractor unreasonably withheld information necessary to perform the incurred cost audit.
+(f)
+Review of audit performance
+Not later than April 1, 2025, the Comptroller General of the United States shall provide a report to the congressional defense committees that evaluates for the period beginning on September 1, 2020, and ending on August 31, 2023â
+(1)
+the timeliness, individual cost, and quality of incurred cost audits, set forth separately by incurred cost audits performed by the Defense Contract Audit Agency and by qualified private auditors;
+(2)
+the cost to contractors of the Department of Defense for incurred cost audits, set forth separately by incurred cost audits performed by the Defense Contract Audit Agency and by qualified private auditors;
+(3)
+the effect, if any, on other types of audits conducted by the Defense Contract Audit Agency that results from incurred cost audits conducted by qualified private auditors; and
+(4)
+the capability and capacity of commercial auditors to conduct incurred cost audits for the Department of Defense.
+(g)
+Definitions
+In this section:
+(1)
+The term
+commercial auditor
+means a private entity engaged in the business of performing audits.
+(2)
+The term
+incurred cost audit
+means an audit of charges to the Government by a contractor under a cost-type contract or a contract that is not a fixed-price contract.
+(3)
+The term
+materiality standard
+means a dollar amount of misstatements, including omissions, contained in an incurred cost audit that would be material if the misstatements, individually or in the aggregate, could reasonably be expected to influence the economic decisions of the Government made on the basis of the incurred cost audit.
+(4)
+The term
+qualified incurred cost submission
+means a submission by a contractor of costs incurred under a cost-type contract or a contract that is not a fixed-price contract that has been qualified by the Department of Defense as sufficient to conduct an incurred cost audit.
+(5)
+The term
+qualified private auditor
+means a commercial auditorâ
+(A)
+that performs audits in accordance with generally accepted Government auditing standards of the Comptroller General of the United States; and
+(B)
+that has been peer reviewed, consistent with commercially accepted peer review processes, and has passed such peer review.
+.
+(2)
+Clerical amendment
+The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 2313a the following new item:
+2313b. Performance of incurred cost audits.
+.
+(b)
+Conforming amendment
+Section 190 of title 10, United States Code, as proposed to be added by section 820(b)(1) of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+; 130 Stat. 2274), is amended by striking subsection (f).
+103.
+Modifications to cost or pricing data and reporting requirements
+(a)
+Modifications to submissions of cost or pricing data
+(1)
+Title 10
+Subsection (a) of section 2306a of title 10, United States Code, is amendedâ
+(A)
+by striking
+December 5, 1990
+each place it appears and inserting
+June 30, 2018
+;
+(B)
+by striking
+December 5, 1991
+each place it appears and inserting
+July 1, 2018
+;
+(C)
+by striking
+$100,000
+each place it appears and inserting
+$750,000
+;
+(D)
+in paragraph (1)â
+(i)
+in subparagraphs (A)(i), (B)(i), (C)(i), (C)(ii), and (D)(i), by striking
+$500,000
+and inserting
+$2,500,000
+; and
+(ii)
+in subparagraph (B)(ii), by striking
+$500,000
+and inserting
+$750,000
+;
+(E)
+in paragraph (6), by striking
+December 5, 1990
+and inserting
+June 30, 2018
+; and
+(F)
+in paragraph (7), by striking
+to the amount
+and all that follows through
+higher multiple of $50,000.
+and inserting
+in accordance with section 1908 of title 41.
+.
+(2)
+Title 41
+Section 3502 of title 41, United States Code, is amendedâ
+(A)
+in subsection (a)â
+(i)
+by striking
+October 13, 1994
+each place it appears and inserting
+June 30, 2018
+;
+(ii)
+by striking
+$100,000
+each place it appears and inserting
+$750,000
+;
+(iii)
+in paragraphs (1)(A), (2)(A), (3)(A), (3)(B), and (4)(A), by striking
+$500,000
+and inserting
+$2,500,000
+; and
+(iv)
+in paragraph (2)(B), by striking
+$500,000
+and inserting
+$750,000
+;
+(B)
+in subsection (f), by striking
+October 13, 1994
+and inserting
+June 30, 2018
+; and
+(C)
+in subsection (g), by striking
+to the amount
+and all that follows through
+higher multiple of $50,000.
+and inserting
+in accordance with section 1908.
+.
+(b)
+Requirements for Defense Contract Audit Agency report
+(1)
+In general
+Section 2313a of title 10, United States Code, is amendedâ
+(A)
+in subsection (a)(2)â
+(i)
+in subparagraph (A)â
+(I)
+by inserting
+and dollar value
+after
+number
+; and
+(II)
+by inserting
+, set forth separately by type of audit
+after
+pending
+;
+(ii)
+in subparagraph (C), by inserting
+, both from the date of receipt of a qualified incurred cost submission (as defined in section 2313b of this title) and from the date the audit begins
+after
+audit
+;
+(iii)
+by amending subparagraph (D) to read as follows:
+(D)
+the sustained questioned costs, set forth separately by type of audit, both as a total value and as a percentage of the total questioned costs for the audit;
+;
+(iv)
+by striking subparagraph (E); and
+(v)
+by inserting after subparagraph (D) the following new subparagraphs:
+(E)
+the aggregate cost of performing audits, set forth separately by type of audit;
+(F)
+the ratio of sustained questioned costs to the aggregate costs of performing audits, set forth separately by type of audit; and
+(G)
+the total number and dollar value of audits that are pending for a period longer than one year as of the end of the fiscal year covered by the report, and the fiscal year in which the qualified submission was received, set forth separately by type of audit;
+; and
+(B)
+by adding at the end the following new subsection:
+(d)
+Sustained questioned costs defined
+The term
+sustained questioned costs
+means questioned costs that were recovered by the Federal Government as a result of contract negotiations related to such questioned costs.
+.
+(2)
+Exemption to report termination requirements
+Section 1080 of the National Defense Authorization Act for Fiscal Year 2016 (
+Public Law 114â92
+; 129 Stat. 1000;
+10 U.S.C. 111
+note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code.
+(c)
+Adjustment to value of covered contracts for requirements relating to allowable costs
+Subparagraph (B) of section 2324(l)(1) of title 10, United States Code, is amended by striking
+to the equivalent
+and all that follows through
+higher multiple of $50,000.
+and inserting
+in accordance with section 1908 of title 41.
+.
+II
+Early Investments in Acquisition Programs
+201.
+Requirement to emphasize reliability and maintainability in weapon system design
+(a)
+Sustainment factors in weapon system design
+(1)
+In general
+Chapter 144
+of title 10, United States Code, is amended by adding at the end the following new section:
+2442.
+Sustainment factors in weapon system design
+(a)
+In general
+The Secretary of Defense shall ensure that the defense acquisition system gives ample emphasis to sustainment factors, particularly those factors that are affected principally by the design of a weapon system, early in the development of a weapon system.
+(b)
+Requirements process
+The Secretary shall revise guidance on the process for the development of capabilities requirements to provide sufficient emphasis to sustainment factors. The revised guidance shall include reliability and maintainability as performance attributes of the key performance parameter on sustainment.
+(c)
+Solicitation and award of contracts
+(1)
+Requirement
+The program manager of a weapon system shall include in the solicitation for and terms of a contract for the development or production of a weapon system clearly defined and measurable requirements for reliability and maintainability as a performance requirement in the contract.
+(2)
+Exception
+If the program manager determines that reliability or maintainability should not be a performance requirement in a contract, the program manager shall submit justification for such decision in writing to the milestone decision authority for the program.
+(3)
+Revised guidance on source selection criteria
+The Secretary shall revise guidance in the Defense Federal Acquisition Regulation Supplement to provide sufficient emphasis to sustainment factors in the process for source selection. The revised guidance shall include reliability and maintainability as factors or significant subfactors to consider in the evaluation of competitive proposals.
+(d)
+Contract performance
+(1)
+In general
+The Secretary shall establish processes and best practices across the Department of Defense for responding to the positive or negative performance of a contractor in meeting the sustainment requirements of a development or production contract for a weapon system. The Secretary shall encourage the use of incentive fees authorized in paragraph (2) in all development and production contracts for weapons systems. The Secretary shall take the necessary actions to enable program offices to execute the recovery options required for each development and production contract under paragraph (3).
+(2)
+Authority for incentive fees
+The Secretary of Defense is authorized to pay an incentive fee to a contractor that exceeds the reliability or maintainability requirements of a development or production contract. In exercising the authority provided in this paragraph, the Secretary may provide in the terms of the contract for the payment of an incentive fee to a contractor not later than 10 years after fielding of the weapon system.
+(3)
+Recovery options
+(A)
+Any development or production contract for a weapon system shall include terms for amounts to be paid by the contractor to the Government for failure to meet the reliability and maintainability requirements of a contract after a reasonable amount of time, as specified in the contract. Terms for such amounts shall be included in the solicitation for the contract. Such terms shall include provisions providing thatâ
+(i)
+the contractor, at no or minimal cost to the Government as determined by the Secretary and included in the contract, identifies the cause of the failure in the system design, develops an engineering change, and, in the case of a production contract, modifies all end items to be delivered or already delivered under the contract; or
+(ii)
+the contractor provides the Governmentâ
+(I)
+a refund in the amount required to identify the cause of the failure in the system design, develop an engineering change, and modify all end items delivered under the contract; and
+(II)
+associated technical data required to make the necessary modifications.
+(B)
+The Secretary may waive the requirement in subparagraph (A) with respect to a development or production contract if the Secretaryâ
+(i)
+determines that such requirement is not in the national security interests of the United States; and
+(ii)
+provides notification and the rationale for the determination to the congressional defense committees before awarding the contract.
+(4)
+Measurement of reliability and maintainability
+In carrying out paragraphs (2) and (3), the program manager shall base determinations of a contractorâs performance on reliability and maintainability data collected during developmental testing, operational testing, or the operation of a fielded weapon system as measured and validated by the military department concerned on a date chosen by the program manager and specified in the contract.
+.
+(2)
+Clerical amendment
+The table of sections at the beginning of subchapter I of such chapter is amended by adding at the end the following new item:
+2442. Sustainment factors in weapon system design.
+.
+(b)
+Deadline for guidance
+The Secretary of Defense shall revise guidance as required by subsections (b) and (c)(3) of section 2442 of title 10, United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act.
+(c)
+Effective date for certain provisions
+Subsections (c) and (d) of section 2442 of title 10, United States Code, as added by subsection (a), shall apply with respect to any weapon system development and production contract for which the contract solicitation is issued on or after the date occurring one year after the date of the enactment of this Act.
+(d)
+Investment program authorized
+(1)
+In general
+The Secretary of Defense shall establish an investment program for funding engineering changes to the design of a weapon system in the development or production phase of an acquisition program to improve reliability or maintainability of the weapon system and reduce projected operating and support costs. The program may be funded from the Defense Modernization Account authorized in section 2216 of title 10, United States Code. A program manager may apply for available funds by presenting a business case analysis of the anticipated return on investment of such funds.
+(2)
+Guidance required
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue guidance for carrying out the program authorized under paragraph (1). The guidance shall set forth the process for applying for available funds, including information on the validation of business case analyses and the evaluation of applications.
+202.
+Licensing of appropriate intellectual property to support major weapon systems
+(a)
+Negotiation of price for technical data before development or production of major weapon system
+(1)
+Requirement
+Chapter 144
+of title 10, United States Code, is amended by inserting after
+section 2438
+the following new section:
+2439.
+Negotiation of price for technical data before development or production of major weapon systems
+The Secretary of Defense shall ensure that the Department of Defense, before selecting a contractor for the development or production of a major weapon system, negotiates a price for technical data to be delivered under a contract for such development or production.
+.
+(2)
+Clerical amendment
+The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 2438 the following new item:
+2439. Negotiation of price for technical data before development or production of major weapon
+systems.
+.
+(b)
+Written determination for milestone b approval
+Subsection (a)(3) of section 2366b of title 10, United States Code, is amendedâ
+(1)
+by striking
+and
+at the end of subparagraph (M); and
+(2)
+by inserting after subparagraph (N) the following new subparagraph:
+(O)
+appropriate actions have been taken to negotiate and enter into a contract for the technical data required to support the program; and
+.
+(c)
+Preference for negotiation of customized license agreements
+Section 2320 of title 10, United States Code, is amendedâ
+(1)
+by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and
+(2)
+by inserting after subsection (e) the following new subsection (f):
+(f)
+Preference for specially negotiated licenses
+The Secretary of Defense shall, to the maximum extent practicable, negotiate and enter into a contract with a contractor for a specially negotiated license for technical data to support the product support strategy of a major weapon system or subsystem of a major weapon system. In performing the assessment and developing the corresponding strategy required under subsection (e) for such a system or subsystem, a program manager shall consider the use of specially negotiated licenses to acquire customized technical data appropriate for the particular elements of the product support strategy.
+.
+203.
+Management of intellectual property matters within the Department of Defense
+(a)
+Management of intellectual property
+(1)
+In general
+Chapter 137
+of title 10, United States Code, is amended by inserting after
+section 2321
+the following new section:
+2322.
+Management of intellectual property matters within the Department of Defense
+(a)
+Office and Director of intellectual property
+(1)
+There is an Office of Intellectual Property within the Office of the Under Secretary of Defense for Acquisition and Sustainment.
+(2)
+The Office shall be headed by a Director of Intellectual Property, who shall be assigned to such position by the Under Secretary from among civilian employees of the Department of Defense with the qualifications described in paragraph (3). The Director is responsible in the Department of Defense to the Secretary of Defense (after the Under Secretary of Defense for Acquisition and Sustainment) for policy and oversight of the acquisition and licensing of intellectual property within the Department of Defense. The Director shall report directly to the Under Secretary.
+(3)
+In order to qualify to be assigned to the position of Director, an individual shallâ
+(A)
+have management expertise in, and professional experience with, intellectual property matters, including an understanding of intellectual property law, regulations, and policies, especially with respect to regulations and policies of the Federal Government and the Department of Defense for acquiring or licensing intellectual property, and best practices for negotiating and executing business arrangements with industry for the acquisition or licensing of intellectual property; and
+(B)
+have an understanding of Department of Defense weapon system acquisition.
+(4)
+The Secretary of Defense shall designate the position of Director as a critical acquisition position under section 1733(b)(1)(C) of this title.
+(b)
+Duties
+(1)
+The Director of Intellectual Property (in this section referred to as the
+Director
+) shall oversee and coordinate efforts throughout the Department of Defense to acquire or license intellectual property within the Department of Defense. The duties under this paragraph shall include the duties specified in paragraphs (2) through (8).
+(2)
+The Director shall develop and recommend any policy guidance on the acquisition or licensing of intellectual property to be issued by the Secretary of Defense.
+(3)
+The Director shall provide oversight and coordination of the efforts within the Department of Defense to acquire or license intellectual propertyâ
+(A)
+to ensure that program managers are aware of the rights afforded the Federal Government and contractors in intellectual property and that program managers fully consider and use all available techniques and best practices for acquiring or licensing intellectual property early in the acquisition process;
+(B)
+to enable consistency across the military departments and the Department of Defense in strategies for obtaining intellectual property and communicating with industry; and
+(C)
+to raise awareness within the acquisition, science and technology, and logistics communities within the Department of intellectual property issues.
+(4)
+The Director shall assist program managers in developing customized intellectual property strategies for each weapon system based on, at a minimum, the unique characteristics of the weapon system and its components, the product support strategy for the weapon system, the organic industrial base strategy of the military department concerned, and the commercial market.
+(5)
+The Director shall develop resources, including templates for specially negotiated licenses, and make them available to the acquisition workforce.
+(6)
+The Director shall establish, maintain, supervise, and detail to program offices the cadre of intellectual property experts established under subsection (c).
+(7)
+The Director, in coordination with the Defense Acquisition University, shallâ
+(A)
+develop a career path, including development opportunities, talent management programs, and training, for the cadre of intellectual property experts established under subsection (c); and
+(B)
+develop, update, and coordinate intellectual property training provided to the acquisition workforce.
+(8)
+The Director shall foster communications with industry and serve as a central point of contact within the Department of Defense for communications with contractors on intellectual property matters. The Director may interact directly with industry, trade associations, other Government agencies, academic research and educational institutions, and scientific organizations engaged in intellectual property matters.
+(c)
+Cadre of intellectual property experts
+(1)
+The Director shall establish within the Office of Intellectual Property a cadre of personnel who are experts in intellectual property matters. The purpose of the cadre is to ensure a consistent, strategic, and highly knowledgeable approach to acquiring or licensing intellectual property by providing expert advice, assistance, and resources to the acquisition workforce on intellectual property matters, including acquiring or licensing intellectual property.
+(2)
+The cadre of experts shall be detailed temporarily to a weapons system program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or program executive officer on intellectual property matters at various stages of the life cycle of a weapon system. In performing such duties, the experts shallâ
+(A)
+interpret and provide counsel on laws, regulations, and policies relating to intellectual property;
+(B)
+provide advice and assistance in the development of an acquisition strategy, product support strategy, and intellectual property strategy for a weapon system;
+(C)
+provide resources, including templates, to assist in the drafting of a contract solicitation or contract;
+(D)
+interact with or assist in interactions with contractors, including communications and negotiations with contractors on contract solicitations and contract awards; and
+(E)
+conduct or assist with mediation if technical data delivered pursuant to a contract is incomplete or does not comply with the terms of the contract.
+(3)
+(A)
+In order to achieve the purpose set forth in paragraph (1), the Director shall ensure the cadre has the appropriate number of staff and such staff possesses the necessary skills, knowledge, and experience to carry out the duties under paragraph (2), including in relevant areas of law, contracting, acquisition, logistics, and systems engineering.
+(B)
+Civilian personnel from within the Office of the Secretary of Defense, Joint Staff, military departments, Defense Agencies, and combatant commands may be detailed to serve as members of the cadre, upon request of the Director.
+(C)
+The Director may use the authorities for highly qualified experts under section 9903 of title 5, to hire experts as members of the cadre who are skilled professionals in intellectual property and related matters.
+(D)
+The Director may enter into a contract with a private-sector entity for highly specialized expertise to support the cadre. Such entity shall be considered a covered Government support contractor, as defined in section 2320 of this title.
+(E)
+In establishing the cadre, the Director shall give preference to civilian employees of the Department of Defense, rather than members of the armed forces, to maintain continuity in the cadre.
+(F)
+The Director is authorized to use funding from the Defense Acquisition Workforce Development Fund for the purpose of recruitment, training, and retention of the cadre, including paying salaries of newly hired members of the cadre for up to three years.
+(G)
+Members of the cadre shall be supervised by and report to the Director.
+.
+(2)
+Clerical amendment
+The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
+2322. Management of intellectual property matters within the Department of Defense.
+.
+(b)
+Placement in the Office of the Secretary of Defense
+Subsection 131(b)(8) of title 10, United States Code, is amended by adding at the end the following new subparagraph:
+(J)
+The Director of the Office of Intellectual Property assigned pursuant to section 2322(a) of this title.
+.
+(c)
+Additional acquisition position
+Subsection 1721(b) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+(12)
+Intellectual property.
+.
+(d)
+Review of acquisition workforce training
+Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall revise the education and training programs provided to the acquisition workforce under
+chapter 87
+of title 10, United States Codeâ
+(1)
+to ensure the acquisition workforce maintains a basic familiarity with the fundamental aspects of the acquisition and licensing of intellectual property; and
+(2)
+to establish and maintain advanced expertise in the acquisition and licensing of intellectual property to staff the cadre of intellectual property experts required under section 2322 of title 10, United States Code, as added by subsection (a).
+204.
+Improvement of planning for acquisition of services
+(a)
+In general
+(1)
+Improvement of planning for acquisition of services
+Chapter 137
+of title 10, United States Code, is amended by inserting after
+section 2328
+the following new section:
+2329.
+Procurement of services: data analysis and requirements validation
+(a)
+In general
+The Secretary of Defense shall ensure thatâ
+(1)
+appropriate and sufficiently detailed data are collected and analyzed to support the validation of requirements for services contracts and inform the planning, programming, budgeting, and execution process of the Department of Defense;
+(2)
+requirements for services contracts are evaluated appropriately and in a timely manner to inform decisions regarding the procurement of services; and
+(3)
+decisions regarding the procurement of services consider available resources and total force management policies and procedures.
+(b)
+Specification of amounts requested in budget
+Effective October 1, 2022, the Secretary of Defense shall annually submit to Congress information on services contracts that clearly and separately identifies the amount requested for each category of services to be procured for each Defense Agency, Department of Defense Field Activity, command, or military installation. Such information shallâ
+(1)
+be submitted at or about the time of the budget submission by the President under section 1105(a) of title 31;
+(2)
+cover the fiscal year covered by such budget submission by the President;
+(3)
+be consistent with total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Defense included in such budget submission by the President for that fiscal year; and
+(4)
+be organized using a common enterprise data structure developed under section 2222 of this title.
+(c)
+Data analysis
+(1)
+Each Secretary of a military department shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of services within such military department.
+(2)
+(A)
+The Secretary of Defense shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of servicesâ
+(i)
+within each Defense Agency and Department of Defense Field Activity; and
+(ii)
+across military departments, Defense Agencies, and Department of Defense Field Activities.
+(B)
+The Secretaries of the military departments shall make data on services contracts available to the Secretary of Defense for purposes of conducting the analysis required under subparagraph (A).
+(3)
+The analyses conducted under this subsection shallâ
+(A)
+identify contracts for similar services that are procured for three or more consecutive years at each Defense Agency, Department of Defense Field Activity, command, or military installation;
+(B)
+evaluate patterns in the procurement of services, to the extent practicable, at each Defense Agency, Department of Defense Field Activity, command, or military installation and by category of services procured;
+(C)
+be used to validate requirements for services contracts entered into after the date of the enactment of this subsection; and
+(D)
+be used to inform decisions on the award of and funding for such services contracts.
+(d)
+Requirements evaluation
+Each Services Requirements Review Board shall evaluate each requirement for a services contract, taking into consideration total force management policies and procedures, available resources, the analyses conducted under subsection (c), and contracting efficacy and efficiency. An evaluation of a services contract for compliance with contracting policies and procedures may not be considered to be an evaluation of a requirement for such services contract.
+(e)
+Timely planning To avoid bridge contracts
+(1)
+Effective October 1, 2018, the Secretary of Defense shall ensure that a requirements owner shall, to the extent practicable, plan appropriately before the date of need of a service at a Defense Agency, Department of Defense Field Activity, command, or military installation to avoid the use of a bridge contract to provide for continuation of a service to be performed through a services contract. Such planning shall include allowing time for a requirement to be validated, a services contract to be entered into, and funding for the services contract to be secured.
+(2)
+(A)
+Upon the first use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract, the requirements owner, along with the contracting officer or a representative of the contracting officer for the contract, shallâ
+(i)
+for a services contract in an amount less than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the commander or the senior civilian official of the Defense Agency concerned, Department of Defense Field Activity concerned, command concerned, or military installation concerned, as applicable; or
+(ii)
+for a services contract in an amount equal to or greater than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the service acquisition executive for the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
+(B)
+Upon the second use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract in an amount less than $10,000,000, the commander or senior civilian official referred to in subparagraph (A)(i) shall provide notification of such second use to the Vice Chief of Staff of the armed force concerned and the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
+(f)
+Exception
+Except with respect to the analyses required under subsection (c), this section shall not apply to services contracts in support of contingency operations, humanitarian assistance, disaster relief, or national security emergencies.
+(g)
+Definitions
+In this section:
+(1)
+The term
+bridge contact
+meansâ
+(A)
+an extension to an existing contract beyond the period of performance to avoid a lapse in service caused by a delay in awarding a subsequent contract; or
+(B)
+a new short-term contract awarded on a sole-source basis to avoid a lapse in service caused by a delay in awarding a subsequent contract.
+(2)
+The term
+requirements owner
+means a member of the armed forces (other than the Coast Guard) or a civilian employee of the Department of Defense responsible for a requirement for a service to be performed through a services contract.
+(3)
+The term
+Services Requirements Review Board
+has the meaning given in Department of Defense Instruction 5000.74, titled
+Defense Acquisition of Services
+and dated January 5, 2016, or a successor instruction.
+.
+(2)
+Clerical amendment
+The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 2328 the following new item:
+2329. Procurement of services: data analysis and requirements validation.
+.
+(b)
+Conforming repeal
+Effective October 1, 2022â
+(1)
+section 235 of title 10, United States Code, is repealed; and
+(2)
+the table of sections at the beginning of chapter 9 of such title is amended by striking the item relating to section 235.
+205.
+Improvements to test and evaluation processes and tools
+(a)
+Developmental test plan sufficiency assessments
+(1)
+Addition to Milestone B brief summary report
+Section 2366b(c)(1) of title 10, United States Code, is amendedâ
+(A)
+by redesignating subparagraph (G) as subparagraph (H); and
+(B)
+by inserting after subparagraph (F) the following new subparagraph (G):
+(G)
+An assessment of the sufficiency of developmental test and evaluation plans.
+.
+(2)
+Addition to Milestone C brief summary report
+Section 2366c(a) of such title is amended by inserting after paragraph (3) the following new paragraph:
+(4)
+An assessment of the sufficiency of the developmental test and evaluation completed.
+.
+(3)
+Responsibility for conducting assessments
+For purposes of the sufficiency assessments required by section 2366b(c)(1) and section 2366c(a)(4) of such title, as added by paragraphs (1) and (2), with respect to a major defense acquisition programâ
+(A)
+if the milestone decision authority for the program is the service acquisition executive of the military department that is managing the program, the sufficiency assessment shall be conducted by the service test agency that serves as the lead developmental test and evaluation organization for the program; and
+(B)
+if the milestone decision authority for the program is the Under Secretary of Defense for Acquisition and Sustainment, the sufficiency assessment shall be conducted by the senior Department of Defense official with responsibility for developmental testing.
+(4)
+Guidance required
+Within one year after the date of the enactment of this Act, the senior Department of Defense official with responsibility for developmental testing shall develop guidance for the sufficiency assessments required by section 2366b(c)(1) and section 2366c(a)(4) of title 10, United States Code, as added by paragraphs (1) and (2). At a minimum, the guidance shall requireâ
+(A)
+for the sufficiency assessment required by section 2366b(c)(1) of such title, that the assessment address the sufficiency ofâ
+(i)
+the developmental test and evaluation plan;
+(ii)
+the developmental test and evaluation schedule, including a comparison to historic analogous systems;
+(iii)
+the developmental test and evaluation resources (facilities, personnel, and test assets);
+(iv)
+the risks of developmental test and production concurrency; and
+(v)
+the developmental test criteria for entering the production phase; and
+(B)
+for the sufficiency assessment required by section 2366c(a)(4) of such title, that the assessment addressâ
+(i)
+the sufficiency of the developmental test and evaluation completed;
+(ii)
+the sufficiency of the plans and resources available for remaining developmental test and evaluation;
+(iii)
+the risks identified during developmental testing to the production and deployment phase;
+(iv)
+the sufficiency of the plans and resources for remaining developmental test and evaluation; and
+(v)
+the readiness of the system to perform scheduled initial operational test and evaluation.
+(b)
+Evaluation of Department of Defense need for centralized tools for developmental test and evaluation
+(1)
+In general
+The Secretary of Defense shall evaluate the strategy of the Department of Defense for developing and expanding the use of tools designed to facilitate the cost effectiveness and efficiency of developmental testing, including automated test methods and tools, modeling and simulation tools, and big data analytics technologies. The evaluation shall include a determination of the appropriate role of the senior Department of Defense official with responsibility for developmental testing in developing enterprise level strategies related to such types of testing tools.
+(2)
+Briefing required
+Not later than one year after the date of the enactment of this Act, the Secretary shall provide a briefing to the Committee on Armed Services of the House of Representatives on the results of the evaluation required by paragraph (1).
+III
+Acquisition Workforce Improvements
+301.
+Enhancements to the civilian program management workforce
+(a)
+Establishment of program manager development program
+(1)
+In general
+The Secretary of Defense, in consultation with the Secretaries of the military departments, shall implement a program manager development program to provide for the professional development of experienced civilian personnel with the potential to become a program manager of a major defense acquisition program. The program shall be administered and overseen by the Secretary of each military department, acting through the service acquisition executive for the department concerned.
+(2)
+Plan required
+Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a comprehensive plan to implement the program established under paragraph (1). The plan shall include the following elements:
+(A)
+An assessment of the minimum level of subject matter experience, education, years of experience, certifications, and other qualifications required to be selected into the program, set forth separately for current Department of Defense employees and for personnel hired into the program from outside the Department of Defense.
+(B)
+A description of hiring flexibilities to be used to recruit qualified personnel from outside the Department of Defense.
+(C)
+A description of the extent to which mobility agreements will be required to be signed by personnel selected for the program during their participation in the program and after their completion of the program.
+(D)
+A description of the tenure obligation required of personnel selected for the program.
+(E)
+A determination of the skills needed to be developed by personnel in the program in order to prepare them to become a program manager of a major defense acquisition program, and a description of how those skills would be demonstrated.
+(F)
+A plan for training during the course of the program, including training in engineering, finance and budgeting, market research, business acumen, contracting, supplier management, requirement setting and tradeoffs, intellectual property matters, and software.
+(G)
+A description of career paths to be followed by personnel in the program in order to ensure that personnel in the program gain expertise in the skills identified by the Department under subparagraph (E) and the topics identified under subparagraph (F), includingâ
+(i)
+a determination of the types of advanced educational degrees that enhance program management skills and the mechanisms available to the Department of Defense to facilitate the attainment of those degrees by personnel in the program;
+(ii)
+a determination of required assignments to positions within acquisition programs, including position type and acquisition category of the program office;
+(iii)
+a determination of required or encouraged rotations to career broadening positions outside of acquisition programs; and
+(iv)
+a determination of how the program will ensure the opportunity for a required rotation to industry of at least six months to develop an understanding of industry motivation and business acumen.
+(H)
+A description of the number of personnel anticipated to be selected into the program, how frequently selections will occur, how long personnel selected into the program will participate in the program, and how personnel will be placed into an assignment at the completion of the program.
+(I)
+A description of benefits that will be offered under the program using existing human capital flexibilities to retain qualified employees, such as student loan repayments.
+(J)
+An assessment of personnel flexibilities needed to allow the military departments and the Defense Agencies to reassign or remove program managers that do not perform effectively.
+(K)
+A description of how the program will be administered and overseen by the Secretaries of each military department, acting through the service acquisition executive for the department concerned.
+(L)
+A description of how the program will be integrated with existing program manager development efforts at each military department.
+(3)
+Use of defense acquisition workforce development fund
+Amounts in the Department of Defense Acquisition Workforce Development Fund (established under section 1705 of title 10, United States Code) may be used to pay the base salary of personnel in the program established under paragraph (1) during the period of time such personnel are temporarily assigned to a developmental rotation or training program anticipated to last at least six months.
+(4)
+Implementation
+The program established under paragraph (1) shall be implemented no later than June 1, 2019.
+(b)
+Establishment of program and project management job series
+Within one year after the date of the enactment of this Act, the Secretary of Defense shall prescribe regulations that establish a new job series, or update and improve an existing job series, for program and project management throughout the Department of Defense. The Secretary shall take into consideration the regulations issued by the Director of the Office of Personnel Management in accordance with section 861(c)(2) of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+; 130 Stat. 2301) to achieve consistency in job series for program and project management with other Federal Agencies to the extent practicable.
+(c)
+Independent study of financial incentives for program managers
+(1)
+Requirement for study
+Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall enter into a contract with an independent research entity described in paragraph (2) to carry out a comprehensive study of financial incentives for Department of Defense program managers for major defense acquisition programs, includingâ
+(A)
+additional pay options for program managers to provide incentives to senior civilian employees to accept and remain in program manager roles;
+(B)
+a financial incentive structure to reward program managers for delivering capabilities on budget and on time; and
+(C)
+a comparison between financial incentive structures for program managers in the Department of Defense and an appropriate comparison group of private industry companies.
+(2)
+Independent research entity
+The entity described in this subsection is an independent research entity that is a not-for-profit entity or a federally funded research and development center with appropriate expertise and analytical capability.
+(3)
+Reports
+(A)
+To secretary
+Not later than nine months after the date of the enactment of this Act, the independent research entity shall provide to the Secretary a report containingâ
+(i)
+the results of the study required by paragraph (1); and
+(ii)
+such recommendations to improve the financial incentive structure of program managers for major defense acquisition programs as the independent research entity considers to be appropriate.
+(B)
+To congress
+Not later than 30 days after receipt of the report under subparagraph (A), the Secretary of Defense shall submit such report, together with any additional views or recommendations of the Secretary, to the congressional defense committees.
+302.
+Improvements to the hiring and training of the acquisition workforce
+(a)
+Use of funds from the defense acquisition workforce development fund To pay salaries of personnel
+To manage the fund
+(1)
+In general
+Subsection 1705(e) of title 10, United States Code, is amendedâ
+(A)
+in paragraph (1)â
+(i)
+by inserting
+(A)
+before
+Subject to the provisions of this subsection
+; and
+(ii)
+by adding at the end the following new subparagraph:
+(B)
+Amounts in the Fund also may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Fund.
+; and
+(B)
+in paragraph (3)â
+(i)
+by striking
+and
+at the end of subparagraph (C);
+(ii)
+by striking the period and inserting
+; and
+at the end of subparagraph (D); and
+(iii)
+by adding at the end the following new subparagraph:
+(E)
+describing the amount from the Fund that may be used to pay salaries of personnel at military departments and Defense Agencies to manage the Fund and the circumstances under which such amounts may be used for such purpose.
+.
+(2)
+Guidance
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue, and submit to the congressional defense committees, the policy guidance required by subparagraph (E) of section 1705(e)(3) of title 10, United States Code, as added by paragraph (1).
+(b)
+Comptroller general review of effectiveness of hiring and retention flexibilities for acquisition
+workforce personnel
+(1)
+In general
+Not later than January 15, 2019, the Comptroller General of the United States shall submit to the congressional defense committees a report on the effectiveness of hiring and retention flexibilities for the acquisition workforce.
+(2)
+Elements
+The report under this subsection shall include the following:
+(A)
+A determination of the extent to which the Department of Defense experiences challenges with recruitment and retention of the acquisition workforce, such as post-employment restrictions.
+(B)
+A description of the hiring and retention flexibilities available to the Department to fill civilian acquisition positions and the extent to which the Department has used the flexibilities available to it to target critical or understaffed career fields.
+(C)
+A determination of the extent to which the Department has the necessary data on its use of hiring and retention flexibilities for the civilian acquisition workforce to strategically manage the use of such flexibilities.
+(D)
+An identification of the factors that affect the use of hiring and retention flexibilities for the civilian acquisition workforce.
+(E)
+Recommendations for any necessary changes to the hiring and retention flexibilities available to the Department to fill civilian acquisition positions.
+(F)
+A description of the flexibilities available to the Department to remove underperforming members of the acquisition workforce and the extent to which any such flexibilities are used.
+(c)
+Assessment and report required on business-Related training for the acquisition workforce
+(1)
+Assessment
+The Under Secretary of Defense for Acquisition and Sustainment shall conduct an assessment of the following:
+(A)
+The effectiveness of industry certifications and other industry training programs, including fellowships, available to defense acquisition workforce personnel.
+(B)
+Gaps in knowledge of industry operations, industry motivation, and business acumen in the acquisition workforce.
+(2)
+Report
+Not later than December 31, 2018, the Under Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the results of the assessment conducted under this subsection.
+(3)
+Elements
+The assessment and report under paragraphs (1) and (2) shall address the following:
+(A)
+Current sources of training and career development opportunities, industry rotations, and other career development opportunities related to knowledge of industry operations, industry motivation, and business acumen for each acquisition position, as designated under section 1721 of title 10, United States Code.
+(B)
+Gaps in training, industry rotations, and other career development opportunities related to knowledge of industry operations, industry motivation, and business acumen for each such acquisition position.
+(C)
+Plans to address those gaps for each such acquisition position.
+(D)
+Consideration of the role industry-taught classes and classes taught at educational institutions outside of the Defense Acquisition University could play in addressing gaps.
+(d)
+Comptroller general review of acquisition training for non-Acquisition workforce personnel
+(1)
+In general
+Not later than January 15, 2019, the Comptroller General of the United States shall submit to the congressional defense committees a report on acquisition-related training for personnel working on acquisitions but not considered to be part of the acquisition workforce (as defined in section 101(18) of title 10, United States Code) (hereafter in this subsection referred to as
+non-acquisition workforce personnel
+).
+(2)
+Elements
+The report shall address the following:
+(A)
+The extent to which non-acquisition workforce personnel play a significant role in defining requirements, conducting market research, participating in source selection and contract negotiation efforts, and overseeing contract performance.
+(B)
+The extent to which the Department is able to identify and track non-acquisition workforce personnel performing the roles identified in subparagraph (A).
+(C)
+The extent to which non-acquisition workforce personnel are taking acquisition training.
+(D)
+The extent to which the Defense Acquisition Workforce Development Fund has been used to provide acquisition training to non-acquisition workforce personnel.
+(E)
+A description of sources of funding other than the Fund that are available to and used by the Department to provide non-acquisition workforce personnel with acquisition training.
+(F)
+The extent to which additional acquisition training is needed for non-acquisition workforce personnel, including the types of training needed, the positions that need the training, and any challenges to delivering necessary additional training.
+(e)
+Briefing on improvements to the defense contract audit agency workforce
+(1)
+Briefing required
+Not later than 180 days after the date of the enactment of this Act, the Director of the Defense Contract Audit Agency, in consultation with the Under Secretary of Defense (Comptroller), shall provide a briefing to the Committees on Armed Services of the Senate and the House of Representatives.
+(2)
+Elements
+The briefing required by paragraph (1) shall address the following:
+(A)
+The current education, certifications, and qualifications of the Defense Contract Audit Agency workforce, by supervisory and non-supervisory levels and type of position.
+(B)
+Shortfalls (if any) in education, qualification, or training in the Defense Contract Audit Agency workforce, by supervisory and non-supervisory levels and type of position, and the reasons for those shortfalls.
+(C)
+The link between Defense Contract Audit Agency workforce skill and experience gaps and the Agencyâs backlog of audits.
+(D)
+The number of Defense Contract Audit Agency auditors who have relevant private sector experience, including from industry exchanges while at the Defense Contract Audit Agency and from prior employment experiences, and the perspective of the Defense Contract Audit Agency on the benefits of those experiences.
+(E)
+Ongoing efforts and future plans by the Defense Contract Audit Agency to improve the professionalization of its audit workforce, including changes in hiring, training, required certifications or qualifications, compensation structure, and increased opportunities for industry exchanges or rotations.
+303.
+Extension and modifications to acquisition demonstration project
+(a)
+Extension
+Section 1762(g) of title 10, United States Code, is amended by striking
+December 31, 2020
+and inserting
+December 31, 2023
+.
+(b)
+Implementation strategy for improvements in acquisition demonstration project
+(1)
+Strategy required
+The Secretary of Defense shall develop an implementation strategy to address areas for improvement in the demonstration project required by section 1762 of title 10, United States Code, as identified in the second assessment of such demonstration project required by section 1762(e) of such title.
+(2)
+Elements
+The strategy shall include the following elements:
+(A)
+Actions that have been or will be taken to assess whether the flexibility to set starting salaries at different levels is being used appropriately by supervisors and managers to compete effectively for highly skilled and motivated employees.
+(B)
+Actions that have been or will be taken to assess reasons for any disparities in career outcomes across race and gender for employees in the demonstration project.
+(C)
+Actions that have been or will be taken to strengthen the link between employee contribution and compensation for employees in the demonstration project.
+(D)
+Actions that have been or will be taken to enhance the transparency of the pay system for employees in the demonstration project.
+(E)
+A timeframe and individual responsible for each action identified under subparagraphs (A) through (D).
+(3)
+Briefing required
+Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall provide a briefing to the Committees on Armed Services of the Senate and the House of Representatives on the implementation strategy required by paragraph (1).
+304.
+Acquisition positions in the Offices of the Secretaries of the military departments
+(a)
+Office of the secretary of the army maximum number of personnel
+Section 3014(f) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+(6)
+The limitation in paragraph (1) may be exceeded if a civilian employee is assigned on permanent duty in the Office of the Secretary of the Army or on the Army Staff andâ
+(A)
+the employee was employed immediately preceding that assignment eitherâ
+(i)
+in a position within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics that had responsibility for oversight of acquisition programs or processes prior to February 1, 2018, and that was determined to be no longer needed as a result of section 901 of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+; 130 Stat. 2339) and the amendments made by that section; or
+(ii)
+in a Joint Staff position that supported the Joint Requirements Oversight Council prior to December 23, 2016, and that was determined to be no longer needed as a result of section 925 of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+; 130 Stat. 2359) and the amendments made by that section; and
+(B)
+the position described in subparagraph (A) is not filled by the Office of the Under Secretary of Defense for Acquisition and Sustainment or the Joint Staff after the employeeâs permanent duty assignment.
+.
+(b)
+Office of the secretary of the navy maximum number of personnel
+Section 5014(f) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+(6)
+The limitation in paragraph (1) may be exceeded if a civilian employee is assigned on permanent duty in the Department of the Navy or assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of Chief of Naval Operations, or the Headquarters, Marine Corps andâ
+(A)
+the employee was employed immediately preceding that assignment eitherâ
+(i)
+in a position within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics that had responsibility for oversight of acquisition programs or processes prior to February 1, 2018, and that was determined to be no longer needed as a result of section 901 of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+; 130 Stat. 2339) and the amendments made by that section; or
+(ii)
+in a Joint Staff position that supported the Joint Requirements Oversight Council prior to December 23, 2016, and that was determined to be no longer needed as a result of section 925 of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+; 130 Stat. 2359) and the amendments made by that section; and
+(B)
+the position described in subparagraph (A) is not filled by the Office of the Under Secretary of Defense for Acquisition and Sustainment or the Joint Staff after the employeeâs permanent duty assignment.
+.
+(c)
+Office of the secretary of the air force maximum number of personnel
+Section 8014(f) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+(6)
+The limitation in paragraph (1) may be exceeded if a civilian employee is assigned on permanent duty in the Office of the Secretary of the Air Force or on the Air Staff andâ
+(A)
+the employee was employed immediately preceding that assignment eitherâ
+(i)
+in a position within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics that had responsibility for oversight of acquisition programs or processes prior to February 1, 2018, and that was determined to be no longer needed as a result of section 901 of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+; 130 Stat. 2339) and the amendments made by that section; or
+(ii)
+in a Joint Staff position that supported the Joint Requirements Oversight Council prior to December 23, 2016, and that was determined to be no longer needed as a result of section 925 of the National Defense Authorization Act for Fiscal Year 2017 (
+Public Law 114â328
+; 130 Stat. 2359) and the amendments made by that section; and
+(B)
+the position described in subparagraph (A) is not filled by the Office of the Under Secretary of Defense for Acquisition and Sustainment or the Joint Staff after the employeeâs permanent duty assignment.
+.
+IV
+Transparency Improvements
+401.
+Transparency of defense business system data
+(a)
+Establishment of common enterprise data structures
+Section 2222 of title 10, United States Code, is amendedâ
+(1)
+in subsection (d), by adding at the end the following new paragraph:
+(7)
+Policy requiring that any data contained in a defense business system are an asset of the Department of Defense, and that such data should be made readily available to all members of the Office of the Secretary of Defense, the Joint Staff, and the military departments (except as otherwise provided by law or regulation).
+;
+(2)
+in subsection (e), by adding at the end the following new paragraph:
+(5)
+Common enterprise data structures
+(A)
+The defense business enterprise architecture shall include one or more common enterprise data structures which can be used to code data that are automatically extracted from the relevant defense business systems to facilitate Department of Defense-wide analysis and management of such data.
+(B)
+The Deputy Chief Management Officer shallâ
+(i)
+in consultation with the Defense Business Council established under subsection (f), develop one or more common enterprise data structures; and
+(ii)
+have primary decision-making authority with respect to the development of any such common enterprise data structure.
+(C)
+The Director of Cost Assessment and Program Evaluation shallâ
+(i)
+in consultation with the Defense Business Council established under subsection (f), document and maintain any common enterprise data structure developed under subparagraph (B);
+(ii)
+extract data from defense business systems using the appropriate common data enterprise structure on a specified schedule;
+(iii)
+provide access to such data to the Office of the Secretary of Defense, the Joint Staff, and the military departments (except as otherwise provided by law or regulation) on a specified schedule developed in consultation with the Defense Business Council established under subsection (f); and
+(iv)
+have primary decision-making authority with respect to the maintenance of any such common enterprise data structure.
+(D)
+Common enterprise data structures shall be established and maintained for the following types of data of the Department of Defense:
+(i)
+An accounting of expenditures of the Department of Defense, set forth separately for each type of expenditure.
+(ii)
+Program and budget data in the defense business systems of the Under Secretary of Defense (Comptroller) and the Director of Cost Assessment and Program Evaluation.
+(iii)
+Acquisition cost data and earned value management data.
+(iv)
+Operating and support costs for weapon systems, including data on maintenance procedures conducted on each major weapon system (as defined in section 2379 of this title).
+(v)
+An accounting of contracting activities, including goods and services acquired and associated obligations and expenditures.
+(E)
+The Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, the Commanders of the combatant commands, the heads of the Defense Agencies, the heads of the Department of Defense Field Activities, and the heads of all other organizations of the Department of Defense shall provide access to the relevant defense business system of such department, combatant command, Defense Agency, Field Activity, or organization, as applicable, for purposes of automatically populating data sets coded with common enterprise data structures.
+;
+(3)
+in subsection (f)(2), by adding at the end the following new clause:
+(iv)
+The Director of Cost Assessment and Program Evaluation with respect to common enterprise data structures.
+; and
+(4)
+in subsection (i), by adding at the end the following new paragraph:
+(10)
+Common enterprise data structure
+The term
+common enterprise data structure
+means a mapping and organization of data from defense business systems into a common data set.
+.
+(b)
+Additional duties of the Director of Cost Assessment and Program Evaluation
+Section 139a(d) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+(9)
+Maintenance of common enterprise data structures established pursuant to section 2222 of this title, including establishing and maintaining access to any data contained in a defense business system (as defined in such section) and used in a common enterprise data structure, as determined appropriate by the Secretary of Defense or the Director of Cost Assessment and Program Evaluation.
+.
+402.
+Major defense acquisition programs: display of budget information
+(a)
+In general
+Chapter 144
+of title 10, United States Code, is amended by inserting after
+section 2433a
+the following new section:
+2434.
+Major defense acquisition programs: display of budget information
+(a)
+In general
+In the defense budget materials for fiscal year 2020 and each subsequent fiscal year, the Secretary of Defense shall ensure that the funding requirements listed in subsection (b) are displayed separately for major defense acquisition programs, as defined in section 2340 of title 10, United States Code.
+(b)
+Requirements for budget display
+The budget justification display for a fiscal year shall include the funding requirement for each major defense acquisition program, including all sources of appropriationsâ
+(1)
+for developmental test and evaluation;
+(2)
+for operational test and evaluation;
+(3)
+for the purchase of cost data from contractors; and
+(4)
+for the purchase or license of technical data.
+(c)
+Definitions
+In this section, the terms
+budget
+and
+defense budget materials
+have the meaning given those terms in section 234 of this title.
+.
+(b)
+Clerical amendment
+The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 2433a following new item:
+2434. Major defense acquisition programs: display of budget information.
+.
+403.
+Enhancements to transparency in test and evaluation processes and data
+(a)
+Additional requirements relating to designation of a major defense acquisition program
+Section 139 of title 10, United States Code, is amendedâ
+(1)
+in subsection (a)(2)(B), by inserting before the period at the end the following:
+and in accordance with subsection (l).
+;
+(2)
+by adding at the end the following new subsection:
+(l)
+For purposes of subsection (a)(2)(B), before designating a program that is not a major defense acquisition program for the purposes of section 2430 of this title as a major defense acquisition program for the purposes of this section, the Director shall provide in writing to the Under Secretary of Defense for Acquisition and Sustainment, and the test and evaluation executive of the military department or departments executing the program, the specific circumstances of the program that led to the designation decision.
+; and
+(3)
+by adding at the end of subsection (h)(4) the following:
+The report shall also include a brief statement of the rationale for placing on the oversight list of the Director each program that is not a major defense acquisition program for the purposes of section 2430 of this title but has been designated as a major defense acquisition program for the purposes of this section.
+.
+(b)
+Consideration of legacy items or components in operational test and evaluation reports
+Section 2399(b)(2) of title 10, United States Code, is amendedâ
+(1)
+by striking
+and
+at the end of subparagraph (A)(ii);
+(2)
+by redesignating subparagraph (B) as subparagraph (C); and
+(3)
+by inserting after subparagraph (A) the following new subparagraph:
+(B)
+a description of the performance of the items or components tested in relation to comparable legacy items or components, if such items or components exist and relevant data are available without requiring additional testing; and
+.
+(c)
+Opportunity for military department comments on annual report on operational test and evaluation
+Section 139(h) of title 10, United States Code, is amendedâ
+(1)
+by redesignating paragraph (5) as paragraph (6), and in that paragraph by striking
+and the Secretaries of the military departments
+; and
+(2)
+by inserting after paragraph (4) the following new paragraph (5):
+(5)
+Within 45 days after the submission of an annual report by the Director to Congress, the Secretaries of the military departments may each submit a report to the congressional defense committees addressing any concerns related to information included in the annual report, or providing updated or additional information as appropriate.
+.
+(d)
+Guidelines for collection of cost data on test and evaluation
+(1)
+In general
+Not later than one year after the date of the enactment of this Act, the Director of Operational Test and Evaluation shall develop policies, procedures, guidance, and a collection method to ensure that consistent, high quality data are collected on the full range of estimated and actual developmental, live fire, and operational testing costs for major defense acquisition programs. Data on estimated and actual developmental, live fire, and operational testing costs shall be maintained in an electronic database maintained by the Director for Cost Assessment and Program Evaluation.
+(2)
+Concurrence and coordination
+In carrying out paragraph (1), the Director of Operational Test and Evaluation shall obtain the concurrence of the Director for Cost Assessment and Program Evaluation and shall coordinate with the senior Department of Defense official with responsibility for developmental testing, the Director of the Test Resource Management Center, and the Secretaries of the military departments.
+(3)
+Major defense acquisition program defined
+In this section, the term
+major defense acquisition program
+has the meaning provided in section 2430 of title 10, United States Code.
+(e)
+Report on enterprise approach To test and evaluation knowledge management
+(1)
+Report required
+Within one year after the date of the enactment of this Act, the Director of the Test Resource Management Center and the senior Department of Defense official with responsibility for developmental testing shall provide to the congressional defense committees a report on the development of an enterprise approach to test and evaluation knowledge management.
+(2)
+Elements
+The report required by paragraph (1) shall include the following elements:
+(A)
+The detailed concepts, requirements, technologies, methodologies, and architecture necessary for an enterprise approach to knowledge management for test and evaluation.
+(B)
+Resources needed to develop and adopt an enterprise approach to knowledge management for test and evaluation.
+(C)
+Roles and responsibilities of various Department of Defense entities to develop and adopt an enterprise approach to knowledge management for test and evaluation.
+(D)
+Timeframes required to develop and adopt an enterprise approach to knowledge management for test and evaluation.
+(E)
+A description of pilot studies ongoing at the time of the date of the enactment of this Act or previously conducted related to developing an enterprise approach to test and evaluation knowledge management, including results of the pilot studies (if available) and lessons learned.

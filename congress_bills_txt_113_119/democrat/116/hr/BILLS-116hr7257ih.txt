@@ -1,0 +1,34 @@
+1.
+Telecommunications security program
+(a)
+Program required
+The Secretary of Defense shall carry out a program to identify and mitigate vulnerabilities in the telecommunications infrastructure of the Department of Defense.
+(b)
+Elements
+In carrying out the program under subsection (a), the Secretary shallâ
+(1)
+develop a capability to communicate clearly and authoritatively about threats by foreign actors;
+(2)
+conduct independent red-team security analysis of Department of Defense systems, subsystems, devices, and components including no-knowledge testing and testing with limited or full knowledge of expected functionalities;
+(3)
+verify the integrity of personnel who are tasked with design fabrication, integration, configuration, storage, test, and documentation of noncommercial 5G technology to be used by the Department of Defense;
+(4)
+verify the efficacy of the physical security measures used at Department of Defense locations where system design, fabrication, integration, configuration, storage, test, and documentation of 5G technology occurs;
+(5)
+direct the Chief Information Officer of the Department of Defense to use the Federal Risk and Authorization Management Program (commonly known as
+FedRAMP
+) moderate or high cloud standard baselines, supplemented with the Departmentâs FedRAMP cloud standard controls and control enhancements, to assess 5G core service providers whose services will be used by the Department of Defense through the Departmentâs provisional authorization process; and
+(6)
+direct the Defense Information Systems Agency and the United States Cyber Command to Develop a capability for continuous, independent monitoring of packet streams for 5G data on frequencies assigned to the Department of Defense to validate availability, confidentiality, and integrity of Department of Defense communications systems.
+(c)
+Implementation plan
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to Congress a plan for the implementation of the program under subsection (a).
+(d)
+Report required
+Not later than 180 days after submitting the plan under subsection (c), the Secretary of Defense shall submit to Congress a report that includesâ
+(1)
+a comprehensive assessment of the findings and conclusions of the program under subsection (a);
+(2)
+recommendations on how to mitigate vulnerabilities in the Department of Defense telecommunications infrastructure; and
+(3)
+an explanation of how the Department of Defense plans to implement such recommendations.

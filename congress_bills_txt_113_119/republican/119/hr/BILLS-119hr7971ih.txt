@@ -1,0 +1,231 @@
+1.
+Short title; etc
+(a)
+Short title
+This Act may be cited as the
+Taxpayer Experience Improvement Act
+.
+(b)
+References to Secretary
+For purposes of this Act, the term
+Secretary
+means the Secretary of the Treasury or the Secretaryâs delegate.
+(c)
+Table of contents
+The table of contents of this Act is as follows:
+Sec. 1. Short title; etc.
+Sec. 2. Establishment of dashboard to inform taxpayers of backlogs and wait times.
+Sec. 3. Expansion of electronic access to information about returns and refunds.
+Sec. 4. Expansion of callback technology.
+Sec. 5. Expansion of online accounts.
+2.
+Establishment of dashboard to inform taxpayers of backlogs and wait times
+(a)
+In general
+The Secretary shall require the Internal Revenue Service to provide in real time on its public website, to the extent practical, the following:
+(1)
+Separately with respect to each applicable phone number extensionâ
+(A)
+the number of callers connected to speak directly with a representative of the Internal Revenue Service,
+(B)
+the number of callers connected to speak with an automated system,
+(C)
+the number of callers who are waiting to be connected to speak directly with a representative of the Internal Revenue Service or an automated system,
+(D)
+the longest amount of time that any caller has been waiting to be connected to speak directly with a representative of the Internal Revenue Service, and
+(E)
+whether callback service is currently available, and if not, when such service is scheduled to be available.
+(2)
+An application or tool embedded on the website whichâ
+(A)
+displays all of the information described in paragraph (1), and
+(B)
+estimates the approximate wait time to speak directly with a representative of the Internal Revenue Service.
+(3)
+An application programming interface which allows any person to access the information described in subsection (a)(1) using automation and to create an application or tool embedded on a website to display such information.
+(4)
+For each applicable phone number extension, a summary of the information described in paragraph (1) with respect to the prior month, includingâ
+(A)
+the average and median length of calls,
+(B)
+the average and median amount of time that callers were speaking directly with a representative of the Internal Revenue Service,
+(C)
+the number and percent of calls that were directed to an automated system,
+(D)
+the number and percent of calls that were disconnected or terminated by the Internal Revenue Service,
+(E)
+the number of callers who were transferred to another applicable phone number extension after the call was initially answered by a representative of the Internal Revenue Service,
+(F)
+the average and median amount of time that callers described in subparagraph (E) were on hold following the transfer, and
+(G)
+the number and percent of callers who indicated that they received the answers or service for which they were contacting the Internal Revenue Service.
+(b)
+Detection of automated calls
+The Secretary shall require the Internal Revenue Service to use technology to detect and screen out automated calls.
+(c)
+Information regarding delays
+For any week in which there was a significant delay with respect to any applicable item (referred to in this subsection as an
+applicable week
+), the Secretary shall require the Internal Revenue Service to provide on its public website, during the week subsequent to the applicable week, information with respect to each such applicable item regarding the earliest date on which any such applicable items that were processed during the applicable week were received by the Internal Revenue Service.
+(d)
+Definitions
+For purposes of this sectionâ
+(1)
+Applicable item
+The term
+applicable item
+means each category of tax return, claim, statement, or other document filed with the Internal Revenue Service.
+(2)
+Applicable phone number extension
+The term
+applicable phone number extension
+means any extension or application which may be reached by calling a phone number which is listed by the Internal Revenue Service on any website, publication, form, or instruction which is available to the public andâ
+(A)
+operated by the Internal Revenue Service accounts management function,
+(B)
+operated by the Internal Revenue Service automated collection function,
+(C)
+managed by the Internal Revenue Service Joint Operations Center,
+(D)
+managed and staffed by a contractor on behalf of the Internal Revenue Service, or
+(E)
+received not less than 200,000 calls during the preceding calendar year.
+(3)
+Significant delay
+The term
+significant delay
+means, in the case of any applicable item for any week, the failure to process all of such applicable items which were received by the Internal Revenue Service at least 21 days before the first day of the week.
+(e)
+Effective date
+The requirements of this section shall apply to periods beginning after the date which is 12 months after the date of enactment of this Act.
+3.
+Expansion of electronic access to information about returns and refunds
+Not later than January 1 of the first calendar year beginning more than 12 months after the date of enactment of this Act, through a website and mobile application, the Secretary shall provide individualized, specific, and up-to-date information to taxpayers regarding their tax returns and amended returns, including information with respect to whether the Internal Revenue Service hasâ
+(1)
+received such return and entered such return into their systems,
+(2)
+completed processing such return, includingâ
+(A)
+the date on which the Internal Revenue Service issued any refund of any overpayment of tax,
+(B)
+the estimated date on which the taxpayer can expect to receive such refund, and
+(C)
+(i)
+if the refund will be issued by electronic fund transfer, the financial account to which such refund will be deposited, includingâ
+(I)
+the partial or full account number for such account, and
+(II)
+the name and routing number of the financial institution, or
+(ii)
+if the refund will be issued by paper check, the address to which the check will be mailed, or
+(3)
+suspended processing such return, includingâ
+(A)
+the reason for the suspension, and
+(B)
+in the case of any information which was requested by the Internal Revenue Serviceâ
+(i)
+the information requested,
+(ii)
+the form and manner for submission of such information, and
+(iii)
+the date on which such information is due to be submitted to the Internal Revenue Service.
+4.
+Expansion of callback technology
+It is the sense of Congress thatâ
+(1)
+taxpayers contacting the Internal Revenue Service should have the option to receive a callback, and
+(2)
+not later than calendar year 2028, the Internal Revenue Service should provide any taxpayer (including any taxpayer residing outside of the United States) the option to receive a callback for any call made by the taxpayer to an applicable phone number extension (as defined in section 2(d)(2) of this Act) which has not been answered within 5 minutes.
+5.
+Expansion of online accounts
+(a)
+In general
+Not later than January 1 of the first calendar year beginning more than 18 months after the date of enactment of this Act, the Secretary shall make available a website or mobile application which allows any taxpayer (including any taxpayer residing outside of the United States) the ability toâ
+(1)
+in a manner consistent with any applicable limitations under
+section 6103
+of the Internal Revenue Code of 1986, view any return (as defined in
+section 6103(b)(1)
+of the Internal Revenue Code of 1986), document, notice, or letter (with the exception of any educational item which has no legal effect) which, during the applicable period (as defined in subsection (d)), has beenâ
+(A)
+sent by the Internal Revenue Service to such taxpayer, or
+(B)
+filed with (or, in the case of any document not required to be filed, sent to) the Internal Revenue Serviceâ
+(i)
+by such taxpayer,
+(ii)
+by a person described in subsection (c) of
+section 6103
+of the Internal Revenue Code of 1986 with respect to such taxpayer, or
+(iii)
+with respect to such taxpayer in a manner described in subsection (e) of such section,
+(2)
+with respect to any document, notice, or letter sent to such taxpayer by the Internal Revenue Service, respond to such document, notice, or letter by uploading or otherwise transmitting the taxpayerâs response through the website or mobile application, and
+(3)
+in the case ofâ
+(A)
+any representative of such taxpayer who is authorized to practice before the Department of the Treasury pursuant to section 330 of title 31, United States Code,
+(B)
+any tax return preparer (as defined in
+section 7701(a)(36)
+of the Internal Revenue Code of 1986) with an identifying number (as described in section 6109(a)(4) of such Code), or
+(C)
+any qualified reporting agent,
+permit such representative, preparer, or agent, to the extent authorized by the taxpayer, to access the information described in paragraph (1) or transmit any information described in paragraph (2).
+(b)
+Availability for viewing
+With respect to any return, document, notice, or letter described in paragraph (1) of subsection (a), such return, document, notice, or letter shall be made available for viewing by the taxpayer (or, pursuant to paragraph (3) of such subsection, any representative, tax return preparer, or qualified reporting agent authorized by the taxpayer) as soon as is practicable and within such periods as are established pursuant to regulations prescribed by the Secretary.
+(c)
+Access to multiple accounts by representative, preparer, or agent
+For purposes of subsection (a)(3), the website or mobile application shall allow a representative, tax return preparer, or qualified reporting agent to be able to access information for multiple taxpayers who have provided permission under such subsection without any requirement to individually and separately access the account of each such taxpayer.
+(d)
+Applicable period
+(1)
+In general
+Subject to paragraph (2), for purposes of subsection (a)(1), the term
+applicable period
+means the preceding 6-year period.
+(2)
+Prospective application
+The term
+applicable period
+shall not include any years ending before the date of enactment of this Act.
+(e)
+Qualified reporting agent
+(1)
+In general
+For purposes of this section, the term
+qualified reporting agent
+means a personâ
+(A)
+which is properly authorized as an agent to sign and file employment tax returns, make related payments and deposits, and perform such other acts on behalf of a taxpayer under procedures set forth by the Secretary,
+(B)
+which has met such requirements as may be established by the Secretary, and
+(C)
+for which authorization has not been revoked or suspended by the Secretary pursuant to procedures established by the Secretary.
+(2)
+Employment tax return
+For purposes of paragraph (1)(A), the term
+employment tax return
+meansâ
+(A)
+any return required to be filed by an employer to report the obligations of the employer and its employees under section 3101, 3111, 3301, or 3402 of the Internal Revenue Code of 1986, and
+(B)
+such other returns as designated by the Secretary.
+(f)
+Preventing unauthorized disclosure of return information by persons designated by taxpayers
+Not later than January 1 of the first calendar year beginning more than 18 months after the date of enactment of this Act, the Secretary shallâ
+(1)
+establish a program to investigate and addressâ
+(A)
+any access, use, or disclosure of return information (as defined in
+section 6103(b)
+of the Internal Revenue Code of 1986) by any person which is in excess of the authorization permitted to such person pursuant to subsection (a)(3), and
+(B)
+any related misconduct, and
+(2)
+annually publish, on the public website of the Internal Revenue Service, the actions undertaken pursuant to the program described in paragraph (1), such as the number of complaints investigated, the number of persons whose access was revoked, and other relevant statistical data.
+(g)
+Focus groups
+For purposes of subsection (a), prior to the date that the website or mobile application described in such subsection is made available, the Secretary shall conduct focus groups with taxpayers and tax professionals to ensure that any amounts appropriated or otherwise made available for such purposes are expended in an appropriate manner.

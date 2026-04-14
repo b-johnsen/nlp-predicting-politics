@@ -1,0 +1,90 @@
+1.
+Short title
+This Act may be cited as the
+Insurance Data Protection Act
+.
+2.
+Repeal of subpoena and enforcement authority
+Subsection (e) of section 313 of title 31, United States Code, is amended by striking paragraph (6).
+3.
+Confidentiality by Federal Insurance Office
+Paragraph (5) of section 313(e) of title 31, United States Code, is amendedâ
+(1)
+in subparagraph (A), by inserting after
+Office
+the following:
+and the sharing of any nonpublicly available data with or by the Office among other Federal agencies, the State insurance regulators and their collective agents, or any other entities
+;
+(2)
+in subparagraph (C)(ii), by inserting
+any privilege referred to in subparagraph (A) and
+after
+including
+; and
+(3)
+in subparagraph (D), by inserting
+including the exceptions thereunder,
+after
+United States Code,
+.
+4.
+Limitation on subpoenas by the Office of Financial Research
+Section 153(f)(1) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by inserting after
+financial company,
+the following:
+other than an insurance company (as defined under section 201(a)(13)),
+.
+5.
+Confidentiality by financial regulators
+(a)
+In general
+Title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by inserting at the end the following:
+D
+Treatment of data collected from insurance companies
+181.
+Treatment of data collected from insurance companies by financial regulators
+(a)
+Advance coordination
+Before collecting any data or information from a nonbank financial company that is an insurance company pursuant to this title or title II, a financial regulator shall coordinate with each relevant Federal agency and State insurance regulator and any publicly available sources to determine if the information to be collected is available from, and may be obtained in a timely manner by, such Federal agency or State insurance regulator, individually or collectively, other regulatory agency, or publicly available sources. If the financial regulator determines that such data or information is available, and may be obtained in a timely manner, from such an agency, regulator, regulatory agency, or source, the financial regulator shall obtain the data or information from such agency, regulator, regulatory agency, or source. If the financial regulator determines that such data or information is not so available, the financial regulator may collect such data or information from an insurance company only if the financial regulator complies with the requirements of subchapter I of
+chapter 35
+of title 44, United States Code (relating to Federal information policy; commonly known as the
+Paperwork Reduction Act
+), in collecting such data or information. Notwithstanding any other provision of law, each such relevant Federal agency and State insurance regulator or other Federal or State regulatory agency is authorized to provide to the financial regulator such data or information.
+(b)
+Confidentiality
+(1)
+Retention of privilege
+The sharing by a nonbank financial company that is an insurance company of any nonpublicly available data and information with a financial regulator under this title or title II shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
+(2)
+Continued application of prior confidentiality agreements
+Any requirement under Federal or State law to the extent otherwise applicable, or any requirement pursuant to a written agreement in effect between the original source of any nonpublicly available data or information and the source of such data or information to the financial regulator, regarding the privacy or confidentiality of any data or information in the possession of the source to a financial regulator, shall continue to apply to such data or information after the data or information has been provided pursuant to this subsection to the financial regulator.
+(3)
+Information-sharing agreement
+Any data or information obtained by a financial regulator may be made available to State insurance regulators, individually or collectively, through an information-sharing agreement thatâ
+(A)
+shall comply with applicable Federal law; and
+(B)
+shall not constitute a waiver of, or otherwise affect, any privilege under Federal or State law (including any privilege referred to in paragraph (1) and the rules of any Federal or State court) to which the data or information is otherwise subject.
+(4)
+Agency disclosure requirements
+Section 552 of title 5, United States Code, including the exceptions thereunder, shall apply to any data or information submitted to a financial regulator by a nonbank financial company that is an insurance company.
+(c)
+Definitions
+For purposes of this section:
+(1)
+Financial regulator
+The term
+financial regulator
+means the Commission, the Commodity Futures Trading Commission, the Council, the Federal banking agencies, and the Office of Financial Research.
+(2)
+Insurance company
+The term
+insurance company
+has the meaning given such term under section 201(a)(13).
+.
+(b)
+Technical amendment
+The table of contents for such Act is amended by inserting after the item relating to section 176 the following:
+Subtitle DâTreatment of data collected from insurance companies
+Sec. 181. Treatment of data collected from insurance companies by financial regulators.
+.

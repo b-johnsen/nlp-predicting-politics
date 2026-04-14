@@ -1,0 +1,316 @@
+1.
+Short title
+This Act may be cited as the
+Promoting Affordable Connectivity Act of 2024
+.
+2.
+Clarification of relationship to universal service contributions; FCC borrowing authority for Affordable Connectivity Program
+Section 904(i) of division N of the Consolidated Appropriations Act, 2021 (
+47 U.S.C. 1752(i)
+) is amendedâ
+(1)
+by striking paragraph (4);
+(2)
+by redesignating paragraph (5) as paragraph (4); and
+(3)
+by adding at the end the following:
+(5)
+Borrowing authority
+(A)
+In general
+During the 2-year period beginning on the date of enactment of the
+Promoting Affordable Connectivity Act of 2024
+, the Commission may borrow from the Treasury of the United States an amount not to exceed $25,000,000,000, to be used in the same manner as amounts in the Affordable Connectivity Fund.
+(B)
+Reimbursement
+Not later than 8 years after the date as of which the amendments made by subsections (a) and (b)(1) of section 3 of the
+Promoting Affordable Connectivity Act of 2024
+have been implemented, as determined by the Commission, the Commission shall, using amounts from the Federal universal service support mechanisms, reimburse the general fund of the Treasury for any amounts borrowed under subparagraph (A) of this paragraph.
+.
+3.
+Expansion of Universal Service Fund to support Affordable Connectivity Program
+(a)
+Expansion of Universal Service Fund contribution base To include edge providers and broadband providers
+Section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+) is amendedâ
+(1)
+in subsection (b)â
+(A)
+in paragraph (2), by inserting
+in a manner that promotes digital equity (as defined in section 60302 of the Digital Equity Act of 2021 (
+47 U.S.C. 1721
+))
+after
+all regions of the Nation
+; and
+(B)
+in paragraph (4), by inserting
+, all providers of edge services, all broadband providers, and all enterprise broadband service providers
+after
+providers of telecommunications services
+;
+(2)
+in subsection (d)â
+(A)
+in the subsection heading, by inserting
+, edge provider, and broadband provider
+after
+Telecommunications carrier
+;
+(B)
+by striking
+Every
+and inserting the following:
+(1)
+In general
+Every
+;
+(C)
+in the first sentence of paragraph (1), as so designated, by inserting
+, every edge provider, every broadband provider, and every enterprise broadband service provider
+after
+Every telecommunications carrier that provides interstate telecommunications services
+; and
+(D)
+by adding at the end the following:
+(2)
+Assessments
+In determining contribution assessments from all applicable carriers and providers for the preservation and advancement of universal service under paragraph (1), the Commission shall prioritize assessing greater contributionsâ
+(A)
+for edge services with respect to which the assessment is least likely to be directly passed on as increased costs to consumers through an explicit fee on invoices; and
+(B)
+from edge providers whose annual revenue (including revenue from any subsidiary edge provider) is greater than $5,000,000,000.
+;
+(3)
+in subsection (f), by adding at the end the following:
+For the purposes of this subsection, broadband internet access service, enterprise broadband service, and edge services shall be considered to be inherently interstate services.
+; and
+(4)
+by adding at the end the following:
+(m)
+Definitions
+For purposes of this section:
+(1)
+Broadband internet access service
+The term
+broadband internet access service
+â
+(A)
+has the meaning given the term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation; and
+(B)
+does not include enterprise broadband service.
+(2)
+Broadband provider
+The term
+broadband provider
+means a provider of broadband internet access service.
+(3)
+Edge provider
+The term
+edge provider
+â
+(A)
+means an entity whose primary or only business revenue is derived from providing an edge service; and
+(B)
+does not includeâ
+(i)
+the Federal Government, a State, a political subdivision of a State, an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 5304
+)), or any agency thereof;
+(ii)
+any organization that is described in subsection (c) of
+section 501
+of the Internal Revenue Code of 1986 and exempt from tax under subsection (a) of that section;
+(iii)
+any dual or concurrent enrollment program, early childhood education program, early college high school, educational service agency, elementary school, or secondary school, as those terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 7801
+);
+(iv)
+any area career and technical education school, as defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (
+20 U.S.C. 2302
+); or
+(v)
+any institution of higher education, as defined in section 102 of the Higher Education Act of 1965 (
+20 U.S.C. 1002
+).
+(4)
+Edge service
+The term
+edge service
+â
+(A)
+means a service thatâ
+(i)
+requires the user to subscribe or establish an account in order toâ
+(I)
+access or publish content that is available publicly; or
+(II)
+access, post, or publish content for individuals approved by the user;
+(ii)
+allows the user to purchase, download, or access content, applications, or services from the edge provider without a subscription or account;
+(iii)
+enables the user to initiate a search query for particular information using the internet and is capable of returning at least 1 search result unaffiliated with the provider of the service;
+(iv)
+is a cloud computing or digital advertising service; or
+(v)
+requires or allows the user to divulge personally identifiable information of the user;
+(B)
+includes a service described in subparagraph (A) that is provided through a software program, including a mobile application; and
+(C)
+does not include an online patient portal operated by a hospital or other health care provider.
+(5)
+Enterprise broadband service
+The term
+enterprise broadband service
+means any communications product or service, regardless of regulatory classification, thatâ
+(A)
+is primarily offered to business entities to support or manage business operations;
+(B)
+is not ordinarily offered to mass market customers; and
+(C)
+includes transmission or a combination of transmission and information processing, whether facilities-based or resold, including dedicated internet access, virtual private networks (commonly known as
+VPNs
+), wide area networks (commonly known as
+WANs
+), multi-protocol label switching-enabled services, and ethernet services.
+(6)
+Enterprise broadband service provider
+The term
+enterprise broadband service provider
+means a provider of enterprise broadband service.
+(7)
+Personally identifiable information
+The term
+personally identifiable information
+means information described in clauses (i) through (vi) of subparagraph (A), or subparagraph (B), of section 101(41A) of title 11, United States Code.
+.
+(b)
+Funding for Affordable Connectivity Program from Universal Service Fund
+(1)
+Modification of Universal Service Fund
+Section 254(c) of the Communications Act of 1934 (
+47 U.S.C. 254(c)
+) is amended by adding at the end the following:
+(4)
+Affordable Connectivity Program
+The Affordable Connectivity Program established under section 904(b)(1) of division N of the Consolidated Appropriations Act, 2021 (
+47 U.S.C. 1752(b)(1)
+) shall be supported by the Federal universal service support mechanisms.
+.
+(2)
+Inapplicability of certain requirements
+Section 254(e) of the Communications Act of 1934 (
+47 U.S.C. 254(e)
+) is amendedâ
+(A)
+by striking
+After the date
+and inserting the following:
+(1)
+In general
+After the date
+; and
+(B)
+by adding at the end the following:
+(2)
+Inapplicability to certain providers
+(A)
+In general
+The requirements under paragraph (1) shall not apply with respect to the participation of a provider in the Affordable Connectivity Program established under section 904(b)(1) of division N of the Consolidated Appropriations Act, 2021 (
+47 U.S.C. 1752(b)(1)
+).
+(B)
+Rule of construction
+Nothing in subparagraph (A) shall be construed to apply with respect to the receipt of Federal universal service support for any purpose other than participation in the Affordable Connectivity Program.
+.
+(3)
+Conforming amendments
+Section 904(b) of division N of the Consolidated Appropriations Act, 2021 (
+47 U.S.C. 1752(b)
+) is amendedâ
+(A)
+in paragraphs (1), (4), and (5), by inserting
+or the Universal Service Fund under section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+)
+after
+the Affordable Connectivity Fund established in subsection (i)
+each place that term appears; and
+(B)
+in paragraph (12), by inserting
+or the Universal Service Fund under section 254 of the Communications Act of 1934 (
+47 U.S.C. 254
+)
+after
+the Affordable Connectivity Fund
+each place that term appears.
+(c)
+Regulations; effective date
+(1)
+Regulations
+(A)
+In general
+Not later than 2 years after the date of enactment of this Act, the Federal Communications Commission shall promulgate regulations to implement the amendments made by subsections (a) and (b)(1).
+(B)
+Staggered implementation
+In promulgating regulations under subparagraph (A), the Federal Communications Commission shall ensure that the amendments made by subsection (a) are implemented not later than 270 days before the amendment made by subsection (b)(1) is implemented.
+(C)
+Paperwork Reduction Act requirements
+A collection of information conducted or sponsored under any regulation promulgated under subparagraph (A) shall not constitute a collection of information for the purposes of subchapter 1 of
+chapter 35
+of title 44, United States Code (commonly referred to as the
+Paperwork Reduction Act
+).
+(2)
+Effective date
+The amendments made by subsections (a) and (b) shall take effect on the date of enactment of this Act.
+4.
+Ensuring quick application of affordable connectivity benefit to user account
+(a)
+In general
+Section 904(b) of division N of the Consolidated Appropriations Act, 2021 (
+47 U.S.C. 1752(b)
+) is amendedâ
+(1)
+by redesignating paragraphs (8) through (15) as paragraphs (9) through (16), respectively; and
+(2)
+by inserting after paragraph (7) the following:
+(8)
+Timing of application of affordable connectivity benefit to account of eligible household
+(A)
+In general
+Not later than the next billing cycle after the billing cycle in which a participating provider verifies that a household is an eligible household under paragraph (2), the participating provider shall apply the affordable connectivity benefit to the internet service offering specified by the eligible household.
+(B)
+Guidance
+Not later than 18 months after the date of enactment of the
+Promoting Affordable Connectivity Act of 2024
+, the Commission shall issue guidance for participating providers to comply with subparagraph (A).
+.
+(b)
+Conforming amendment
+Paragraph (15) of section 904(b) of division N of the Consolidated Appropriations Act, 2021 (
+47 U.S.C. 1752(b)
+), as so redesignated by subsection (a), is amended by striking
+paragraph (12)
+and inserting
+paragraph (13)
+.
+5.
+Flexibility to modify Affordable Connectivity Program requirements
+Section 904 of division N of the Consolidated Appropriations Act, 2021 (
+47 U.S.C. 1752
+) is amended by adding at the end the following:
+(k)
+Authority To revise program requirements
+(1)
+In general
+As may be appropriate to improve the functionality, administrability, or sustainability of the Affordable Connectivity Program, the Commission may promulgate regulations to alter or eliminate any requirement for the program under this section, including a requirement related to eligibility or benefit reimbursements.
+(2)
+Paperwork Reduction Act requirements
+A collection of information conducted or sponsored under any regulation promulgated under paragraph (1) shall not constitute a collection of information for the purposes of subchapter 1 of
+chapter 35
+of title 44, United States Code (commonly referred to as the
+Paperwork Reduction Act
+).
+.

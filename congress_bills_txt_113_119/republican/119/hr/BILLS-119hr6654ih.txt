@@ -1,0 +1,97 @@
+1.
+Short title
+This Act may be cited as the
+Veterans Affairs Management and Oversight of Software Assets Act of 2025
+or the
+VAMOSA Act of 2025
+.
+2.
+Department-wide software asset management policy for the Department of Veterans Affairs
+(a)
+In general
+Subchapter II of
+chapter 5
+of title 38, United States Code, is amended by adding at the end the following new section:
+534.
+Department-wide software asset management policy
+(a)
+Establishment
+The Secretary shall ensure coordination between the Chief Information Officer and such other officers as the Secretary considers appropriate to establish and implement a comprehensive policy for managing software assets.
+(b)
+Minimum elements
+The policy required by subsection (a) shall, at a minimum, provide for the following:
+(1)
+Maintaining a comprehensive inventory of software assets.
+(2)
+Assessing interoperability and license restrictions with respect to those assets.
+(3)
+Identifying and eliminating waste, fraud, and abuse, including by regularly comparing the inventory maintained under paragraph (1) against purchase records, subscription records, vendor billing records, and contract files to identify discrepancies, over-procurement, redundant purchases, unauthorized use, and under-utilized licenses.
+(4)
+Requiring that the Chief Information officer coordinate with the relevant officials in the Department regarding any significant acquisition of a software asset.
+(5)
+Adopting cost-effective licensing strategies, including enterprise-wide agreements where practicable.
+(6)
+Measuring and enforcing compliance with license terms.
+(c)
+Reviews and updates
+Not less than once every three years, the Chief Information Officer, in consultation with the Chief Financial Officer and any other appropriate officials of the Department, or their designees, shall review and update the policy.
+(d)
+Training
+The Secretary shall ensure that each employee responsible for acquiring, managing, or implementing software assets receives training no less often than annually on matters relevant to their duties, including such matters asâ
+(1)
+negotiating contract terms to minimize vendor-imposed restrictions on deployment, data access, and transferability;
+(2)
+the differences between acquiring commercial software and custom software development; and
+(3)
+evaluating cost models for seat-based, consumption-based, enterprise, or scalable license structures.
+(e)
+Use of existing resources
+This section shall be implemented using existing personnel, systems, and funds. This section does not authorize additional appropriations or the establishment of a new program, office, or organizational entity.
+(f)
+Annual report
+The Secretary shall include, in the annual report submitted to Congress under section 529 of this titleâ
+(1)
+a description of any substantive updates to the policy made during the preceding year; and
+(2)
+an estimate of cost savings realized from implementation of the policy during the preceding year.
+(g)
+Definitions
+In this section:
+(1)
+The term
+comprehensive inventory of software assets
+â
+(A)
+includesâ
+(i)
+the comprehensive inventory of software licenses required by section 2(b)(2)(A) of the Making Electronic Government Accountable By Yielding Tangible Efficiencies Act of 2016 (
+Public Law 114â210
+;
+40 U.S.C. 11302
+note) and any directive issued by the Director of the Office of Management and Budget under that Act; and
+(ii)
+a comprehensive inventory of all other software assets (as defined in this section); and
+(B)
+reflects all accounts, subscriptions, tenants, deployments, and associated license or usage entitlements.
+(2)
+The term
+software asset
+means any software, software-as-a-service (SaaS) product, cloud-based service, platform service, or application programming interface (API) service for which the Department incurs a cost to acquire, license, subscribe, operate, or maintain, whether hosted on Government-managed or vendor-managed infrastructure. The term includes any associated software license, subscription, usage right, seat entitlement, capacity allocation, or consumption-based entitlement that governs access to or use of such software functionality.
+(h)
+Sunset
+The requirements and authorities of this section shall terminate on the date that is five years after the date of the enactment of the VAMOSA Act.
+.
+(b)
+Clerical amendment
+The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 533 the following new item:
+534. Department-wide software asset management policy.
+.
+(c)
+GAO report
+Not later than three years after the date of the enactment of this Act, the Comptroller General shall submit to the Committees on Veteransâ Affairs of the Senate and the House of Representatives a report evaluatingâ
+(1)
+the Departmentâs implementation of section 534 of title 38, United States Code, as added by this section;
+(2)
+the cost savings achieved and duplication reduced; and
+(3)
+the degree of operational independence and conflict avoidance in any contractor support used to perform inventory management or entitlement reconciliation.

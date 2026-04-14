@@ -1,0 +1,223 @@
+1.
+Short title
+This Act may be cited as the
+Strengthening Agency Management and Oversight of Software Assets Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Administrator
+The term
+Administrator
+means the Administrator of General Services.
+(2)
+Agency
+The term
+agency
+has the meaning given the term
+establishment
+in
+section 12
+of the Inspector General Act of 1978 (5 U.S.C. App.).
+(3)
+Cloud computing
+The term
+cloud computing
+has the meaning given the term in Special Publication 800â145 of the National Institute of Standards and Technology, or any successor document.
+(4)
+Cloud service provider
+The term
+cloud service provider
+means an entity offering cloud computing products or services to agencies.
+(5)
+Comprehensive assessment
+The term
+comprehensive assessment
+means a comprehensive assessment conducted pursuant to section 3(a).
+(6)
+Director
+The term
+Director
+means the Director of the Office of Management and Budget.
+(7)
+Plan
+The term
+plan
+means the plan developed by a Chief Information Officer, or equivalent official, pursuant to section 4(a).
+(8)
+Software entitlement
+The term
+software entitlement
+means any software thatâ
+(A)
+has been purchased, leased, or licensed by or billed to an agency under any contract or other business arrangement; and
+(B)
+is subject to use limitations.
+(9)
+Software inventory
+The term
+software inventory
+means the software inventory of an agency required pursuant toâ
+(A)
+section 2(b)(2)(A) of the Making Electronic Government Accountable By Yielding Tangible Efficiencies Act of 2016 (
+40 U.S.C. 11302
+note;
+Public Law 114â210
+); or
+(B)
+subsequent guidance issued by the Director of the Office of Management and Budget pursuant to that Act.
+3.
+Software entitlement and inventory integrity
+(a)
+In general
+As soon as practicable, and not later than 1 year after the date of enactment of this Act, the Chief Information Officer of each agency, in consultation with the Chief Financial Officer, the Chief Procurement Officer, and General Counsel of the agency, or the equivalent officials of the agency, shall complete a comprehensive assessment of the software entitlements and software inventories of the agency, which shall includeâ
+(1)
+the current software inventory of the agency, including software entitlements, contracts and other agreements or arrangements of the agency, and a list of the largest software entitlements of the agency separated by vendor and category of software;
+(2)
+a comprehensive, detailed accounting ofâ
+(A)
+any software deployed for the agency as of the date of the comprehensive assessment, including, to the extent identifiable, the contracts and other agreements or arrangements that the agency uses to acquire, deploy, or use such software;
+(B)
+information and data on software entitlements, which shall include information on any additional fees or costs for the use of cloud services that is not included in the initial costs of the contract, agreement, or arrangementâ
+(i)
+for which the agency pays;
+(ii)
+that are not deployed or in use by the agency; and
+(iii)
+that are billed to the agency under any contract or business arrangement that creates redundancy in the deployment or use by the agency; and
+(C)
+the extentâ
+(i)
+to which any software paid for, in use, or deployed throughout the agency is interoperable; and
+(ii)
+of the efforts of the agency to improve interoperability of software assets throughout the agency enterprise;
+(3)
+a categorization of software licenses of the agency by cost, volume, and type of software;
+(4)
+a list of any provisions in the software licenses of the agency that may restrict how the software can be deployed, accessed, or used, including any such restrictions on desktop or server hardware or through a cloud service provider; and
+(5)
+an analysis addressingâ
+(A)
+the accuracy and completeness of the software inventory and software entitlements of the agency before and after the comprehensive assessment;
+(B)
+management by the agency of and compliance by the agency with all contracts or other agreements or arrangements that include or implicate software licensing or software management within the agency;
+(C)
+the extent to which the agency accurately captures the total cost of enterprise licenses agreements and related costs, including the total cost of upgrades over the life of a contract, cloud usage cost per user, and any other cost associated with the maintenance or servicing of contracts; and
+(D)
+compliance with software license management policies of the agency.
+(b)
+Contract support
+(1)
+Authority
+The head of an agency may enter into 1 or more contracts to support the requirements of subsection (a).
+(2)
+No conflict of interest
+Contracts under paragraph (1) shall not include contractors with organization conflicts of interest.
+(3)
+Operational independence
+Over the course of a comprehensive assessment, contractors hired pursuant to paragraph (1) shall maintain operational independence from the integration, management, and operations of the software inventory and software entitlements of the agency.
+(c)
+Submission
+On the date on which the Chief Information Officer, Chief Financial Officer, Chief Procurement Officer, and General Counsel of an agency, or the equivalent officials of the agency, complete the comprehensive assessment, and not later than 1 year after the date of enactment of this Act, the Chief Information Officer shall submit the comprehensive assessment toâ
+(1)
+the head of the agency;
+(2)
+the Director;
+(3)
+the Administrator;
+(4)
+the Comptroller General of the United States;
+(5)
+the Committee on Homeland Security and Governmental Affairs of the Senate; and
+(6)
+the Committee on Oversight and Reform of the House of Representatives.
+(d)
+Consultation
+In order to ensure the utility and standardization of the comprehensive assessment of each agency, including to support the development of each plan and the governmentwide strategy described in section 5, the Director, in consultation with the Administrator, may share information, best practices, and recommendations relating to the activities performed in the course of a comprehensive assessment of an agency.
+4.
+Enterprise licensing positioning at agencies
+(a)
+In general
+The Chief Information Officer of each agency, in consultation with the Chief Financial Officer and the Chief Procurement Officer of the agency, or the equivalent officials of the agency, shall use the information developed pursuant to the comprehensive assessment of the agency under section 3(a) to develop a plan for the agencyâ
+(1)
+to consolidate software licenses of the agency; and
+(2)
+to the greatest extent practicable, in order to improve the performance of, or reduce unnecessary costs to, the agency, to adopt enterprise license agreements across the agency, by type or category of software.
+(b)
+Plan requirements
+The plan of an agency shallâ
+(1)
+include a detailed strategy forâ
+(A)
+the remediation of any software asset management deficiencies found during the comprehensive assessment of the agency;
+(B)
+the ongoing maintenance of software asset management upon the completion of the remediation; and
+(C)
+maximizing the effectiveness of software deployed by the agency, including, to the extent practicable, leveraging technologies thatâ
+(i)
+provide in-depth analysis of user behaviors and collect user feedback;
+(ii)
+measure actual software usage via analytics that can identify inefficiencies to assist in rationalizing software spending;
+(iii)
+allow for segmentation of the user base;
+(iv)
+support effective governance and compliance in the use of software; and
+(v)
+support interoperable capabilities between software;
+(2)
+identify not fewer than 5 categories of software the agency will prioritize for conversion to enterprise licenses as the software entitlements, contracts, and other agreements or arrangements for those categories come up for renewal or renegotiation;
+(3)
+provide an estimate of the costs to move to enterprise, open-source, or other licenses that do not restrict the use of software by the agency, and any projected cost savings or efficiency measures throughout the total software lifecycle;
+(4)
+identify potential mitigations to minimize software license restrictions on how such software can be deployed, accessed, or used, including any mitigations that would minimize any such restrictions on desktop or server hardware or through a cloud service provider;
+(5)
+include any estimates for additional resources, services, or support the agency may need to execute the enterprise licensing position plan;
+(6)
+provide information on the prevalence of software products in use across multiple software categories; and
+(7)
+include any additional information, data, or analysis determined necessary by the Chief Information Officer, or other equivalent official, of the agency.
+(c)
+Support
+The Chief Information Officer, or other equivalent official, of an agency may request support from the Director and the Administrator for any analysis or developmental needs to create the plan of the agency.
+(d)
+Submission
+Not later than 120 days after the date on which the Chief Information Officer, or other equivalent official, of an agency submits the comprehensive assessment pursuant to section 3(c), the head of the agency shall submit to the Director, the
+Committee on Homeland Security and Governmental Affairs of the Senate
+, and the
+Committee on Oversight and Reform of the House of Representatives
+the plan of the agency.
+5.
+Governmentwide strategy
+(a)
+In general
+Not later than 2 years after the date of enactment of this Act, the Director, in consultation with the Administrator and the Federal Chief Information Officers Council, shall submit to the
+Committee on Homeland Security and Governmental Affairs of the Senate
+and the
+Committee on Oversight and Reform of the House of Representatives
+a strategy that includesâ
+(1)
+proposals to support the adoption of governmentwide enterprise licenses on the most widely used and most costly software entitlements identified through the comprehensive assessment and plans, including, where appropriate, a cost-benefit analysis;
+(2)
+opportunities to leverage Government procurement policies and practices to increase interoperability of software entitlements acquired and deployed to reduce costs and improve performance;
+(3)
+the incorporation of data on spending by agencies on, the performance of, and management by agencies of software entitlements as part of the information required under section 11302(c)(3)(B) of title 40, United States Code;
+(4)
+where applicable, directions to agencies to examine options and relevant criteria for transitioning to open-source software; and
+(5)
+any other information or data collected or analyzed by the Director.
+(b)
+Budget Submission
+(1)
+First budget
+With respect to the first budget of the President submitted under section 1105(a) of title 31, United States Code, on or after the date that is 2 years after the date of enactment of this Act, the Director shall ensure that the strategy required under subsection (a) of this section and the plan of each agency are included in the budget justification materials of each agency submitted in conjunction with that budget.
+(2)
+Subsequent 5 budgets
+With respect to the first 5 budgets of the President submitted under section 1105(a) of title 31, United States Code, after the budget described in paragraph (1), the Director shallâ
+(A)
+designate performance metrics for agencies for common software licensing, management, and cost criteria; and
+(B)
+ensure that the progress of each agency toward the performance metrics is included in the budget justification materials of the agency submitted in conjunction with that budget.
+6.
+GAO report
+Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on governmentwide trends, comparisons among agencies, and other analyses of plans and the strategy required under section 5(a) by the Comptroller General of the United States.

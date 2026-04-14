@@ -1,0 +1,27 @@
+1.
+Short title
+This Act may be cited as the
+Patient Matching Improvement Act of 2021
+.
+2.
+Use of United States Postal Service formatting tools
+(a)
+United States Postal Service formatting tools
+(1)
+In general
+Not later than 90 days after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the National Coordinator for Health Information Technology, shallâ
+(A)
+collaborate with the United States Postmaster General in order to make its electronic address formatting tools available, as appropriate and consistent with the terms and conditions of such tools, to health care organizations (including hospitals, physician offices, electronic health record vendors, State and local health departments, registries, laboratories, and other organizations as determined necessary by the Secretary) for use in health information technology systems;
+(B)
+ensure that the electronic address formatting tools that are made available to health care organizations are able to transform single address records and multiple, simultaneous address records into the United States Postal Service preferred address format; and
+(C)
+collaborate with the United States Postmaster General to prevent any limitations on the number of records formatted using the address formatting tools or health care organizations that could use the electronic address formatting tools.
+(2)
+COVIDâ19 laboratory testing
+Not later than 90 days after the date of enactment of this Act, the Secretary of Health and Human Services shall collaborate with the United States Postmaster General in order to make its electronic address formatting tools available, as appropriate and consistent with the terms and conditions of such tools, to laboratories engaged in COVIDâ19 testing to improve, as appropriate, data collection consistent with State and local laws.
+(3)
+Certification
+Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services shall promulgate an interim final rule to require the standardization of addresses in the United States Postal Service format or subsequent health care specific standard as the standard for addresses when communicated through application programming interfaces. The Secretary shall update any applicable standard and certification requirements pursuant to sections 3004 and 3001(c)(5) of the Public Health Service Act.
+(b)
+Report
+Not later than 120 days after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with the United States Postmaster General, shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Energy and Commerce and the Committee on Oversight and Reform of the House of Representatives, a report that identifies any barriers, as applicable, to making the tools described in subsection (a) available for purposes of such section if the Postmaster General determines that such tools may not be made available at such time.

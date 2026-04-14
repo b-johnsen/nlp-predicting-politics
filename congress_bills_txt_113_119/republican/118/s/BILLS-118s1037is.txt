@@ -1,0 +1,73 @@
+1.
+Short title
+This Act may be cited as the
+Department of Veterans Affairs EHRM Standardization and Accountability Act
+.
+2.
+Prohibition on certain activities by Secretary of Veterans Affairs under Electronic Health Record Modernization Program until certification of system stability improvements
+(a)
+Certification of improvement
+(1)
+Prohibition
+The Secretary of Veterans Affairs may not commence a program activity at a facility of the Veterans Health Administration where no program activity has commenced as of the date of the enactment of this Act until the date on which the Secretary submits to the Committee on Veteransâ Affairs of the Senate and the Committee on Veteransâ Affairs of the House of Representatives a written certification that the electronic health record system has met the improvement objective described in paragraph (2).
+(2)
+Improvement objective
+The improvement objective described in this paragraph isâ
+(A)
+the achievement of a minimum uptime and system-wide stability standard for the electronic health record system, as defined by the Secretary in consultation with the Under Secretary for Health, the Assistant Secretary for Information and Technology, and the Chief Information Officer of the Department of Veterans Affairs; and
+(B)
+the submittal by the Secretary to the Committee on Veteransâ Affairs of the Senate and the Committee on Veteransâ Affairs of the House of Representatives of a report detailing the completion status of corrections to the customization and configuration of workflow designs related to the electronic health record system.
+(b)
+Certification of readiness
+(1)
+In general
+The Secretary may not implement the electronic health record system at a facility of the Veterans Health Administration where such system has not been implemented as of the date of the enactment of this Act until the date on which the Under Secretary for Health, in consultation with the director of such facility, submits to the Secretary, and the Secretary transmits to the Committee on Veteransâ Affairs of the Senate and the Committee on Veteransâ Affairs of the House of Representatives, written certification that the staff and infrastructure of such facility are adequately prepared to receive such system.
+(2)
+Sunset
+This subsection shall terminate on the date on which the Secretary has made the certification under paragraph (1) at not less than one facility of the Veterans Health Administration for each of the complexity levels of 1, 2, and 3.
+(c)
+Exclusion
+This section does not apply to any facility that is jointly operated by the Department of Veterans Affairs and the Department of Defense.
+(d)
+Report
+(1)
+Initial report
+Not later than 30 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veteransâ Affairs of the Senate and the Committee on Veteransâ Affairs of the House of Representatives a report that contains the following:
+(A)
+A comprehensive review of the systems and networks of the Department of Defense within the Federal electronic health record environment, including the Defense Enrollment Eligibility Reporting System, and the potential impacts of such systems and networks on the electronic health record system.
+(B)
+With respect to certifications of the readiness of a facility to receive the electronic health record system under subsection (b)â
+(i)
+the single, standard pre-deployment site readiness task list through which the Secretary will determine such readiness;
+(ii)
+a determination by the Secretary ofâ
+(I)
+how the Secretary will align staff of the facility to the electronic health record system functionality; and
+(II)
+the minimum percentage requirement of staff at the facility who will complete training on such functionality or who will have their primary role to be working with such system to achieve such readiness.
+(C)
+The national standard for workflows, system interfaces, medical devices, clinical content, order sets, and user roles as delineated by the clinical complexity index of the Department of Veterans Affairs forâ
+(i)
+facilities at complexity levels of 2 or 3; and
+(ii)
+facilities at complexity levels of 1.
+(2)
+Quarterly report
+Not less frequently than quarterly following the initial report required under paragraph (1), the Secretary shall submit to the Committee on Veteransâ Affairs of the Senate and the Committee on Veteransâ Affairs of the House of Representatives a detailed report onâ
+(A)
+any site level deviations from the national standard specified under paragraph (1)(C) and costs associated with such deviations; and
+(B)
+any changes to standard readiness task list specified under paragraph (1)(B)(i).
+(e)
+Definitions
+In this section:
+(1)
+Electronic health record system
+The term
+electronic health record system
+means the electronic health record system implemented pursuant to the Electronic Health Record Modernization Program.
+(2)
+Program activity
+The term
+program activity
+means an activity under the Electronic Health Record Modernization Program at a facility of the Veterans Health Administration, including any site assessment (including State reviews), local or national workshop, training, testing, or any other activity conducted before the activation of the electronic health record system.

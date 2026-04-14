@@ -1,0 +1,447 @@
+1.
+Short title; etc
+(a)
+Short title
+This Act may be cited as the
+21st Century IRS Act
+.
+(b)
+Amendment of 1986 Code
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+(c)
+Table of contents
+The table of contents of this Act is as follows:
+Sec. 1. Short title; etc.
+Title IâCybersecurity and identity protection
+Sec. 101. Public-private partnership to address identity theft refund fraud.
+Sec. 102. Recommendations of Electronic Tax Administration Advisory Committee regarding identity theft refund fraud.
+Sec. 103. Information sharing and analysis center.
+Sec. 104. Compliance by contractors with confidentiality safeguards.
+Sec. 105. Report on electronic payments.
+Title IIâDevelopment of information technology
+Sec. 201. Management of Internal Revenue Service information technology.
+Sec. 202. Development of online accounts and portals.
+Sec. 203. Internet platform for Form 1099 filings.
+Title IIIâModernization of consent-based income verification system
+Sec. 301. Disclosure of taxpayer information for third-party income verification.
+Sec. 302. Limit redisclosures and uses of consent-based disclosures of tax return information.
+Title IVâExpanded use of electronic systems
+Sec. 401. Electronic filing of returns.
+Sec. 402. Uniform standards for the use of electronic signatures for disclosure authorizations to, and other authorizations of, practitioners.
+Sec. 403. Payment of taxes by debit and credit cards.
+I
+Cybersecurity and identity protection
+101.
+Public-private partnership to address identity theft refund fraud
+The Secretary of the Treasury (or the Secretaryâs delegate) shall work collaboratively with the public and private sectors to protect taxpayers from identity theft refund fraud.
+102.
+Recommendations of Electronic Tax Administration Advisory Committee regarding identity theft refund
+fraud
+The Secretary of the Treasury shall ensure that the advisory group convened by the Secretary pursuant to section 2001(b)(2) of the Internal Revenue Service Restructuring and Reform Act of 1998 (commonly known as the Electronic Tax Administration Advisory Committee) studies (including by providing organized public forums) and makes recommendations to the Secretary regarding methods to prevent identity theft and refund fraud.
+103.
+Information sharing and analysis center
+(a)
+In general
+The Secretary of the Treasury (or the Secretaryâs delegate) may participate in an information sharing and analysis center to centralize, standardize, and enhance data compilation and analysis to facilitate sharing actionable data and information with respect to identity theft tax refund fraud.
+(b)
+Development of performance metrics
+The Secretary of the Treasury (or the Secretaryâs delegate) shall develop metrics for measuring the success of such center in detecting and preventing identity theft tax refund fraud.
+(c)
+Disclosure
+(1)
+In general
+Section 6103(k)
+is amended by adding at the end the following new paragraph:
+(13)
+Disclosure of return information for purposes of cybersecurity and the prevention of identity theft tax refund fraud
+(A)
+In general
+Under such procedures and subject to such conditions as the Secretary may prescribe, the Secretary may disclose specified return information to specified ISAC participants to the extent that the Secretary determines such disclosure is in furtherance of effective Federal tax administration relating to the detection or prevention of identity theft tax refund fraud, validation of taxpayer identity, authentication of taxpayer returns, or detection or prevention of cybersecurity threats.
+(B)
+Specified ISAC participants
+For purposes of this paragraphâ
+(i)
+In general
+The term
+specified ISAC participant
+meansâ
+(I)
+any person designated by the Secretary as having primary responsibility for a function performed with respect to the information sharing and analysis center described in section 403(a) of the
+21st Century IRS Act
+, and
+(II)
+any person subject to the requirements of section 7216 and which is a participant in such information sharing and analysis center.
+(ii)
+Information sharing agreement
+Such term shall not include any person unless such person has entered into a written agreement with the Secretary setting forth the terms and conditions for the disclosure of information to such person under this paragraph, including requirements regarding the protection and safeguarding of such information by such person.
+(C)
+Specified return information
+For purposes of this paragraph, the term
+specified return information
+meansâ
+(i)
+in the case of a return which is in connection with a case of potential identity theft refund fraudâ
+(I)
+in the case of such return filed electronically, the internet protocol address, device identification, email domain name, speed of completion, method of authentication, refund method, and such other return information related to the electronic filing characteristics of such return as the Secretary may identify for purposes of this subclause, and
+(II)
+in the case of such return prepared by a tax return preparer, identifying information with respect to such tax return preparer, including the preparer taxpayer identification number and electronic filer identification number of such preparer,
+(ii)
+in the case of a return which is in connection with a case of a identity theft refund fraud which has been confirmed by the Secretary (pursuant to such procedures as the Secretary may provide), the information referred to in subclauses (I) and (II) of clause (i), the name and taxpayer identification number of the taxpayer as it appears on the return, and any bank account and routing information provided for making a refund in connection with such return, and
+(iii)
+in the case of any cybersecurity threat to the Internal Revenue Service, information similar to the information described in subclauses (I) and (II) of clause (i) with respect to such threat.
+(D)
+Restriction on use of disclosed information
+(i)
+Designated third parties
+Any return information received by a person described in subparagraph (B)(i)(I) shall be used only for the purposes of and to the extent necessary inâ
+(I)
+performing the function such person is designated to perform under such subparagraph,
+(II)
+facilitating disclosures authorized under subparagraph (A) to persons described in subparagraph (B)(i)(II), and
+(III)
+facilitating disclosures authorized under subsection (d) to participants in such information sharing and analysis center.
+(ii)
+Return preparers
+Any return information received by a person described in subparagraph (B)(i)(II) shall be treated for purposes of section 7216 as information furnished to such person for, or in connection with, the preparation of a return of the tax imposed under chapter 1.
+(E)
+Data protection and safeguards
+Return information disclosed under this paragraph shall be subject to such protections and safeguards as the Secretary may require in regulations or other guidance or in the written agreement referred to in subparagraph (B)(ii). Such written agreement shall include a requirement that any unauthorized access to information disclosed under this paragraph, and any breach of any system in which such information is held, be reported to the Treasury Inspector General for Tax Administration.
+.
+(2)
+Application of civil and criminal penalties
+(A)
+Section 6103(a)(3)
+is amended by striking
+subsection (k)(10)
+and inserting
+paragraph (10) or (13) of subsection (k)
+.
+(B)
+Section 7213(a)(2)
+is amended by inserting
+or (13)
+after
+(k)(10)
+.
+104.
+Compliance by contractors with confidentiality safeguards
+(a)
+In General
+Section 6103(p)
+is amended by adding at the end the following new paragraph:
+(9)
+Disclosure to contractors and other agents
+Notwithstanding any other provision of this section, no return or return information shall be disclosed to any contractor or other agent of a Federal, State, or local agency unless such agency, to the satisfaction of the Secretaryâ
+(A)
+has requirements in effect which require each such contractor or other agent which would have access to returns or return information to provide safeguards (within the meaning of paragraph (4)) to protect the confidentiality of such returns or return information,
+(B)
+agrees to conduct an on-site review every 3 years (or a mid-point review in the case of contracts or agreements of less than 3 years in duration) of each contractor or other agent to determine compliance with such requirements,
+(C)
+submits the findings of the most recent review conducted under subparagraph (B) to the Secretary as part of the report required by paragraph (4)(E), and
+(D)
+certifies to the Secretary for the most recent annual period that such contractor or other agent is in compliance with all such requirements.
+The certification required by subparagraph (D) shall include the name and address of each
+contractor and other agent, a description of the contract or agreement
+with such contractor or other agent, and the duration of such contract or
+agreement. The requirements of this paragraph shall not apply to
+disclosures pursuant to subsection (n) for purposes of Federal tax
+administration.
+.
+(b)
+Conforming Amendment
+Section 6103(p)(8)(B)
+is amended by inserting
+or paragraph (9)
+after
+subparagraph (A)
+.
+(c)
+Effective Date
+The amendments made by this subsection shall apply to disclosures made after December 31, 2022.
+105.
+Report on electronic payments
+Not later than 2 years after the date of the enactment of this Act, the Secretary (or the Secretaryâs delegate), in coordination with the Bureau of Fiscal Service and the Internal Revenue Service, and in consultation with private sector financial institutions, shall submit a written report to Congress describing how the government can utilize new payment platforms to increase the number of tax refunds paid by electronic funds transfer. Such report shall weigh the interests of reducing identity theft tax refund fraud, reducing the Federal Governmentâs costs in delivering tax refunds, the costs and any associated fees charged to taxpayers (including monthly and point-of-service fees) to access their tax refunds, the impact on individuals who do not have access to financial accounts or institutions, and ensuring payments are made to accounts at a financial institution that complies with section 21 of the Federal Deposit Insurance Act, chapter 2 of title I of
+Public Law 91â508
+, and subchapter II of
+chapter 53
+of title 31, United States Code (commonly referred to collectively as the
+Bank Secrecy Act
+) and the USA PATRIOT Act. Such report shall include any legislative recommendations necessary to accomplish these goals.
+II
+Development of information technology
+201.
+Management of Internal Revenue Service information technology
+(a)
+Duties and responsibilities of Internal Revenue Service Chief Information Officer
+Section 7803
+is amended by adding at the end the following new subsection:
+(f)
+Internal Revenue Service Chief Information Officer
+(1)
+In general
+There shall be in the Internal Revenue Service an Internal Revenue Service Chief Information Officer (hereafter referred to in this subsection as the
+IRS CIO
+) who shall be appointed by the Administrator of the Internal Revenue Service.
+(2)
+Centralized responsibility for Internal Revenue Service information technology
+The Administrator of the Internal Revenue Service (and the Secretary) shall act through the IRS CIO with respect to all development, implementation, and maintenance of information technology for the Internal Revenue Service. Any reference in this subsection to the IRS CIO which directs the IRS CIO to take any action, or to assume any responsibility, shall be treated as a reference to the Administrator of the Internal Revenue Service acting through the IRS CIO.
+(3)
+General duties and responsibilities
+The IRS CIO shallâ
+(A)
+be responsible for the development, implementation, and maintenance of information technology for the Internal Revenue Service,
+(B)
+ensure that the information technology of the Internal Revenue Service is secure and integrated,
+(C)
+maintain operational control of all information technology for the Internal Revenue Service,
+(D)
+be the principal advocate for the information technology needs of the Internal Revenue Service, and
+(E)
+consult with the Chief Procurement Officer of the Internal Revenue Service to ensure that the information technology acquired for the Internal Revenue Service is consistent withâ
+(i)
+the goals and requirements specified in subparagraphs (A) through (D), and
+(ii)
+the strategic plan developed under paragraph (4).
+(4)
+Strategic plan
+(A)
+In general
+The IRS CIO shall develop and implement a multiyear strategic plan for the information technology needs of the Internal Revenue Service. Such plan shallâ
+(i)
+include performance measurements of such technology and of the implementation of such plan,
+(ii)
+include a plan for an integrated enterprise architecture of the information technology of the Internal Revenue Service,
+(iii)
+include and take into account the resources needed to accomplish such plan,
+(iv)
+take into account planned major acquisitions of information technology by the Internal Revenue Service, including Customer Account Data Engine 2 and the Enterprise Case Management System, and
+(v)
+align with the needs and strategic plan of the Internal Revenue Service.
+(B)
+Plan updates
+The IRS CIO shall, not less frequently than annually, review and update the strategic plan under subparagraph (A) (including the plan for an integrated enterprise architecture described in subparagraph (A)(ii)) to take into account the development of new information technology and the needs of the Internal Revenue Service.
+(5)
+Scope of authority
+(A)
+Information technology
+For purposes of this subsection, the term
+information technology
+has the meaning given such term by section 11101 of title 40, United States Code.
+(B)
+Internal Revenue Service
+Any reference in this subsection to the Internal Revenue Service includes a reference to all components of the Internal Revenue Service, includingâ
+(i)
+the Office of the Taxpayer Advocate,
+(ii)
+the Criminal Investigation Division of the Internal Revenue Service, and
+(iii)
+except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
+.
+(b)
+Independent verification and validation of the Customer Account Data Engine 2 and Enterprise Case
+Management System
+(1)
+In general
+The Administrator of the Internal Revenue Service shall enter into a contract with an independent reviewer to verify and validate the implementation plans (including the performance milestones and cost estimates included in such plans) developed for the Customer Account Data Engine 2 and the Enterprise Case Management System.
+(2)
+Deadline for completion
+Such contract shall require that such verification and validation be completed not later than the date which is 1 year after the date of the enactment of this Act.
+(3)
+Application to phases of CADE 2
+(A)
+In general
+Paragraphs (1) and (2) shall not apply to phase 1 of the Customer Account Data Engine 2 and shall apply separately to each other phase.
+(B)
+Deadline for completing plans
+Not later than 1 year after the date of the enactment of this Act, the Administrator of the Internal Revenue Service shall complete the development of plans for all phases of the Customer Account Data Engine 2.
+(C)
+Deadline for completion of verification and validation of plans
+In the case of any phase after phase 2 of the Customer Account Data Engine 2, paragraph (2) shall be applied by substituting
+the date on which the plan for such phase was completed
+for
+the date of the enactment of this Act
+.
+(c)
+Coordination of IRS CIO and Chief Procurement Officer of the Internal Revenue Service
+(1)
+In general
+The Chief Procurement Officer of the Internal Revenue Service shallâ
+(A)
+identify all significant IRS information technology acquisitions and provide written notification to the Internal Revenue Service Chief Information Officer (hereafter referred to in this subsection as the
+IRS CIO
+) of each such acquisition in advance of such acquisition, and
+(B)
+regularly consult with the IRS CIO regarding acquisitions of information technology for the Internal Revenue Service, including meeting with the IRS CIO regarding such acquisitions upon request.
+(2)
+Significant IRS information technology acquisitions
+For purposes of this subsection, the term
+significant IRS information technology acquisitions
+meansâ
+(A)
+any acquisition of information technology for the Internal Revenue Service in excess of $1,000,000, and
+(B)
+such other acquisitions of information technology for the Internal Revenue Service (or categories of such acquisitions) as the IRS CIO, in consultation with the Chief Procurement Officer of the Internal Revenue Service, may identify.
+(3)
+Scope
+Terms used in this subsection which are also used in
+section 7803(f)
+of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall have the same meaning as when used in such section.
+202.
+Development of online accounts and portals
+(a)
+In general
+The Secretary of the Treasury or the Secretaryâs delegate (hereafter referred to in this section as the
+Secretary
+) shallâ
+(1)
+develop secure individualized online accounts to provide services to taxpayers and their designated return preparers, including obtaining taxpayer information, making payment of taxes, sharing documentation, and (to the extent feasible) addressing and correcting issues, and
+(2)
+develop a process for the acceptance of tax forms, and supporting documentation, in digital or other electronic format.
+(b)
+Electronic services treated as supplemental; application of security standards
+The Secretary shall ensure that the processes described in subsection (a)â
+(1)
+are a supplement to, and not a replacement for, other services provided by the Internal Revenue Service to taxpayers, including face-to-face taxpayer assistance and services provided by phone, and
+(2)
+comply with applicable security standards and guidelines.
+(c)
+Process for developing online accounts
+(1)
+Development of plan
+Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to Congress a written report describing the Secretaryâs plan for developing the secure individualized online accounts described in subsection (a)(1). Such plan shall address the feasibility of taxpayers addressing and correcting issues through such accounts and whether access to such accounts should be restricted and in what manner.
+(2)
+Deadline
+The Secretary shall make every reasonable effort to make the secure individualized online accounts described in subsection (a)(1) available to taxpayers by December 31, 2023.
+203.
+Internet platform for Form 1099 filings
+(a)
+In general
+Not later than January 1, 2023, the Secretary of the Treasury or the Secretaryâs delegate (hereafter referred to in this section as the
+Secretary
+) shall make available an Internet website or other electronic media, with a user interface and functionality similar to the Business Services Online Suite of Services provided by the Social Security Administration, that will provide access to resources and guidance provided by the Internal Revenue Service and will allow persons toâ
+(1)
+prepare and file Forms 1099,
+(2)
+prepare Forms 1099 for distribution to recipients other than the Internal Revenue Service, and
+(3)
+maintain a record of completed and submitted Forms 1099.
+(b)
+Electronic services treated as supplemental; application of security standards
+The Secretary shall ensure that the services described in subsection (a)â
+(1)
+are a supplement to, and not a replacement for, other services provided by the Internal Revenue Service to taxpayers, and
+(2)
+comply with applicable security standards and guidelines.
+III
+Modernization of consent-based income verification system
+301.
+Disclosure of taxpayer information for third-party income verification
+(a)
+In general
+Not later than 1 year after the close of the 2-year period described in subsection (d)(1), the Secretary of the Treasury or the Secretaryâs delegate (hereafter referred to in this section as the
+Secretary
+) shall implement a program to ensure that any qualified disclosureâ
+(1)
+is fully automated and accomplished through the Internet, and
+(2)
+is accomplished in as close to real-time as is practicable.
+(b)
+Qualified disclosure
+For purposes of this section, the term
+qualified disclosure
+means a disclosure under
+section 6103(c)
+of the Internal Revenue Code of 1986 of returns or return information by the Secretary to a person seeking to verify the income or creditworthiness of a taxpayer who is a borrower in the process of a loan application.
+(c)
+Application of security standards
+The Secretary shall ensure that the program described in subsection (a) complies with applicable security standards and guidelines.
+(d)
+User fee
+(1)
+In general
+During the 2-year period beginning on the first day of the 6th calendar month beginning after the date of the enactment of this Act, the Secretary shall assess and collect a fee for qualified disclosures (in addition to any other fee assessed and collected for such disclosures) at such rates as the Secretary determines are sufficient to cover the costs related to implementing the program described in subsection (a), including the costs of any necessary infrastructure or technology.
+(2)
+Deposit of collections
+Amounts received from fees assessed and collected under paragraph (1) shall be deposited in, and credited to, an account solely for the purpose of carrying out the activities described in subsection (a). Such amounts shall be available to carry out such activities without need of further appropriation and without fiscal year limitation.
+302.
+Limit redisclosures and uses of consent-based disclosures of tax return information
+(a)
+In general
+Section 6103(c)
+is amended by adding at the end the following:
+Persons designated by the taxpayer under this subsection to receive return information shall not use the information for any purpose other than the express purpose for which consent was granted and shall not disclose return information to any other person without the express permission of, or request by, the taxpayer.
+.
+(b)
+Application of penalties
+Section 6103(a)(3)
+is amended by inserting
+subsection (c),
+after
+return information under
+.
+(c)
+Effective date
+The amendments made by this section shall apply to disclosures made after the date of the enactment of this Act.
+IV
+Expanded use of electronic systems
+401.
+Electronic filing of returns
+(a)
+In general
+Section 6011(e)(2)(A)
+is amended by striking
+250
+and inserting
+the applicable number of
+.
+(b)
+Applicable number
+Section 6011(e)
+is amended by adding at the end the following new paragraph:
+(5)
+Applicable number
+For purposes of paragraph (2)(A), the applicable number shall be determined in accordance with the following table:
+(A)
+in the case of calendar years before 2020, 250,
+(B)
+in the case of calendar year 2020, 100, and
+(C)
+in the case of calendar years after 2020, 10.
+.
+(c)
+Returns filed by a tax return preparer
+Section 6011(e)(3)
+is amended by adding at the end the following new subparagraph:
+(D)
+Exception for certain prepares located in areas without internet access
+The Secretary may waive the requirement of subparagraph (A) if the Secretary determines, on the basis of an application by the tax return preparer, that the preparer cannot meet such requirement by reason of being located in a geographic area which does not have access to internet service (other than dial-up or satellite service).
+.
+(d)
+Effective date
+The amendments made by this section shall take effect on the date of the enactment of this Act.
+402.
+Uniform standards for the use of electronic signatures for disclosure authorizations to, and other authorizations of, practitioners
+Section 6061(b)(3)
+is amended to read as follows:
+(3)
+Published guidance
+(A)
+In general
+The Secretary shall publish guidance as appropriate to define and implement any waiver of the signature requirements or any method adopted under paragraph (1).
+(B)
+Electronic signatures for disclosure authorizations to, and other authorizations of, practitioners
+Not later than 6 months after the date of the enactment of this subparagraph, the Secretary shall publish guidance to establish uniform standards and procedures for the acceptance of taxpayersâ signatures appearing in electronic form with respect to any request for disclosure of a taxpayer's return or return information under section 6103(c) to a practitioner or any power of attorney granted by a taxpayer to a practitioner.
+(C)
+Practitioner
+For purposes of subparagraph (B), the term
+practitioner
+means any individual in good standing who is regulated under section 330 of title 31, United States Code.
+.
+403.
+Payment of taxes by debit and credit cards
+(a)
+In general
+Section 6311(d)(2)
+is amended by adding at the end the following:
+The preceding sentence shall not apply to the extent that the Secretary ensures that any such fee or other consideration is fully recouped by the Secretary in the form of fees paid to the Secretary by persons paying taxes imposed under subtitle A with credit, debit, or charge cards pursuant to such contract. Notwithstanding the preceding sentence, the Secretary shall seek to minimize the amount of any fee or other consideration that the Secretary pays under any such contract.
+.

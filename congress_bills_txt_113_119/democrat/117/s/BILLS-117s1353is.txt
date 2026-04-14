@@ -1,0 +1,316 @@
+1.
+Short title
+This Act may be cited as the
+Advancing American AI Act
+.
+2.
+Purpose
+The purposes of this bill are toâ
+(1)
+promote adoption of modernized business practices and advanced technologies across the Federal Government that align with the values of the United States, including the protection of privacy, civil rights, and civil liberties;
+(2)
+encourage agency artificial intelligence-related programs and initiatives that enhance the competitiveness of the United States and foster an approach to artificial intelligence that builds on the strengths of the United States in innovation and entrepreneurialism;
+(3)
+enhance Government venues to translate research advances into artificial intelligence applications to modernize systems and assist agency leaders in fulfilling their missions;
+(4)
+test applied artificial intelligence to drive agency productivity efficiencies in predictive supply chain and logistics; and
+(5)
+test applied artificial intelligence to accelerate investment return for agencies, such as for portfolio management, workforce development and upskilling, and for other purposes.
+3.
+Definitions
+In this Act:
+(1)
+Agency
+The term
+agency
+has the meaning given the term in section 3502 of title 44, United States Code.
+(2)
+Appropriate congressional committees
+The term
+appropriate congressional committees
+meansâ
+(A)
+the Committee on Homeland Security and Governmental Affairs of the Senate; and
+(B)
+the Committee on Oversight and Reform of the House of Representatives.
+(3)
+Artificial intelligence
+The term
+artificial intelligence
+has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (
+10 U.S.C. 2358
+note).
+(4)
+Director
+The term
+Director
+means the Director of the Office of Management and Budget.
+4.
+Principles and policies for use of artificial intelligence in Government
+(a)
+Continual review
+(1)
+In general
+The Director shallâ
+(A)
+establish mechanisms to continually refine the guidance issued to the head of each agency under section 104(a) of the AI in Government Act of 2020 (title I of division U of
+Public Law 116â260
+) as best practices evolve; and
+(B)
+not later than 180 days after the date of enactment of this Act and every year thereafter, brief the appropriate congressional committees on the mechanisms established under subparagraph (A).
+(2)
+Considerations
+In developing updates to the guidance described in paragraph (1)(A), the Director shall consider the input ofâ
+(A)
+the Privacy and Civil Liberties Oversight Board;
+(B)
+other governmental and nongovernmental privacy, civil rights, and civil liberties experts; and
+(C)
+and any other individual or entity the Director determines to be appropriate.
+(3)
+Amendment to AI in Government Act of 2020
+Section 104(d) of the AI in Government Act of 2020 (title I of division U of
+Public Law 116â260
+) is amended to read as follows:
+(d)
+Updates
+The Director shallâ
+(1)
+continually issue updates to the memorandum required under subsection (a); and
+(2)
+in any event, issue updates to the memorandum required under subsection (a)â
+(A)
+not later than 2 years after the date on which the Director issues the memorandum; and
+(B)
+not less frequently than annually thereafter for 10 years.
+.
+(b)
+Legal and approval processes for procurement and use of AI-Enabled systems
+Not later than 180 days after the date of enactment of this Actâ
+(1)
+the Secretary of Homeland Security, with the participation of the Chief Privacy Officer and the Officer for Civil Rights and Civil Liberties of the Department of Homeland Security, shall revise the legal and approval processes for the procurement and use of artificial intelligence-enabled systems, including associated data of machine learning systems, to ensure that full consideration is given to the privacy, civil rights, and civil liberties impacts of artificial intelligence-enabled systems; and
+(2)
+the Chief Privacy Officer and the Officer for Civil Rights and Civil Liberties of the Department of Homeland Security shall report to Congress on any additional staffing or funding resources that may be required to carry out the requirements of this subsection.
+(c)
+Inspector General
+Not later than 180 days after the date of enactment of this Act, the Inspector General of the Department of Homeland Security shall identify any training needed to enable employees of the Office of the Inspector General to continually advance their understanding ofâ
+(1)
+rapidly evolving artificial intelligence technologies;
+(2)
+best practices for governance, oversight, and audits of the use of those technologies; and
+(3)
+how the Office of the Inspector General is using artificial intelligence to enhance audit and investigative capabilities, including actions toâ
+(A)
+ensure the integrity of audit and investigative results; and
+(B)
+guard against bias in the selection and conduct of audits and investigations.
+(d)
+Artificial intelligence hygiene and protection of privacy and government information
+(1)
+Establishment
+Not later than 1 year after the date of enactment of this Act, the Administrator of the Office of Federal Procurement Policy and the Chief Acquisition Officers Council (in this subsection referred to as the
+Council
+) or working group thereof shall develop a process toâ
+(A)
+ensure that contracts involving artificial intelligenceâ
+(i)
+align with the guidance issued to the head of each agency under section 104(a) of the AI in Government Act of 2020 (title I of division U of
+Public Law 116â260
+);
+(ii)
+address protection of privacy; and
+(iii)
+the ownership and security of data and other information obtained, processed, stored, transmitted, or otherwise handled by a contractor or subcontractor; and
+(B)
+address any other issue or concern determined to be relevant by the Administrator of the Office of Federal Procurement Policy and the Council to ensure appropriate use and protection of privacy and Government data and other information.
+(2)
+Review
+Not later than 2 years after the date of enactment of this Act and every 2 years thereafter, the Council shall update the process developed under paragraph (1).
+(3)
+Briefing
+The Council shall brief the appropriate congressional committeesâ
+(A)
+not later than 90 days after the date of enactment of this Act and thereafter on a quarterly basis until the Council first implements the process developed under paragraph (1); and
+(B)
+annually thereafter on the implementation of the process developed under paragraph (1).
+(4)
+Sunset
+This subsection shall cease to be effective on the date that is 10 years after the date of enactment of this Act.
+5.
+Agency inventory and artificial intelligence use cases
+(a)
+In general
+Not later than 180 days after the date of enactment of this Act, the Director, in consultation with the Federal Chief Information Officer and the Chief Information Officers Council, shall issue a memorandum to the head of each agency that shall articulate the method by which the agency shall make public information about the use of artificial intelligence by the agency, including the publication criteria, publication format, and method of publication.
+(b)
+Inventory
+Not later than 1 year after the date of enactment of this Act, and annually thereafter for a period of 10 years, the head of each agency shallâ
+(1)
+prepare an inventory of the artificial intelligence use cases of the agency, including current and planned uses, consistent with the memorandum issued under subsection (a);
+(2)
+identify, review, and assess existing artificial intelligence deployed and operating in support of agency missions for any inconsistencies with the guidance issued under section 104 of the AI in Government Act of 2020 (title I of division U of
+Public Law 116â260
+) and any additional guidance issued by the Director;
+(3)
+develop and implement plans to achieve consistency with the guidance issued under section 104 of the AI in Government Act of 2020 (title I of division U of
+Public Law 116â260
+) and any additional guidance from the Director for each AI application or to retire AI applications found to be developed or used in a manner that is not consistent with guidance issued by the Director;
+(4)
+share agency inventories with other agencies, to the extent practicable and consistent with applicable law and policy, including those concerning protection of privacy and of sensitive law enforcement, national security, and other protected information; and
+(5)
+make agency inventories available to the public, in a manner determined by the Director, and to the extent practicable and in accordance with applicable law and policy, including those concerning the protection of privacy and of sensitive law enforcement, national security, and other protected information.
+(c)
+Sharing
+The sharing of agency inventories described in subsection (b)(4) may be coordinated through the Chief Information Officers Council, the Chief Data Officers Council, the Chief Financial Officers Council, the Chief Acquisition Officers Council, or other interagency bodies to improve interagency coordination and information sharing for common use cases.
+(d)
+Central inventory
+The Director shall designate a host entity and ensure the creation and maintenance of an online public directory in order toâ
+(1)
+make agency artificial intelligence use case information available to the public and those wishing to do business with the Government; and
+(2)
+identify common use cases across agencies.
+6.
+Rapid pilot, deployment, and scale of applied artificial intelligence capabilities to demonstrate modernization activities related to use cases
+(a)
+Identification of use cases
+Not later than 270 days after the date of enactment of this Act, the Director shall identify not fewer than 5 new use cases for the application of cross-enterprise artificial intelligence-enabled systems to support modernization initiatives across agencies, including interagency or intra-agency initiatives that require linking multiple siloed internal and external data sources.
+(b)
+Pilot program
+(1)
+Purposes
+The purposes of the pilot program under this section areâ
+(A)
+to enable agencies to operate cross-enterprise, coordinating between existing established programs and silos to improve delivery of the agency mission; and
+(B)
+to demonstrate the circumstances under which artificial intelligence can be used to modernize or assist in modernizing legacy agency systems.
+(2)
+Deployment and pilot
+Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and other officials as the Director determines to be appropriate, shall ensure the initiation of the piloting of 5 new cross-enterprise technology use case applications that leverage commercially available technologies and systems to demonstrate scalable artificial intelligence-enabled capabilities to support the use cases identified under subsection (a).
+(3)
+Prioritization
+In carrying out paragraph (2), the Director shall prioritize modernization projects that would benefit from commercially available privacy-preserving machine learning and artificial intelligence techniques, such as use of differential privacy, federated learning, and secure multiparty computing.
+(4)
+Use case modernization application areas
+Use case modernization application areas described in paragraph (2) shall include not fewer than 1 from each of the following categories:
+(A)
+Applied artificial intelligence to drive agency productivity efficiencies in predictive supply chain and logistics, such asâ
+(i)
+predictive food demand and optimized supply;
+(ii)
+predictive medical supplies and equipment demand and optimized supply; or
+(iii)
+predictive logistics to accelerate disaster recovery.
+(B)
+Applied artificial intelligence to accelerate agency investment return and address mission-oriented challenges, such asâ
+(i)
+applied artificial intelligence portfolio management for agencies;
+(ii)
+workforce development and upskilling;
+(iii)
+redundant and laborious analyses;
+(iv)
+determining compliance with Government requirements, such as with grants management; or
+(v)
+outcomes measurement to measure economic and social benefits.
+(5)
+Requirements
+Not later than 3 years after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and other officials as the Director determines to be appropriate, shall establish an artificial intelligence capability thatâ
+(A)
+solves data access and usability issues with automated technology and eliminate or minimize the need for manual data cleansing and harmonization efforts;
+(B)
+continuously and automatically ingests data and updates domain models in near real-time to help identify new patterns and predict trends to help agency personnel to make better decisions and take faster actions;
+(C)
+organizes data for meaningful data visualization and analysis so the Government has predictive transparency for situational awareness to improve use case outcomes;
+(D)
+is rapidly configurable to support multiple applications and automatically adapts to dynamic conditions and evolving use case requirements;
+(E)
+enables knowledge transfer and collaboration across agencies; and
+(F)
+preserves intellectual property rights to the data and output for benefit of the Federal Government and agencies.
+(6)
+Technology modernization fund
+(A)
+In general
+The activities required under this section shall be an allowable use under the Technology Modernization Fund established under section 1078 of the National Defense Authorization Act for Fiscal Year 2018 (
+40 U.S.C. 11301
+note) (in this paragraph referred to as the
+Fund
+).
+(B)
+Prioritization
+The Director may prioritize the activities in this section for implementation and funding by the Fund, in which case the Director is encouraged to take steps to ensure that agencies are able to rapidly and effectively implement the pilots under this subsection, including by removing reimbursement requirements for funding from the Fund.
+(c)
+Briefing
+Not earlier than 270 days but not later than 1 year after the date of enactment of this Act, and annually thereafter for 3 years, the Director shall brief the appropriate congressional committees on the activities carried out under this section and results of those activities.
+7.
+Enabling entrepreneurs and values
+(a)
+Innovative commercial items
+Section 880 of the National Defense Authorization Act for Fiscal Year 2017 (
+41 U.S.C. 3301
+note) is amendedâ
+(1)
+in subsection (c), by striking $10,000,000â and inserting
+$25,000,000
+; and
+(2)
+by amending subsection (f) to read as follows:
+(f)
+Definitions
+In this sectionâ
+(1)
+the term
+commercial product
+has the meaning given the term
+commercial item
+in section 2.101 of the Federal Acquisition Regulation; and
+(2)
+the term
+innovative
+meansâ
+(A)
+any new technology, process, or method, including research and development; or
+(B)
+any new application of an existing technology, process, or method.
+; and
+(3)
+in subsection (g), by striking
+2022
+and insert
+2027
+.
+(b)
+DHS other transaction authority
+Section 831 of the Homeland Security Act of 2002 (
+6 U.S.C. 391
+) is amendedâ
+(1)
+in subsection (a)â
+(A)
+in the matter preceding paragraph (1), by striking
+September 30, 2017
+and inserting
+September 30, 2024
+; and
+(B)
+by amending paragraph (2) to read as follows:
+(2)
+Prototype projects
+The Secretaryâ
+(A)
+may, under the authority of paragraph (1), carry out prototype projects under section 2371b of title 10, United States Code; and
+(B)
+in applying the authorities of such section 2371b, the Secretary shall perform the functions of the Secretary of Defense as prescribed in such section.
+;
+(2)
+in subsection (c)(1), by striking âSeptember 30, 2017â and inserting
+September 30, 2024
+; and
+(3)
+in subsection (d), by striking
+section 845(e)
+and all that follows and inserting
+section 2371b(e) of title 10, United States Code.
+.
+8.
+Authorization of appropriations
+There is authorized to be appropriated such sums as the necessary to carry out the requirements of this Act and the amendments made by this Act.

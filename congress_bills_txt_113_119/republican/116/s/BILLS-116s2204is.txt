@@ -1,0 +1,100 @@
+1.
+Short title
+This Act may be cited as the
+Data Analytics Robocall Technology Act of 2019
+or the
+DART Act of 2019
+.
+2.
+Pilot program
+(a)
+Definitions
+In this sectionâ
+(1)
+the term
+Commission
+means the Federal Communications Commission;
+(2)
+the term
+gateway provider
+means a voice service provider that, with respect to a consumerâ
+(A)
+does not have a direct relationship with the consumer; and
+(B)
+offers an entry point onto the public switched telephone network with respect to a call made by the consumer;
+(3)
+the term
+originating provider
+â
+(A)
+means a voice service provider that permits a subscriber to originate a call that may be transmitted on the public switched telephone network; and
+(B)
+includes a gateway provider;
+(4)
+the term
+public safety answering point
+has the meaning given the term in section 222(h) of the Communications Act of 1934 (
+47 U.S.C. 222(h)
+); and
+(5)
+the term
+voice service
+means any service thatâ
+(A)
+is interconnected with the public switched telephone network; and
+(B)
+furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (
+47 U.S.C. 251(e)(1)
+).
+(b)
+Pilot program
+Beginning not later than 18 months after the date of enactment of this Act, the Commission may carry out a 1-year pilot program under which, notwithstanding any other provision of law or regulationâ
+(1)
+a voice service provider may, except as provided in paragraph (5)â
+(A)
+use data analytics and caller identification authentication procedures to identify any call that the voice service provider reasonably believes is highly likely to be unlawful; and
+(B)
+block a call identified under subparagraph (A);
+(2)
+the Commission may not penalize a voice service provider that, while acting in good faith under paragraph (1), inadvertently blocks a lawful call;
+(3)
+the Commission shall establish a process through whichâ
+(A)
+a caller that originates a call that a voice service provider blocks under paragraph (1)(B) may quickly report to the voice service provider that the caller believes that the call should not have been blocked; and
+(B)
+a voice service provider that receives a report under subparagraph (A) shall evaluateâ
+(i)
+whether the call to which the report relates should have been blocked; and
+(ii)
+the means by which to address future calls from the number to which the report relates;
+(4)
+each voice service provider shall designate a single point of contact to whom a caller may submit a report described in paragraph (3);
+(5)
+a voice service provider that blocks a call under paragraph (1)(B) shall maintain a list of numbers that are not eligible to be blocked, including any number usedâ
+(A)
+for outgoing calls by a public safety answering point or a similar facility that is designated to originate or route emergency calls;
+(B)
+to originate calls from a government entity, such as a call generated during an emergency; and
+(C)
+by a school, or a similar institution, to provide school-related notifications, such as a notification regardingâ
+(i)
+a weather-related closure; or
+(ii)
+the existence of an emergency affecting a school or students attending a school;
+(6)
+a voice service providerâ
+(A)
+may obtain, upon affirmative consent provided by a consumer, a list of numbers from which the consumer is willing to receive calls;
+(B)
+shall, with respect to a consumer who provides to the provider a list described in subparagraph (A), block each call made to the consumer from a number that is not on the list; and
+(C)
+may not share a list obtained under subparagraph (A) with the Commission or any other voice service provider; and
+(7)
+the Commission shall ensure that no consumer incurs any cost relating to the pilot program.
+(c)
+Evaluation of pilot program
+If the Commission establishes the pilot program under subsection (b), after the expiration of the pilot program, the Commission mayâ
+(1)
+make a determination regarding the effectiveness of the pilot program; and
+(2)
+if the Commission determines under paragraph (1) that the pilot program was effective, make the pilot program permanent with any adjustments that the Commission determines to be necessary.

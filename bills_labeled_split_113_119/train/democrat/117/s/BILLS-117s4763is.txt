@@ -1,0 +1,519 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Grants to Rapidly Invest and Deploy Broadband Act of 2022
+or the
+GRID Broadband Act of 2022
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Purposes.
+Sec. 3. Definitions.
+Sec. 4. GRID broadband grants.
+Sec. 5. Grant requirements.
+Sec. 6. Project eligibility requirements.
+Sec. 7. Prohibition on use for covered communications equipment or services.
+Sec. 8. Grantee reporting requirements.
+Sec. 9. NTIA reporting requirements.
+Sec. 10. Technical support and assistance.
+Sec. 11. Staffing.
+2.
+Purposes
+The purposes of this Act are toâ
+(1)
+provide resilient and redundant middle mile fiber optic infrastructure to provide more opportunity for last mile providers to connect to unserved locations and underserved locations in rural and remote areas and urban areas with high-quality, high-speed broadband;
+(2)
+enhance the resilience, reliability, and security of the electric grid in order to guarantee delivery of power to critical facilities and electricity-dependent essential services and reduce restoration time following power disturbances;
+(3)
+permanently reduce the cost of high-speed broadband across the United States, including for low-income households and small businesses;
+(4)
+expand interconnections and the communications capacity of the electric grid of the United States to facilitate deployment of more diverse and distributed generation resources and smart-grid technologies;
+(5)
+provide rural and remote areas and urban areas with new economic growth opportunities and ensure equal access to education, healthcare, telework, and e-commerce opportunities; and
+(6)
+leverage assets such as tower facilities, buildings, land, and rights-of-way to lower broadband buildout costs to encourage private-sector companies to expand affordable telecommunication offerings.
+3.
+Definitions
+In this Act:
+(1)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(2)
+Broadband; broadband service
+The term
+broadband
+or
+broadband service
+has the meaning given the term
+broadband internet access service
+in section 8.1, title 47, Code of Federal Regulations, or any successor regulation.
+(3)
+Eligible entity
+The term
+eligible entity
+meansâ
+(A)
+an electric grid operator;
+(B)
+a transmission owner or operator;
+(C)
+a Transmission Organization (as defined in section 3 of the Federal Power Act (
+16 U.S.C. 796
+));
+(D)
+a Federal power marketing administration;
+(E)
+an electric utility owned or operated by a Native entity; and
+(F)
+a rural or municipal utility.
+(4)
+GRID broadband grant
+The term
+GRID broadband grant
+means a grant awarded under section 4.
+(5)
+Interconnection
+The term
+interconnection
+meansâ
+(A)
+the physical linking of 2 or more broadband networks for the mutual exchange of traffic on terms and conditions that, where technically feasible without exceeding current (as of the time of receipt of a GRID broadband grant) or reasonably anticipated capacity limitations, are technology-neutral and non-discriminatory; and
+(B)
+the offering of wholesale broadband service at reasonable rates on a carrier-neutral basis.
+(6)
+Last mile broadband infrastructure
+The term
+last mile broadband infrastructure
+means broadband infrastructure thatâ
+(A)
+connects directly to an end-user location; and
+(B)
+is capable of deliveringâ
+(i)
+a speed of not less than 100 megabits per second for downloads;
+(ii)
+a speed of not less than 20 megabits per second for uploads; and
+(iii)
+latency less than or equal to 100 milliseconds.
+(7)
+Last mile provider
+The term
+last mile provider
+means an entity connecting middle mile infrastructure to last mile networks in order to provide retail broadband service, includingâ
+(A)
+an internet service provider;
+(B)
+a telecommunications cooperative or other cooperative;
+(C)
+a regional planning council;
+(D)
+a not-for-profit foundation, corporation, institution, or association;
+(E)
+a public power utility or a rural electric cooperative;
+(F)
+a Native entity; and
+(G)
+a municipality, Tribal government, or other local government.
+(8)
+Low-income household
+The term
+low-income household
+means a household whose income is not greater than 200 percent of the Federal Poverty Guidelines for a household of that size.
+(9)
+Middle mile infrastructure
+The term
+middle mile infrastructure
+â
+(A)
+means any fiber optic broadband infrastructure that does not connect directly to an end-user location or a retail customer; and
+(B)
+includes leased dark fiber, interoffice transport, backhaul, carrier-neutral internet exchange facilities, carrier-neutral submarine cable landing stations, undersea cables, transport connectivity to data centers, special access transport, and other similar services.
+(10)
+Native entity
+The term
+Native entity
+has the meaning given the term in section 60401 of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1741
+).
+(11)
+Program
+The term
+Program
+means the GRID Broadband Facilitation Program established under section 4.
+(12)
+Rural and remote area
+The term
+rural and remote area
+means a political subdivision of a State or an unincorporated area that has a population of not more than 10,000 inhabitants.
+(13)
+Rural or municipal utility
+The term
+rural or municipal utility
+meansâ
+(A)
+a rural electric cooperative;
+(B)
+a utility owned by a political subdivision of a State, such as a municipally owned electricity utility;
+(C)
+a utility owned by any agency, authority, corporation, or instrumentality of 1 or more political subdivisions of a State;
+(D)
+a not-for-profit entity that is in a partnership with not fewer than 6 entities described in subparagraph (A), (B), or (C);
+(E)
+a utility owned by a Native entity; and
+(F)
+an investor-owned electric utility that sells less than 4,000,000 megawatt hours of electricity per year.
+(14)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(15)
+Underserved location
+The term
+underserved location
+means a broadband-serviceable location thatâ
+(A)
+is not an unserved location; and
+(B)
+lacks access to broadband service offered withâ
+(i)
+a speed of not less thanâ
+(I)
+100 megabits per second for downloads; and
+(II)
+20 megabits per second for uploads; and
+(ii)
+a latency and jitter sufficient to support real-time, interactive applications.
+(16)
+Unserved location
+The term
+unserved location
+means a broadband-serviceable location thatâ
+(A)
+has no access to broadband service; or
+(B)
+lacks access to broadband service offered withâ
+(i)
+a speed of not less thanâ
+(I)
+25 megabits per second for downloads; and
+(II)
+3 megabits per second for uploads; and
+(ii)
+a latency and jitter sufficient to support real-time, interactive applications.
+(17)
+Urban area
+The term
+urban area
+has the meaning given the term by the Bureau of the Census in the notice of final program criteria entitled
+Urban Area Criteria for the 2020 CensusâFinal Criteria
+, published in the Federal Register on March 24, 2022 (87 Fed. Reg. 16706), or any successor to that notice.
+4.
+GRID broadband grants
+(a)
+In general
+The Assistant Secretary shall establish a program, in consultation with the Secretary, and subject to subsection (c), to be known as the
+GRID Broadband Facilitation Program
+, under which the Assistant Secretary makes grants to eligible entities to facilitateâ
+(1)
+the construction of fiber optic communications infrastructure with sufficient capacity to serve as middle mile infrastructure;
+(2)
+the enhancement or expansion of existing (as of the date of the grant award) fiber optics communications infrastructure for the purpose of serving as middle mile infrastructure;
+(3)
+the use of lit or dark fiber to increase broadband capability or capacity; or
+(4)
+the acquisition or installation of the equipment and other resources necessary for interconnection of middle mile infrastructure with last mile broadband infrastructure to allow for the exchange of internet traffic between networks.
+(b)
+Applications for grants
+(1)
+In general
+The Assistant Secretary shall establish an application process for GRID broadband grants.
+(2)
+Selection priority
+In selecting projects for which to provide GRID broadband grants, the Assistant Secretary shall give priority to projects that meet criteria described in paragraph (3).
+(3)
+Priority criteria
+The criteria described in this paragraph are that a projectâ
+(A)
+leverages existing (as of the date of the grant award) rights-of-way, easements, assets, and infrastructure to minimize financial, regulatory, and permitting barriers;
+(B)
+is located in a State or political subdivision of a State, or within a Tribal jurisdiction, that allows rights-of-way, easements, and cost recovery for constructing and operating middle mile infrastructure by eligible entities;
+(C)
+is used to connect or construct middle mile infrastructure on trust land (as defined in section 3765 of title 38, United States Code) that is owned by, or held in trust for the benefit of, as applicable, a Native entity;
+(D)
+aligns with broadband access goals established by States, Tribal governments, and localities;
+(E)
+is most likely to expeditiously provide affordable broadband service to areas with unserved locations and underserved locations;
+(F)
+is most likely to expeditiously provide affordable broadband service to urban areas that have a demonstrated lack of internet usage and access;
+(G)
+has partnerships with last mile providers who commit to provide broadband through their last mile infrastructure thatâ
+(i)
+meets the threshold speeds and capabilities for broadband to no longer declare a location an unserved location or underserved location; and
+(ii)
+ensures that the networks built by the project are easily scalable toâ
+(I)
+meet the evolving connectivity needs of households and businesses; and
+(II)
+support the deployment of 5G, successor wireless technologies, and other advanced services;
+(H)
+helps provide affordable gigabit upload and download speeds to community institutions such as a school, library, medical or healthcare provider, community college or other institution of higher education, or other community support organization or entity;
+(I)
+contributes to broadband resilience and minimizes the occurrence and duration of outages through the creation of alternative network connection paths designed to prevent single points of failure on a broadband network;
+(J)
+would accelerate the rate and scope of deployment of 5G infrastructure, successor wireless technologies, and other advanced services;
+(K)
+reduces the natural and man-made threats to the telecommunication and electricity networks of the United States that are identified in the North American Energy Resilience Model, as determined in consultation with the Secretary;
+(L)
+supports the security of the electric grid by installing a private, closed-loop communications network for grid operators;
+(M)
+helps provide monitoring of threats to the electric grid, including with respect to purposeful physical attacks, extreme weather impacts, and wildfire detection;
+(N)
+demonstrates the ability to improve critical services to communities such as healthcare, communications for first responders, fire, and safety management, and seismic early warning systems;
+(O)
+enhances the ability to sense and monitor power characteristics in near-real time in order toâ
+(i)
+optimize electric grid operations; and
+(ii)
+manage the integration of more distributed resources and intermittent renewable power sources; or
+(P)
+will provide significant non-Federal matching funds or other monetary or in-kind consideration.
+(c)
+Implementation timeline
+Not later than 180 days after the date of enactment of this Act, the Assistant Secretary shallâ
+(1)
+issue a notice inviting eligible entities to submit applications for GRID broadband grants, which shall contain details about how awarding decisions will be made; and
+(2)
+outlineâ
+(A)
+the requirements for applications for GRID broadband grants; and
+(B)
+the allowed uses of GRID broadband grant funds.
+(d)
+Interconnection and oversight
+(1)
+Interconnection
+(A)
+In general
+An eligible entity that receives a GRID broadband grant shall offer, for the life of the project, interconnection directly, or indirectly through another entityâ
+(i)
+to any last mile provider making a bona fide request for available capacity pursuant to a sustainable business plan that meets 1 or more of the priority criteria described in subsection (b)(3); and
+(ii)
+on reasonable rates and terms to be negotiated with requesting parties.
+(B)
+Nature of interconnection
+The interconnection required to be offered under subparagraph (A) includesâ
+(i)
+the ability to connect to the public internet; and
+(ii)
+physical interconnection for the exchange of traffic with last mile interconnection.
+(2)
+Oversight
+The Assistant Secretary shallâ
+(A)
+in consultation with the Secretary, oversee interconnection agreements between recipients of GRID broadband grants and last mile providers seeking to interconnect withâ
+(i)
+the middle mile infrastructure deployed using GRID broadband grants; and
+(ii)
+other middle mile infrastructure owned or operated by eligible entities; and
+(B)
+review the interconnection terms and conditions proposed by an eligible entity to ensure that the terms and conditionsâ
+(i)
+provide for reasonable cost recovery by the eligible entity; and
+(ii)
+in the case of a recipient of a GRID broadband grant that qualifies under subsection (j) or (k) of section 5â
+(I)
+help decrease the cost for resulting last mile broadband service to consumers; and
+(II)
+include affordable options for low-income households.
+(e)
+Impact on other Federal broadband programs
+The use of GRID broadband grant funds by an eligible entity, or partner of an eligible entity, shall not impact the eligibility of, or otherwise disadvantage, the eligible entity or partner with respect to participation in any other Federal broadband program.
+(f)
+Prohibition on overbuilding
+The Assistant Secretary shall ensure that GRID broadband grant funds are not used to duplicate existing or planned last mile broadband infrastructure.
+5.
+Grant requirements
+(a)
+Open competition
+The Assistant Secretary shall assess applications for GRID broadband grants on a competitive basis.
+(b)
+Competence
+The Assistant Secretary shall include in the application process established under section 4(b)(1) a requirement that an eligible entity can demonstrate that the entityâ
+(1)
+is capable of carrying out a proposed project in a competent manner, including by demonstrating that the entity has the financial, technical, and operational capability toâ
+(A)
+carry out the proposed project consistent with the proposed milestones and budget; and
+(B)
+ensure the long-term operation and maintenance of the resulting fiber optics facilities, including middle mile broadband infrastructure; and
+(2)
+has the capability to enter into interconnection agreements with last mile providers to provide broadband service.
+(c)
+Network impact assessment
+Any applicant for a GRID broadband grant shall disclose the applicantâs proposed interconnection, nondiscrimination, and network management practices.
+(d)
+Timeline
+Subject to subsection (e), to be eligible to obtain a GRID broadband grant, an eligible entity shall agree, in the application submitted through the process established under section 4(b)(1), to complete buildout of the middle mile infrastructure described in the application by not later than 3 years after the date on which amounts from the grant are made available to the entity.
+(e)
+Interim buildout requirements
+The Assistant Secretary shall establish interim buildout requirements with milestones for reporting for each eligible entity that receives a GRID broadband grant.
+(f)
+Extensions
+At the request of an eligible entity, the Assistant Secretary may extend the buildout deadline under subsection (d) and modify any interim buildout requirements established under subsection (e) as necessary, if the eligible entity certifies thatâ
+(1)
+the project to build out middle mile infrastructure is underway; and
+(2)
+extenuating circumstances require an extension of time to allow completion of the project.
+(g)
+Performance
+The Assistant Secretary may, in addition to other authority under applicable law, and as defined in advance by the Assistant Secretaryâ
+(1)
+deobligate awards to recipients of GRID broadband grants that demonstrate an insufficient level of performance, or wasteful or fraudulent spending; and
+(2)
+competitively award funds deobligated under paragraph (1) to new or existing (as of the time of the deobligation) applicants for GRID broadband grants consistent with this Act.
+(h)
+Penalties
+The Assistant Secretary may, in addition to other authority under applicable law, and as defined in advance by the Assistant Secretary, establish a penalty regime, which may include rescission of funds, for recipients of GRID broadband grants that do not meet the requirements of this Act.
+(i)
+Cost sharing
+(1)
+50 percent match required
+Except as provided in paragraphs (2) and (3), an application for a GRID broadband grant shall demonstrate the ability to provide supplemental investments or in-kind support valued at not less than 50 percent of the amount of the proposed grant.
+(2)
+20 percent match required
+Paragraph (1) shall be applied by substituting
+20 percent
+for
+50 percent
+if the applicantâ
+(A)
+is a Federal power marketing administration;
+(B)
+is a Native entity; or
+(C)
+qualifies under subsection (j) or (k).
+(3)
+No match required
+Paragraph (1) shall not apply if an applicant petitions the Assistant Secretary for a waiver and the Assistant Secretary determines that the petition demonstrates financial need or meets another public interest.
+(j)
+Rural service for unserved locations and underserved locations
+If a recipient of a GRID broadband grant is a rural or municipal utility, or an electric utility owned or operated by a Native entity, seeking to provide broadband service that is affordable and accessible to unserved locations and underserved locations in a rural and remote area, the recipient may use a portion of the grant funds to support construction of last mile broadband infrastructure, by the recipient or in partnership with a last mile provider, to meet market demand in that area.
+(k)
+Urban service for populations without access
+Notwithstanding section 4(f), if a recipient of a GRID broadband grant is a rural or municipal utility, or an electric utility owned or operated by a Native entity, seeking to provide broadband service that is affordable and accessible to populations in urban areas where it has been shown that cost is a barrier to internet connectivity, the recipient may use a portion of the grant funds to support construction of last mile broadband infrastructure, by the recipient or in partnership with a last mile provider, to meet market demand in that area.
+(l)
+Deobligation of awards
+The Assistant Secretaryâ
+(1)
+shall establish appropriate mechanisms to ensure appropriate use of funds made available under this section; and
+(2)
+may, in addition to other authority under applicable lawâ
+(A)
+deobligate grant funds awarded to an eligible entity thatâ
+(i)
+is unable to fulfill the requirements of subsection (b); or
+(ii)
+demonstrates an insufficient level of performance, or wasteful or fraudulent spending, as defined in advance by the Assistant Secretary; and
+(B)
+award grant funds that are deobligated under subparagraph (A) to new or existing applicants consistent with this section.
+(m)
+Regulations
+The Assistant Secretary may issue such regulations or other guidance, forms, instructions, or publications as may be necessary or appropriate to carry out the programs, projects, or activities authorized under this Act, including to ensure that such programs, projects, or activities are completed in a timely and effective manner.
+(n)
+No regulation of rates permitted
+Nothing in this Act may be construed to authorize the Assistant Secretary or the National Telecommunications and Information Administration to regulate the rates charged for broadband service.
+6.
+Project eligibility requirements
+An eligible entity may not receive a GRID broadband grant unless, at the time of the application for the grant, the Assistant Secretary, in consultation with the Secretary, determines thatâ
+(1)
+the project would improve national security byâ
+(A)
+helping harden the electric grid of the United States against cyberattacks and other threats; and
+(B)
+reducing the likelihood of electricity outages at Federal properties dedicated to national security; and
+(2)
+the proposed middle mile infrastructure will be capable of supporting the provision of broadband service by a last mile provider, either directly or indirectly through terrestrial or wireless service.
+7.
+Prohibition on use for covered communications equipment or services
+An eligible entity or partner of an eligible entity may not use GRID broadband grant funds to purchase or support any covered communications equipment or service, as defined in section 9 of the Secure and Trusted Communications Networks Act of 2019 (
+47 U.S.C. 1608
+).
+8.
+Grantee reporting requirements
+(a)
+In general
+An eligible entity that receives a GRID broadband grant shall submit to the Assistant Secretary a biannual report for the life of the project, in a format specified by the Assistant Secretary, thatâ
+(1)
+describes the entityâsâ
+(A)
+use of the grant and progress in fulfilling the objectives for which the grant funds were awarded, including meeting any requirements established by the Assistant Secretary under section 5(l); and
+(B)
+interconnection agreements with last mile providers, including how those agreements areâ
+(i)
+increasing the availability of high-speed, high-quality broadband in unserved locations and underserved locations;
+(ii)
+ensuring compliance with section 4(d)(1)(A) (relating to open access); and
+(iii)
+making broadband service more affordable for consumers; and
+(2)
+includes any other information required by the Assistant Secretary.
+(b)
+Publication
+The Assistant Secretary shall make each report submitted under subsection (a) available to the public.
+9.
+NTIA reporting requirements
+(a)
+Public disclosure
+The Assistant Secretary shall create and maintain a fully searchable online database that containsâ
+(1)
+a list of each eligible entity that has applied for a GRID broadband grant and any last mile provider with which the entity has partnered or has proposed to partner;
+(2)
+a description of each application described in paragraph (1);
+(3)
+the status of each application described in paragraph (1);
+(4)
+the name of each eligible entity that has received a GRID broadband grant;
+(5)
+the purpose for which an eligible entity described in paragraph (4) received the grant;
+(6)
+each biannual report submitted by an eligible entity under section 8(a); and
+(7)
+any other information necessary to allow the public to understand and monitor GRID broadband grants awarded by the Assistant Secretary.
+(b)
+Protection of certain information
+The Assistant Secretary may not include in the database created under subsection (a) anyâ
+(1)
+proprietary information;
+(2)
+information the disclosure of which the Assistant Secretary, in consultation with the Secretary, determines would pose a threat to national security; or
+(3)
+information relating Native American natural, cultural, and historical resources identified as confidential by a Native entity, which shall also be exempt from the disclosure requirements under section 552 of title 5, United States Code (commonly known as the
+Freedom of Information Act
+).
+(c)
+Monitoring
+The Assistant Secretary shall set up sufficient mechanisms to monitor the progress of projects funded by GRID broadband grants, including audits and on-site investigations.
+(d)
+Internet disclosure
+The Assistant Secretary shall, on the searchable database created under section 60102(g)(3)(C) of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1702(g)(3)(C)
+), provide information sufficient to allow the public to understand and monitor projects funded by GRID broadband grants.
+10.
+Technical support and assistance
+(a)
+Program assistance
+As part of the Program, the Assistant Secretary, in consultation with the Secretary, shall provide technical support and assistance to eligible entities to facilitate their participation in the Program.
+(b)
+Technical experts
+The Assistant Secretary, in consultation with the Secretary, shall convene a committee of technical experts to advise the Assistant Secretary on the development and implementation of the Program.
+11.
+Staffing
+The Assistant Secretary may appoint, without regard to the provisions of subchapter I of
+chapter 33
+of title 5, United States Code (other than sections 3303 and 3328 of that subchapter), qualified candidates to any position necessary to administer the Program.

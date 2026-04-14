@@ -1,0 +1,215 @@
+1.
+Short title
+This Act may be cited as the
+Data Broker List Act of 2019
+.
+2.
+Requirements for data brokers
+(a)
+Requirements with respect to the acquisition and use of brokered personal information
+A data broker shall notâ
+(1)
+acquire brokered personal information through fraudulent means;
+(2)
+acquire or use brokered personal information for the purpose ofâ
+(A)
+stalking or harassing another person;
+(B)
+committing fraud, including identity theft, financial fraud, or e-mail fraud; or
+(C)
+engaging in unlawful discrimination, including unlawful discrimination in decisions regarding employment, housing, and credit eligibility; or
+(3)
+sell or transfer brokered personal information to a third party if the data broker knows or reasonably should know that the third party intends to engage in any conduct prohibited by this Act.
+(b)
+Duty To protect brokered personal information
+(1)
+In general
+A data broker shall develop, implement, and maintain a comprehensive information security program in order to protect from security breaches or other inadvertent or improper disclosure the brokered personal information acquired by the data broker.
+(2)
+Program requirements
+The comprehensive information security program required under paragraph (1) shallâ
+(A)
+be written in one or more readily accessible parts; and
+(B)
+contain administrative, technical, and physical safeguards that are appropriate toâ
+(i)
+the size, scope, and type of business of the data broker;
+(ii)
+the amount of resources available to the data broker;
+(iii)
+the amount of stored data of the data broker; and
+(iv)
+the need for security and confidentiality of brokered personal information.
+(c)
+Annual registration
+(1)
+In general
+Annually, on or before January 31, a data broker shallâ
+(A)
+register with the Commission; and
+(B)
+provide the following information with such registration:
+(i)
+The name and primary physical, e-mail, and internet addresses of the data broker.
+(ii)
+If the data broker permits a consumer to opt out of the data brokerâs collection of brokered personal information, opt out of its databases, or opt out of certain sales of dataâ
+(I)
+the method for requesting an opt-out;
+(II)
+if the opt-out applies to only certain activities or sales, which ones; and
+(III)
+whether the data broker permits a consumer to authorize a third party to perform the opt-out on the consumerâs behalf.
+(iii)
+A statement specifying the data collection, databases, or sales activities from which a consumer may not opt out.
+(iv)
+A statement as to whether the data broker implements a purchaser credentialing process.
+(v)
+The number of security breaches that the data broker experienced during the previous year, and if known, the total number of consumers whose personal information was accessed, downloaded, viewed, or otherwise affected in a breach.
+(vi)
+Where the data broker has actual knowledge that it possesses the brokered personal information of minors, a separate statement detailing the data collection practices, databases, sales activities, and opt-out policies that are applicable to the brokered personal information of minors.
+(vii)
+Any additional information or explanation the data broker chooses to provide concerning its data collection practices.
+(2)
+Exception
+The requirements under paragraph (1) shall not apply to a data broker that is already required to comply with such requirements with respect to another Federal agency.
+(3)
+Public availability
+The Commission shall make the information described in paragraph (1) available for public inspection, except as necessary to protect the integrity of ongoing investigations or to protect the privacy of consumers, or if it is in the interest of public safety or welfare.
+3.
+Enforcement by the Federal Trade Commission
+(a)
+Unfair or deceptive acts or practices
+A violation of section 2 shall be treated as a violation of a rule defining an unfair or a deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+). The Commission shall begin enforcement of such violations by not later than 1 year after the date of the enactment of this Act.
+(b)
+Powers of Commission
+(1)
+In general
+The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the
+Federal Trade Commission Act
+(
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of this section.
+(2)
+Privileges and immunities
+Any data broker who violates section 2 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+(3)
+Authority preserved
+Nothing in this section shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.
+(c)
+Rulemaking authority for the Federal Trade Commission
+The Commission shall have authority under section 553 of title 5, United States Code, to promulgate regulations the Commission determines to be necessary to carry out the provisions of this Act.
+4.
+FTC annual review and report
+(a)
+Annual review
+The Commission shall conduct an annual review of the implementation of the provisions of this Act. Such study shall include an analysis ofâ
+(1)
+compliance by data brokers with the requirements under section 2;
+(2)
+enforcement actions taken by the Commission with respect to violations of such requirements; and
+(3)
+other areas determined appropriate by the Commission.
+(b)
+Annual report
+Not later than 1 year after the date of the enactment of this Act, and annually thereafter the Commission shall submit to Congress a report on the review conducted under subsection (a), together with recommendations for such legislation and administrative action as the Commission determines appropriate.
+5.
+Definitions
+In this section:
+(1)
+Brokered personal information
+The term
+brokered personal information
+means any personal information that is categorized or organized for sale to a third party.
+(2)
+Business
+(A)
+In general
+The term
+business
+means a commercial entity, including a sole proprietorship, partnership, corporation, association, limited liability company, or other group, however organized and whether or not organized to operate at a profit, including a financial institution organized, chartered, or holding a license or authorization certificate under the laws of a State, the United States, or any other country, or the parent, affiliate, or subsidiary of a financial institution.
+(B)
+Exclusion
+The term
+business
+does not include a State, a State agency, any political subdivision of a State, or a vendor acting solely on behalf of, and at the direction of, a State.
+(3)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(4)
+Consumer
+The term
+consumer
+means an individual residing in the United States acting in a personal, family, or household capacity.
+(5)
+Data broker
+(A)
+In general
+The term
+data broker
+means a business that collects or obtains a consumerâs personal information and sells, licenses, trades, or provides for consideration that information to another business with whom a consumer does not have a direct relationship.
+(B)
+Direct relationship
+For purposes of subparagraph (A), a direct relationship with a business exists if the consumerâ
+(i)
+is a current customer;
+(ii)
+obtained a good or service from the business within the prior 18 months; or
+(iii)
+made an inquiry about the products or services of the business within the prior 90 days.
+(C)
+Exclusion
+The following activities conducted by a business, and the collection and sale or licensing of brokered personal information incidental to conducting these activities, do not qualify the business as a data broker:
+(i)
+Providing 411 directory assistance or directory information services, including name, address, and telephone number, on behalf of or as a function of a telecommunications carrier.
+(ii)
+Providing a consumer's publicly available information if the information is being used by the recipient as it relates to that consumer's business or profession.
+(iii)
+Providing publicly available information via real-time or near-real-time alert services for health or safety purposes.
+(iv)
+Providing or using information in a manner that is regulated under another Federal law, including the Fair Credit Reporting Act, the Gramm-Leach-Bliley Act, or the Health Insurance Portability and Accountability Act.
+(v)
+Providing data to a third party at the direction of the customer and with the customerâs consent.
+(D)
+Exclusion from sale
+For purposes of this paragraph, the term
+sells
+does not include a one-time or occasional sale of assets of a business as part of a transfer of control of those assets that is not part of the ordinary conduct of the business.
+(6)
+Data broker security breach
+(A)
+In general
+The term
+data broker security breach
+means an unauthorized acquisition or a reasonable belief of an unauthorized acquisition of more than one element of brokered personal information maintained by a data broker when the brokered personal information is not encrypted, redacted, or protected by another method that renders the information unreadable or unusable by an unauthorized data broker.
+(B)
+Exclusion
+The term
+data broker security breach
+does not include good faith but unauthorized acquisition of brokered personal information by an employee or agent of the data broker for a legitimate purpose of the data broker, provided that the brokered personal information is not used for a purpose unrelated to the data brokerâs business or subject to further unauthorized disclosure.
+(C)
+Application
+In determining whether brokered personal information has been acquired or is reasonably believed to have been acquired by a data broker without valid authorization, a data broker may consider the following factors, among others:
+(i)
+Indications that the brokered personal information is in the physical possession and control of a person without valid authorization, such as a lost or stolen computer or other device containing brokered personal information.
+(ii)
+Indications that the brokered personal information has been downloaded or copied.
+(iii)
+Indications that the brokered personal information was used by an unauthorized data broker, such as fraudulent accounts opened or instances of identity theft reported.
+(iv)
+That the brokered personal information has been made public.
+(7)
+Personal information
+The term
+personal information
+means information which is related to any identified or identifiable person.
+(8)
+State
+The term
+State
+means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of Northern Mariana Islands, and the United States Virgin Islands.

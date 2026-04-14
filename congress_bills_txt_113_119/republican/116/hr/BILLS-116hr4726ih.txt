@@ -1,0 +1,203 @@
+1.
+Short title
+This Act may be cited as the
+Certainty for End-Users Act
+.
+2.
+Clarifying the financial entity definition
+(a)
+In general
+Section 2(h) of the Commodity Exchange Act (
+7 U.S.C. 2(h)
+) is amendedâ
+(1)
+by striking paragraph (1)(A) and inserting the following:
+(A)
+Standard for clearing
+It shall be unlawful for a financial entity to engage in a swap with another financial entity, unless the swap is submitted for clearing to a derivatives clearing organization registered under this Act or a derivatives clearing organization exempt from registration under this Act if the swap is required to be cleared.
+; and
+(2)
+in paragraph (7)â
+(A)
+in the paragraph heading, by striking
+Exceptions
+and inserting
+Application of clearing requirement
+;
+(B)
+by striking subparagraphs (A) and (B) and redesignating subparagraph (C) as subparagraph (A);
+(C)
+in subparagraph (A) (as so redesignated)â
+(i)
+by striking clause (i) and inserting the following:
+(i)
+In general
+In this subsection, the term
+financial entity
+means the following:
+(I)
+Institutions not statutorily exempted
+(aa)
+A financial institution.
+(bb)
+A swap dealer.
+(cc)
+A security-based swap dealer.
+(dd)
+A major swap participant.
+(ee)
+A major security-based swap participant.
+(ff)
+A commodity pool that is required to be operated by a commodity pool operator registered with the Commission, or a foreign person that would be such a commodity pool if the foreign person were organized under the laws of the United States or any State.
+(gg)
+An investment company (as defined in section 3 of the Investment Company Act of 1940 (
+15 U.S.C. 80aâ3
+)), or a foreign person that would be such an investment company if the foreign person were organized under the laws of the United States or any State.
+(II)
+Private funds
+A private fund as defined in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80âbâ2(a)), or a foreign person that would be such a private fund if the foreign person were organized under the laws of the United States or any State.
+(III)
+Other persons
+Such other persons the Commission determines by rule to be predominantly engaged in activities that are financial in nature. In making such a determination, the Commission may consider section 4(k) of the Bank Holding Company Act of 1956. The Commission shall promulgate regulations to carry out this subclause.
+;
+(ii)
+in clause (iii), by striking
+Such definition
+and inserting
+The term
+; and
+(iii)
+by adding at the end the following:
+(iv)
+De minimis exclusion
+(I)
+Amounts
+A person described in subclause (III), and not subclause (I) or (II), of clause (i) shall not be considered a financial entity for purposes of this subsection if the total swaps activity of the person, when calculated with those of all other affiliated persons who are so described, amount to less thanâ
+(aa)
+$1,000,000,000 in gross notional swaps transactions calculated on the basis of a rolling 12-month period; or
+(bb)
+an alternative de minimis amount of swaps activity, exposure, transactions, or other measurement, as determined by the Commission. At least every 5 years, the Commission shall consider modifying the alternative de minimis amount due to inflation or other market factors.
+(II)
+Calculation
+The calculation under subclause (I) shall not includeâ
+(aa)
+swaps used to hedge or mitigate risk associated with an asset owned or liability incurred or reasonably likely to be owned or incurred by an entity in the conduct of such entityâs business; or
+(bb)
+swaps used by an insurance company for asset replication if they are expressly permitted by State insurance regulators to be entered into in conjunction with other investments in order to replicate the investment characteristics of otherwise permissible investments.
+(III)
+Requirements of entities relying on the de minimis exclusion
+An entity that relies on the de minimis exception in this clause to avoid clearing swaps transactions that the Commission requires a financial entity to clear pursuant to paragraph (1)(A) and Commission regulations shall, with respect to the swaps, report or cause to be reported, to a registered swap data repository the reliance of the entity on the de minimis exclusion.
+; and
+(D)
+by inserting after subparagraph (A) (as amended by the preceding provisions of this paragraph) the following:
+(B)
+Additional definitions
+In this subsection:
+(i)
+Affiliate status
+2 entities are affiliated ifâ
+(I)
+1 of the entities, directly or indirectly, holds a majority ownership interest in the other entity; or
+(II)
+a third party, directly or indirectly, holds a majority ownership interest in both entities.
+(ii)
+Non-financial entity
+The term
+non-financial entity
+meansâ
+(I)
+a person not described in subparagraph (A)(i); or
+(II)
+a person described in clause (ii), (iii), or (iv) of subparagraph (A).
+(C)
+Requirements of non-financial entities
+A non-financial entity that engages in swaps transactions that the Commission requires a financial entity to clear pursuant to paragraph (1)(A) and Commission regulations shall, with respect to the swaps, report or cause to be reported, to a registered swap data repository their status as a non-financial entity.
+.
+3.
+Simplifying the end-user affiliate process
+Section 2(h)(7) of the Commodity Exchange Act (
+7 U.S.C. 2(h)(7)
+), as amended by section 2 of this Act, is amendedâ
+(1)
+by striking subparagraph (D) and inserting the following:
+(D)
+Risk management through affiliates
+(i)
+Exception
+The requirements of paragraph (1)(A) shall not apply to a swap entered into by a risk management entity if the swap isâ
+(I)
+used to hedge or mitigate eligible risk originating from one or more affiliated non-financial entities; and
+(II)
+not netted, combined, or consolidated with any other swap to which the requirements of paragraph (1)(A) apply.
+(ii)
+Risk management entity defined
+In this subparagraph, the term
+risk management entity
+meansâ
+(I)
+an entity described in subclause (II), and not subclause (I), of subparagraph (A)(i), that enters only into transactions related to the management of eligible risk;
+(II)
+an entity described in only subclause (III) of subparagraph (A)(i); or
+(III)
+a non-financial entity.
+(iii)
+Eligible risk defined
+In this subparagraph, the term
+eligible risk
+means risk thatâ
+(I)
+originates from a non-financial entity;
+(II)
+is associated with an asset owned or liability incurred or reasonably likely to be owned or incurred by the non-financial entity in the conduct of the business of the non-financial entity;
+(III)
+is not netted, combined, or consolidated with risk originating from any affiliated financial entity; and
+(IV)
+if transferred, is transferred only to or through one or more affiliated risk management entities.
+(iv)
+Requirements of risk management entities
+A risk management entity that engages in swaps which utilize the exception in this subparagraph shallâ
+(I)
+notify the Commission, in a manner prescribed by the Commission, how the risk management entity generally meets the financial obligations of the risk management entity associated with entering into non-cleared swaps;
+(II)
+identify those swaps used to hedge or mitigate eligible risk originating from one or more affiliated non-financial entities; and
+(III)
+maintain books and records of the swaps which utilize the exception in this subparagraph and the related eligible risk in such form and manner and for such period as may be required by the Commission.
+(v)
+No effect on non-financial entities
+Nothing in this subparagraph shall be interpreted to limit the ability of any non-financial entity to engage in a swap to which the requirements of paragraph (1)(A) do not apply.
+; and
+(2)
+by striking subparagraph (F) and inserting the following:
+(F)
+Abuse of exception
+The Commission may prescribe such rules or issue such interpretations of the rules as the Commission determines to be necessary to prevent abuse of the exceptions described in this paragraph. The Commission may request information from a person claiming to be a non-financial entity as necessary to prevent evasion of the rules or abuse of the exceptions described in this paragraph.
+.
+4.
+Alignment of margin requirements
+Section 4s(e)(4) of the Commodity Exchange Act (
+7 U.S.C. 6s(e)(4)
+) is amended to read as follows:
+(4)
+Exceptions to margin requirements
+(A)
+In general
+Paragraphs (2)(A)(ii) and (2)(B)(ii), including the initial and variation margin requirements imposed under such paragraphs, shall not apply to a swapâ
+(i)
+in which a counterparty is a non-financial entity (as defined in section 2(h)(7)(B)(ii)), regardless of whether the swap is required to be cleared;
+(ii)
+that qualifies for the exception provided in subparagraph (D) of section 2(h)(7), or that would so qualify if the swap were required to be cleared; or
+(iii)
+that qualifies for an exception or exemption from the requirements of section 2(h)(1)(A) pursuant to any Commission rule, regulation, or order.
+(B)
+Preservation of variation margin exchange requirement applicable to certain insurance companies
+Notwithstanding subparagraph (A) of this paragraph, if an insurance company would be a financial entity for purposes of section 2(h) if the swaps described in section 2(h)(7)(A)(iv)(II)(bb) of the insurance company were not excluded from the de minimis calculation under section 2(h)(7)(A)(iv), then all swaps of the insurance company shall be subject to the variation margin requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) of this subsection.
+.
+5.
+Modification of definition of major swap participant
+Section 1a(33)(A)(iii)(I) of the Commodity Exchange Act (
+7 U.S.C. 1a(33)(A)(iii)(I)
+) is amended by inserting
+, or a non-financial entity that would be considered to be a financial entity for purposes of section 2(h) but for the application of the de minimis exclusion provided for in section 2(h)(7)(A)(iv),
+before
+that is highly
+.

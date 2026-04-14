@@ -1,0 +1,163 @@
+1.
+Short title
+This Act may be cited as the
+Cybersecurity Vulnerability Identification and Notification Act of 2019
+.
+2.
+Subpoena authority
+(a)
+In general
+Section 2209 of the Homeland Security Act of 2002 (
+6 U.S.C. 659
+) is amendedâ
+(1)
+in subsection (a)â
+(A)
+by redesignating paragraph (6) as paragraph (7); and
+(B)
+by inserting after paragraph (5) the following:
+(6)
+the term
+security vulnerability
+has the meaning given that term in section 102(17) of the Cybersecurity Information Sharing Act of 2015 (
+6 U.S.C. 1501(17)
+);
+;
+(2)
+in subsection (c)â
+(A)
+in paragraph (10), by striking
+and
+at the end;
+(B)
+in paragraph (11), by striking the period at the end and inserting
+; and
+; and
+(C)
+by adding at the end the following:
+(12)
+detecting, identifying, and receiving information about security vulnerabilities relating to critical infrastructure in the information systems and devices of Federal and non-Federal entities for a cybersecurity purpose, as defined in section 102 of the Cybersecurity Information Sharing Act of 2015 (
+6 U.S.C. 1501
+).
+; and
+(3)
+by adding at the end the following:
+(n)
+Subpoena authority
+(1)
+Definition
+In this subsection, the term
+enterprise device or system
+â
+(A)
+means a device or system commonly used to perform industrial, commercial, scientific, or governmental functions or processes that relate to critical infrastructure, including operational and industrial control systems, distributed control systems, and programmable logic controllers; and
+(B)
+does not include personal devices and systems, such as consumer mobile devices, home computers, residential wireless routers, or residential internet-enabled consumer devices.
+(2)
+Authority
+(A)
+In general
+If the Director identifies a system connected to the internet with a specific security vulnerability and has reason to believe that the security vulnerability relates to critical infrastructure and affects an enterprise device or system owned or operated by a Federal or non-Federal entity, and the Director is unable to identify the entity at risk, the Director may issue a subpoena for the production of information necessary to identify and notify the entity at risk, in order to carry out a function authorized under subsection (c)(12).
+(B)
+Limit on information
+A subpoena issued under the authority under subparagraph (A) may only seek information in the categories set forth in subparagraphs (A), (B), (D), and (E) of section 2703(c)(2) of title 18, United States Code.
+(C)
+Liability protections for disclosing providers
+The provisions of section 2703(e) of title 18, United States Code, shall apply to any subpoena issued under the authority under subparagraph (A).
+(3)
+Coordination
+(A)
+In general
+If the Director decides to exercise the subpoena authority under this subsection, and in the interest of avoiding interference with ongoing law enforcement investigations, the Director shall coordinate the issuance of any such subpoena with the Department of Justice, including the Federal Bureau of Investigation, pursuant to inter-agency procedures which the Director, in coordination with the Attorney General, shall develop not later than 60 days after the date of enactment of this subsection.
+(B)
+Contents
+The inter-agency procedures developed under this paragraph shall provide that a subpoena issued by the Director under this subsection shall beâ
+(i)
+issued in order to carry out a function described in subsection (c)(12); and
+(ii)
+subject to the limitations under this subsection.
+(4)
+Noncompliance
+If any person, partnership, corporation, association, or entity fails to comply with any duly served subpoena issued under this subsection, the Director may request that the Attorney General seek enforcement of the subpoena in any judicial district in which such person, partnership, corporation, association, or entity resides, is found, or transacts business.
+(5)
+Notice
+Not later than 7 days after the date on which the Director receives information obtained through a subpoena issued under this subsection, the Director shall notify the entity at risk identified by information obtained under the subpoena regarding the subpoena and the identified vulnerability.
+(6)
+Authentication
+Any subpoena issued by the Director under this subsection shall be authenticated by the electronic signature of an authorized representative of the Agency or other comparable symbol or process identifying the Agency as the source of the subpoena.
+(7)
+Procedures
+Not later than 90 days after the date of enactment of this subsection, the Director shall establish internal procedures and associated training, applicable to employees and operations of the Agency, regarding subpoenas issued under this subsection, which shall addressâ
+(A)
+the protection of and restriction on dissemination of nonpublic information obtained through a subpoena issued under this subsection, including a requirement that the Agency shall not disseminate nonpublic information obtained through a subpoena issued under this subsection that identifies the party that is subject to the subpoena or the entity at risk identified by information obtained, unlessâ
+(i)
+the party or entity consents; or
+(ii)
+the Agency identifies or is notified of a cybersecurity incident involving the party or entity, which relates to the vulnerability which led to the issuance of the subpoena;
+(B)
+the restriction on the use of information obtained through the subpoena for a cybersecurity purpose, as defined in section 102 of the Cybersecurity Information Sharing Act of 2015 (
+6 U.S.C. 1501
+);
+(C)
+the retention and destruction of nonpublic information obtained through a subpoena issued under this subsection, includingâ
+(i)
+immediate destruction of information obtained through the subpoena that the Director determines is unrelated to critical infrastructure; and
+(ii)
+destruction of any personally identifiable information not later than 6 months after the date on which the Director receives information obtained through the subpoena, unless otherwise agreed to by the individual identified by the subpoena respondent;
+(D)
+the processes for providing notice to each party that is subject to the subpoena and each entity at risk identified by information obtained pursuant to a subpoena issued under this subsection; and
+(E)
+the processes and criteria for conducting critical infrastructure security risk assessments to determine whether a subpoena is necessary prior to being issued under this subsection.
+(8)
+Review of procedures
+Not later than 1 year after the date of enactment of this subsection, the Privacy Officer of the Agency shallâ
+(A)
+review the procedures developed by the Director under paragraph (7) to ensure thatâ
+(i)
+the procedures are consistent with fair information practices; and
+(ii)
+the operations of the Agency comply with the procedures; and
+(B)
+notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives of the results of the review.
+(9)
+Publication of information
+Not later than 120 days after establishing the internal procedures under paragraph (7), the Director shall make publicly available information regarding the subpoena process under this subsection, including regardingâ
+(A)
+the purpose for subpoenas issued under this subsection;
+(B)
+the subpoena process;
+(C)
+the criteria for the critical infrastructure security risk assessment conducted prior to issuing a subpoena;
+(D)
+policies and procedures on retention and sharing of data obtained by subpoena;
+(E)
+guidelines on how entities contacted by the Director may respond to notice of a subpoena; and
+(F)
+the procedures and policies of the Agency developed under paragraph (7).
+(10)
+Annual reports
+The Director shall annually submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report (which may include a classified annex but with the presumption of declassification) on the use of subpoenas under this subsection by the Director, which shall includeâ
+(A)
+a discussion ofâ
+(i)
+the effectiveness of the use of subpoenas to mitigate critical infrastructure security vulnerabilities;
+(ii)
+the critical infrastructure security risk assessment process conducted for subpoenas issued under this subsection;
+(iii)
+the number of subpoenas issued under this subsection by the Director during the preceding year;
+(iv)
+to the extent practicable, the number of vulnerable enterprise devices or systems mitigated under this subsection by the Agency during the preceding year; and
+(v)
+the number of entities notified by the Director under this subsection, and their response, during the previous year; and
+(B)
+for each subpoena issued under this subsectionâ
+(i)
+the source of the security vulnerability detected, identified, or received by the Director;
+(ii)
+the steps taken to identify the entity at risk prior to issuing the subpoena; and
+(iii)
+a description of the outcome of the subpoena, including discussion on the resolution or mitigation of the critical infrastructure security vulnerability.
+(11)
+Publication of the annual reports
+The Director shall make a version of the annual report required by paragraph (10) publicly available, which shall, at a minimum, include the findings described in clause (iii), (iv) and (v) of subparagraph (A).
+.

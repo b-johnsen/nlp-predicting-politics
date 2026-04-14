@@ -1,0 +1,1165 @@
+1.
+Short title
+This Act may be cited as the
+Clean Competition Act
+.
+2.
+Carbon intensity charge
+(a)
+In general
+Chapter 38
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter:
+E
+Carbon intensity charge
+Sec. 4691. Calculation of carbon intensity.
+Sec. 4692. Imposition of carbon intensity charge.
+Sec. 4693. Rebate.
+Sec. 4694. Carbon clubs.
+Sec. 4695. Definitions.
+4691.
+Calculation of carbon intensity
+(a)
+Domestic reporting requirements
+Not later than June 30, 2026, and annually thereafter, any covered entity shall, for each eligible facility operated by such entity, report to the Secretary, the Administrator, and the Secretary of Energy with respect to the following:
+(1)
+Any information required to be reported to the Administrator under the Greenhouse Gas Reporting Program (as would be required to be reported notwithstanding any other provision of law prohibiting the implementation of or use of funds for such requirements) for the preceding calendar year.
+(2)
+The total amount of electricity used at such facility during the preceding calendar year, includingâ
+(A)
+whether such electricity was provided through the electric grid or a dedicated generation source,
+(B)
+the terms of any power purchase agreements with respect to such facility, and
+(C)
+with respect to any electricity which was not provided through the electric grid, the greenhouse gas emissions associated with the production of such electricity, provided that such emissions are not reported pursuant to paragraph (1).
+(3)
+The total relevant quantity of each covered primary good produced at such facility during the preceding calendar year.
+(4)
+Any other information determined necessary by the Secretary for purposes of the administration of subsection (b).
+(b)
+Calculation
+(1)
+Carbon intensity
+(A)
+Eligible facility
+For purposes of this subchapter, for each calendar year, the carbon intensity with respect to any eligible facility shall be an amount equal to the quotient ofâ
+(i)
+the covered emissions (as determined under paragraph (2)) with respect to such facility, divided by
+(ii)
+the total relevant quantity of covered primary goods produced at such facility during the preceding calendar year.
+(B)
+Covered national industry
+(i)
+In general
+For purposes of this subchapter, the carbon intensity with respect to any covered national industry shall be an amount (as determined by the Secretary) equal to the quotient ofâ
+(I)
+an amount equal to the sum of the covered emissions (as determined under paragraph (2)) with respect to all eligible facilities which produce covered primary goods which are included within such covered national industry for the calendar year, divided by
+(II)
+the total relevant quantity of covered primary goods within such covered national industry which are produced at all such eligible facilities during such year.
+(ii)
+Covered primary goods determination
+For purposes of this subchapterâ
+(I)
+a covered primary good shall initially be included within the covered national industry with which it is associated under the most recent concordance table published by the Bureau of the Census comparing classifications under the Harmonized Tariff System and the North American Industry Classification System, and
+(II)
+the Secretary (in coordination with the relevant parties) may subsequently determine which types of eligible facilities or processes within facilities (and any related covered primary goods) are included or excluded within a covered national industry, provided that such determinationâ
+(aa)
+facilitates a fair comparison of carbon intensities across similar eligible facilities (based on a comparison of the energy-intensive processes and the material outputs of such facilities),
+(bb)
+does not meaningfully reduce the scope of greenhouse gas emissions covered by this subchapter, and
+(cc)
+ensures that each covered primary good is only included within a single covered national industry.
+(iii)
+Excluded facilities
+In the case of any eligible facility which, pursuant to clause (ii), is excluded from a covered national industry and is not included in any other covered national industry, such facility shall be deemed to not be included in any covered national industry.
+(C)
+Petition for specific goods
+(i)
+In general
+In the case of any covered national industry which produces more than 1 covered primary good, a covered entity may file a petition with the Secretary toâ
+(I)
+remove 1 or more covered primary goods from inclusion under any covered national industry,
+(II)
+establish a new covered national industry for purposes of the goods described in subclause (I),
+(III)
+determine the carbon intensity with respect to the covered national industry established under subclause (II), and
+(IV)
+determine a classification for defining such covered national industry for purposes of this subchapter, such asâ
+(aa)
+the applicable 6-digit subheading (or subheadings) of the Harmonized Tariff Schedule of the United States of the goods described in subclause (I),
+(bb)
+the relevant production process,
+(cc)
+a set of material characteristics, or
+(dd)
+any combination of the methods for classification described in items (aa) through (cc).
+(ii)
+Review
+With respect to any covered primary good which is included in a petition described in clause (i), the Secretary (in coordination with the Administrator and the Secretary of Energy) shall approve such petition ifâ
+(I)
+the chemical, physical, or mechanical production processes for such good or goods are substantially different as compared to other covered primary goods produced within the same covered national industry,
+(II)
+the properties of such good or goods are distinct such that its uses cannot be easily replaced by other covered primary goods produced within the same covered national industry, and
+(III)
+the carbon intensity determined with respect to such good or goods is at least 25 percent greater than the carbon intensity determined for other covered primary goods produced within the same covered national industry.
+(iii)
+Recalculation
+In the case of any petition described in clause (i) which is approved by the Secretary pursuant to clause (ii), the Secretary (in coordination with the Administrator) shall redetermine the carbon intensity, as well as the baseline carbon intensity, with respect to the covered national industry or industries which previously included production of the covered primary good or goods which are the subject of such petition by excluding any covered emissions associated with the production of such good or goods for purposes of the determination made under subparagraph (B) for such industry.
+(iv)
+Goods-level data
+In the case of any petition described in clause (i) which is approved by the Secretary pursuant to clause (ii), the Secretary (in coordination with the Administrator) shall use a methodology for determining the carbon intensity of the covered primary good or subset of primary goods (as determined using the eligible facility information reported under subsection (a)), and shall publish the methodology and the results of such determination, in a manner whichâ
+(I)
+is compatible with existing Federal carbon accounting rules and standards,
+(II)
+includes the related chemical, physical, or mechanical production processes responsible for differences in carbon intensity and covered emissions, and
+(III)
+prioritizes ease of administration and compliance.
+(D)
+Determination
+Any determination of carbon intensity under this paragraph shall be made by the Secretary in coordination with the Administrator and the Secretary of Energy.
+(E)
+Relevant quantity
+For purposes of this subchapter, the relevant quantity of a covered primary good shall be determined based onâ
+(i)
+the weight (expressed in metric tons) of such good, or
+(ii)
+if the Secretary, in coordination with the Administrator and the Secretary of Energy, determines that using an alternate physical unit of measurement (such as volume at a specific pressure or energy content) would better facilitate a fair comparison of carbon intensities across the covered primary goods in the covered national industry, an alternate physical unit of measurement.
+(2)
+Covered emissions
+(A)
+In general
+For purposes of this subsection, for each calendar year, the amount of covered emissions with respect to any eligible facility shall be an amount (as determined by the Secretary, in coordination with the Administrator) equal to the sum ofâ
+(i)
+the total greenhouse gas emissions associated with the production of covered primary goods at such facility during the preceding calendar year (as reported pursuant to subsection (a)), plus
+(ii)
+the total greenhouse gas emissions associated with any electricity used at such facility for the production of such goods during the preceding calendar year.
+(B)
+Emissions for electricity used
+(i)
+In general
+For purposes of subparagraph (A)(ii), the amount of greenhouse gas emissions associated with electricity provided through the electric grid shall be determined based on the average carbon intensity for the regional grid in which the eligible facility is located for the preceding calendar year.
+(ii)
+Exception
+In the case of an eligible facility which is subject to a power purchase agreement (or its foreign equivalent) which guarantees that any electricity provided under such agreement is generated within the same hour as it is used by such facility and within the same regional transmission zone (or its foreign equivalent) as such facilityâ
+(I)
+clause (i) shall not apply with respect to the amount of electricity provided under such agreement, and
+(II)
+the amount of greenhouse gas emissions associated with such electricity shall be determined based on the average carbon intensity of the electricity provided under such agreement.
+(3)
+Imported goods
+(A)
+In general
+In the case of any covered primary good which is imported into the United States, the carbon intensity with respect to such good shall be determined as follows:
+(i)
+Economy-wide default
+Subject to clauses (ii), (iii), and (iv), the carbon intensity with respect to the covered primary good shall be equal to the product ofâ
+(I)
+an amount equal to the quotient ofâ
+(aa)
+the carbon intensity of the general economy of the country of origin of such good, divided by
+(bb)
+the carbon intensity of the general economy of the United States, multiplied by
+(II)
+the carbon intensity of the covered national industry in the United States for such good for the preceding calendar year.
+(ii)
+Industry data
+If the Secretary (in coordination with the relevant parties) determines that transparent, verifiable, and reliable information is available with respect to any covered national industry in the country of origin of the covered primary good and that such country of origin is a transparent market economy, the carbon intensity with respect to the covered primary good shall be equal to the relevant covered national industry carbon intensity of the country of origin of such good.
+(iii)
+Manufacturer data
+If a petition under subparagraph (C) has been approved, the carbon intensity with respect to the covered primary good shall be equal to the average carbon intensity with respect to the production of such good by the manufacturer within the country of origin.
+(iv)
+Estimates for significant imports
+If the Secretary (in coordination with the relevant parties) determines thatâ
+(I)
+(aa)
+greater than 10 percent of the value of imports of covered primary goods in a covered national industry come from a single country of origin, or
+(bb)
+when applied to imports of covered primary goods in a covered national industry from a country of origin, the carbon intensity determined under clause (i) fails to maintain the integrity and efficacy of this subchapter, and
+(II)
+(aa)
+transparent, verifiable, and reliable information is not available to determine the carbon intensity of the covered national industry in such country of origin, or
+(bb)
+such country of origin is not a transparent market economy,
+the Secretary (in coordination with the relevant parties) shall estimate the carbon intensity of the covered national industry in the country of origin using best available data (such as the production processes used by the facilities in the country).
+(B)
+Carbon intensity of the general economy
+For purposes of this subchapter, with respect to any country, the carbon intensity of the general economy of such country shall be an amount equal to the quotient ofâ
+(i)
+the greenhouse gas emissions of such country for the most recent year for which the Secretary determines there is reliable information, divided by
+(ii)
+the gross domestic product of such country for the year described in clause (i).
+(C)
+Petition for foreign manufacturer data
+(i)
+In general
+In the case of any entity which imports a covered primary good for which the carbon intensity can be determined under subparagraph (A)(ii) from a country of origin where there is no evidence of inter-firm resource shuffling, such entity may file a petition with the Secretary to determine the charge under section 4692, if any, based on the average carbon intensity with respect to the production of such good by the manufacturer within the country of origin.
+(ii)
+Aggregation rule
+For purposes of this subparagraph, the average carbon intensity with respect to the production of a covered primary good shall be determined based upon greenhouse gas emission and production data from all facilities which produce such good which are under common control of the manufacturer of such good, including any subsidiary, parent company, or joint venture of such manufacturer within the country of origin.
+(iii)
+Data provision
+In the case of an entity which files a petition described in clause (i), such entity shall provide the Secretary with an environmental product declaration containingâ
+(I)
+any information which would otherwise be required to be reported under subsection (a) if the facilities which produced the covered primary good to which the petition applies were subject to the reporting requirements under the Greenhouse Gas Reporting Program, and
+(II)
+any other information which is necessary (as determined by the Secretary, in coordination with the relevant parties) to calculate the carbon intensity of the covered primary good in accordance with any relevant methodologies for allocating the carbon intensity of the covered primary good under paragraph (1)(C)(iv).
+(iv)
+Data standards
+The Secretary shall only grant such a petition if the information provided pursuant to clause (iii) meets the quality, verification, and completeness requirements of the equivalent Federal carbon accounting rules and standards that would apply if the covered primary good were produced domestically.
+(D)
+Inputs
+With respect to any covered primary good which is imported into the United States and for which other covered primary goods (other than petroleum, natural gas, coal, or any waste or scrap product) from other covered national industries were used as inputs in the production of the imported covered primary good, the quantity of such inputs used in the production of the imported covered primary good shall be treated as separate covered primary goods that, without double-counting emissions, shall be considered to be imported for purposes of this subchapter.
+(E)
+Exclusion
+(i)
+In general
+Subject to clause (ii), in the case of any covered primary good (including any covered primary good which is an input of a finished good) which is imported into the United States and was produced in a relatively least developed country (as described in section 124 of the Foreign Assistance Act of 1961 (
+22 U.S.C. 2151v
+)), this paragraph shall not apply.
+(ii)
+Exception
+Clause (i) shall not apply if the country described in such clause produces at least 3 percent of total global exports by value of the covered primary good.
+(F)
+Inter-firm resource shuffling
+For purposes of this paragraph, the term
+inter-firm resource shuffling
+means any buying, selling, trading, exchanging, or other transfer of control of production facilities between entities based on the carbon intensity of such facilities for the purpose of creating entities with relatively lower carbon intensity and entities with relatively higher carbon intensity.
+(G)
+Trading partners
+For countries with which the United States has agreements that facilitate trade, commit the parties to refrain from imposing new trade barriers, and establish high standards for labor and environmental protection and human rights, the Secretary (working with the relevant parties) shall make best efforts to work with the government of such country to improve data sharing, accuracy, and transparency such that imports of covered primary goods from such country have their carbon intensity determined under subparagraph (A)(ii).
+(c)
+Publication
+The Secretary (in coordination with the relevant parties) shallâ
+(1)
+annually publish any carbon intensity which has been determined under subsection (b) with respect to any eligible facility, covered national industry, covered primary good, foreign manufacturer, or country of origin (including the physical unit of measurement which serves as the relevant quantity with respect to any covered primary good),
+(2)
+publish (and update, as appropriate) a list of each covered primary good, as categorized by the covered national industry in which such good is included, and
+(3)
+publish (and update, as appropriate) a list of each good that qualifies as a finished good, as determined by the Secretary pursuant to section 4695(9).
+4692.
+Imposition of carbon intensity charge
+(a)
+In general
+(1)
+Importation of goods
+(A)
+In general
+(i)
+Covered primary goods
+Subject to section 4694, in the case of any covered primary good imported into the United States during any calendar year beginning after December 31, 2025, there is hereby imposed a charge in an amount (rounded to the nearest dollar) equal to the product ofâ
+(I)
+the amount (if any) by which the carbon intensity determined under section 4691(b)(3) with respect to such good exceeds an amount equal to the applicable percentage of the baseline carbon intensity of the covered national industry which includes such good, multiplied by
+(II)
+the total relevant quantity of the good imported into the United States, multiplied by
+(III)
+the cost of pollution (as determined under subsection (c)).
+(ii)
+Finished goods
+(I)
+In general
+Subject to section 4694, in the case of any finished good which is imported into the United States during any calendar year beginning after December 31, 2027, there is hereby imposed a charge in an amount equal to the sum of the amounts determined under subclause (II) with respect to each covered primary good which is an input of such finished good.
+(II)
+Components
+The amount determined under this subclause with respect to any covered primary good which is an input of a finished good is an amount equal to the product ofâ
+(aa)
+the amount (if any) determined under clause (i)(I) if such clause were applied with respect to such good, multiplied by
+(bb)
+the total relevant quantity of the covered primary good, multiplied by
+(cc)
+the cost of pollution (as determined under subsection (c)).
+(B)
+Charge due
+The charge imposed under this paragraph with respect to any goods imported during any calendar year shall be paid by the entity which imported such goods not later than September 30 of the calendar year subsequent to such year.
+(C)
+Exclusion
+(i)
+In general
+Subject to clause (ii), in the case of any covered primary good (including any covered primary good which is an input of a finished good) which is imported into the United States and was produced in a relatively least developed country (as described in section 124 of the Foreign Assistance Act of 1961 (
+22 U.S.C. 2151v
+)), this paragraph shall not apply.
+(ii)
+Exception
+Clause (i) shall not apply if the country described in such clause produces at least 3 percent of total global exports by value of the covered primary good.
+(D)
+Foreign carbon prices
+If the Secretary (in coordination with the relevant parties) determines that a foreign country has implemented policies which impose explicit and verifiable fees, costs, or penalties on the emission of greenhouse gases whichâ
+(i)
+are economically similar to the charges imposed pursuant to the provisions of this subchapter, and
+(ii)
+have not been rebated by such foreign country,
+the charge (or a portion of the charge which is equivalent to the fees or costs imposed by the foreign country) which would otherwise be imposed under this section with respect to covered primary goods produced in such foreign country may be waived.
+(2)
+Domestic production of covered primary goods
+(A)
+In general
+In the case of any eligible facility, for each calendar year beginning after December 31, 2025, there is hereby imposed a charge in an amount (rounded to the nearest dollar) equal to the product ofâ
+(i)
+the amount (if any) by which the carbon intensity of such facility (as determined under section 4691(b)(1)(A)) exceeds an amount equal to the applicable percentage of the baseline carbon intensity for the covered national industry (as determined under section 4691(b)) which includes any covered primary good produced by such facility, multiplied by
+(ii)
+the total relevant quantity of any covered primary goods produced by such facility during such calendar year, multiplied by
+(iii)
+the cost of pollution (as determined under subsection (c)).
+(B)
+Charge due
+The charge imposed under this paragraph with respect to any calendar year shall be paid by the covered entity not later than September 30 of the calendar year subsequent to such year.
+(b)
+Applicable percentage
+For purposes of paragraphs (1)(A) and (2)(A) of subsection (a), the applicable percentage shall beâ
+(1)
+for calendar year 2026, 100 percent,
+(2)
+for calendar years 2027 through 2030, the applicable percentage for the preceding calendar year, reduced by 2.5 percentage points,
+(3)
+for calendar years 2031 through 2047, the applicable percentage for the preceding calendar year, reduced by 5 percentage points, and
+(4)
+for any calendars years subsequent to calendar year 2047, 0 percent.
+(c)
+Cost of pollution
+(1)
+In general
+For purposes of paragraphs (1)(A) and (2)(A) of subsection (a), the cost of pollution shall beâ
+(A)
+for calendar year 2026, $60, and
+(B)
+for each calendar year subsequent to the calendar year described in subparagraph (A), an amount equal to the sum ofâ
+(i)
+the cost of pollution for the preceding year, plus
+(ii)
+an amount equal toâ
+(I)
+the amount described in clause (i), multiplied by
+(II)
+the percentage by which the CPI for the preceding calendar year exceeds the CPI for the second preceding calendar year, increased by 6 percentage points.
+(2)
+CPI
+Rules similar to the rules of paragraphs (4) and (5) of section 1(f) shall apply for purposes of this subsection.
+(3)
+Rounding
+Any applicable amount determined under this subsection which is not a multiple of $1 shall be rounded to the nearest dollar.
+(d)
+Carbon removal
+(1)
+In general
+With respect to the amount of any charges imposed under subsection (a) during a calendar year, such amount shall be reduced by an amount (rounded to the nearest dollar) equal to the product ofâ
+(A)
+the total amount (as measured in metric tons) of greenhouse gas emissions which are captured directly from the ambient air during such calendar year pursuant to the requirements under paragraphs (2) and (3), and
+(B)
+the cost of pollution (as determined under subsection (c)).
+(2)
+Removal requirements
+The requirements described under this paragraph with respect to captured greenhouse gas emissions are that such emissions are captured during the preceding calendar year andâ
+(A)
+disposed of in secure geological storage (in compliance with the regulations established under section 45Q(f)(2)), or
+(B)
+utilized in a manner (other than for enhanced oil or gas recovery and in compliance with the regulations established under section 45Q(f)(5)) whereby such emissions are not combusted or otherwise emitted into the atmosphere.
+(3)
+Direct air capture
+For purposes of this subsection, with respect to any greenhouse gas emissions which are captured directly from the ambient air, the operator of the facility which captured such emissions mayâ
+(A)
+apportion such emissions removal amongst any eligible facilities which are under common control of such operator, or
+(B)
+enter into binding and exclusive agreements (which meet such requirements as determined necessary by the Secretary to ensure fair and accurate emissions accounting) withâ
+(i)
+any operator of an eligible facility, for the purpose of permitting such operator to reduce the charge imposed under subsection (a) with respect to any eligible facilities which are under common control of such operator, or
+(ii)
+any importer of covered primary goods, for the purpose of permitting such operator to reduce the charge imposed under subsection (a) with respect to any of their imported covered primary goods.
+(4)
+Limitation
+For purposes of this subsection, in the case of any covered primary good imported or produced at an eligible facility, the amount of any reduction of the charge imposed under subsection (a) with respect to such covered primary good or production of such good shall not exceed the lesser ofâ
+(A)
+the amount of the charge imposed under such subsection, or
+(B)
+an amount equal to the product ofâ
+(i)
+the first quartile in terms of carbon intensity with respect to facilities operating in the United States which produce covered primary goods which are included within the same covered national industry, as determined by the Secretary (in coordination with the relevant parties), multiplied by
+(ii)
+the relevant quantity of such covered primary good, multiplied by
+(iii)
+the cost of pollution (as determined under subsection (c)).
+(5)
+Ensuring integrity
+The Secretary, in coordination with the Administrator and the Secretary of Energy, shall issue such regulations as may be necessary to prevent double-counting and to ensure the additionality and permanence of captured emissions.
+(e)
+Regulations and trade actions
+The Secretary shall issue such regulations as may be necessary to carry out this subchapter and shall work closely with the relevant parties to pursue such trade actions as may be necessary to maintain the integrity and efficacy of this subchapter.
+4693.
+Rebate
+(a)
+Exportation of covered primary good
+Subject to subsections (c) and (d), in the case of a person who exports any covered primary good from the United States which was produced in an eligible facility for which a charge has been imposed under section 4692, a refund shall be allowed to such person in the same manner as if it were an overpayment of the charge imposed by such section in an amount equal to the charge that would be imposed under subsection (a)(1)(A)(i) of such section with respect to such good.
+(b)
+Exportation of finished good
+Subject to subsection (c), in the case of a person who exports any finished good from the United States for which a charge has been imposed under section 4692 on such finished good or any of its components, a refund shall be allowed to such person in the same manner as if it were an overpayment of the charge imposed by such section in an amount equal to the charge that would otherwise be imposed under such section with respect to such finished good (as determined pursuant to subsection (a)(1)(A)(ii) of such section).
+(c)
+Exception for certain foreign policies
+In the case of any exports from the United States for which a charge has been imposed under section 4692, ifâ
+(1)
+the covered primary good or finished good is imported by a country with policies that impose tariffs, fees, or penalties on the emission of greenhouse gases associated with imports, and
+(2)
+the country described in paragraph (1) would credit the charge imposed under section 4692 against such tariffs, fees, or penalties,
+any portion of a rebate otherwise allowable under this section shall not be allowed to the extent that it would reduce the amount credited by such country against such tariffs, fees, or penalties.
+(d)
+Preventing domestic resource shuffling
+For purposes of determining the amount of any refund pursuant to subsection (a), the carbon intensity with respect to the eligible facility shall be determined by applying section 4691(b)(1)(A) by substituting
+all eligible facilities by the covered entity which produced the covered primary good described in section 4693(a)(1)
+for
+such facility
+each place it appears in such section.
+4694.
+Carbon clubs
+(a)
+In general
+To accelerate the pace of global decarbonization and expand markets for goods with lower carbon intensities, the President may, in coordination with the Secretary and the relevant partiesâ
+(1)
+enter into negotiations with 1 or more foreign countries to establish or expand a carbon club agreement under this section,
+(2)
+perform any enforcement activities necessary to uphold the requirements under such agreement, and
+(3)
+remove any foreign country from a carbon club agreement if such country is determined to have failed to comply with the requirements described in subsection (b) or any additional requirements established under such agreement.
+(b)
+Requirements
+Any foreign country which has entered into a carbon club agreement under this section shall be subject to the following requirements:
+(1)
+Ensure its methodologies for the measurement, reporting, and verification of the carbon intensity of covered national industries match, or are interoperable with, those used to determine the carbon intensity of covered national industries in the United States.
+(2)
+Permit any other country which is a party to such agreement to regularly validate the measurement, reporting, and verification of the carbon intensity of their covered national industries.
+(3)
+Ensure, in law and in practice, that all workers in the territory of the country are guaranteed the following internationally recognized rights and freedoms, including those guaranteed in the Declaration on Fundamental Principles and Rights at Work of the International Labour Organization and its Follow-up:
+(A)
+Freedom of association and the effective recognition of the right to collective bargaining.
+(B)
+Elimination of all forms of forced or compulsory labor.
+(C)
+Effective abolition of child labor, a prohibition on the worst forms of child labor, and other labor protections for children and minors.
+(D)
+Elimination of discrimination in respect of employment and occupation.
+(E)
+Acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health.
+(4)
+Create or maintain, as well as implement and verifiably enforceâ
+(A)
+domestic policies (including any investments made possible by assistance provided under section 2(d) of the
+Clean Competition Act
+) which reduce the carbon intensity of its covered national industries in a magnitude greater than that which would feasibly be induced as a result ofâ
+(i)
+the charges imposed under section 4692(a)(1), or
+(ii)
+similar fees on the emissions of greenhouse gases associated with the production of imports levied by other countries which are parties to such agreement,
+(B)
+trade policies, such as the charge imposed under section 4692(a)(1), which give preference to goods with lower carbon intensities,
+(C)
+domestic policies which reduce pollutants other than greenhouse gases, and
+(D)
+policies that prevent such country from facilitating transshipment from other countries.
+(c)
+Prioritization
+In negotiations with respect to any carbon club agreement under this section, the President shall seek to reach an agreement with foreign countries which prioritizes the following goals in the following order of importance:
+(1)
+Reduction of global greenhouse gas emissions.
+(2)
+Securing access for the United States to materials and inputs necessary to manufacture products with lower carbon intensity, particularly those that are not feasibly produced domestically.
+(3)
+Strengthening the global market competitiveness of lower carbon intensity goods.
+(4)
+Advancing the national security and diplomatic interests of the United States.
+(d)
+Benefits
+With respect to any country which has entered into a carbon club agreement under this section, if such countryâ
+(1)
+is not contributing to global industrial overcapacity (as determined by the United States Trade Representative, in coordination with other relevant parties), the charge which would otherwise be imposed under section 4692(a)(1) with respect to covered primary goods produced in a foreign country, as well as any similar fees on the emissions of greenhouse gases associated with the production of imports levied by other countries which are parties to such agreement, may be waived, provided that such country establishes or maintains policies that reduce the emission of greenhouse gases from its covered national industries with commensurate effect as the carbon intensity charges imposed under section 4692(a)(2), and
+(2)
+has a low-income economy, lower-middle-income economy, or upper-middle-income economy (as determined based on classification of the economy of such country by the World Bank), such country shall receive preference for assistance provided under section 2(d) of the
+Clean Competition Act
+.
+(e)
+Phase-In
+(1)
+In general
+Subject to paragraph (2), for purposes of any carbon club agreement under this section, a country may limit application of such agreement to certain covered national industries, in which case any requirements or benefits provided pursuant to such agreement shall be limited to such industries and any covered products produced by such industries.
+(2)
+Limitation
+Not later than 10 years after the date on which any country enters into a carbon club agreement under this section, all covered national industries of such country shall be subject to the requirements of such agreement.
+4695.
+Definitions
+For purposes of this subchapterâ
+(1)
+Administrator
+The term
+Administrator
+means the Administrator of the Environmental Protection Agency.
+(2)
+Baseline carbon intensity
+The term
+baseline carbon intensity
+means, with respect to a covered national industry, the carbon intensity of the covered national industry in the United States for calendar year 2025.
+(3)
+C
+O2
+-e
+(A)
+In general
+Subject to subparagraph (B), the term
+CO2âe
+means, with respect to a greenhouse gas, the quantity of such gas that has a global warming potential equivalent to 1 metric ton of carbon dioxide, as determined pursuant to table Aâ1 of subpart A of part 98 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this subchapter.
+(B)
+Methane
+In the case of methane, the term
+CO2âe
+means the quantity of methane that has the same global warming potential over a 20-year period as 1 metric ton of carbon dioxide, as determined by the Administrator in accordance with the findings of the most recent Assessment Report of the Intergovernmental Panel on Climate Change as of the date of enactment of this subchapter.
+(4)
+Covered entity
+The term
+covered entity
+means any entity whichâ
+(A)
+produces any covered primary good, and
+(B)
+is required to report emissions of greenhouse gases under the Greenhouse Gas Reporting Program (or would be required to report such emissions notwithstanding any other provision of law prohibiting the implementation of or use of funds for such requirements).
+(5)
+Covered national industry
+(A)
+In general
+Except as provided under section 4691(b)(1)(B)(ii), the term
+covered national industry
+means any industry which is assigned a 6-digit NAICS code which is included in any of the following clauses:
+(i)
+211120 (petroleum extraction).
+(ii)
+211130 (natural gas extraction).
+(iii)
+212114 or 212115 (coal mining).
+(iv)
+322110 (pulp mills).
+(v)
+322120 (paper mills).
+(vi)
+322130 (paperboard mills).
+(vii)
+324110 (petroleum refineries).
+(viii)
+324121 (asphalt paving mixture and block manufacturing).
+(ix)
+324122 (asphalt shingle and coating materials manufacturing).
+(x)
+324199 (all other petroleum and coal products manufacturing).
+(xi)
+325110 (petrochemical manufacturing).
+(xii)
+325120 (industrial gas manufacturing).
+(xiii)
+325193 (ethyl alcohol manufacturing).
+(xiv)
+325199 (other basic organic chemical manufacturing).
+(xv)
+325311 (nitrogenous fertilizer manufacturing).
+(xvi)
+327211, 327212, 327213, or 327215 (glass).
+(xvii)
+327310 (cement).
+(xviii)
+327410 or 327420 (lime and gypsum product manufacturing).
+(xix)
+331110 (iron and steel).
+(xx)
+331313 or 331314 (aluminum).
+(B)
+Exceptions
+(i)
+Industrial gas manufacturing
+Subparagraph (A)(xii) shall apply only with respect to the production of hydrogen.
+(ii)
+Other basic organic chemical manufacturing
+Subparagraph (A)(xiv) shall apply only with respect to the production of adipic acid.
+(6)
+Country of origin
+The term
+country of origin
+means, with respect to a covered primary good, the country where an energy-intensive or emissions-intensive process occurred that transformed the inputs of the good into the covered primary good.
+(7)
+Covered primary good
+The term
+covered primary good
+means any good which is produced as part of a trade or business operating within a covered national industryâ
+(A)
+including (except as otherwise provided under subparagraphs (B)(ii) and (C) of section 4691(b)(1)) any good classifiable under the same 6-digit subheading of the Harmonized Tariff Schedule of the United States, and
+(B)
+excluding any waste or scrap byproducts which are not sold.
+(8)
+Eligible facility
+The term
+eligible facility
+means any facility (as such term is defined for purposes of the Greenhouse Gas Reporting Program) which isâ
+(A)
+operated by a covered entity for the production of any covered primary good, and
+(B)
+located within the United States.
+(9)
+Finished good
+(A)
+In general
+The term
+finished good
+means any good (as determined pursuant to a 6-digit subheading of the Harmonized Tariff Schedule of the United States) which is not a covered primary good and which, as determined by the Secretaryâ
+(i)
+for calendar years 2028 and 2029â
+(I)
+typically contains greater than 1,000 pounds of any combination of any covered primary goods, or
+(II)
+is typically produced from inputs of any combination of covered primary goods, the combined value of which comprise more than 90 percent of the total value of the material inputs involved in the production of such good,
+(ii)
+for calendar years 2030 and 2031â
+(I)
+typically contains greater than 500 pounds of any combination of any covered primary goods, or
+(II)
+is typically produced from inputs of any combination of covered primary goods, the value of which comprise more than 75 percent of the total value of the material inputs involved in the production of such good, and
+(iii)
+for any calendar year after calendar year 2031â
+(I)
+typically contains greater than such amount as is determined by the Secretary (as determined in coordination with the relevant parties, and which shall not be greater than 500 pounds) of any combination of any covered primary goods, or
+(II)
+is typically produced from inputs of any combination of covered primary goods, the value of which comprise more than such percentage as is determined by the Secretary (as determined in coordination with the relevant parties, and which shall not be greater than 75 percent) of the total value of the material inputs involved in the production of such good.
+(B)
+Exception
+The term
+finished good
+shall not include any waste or scrap product which is imported or exported.
+(10)
+Greenhouse gas
+The term
+greenhouse gas
+has the meaning given such term under section 211(o)(1)(G) of the Clean Air Act, as in effect on the date of the enactment of this subchapter.
+(11)
+Greenhouse gas emissions
+The term
+greenhouse gas emissions
+means the amount of greenhouse gases, expressed in metric tons of CO2âe, which were emitted to the atmosphere.
+(12)
+Greenhouse Gas Reporting Program
+The term
+Greenhouse Gas Reporting Program
+means the Greenhouse Gas Reporting Program established under part 98 of title 40, Code of Federal Regulations, as in effect on January 1, 2025.
+(13)
+Market economy
+The term
+market economy
+means any country which is not designated as a nonmarket economy country pursuant to section 771(18) of the Tariff Act of 1930 (
+19 U.S.C. 1677(18)
+).
+(14)
+NAICS
+The term
+NAICS
+means the North American Industrial Classification System.
+(15)
+Regional grid
+The term
+regional grid
+means the smallest defined region of interconnected power grid (including power generation assets) from which a facility draws power that accounts for the total power supplied to the facility by the grid and for which there is reliable data.
+(16)
+Relevant parties
+The term
+relevant parties
+meansâ
+(A)
+the Administrator,
+(B)
+the Secretary of Energy,
+(C)
+the Secretary of Commerce,
+(D)
+the Secretary of Homeland Security,
+(E)
+the United States Trade Representative, and
+(F)
+the Chair and Vice Chair of the United States International Trade Commission.
+.
+(b)
+Clerical amendment
+The table of subchapters for
+chapter 38
+of the Internal Revenue Code of 1986 is amended by adding at the end thereof the following new item:
+Subchapter EâCarbon intensity charge
+.
+(c)
+Investing in industrial competitiveness
+(1)
+Definitions
+In this subsection:
+(A)
+Administrator
+The term
+Administrator
+means the Administrator of the Environmental Protection Agency.
+(B)
+Advanced industrial technology
+The term
+advanced industrial technology
+means a technology thatâ
+(i)
+is directly involved in an industrial process described in paragraphs (1) through (6) of section 454(c) of the Energy Independence and Security Act of 2007 (
+42 U.S.C. 17113(c)
+); and
+(ii)
+is designed to accelerate greenhouse gas emissions reduction progress to net-zero at an eligible facility, as determined by the Secretary.
+(C)
+Ambition level
+The term
+ambition level
+means the level of reduction in carbon intensity described in each of subclauses (I) through (III) of paragraph (3)(C)(iv).
+(D)
+Applicable fair market value
+The term
+applicable fair market value
+, with respect to an eligible good, means the average market dollar value of 1 unit of the relevant quantity of that eligible good, as determined by the Secretary using publicly available market prices and other market data.
+(E)
+Baseline carbon intensity
+The term
+baseline carbon intensity
+has the meaning given the term in
+section 4695
+of the Internal Revenue Code of 1986 (as added by subsection (a)).
+(F)
+Benchmark carbon intensity
+The term
+benchmark carbon intensity
+, with respect to a covered primary good or eligible good, means the carbon intensity of the covered national industry in the United States for that covered primary good or eligible good for the preceding calendar year.
+(G)
+Best-in-class carbon intensity
+The term
+best-in-class carbon intensity
+, with respect to any proposed eligible facility, means that the carbon intensity of such facility would be not greater than the carbon intensity of the existing facility with the lowest carbon intensity within the relevant covered national industry, as determined as of the date of the application for a grant under the program.
+(H)
+Carbon intensity
+The term
+carbon intensity
+has the meaning given the term under
+section 4691(b)(1)
+of the Internal Revenue Code of 1986 (as added by subsection (a)).
+(I)
+Covered primary good
+The term
+covered primary good
+has the meaning given the term in
+section 4695
+of the Internal Revenue Code of 1986 (as added by subsection (a)).
+(J)
+Covered program
+The term
+covered program
+means each of the programs established under paragraphs (2)(A) and (3)(A).
+(K)
+Covered national industry
+The term
+covered national industry
+has the meaning given the term in
+section 4695
+of the Internal Revenue Code of 1986 (as added by subsection (a)).
+(L)
+Eligible entity
+The term
+eligible entity
+means any person that operates an eligible facility or will operate a proposed eligible facility.
+(M)
+Eligible facility
+The term
+eligible facility
+has the meaning given the term in
+section 4695
+of the Internal Revenue Code of 1986 (as added by subsection (a)).
+(N)
+Eligible good
+The term
+eligible good
+means a covered primary good determined eligible for a contract for difference by the Secretary under paragraph (3)(B).
+(O)
+Eligible goods class
+The term
+eligible goods class
+means an eligible goods class as described in paragraph (3)(C)(iii).
+(P)
+Price discovery
+The term
+price discovery
+means a process of determining the true and accurate price of producing 1 unit of the relevant quantity of an eligible good using a unique production process.
+(Q)
+Relevant quantity
+The term
+relevant quantity
+has the meaning given the term under
+section 4691(b)(1)(E)
+of the Internal Revenue Code of 1986 (as added by subsection (a)).
+(R)
+Secretary
+The term
+Secretary
+means the Secretary of Energy (or a designee).
+(S)
+Strike price
+The term
+strike price
+means the dollar value of 1 unit of the relevant quantity of an eligible good.
+(2)
+Investments in advanced industrial technology
+(A)
+Establishment
+The Secretary shall establish a competitive program (referred to in this paragraph as the
+program
+) to award to eligible entities grants, rebates, or low-interest loans, as determined appropriate by the Secretary, to support investments in advanced industrial technology, including in dedicated power generation and storageâ
+(i)
+in the case of an existing eligible facility, to reduce the carbon intensity of the existing eligible facility by at least 20 percent;
+(ii)
+in the case of a proposed eligible facility, to ensure at least best-in-class carbon intensity of that proposed eligible facility, with a goal of achieving net-zero carbon intensity; and
+(iii)
+in the case of existing and proposed eligible facilitiesâ
+(I)
+to increase the technological and economic competitiveness of covered national industries in the United States;
+(II)
+to increase the viability and competitiveness of United States industrial exports; and
+(III)
+to achieve emissions reduction in covered national industries.
+(B)
+Application process
+The Secretary shall develop an application process for the program similar to the application process for the national grant program of the Administrator under subtitle G of title VII of the Energy Policy Act of 2005 (
+42 U.S.C. 16131 et seq.
+).
+(C)
+Preference
+In awarding funding under the program, the Secretary shall give preference to eligible entitiesâ
+(i)
+for projects that wouldâ
+(I)
+result in the greatest decrease in carbon intensity;
+(II)
+support the demonstration and catalyze the deployment of first-of-a-kind technologies and processes;
+(III)
+provide the greatest benefit for the greatest number of people within the area in which the eligible facility is located;
+(IV)
+advance United States global strategic interests;
+(V)
+provide the greatest potential for direct and indirect domestic job creation; and
+(VI)
+maximize improvement in local air quality; and
+(ii)
+for facilities located inâ
+(I)
+economically distressed communities that have experienced a loss of manufacturing jobs; and
+(II)
+communities with high cumulative pollution burdens, as determined by the Administrator.
+(D)
+Cost share
+The Secretary shall require an eligible entity to provide not less than 50 percent of the cost of a project carried out pursuant to the program.
+(E)
+Recapture of funds
+The Secretary shall recapture, pursuant to such regulations or other guidance issued by the Secretary, the funding awarded to an eligible entity if the eligible entity failsâ
+(i)
+within 3 years of the award of funding, to complete the proposed investments or achieve an interim progress milestone agreed to with the Secretary; or
+(ii)
+during the 10-year period after the proposed investments are placed in serviceâ
+(I)
+in the case of an existing eligible facility, to achieve and maintain the reduction in carbon intensity proposed in the application; or
+(II)
+in the case of a proposed eligible facility, to achieve and maintain the best-in-class carbon intensity proposed in the application.
+(F)
+Outreach
+The Secretary shall conduct outreachâ
+(i)
+to notify the public about the program; and
+(ii)
+to inform eligible entities of technologies that can reduce facility carbon intensity or ensure best-in-class carbon intensity.
+(3)
+Contracts for difference
+(A)
+Establishment
+The Secretary shall establish a program (referred to in this paragraph as the
+program
+) to enter into contracts for difference (referred to in this paragraph as
+covered contracts
+), on a competitive basis, with eligible entities for payment of costs associated with the production of eligible goods manufactured by those eligible entitiesâ
+(i)
+to accelerate the deployment of commercially available advanced industrial technology;
+(ii)
+to demonstrate and advance the commercialization of first-of-a-kind advanced industrial technology;
+(iii)
+to increase the technological and economic competitiveness of covered national industries in the United States;
+(iv)
+to increase the viability and competitiveness of United States advanced industrial technology exports; and
+(v)
+to reduce the carbon intensity of covered national industries in the United States.
+(B)
+Eligible goods
+(i)
+In general
+The Secretary shall determine which covered primary goods are eligible for covered contracts under the program.
+(ii)
+Priority
+In making determinations under clause (i), the Secretary shall give priority to covered primary goodsâ
+(I)
+that contribute a greater proportion of total covered emissions relative to other covered primary goods in the same covered national industry;
+(II)
+the market conditions for which are conducive to fair and competitive auctions;
+(III)
+that have transparent and accurate price indices;
+(IV)
+that face large marginal costs of decarbonization that cannot feasibly be equalized by the carbon intensity charge levied under section 4692 of the Internal Revenue Code of 1982 (as added by subsection (a));
+(V)
+that provide the greatest potential for direct and indirect domestic job creation;
+(VI)
+that are feasibly expected to continue to have robust market demand for the duration of the applicable covered contract; and
+(VII)
+that have the greatest ability to reduce hazardous local air quality if awarded a covered contract.
+(C)
+Auctions
+(i)
+In general
+To award covered contracts under the program, the Secretary shall hold competitive auctions for each eligible goods class.
+(ii)
+Application
+To participate in an auction under clause (i), an eligible entity shall submit to the Secretary an application that includesâ
+(I)
+a description of the eligible goods covered under the proposed covered contract;
+(II)
+information on any existing or proposed facilities that will produce the eligible goods covered under the proposed covered contract, including location, employment numbers, and any planned or ongoing investments in or retrofits of the facilities;
+(III)
+a description of the method of production, including technologies and feedstocks, that will be used to manufacture the eligible goods covered under the proposed covered contract;
+(IV)
+the details of any investments or retrofits required to produce the eligible goods covered under the proposed covered contract, including the construction of new facilities;
+(V)
+the expected carbon intensity of the eligible goods covered under the proposed covered contract for each year of the duration of the proposed covered contract;
+(VI)
+the proposed strike price of the eligible goods covered under the proposed covered contract;
+(VII)
+the expected annual production volume (expressed in the relevant quantity) of the eligible goods covered under the proposed covered contract for each year of the proposed covered contract; and
+(VIII)
+any other information determined necessary by the Secretary.
+(iii)
+Eligible goods class
+(I)
+In general
+For each auction under clause (i), the Secretary shall assign each eligible good to an eligible goods class, which may comprise a single eligible good or multiple eligible goods.
+(II)
+Class of multiple eligible goods
+In determining the eligible goods that shall be grouped into a single eligible goods class for purposes of an auction under clause (i), the Secretary shallâ
+(aa)
+only group eligible goods that can reasonably compete with each other for market share in the economy and on the basis of carbon intensity in the auction; and
+(bb)
+prioritize the creation of eligible goods classes that are conducive to fair and competitive auctions.
+(III)
+Benchmark carbon intensity
+The benchmark carbon intensity for an eligible goods class with eligible goods from multiple covered national industries shall be the mean benchmark carbon intensity of those covered national industries (after converting to the same relevant quantity, if necessary).
+(iv)
+Ambition level
+If the Secretary determines that there are conditions to support sufficient auction competitiveness, the Secretary may hold separate auctions within an eligible goods class for projects that yield each of the following percentages of reduction in carbon intensity:
+(I)
+A reduction in carbon intensity from benchmark carbon intensity of not less than 20 percent but not more than 50 percent.
+(II)
+A reduction in carbon intensity from benchmark carbon intensity of not less than 50 percent but not more than 80 percent.
+(III)
+A reduction in carbon intensity from benchmark carbon intensity of more than 80 percent.
+(v)
+Selection
+The Secretary shall determine the winners of each auction under clause (i) by selecting projects in rank order from the lowest to the highest value of the quotient obtained by dividingâ
+(I)
+the expected per-unit payment amount described in subparagraph (F)(ii)(II), which shall be determined by the Secretary using the proposed strike price of the eligible entity and the fair market value at the time of auction; by
+(II)
+an amount equal to the difference betweenâ
+(aa)
+the benchmark carbon intensity; and
+(bb)
+the carbon intensity of the eligible good under the proposed covered contract.
+(vi)
+Administration
+(I)
+In general
+The Secretary shall design and manage competitive auctions under clause (i) to maximize fairness, competitiveness, accurate price discovery, and the most efficient utilization of public funds to achieve reductions in carbon intensity and the other goals of the program.
+(II)
+Auction budget
+The Secretary shall establish a budget for each auction held under the program.
+(D)
+Requirements
+(i)
+Carbon intensity reduction
+Each covered contract awarded under the program shall be required to achieve at least a 20 percent reduction in carbon intensity as compared to the benchmark carbon intensity on the date of commencement of the contract.
+(ii)
+Labor
+An eligible entity awarded a covered contract under the program shall be requiredâ
+(I)
+to pay prevailing wages for any work performed, including for the execution of any investments or retrofits necessary to produce the applicable eligible goods; and
+(II)
+to establish a community benefits agreement in conjunction with the production of the applicable eligible goods, including the execution of any investments or retrofits necessary to produce those eligible goods.
+(E)
+Contract terms
+Each covered contract under the program shall include the following:
+(i)
+A description of the project under the covered contract, includingâ
+(I)
+details on the eligible goods, including relevant distinguishing qualities and properties and the methodology of producing those eligible goods;
+(II)
+the execution of any investments or retrofits necessary to produce those eligible goods; and
+(III)
+performance requirements for the project and procedures and penalties if those requirements are not met.
+(ii)
+The maximum payment amount determined pursuant to subparagraph (F)(iv).
+(iii)
+The expected carbon intensity of each eligible good covered under the covered contract, estimated for each year of the duration of the covered contract.
+(iv)
+The strike price for each eligible good under the covered contract, including any procedures for adjusting the strike price over time, pursuant to subparagraph (F)(iii).
+(v)
+The methods and data sources to be used for calculating covered emissions and the applicable fair market value of eligible goods, as established by the Secretary.
+(vi)
+Details of the community benefits agreement established pursuant to subparagraph (D)(ii)(II).
+(vii)
+The duration of the covered contract, subject to any early termination rules established by the Secretary.
+(viii)
+Any other terms determined necessary by the Secretary.
+(F)
+Payments
+(i)
+In general
+Under each covered contract entered into under the program, the Secretary shall make at least 1 payment annually.
+(ii)
+Amount
+The amount of a payment under clause (i), with respect to an eligible good produced by an eligible entity over a designated period of time, as determined by the Secretary, shall equal the product obtained by multiplyingâ
+(I)
+the quantity of the eligible good (expressed in the relevant quantity) produced by the eligible entity during the designated period of time; and
+(II)
+the per-unit payment amount, which shall be the difference betweenâ
+(aa)
+the strike price; and
+(bb)
+the average applicable fair market value of the same eligible good during the designated period of time, as determined by the Secretary.
+(iii)
+Dynamic indexing
+The Secretary shall adjust the strike price established in each covered contract over time to account forâ
+(I)
+inflation; and
+(II)
+changes in the cost of key inputs to the production of the eligible good, as determined by the Secretary, including, at a minimumâ
+(aa)
+natural gas;
+(bb)
+hydrogen; and
+(cc)
+electricity.
+(iv)
+Maximum payment amount
+For each covered contract under the program, the Secretary shall establish a maximum amount that may be paid under that covered contract, which amountâ
+(I)
+takes into consideration expected levels ofâ
+(aa)
+the quantity of eligible goods covered under the covered contract (expressed in the relevant quantity) produced over the duration of the covered contract; and
+(bb)
+the per-unit payment amount described in clause (ii)(II);
+(II)
+maximizes the deployment of available appropriations and the achievement of the goals of the program; and
+(III)
+ensures that obligated expenditures do not exceed available appropriations.
+(G)
+Penalties
+The Secretary may impose financial and other penalties on any eligible entity that fails to meet the performance requirements established by the Secretary for the covered contract of that eligible entity.
+(H)
+Public notice
+Not later than 180 days before each auction is held under the program, the Secretary shall publish guidance on the auction process, includingâ
+(i)
+the timeline and selection process;
+(ii)
+a list of eligible goods, eligible goods classes, and ambition levels, if applicable;
+(iii)
+the auction budget for each eligible goods class and ambition level, if applicable;
+(iv)
+the benchmark carbon intensity for each eligible goods class;
+(v)
+the applicable fair market value for each eligible goods class, measured as the average applicable fair market value over the preceding 12 months; and
+(vi)
+any additional information needed to facilitate a fair and competitive auction, as determined by the Secretary.
+(I)
+Rulemaking
+(i)
+In general
+The Secretary shallâ
+(I)
+not later than 1 year after the date of enactment of this Act, promulgate rules for the implementation of the program; and
+(II)
+update those rules at least once every 5 years thereafter.
+(ii)
+Effect on contracts
+Any update made under clause (i)(II) shall not apply to covered contracts under the program in effect before the date of effectiveness of the update.
+(4)
+Emissions reduction goal
+In awarding funding under the covered programs, the Secretary shall seek to keep the aggregate carbon intensity of each covered national industry in the United States below the value of the applicable percentage of the baseline carbon intensity for that covered national industry.
+(5)
+Allocation of funding
+In awarding funding under the covered programs, the Secretary shall, to the maximum extent practicable, allocate funds to eligible entities that produce covered primary goods that are included within a covered national industry in approximate proportion to the share of total greenhouse gas emissions that the covered national industry is responsible for emitting.
+(6)
+Offices
+The Secretary may establish 1 or more offices within the Department of Energy to administer the covered programs.
+(7)
+Evaluation and report
+Not later than January 1, 2032, the Secretary shall submit to Congress a report evaluating the efficacy of the covered programs.
+(8)
+Appropriations
+(A)
+In general
+For fiscal year 2027 and each subsequent fiscal year, in addition to amounts otherwise available, there are appropriated, out of any funds in the Treasury not otherwise appropriated, to the Secretary to carry out this subsection an amount equal to the amount determined under subparagraph (B) with respect to such fiscal year.
+(B)
+Appropriation
+(i)
+Fiscal year 2027
+For fiscal year 2027, the amount appropriated for purposes of paragraph (2) shall be $75,000,000,000.
+(ii)
+Subsequent fiscal years
+For fiscal year 2028 and each subsequent fiscal year, the amount appropriated for purposes of paragraph (2) shall be equal to the applicable amount (as determined under subparagraph (C)) for the preceding fiscal year.
+(C)
+Applicable amount
+For purposes of this paragraph, the term
+applicable amount
+meansâ
+(i)
+for any fiscal year beginning prior to the date on which the Secretary of the Treasury determines the total increase in revenues to the Treasury by reason of the application of subchapter E of
+chapter 38
+of the Internal Revenue Code of 1986 (as added by subsection (a)) is equal to or greater than $100,000,000,000, $0; or
+(ii)
+with respect to any fiscal year beginning after the date described in clause (i), an amount equal to 25 percent of the increase in revenues to the Treasury during such fiscal year by reason of the application of subchapter E of
+chapter 38
+of the Internal Revenue Code of 1986 (as added by subsection (a)).
+(d)
+Economic Support Fund of Department of State
+(1)
+In general
+For fiscal year 2027 and each subsequent fiscal year, in addition to amounts otherwise available, there are appropriated, out of any funds in the Treasury not otherwise appropriated, to the Department of State an amount equal to the amount determined under paragraph (2) with respect to such fiscal year, with such amount to be made available for bilateral and multilateral assistance to support climate and clean energy programs.
+(2)
+Preference
+In providing assistance under paragraph (1), the Secretary of State (in conjunction with the Secretary of the Treasury, the Secretary of Energy, and the Administrator of the Environmental Protection Agency) shall allocate such assistance in a manner which prioritizes the following goals in the following order of importance:
+(A)
+Facilitating the negotiation of carbon club agreements pursuant to
+section 4694
+of the Internal Revenue Code of 1986 (as added by subsection (a)).
+(B)
+Providing assistance to countries described in section 4694(d)(2) of such Code.
+(C)
+Maximizing the reduction of global greenhouse gas emissions.
+(D)
+Securing access for the United States to materials and inputs necessary to manufacture products with lower carbon intensity, particularly those that are not feasibly produced domestically.
+(E)
+Supporting human development and reductions in poverty.
+(F)
+Advancing the national security and diplomatic interests of the United States.
+(3)
+Appropriation
+(A)
+Fiscal year 2027
+For fiscal year 2027, the amount appropriated for purposes of paragraph (1) shall be $25,000,000,000.
+(B)
+Subsequent fiscal years
+For fiscal year 2028 and each subsequent fiscal year, the amount appropriated for purposes of paragraph (1) shall be equal to the applicable amount (as determined under paragraph (4)) for the preceding fiscal year.
+(4)
+Applicable amount
+For purposes of this subsection, the term
+applicable amount
+meansâ
+(A)
+for any fiscal year beginning prior to the date on which the Secretary of the Treasury determines the total increase in revenues to the Treasury by reason of the application of subchapter E of
+chapter 38
+of the Internal Revenue Code of 1986 (as added by subsection (a)) is equal to or greater than $100,000,000,000, $0, or
+(B)
+with respect to any fiscal year beginning after the date described in subparagraph (A), an amount equal to 25 percent of the increase in revenues to the Treasury during such fiscal year by reason of the application of subchapter E of
+chapter 38
+of the Internal Revenue Code of 1986 (as added by subsection (a)).

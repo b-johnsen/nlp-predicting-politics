@@ -1,0 +1,267 @@
+1.
+Short title
+This Act may be cited as the
+Next Generation Pipelines Research and Development Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Department
+The term
+Department
+means the Department of Energy.
+(2)
+Eligible entity
+The term
+eligible entity
+meansâ
+(A)
+an institution of higher education (as such term is defined in section 101(a) of the Higher Education Act of 1965 (
+20 U.S.C. 1001(a)
+)), including historically Black colleges and universities (within the meaning of the term
+part B institution
+in section 322 of the Higher Education Act of 1965 (
+20 U.S.C. 1061
+)), Tribal colleges and universities (as such term is defined in section 316 of the Higher Education Act of 1965 (
+20 U.S.C. 1059c
+)), and minority serving institutions (including the entities described in any of paragraphs (1) through (7) of section 371(a) of the Higher Education Act of 1965 (
+20 U.S.C. 1067q(a)
+));
+(B)
+a nonprofit research organization;
+(C)
+a National Laboratory (as such term is defined in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+));
+(D)
+a private commercial entity;
+(E)
+a partnership or consortium of two or more entities described in subparagraphs (A) through (D) that leverages existing Department efforts; or
+(F)
+any other entities the Secretary determines appropriate.
+(3)
+Initiative
+The term
+Initiative
+means the demonstration initiative established under section 4.
+(4)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+3.
+Coordination
+In carrying out this Actâ
+(1)
+the Secretary shall avoid unnecessary duplication and achieve shared mission goals by coordinating with the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation and across all relevant program offices at the Department of Energy, includingâ
+(A)
+the Office of Science;
+(B)
+the Office of Fossil Energy and Carbon Management;
+(C)
+the Office of Energy Efficiency and Renewable Energy;
+(D)
+the Office of Cybersecurity, Energy Security, and Emergency Response;
+(E)
+the Advanced Research Projects AgencyâEnergy;
+(F)
+the Office of Clean Energy Demonstrations; and
+(G)
+any other cross-cutting program office determined appropriate; and
+(2)
+the Secretary of Transportation shall ensure participation of and coordination with the Department of Energy ofâ
+(A)
+the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation; and
+(B)
+any other program office of the Department of Transportation determined appropriate.
+4.
+Advanced Pipeline Materials and Technologies Demonstration Initiative
+(a)
+Establishment of initiative
+The Secretary shall establish a demonstration initiative under which the Secretary, through a competitive merit review process, shall award financial assistance to eligible entities to carry out demonstration projects on low- to mid-technology readiness level subjects to achieve deployment of technologies thatâ
+(1)
+are applicable to pipelines and associated infrastructure, including liquefied natural gas facilities and underground and above ground gas and liquid fuel storage facilities; and
+(2)
+involve the development of next generation pipeline systems, components, and related technologies.
+(b)
+Demonstration project focus areas
+In carrying out the Initiative, the Secretary shall select demonstration projects that best advance research undertaken by the Department and the Department of Transportation and incorporate a range of technology focus areas, which may include the following:
+(1)
+Advanced leak detection and mitigation tools and technologies.
+(2)
+Novel materials, including alloy and nonmetallic materials, to improve integrity for new and existing pipelines, such as pipeline coatings, sleeves, and liners, and corrosion resistant materials, including maximum and minimum flow rates and immunity to electrical discharge processes.
+(3)
+Technologies and methods for retrofitting existing pipelines, resolving material compatibility issues, and minimizing leakage, such as field protective coatings and material treatment.
+(4)
+Advanced manufacturing approaches for producing, fitting, and coupling pipelines, including the fabrication of higher performance pipeline materials and new extrusion technologies or methods to join ultra-high strength and corrosion resistant materials at a scale for distribution.
+(5)
+Advanced sensor technologies and processes that enable real-time or in situ monitoring of pipeline assets to assess and mitigate leaks, both internal and external to the pipeline, which may include the following:
+(A)
+Wireless sensors, such as surface acoustic wave sensors.
+(B)
+Advanced and cost-effective electrochemical sensors.
+(C)
+Distributed fiber optic sensors.
+(D)
+Autonomous sensor systems, including uncrewed aircraft.
+(E)
+Optical methods.
+(F)
+Multi-use platforms for diverse sources.
+(G)
+Hybrid data-analysis platforms.
+(6)
+Advanced computational, data analytics, and machine learning models to achieve the following:
+(A)
+Multiscale modeling, characterization, and optimization of transmission and distribution systems and components to aid in planning for optimized and resilient infrastructure.
+(B)
+Correlation between sensor and emissions data at all operational points and across a variety of scales to assure system integrity spanning large areas.
+(C)
+Accurate material lifecycle predictions and simulation platforms to forecast pipeline health.
+(D)
+Secure real time autonomous monitoring and repair capabilities.
+(E)
+Mapping and monitoring of structural health parameters, such as corrosion.
+(7)
+Self-healing and self-repair functionalities, including by chemical treatment methods.
+(8)
+Autonomous robotic and patch technologies for inspection and repair.
+(9)
+Dynamic compressor technologies, including retrofit kits for existing compressor systems.
+(10)
+Strategies and technologies for integrated cybersecurity considerations and countering cyberattacks.
+(11)
+Technologies and methods to reduce potential environmental impacts, including at the atmospheric and subsurface level, associated with pipelines, liquefied natural gas facilities, and gas and liquid fuel storage facilities, such as equipment failure.
+(12)
+Tools to evaluate geographical pipeline data for the feasibility of repurposing existing infrastructure for safe and effective transport and use of alternative fuels, blends, and carbon dioxide.
+(13)
+Tools and technologies applicable to improving the safety, operation, and efficiency of liquefied natural gas facilities and gas and liquid fuel storage facilities.
+(c)
+Selection requirements
+In selecting eligible entities for demonstration projects under the Initiative, the Secretary shall, to the maximum extent practicable, take the following actions:
+(1)
+Encourage regional diversity among eligible entities, including participation by such entities located in rural States.
+(2)
+Prioritize technological diversity among eligible entities.
+(3)
+Prioritize a diverse mix of energy, substances, fuel sources, and byproducts, including the following:
+(A)
+Gas and liquid hydrocarbons, including natural gas, methane, ethane, and liquefied natural gas.
+(B)
+Carbon dioxide.
+(C)
+Hydrogen.
+(D)
+Biofuels.
+(E)
+Water.
+(F)
+Substances in the hydrogen supply chain, including ammonia and liquid organic hydrogen carriers.
+(G)
+Blends of gases or liquids, including hydrogen blends.
+(H)
+Any other source the Secretary determines appropriate.
+(4)
+Prioritize projects that leverage and are complementary to existing energy infrastructure.
+(5)
+Prioritize projects that leverage matching funds from non-Federal sources.
+(6)
+Ensure that selected projects are coordinated with and expand on the existing technology demonstration programs of the Department.
+(7)
+Evaluate projects and topics for technical performance and economic feasibility as part of lifecycle assessments for return on investment impact.
+(d)
+Location
+To the maximum extent practicable, demonstration projects under the Initiative shall be located on sites with existing research infrastructure or with the ability to coordinate with existing Department user facilities and research centers.
+5.
+Joint Research and Development Program
+(a)
+In general
+The Secretary, in consultation with the Secretary of Transportation and the Director of the National Institute of Standards and Technology, and in coordination with the Initiative, shall establish within the Department a joint research and development program (referred to in this Act as the
+Joint Program
+) to carry out basic research projects thatâ
+(1)
+develop cost-effective advanced materials and technologies for pipeline transportation systems at different scales;
+(2)
+enable the commercialization of innovative materials and technologies for pipeline transportation systems; and
+(3)
+are at a low technology readiness level and not pursued by the Pipeline Safety Research Program of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation.
+(b)
+Memorandum of understanding
+Not later than one year after the date of the enactment of this Act, the Secretary shall enter into a memorandum of understanding with the Secretary of Transportation and the Director of the National Institute of Standards and Technology to administer the Joint Program. Such memorandum shall require each participating agency toâ
+(1)
+identify unique research capabilities to contribute while avoiding duplication of existing efforts; and
+(2)
+include cost sharing and cost reimbursement abilities among participating agencies.
+(c)
+Infrastructure
+In carrying out the Joint Program, the Secretary, the Secretary of Transportation, and the Director of the National Institute of Standards and Technology shallâ
+(1)
+use existing research infrastructure atâ
+(A)
+Department of Energy facilities, including National Laboratories;
+(B)
+Department of Transportation initiatives, including any such initiatives carried out through the Pipeline and Hazardous Materials Safety Administration; and
+(C)
+the National Institute of Standards and Technology; and
+(2)
+develop new infrastructure for potential projects, if appropriate.
+(d)
+Goals and metrics
+The Secretary, the Secretary of Transportation, and the Director of the National Institute of Standards and Technology shall develop goals and metrics for each agency in meeting technological progress under the Joint Program, consistent with existing United States energy safety, resilience, and security policies.
+(e)
+Selection of projects
+To the maximum extent practicable, the Secretary, the Secretary of Transportation, and the Director of the National Institute of Standards and Technology shall ensure the following with respect to the Joint Program:
+(1)
+Projects are carried out under conditions that represent a variety of geographies, physical conditions, and market constraints.
+(2)
+Projects represent an appropriate balance of the following:
+(A)
+Larger, higher-cost projects.
+(B)
+Smaller, lower-cost projects.
+(3)
+To the maximum extent practicable, projects are transferred between participating agencies based on the stage of research and capabilities of each agency.
+(f)
+Priority
+In carrying out the Joint Program, the Secretary, the Director of the National Institute of Standards and Technology, and the Secretary of Transportation shall, through consultation with the Initiative to identify and advance areas of research most needed for demonstration projects under the Initiative, give priority to research and demonstration projects thatâ
+(1)
+are likely to achieve technology readiness level necessary to be expediently demonstrated by the Initiative; and
+(2)
+are done in coordination with, or advance knowledge critical to, the Center established pursuant to section 6.
+6.
+National Pipeline Modernization Center
+(a)
+In general
+In carrying out the Initiative and the Joint Program, the Secretary shall establish a National Pipeline Modernization Center (referred to in this Act as the
+Center
+), which shall focus on collaborating with industry and stakeholders to coordinate and carry out research, development, and demonstration projects focused on commercializing cost-effective products and procedures aligned with the goals and priorities set forth by the Department.
+(b)
+Selection
+The Secretary shall administer the Center in conjunction with an eligible entity pursuant to an agreement between the Department and such entity. Such entity shall be selected on a competitive, merit-reviewed basis.
+(c)
+Existing centers
+In administering the Center, the Secretary shall prioritize higher education energy-related research centers in existence as of the date of the enactment of this Act.
+(d)
+Period of performance
+(1)
+In general
+An agreement under subsection (b) shall be for a period of not more than five years, subject to the availability of appropriations.
+(2)
+Renewal
+The Secretary may renew an agreement under subsection (b) for a period of not more than five years. Any such renewal shall be conducted on a merit-reviewed basis.
+(e)
+Location
+The Center shall be located in proximity to critical transportation infrastructure connecting to an existing national pipeline transportation system and other Department monitoring assets, as determined by the Secretary.
+(f)
+Coordination with training and qualifications center
+In carrying out the functions described in subsection (a), the Center shall coordinate and collaborate with training centers of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation to facilitate knowledge sharing among, and enhanced training opportunities for, Federal and State pipeline safety inspectors and investigators.
+7.
+Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out this Act, to remain available until expended, the following:
+(1)
+For activities under the Initiative, $50,000,000 for each of fiscal years 2023 through 2027.
+(2)
+For the Joint Program, $30,000,000 for each of fiscal years 2023 through 2027.
+(3)
+For the Center, $15,000,000 for each of fiscal years 2023 through 2027.

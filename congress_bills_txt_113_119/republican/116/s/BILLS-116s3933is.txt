@@ -1,0 +1,501 @@
+1.
+Short title
+This Act may be cited as the
+Creating Helpful Incentives to Produce Semiconductors for America Act
+or the
+CHIPS for America Act
+.
+2.
+Semiconductor investment tax credit
+(a)
+Establishment of credit
+Subpart E of part IV of subchapter A of
+chapter 1
+of the Internal Revenue Code of 1986 is amended by inserting after section 48C the following:
+48D.
+Qualifying semiconductor equipment credit
+(a)
+In general
+For purposes of section 46, the qualifying semiconductor equipment credit for any taxable year is the applicable percentage ofâ
+(1)
+the basis of any qualified semiconductor equipment placed in service during such taxable year,
+(2)
+any qualified semiconductor manufacturing facility investment expenditures incurred during such taxable year, and
+(3)
+any expenses incurred by the taxpayer during such taxable year with respect to entering into a lease (including renewal or extension of a lease) for qualified semiconductor equipment.
+(b)
+Applicable percentage
+For purposes of subsection (a), the applicable percentage isâ
+(1)
+40 percent in the case of any qualified semiconductor equipment which is placed in service before January 1, 2025, or any qualified semiconductor manufacturing facility investment expenditures or expenses described in subsection (a)(3) which are incurred before such date,
+(2)
+30 percent in the case of any such equipment which is placed in service, or any such expenditures or expenses which are incurred, after December 31, 2024, and before January 1, 2026,
+(3)
+20 percent in the case of any such equipment which is placed in service, or any such expenditures or expenses which are incurred, after December 31, 2025, and before January 1, 2027, and
+(4)
+0 percent in the case of any such equipment which is placed in service, or any such expenditures or expenses which are incurred, after December 31, 2026.
+(c)
+Qualified semiconductor equipment
+For purposes of this section, the term
+qualified semiconductor equipment
+means any propertyâ
+(1)
+which has been identified by the Secretary, in consultation with the Secretary of Commerce, as machinery or equipment that is designed and used toâ
+(A)
+manufacture or process semiconductors, or
+(B)
+perform research with respect to semiconductors,
+(2)
+which is placed in service in the United States by the taxpayer, and
+(3)
+with respect to which depreciation (or amortization in lieu of depreciation) is allowable.
+(d)
+Qualified semiconductor manufacturing facility investment expenditures
+For purposes of this section, the term
+qualified semiconductor manufacturing facility investment expenditure
+means any amount properly chargeable to capital accountâ
+(1)
+for property for which depreciation is allowable under section 168, and
+(2)
+in connection with the construction or upgrading of any facility located in the United States which substantially operates qualified semiconductor equipment, includingâ
+(A)
+costs relating toâ
+(i)
+acquiring or upgrading an existing building, or
+(ii)
+construction of a new building, and
+(B)
+property such asâ
+(i)
+integrated systems, fixtures, piping, movable partitions, and lighting, and
+(ii)
+any property which has been identified by the Secretary, in consultation with the Secretary of Commerce, as necessary or adapted toâ
+(I)
+reduce contamination, or
+(II)
+control air flow, temperature, humidity, chemical purity, or other environmental conditions or manufacturing tolerances.
+(e)
+Certain progress expenditure rules made applicable
+Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
+(f)
+Treatment of credit
+The amount of the credit determined under this section with respect to any qualified semiconductor equipment placed in service before January 1, 2027, or any qualified semiconductor manufacturing facility investment expenditures incurred before such date, shall be treated as a credit allowable under subpart C (and not allowable under section 38).
+(g)
+Denial of double benefit
+(1)
+Reduction of basis
+If a credit is determined under this section with respect to any property, the basis of such property shall be reduced by the amount of the credit so determined.
+(2)
+Other credits
+No credit shall be allowed under any provision of this chapter with respect to any amount taken in account in determining the credit allowed to a taxpayer under this section.
+(h)
+Rules relating to leased property
+For purposes of subsection (a)(3), rules similar to the rules under section 48(d) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply.
+(i)
+Disallowance
+No credit shall be allowed under this section with respect to any qualified semiconductor equipment which is used predominantly outside the United States.
+(j)
+Partnerships
+In the case of a credit under subsection (a) which is determined at the partnership level, with respect to any partner which is exempt from taxation under section 501(a), such partner may elect to transfer their distributive share of such credit to any other partner in the partnership.
+(k)
+Regulations
+The Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including any such measures as are deemed appropriate to avoid abuse or fraud with respect to the credit allowed under this section.
+.
+(b)
+Tax on base erosion payments of taxpayers with substantial gross receipts
+Section 59A(b)(1)(B)(ii)
+of the Internal Revenue Code of 1986 is amendedâ
+(1)
+in subclause (II), by striking the period at the end and inserting
+, plus
+, and
+(2)
+by adding at the end the following:
+(III)
+the credit determined under section 48D for the taxable year.
+.
+(c)
+Investment credit
+Section 46
+of the Internal Revenue Code of 1986 is amended by striking
+and
+at the end of paragraph (5), by striking the period at the end of paragraph (6) and inserting
+, and
+, and by adding at the end the following new paragraph:
+(7)
+the qualifying semiconductor equipment credit.
+.
+(d)
+Clerical amendment
+The table of sections for subpart E of part IV of subchapter A of
+chapter 1
+of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 48C the following new item:
+Sec. 48D. Qualifying semiconductor equipment credit.
+.
+(e)
+Effective date
+The amendments made by this section shall apply to any qualified semiconductor equipment (as defined in subsection (c) of section 48D) placed in service after the date of enactment of this Act, or any qualified semiconductor manufacturing facility investment expenditure (as defined in subsection (d) of such section) incurred after such date.
+3.
+Building United States capacity for verÂ­iÂ­fication and manufacturing of advanced microelectronics
+(a)
+Program
+The Secretary of Commerce, acting through the Director of the National Institute of Standards and Technology, shall carry out a program of research and development investment to enable advances and breakthroughs in measurement science, standards, material characterization, instrumentation, testing, and manufacturing capabilities that will accelerate the underlying research and development for design, development, and manufacturability of next generation microelectronics and ensure the competitiveness and leadership of the United States within this sector.
+(b)
+Components
+The program required by subsection (a) shall cover the following:
+(1)
+Advanced metrology and characterization for manufacturing of microchips using 3 nanometer transistor processes or more advanced processes.
+(2)
+Metrology for security and supply chain verification.
+(3)
+Creation of a Manufacturing USA institute described in section 34(d) of the National Institute of Standards and Technology Act (
+15 U.S.C. 278s(d)
+) that is focused on semiconductor manufacturing. Such institute may emphasize the following:
+(A)
+Research to support the virtualization and automation of maintenance of semiconductor machinery.
+(B)
+Development of new advanced test, assembly and packaging capabilities.
+(C)
+Developing and deploying educational and skills training curricula needed to support the industry sector and ensure the U.S. can build and maintain a trusted and predictable talent pipeline.
+(c)
+Authorization of appropriations
+There are authorized to be appropriated to the Secretary amounts as follows:
+(1)
+To carry out subsection (b)(1), $10,000,000 for each of fiscal years 2021 through 2025.
+(2)
+To carry out subsection (b)(2), $10,000,000 for each of fiscal years 2021 through 2025.
+(3)
+To carry out subsection (b)(3), $30,000,000 for each of fiscal years 2021 through 2025.
+4.
+Federal grants to match State incentives
+(a)
+Definitions
+In this sectionâ
+(1)
+the term
+appropriate committees of Congress
+meansâ
+(A)
+the Select Committee on Intelligence, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+(B)
+the Permanent Select Committee on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Science, Space, and Technology, and the Committee on Homeland Security of the House of Representatives;
+(2)
+the term
+covered incentive
+â
+(A)
+means an incentive offered by a governmental entity to a private entity for the purposes of building within the jurisdiction of the governmental entity a fabrication (or other essential) facility relating to the manufacturing of semiconductors; and
+(B)
+includes any tax incentive (such as an incentive or reduction with respect to employment or payroll taxes or a tax abatement with respect to personal or real property), a workforce-related incentive (including a grant agreement relating to workforce training or vocational education), any concession with respect to real property, and any other incentive determined appropriate by the Secretary, in consultation with the Secretary of State;
+(3)
+the term
+governmental entity
+means a State or local government; and
+(4)
+the term
+Secretary
+means the Secretary of Commerce.
+(b)
+Grants
+(1)
+In general
+The Secretary shall establish in the Department of Commerce a program that, in accordance with the requirements of this section, provides grants to governmental entities that offer covered incentives.
+(2)
+Procedure
+(A)
+In general
+A governmental entity that offers a covered incentive and that desires to receive a grant under this subsection shall submit to the Secretary an application that describes the covered incentive offered by the governmental entity.
+(B)
+Conditions for approval
+The Secretary shall approve an application submitted by a governmental entity under subparagraph (A)â
+(i)
+upon confirmation by the Secretary that the private entity to which the governmental entity has offered the covered incentive to which the application relates has agreed to build in the applicable jurisdiction a facility described in subsection (a)(2)(A); and
+(ii)
+if the Secretary determines that building the facility described in clause (i) is in the interest of the United States.
+(3)
+Amount
+The amount of a grant provided by the Secretary to a governmental entity under this subsection shall be in an amount that is not less than the value of the applicable covered incentive offered by the governmental entity, as determined by the Secretary.
+(4)
+Clawback
+The Secretary shall recover the full amount of a grant made to a governmental entity under this subsection with respect to a covered incentive offered by the governmental entity ifâ
+(A)
+as of the date that is 5 years after the date on which the Secretary makes the grant, the facility to which the covered incentive relates has not been completed; or
+(B)
+during the term of the grant, the private entity to which the covered incentive was offered engages in any joint research or technology licensing effortâ
+(i)
+with the Government of the Peopleâs Republic of China, the Government of the Russian Federation, the Government of Iran, or the Government of North Korea; and
+(ii)
+that relates to a sensitive technology or product, as determined by the Secretary.
+(c)
+Consultation and coordination required
+In carrying out the program established under subsection (b), the Secretary shall consult and coordinate with the Secretary of State.
+(d)
+GAO reviews
+The Comptroller General of the United States shallâ
+(1)
+not later than 2 years after the date of enactment of this Act, and biennially thereafter until the date that is 10 years after that date of enactment, conduct a review of the program established under subsection (b), which shall include a determination of the number of grants made under that program during the period covered by the review that failed to comply with a requirement under this section; and
+(2)
+submit to the appropriate committees of Congress the results of each review conducted under paragraph (1).
+(e)
+Trust Fund
+(1)
+Establishment
+There is established in the Treasury of the United States a trust fund (referred to in this subsection as the
+Trust Fund
+), consisting of amounts transferred to the Trust Fund under paragraph (2) and any amounts that may be credited to the Trust Fund under paragraph (3).
+(2)
+Transfer of amounts
+(A)
+In general
+Subject to subparagraph (B), the Secretary of the Treasury shall transfer to the Trust Fund, from the general fund of the Treasury, for fiscal year 2021 and each fiscal year thereafter, an amount equivalent to the amount received into the general fund during that fiscal year and attributable to duties imposed under section 301 of the Trade Act of 1974 (
+19 U.S.C. 2411
+).
+(B)
+Limitations
+(i)
+Limitation on transfers
+The amount transferred to the Trust Fund under subparagraph (A) in a fiscal year may not exceed $10,000,000,000.
+(ii)
+Limitation on total balance
+The total amount in the Trust Fund at any one time may not exceed $10,000,000,000.
+(C)
+Frequency of transfers
+The Secretary shall transfer amounts required to be transferred to the Trust Fund under this paragraph not less frequently than quarterly from the general fund of the Treasury to the Trust Fund.
+(3)
+Investment of amounts
+(A)
+Investment of amounts
+The Secretary shall invest such portion of the Trust Fund as is not required to meet current withdrawals in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+(B)
+Interest and proceeds
+The interest on, and the proceeds from the sale or redemption of, any obligations held in the Trust Fund shall be credited to and form a part of the Trust Fund.
+(4)
+Availability of amounts in Trust Fund
+Amounts in the Trust Fund shall be available, as provided in advance in an appropriations Act, to the Secretary to make grants under this section.
+5.
+Department of Defense support for semiconductor technologies and related technologies
+(a)
+RDT&E and workforce training efforts
+(1)
+In general
+The Secretary of Defense shall, in consultation with the Secretary of Commerce and the Secretary of Labor, establish and implement a priority in the use of amounts available to the Department of Defense for research, development, test, and evaluation, and for workforce training, for programs, projects, and activities in connection with semiconductor technologies and related technologies.
+(2)
+Discharge
+The Secretary of Defense shall carry out paragraph (1) through the Office of the Under Secretary of Defense for Research and Engineering or such other component of the Department of Defense as the Secretary considers appropriate.
+(3)
+Funding
+Of the amount authorized to be appropriated for each fiscal year for the Department of Defense for research, development, test, and evaluation, not less the $50,000,000 shall be available in such fiscal year for programs, projects, and activities described in paragraph (1) in furtherance of the priority required by that paragraph.
+(b)
+DPA efforts
+(1)
+In general
+Not later than 120 days after the date of the enactment of this Act, the President shall submit to Congress a report on, and shall commence implementation of, a plan for use by the Department of Defense of authorities available in title III of the Defense Production Act of 1950 (
+50 U.S.C. 4531
+et seq.) to establish and enhance a domestic production capability for semiconductor technologies and related technologies, if funding is available for that purpose.
+(2)
+Consultation
+The President shall develop the plan required by paragraph (1) in consultation with the Secretary of Defense, the Secretary of State, the Secretary of Commerce, and appropriate stakeholders in the private sector.
+6.
+Department of Commerce study on status of semiconductor technologies in the United States industrial base
+(a)
+In general
+Commencing not later than 90 days after the date of the enactment of this Act, the Secretary of Commerce shall undertake a survey, using authorities in section 705 of the Defense Production Act (
+50 U.S.C. 4555
+), to assess the capabilities of the United States industrial base to support the national defense in light of the global nature of the supply chain and significant interdependencies between the United States industrial base and the industrial base of foreign countries with respect to the manufacture and design of semiconductors.
+(b)
+Response to survey
+The Secretary shall ensure compliance with the survey from among all relevant potential respondents, including the following:
+(1)
+Corporations, partnerships, associations, or any other organized groups domiciled and with substantial operations in the United States.
+(2)
+Corporations, partnerships, associations, or any other organized groups domiciled in the United States with operations outside the United States.
+(3)
+Foreign domiciled corporations, partnerships, associations, or any other organized groups with substantial operations or business presence in, or substantial revenues derived from, the United States.
+(4)
+Foreign domiciled corporations, partnerships, associations, or any other organized groups in defense treaty or assistance countries where the production of the entity concerned involves critical technologies covered by section 3.
+(c)
+Information requested
+The information sought from a responding entity pursuant to the survey required by subsection (a) shall include, at minimum, information on the following with respect to the manufacture or design of semiconductors by such entity:
+(1)
+An identification of the geographic scope of operations.
+(2)
+Information on relevant cost structures.
+(3)
+An identification of types of semiconductor equipment in operation at such entity.
+(4)
+An identification of all relevant raw materials and semi-finished goods and components sourced domestically and abroad by such entity.
+(5)
+Specifications of the semiconductors manufactured or designed by such entity, descriptions of the end-uses of such semiconductors, and a description of any technical support provided to end-users of such semiconductors by such entity.
+(6)
+Information on domestic and export market sales by such entity.
+(7)
+Information on the financial performance, including income and expenditures, of such entity.
+(8)
+A list of all foreign and domestic subsidies, and any other financial incentives, received by such entity in each market in which such entity operates.
+(9)
+A list of information requests from the Peopleâs Republic of China to such entity, and a description of the nature of each request and the type of information provided.
+(10)
+Information on any joint ventures, technology licensing agreements, and cooperative research or production arrangements of such entity.
+(11)
+A description of efforts by such entity to evaluate and control supply chain risks it faces.
+(12)
+A list and description of any sales, licensing agreements, or partnerships between such entity and the Peopleâs Liberation Army or Peopleâs Armed Police, including any business relationships with entities through which such sales, licensing agreements, or partnerships may occur.
+7.
+Funding for development and adoption of secure microelectronics and secure microelectronics supply chains
+(a)
+Multilateral Microelectronics Security Fund
+(1)
+Establishment of fund
+There is established in the Treasury of the United States a trust fund, to be known as the
+Multilateral Microelectronics Security Fund
+(in this section referred to as the
+Fund
+), consisting of amounts deposited into the Trust Fund under paragraph (2) and any amounts that may be credited to the Trust Fund under paragraph (3).
+(2)
+Authorization of appropriations
+There are authorized to be appropriated $750,000,000 to be deposited in the Fund.
+(3)
+Investment of amounts
+(A)
+Investment of amounts
+The Secretary of the Treasury shall invest such portion of the Fund as is not required to meet current withdrawals in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+(B)
+Interest and proceeds
+The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
+(4)
+Use of fund
+(A)
+In general
+Subject to subparagraph (B), amounts in the Fund shall be available, as provided in advance in an appropriations Act, to the Secretary of Stateâ
+(i)
+to provide funding through the common funding mechanism described in subsection (b)(1) to support the development and adoption of secure microelectronics and secure microelectronics supply chains; and
+(ii)
+to otherwise carry out this section.
+(B)
+Availability contingent on international agreement
+Amounts in the Fund shall be available to the Secretary of State on and after the date on which the Secretary enters into an agreement with the governments of countries that are partners of the United States to participate in the common funding mechanism under paragraph (1) of subsection (b) and the commitments described in paragraph (2) of that subsection.
+(5)
+Availability of amounts
+(A)
+In general
+Amounts in the Fund shall remain available through the end of the tenth fiscal year beginning after the date of the enactment of this Act.
+(B)
+Remainder to treasury
+Any amounts remaining in the Fund after the end of the fiscal year described in subparagraph (A) shall be deposited in the general fund of the Treasury.
+(b)
+Common funding mechanism for development and adoption of secure microelectronics and secure microelectronics supply chains
+(1)
+In general
+The Secretary of State, in consultation with the Secretary of Commerce, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of the Treasury, and the Director of National Intelligence, shall seek to establish a common funding mechanism, in coordination with the governments of countries that are partners of the United States, that uses amounts from the Fund, and amounts committed by such governments, to support the development and adoption of secure microelectronics and secure microelectronics supply chains.
+(2)
+Mutual commitments
+The Secretary of State, in consultation with the United States Trade Representative and the Secretary of Commerce, shall seek to negotiate a set of mutual commitments with the governments of countries that are partners of the United States upon which to condition any expenditure of funds pursuant to the common funding mechanism described in paragraph (1). Such commitments shall, at a minimumâ
+(A)
+establish transparency requirements for any subsidies or other financial benefits (including revenue foregone) provided to microelectronics firms located in or outside such countries;
+(B)
+establish consistent policies with respect to countries thatâ
+(i)
+are not participating in the common funding mechanism; and
+(ii)
+do not meet transparency requirements established under subparagraph (A);
+(C)
+promote harmonized treatment of microelectronics and verification processes for items being exported to a country considered a national security risk by a country participating in the common funding mechanism;
+(D)
+establish consistent policies and common external policies to address nonmarket economies as the behavior of such countries pertains to microelectronics; and
+(E)
+align policies on supply chain integrity and microelectronics security.
+(c)
+Annual report to congress
+Not later than one year after the date of the enactment of this Act, and annually thereafter for each fiscal year during which amounts in the Fund are available under subsection (a)(3), the Secretary of State shall submit to Congress a report on the status of the implementation of this section that includes a description ofâ
+(1)
+any commitments made by the governments of countries that are partners of the United States to providing funding for the common funding mechanism described in subsection (b)(1) and the specific amount so committed;
+(2)
+the criteria established for expenditure of funds through the common funding mechanism;
+(3)
+how, and to whom, amounts have been expended from the Fund;
+(4)
+amounts remaining in the Fund;
+(5)
+the progress of the Secretary of State toward entering into an agreement with the governments of countries that are partners of the United States to participate in the common funding mechanism and the commitments described in subsection (b)(2); and
+(6)
+any additional authorities needed to enhance the effectiveness of the Fund in achieving the security goals of the United States.
+8.
+Advanced semiconductor research and design
+(a)
+Appropriate committees of Congress
+In this section, the term
+appropriate committees of Congress
+meansâ
+(1)
+the Select Committee on Intelligence, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+(2)
+the Permanent Select Committee on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Science, Space, and Technology, and the Committee on Homeland Security of the House of Representatives.
+(b)
+Sense of Congress
+It is the sense of Congress that the leadership of the United States in semiconductor technology and innovation is critical to the economic growth and national security of the United States.
+(c)
+Subcommittee on semiconductor leadership
+(1)
+Establishment required
+The President shall establish in the National Science and Technology Council a subcommittee on matters relating to leadership of the United States in semiÂ­conÂ­ductÂ­or technology and innovation.
+(2)
+Duties
+The duties of the subcommittee established under paragraph (1) are as follows:
+(A)
+National strategy on semiconductor research
+(i)
+Development
+In coordination with the Secretary of Defense, the Secretary of Energy, the Secretary of State, the Secretary of Commerce, the National Science Foundation, and the Director of the National Institute of Standards and Technology and in consultation with the semiconductor industry and academia, develop a national strategy on semiconductor research, including guidance for the funding of research.
+(ii)
+Reporting and updates
+Not less frequently than once every 5 years, to update the strategy developed under clause (i) and to submit the revised strategy to the appropriate committees of Congress.
+(B)
+Fostering coordination of research and development
+To foster the coordination of semiconductor research and development.
+(d)
+Advanced Packaging National Manufacturing Institute
+(1)
+Authorization
+The Secretary of Commerce may, in coordination with the private sector, establish in the Department of Commerce an institute on advanced packaging and manufacturing.
+(2)
+Functions
+The functions of the institute established under paragraph (1) shall be as follows:
+(A)
+To establish United States leadership in advanced microelectronic packaging.
+(B)
+To promote standards development for such packaging.
+(C)
+To foster public-private partnerships relevant to such packaging.
+(D)
+To develop research and development programs to advance technology development relevant to such packaging.
+(E)
+To establish an investment fundâ
+(i)
+to support a startup domestic advanced microelectronic packaging ecosystem;
+(ii)
+to accelerate technology transfer; and
+(iii)
+to ensure domestic supply chains; and
+(F)
+to work with the Secretary of Labor and the private sector to develop workforce training programs and apprenticeships in advanced microelectronic packaging capabilities.
+(e)
+Authorizations of appropriations
+(1)
+National Semiconductor Technology Center
+There is authorized to be appropriated to establish a national semiconductor technology center to conduct research and prototyping of advance semiconductors with participation of the private sector, the Secretary of Defense, the Secretary of Energy, the National Science Foundation, and the Director of the National Institute of Standards and Technology, $3,000,000,000 for fiscal year 2021, with such amount to remain available for such purpose through fiscal year 2030.
+(2)
+Electronics Resurgence Initiative
+There is authorized to be appropriated to carry out the Electronics Resurgence Initiative of the Defense Advanced Research Projects Agency, $2,000,000,000 for fiscal year 2021, with such amount to remain available for such purpose through fiscal year 2025.
+(3)
+Semiconductor basic research at National Science Foundation
+There is authorized to be appropriated to carry out programs at the National Science Foundation on semiconductor basic research, $3,000,000,000 for fiscal year 2021, with such amount to remain available for such purpose through fiscal year 2025.
+(4)
+Semiconductor basic research at Department of Energy
+There is authorized to be appropriated to carry out programs at the Department of Energy on semiconductor basic research, $2,000,000,000 for fiscal year 2021, with such amount to remain available for such purpose through fiscal year 2025.
+(5)
+Advanced Packaging National Manufacturing Institute
+There is authorized to be appropriated to carry out subsection (d), $5,000,000,000 for fiscal year 2021, with such amount to remain available for such purpose through fiscal year 2025â
+(A)
+of which, $500,000,000 shall be available to carry out paragraph (2)(D) of such subsection; and
+(B)
+of which, $500,000,000 shall be available to carry out paragraph (2)(E) of such subsection.

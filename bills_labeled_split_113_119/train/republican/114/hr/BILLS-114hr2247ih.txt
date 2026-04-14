@@ -1,0 +1,66 @@
+1.
+Short title
+This Act may be cited as the
+Increasing Clarity for Doctors by Transitioning Effectively Now Act
+or the
+ICD-TEN Act
+.
+2.
+Implementation of HIPAA code set standards
+The Secretary of Health and Human Services shall implement, administer, and enforce, in accordance with this Act and consistent with section 212 of the Protecting Access to Medicare Act of 2014, the regulations issued on January 16, 2009 (74 Fed. Reg. 3328) and on September 5, 2012 (77 Fed. Reg. 54664) that provide for the replacement of ICDâ9 with ICDâ10 as a standard for code sets under section 1173(c) of the Social Security Act (
+42 U.S.C. 1320dâ2(c)
+) and section 162.1002 of title 45, Code of Federal Regulations.
+3.
+Comprehensive testing
+(a)
+In general
+The Secretary of Health and Human Services shall conduct a comprehensive, end-to-end testing process to assess whether the Medicare fee-for-service claims processing system based on the ICDâ10 standard is fully functioning.
+(b)
+Availability
+The Secretary shall make the end-to-end testing process available to all providers of services and suppliers (as defined under subsections (u) and (d), respectively, of section 1861 of the Social Security Act (
+42 U.S.C. 1395x
+) participating in the Medicare fee-for-service program under parts A and B of title XVIII of such Act (
+42 U.S.C. 1395c et seq.
+).
+(c)
+Certification
+(1)
+In general
+Not later than 30 days after the date of completion of the end-to-end testing process, the Secretary shall submit to Congress a certification on whether or not the Medicare fee-for-service claims processing system based on the ICDâ10 standard is fully functioning.
+(2)
+Additional steps in case standard is not fully functioning
+In the case that the Secretary certifies under paragraph (1) that such processing system based on the ICDâ10 standard is not fully functioning, the Secretary shall include in the submission to Congress under paragraph (1) additional steps that will be taken to achieve a certification that such processing system based on such standard is fully functioning and the anticipated timeframe for achieving such certification.
+(d)
+Definitions
+In this Act:
+(1)
+End-to-end testing process
+The term
+end-to-end testing process
+means an process designed to demonstrate thatâ
+(A)
+submission of claims to the Secretary with ICDâ10 codes and the receipt of a remittance advice can be accomplished on a routine basis at high volume levels;
+(B)
+any software changes made to support the ICDâ10 standard result in appropriately adjudicated claims;
+(C)
+accurate remittance advices are produced; and
+(D)
+all phases of the implementation of the ICDâ10 transition are operable.
+(2)
+Fully functioning
+The term
+fully functioning
+means, with respect to the period of the end-to-end testing process of the Medicare fee-for-service claims processing system based on the ICDâ10 standard, that the percentage of claims accepted under such system so based during such period is equal to or greater than the percentage of claims accepted during the calendar year previous to such period, based on the ICDâ9 standard.
+4.
+Implementation period
+(a)
+In general
+The implementation period during which the transition to ICDâ10 standards shall be made shall begin on October 1, 2015, and end on the date that is 18 months after the date on which a certification is made under section 2(c) that the Medicare-fee-for service claims processing system based on the ICDâ10 standard is fully functioning.
+(b)
+Safe harbor
+During the implementation period described in subsection (a), no claim submitted for payment under title XVIII of the Social Security Act by a health care provider pursuant to the ICDâ10 standard medical data code sets shall be denied due solely to the use of an unspecified or inaccurate subcode.
+(c)
+Assistance
+During the implementation period described in subsection (a), the Secretary shall take affirmative steps to assist health care providers subject to section 1173(c) of the Social Security Act (
+42 U.S.C. 1320dâ2(c)
+) and section 162.1002 of title 45, Code of Federal Regulations, in identifying appropriate ICDâ10 subcodes.

@@ -1,0 +1,105 @@
+1.
+Short title
+This Act may be cited as the
+Stop Identity Fraud and Identity Theft Act of 2026
+.
+2.
+Findings
+Congress finds the following:
+(1)
+The lack of an easy, affordable, and reliable way for organizations, businesses, and government agencies to identify whether an individual is who they claim to be online creates an attack vector that leads to millions of Americans being victimized by China and North Korea, and other hostile nation-states, as well as organized crime gangs, all of whom steal and compromise identities to commit cybercrime and fraud.
+(2)
+Incidents of identity theft and identity fraud continue to rise in the United States, where more than 353 million people were impacted by data breaches in 2023.
+(3)
+The Government Accountability Office (GAO) estimated that the Federal Government could lose between $233 billion and $521 billion annually to fraud; GAO estimated that the amount of fraud in unemployment insurance programs during the COVID-19 pandemic was likely between $100 billion and $135 billion and found that the majority of this fraud occurred because compromises of identity.
+(4)
+The Financial Crimes Enforcement Network of the Department of the Treasury reported that $212 billion worth of suspicious financial transactions in 2021 was tied to some form of identity compromise; in 2024, they revealed that this number had exploded in 2023, covering over 70 percent of all Suspicious Activity Reports (SARs) filed by banks, tied to $394 billion of transactions.
+(5)
+In 2024, the Department of the Treasury report on
+Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector
+flagged the threat of new
+deepfake
+attacks powered by artificial intelligence and noted
+The volume of these types of exploitations or cyber-enabled attacks is likely to rise as technological developments like Generative AI reduce the cost, complexity, and time required to leverage gaps in our digital infrastructure.
+.
+(6)
+The inadequacy of current digital identity solutions degrades security and privacy for all Americans, and as
+deepfake
+attacks become more prevalent, next generation solutions are needed that can protect consumers, businesses, and government agencies from identity-related cybercrime.
+(7)
+Government entities, as authoritative issuers of identity in the United States, are uniquely positioned to deliver critical components that address deficiencies in our identity infrastructure and augment private sector identity and authentication solutions.
+(8)
+State governments are particularly well suited to play a role in enhancing digital identity solutions used by both the public and private sectors, given the role of State governments as the issuers of driverâs licenses and other identity documents commonly used today.
+(9)
+The National Institute of Standards and Technology (NIST) was directed in the CHIPS and Science Act of 2022 to launch new work to develop a framework of common definitions and voluntary guidance for digital identity management systems, including identity and attribute validation services provided by Federal, State, and local governments, and work is underway at NIST to create this guidance. However, State and local agencies lack resources to implement this new guidance, and if this does not change, it will take decades to harden deficiencies in identity infrastructure.
+(10)
+It should be the policy of the Government to use the authorities and capabilities of the Government to enhance the security, reliability, privacy, and convenience of digital identity solutions that support and protect transactions between individuals, government entities, and businesses, and that enable Americans to prove who they are online.
+3.
+Identity fraud prevention innovation grants
+(a)
+In general
+The Secretary of the Treasury shall, not later than 1 year after the date of the enactment of this section, establish a grant program to provide identity fraud prevention innovation grants to States.
+(b)
+Use of amounts
+(1)
+In general
+States shall use amounts provided under this section toâ
+(A)
+develop digital versions of driverâs licenses and other identity credentials that comply with the guidelines for identity and attribute validation services developed by the National Institute of Standards and Technology under section 504 of the Cybersecurity Enhancement Act of 2014;
+(B)
+protect the privacy and security of individuals, including guarding against
+deepfake
+attacks powered by artificial intelligence;
+(C)
+catalyze the development, deployment, and use of more resilient, interoperable solutions Americans can use to protect and assert their identity online;
+(D)
+reduce identity theft and fraud by replacing legacy identity systems that are highly vulnerable to attack from organized criminals and hostile nation-states with more robust solutions that can defeat these attacks;
+(E)
+ensure the integrity of Government benefit programs paid through the Department of the Treasury;
+(F)
+protect the United States financial system from abuse by illicit actors; and
+(G)
+enable more trusted transactions online.
+(2)
+Requirement
+Not less than 10 percent of any amounts provided to a State under this section shall be used by such State to provide services designed to assist individuals with obtaining any identity credentials or identity verification services that are required to obtain a digital driverâs license or other digital identity credential offered by such State physical.
+(c)
+Limitations
+A State may not use any amounts provided under this section toâ
+(1)
+require a person to obtain or use a digital driverâs license or digital identity credential;
+(2)
+support any by such State to eliminate the issuance of physical driverâs licenses and physical identity credentials; or
+(3)
+support the issuance of drivers licenses or identity credentials to unauthorized immigrants.
+(d)
+Rule of construction
+Nothing in this section may be construed to require any State to develop or issue digital versions of driverâs licenses or other identity credentials.
+(e)
+Definitions
+In this section:
+(1)
+Secretary
+The term
+Secretary
+means the Secretary of the Treasury.
+(2)
+Identity credential
+The term
+identity credential
+means a document or other evidence of the identity of an individual issued by a State that conveys the identity of the individual, including a driverâs license, State-issued identification card, or birth certificate.
+(3)
+Unauthorized immigrant
+The term
+unauthorized immigrant
+means a person who is notâ
+(A)
+is not citizen or national of the United States;
+(B)
+is not an alien lawfully admitted for permanent or temporary residence in the United States;
+(C)
+does not have conditional permanent resident status in the United States;
+(D)
+does not have an approved application for asylum in the United States; and
+(E)
+did not enter into the United States in refugee status.

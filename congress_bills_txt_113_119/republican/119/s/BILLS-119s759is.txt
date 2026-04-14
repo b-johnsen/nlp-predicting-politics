@@ -1,0 +1,152 @@
+1.
+Short title
+This Act may be cited as the
+Modernizing Access to Our Public Oceans Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Federal fishing restriction area
+The term
+Federal fishing restriction area
+means a defined area in which all or certain fishing activities are temporarily or permanently banned or restricted by the National Oceanic and Atmospheric Administration.
+(2)
+Federal waterway
+The term
+Federal waterway
+means any portion of a body of water managed in part or in entirety by the Secretary.
+(3)
+Federal waterway restriction
+The term
+Federal waterway restriction
+means a restriction on access to or use of a Federal waterway applied under applicable law by the Secretary.
+(4)
+Secretary
+The term
+Secretary
+means the Secretary of Commerce.
+3.
+Data standardization
+Not later than 31 months after the date of the enactment of this Act, the Secretary, in consultation with relevant stakeholders, shall develop and adopt standards with respect to the collection and dissemination of geospatial data relating to public outdoor recreational use of Federal waterways and Federal fishing restriction areas, including such data made available under section 4.
+4.
+Data publication and accessibility
+(a)
+Federal waterway fishing access data
+Not later than 4 years after the date of the enactment of this Act, the Secretary, to the maximum extent practicable, shall make available on a publicly accessible website geographic information system data thatâ
+(1)
+includes, with respect to Federal waterway restrictionsâ
+(A)
+information with respect to the conditions under which Federal waterways are open or closed to entry, watercraft, low-elevation aircraft, or diving;
+(B)
+the areas of Federal waterways with restrictions on motorized propulsion, horsepower, or gasoline fuel;
+(C)
+the areas of Federal waterways with anchoring restrictions, no-wake zones, or vessel speed restrictions; and
+(D)
+the types of watercraft that are restricted on each area of a Federal waterway, including the permissibility ofâ
+(i)
+motorboats;
+(ii)
+non-motorized watercraft;
+(iii)
+personal watercraft;
+(iv)
+airboats;
+(v)
+amphibious aircraft; and
+(vi)
+oceangoing ships; and
+(2)
+describesâ
+(A)
+the location and geographic boundaries of Federal fishing restriction areas, includingâ
+(i)
+any zones where, and periods when, fishing is limited under paragraphs (2), (3), and (4) of section 303(b) of the Magnuson-Stevens Fishery Conservation and Management Act (
+16 U.S.C. 1853(b)
+);
+(ii)
+full and partial closures, in terms of both area and duration, as well as seasonal closures;
+(iii)
+no-catch zones; and
+(iv)
+Federal fishing restrictions within or surrounding marine protected areas, including National Marine Sanctuaries; and
+(B)
+to the maximum extent practicable, restrictions imposed by the National Oceanic and Atmospheric Administration on method of catch, such as requirements relating to the use of circle hooks, descending devices, and trolling.
+(b)
+Federal waterway access and navigation information
+(1)
+In general
+The Secretary shall, to the maximum extent practicable, continue to make available digitized geographic information system data that includes, with respect to access to Federal waterwaysâ
+(A)
+navigation information;
+(B)
+bathymetric information; and
+(C)
+depth charts.
+(2)
+Website
+The Secretary shall make the data described in paragraph (1) available on the website on which the Secretary makes the data described in subsection (a) available.
+(c)
+Data accessibility
+The Secretary shall ensure that the website on which the Secretary makes the data described in subsections (a) and (b) availableâ
+(1)
+organizes that data so that the data is findable, accessible, interoperable, and reusable; and
+(2)
+includes a mechanism by which users can be easily updated when new data becomes available.
+(d)
+Public comment
+The Secretary shall develop a process to allow members of the public to submit questions or comments regarding the data described in subsections (a) and (b) and the accessibility of that data under subsection (c).
+(e)
+Updates
+The Secretary, to the maximum extent practicable, shall updateâ
+(1)
+the data described in subsections (a)(1) and (b) not less frequently than 2 times each year; and
+(2)
+the data described in subsection (a)(2) in real time as changes to Federal fishing restriction areas take effect.
+(f)
+Nondisclosure of certain information
+The Secretary may not disclose, in any geographic information system data made publicly available under this section, information regarding the nature, location, character, or ownership of historic, paleontological, cultural, or archaeological resources, consistent with applicable law.
+5.
+Cooperation and coordination
+(a)
+Community partners and third-Party providers
+For purposes of carrying out this Act, the Secretary mayâ
+(1)
+coordinate and partner with non-Federal entities, includingâ
+(A)
+State agencies;
+(B)
+interstate marine fisheries commissions;
+(C)
+Regional Ocean Partnerships;
+(D)
+experts in data science, analytics, and operations research;
+(E)
+the private sector, including technology or geospatial data industries; and
+(F)
+nonprofit organizations; and
+(2)
+enter into agreements with experts described in subparagraph (D) of paragraph (1), or experts within entities described in subparagraph (A), (B), (C), (E), or (F) of that paragraph, to carry out any of the provisions of this Act.
+(b)
+Interagency coordination
+The Secretary shall, to the maximum extent practicable, work with the relevant offices of the Department of the Interior, the Department of Agriculture, the Coast Guard, the Army Corps of Engineers, and the Interagency Working Group on Ocean and Coastal Mapping codified by section 12203 of the Ocean and Coastal Mapping Integration Act (
+33 U.S.C. 3502
+) to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of geospatial data relating to public outdoor recreational use of Federal waterways and Federal fishing restriction areas.
+(c)
+Applicability of Federal, State, and Tribal regulations
+The Secretary, in developing and distributing geospatial data under this Act, shall make clear that the data are subject toâ
+(1)
+applicable Federal regulations; and
+(2)
+applicable State and Tribal regulations.
+6.
+Rule of construction
+Nothing in this Act may be construedâ
+(1)
+to modify or alter the definition of the term
+navigable waters
+under any provision of Federal law;
+(2)
+to affect the jurisdiction or authority of Federal or State agencies to regulate navigable waters; or
+(3)
+to increase or diminish the responsibility or authority of Federal or State agencies to manage fisheries.

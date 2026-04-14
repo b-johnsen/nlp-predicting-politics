@@ -1,0 +1,136 @@
+1.
+Short title
+This Act may be cited as the
+VA Supply Chain Management System Authorization Act
+.
+2.
+Management of supply chains for medical facilities of Department of Veterans Affairs
+(a)
+Authority
+(1)
+In general
+Except as provided by paragraph (2), the Secretary of Veterans Affairs may only carry out a covered information technology system ifâ
+(A)
+the system meets the requirements under subsection (b); and
+(B)
+the system does not require the use of a specific contract to procure supplies.
+(2)
+Exception
+Paragraph (1) shall not apply with respect to information technology systems used by the Secretary at joint facilities of the Department of Veterans Affairs and the Department of Defense.
+(b)
+Requirements
+The Secretary shall ensure that a covered information technology system meets the following requirements:
+(1)
+The system shall be cloud-based.
+(2)
+With respect to the items covered by the systemâ
+(A)
+the system shall includeâ
+(i)
+medical supplies;
+(ii)
+surgical equipment and supplies;
+(iii)
+laboratory equipment and supplies;
+(iv)
+supplies and capital equipment pertaining to facilities or real property;
+(v)
+biomedical equipment;
+(vi)
+textiles and apparel;
+(vii)
+dental equipment and supplies; and
+(viii)
+equipment and supplies relating to the treatment of sleep apnea;
+(B)
+the system may include (but, if not so included in the system itself, the system shall include through an interface with an external information technology system)â
+(i)
+prosthetic appliances requiring extensive customization or fitting;
+(ii)
+prosthetic appliances not requiring extensive customization or fitting;
+(iii)
+pharmaceuticals;
+(iv)
+reusable medical equipment; and
+(v)
+eyeglasses; and
+(C)
+the system may not includeâ
+(i)
+high-tech medical equipment;
+(ii)
+surgical implants;
+(iii)
+information technology;
+(iv)
+equipment and supplies of the National Cemetery Administration that are not used by the Veterans Health Administration; and
+(v)
+equipment and supplies of the Veterans Benefits Administration that are not used by the Veterans Health Administration.
+(3)
+The system shall include functions relating toâ
+(A)
+inventory management of both expendable and nonexpendable items covered by the system, with respect to bothâ
+(i)
+physical inventory; and
+(ii)
+perpetual inventory;
+(B)
+management of the receipt of such items, with respect toâ
+(i)
+intake;
+(ii)
+returns; and
+(iii)
+the identification of such items that are recalled;
+(C)
+management of the storage of such items, with respect toâ
+(i)
+local storage; and
+(ii)
+centralized storage at a medical facility or warehousing at a different location for one or more medical facilities;
+(D)
+management of the distribution such items;
+(E)
+the generation and scanning of barcodes or the use of radio frequency identification technology or other similar inventory tracking technology; and
+(F)
+reporting, consisting ofâ
+(i)
+standard or preexisting reports; and
+(ii)
+customizable or custom-generated reports.
+(4)
+The system shall include (either in the system itself or through an interface with an external information technology system) functions relating toâ
+(A)
+capital asset management;
+(B)
+ordering of items covered by the system;
+(C)
+maintenance of a catalog of available supplies; and
+(D)
+lifecycle tracking from acquisition of such items through the disposal of such items.
+(5)
+The system shall have existing interfaces with or the capability to interface withâ
+(A)
+the Integrated Financial and Acquisition Management System of the Department of Veterans Affairs; and
+(B)
+the electronic health record systems of the Department, includingâ
+(i)
+the Veterans Health Information Systems and Technology Architecture and Computerized Patient Record System; and
+(ii)
+the electronic health record system established under the Electronic Health Record Modernization Program (as defined in section 503 of Veterans Benefits and Transition Act of 2018 (
+Public Law 115â407
+;
+38 U.S.C. 5701
+note prec.)).
+(6)
+The system shall have the capacity to accommodate not fewer than 50,000 users.
+(7)
+The system shall include any other functions, capabilities, or components as determined by the Secretary.
+(c)
+Completion of implementation
+The Secretary shall complete the implementation of a covered information technology system by not later than three years after the date of the enactment of this Act.
+(d)
+Covered information technology system defined
+In this section, the term
+covered information technology system
+means an information technology system, or a system of systems, for the management of supply chains, including with respect to inventory and other functions.

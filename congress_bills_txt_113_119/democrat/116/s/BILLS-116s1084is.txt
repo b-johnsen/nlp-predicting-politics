@@ -1,0 +1,174 @@
+1.
+Short title
+This Act may be cited as the
+Deceptive Experiences To Online Users Reduction Act
+or the
+DETOUR Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Behavioral or psychological experiments or research
+The term
+behavioral or psychological experiments or research
+means the study, including through human experimentation, of overt or observable actions and mental phenomena inferred from behavior, including interactions between and among individuals and the activities of social groups.
+(2)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(3)
+Compulsive usage
+The term
+compulsive usage
+means any response stimulated by external factors that causes an individual to engage in repetitive, purposeful, and intentional behavior causing psychological distress, loss of control, anxiety, depression, or harmful stress responses.
+(4)
+Independent review board
+The term
+independent review board
+means a board, committee, or other group formally designated by a large online operator to review, to approve the initiation of, and to conduct periodic review of, any research by, or at the direction or discretion of a large online operator, involving human subjects.
+(5)
+Informed consent
+The term
+informed consent
+â
+(A)
+means a process by which a research subject is provided adequate information prior to being included in any experiment or study to allow for an informed decision about voluntary participation in a behavioral or psychological research experiment or study, while ensuring the understanding of the potential participant of the furnished information and any associated benefits, risks, or consequences of participation prior to obtaining the voluntary agreement to participate by the participant; and
+(B)
+does not includeâ
+(i)
+the consent of an individual under the age of 13; or
+(ii)
+the consent to a provision contained in a general contract or service agreement.
+(6)
+Large online operator
+The term
+large online operator
+means any person thatâ
+(A)
+provides an online service;
+(B)
+has more than 100,000,000 authenticated users of an online service in any 30-day period; and
+(C)
+is subject to the jurisdiction of the Commission under the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+(7)
+Online service
+The term
+online service
+means a website or a service, other than an internet access service, that is made available to the public over the internet, including a social network, a search engine, or email service.
+(8)
+User data
+The term
+user data
+means any information relating to an identified or identifiable individual user, whether directly submitted to the large online operator by the user, or derived from the observed activity of the user by the large online operator.
+3.
+Unfair and deceptive acts and practices relating to the manipulation of user interfaces
+(a)
+Conduct prohibited
+(1)
+In general
+It shall be unlawful for any large online operatorâ
+(A)
+to design, modify, or manipulate a user interface with the purpose or substantial effect of obscuring, subverting, or impairing user autonomy, decision-making, or choice to obtain consent or user data;
+(B)
+to subdivide or segment consumers of online services into groups for the purposes of behavioral or psychological experiments or studies, except with the informed consent of each user involved; or
+(C)
+to design, modify, or manipulate a user interface on a website or online service, or portion thereof, that is directed to an individual under the age of 13, with the purpose or substantial effect of cultivating compulsive usage, including video auto-play functions initiated without the consent of a user.
+(b)
+Duties of large online operators
+Any large online operator that engages in any form of behavioral or psychological research based on the activity or data of its users shallâ
+(1)
+disclose to its users on a routine basis, but not less than once each 90 days, any experiments or studies that user was subjected to or enrolled in with the purpose of promoting engagement or product conversion;
+(2)
+disclose to the public on a routine basis, but not less than once each 90 days, any experiments or studies with the purposes of promoting engagement or product conversion being currently undertaken, or concluded since the prior disclosure;
+(3)
+shall present the disclosures in paragraphs (1) and (2) in a manner thatâ
+(A)
+is clear, conspicuous, context-appropriate, and easily accessible; and
+(B)
+is not deceptively obscured;
+(4)
+establish an Independent Review Board for any behavioral or psychological research, of any purpose, conducted on users or on the basis of user activity or data, which shall review and have authority to approve, require modification in, or disapprove all behavioral or psychological experiments or research; and
+(5)
+ensure that any Independent Review Board established under paragraph (4) shall register with the Commission, including providing to the Commissionâ
+(A)
+the names and resumes of every board member;
+(B)
+the composition and reporting structure of the Board to the management of the operator;
+(C)
+the process by which the Board is to be notified of proposed studies or modifications along with the processes by which the board is capable of vetoing or amending such proposals;
+(D)
+any compensation provided to board members; and
+(E)
+any conflict of interest that might exist concerning a board member's participation in the Board.
+(c)
+Registered professional standards body
+(1)
+In general
+An association of large online operators may register as a professional standards body by filing with the Commission an application for registration in such form as the Commission, by rule, may prescribe containing the rules of the association and such other information and documents as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for protecting the welfare of users of large online operators.
+(2)
+Professional standards body
+An association of large online operators may not register as a professional standards body unless the Commission determines thatâ
+(A)
+the association is so organized and has the capacity to enforce compliance by its members and persons associated with its members, with the provisions of this Act;
+(B)
+the rules of the association provide that any large online operator may become a member of such association;
+(C)
+the rules of the association assure a fair representation of its members in the selection of its directors and administration of its affairs and provide that one or more directors shall be representative of users and not be associated with, or receive any direct or indirect funding from, a member of the association or any large online operator;
+(D)
+the rules of the association are designed to prevent exploitative and manipulative acts or practices, to promote transparent and fair principles of technology development and design, to promote research in keeping with best practices of study design and informed consent, and to continually evaluate industry practices and issue binding guidance consistent with the objectives of this Act;
+(E)
+the rules of the association provide that its members and persons associated with its members shall be appropriately disciplined for violation of any provision of this Act, the rules or regulations thereunder, or the rules of the association, by expulsion, suspension, limitation of activities, functions, fine, censure, being suspended or barred from being associated with a member, or any other appropriate sanction; and
+(F)
+the rules of the association are in accordance with the provisions of this Act, and, in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the association of any person with respect to access to services offered by the association or a member thereof.
+(3)
+Responsibilities and activities
+(A)
+Bright-line rules
+An association shall develop, on a continuing basis, guidance and bright-line rules for the development and design of technology products of large online operators consistent with subparagraph (B).
+(B)
+Safe harbors
+In formulating guidance under subparagraph (A), the association shall define conduct that does not have the purpose or substantial effect of subverting or impairing user autonomy, decision-making, or choice, or of cultivating compulsive usage for children such asâ
+(i)
+de minimis user interface changes derived from testing consumer preferences, including different styles, layouts, or text, where such changes are not done with the purpose of obtaining user consent or user data;
+(ii)
+algorithms or data outputs outside the control of a large online operator or its affiliates; and
+(iii)
+establishing default settings that provide enhanced privacy protection to users or otherwise enhance their autonomy and decision-making ability.
+(d)
+Enforcement by the Commission
+(1)
+Unfair or deceptive acts or practice
+A violation of subsection (a) or (b) shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(2)
+Determination
+For purposes of enforcement of this Act, the Commission shall determine an act or practice is unfair or deceptive if the act or practiceâ
+(A)
+has the purpose, or substantial effect, of subverting or impairing user autonomy, decision-making, or choice to obtain consent or user data; or
+(B)
+has the purpose, or substantial effect, of cultivating compulsive usage by a child under 13.
+(3)
+Regulations
+Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate regulations under section 553 of title 5, United States Code, thatâ
+(A)
+establish rules and procedures for obtaining the informed consent of users;
+(B)
+establish rules for the registration, formation, oversight, and management of the independent review boards, including standards that ensure effective independence of such entities from improper or undue influence by a large online operator;
+(C)
+establish rules for the registration, formation, oversight, and management of professional standards bodies, including procedures for the regular oversight of such bodies and revocation of their designation; and
+(D)
+in consultation with a professional standards body established under subsection (c), define conduct that does not have the purpose or substantial effect of subverting or impairing user autonomy, decision-making, or choice, or of cultivating compulsive usage for children such asâ
+(i)
+de minimis user interface changes derived from testing consumer preferences, including different styles, layouts, or text, where such changes are not done with the purpose of obtaining user consent or user data;
+(ii)
+algorithms or data outputs outside the control of a large online operator or its affiliates; and
+(iii)
+establishing default settings that provide enhanced privacy protection to users or otherwise enhance their autonomy and decision-making ability.
+(4)
+Safe harbor
+The Commission may not bring an enforcement action under this Act against any large online operator that relied in good faith on the guidance of a professional standards body.

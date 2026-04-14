@@ -1,0 +1,86 @@
+1.
+Short title
+This Act may be cited as the
+Improving Telework Cybersecurity for Small Organizations Act
+.
+2.
+Small organization telework cybersecurity
+(a)
+Definitions
+In this section:
+(1)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(2)
+Coronavirus public health emergency
+The term
+coronavirus public health emergency
+means the public health emergency declared by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act (
+42 U.S.C. 247d
+) on January 31, 2020, as a result of confirmed cases of COVIDâ19.
+(3)
+Director
+The term
+Director
+means the Director of the Cybersecurity and Infrastructure Security Agency.
+(4)
+Small business
+The term
+small business
+has the meaning given the term
+small business concern
+in section 3 of the Small Business Act (
+15 U.S.C. 632
+) and any associated regulations promulgated by the Administrator of the Small Business Administration.
+(5)
+Small governmental jurisdiction
+The term
+small governmental jurisdiction
+means governments of cities, counties, towns, townships, villages, school districts, or special districts, with a population of less than 50,000.
+(6)
+Small nonprofit
+The term
+small nonprofit
+means any not-for-profit enterprise that is independently owned and operated and is not dominant in its field.
+(7)
+Small organization
+The term
+small organization
+means organizations unlikely to employ a specialist in cybersecurity, includingâ
+(A)
+a small business;
+(B)
+a small nonprofit; and
+(C)
+a small governmental jurisdiction.
+(b)
+Cybersecurity and Infrastructure Security Agency telework guidance for small organizations
+(1)
+In general
+Not later than 45 days after the date of enactment of this Act, the Director, in consultation with the Commission, shall publish a resource on the website of the Cybersecurity and Infrastructure Security Agency describing best practices a small organization may take to improve cybersecurity with respect to teleworking.
+(2)
+Contents
+The resource required under paragraph (1) shallâ
+(A)
+include basic steps that have the most impact in improving the security of teleworking for a small organization;
+(B)
+recommend, as practicable, configurations and settings for commonly used software that can improve the cybersecurity of small organizations with increased teleworking; and
+(C)
+be consistent withâ
+(i)
+relevant standards and guidelines published by the Director of the National Institute of Standards and Technology;
+(ii)
+guidance from the Director entitled
+Telework Guidance and Resources
+, issued on April 24, 2020, or any successor guidance; and
+(iii)
+Alert (AA20â073A) regarding Enterprise VPN Security issued by the Director on March 13, 2020, or any successor guidance.
+(c)
+Federal Trade Commission Program To Assist Cybersecurity Efforts
+Not later than 30 days after the publishing of the resource required under subsection (b), the Commission, in coordination with the Director, shall establish a programâ
+(1)
+to educate consumers and small organizations on improving the cybersecurity of the technologies increasingly used for distance learning, telemedicine, and telework as a result of the coronavirus public health emergency; and
+(2)
+that shall be consistent with the resource required under subsection (b).

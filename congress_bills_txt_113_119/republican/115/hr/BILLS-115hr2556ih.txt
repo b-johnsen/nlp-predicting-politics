@@ -1,0 +1,550 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Creating Opportunities Now for Necessary and Effective Care Technologies for Health Act of 2017
+or the
+CONNECT for Health Act of 2017
+.
+(b)
+Table of contents
+The table of contents of this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Providing accountable care organizations the ability to expand the use of telehealth.
+Sec. 3. Expanding access to home dialysis therapy.
+Sec. 4. Expanding the use of telehealth for individuals with stroke.
+Sec. 5. Increasing access to digital tools for Medicare Advantage enrollees through telehealth and
+remote patient monitoring.
+Sec. 6. Coverage of remote patient monitoring services furnished to certain individuals.
+Sec. 7. Rural health clinics and Federally qualified health centers.
+Sec. 8. Allowing Native American health service facilities as sites eligible for telehealth
+payment.
+Sec. 9. Clarification regarding telehealth and remote patient monitoring technologies provided to
+beneficiaries.
+Sec. 10. Allowing telehealth and remote patient monitoring services to be included in bundled or
+global payments.
+Sec. 11. Expanding the use of telehealth through the waiver of certain requirements.
+Sec. 12. Expanding the use of telehealth for mental health services.
+Sec. 13. HHS evaluation and report on the use of telehealth and remote patient monitoring under all
+demonstration programs and pilots with a telehealth waiver.
+Sec. 14. Testing of models to examine the use of telehealth and remote patient monitoring under the
+Medicare program.
+Sec. 15. Sense of Congress regarding the remote practice of medicine.
+2.
+Providing accountable care organizations the ability to expand the use of telehealth
+(a)
+In general
+Section 1899 of the Social Security Act (
+42 U.S.C. 1395jjj
+) is amended by adding at the end the following new subsection:
+(l)
+Providing ACOs the ability To expand the use of telehealth services
+(1)
+In general
+(A)
+Expanding use of telehealth services
+In the case of telehealth services for which payment would otherwise be made under this title furnished on or after January 1, 2018, for purposes of this subsection only, the restrictions applicable to the coverage of telehealth services under section 1834(m) described in subparagraph (B) shall not apply with respect to such services furnished to a Medicare fee-for-service beneficiary assigned to an applicable ACO (as defined in paragraph (2)).
+(B)
+Restrictions described
+For purposes of this subsection, restrictions applicable to the coverage of telehealth services under section 1834(m) shall include requirements relating to qualifications for an originating site under paragraph (4)(C)(ii) of such section, any geographic limitations under paragraph (4)(C)(i) of such section (other than applicable State law requirements, including State licensure requirements), any limitation on the use of store-and-forward technologies described in paragraph (1) of such section, any limitation on the type of health care provider who may furnish such services (other than the requirement that the provider is a Medicare-enrolled provider), or any limitation on specific codes designated as telehealth services that are covered under this title pursuant to such section (provided such codes are clinically appropriate to furnish remotely).
+(2)
+Definition of applicable ACO
+In this subsection, the term
+applicable ACO
+means an ACO participating in a model tested or expanded under section 1115A or under this sectionâ
+(A)
+that operates under a two-sided modelâ
+(i)
+described in section 425.600(a) of title 42, Code of Federal Regulations; or
+(ii)
+tested or expanded under section 1115A; and
+(B)
+for which Medicare fee-for-service beneficiaries are assigned to the ACO using a prospective assignment method, as determined appropriate by the Secretary.
+(3)
+No originating site facility fee for new sites
+The Secretary shall not pay an originating site facility fee (as described in paragraph (2)(B) of section 1834(m)) with respect to telehealth services described in paragraph (1) if such services would not have been covered under this title as of the date of enactment of this subsection.
+(4)
+Annual submission of data
+An applicable ACO that furnishes telehealth services described in paragraph (1) shall, on an annual basis, submit to the Secretary information requested by the Secretary for evaluation of the implementation of this subsection, including information on utilization and expenditures for telehealth under this subsection during the preceding year and data on any applicable quality measures, consistent with sections 1848 and 1833(z).
+.
+(b)
+Evaluation and report
+(1)
+Evaluation
+(A)
+In general
+The Secretary of Health and Human Services (in this subsection referred to as the
+Secretary
+) shall conduct an evaluation on the implementation of section 1899(l) of the Social Security Act, as added by subsection (a). Such evaluation shall include an analysis of the utilization of, and expenditures for, telehealth services under such section, including a comparison of the utilization of, and expenditures for, the same services provided in the office setting.
+(B)
+Collection of data
+The Secretary may collect such data as the Secretary determines necessary to carry out the evaluation under this paragraph.
+(2)
+Report
+Not later than January 1, 2025, the Secretary shall submit to Congress a report containing the results of the evaluation conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
+3.
+Expanding access to home dialysis therapy
+(a)
+In general
+Section 1881(b)(3) of the Social Security Act (
+42 U.S.C. 1395rr(b)(3)
+) is amendedâ
+(1)
+by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
+(2)
+in clause (ii), as redesignated by subparagraph (A), strike
+on a comprehensive
+and insert
+subject to subparagraph (B), on a comprehensive
+;
+(3)
+by striking
+With respect to
+and inserting
+(A) With respect to
+; and
+(4)
+by adding at the end the following new subparagraph:
+(B)
+For purposes of subparagraph (A)(ii), an individual determined to have end stage renal disease receiving home dialysis may choose to receive the monthly end stage renal disease-related visits furnished on or after January 1, 2018, via telehealth, if the individual receives a face-to-face visit, without the use of telehealth, at least once every three consecutive months.
+.
+(b)
+Originating site requirements
+(1)
+In general
+Section 1834(m) of the Social Security Act (
+42 U.S.C. 1395m(m)
+) is amendedâ
+(A)
+in paragraph (4)(C)(ii), by adding at the end the following new subclauses:
+(IX)
+A renal dialysis facility, but only for purposes of section 1881(b)(3)(B).
+(X)
+The home of an individual, but only for purposes of section 1881(b)(3)(B).
+; and
+(B)
+by adding at the end the following new paragraph:
+(5)
+Treatment of home dialysis monthly ESRD-related visit
+The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after January 1, 2018, for purposes of section 1881(b)(3)(B), at an originating site described in subclause (VI), (IX), or (X) of paragraph (4)(C)(ii)), subject to applicable State law requirements, including State licensure requirements.
+.
+(2)
+No facility fee if originating site for home dialysis therapy is the home
+Section 1834(m)(2)(B) of the Social Security (
+42 U.S.C. 1395m(m)(2)(B)
+) is amendedâ
+(A)
+by redesignating clauses (i) and (ii) as subclauses (I) and (II), and indenting appropriately;
+(B)
+in subclause (II), as redesignated by subparagraph (A), by striking
+clause (i) or this clause
+and inserting
+subclause (I) or this subclause
+;
+(C)
+by striking
+site
+.âWith respect to
+and inserting â
+site
+.â
+(i)
+In general
+Subject to clause (ii), with respect to
+; and
+(D)
+by adding at the end the following new clause:
+(ii)
+No facility fee if originating site for home dialysis therapy is the home
+No facility fee shall be paid under this subparagraph to an originating site described in paragraph (4)(C)(ii)(X).
+.
+(c)
+Conforming amendment
+Section 1881(b)(1) of the Social Security Act (
+42 U.S.C. 1395rr(b)(1)
+) is amended by striking
+paragraph (3)(A)
+and inserting
+paragraph (3)(A)(i)
+.
+4.
+Expanding the use of telehealth for individuals with stroke
+Section 1834(m) of the Social Security Act (
+42 U.S.C. 1395m(m)
+), as amended by section 3(b), is amended by adding at the end the following new paragraph:
+(6)
+Treatment of stroke telehealth services
+(A)
+Nonapplication of originating site requirements
+The requirements described in paragraph (4)(C) shall not apply with respect to telehealth services furnished on or after January 1, 2018, for purposes of evaluation of an acute stroke, as determined by the Secretary, subject to applicable State law requirements, including State licensure requirements.
+(B)
+No originating site facility fee for new sites
+The Secretary shall not pay an originating site facility fee (as described in paragraph (2)(B)) with respect to telehealth services described in subparagraph (A) if the services would not have been covered under this title as of the date of enactment of this paragraph.
+.
+5.
+Increasing access to digital tools for Medicare Advantage enrollees through telehealth and remote
+patient monitoring
+(a)
+In general
+Section 1852 of the Social Security Act (
+42 U.S.C. 1395wâ22
+) is amendedâ
+(1)
+in subsection (a)(1)(B)(i), by inserting
+, subject to subsection (m),
+after
+means
+; and
+(2)
+by adding at the end the following new subsection:
+(m)
+Provision of additional telehealth benefits and treatment of remote patient monitoring
+(1)
+MA plan option
+For plan year 2018 and subsequent plan years, subject to the requirements of paragraph (3), an MA plan may provide additional telehealth benefits (as defined in paragraph (2)) to individuals enrolled under this part.
+(2)
+Additional telehealth benefits defined
+(A)
+In general
+For purposes of this subsection and section 1854:
+(i)
+Definition
+The term
+additional telehealth benefits
+means services for which benefits are available under part B, notwithstanding the restrictions applicable to the coverage of telehealth services under section 1834(m) described in subparagraph (B).
+(ii)
+Exclusion of capital and infrastructure costs and investments
+The term
+additional telehealth benefits
+does not include capital and infrastructure costs and investments relating to such benefits.
+(B)
+Restrictions described
+For purposes of this subsection, restrictions applicable to the coverage of telehealth services under section 1834(m) shall include requirements relating to qualifications for an originating site under paragraph (4)(C)(ii) of such section, any geographic limitations under paragraph (4)(C)(i) of such section (other than applicable State law requirements, including State licensure requirements), any limitation on the use of store-and-forward technologies described in paragraph (1) of such section, any limitation on the type of health care provider who may furnish such services (other than the requirement that the provider is a Medicare-enrolled provider), or any limitation on specific codes designated as telehealth services that are covered under this title pursuant to such section (provided such codes are clinically appropriate to furnish remotely).
+(C)
+Public comment
+Not later than November 30, 2017, the Secretary shall solicit comments on what types of telehealth services should be considered to meet the definition of additional telehealth benefits under this paragraph.
+(3)
+Requirements for additional telehealth benefits
+The Secretary shall specify requirements for the provision or furnishing of additional telehealth benefits, including with respect to the following:
+(A)
+Physician, practitioner, or other health care provider licensure consistent with State law and other requirements such as specific training.
+(B)
+Factors necessary to ensure the coordination of such benefits with items and services furnished in person.
+(C)
+Such other areas as determined by the Secretary.
+(4)
+Enrollee choice
+If an MA plan provides a service as an additional telehealth benefit (as defined in paragraph (2)), an individual enrollee shall have discretion as to whether to receive such service as an additional telehealth benefit.
+(5)
+Construction regarding network access adequacy
+The provision of additional telehealth benefits under this subsection shall not be construed as making such benefits available and accessible for purposes of compliance with subsection (d).
+(6)
+Treatment under MA
+For purposes of this subsection and section 1854, additional telehealth benefits shall be treated as if they were benefits under the original Medicare fee-for-service program option.
+(7)
+Construction
+Nothing in this subsection shall be construed as affecting the requirement under subsection (a)(1) that MA plans provide enrollees with items and services (other than hospice care) for which benefits are available under parts A and B, including benefits available under section 1834(m).
+(8)
+Clarification regarding remote patient monitoring services
+For purposes of this subsection and section 1854, remote patient monitoring services shall be treated as if they were benefits under the original Medicare fee-for-service program option so long as such treatment does not increase the bid amount attributable to such benefits from the amount it would otherwise be, as determined by the Secretary.
+(9)
+Provision of data
+An MA plan that provides additional telehealth benefits or remote patient monitoring services with respect to a plan year shall provide to the Secretary (at such time and in such manner as the Secretary may specify) data on expenditures and utilization for telehealth or remote patient monitoring services under the plan for enrollees during that plan year.
+.
+(b)
+Clarification regarding inclusion in bid amount
+Section 1854(a)(6)(A)(ii)(I) of the Social Security Act (
+42 U.S.C. 1395wâ24(a)(6)(A)(ii)(I)
+) is amended by inserting
+, including, for plan year 2019 and subsequent plan years, the provision of additional telehealth benefits and remote patient monitoring as described in section 1852(m)
+before the semicolon at the end.
+6.
+Coverage of remote patient monitoring services furnished to certain individuals
+(a)
+In general
+Section 1848(b) of the Social Security Act (
+42 U.S.C. 1395wâ4(b)
+) is amended by adding at the end the following new paragraph:
+(12)
+Coverage of remote patient monitoring services furnished to certain individuals
+(A)
+In general
+The Secretary shall, subject to subparagraph (B), make payment (as the Secretary determines to be appropriate) under this section for remote patient monitoring services (as defined in subparagraph (C)(iii)) furnished on or after January 1, 2018, to an applicable individual (as defined in subparagraph (C)(i)) by an eligible provider (as defined in subparagraph (C)(ii)).
+(B)
+Requirements
+The following shall apply with respect to remote patient monitoring services under this paragraph:
+(i)
+Coverage of such remote patient monitoring services shall be in addition to coverage for chronic care management services or transitional care management services furnished to an applicable individual under this section.
+(ii)
+The Secretary shall consult with public and private stakeholders in determining the amount of payment for remote patient monitoring services under this section.
+(iii)
+Payment, pricing, and coverage for such remote patient monitoring services may occur through the unbundling, modification, or establishment of certain codes.
+(iv)
+Such remote patient monitoring services (other than those services that are physicians' services) shall be furnished under the general supervision of an eligible provider.
+(C)
+Definitions
+In this paragraph:
+(i)
+Applicable individual
+The term
+applicable individual
+means an individualâ
+(I)
+receiving chronic care management services or transitional care management services under this section;
+(II)
+who is in the top five percent of Medicare cost utilization and has two or more chronic diseases, as determined on a yearly basis by the Secretary; or
+(III)
+who has any other condition or with respect to an episode of care that the Secretary may specify, so long as the Chief Actuary of the Centers for Medicare & Medicaid Services certifies that providing coverage for remote patient monitoring services with respect to such individuals wouldâ
+(aa)
+reduce spending under this title without reducing the quality of care; or
+(bb)
+improve the quality of patient care without increasing spending.
+(ii)
+Eligible provider
+The term
+eligible provider
+means a physician (as defined in section 1861(r)) or a practitioner described in section 1842(b)(18)(C).
+(iii)
+Remote patient monitoring services
+The term
+remote patient monitoring services
+means clinical data transmitted from an applicable individual in one location via electronic communications technologies that are devices as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act to an eligible provider in a different location and used by the eligible provider in furnishing such services to such individual that complies with the Federal regulations (concerning the privacy and security of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996, as part of an established plan of care for the applicable individual that includes the review and interpretation of that data by an eligible provider. Such term includes those services furnished in a Federally qualified health center or a rural health clinic. Such term shall not include a communication that consists solely of a telephone audio conversation, facsimile, or electronic text message between an eligible provider and the applicable individual.
+.
+(b)
+Expanding the use of remote patient monitoring services under alternative payment models
+Section 1848(b)(12) of the Social Security Act (
+42 U.S.C. 1395wâ4(b)(12)
+), as added by subsection (a), is amended by adding at the end the following new subparagraph:
+(D)
+Application to alternative payment models
+For purposes of applying this paragraph with respect to remote patient monitoring services furnished by an eligible provider participating in an alternative payment model (as defined in section 1833(z)(3)(C)), the term
+applicable individual
+shall mean any beneficiary assigned to the alternative payment model.
+.
+7.
+Rural health clinics and Federally qualified health centers
+(a)
+Expansion of originating sites
+Section 1834(m)(4)(C) of the Social Security Act (
+42 U.S.C. 1395m(m)(4)(C)
+) is amendedâ
+(1)
+in clause (i), by striking
+The term
+and inserting
+Subject to clause (iii), the term
+; and
+(2)
+by adding at the end the following new clause:
+(iii)
+Rural health clinics and Federally qualified health centers
+In the case of a service furnished on or after the date that is 6 months after the date of the enactment of the
+CONNECT for Health Act of 2017
+, the term
+originating site
+shall also include any Federally qualified health center and any rural health clinic (as such terms are defined in section 1861(aa)) at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, whether or not they are located in an area described in clause (i), insofar as such sites are not otherwise included in the definition of originating site under such clause, subject to applicable State law requirements, including State licensure requirements.
+.
+(b)
+Expansion of distant sites
+Section 1834(m) of the Social Security Act (
+42 U.S.C. 1395m(m)
+) is amendedâ
+(1)
+in the first sentence of paragraph (1)â
+(A)
+by striking
+or a practitioner (described in section 1842(b)(18)(C))
+and inserting
+, a practitioner (described in section 1842(b)(18)(C)), a Federally qualified health center, or a rural health clinic
+; and
+(B)
+by striking
+or practitioner
+and inserting
+, practitioner, Federally qualified health center, or rural health clinic
+;
+(2)
+in paragraph (2)(A)â
+(A)
+by inserting after
+eligible telehealth individual
+the following:
+or to a Federally qualified health center or rural health clinic that serves as a distant site and furnishes a telehealth service to an eligible telehealth individual
+; and
+(B)
+by striking
+such physician or practitioner
+and inserting
+such physician, practitioner, Federally qualified health center, or rural health clinic
+; and
+(3)
+in paragraph (4)(A), by inserting the following before the period at the end:
+and includes a Federally qualified health center or rural health clinic that furnishes a telehealth service to an eligible individual
+.
+(c)
+Effective date
+The amendments made by this section shall apply to services furnished on or after January 1, 2018.
+8.
+Allowing Native American health service facilities as sites eligible for telehealth payment
+(a)
+In general
+Section 1834(m)(4)(C) of the Social Security Act (
+42 U.S.C. 1395m(m)(4)(C)
+), as amended by section 7, is amendedâ
+(1)
+in clause (i), by striking
+clause (iii)
+and inserting
+clauses (iii) and (iv)
+; and
+(2)
+by adding at the end the following new clause:
+(iv)
+Native American health service facilities
+The originating site requirements described in clauses (i) and (ii) shall not apply with respect to a facility of the Indian Health Service, whether operated by such Service, or by an Indian tribe (as that term is defined in section 4 of the Indian Health Care Improvement Act (
+25 U.S.C. 1603
+)) or a tribal organization (as that term is defined in section 4 of the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 450b
+)), or a facility of the Native Hawaiian health care systems authorized under the Native Hawaiian Health Care Improvement Act (
+42 U.S.C. 11701
+et seq.).
+.
+(b)
+No originating site facility fee for new sites
+Section 1834(m)(2)(B) of the Social Security Act (
+42 U.S.C. 1395m(m)(2)(B)
+) is amended, in the matter preceding clause (i), by inserting
+(other than an originating site that is only described in clause (iv) of paragraph (4)(C), and does not meet the requirement for an originating site under clause (i) of such paragraph)
+after
+the originating site
+.
+(c)
+Effective date
+The amendments made by this section shall apply to services furnished on or after January 1, 2018.
+9.
+Clarification regarding telehealth and remote patient monitoring technologies provided to beneficiaries
+Section 1128A(i)(6) of the Social Security Act (42 U.S.C. 1320aâ7a(i)(6)) is amendedâ
+(1)
+in subparagraph (H), by striking
+; or
+and inserting a semicolon;
+(2)
+in subparagraph (I), by striking the period at the end and inserting
+; or
+; and
+(3)
+by adding at the end the following new subparagraph:
+(J)
+the provision of telehealth or remote patient monitoring technologies to individuals under title XVIII by a health care provider for the purpose of furnishing telehealth or remote patient monitoring services.
+.
+10.
+Allowing telehealth and remote patient monitoring services to be included in bundled or global
+payments
+Title XVIII of the Social Security Act (
+42 U.S.C. 1395
+et seq.) is amended by adding at the end the following new section:
+1899C.
+Allowing telehealth and remote patient monitoring services to be included in bundled or global
+payments
+Notwithstanding any other provision of this title, the Secretary may include under any bundled or global payment under this title the following:
+(1)
+Telehealth services
+Notwithstanding requirements otherwise applicable under section 1834(m), including any requirements relating to qualifications for an originating site under paragraph (4)(C)(ii) of such section, any geographic limitations under paragraph (4)(C)(i) of such section (other than applicable State law requirements, including State licensure requirements), any limitation on the use of store-and-forward technologies described in paragraph (1) of such section, any limitation on the type of health care provider who may furnish such services (other than the requirement that the provider is a Medicare-enrolled provider), any items and services for which payment would otherwise be made under this title that are furnished using telehealth, or any limitation on specific codes designated as telehealth services that are covered under this title pursuant to section 1834(m) (provided such codes are clinically appropriate to furnish remotely).
+(2)
+Remote patient monitoring services
+Notwithstanding section 1848(b)(12), remote patient monitoring services (as defined in such section) furnished to any individual under this title.
+.
+11.
+Expanding the use of telehealth through the waiver of certain requirements
+Section 1834(m) of the Social Security Act (
+42 U.S.C. 1395m(m)
+), as amended by sections 3(b) and 4, is amended by adding at the end the following new paragraph:
+(7)
+Authority to waive requirements and limitations if certain conditions met
+(A)
+In general
+In the case of telehealth services furnished on or after January 1, 2018, the Secretary may waive any restriction applicable to the coverage of telehealth services under this subsection described in subparagraph (B) with respect to certain providers of services, suppliers, provider groups, sites of care, services, conditions, individuals receiving the services, or States, as determined by the Secretary, if each of the requirements described in subparagraph (C) is met with respect to the waiver.
+(B)
+Restrictions described
+For purposes of this paragraph, restrictions applicable to the coverage of telehealth services under this subsection shall include requirements relating to qualifications for an originating site under paragraph (4)(C)(ii), any geographic limitations under paragraph (4)(C)(i) (other than applicable State law requirements, including State licensure requirements), any limitation on the use of store-and-forward technologies described in paragraph (1), any limitation on the type of health care provider who may furnish such services (other than the requirement that the provider is a Medicare-enrolled provider), or any limitation on specific codes designated as telehealth services that are covered under this title pursuant to this subsection (provided such codes are clinically appropriate to furnish remotely).
+(C)
+Requirements for waiver
+The requirements described in this subparagraph are, with respect to the waiver of a restriction described in subparagraph (B), the following:
+(i)
+The Secretary determines that the waiver is expected toâ
+(I)
+reduce spending under this title without reducing the quality of care; or
+(II)
+improve the quality of patient care without increasing spending.
+(ii)
+The Chief Actuary of the Centers for Medicare & Medicaid Services certifies that such waiver would reduce (or would not result in any increase in) net program spending under this title.
+(iii)
+The Secretary determines that such waiver would not deny or limit the coverage or provision of benefits under this title for individuals.
+(D)
+Public comment
+The Secretary shall establish a process by which stakeholders may (on at least an annual basis) submit requests for a waiver under this paragraph.
+.
+12.
+Expanding the use of telehealth for mental health services
+Section 1834(m) of the Social Security Act (
+42 U.S.C. 1395m(m)
+), as amended by sections 3(b), 4, and 11, is amended by adding at the end the following new paragraph:
+(8)
+Treatment of mental health services delivered via telehealth
+(A)
+In general
+Restrictions applicable to the coverage of telehealth services under this subsection described in subparagraph (B) shall not apply with respect to telehealth services that are mental health services (as determined by the Secretary) and are furnished on or after January 1, 2018.
+(B)
+Restrictions described
+For purposes of this paragraph, restrictions applicable to the coverage of telehealth services under this subsection shall include requirements relating to qualifications for an originating site under paragraph (4)(C)(ii), any geographic limitations under paragraph (4)(C)(i) (other than applicable State law requirements, including State licensure requirements), any limitation on the use of store-and-forward technologies described in paragraph (1), any limitation on the type of health care provider who may furnish such services (other than the requirement that the provider is a Medicare-enrolled provider), or any limitation on specific codes designated as telehealth services that are covered under this title pursuant to this subsection (provided such codes are clinically appropriate to furnish remotely).
+.
+13.
+HHS evaluation and report on the use of telehealth and remote patient monitoring under all
+demonstration programs and pilots with a telehealth waiver
+(a)
+Study
+The Secretary of Health and Human Services (in this subsection referred to as the
+Secretary
+) shall conduct an evaluation on the use of telehealth and remote patient monitoring under all programs and pilots under the Medicare program under title XVIII of the Social Security Act and the Medicaid program under title XIX of such Act with a waiver of telehealth restrictions otherwise applicable under such titles of the Social Security Act (
+42 U.S.C. 1395m(m)
+). Such evaluation shall include an analysis of the following:
+(1)
+The number of providers and payers using telehealth and remote patient monitoring under such programs and pilots.
+(2)
+The cost impact among the beneficiaries receiving telehealth and remote patient monitoring under such programs and pilots, including with respect to preventable hospitalizations, hospital readmissions, and emergency room visits, and the total cost of items and services under the Medicare and Medicaid programs.
+(3)
+Beneficiary and family caregiver satisfaction with the use of telehealth and remote patient monitoring under such programs and pilots.
+(4)
+A comparison of the utilization of, and expenditures for, the same services furnished under the Medicare and Medicaid programs in the office setting.
+(b)
+Report
+Not later than 2 years after the date of the enactment of this Act, the Secretary shall submit to Congress a report containing the results of the evaluation conducted under subsection (a), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
+14.
+Testing of models to examine the use of telehealth and remote patient monitoring under the Medicare
+program
+Section 1115A(b)(2) of the Social Security Act (
+42 U.S.C. 1315a(b)(2)
+) is amended by adding at the end the following new subparagraph:
+(D)
+Testing models to examine use of telehealth and remote patient monitoring under Medicare
+The Secretary shall consider testing under this subsection models to examine the use of telehealth and remote patient monitoring under title XVIII.
+.
+15.
+Sense of Congress regarding the remote practice of medicine
+(a)
+Findings
+Congress finds that the laws of all 50 States and the District of Columbiaâ
+(1)
+consider the practice of medicine to include remote visits; and
+(2)
+recognize that any remote practice of medicine is governed by the same medical practice statutes as in-person care.
+(b)
+Sense of Congress
+It is the sense of Congress thatâ
+(1)
+telemedicine is the delivery of safe, effective, quality health care services, by a health care provider, using technology-based modalities to deliver medical care;
+(2)
+States have recognized this by treating telemedicine as the practice of medicine; and
+(3)
+the Medicare program under title XVIII of the Social Security Act should cover the delivery of remote patient services.

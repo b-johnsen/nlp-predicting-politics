@@ -1,0 +1,916 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Electronic Health Record Program Restructure, Enhance, Strengthen, and Empower Technology Act of 2023
+or the
+EHR Program RESET Act of 2023
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+TITLE IâProgram establishment, structure, management, and objectives
+Sec. 101. Establishment of electronic health record and health information technology modernization program and program office of Department of Veterans Affairs.
+Sec. 102. Establishment of Department of Veterans Affairs advisory subcommittee on electronic health record and health information technology modernization.
+TITLE IIâDeployment criteria and thresholds to advance
+Sec. 201. Requirement to exceed or meet certain health care performance baseline or national metrics for continuation of electronic health record modernization program of Department of Veterans Affairs.
+Sec. 202. Requirements before continued deployment of new electronic health record by Department of Veterans Affairs at additional locations and facilities.
+Sec. 203. Sense of Congress on training and change management activities for deployment of new electronic health record.
+TITLE IIIâEnhanced support for health care and other facilities deploying new electronic health record
+Sec. 301. Report on support to facilities for new electronic health record deployment by Department of Veterans Affairs.
+Sec. 302. Modification of quarterly report to include information on system stability, satisfaction, morale, retention of staff, training, and change management with respect to new electronic health record of Department of Veterans Affairs.
+TITLE IVâContracting and acquisition oversight and reform
+Sec. 401. Termination of contract with Oracle Cerner for training and change management.
+Sec. 402. Strengthening contract negotiation by Department of Veterans Affairs with respect to new electronic health record and designation of lead contract negotiator.
+Sec. 403. Independent verification and validation of certain major modernization efforts of Department of Veterans Affairs.
+Sec. 404. Annual report on efforts to maintain VistA electronic health record system.
+Sec. 405. Report on alternatives to current electronic health record technology and contract for Department of Veterans Affairs.
+Sec. 406. Report on leadership, acquisition, and contracting oversight lessons learned.
+Sec. 407. Report on contract savings, services provided at no cost to the Department, and contract cost incurred with respect to Oracle-Cerner product.
+TITLE VâCoordination with Department of Defense
+Sec. 501. Quarterly reports on system uptime, modernization, and coordination activities for information technology systems and policies of Department of Defense affecting operations of Department of Veterans Affairs.
+Sec. 502. Coordination with Department of Defense regarding information technology programs, systems, and services.
+TITLE VIâOther matters
+Sec. 601. Report on legislative action required.
+Sec. 602. Report on current and future State interoperability with legacy electronic health record, new electronic health record, and future potential electronic health record and other health information technology and exchanges.
+2.
+Definitions
+Except as otherwise provided, in this Act:
+(1)
+Appropriate committees of Congress
+The term
+appropriate committees of Congress
+meansâ
+(A)
+the Committee on Veteransâ Affairs and the Committee on Appropriations of the Senate; and
+(B)
+the Committee on Veteransâ Affairs and the Committee on Appropriations of the House of Representatives.
+(2)
+Department
+The term
+Department
+means the Department of Veterans Affairs.
+(3)
+Deputy Secretary
+The term
+Deputy Secretary
+means the Deputy Secretary of Veterans Affairs.
+(4)
+Fourth Mission
+The term
+Fourth Mission
+means the mission of the Department to improve the preparedness of the United States for response to war, terrorism, national emergency, and natural disaster.
+(5)
+Modernization; modernize
+The terms
+modernization
+and
+modernize
+, with respect to the electronic health record and other relevant health information technology systems of the Department, means to replace, in whole or in part, overhaul, or upgrade such record or other system in a manner that gives such record or other system longevity and ability to constantly be updated to meet the needs of veterans, employees of the Department, and the Department.
+(6)
+New electronic health record
+The term
+new electronic health record
+means any electronic health record provided for the Department on or after the date of the enactment of this Act, including pursuant to a contract entered into by the Department.
+(7)
+Oracle-Cerner product
+The term
+Oracle-Cerner product
+means the product provided under the contract entered into by the Department with Cerner pursuant to the electronic health record modernization program of the Department before the date of the enactment of this Act.
+(8)
+Secretary
+The term
+Secretary
+means the Secretary of Veterans Affairs.
+(9)
+Under Secretary
+The term
+Under Secretary
+means the Under Secretary for Health of the Department of Veterans Affairs.
+I
+Program establishment, structure, management, and objectives
+101.
+Establishment of electronic health record and health information technology modernization program and program office of Department of Veterans Affairs
+(a)
+Establishment of program
+(1)
+Establishment
+There is established within the Veterans Health Administration a program to modernize the electronic health record and other relevant health information technology systems of the Department (in this section referred to as the
+Program
+).
+(2)
+Purpose and goals
+The purpose and goals of the Program are as follows:
+(A)
+To deliver an electronic health record, platform, and related systems that allow the Department to deliver, as measured by quantifiable industry and Department-specific metrics, improved standardized workflows and consistent, quality health care to veterans through a modern, user-friendly, electronic health record and related systems that allow medical professionals of the Department to deliver health care to veterans safely.
+(B)
+To increase the productivity, efficiency, retention, satisfaction, and experience of such medical professionals.
+(C)
+To improve veteran experience and health outcomes.
+(D)
+To improve quality and coordination of care, reduce unnecessary variation, and improve data management.
+(E)
+To maintain, strengthen, and expand the research and development activities of the Department to include those activities required under title 38, United States Code.
+(F)
+To maintain and strengthen the ability of the Department to carry out Fourth Mission requirements, to include the requirements under title 38, United States Code.
+(G)
+To protect the health and other personal identifying information of veterans from being monetized, sold, or otherwise misused by any internal or external entity conducting work for, with, or on behalf of the Department.
+(H)
+To protect the health and other personal identifying information of veterans or other users of the electronic health record or other programs or services of the Department from cyber attacks, identity theft, and other cyber and security threats.
+(I)
+To deliverâ
+(i)
+operational value to the Department from the use of the electronic health record and related systems;
+(ii)
+business value and return on investment to the Department from improvement to the electronic health record and related systems across all relevant domains, to include cyber and other security, business, and financial operations; and
+(iii)
+an evolving level of advanced interoperability of the electronic health record with the greatest number of electronic health record systems, platforms, services, and related interfaces in the Federal, private, nonprofit, and other relevant health sectors.
+(J)
+To develop health information technology modernization strategies and implementation plans that provide the Department with the most flexibility to continuously modernize the health information technology systems of the Department in an agile manner, not committed to any one particular vendor or vendors or technology solution or solutions, commonly known as
+vendor lock
+, and respond to new trends in the health information technology industry in real time, allowing for relevant and appropriate integration with other health information technology platforms and services.
+(K)
+To aggressively manage and monitor the implementation of all contracts and services procured by the Department related to such electronic health record and related services to control cost, ensure best value, monitor, and evaluate delivery of the services procured in line with program goals and desired outcomes.
+(L)
+To carry out the purposes and goals described in subparagraphs (A) through (K) at the most effective short-, medium-, and long-term cost to the Federal Government using industry and government best practices so as to protect taxpayers.
+(M)
+Such other purposes or goals as determinedâ
+(i)
+pursuant to the report submitted under subsection (b)(6); or
+(ii)
+by the Secretary, the Deputy Secretary, or the Under Secretary pursuant to a report submitted to the appropriate committees of Congress describing any new purpose or goal for the Program not later than 90 days after adding such purpose or goal to the Program.
+(b)
+Establishment of Program Management Office
+(1)
+In general
+There is established within the Veterans Health Administration the Electronic Health Record and Health Information Technology Modernization Program Management Office (referred to in this section as the
+Office
+). The Secretary or the Deputy Secretary may rename the Office and upon renaming such office shall notify Congress not later than 60 days after such renaming.
+(2)
+Organizational location of Office
+(A)
+In general
+The Under Secretary shall determine the appropriate organizational location within the Veterans Health Administration for the Office so as to align responsibilities within existing or newly formed clinical, patient safety, health informatics, finance, and other business operations of the Veterans Health Administration.
+(B)
+Reorganization of office
+The Secretary, the Deputy Secretary, and the Under Secretary may move or reorganize the organizational location of the Office only after notifying the appropriate committees of Congress not later than 90 days before such move or reorganization.
+(3)
+Leadership and staff
+(A)
+Executive Director
+The Under Secretary shall establish a leader to be responsible for the Office, to be known as the
+Executive Director of the Electronic Health Record and Health Information Technology Modernization Program Management Office
+.
+(B)
+Program Functional Champion
+(i)
+In general
+The Under Secretary shall establish a Functional Champion of the Program who will serve with the Executive Director of the Office.
+(ii)
+Duties
+The duties of the Functional Champion areâ
+(I)
+to be the lead clinical executive to guide and address functional initiatives to support medical personnel of the Department in the deployment of a new electronic health record and other health information technology products; and
+(II)
+to carry out such additional duties as the Under Secretary and the Executive Director of the Office may prescribe.
+(C)
+Other offices and positions
+(i)
+In general
+The Under Secretary shall direct the establishment of various other relevant sub-offices and positions for the Office as the Under Secretary considers necessary drawing upon best practices from the Department, the Department of Defense, and other government, private sector, and nonprofit models and develop an organizational model tailored to the Department for business and management effectiveness.
+(ii)
+Types of sub-offices
+At a minimum, within the Office there shall be offices dedicated toâ
+(I)
+training;
+(II)
+change management;
+(III)
+communications;
+(IV)
+field support;
+(V)
+contract task order development, monitoring, and oversight;
+(VI)
+metrics, performance, and value; and
+(VII)
+quality and safety.
+(iii)
+Sense of Congress
+It is the sense of Congress thatâ
+(I)
+the Department should develop a model under clause (i) that is driven by best practices from government and industry but not replicate for the sake of replication structures used by the Department of Defense or elsewhere that do not factor in the patient population, unique mission, Fourth Mission requirements, and research requirements of the Department, and other relevant factors; and
+(II)
+the structure of such model should be driven by the objectives of the Office and the desired end state to improve value and quality of care and health outcomes for veterans while improving provider efficiency and productivity and operations of the Department.
+(4)
+Function and duties
+(A)
+Function
+The function of the Office shall be, with respect to all aspects of the modernization or replacement of the electronic health record and other key health information technology and services of the Departmentâ
+(i)
+to develop and execute strategy in coordination with relevant offices and entities of the Department; and
+(ii)
+to perform management, oversight, and accountability, including over all contracts, coordination, planning, management, and implementation.
+(B)
+Duties
+The duties of the Office shall include the following:
+(i)
+Ensuring the Program delivers the tools medical professionals of the Department need to safely deliver care to veterans while increasing productivity, satisfaction, and efficiency as measured by metrics.
+(ii)
+Organizing all of the relevant health, business, informatics, and related offices of the Veterans Health Administration to ensure a coordinated strategy regarding the new electronic health record and other current and future key health information technology and services of the Department.
+(iii)
+Coordinating with other offices and entities of the Department with key dependencies and responsibilities in the success of the Program or operational needs for the services of the Program, including the Office of Information and Technology, the Veterans Benefits Administration, and other relevant offices.
+(iv)
+Ensuring the stability and security of the new electronic health record and other current and future key health information technology and services of the Department.
+(v)
+Oversight of work performed by contractors regarding such record, technology, and services.
+(vi)
+Developing a health information technology strategy of the Departmentâ
+(I)
+to increase quality of care, health outcomes, and experience of care received by veterans;
+(II)
+to increase value to business and health operations of the Department;
+(III)
+to enable the further recruitment and retention of medical professionals; and
+(IV)
+to coherently define how disparate health information technology efforts of the Department can be aligned to deliver on that strategy with concrete goals, metrics, and outcomes.
+(vii)
+Developing goals, key performance indicators, and metrics to evaluate such record, technology, and services, including with respect to financial performance, provider productivity, and health performance.
+(viii)
+Monitoring such goals, performance indicators, and metrics to develop actions for when such goals, performance indicators, and metrics have not been met.
+(ix)
+Improvement of business operations of the Department relating to such record, technology, and services.
+(x)
+Such other matters as the Secretary, the Deputy Secretary, or the Under Secretary consider appropriate.
+(5)
+Report on establishment of Office
+(A)
+In general
+Not later than 90 days after the date of the enactment of this Act, the Deputy Secretary, the Under Secretary, and the Chief Information Officer of the Department shall submit to the appropriate committees of Congress a single report outlining the establishment of the Office and its current strengths and weaknesses.
+(B)
+Elements
+The report required under subparagraph (A) shall includeâ
+(i)
+a clear articulation of the objective of the Program and how that objective is tied to the broader health information technology modernization strategy and health care mission of the Department, which shall include functional and technical quality standards to define success of the Program based on clear demonstration of improved health and business operational metrics;
+(ii)
+a strategy describing how technology procured by the Department shall be part of a comprehensive approach for using health information technology, models of care delivery, and research conducted by the Department to strengthen services for veterans and veteran engagement;
+(iii)
+concrete steps for how the Department will use internal and external resources to operationalize the strategy under clause (ii) through technical and functional engineering expertise to streamline the organization and governance of the Office of Information and Technology, the Veterans Health Administration, and other relevant offices or entities of the Department to enact that strategy;
+(iv)
+an assessment of the current and desired future state, with timelines to achieve such future state, of enterprise business and technical architecture, information technology product consolidation and management, information technology governance, business and clinical process standardization and quality control of the Department and the steps that are or will be taken in response to that assessment, including a timeline for execution of those reforms; and
+(v)
+a description, as of the date of the report, of the current status of the objectives of the Office, whether those objectives are being met, and if they are not being met the steps the Department will take, including a timeline, to achieve those objectives.
+(c)
+Deputy Chief Information Officer for Electronic Health Record and Health Information Technology
+(1)
+Establishment
+There is established within the Office of Information and Technology of the Department a Deputy Chief Information Officer for Electronic Health Record and Health Information Technology who shall be accountable for all technical implementation of the modernization of the electronic health record and health information technology, in coordination with the Program and the Office.
+(2)
+Renaming
+The Chief Information Officer of the Department may rename the position established under paragraph (1) and upon renaming such position shall notify Congress not later than 90 days after such renaming.
+(3)
+Chain of command
+The Deputy Chief Information Officer for Electronic Health Record and Health Information Technology of the Department shall report to the Chief Information Officer and the Assistant Secretary for Information and Technology of the Department.
+(4)
+Duties
+The Deputy Chief Information Officer for Electronic Health Record and Health Information Technology of the Department shall be responsible for organizing all functions of the Office of Information and Technology of the Department to support the modernization of the electronic health record and health information technology of the Department, including cyber security, system stability and uptime, system performance, and integration with relevant platforms, systems, and services, including those of the Department of Defense and other Federal agencies.
+(5)
+Additional guidance
+The Chief Information Officer of the Department may provide additional or modified guidance for the role of Deputy Chief Information Officer for Electronic Health Record and Health Information Technology of the Department.
+(d)
+Administrative matters
+(1)
+Accountability and oversight for program
+The Deputy Secretary shall be the accountable official for the Program, oversee the Program, and may direct resources, subject to appropriations, throughout the Department, particularly to the Veterans Health Administration and the Office of Information and Technology of the Department, to facilitate successful planning, management, oversight, and execution of the Program.
+(2)
+Responsibility for program and office
+The Under Secretary shall be the responsible official for the Program and the Office, working together with the Executive Director of the Office. The Under Secretary and the Executive Director of the Office shall be directly responsible and in charge of the daily work of the Program and the Office.
+(3)
+Tracking and reporting of funds
+Any funds directed by the Deputy Secretary to other entities of the Department to support the Program or the Office shall be tracked and reported as falling under the Program regardless of the office that manages and executes those particular funds.
+102.
+Establishment of Department of Veterans Affairs advisory subcommittee on electronic health record and health information technology modernization
+(a)
+In general
+Not later than 60 days after the date of the enactment of this Act, the Secretary, acting in coordination with and through the Under Secretary, shall establish a permanent subcommittee of the special medical advisory group established under section 7312 of title 38, United States Code, focused on electronic health record and health information technology modernization of the Department, to be known as the Subcommittee on Electronic Health Record and Health Information Technology Modernization (in this section referred to as the
+Subcommittee
+).
+(b)
+Composition of Subcommittee
+(1)
+In general
+The Subcommittee shall be composed of not fewer than 5 and not more than 10 individuals selected by the Under Secretary who have a current or previous documented and relevant deep professional background within a leading health care organization or organizations of the United States in the private or nonprofit health sector, includingâ
+(A)
+experience with health systems;
+(B)
+experience as a health executive, chief health information or informatics officer, chief medical information officer, clinician, or nurse with deep experience implementing or overseeing medium- or large-scale health information technology transformation, including electronic health record deployments and business modernizations;
+(C)
+experience improving health care outcomes;
+(D)
+experience managing change; or
+(E)
+experience in developing and implementing electronic health record training.
+(2)
+Nurse or nurse executive
+At least one member of the Subcommittee shall be a nurse or nurse executive.
+(3)
+Member of veterans service organization
+At least one member of the Subcommittee shall be a representative of a Federally chartered, membership-based veterans service organization.
+(4)
+Limitation
+An individual is not eligible to be a member of the Subcommittee if the individualâ
+(A)
+is from the information technology vendor or technology development sector; or
+(B)
+had a role in the Oracle or Cerner procurement by the Department or related contracts for program management services for the electronic health record modernization program of the Department.
+(c)
+Duties
+The Subcommittee shall produce periodic reports and recommendations as directed or requested by the Secretary or the Under Secretary on plans and opportunities for the Department to improve its strategy, goals, and implementation for and deployment of electronic health records and health information technology to better improve quality of care, patient outcomes, operational efficiency and productivity, provider productivity and engagement, and related matters based on national best practices that are relevant to the Department.
+(d)
+Administration
+Administration of the Subcommittee, including terms of service and replacement of members, shall be guided by the rules and charter of the special medical advisory group established under section 7312 of title 38, United States Code.
+(e)
+Termination
+This section shall terminate on the date on which the Secretary determines that a modernized electronic health record has been deployed to every medical center and other relevant medical facility of the Department.
+II
+Deployment criteria and thresholds to advance
+201.
+Requirement to exceed or meet certain health care performance baseline or national metrics for continuation of electronic health record modernization program of Department of Veterans Affairs
+(a)
+In general
+The Secretary may not initiate a new go-live deployment of the electronic health record modernization program until the quality, access, productivity, and all other health and operational performance metrics data of the Veterans Health Administration and the Office of Information and Technology of the Department at each facility of the Department (including any subsidiary facilities, such as community-based outpatient clinics) that is using the Oracle-Cerner product under such program as of January 31, 2023, has eitherâ
+(1)
+exceeded the health and information technology operational levels of the facility before deploying such product; or
+(2)
+met national standards set forth by the Veterans Health Administration for quality, safety, efficiency, and financial performance as established by the Program established under section 101(a) and the Under Secretary.
+(b)
+Establishment of national standards
+(1)
+In general
+The Under Secretary and the Program established under section 101(a) shall establish national standards required under subsection (a)(2) to create a common health performance standard of the Veterans Health Administration under which all medical facilities of the Department may be evaluated under that subsection that takes into account relevant differences in size, complexity, and market of each facility.
+(2)
+Common metric and standard
+In establishing standards under paragraph (1), the Under Secretary and the Program established under section 101(a) shall establish a common data driven metric and service delivery standard for care for veterans by which medical facilities of the Department can be evaluated.
+(3)
+Reports
+(A)
+Initial report
+Not later than 60 days after the establishment of standards under paragraph (1), the Program established under section 101(a) shall submit to the appropriate committees of Congress a report on such standards.
+(B)
+Modification to standards
+Not later than 30 days before the modification to any standards established under paragraph (1), the Program established under section 101(a) shall submit to the appropriate committees of Congress a report on such modification.
+(c)
+Termination or continuation of use
+(1)
+In general
+If, by the date that is 180 days after the date of the enactment of this Act, the data from the first five facilities of the Department as well as any relevant remote sites, consolidated patient account centers, subsidiary facilities, such as community-based outpatient clinics that deployed the Oracle-Cerner product, have not reached the requirements under subsection (a)â
+(A)
+not later than 13 months after such date of enactment, the Secretary, in consultation with the Deputy Secretary, the Under Secretary for Health, the Chief Information Officer, and the Executive Director of the Office, shallâ
+(i)
+submit to the appropriate committees of Congress a plan on how the Department will meet the requirements under such subsection either through the existing technology strategy of the Department, a new procurement, or some other combination or approach; and
+(ii)
+publicly announce a replacement technology solution or solutions or contract or contracts, including a new timeline and strategy to implement such solution or solutions; and
+(B)
+not later than 180 days after completing the requirements under subparagraph (A), the Secretary shallâ
+(i)
+terminate, cancel, or modify the contract for the Oracle-Cerner product; and
+(ii)
+develop appropriate coordination and transition plans for the transition of use of technology from the Oracle-Cerner product back to VistA or from the Oracle-Cerner product to an alternate electronic health record technology.
+(2)
+Limitation on cancellation of existing contract
+In carrying out paragraph (1), to ensure a smooth transition and reduce operational and care delivery disturbance, the Secretary may not terminate any existing electronic health record contract until a replacement contract and strategy for such electronic health record are in place or near award and commencement.
+(3)
+Extension of time
+(A)
+In general
+Not later than 120 days after the date of the enactment of this Act, the Secretary may, for one time only, temporarily delay each of the requirements of paragraph (1) for a period not to exceed 180 days if the Secretary determines such delay is necessary due to mission critical, national emergency, national security, patient safety, quality and access to care, protection of taxpayer investments, or other unforeseen reasons.
+(B)
+Justification for extension
+If the Secretary determines that a delay under subparagraph (A) is necessary, not later than 105 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report setting forth the justification of the Secretary for such delay.
+202.
+Requirements before continued deployment of new electronic health record by Department of Veterans Affairs at additional locations and facilities
+(a)
+Report on metrics To Determine continued deployment
+(1)
+In general
+Not later than 30 days after the date of the enactment of this Act, the Deputy Secretary shall submit to the appropriate committees of Congress a report containing the metrics, readiness criteria, and governance decision process that the Department will use to determine whether continued deployment of the electronic health record technology of the Department is appropriate in June 2023, or whether a further pause in such deployment is warranted to address system issues, patient safety, technology features, provider efficiency, and related matters.
+(2)
+Metrics
+The metrics included in the report submitted under paragraph (1) shallâ
+(A)
+be data driven based on industry standards, metrics of the Department, and the unique health care delivery needs of the Department to serve veterans, perform research, and support Fourth Mission requirements;
+(B)
+ensure patient safety, quality of and access to care, system stability, cyber security, and sound financial and business administration activities are successfully evaluated as stable and functional at desired performance levels and in place to proceed;
+(C)
+ensure completion of relevant training and change management activities; and
+(D)
+include any other specific readiness criteria that each location of the Department is required to meet before moving forward with continued deployment of the electronic health record technology of the Department, as determined by the Department.
+(3)
+Other elements
+The report submitted under paragraph (1) shallâ
+(A)
+indicate how the metrics required under the report are or will be adjusted to incorporate the research function and health complexity levels of facilities of the Department and whether additional or different metrics are or will be added based on more or less complex facilities or facilities with a greater research function;
+(B)
+explain how the metrics and readiness criteria under the report incorporate appropriate input and findings of the National Center for Patient Safety, the Clinical Episode Review Team, or the Office of the Assistant Under Secretary for Health for Quality and Patient Safety of the Veterans Health Administration, or any successor office, and resolve any issues raised by those offices to the satisfaction of those offices through information technology changes, functionality, training, and other areas, including regarding patient record flags, behavioral health and suicide risks, configuration of roles and responsibilities, referrals, ambulatory care, pharmacy, identity, orders, medication administration, and other areas, which shall include a specific description of how each issue identified in the March 2023 report of the Department entitled,
+EHRM Sprint Report
+has been resolved or mitigated; and
+(C)
+provide a clear process description reflectingâ
+(i)
+the repeatable method for how decisions relating to deployment of electronic health record technology are made within the Department from the field level up to the Secretary; and
+(ii)
+the input received from each relevant element of the Department before such a decision is made, to include input from the National Center for Patient Safety.
+(4)
+Certification
+In submitting metrics under paragraph (1), the Deputy Secretary shall certify that the metrics have been approved by the Under Secretary, the Executive Director of the Office, and the Chief Information Officer of the Department.
+203.
+Sense of Congress on training and change management activities for deployment of new electronic health record
+It is the sense of Congress thatâ
+(1)
+training and change management with respect to any new electronic health record shall be led by the Department and employees of the Department who are uniquely positioned to understand the legacy VistA system of the Department, the existing and future standardized workflow of the Department, and the history, culture, and mission of the Department; and
+(2)
+any contractors of the Department involved in the implementation of any new electronic health record should serve in a support function to the Department rather than lead and conduct all training and change management activities.
+III
+Enhanced support for health care and other facilities deploying new electronic health record
+301.
+Report on support to facilities for new electronic health record deployment by Department of Veterans Affairs
+(a)
+In general
+Not later than 90 days after the date of the enactment of this Act, the Deputy Secretary shall submit to the appropriate committees of Congress a report summarizing the standard support services that the Department does or intends to provide to each facility in preparation for potential future deployment of the new electronic health record of the Department at such facility and in the period after such deployment.
+(b)
+Support To be provided
+The support required to be provided to a facility by the Department and included in the report under subsection (a) shall include, at a minimum, the following:
+(1)
+Budgetary resources and support to address the need for increased staffing at the facility, reduced productivity and collections, increased use of community care networks, and other issues identified in the report of the Institute for Defense Analyses dated October 2022, entitled
+Independent Cost Estimate for Veterans Affairs Electronic Health Record Modernization Program
+.
+(2)
+Increased staffing level surge at the facility, including temporary and permanent staff.
+(3)
+Steps to be taken by the Department to reduce burnout and turnover.
+(4)
+Enhanced training to include government or vendor supplied trainers to maintain a presence until dismissed by the director or other relevant leader of the facility after deployment of the new electronic health record.
+(5)
+A description of any additional legislative action requested to improve the level of support services required at each such facility for such deployment.
+(6)
+Such other support as the Deputy Secretary determines necessary in consultation with the Under Secretary, the Executive Director of the Electronic Health Record and Health Information Technology Modernization Program Management Office, and the Chief Information Officer.
+302.
+Modification of quarterly report to include information on system stability, satisfaction, morale, retention of staff, training, and change management with respect to new electronic health record of Department of Veterans Affairs
+Section 503(b) of the Veterans Benefits and Transition Act of 2018 (
+Public Law 115â407
+;
+38 U.S.C. 5701
+note prec.) is amendedâ
+(1)
+by redesignating paragraphs (1) through (6) as subparagraphs (A) through (F), respectively, and moving those subparagraphs, as so redesignated, two ems to the right;
+(2)
+in the matter preceding subparagraph (A), as designated by paragraph (1), by striking
+Not later than 30 days
+and inserting the following:
+(1)
+In general
+Not later than 30 days
+; and
+(3)
+by adding at the end the following new paragraph:
+(2)
+Additional matters To be included
+(A)
+In general
+The Secretary shall include with any update submitted under paragraph (1) on or after the date of the enactment of the
+Electronic Health Record Program Restructure, Enhance, Strengthen, and Empower Technology Act of 2023
+, with respect to the quarter covered by the report, the following:
+(i)
+Data on employee satisfaction with the new electronic health record of the Department of Veterans Affairs using credible, industry standard surveys and data analysis.
+(ii)
+Data on retention, morale, and turnover at sites using such new record.
+(iii)
+Data on satisfaction with training and change management activities provided to employees and facilities of the Department regarding such record.
+(iv)
+Data on ticket resolution and closure.
+(v)
+The specific system enhancements to include configuration changes and new service requests that have been tested and put into production for electronic health record system users and a list and description of remaining configuration changes and new service requests under development or in requirements development and the estimated date for such improvements to be tested and put into production for electronic health record system users.
+(vi)
+The system performance statistics for such record, to includeâ
+(I)
+cause, length, and source of or responsible entity for performance issues; and
+(II)
+corrective steps taken to rectify outages, performance degradations, incomplete functionality, and loss of redundancy.
+(vii)
+The health operations, productivity, and quality metrics of each facility using such new record as of the end of the quarter covered by the report compared to the health operations, productivity, and quality metrics of that facility before deployment of the new record while using the legacy VistA and related systems and compared to the national quality and access standards established by the Veterans Health Administration to evaluate performances of medical facilities under section 201(b) of the
+Electronic Health Record Program Restructure, Enhance, Strengthen, and Empower Technology Act of 2023
+.
+(viii)
+Revenue, collections, and all other financial data at facilities using such new record, including an assessment of planned versus actual revenue and collections and steps taken to remediate performance challenges as well as a comparison to revenue, collections, and all other financial data collected before the new record was in use.
+(ix)
+A description of the number of cure notices, letters of concern, and other relevant corrective contracting actions taken by the Department, the responses to those actions by relevant contractor or contractors and any credits, reimbursements, or other relevant repayment or corrective action agreed upon or issued and the dates, purposes, and reasons for issuance of such cure notices, letters of concern, and other relevant requests for corrective actions and the status or resolution of those matters.
+(B)
+Compilation of information
+The information provided under subparagraph (A) shall beâ
+(i)
+compiled in a manner that shows the information over time, at the facility level and aggregated for all facilities;
+(ii)
+compiled using industry-based questions, standards, and metrics; and
+(iii)
+informed by the unique veteran care delivery services and functions of the Department.
+.
+IV
+Contracting and acquisition oversight and reform
+401.
+Termination of contract with Oracle Cerner for training and change management
+(a)
+In general
+Not later than 275 days after the date of the enactment of this Act, the Secretary shallâ
+(1)
+terminate all contracts of the Department with Oracle Cerner for training and change management related to electronic health record modernization; and
+(2)
+cease to issue task orders for training and change management activities from Oracle Cerner or subcontractors of Oracle Cerner.
+(b)
+Replacement of services
+Before terminating all contracts of the Department with Oracle Cerner as required under subsection (a)(1), the Secretary, as the Secretary determines necessary and consistent with section 203 of this Act, shall put plans in place to replace the services provided under those contracts with a new contract or contracts, competitively procured, with companies with a proven track-record in delivering electronic health record and health information technology training and change management in medium or large health systems in the United States.
+(c)
+Report
+Not later than 200 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report on the implementation of this section.
+402.
+Strengthening contract negotiation by Department of Veterans Affairs with respect to new electronic health record and designation of lead contract negotiator
+(a)
+Designation of lead negotiator for new electronic health record
+(1)
+In general
+The Secretary shall designate one senior career official of the Department, at grade GSâ15 of the General Schedule or an equivalent or higher grade, as the lead negotiator for the Department on all current and future contracts relating to the new electronic health record of the Department (in this section referred to as the
+Negotiator
+).
+(2)
+Organization
+The Negotiator shall reside within the Office of Acquisition, Logistics, and Construction of the Department and report to the Chief Acquisition Officer of the Department.
+(3)
+Notification
+Not later than 15 days after designating the Negotiator under paragraph (1), the Secretary shall notify the appropriate committees of Congress of such designation.
+(b)
+Objective of negotiations
+The goal of contract negotiations and activities conducted by the Negotiator with respect to contracts relating to the new electronic health record of the Department are, at a minimumâ
+(1)
+to ensure that any future contracts or task orders for such a record, including modifications of existing contracts or new awards, shallâ
+(A)
+seek to protect the interest of taxpayers to the greatest extent practicable; and
+(B)
+recover, by whatever means available, direct and indirect costs that the Department and veterans have already incurred due to patient harm, poor performance, inadequate training, insufficient ticket resolution, system crashes, inefficient processes driven by new technology, extra Department personnel hours, and other factors relating to the use of the Oracle-Cerner product;
+(2)
+to consider options to descope existing contracts and secure discounted rates on future work and sustainment work;
+(3)
+to achieve aggressive industry standard service-level agreements and significant financial penalties for failure to meet those standards;
+(4)
+to contractually codify the services, technology features, and other elements that have been verbally offered to the Department at no cost by a contractor or contractors related to such new record;
+(5)
+to develop an organized and properly phased contract cancellation, transition, and replacement strategy should the negotiations not result in best value terms for the taxpayer, veterans, and medical personnel of the Department; and
+(6)
+to address issues of conflicting or duplicative contracting requirements to include those between contractors deploying various aspects of such new record and the program management office contract, including potential conflicts of interest and perverse incentives for one set of contractors to inhibit or slow the work of other contractors for potential financial gain and leverage for current and future work for the Department.
+(c)
+Coordination of activities
+The Negotiator shall closely coordinate with individuals in the Program and the Office established under section 101 who have day-to-day responsibility for existing contract oversight with respect to health record contracts and relevant health information technology contracts.
+(d)
+Consultation
+The Negotiator shall leverage and consult with all relevant stakeholders of the Department, but at a minimum the Secretary, the Deputy Secretary, the Office of General Counsel, the Under Secretary, and the Chief Information Officer and the Assistant Secretary for Information and Technology of the Department, in conducting negotiations relating to the electronic health record of the Department.
+(e)
+Assistance
+(1)
+Other Federal agencies
+In conducting negotiations relating to the new electronic health record of the Department, the Negotiator or the Secretary may request assistance from the other Federal agencies that have experienced contract negotiators, legal counsel, litigators, and other relevant personnel, particularly those with specialties and experience in health information technology acquisitions, contracts, negotiations, and litigation.
+(2)
+Outside entities
+(A)
+In general
+In conducting negotiations, the Negotiator or the Secretary may engage non-Federal, private sector, or nonprofit entities to perform independent contract and legal advisory services for the Department so as to advise the Department on options and strategies to achieve a revised, modified, or new contract for a new electronic health record that is of better value to the taxpayer or where necessary for appropriate cancellation terms and transition planning.
+(B)
+Types of entities
+In procuring services under subparagraph (A), the Negotiator and the Secretaryâ
+(i)
+shall only engage with entities that have a proven, long-term experience in delivering value and resolution to entities through high-dollar contracts, agreements, settlements, or litigation structured to deliver performance, accountability, and value to taxpayers, governments, or clients, as the case may be; and
+(ii)
+shall not engage with a company that works for Oracle, Oracle Cerner, or any subcontractor of either such company.
+(f)
+Terms relating to protection of data
+Any contract of the Department related to electronic health records entered into on or after January 1, 2018, shall include a clause or clauses, or be modified to include such clause or clauses, protecting the health and other personal identifying data of veterans to include a total prohibition on that data being monetized, sold, controlled, or otherwise misused by any internal or external entity conducting work for, with, or on behalf of the Department, including data that has gone through anonymization.
+403.
+Independent verification and validation of certain major modernization efforts of Department of Veterans Affairs
+(a)
+Contracting authority
+Not later than 90 days after the date of the enactment of this Act, the Chief Acquisition Officer of the Department of Veterans Affairs established pursuant to section 1702 of title 41, United States Code, shall enter into a contract with an eligible entity under subsection (b) to carry out the oversight functions described in subsection (c).
+(b)
+Eligibility
+An entity is eligible under this subsection if the Chief Acquisition Officer of the Department determines that, with respect to the solicitation by the Department for a contract under subsection (a), the entityâ
+(1)
+is currently performing or has performed, during the three-year period preceding the date of the issuance of such solicitation, not fewer than three prime contracts for the independent verification and validation, or equivalent technical and program oversight support, of major defense acquisition programs or priority defense business systems, in accordance with guidance of the Department of Defense relating to such acquisition programs or such business systems; and
+(2)
+is not currently performing and has not performed, for at least the five-year period preceding the date of the issuance of such solicitation, any contract or subcontract for the Department of Veterans Affairs (including such a contract or subcontract relating to a covered program).
+(c)
+Functions
+The oversight functions described in this subsection are the following:
+(1)
+Conducting an initial assessment of each covered program and submitting to the Secretary a report containing the findings of such assessment.
+(2)
+On an annual basis, conducting an overall assessment of each covered program and submitting to the Secretary a report containing the findings of each such assessment.
+(3)
+Conducting continuous oversight of the activities carried out under, and the systems associated with, each covered program, including oversight of the status, compliance, performance, and implementation of recommendations with respect to, for each covered program, the following:
+(A)
+Management, including governance, costs, and implementation milestones and timelines.
+(B)
+Contracts for implementation, including financial metrics and performance benchmarks for contractors.
+(C)
+Effect on the functions, business operations, or clinical organizational structure of the health care system of the Department.
+(D)
+Supply chain risk management, controls, and compliance.
+(E)
+Data management.
+(F)
+With respect to associated systems, the following:
+(i)
+Technical architectural design, development, and stability of the systems.
+(ii)
+System interoperability and integration with related information technology systems.
+(iii)
+System testing.
+(iv)
+Functional system training provided to users.
+(v)
+System adoption and use.
+(d)
+Submission to Congress
+Not later than 30 days after the date on which the Secretary receives any annual report under subsection (c)(2), the Secretary shall submit to the Committee on Veteransâ Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives such report.
+(e)
+Awarded amounts
+Not later than 90 days after the date on which the Chief Acquisition Officer of the Department enters into the contract under subsection (a), the Chief Financial Officer of the Department, in coordination with the heads of such office of the Department responsible for the management of a covered program, shall ensure that amounts awarded to an eligible entity under such contract are derived, in proportionate amounts, from amounts otherwise authorized to be appropriated for each such office of the Department, respectively.
+(f)
+Definitions
+In this section:
+(1)
+Covered program
+The term
+covered program
+means the following:
+(A)
+The electronic health record modernization program (or any successor program).
+(B)
+The Financial Management and Business Transformation Program (or any successor program).
+(C)
+Any program of the Department relating to supply chain modernization.
+(D)
+Any program of the Department relating to the modernization of information technology systems associated with human resources.
+(E)
+Any program of the Department relating to the Veterans Benefits Management System.
+(2)
+Priority defense business system
+The term
+priority defense business system
+has the meaning given such term in section 2222(i) of title 10, United States Code.
+(3)
+Major defense acquisition program
+The term
+major defense acquisition program
+has the meaning given such term in section 4201 of title 10, United States Code.
+404.
+Annual report on efforts to maintain VistA electronic health record system
+(a)
+In general
+Not later than 60 days after the date of the enactment of this Act, and not later than 90 days after the beginning of each fiscal year thereafter, the Secretary shall submit to the appropriate committees of Congress a report on the VistA system used by the Department.
+(b)
+Elements
+The report required by subsection (a) shall include the following:
+(1)
+The cost to maintain and strengthen the VistA system for each of fiscal years 2018 through 2022, for funding relating to both development and operations and maintenance.
+(2)
+The projected cost to maintain and strengthen such system for fiscal year 2023, for funding relating to both development and operations and maintenance.
+(3)
+The projected cost to maintain and strengthen such system for each of fiscal years 2024 through 2033, for funding relating to both development and operations and maintenance.
+(4)
+The planned enhancements underway to strengthen and secure the VistA system until its features and modules are no longer needed by the Department through such system, or have been subsumed or replaced by other programs and information technology services and systems, including cyber security enhancements, movement to the cloud, and new features and services.
+(5)
+A list of modules or features of the VistA system that are not planned to be replaced, subsumed, or otherwise incorporated into a new electronic health record or other health information technology and are planned to reside in a remnant VistA system, or successor remnant system.
+(c)
+Initial report
+The first report required by subsection (a) shall include a description of any enhancements to the VistA system that have occurred during the one-year period preceding the date of the report and those planned for the fiscal year in which the report is submitted.
+(d)
+Subsequent reports
+Each report after the first report required by subsection (a) shall include a description of any enhancements to the VistA system that have occurred during fiscal year immediately preceding the date of the report, those planned, but not implemented and an explanation for such lack of implementation and those planned for the fiscal year in which the report is submitted.
+(e)
+Termination
+This section shall terminate on the date that is 15 years after the date of the enactment of this Act.
+405.
+Report on alternatives to current electronic health record technology and contract for Department of Veterans Affairs
+(a)
+In general
+Not later than 60 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report on paths the Department and Congress should consider to achieve a modernized electronic health record as an alternative to the Oracle-Cerner product.
+(b)
+Elements
+The report required under subsection (a) shall include the following with respect to an alternative path or paths to be considered by the Department and Congress:
+(1)
+Considerations for and against such alternative path or paths.
+(2)
+Accurate reinvestment analysis of expenditures, developed consistent with cost estimation and other relevant guidance issued by the Comptroller General of the United States, already made on the modernized electronic health record as of the date of the report, including an assessment of which of those expenditures would have to be made again and which would not based on an alternative technology and contract path chosen and the ability to repurpose investments.
+(3)
+The capabilities and weaknesses of other technology solutions the Department could pursue, including an assessment of long-term value and return on investment from a health delivery, health quality, and operational perspective, and the acquisition process that could be used to procure such solutions.
+(4)
+An analysis of electronic health record and health information technology market trends, capabilities, and market leaders to include user satisfaction and health outcome statistics to the extent they are relevant to the goals and strategy of the Department.
+(5)
+An analysis of whether the Department choosing an alternative path or paths would, and to what extent, or would not impact necessary alignment with the electronic health record modernization conducted by the Department of Defense commonly known as MHS GENESIS.
+(6)
+An analysis of whether the ability to share and exchange records in an interoperable manner, and with what level of interoperability, with the Department of Defense would be negatively impacted or positively enhanced, or neither, by an alternative technology path or contract.
+(7)
+An analysis of whether the ability share and exchange records in an interoperable manner, and with what level of interoperability, with non-Federal health entities would be negatively impacted or positively enhanced, or neither, by an alternative technology path or contract.
+(8)
+An estimated timeline to restart deployment of a new electronic health record of the Department with a different vendor based on an alternative technology path or contract.
+(9)
+An assessment of options that may includeâ
+(A)
+a narrow or descoped contract supplemented by other contracts to strengthen areas in which the Oracle-Cerner product performs in a substandard fashion or is inadequate to the health delivery and operational needs of the Department; or
+(B)
+any other combination of possibilities.
+(10)
+An analysis of the strengths and weaknesses of the alternative path or paths towards the Department meeting or exceeding the highest industry interoperability standards.
+(11)
+An analysis of whether the interoperability of the Oracle-Cerner product with the private sector, the community care networks of the Department, academic hospitals, Federal health entities, and other relevant health providers, systems, and networks is demonstrably superior to other electronic health records in the health technology industry.
+(12)
+A description of which path or paths the Secretary has selected to take or not take, the reason for such selection, and the key milestones to achieve any new course of action described, including any new Departmental structures, estimated life cycle costs, and timelines.
+(13)
+Such other matters as the Secretary considers appropriate.
+406.
+Report on leadership, acquisition, and contracting oversight lessons learned
+(a)
+In general
+Not later than 180 days after the date of the enactment of this Act, the Secretary, through the Chief Acquisition Officer, the Under Secretary for Health, and the Executive Director of the Electronic Health Record and Health Information Technology Modernization Program Management Office, shall submit to the appropriate committees of Congress a report detailing the structural controls, programs, and processes the Department has or will put in to place to prevent current or future failures with respect to leadership engagement and management, strategic planning, contracting and contract oversight, and program management inâ
+(1)
+the implementation of the electronic health record modernization program of the Department from 2017 to the date of the report; and
+(2)
+any large acquisitions and major modernizations conducted, including those that are ongoing or planned by the Department after the date of the report.
+(b)
+Elements
+The report required under subsection (a) shall includeâ
+(1)
+steps to improve the composition of and management of task orders placed on the current and any future electronic health record contract or other major acquisition or modernization, including covered programs (as defined in section 403(f));
+(2)
+a timeline to achieve the reforms described in the report or the date upon which reforms already put in place were finalized and implemented;
+(3)
+a description of lessons learned regarding the need for stable consistent leadership, strategy, and management of large modernization programs and how to prevent such challenges as experienced with the electronic health record modernization initiated in 2017 from occurring again in any major program of the Department; and
+(4)
+a description of the number of acting or Senate-confirmed Deputy Secretaries of the Department and the number of leaders of the program management office of the electronic health record modernization program of the Department from 2017 to the date of the report.
+(c)
+Legislative or administrative action
+The report required by subsection (a) shall include a description of any legislative or administrative action necessary to achieve the structural controls described in such subsection.
+407.
+Report on contract savings, services provided at no cost to the Department, and contract cost incurred with respect to Oracle-Cerner product
+Not later than 90 days after the date of the enactment of this Act, the Deputy Secretary shall submit to the appropriate committees of Congress a report that contains the following:
+(1)
+A detailed list of the services, functions, or other matters that Oracle-Cerner provided to the Department without compensation since assuming ownership of Cerner in June 2022.
+(2)
+A list of specific credits or reimbursements, to include dollar amounts and an indication of the specific failure for which those credits or reimbursements are provided, Cerner or Oracle-Cerner has provided to the Department across all domains for contract failure, service-level agreement failure, performance failure, training and change management failure, ticket system failure, and related issues during the period beginning on the award of the contract to Cerner on May 17, 2018, and ending on the date of the report.
+(3)
+The estimated and known costs, both direct and indirect, incurred by all facilities using the Oracle-Cerner product as of the date of the report due toâ
+(A)
+increased staffing;
+(B)
+lost productivity;
+(C)
+increased referrals to community care;
+(D)
+copayment and debt management actions;
+(E)
+staff turnover;
+(F)
+reduced collections; and
+(G)
+other factors as determined by the Secretary.
+V
+Coordination with Department of Defense
+501.
+Quarterly reports on system uptime, modernization, and coordination activities for information technology systems and policies of Department of Defense affecting operations of Department of Veterans Affairs
+(a)
+In general
+Not later than 90 days after the date of the enactment of this Act, and not less frequently than quarterly thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the system uptime, modernization, and coordination activities for information technology systems of the Department of Defense that are relied upon by the Department of Veterans Affairs to deliver health care, compensation, memorial benefits, and other services required to be provided under the laws administered by the Secretary of Veterans Affairs.
+(b)
+Elements
+Each report required by subsection (a)â
+(1)
+shall identify steps taken by the Secretary of Defense to improve governance, coordination, and policy decisions conducted with the Secretary of Veterans Affairs related to information technology of the Department of Defense and related systems upon which the Department of Veterans Affairs has an operational dependency;
+(2)
+shall include a schedule for the modernization or replacement of key information technology and related systems of the Department of Defense upon which the Department of Veterans Affairs has an operational dependency, including the Defense Enrollment Eligibility Reporting System, or successor system;
+(3)
+shall include a schedule for the movement by the Department of Defense of the MHS GENESIS software and related systems to the cloud;
+(4)
+shall include information regarding goals for and actual uptime and stability of all information technology and related systems of the Department of Defenseâ
+(A)
+that the Department of Veterans Affairs relies on to operate, manage, or administer the current or any future electronic health record of the Department of Veterans Affairs;
+(B)
+on which the Department of Veterans Affairs has an operational dependency; or
+(C)
+that is a critical system or service relied upon by the Department of Veterans Affairs for the delivery of health care, compensation, memorial benefits, or other services;
+(5)
+shall identifyâ
+(A)
+any system or systems, infrastructure, or related entities of the Department of Defense that are critical to operations of the Department of Veterans Affairs;
+(B)
+any performance issues with respect to those systems, infrastructure, or related entities;
+(C)
+steps taken by the Secretary of Defense to remediate any such issues in the short, medium, and long term and timelines for such remediation;
+(D)
+the accountable offices within the Department of Defense for the maintenance, replacement, and stability of those systems, infrastructure, or related entities; and
+(E)
+policies and governance structures regarding collaboration and coordination with the Department of Veterans Affairs with respect to changes to those systems, infrastructure, or related entities;
+(6)
+shall include a description of the definitions, monitoring, and reporting of service level agreements between the Department of Defense and the Department of Veterans Affairs, including specific critical infrastructure availability targets, incident reporting mean time to resolution, and related matters;
+(7)
+shall include a description of the service reliability measurements in use and the previous quarterâs actual reliability data by the Department of Defense as it relates to services relied upon by the Department of Veterans Affairs measured as experienced by the Department of Veterans Affairs, inclusive of any Department of Defense network, identity, and security services dependencies;
+(8)
+shall include a complete list of incident reporting, root cause analyses, after action reporting, and preventive measures for each event in which a Department of Defense system or serviceâs degraded performance or outage caused operational harm to the Department of Veterans Affairs inclusive of network and security services degradations, outages, and related matters; and
+(9)
+may include an identification of legislative or administrative action required to accomplish the goals in the report.
+(c)
+Initial report
+The first report required under subsection (a) shall include baseline information, including current system uptime and goals and targets with respect to system uptime, and steps the Department of Defense is taking to better meet standards, goals, and targets with respect to system uptime.
+(d)
+Subsequent reports
+Each report after the first report required under subsection (a) shall, for the quarter covered by the reportâ
+(1)
+discuss updates on the information provided in previous reports, including system uptime performance;
+(2)
+indicate the performance of the Department of Defense in meeting the goals established in previous reports;
+(3)
+indicate the steps the Department of Defense is taking to address the areas in which the Department is not meeting those goals; and
+(4)
+indicate improvements to and work in progress toward strengthening policies and governance structures regarding collaboration and coordination with the Department of Veterans Affairs with respect to changes to the systems, infrastructure, or related entities with respect to which the Department of Veterans Affairs has an operational dependency.
+(e)
+Termination
+This section shall terminate on the date that is 10 years after the date of the enactment of this Act.
+(f)
+Appropriate committees of Congress defined
+In this section, the term
+appropriate committees of Congress
+meansâ
+(1)
+the Committee on Armed Services and the Committee on Veteransâ Affairs of the Senate; and
+(2)
+the Committee on Armed Services and the Committee on Veteransâ Affairs of the House of Representatives.
+502.
+Coordination with Department of Defense regarding information technology programs, systems, and services
+(a)
+In general
+Not later than 45 days after the date of the enactment of this Act, the Deputy Secretary shall submit to the appropriate committees of Congress, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives a report indicating the additional support needed by the Department from the Department of Defense to make the current and future delivery of health, benefits, memorial affairs and other services of the Department stable and successful, including through reliable availability of data and services of the information technology systems and programs of the Department of Defense, including the legacy VistA and new electronic health record of the Department.
+(b)
+Elements
+The report required under subsection (a) shall include a description of support, collaboration, and coordination, needed by the Department from the Department of Defense relating toâ
+(1)
+governance between the Department of Defense and the Department of Veterans Affairs related to information technology, systems, services, networks, and related infrastructure;
+(2)
+coordination and policy between the Department of Defense and the Department of Veterans Affairs related to information technology, systems, services, networks, and related infrastructure;
+(3)
+system availability, stability, and uptime standards of critical information technology systems, systems, services, networks, and related infrastructure;
+(4)
+definition, monitoring, and reporting of service level agreements between the Department of Defense and the Department of Veterans Affairs related to information technology, systems, services, networks, and related infrastructure;
+(5)
+service reliability measurements as experienced by the Department of Veterans Affairs, including any network, identity, and security service dependencies with the Department of Defense;
+(6)
+the current state and desired future state transparency in incident reporting, root cause, after action reporting, and preventative measures for information technology, systems, services, networks, and related infrastructure events of the Department of Defense in which the Department of Veterans Affairs has an operational dependency;
+(7)
+the current state and desired future state of network and security services of the Department of Defense on which the Department of Veterans Affairs has an operational dependency or that significantly impact the Department of Veterans Affairs;
+(8)
+a description of the key systems of the Department of Defense that the Department of Veterans Affairs believes need modernization or replacement so as to improve delivery of services to veterans and operations of the Department of Veterans Affairs; and
+(9)
+Such other related matters as the Deputy Secretary may choose to include.
+VI
+Other matters
+601.
+Report on legislative action required
+Not later than 180 days after the date of the enactment of this Act, and periodically thereafter as the Secretary considers appropriate, the Secretary shall submit to the appropriate committees of Congress a report regarding any legislative action, including resources, required to carry out this Act or implement a modernized electronic health record and related health information technology systems.
+602.
+Report on current and future State interoperability with legacy electronic health record, new electronic health record, and future potential electronic health record and other health information technology and exchanges
+(a)
+Report required
+Not later than 180 days after the date of the enactment of this Act, the Secretary shall, acting through the Under Secretary for Health, submit to the appropriate committees of Congress a report on the current state of interoperability, including the level of interoperability, with the Departmentâs legacy VistA electronic health record and legacy applications, including the Joint Longitudinal Viewer, as well as with the Oracle-Cerner product in use at five facilities of the Department between such systems, applications, and records and the Department of Defense, the private sector, the community care networks of the Department, academic hospitals, other Federal health entities, and other relevant non-Federal health providers and systems.
+(b)
+Contents
+The report submitted under subsection (a) shall include a description of the following:
+(1)
+The level of interoperability that existed before the contract with Cerner entered into on May 17, 2018, between the Department and the Department of Defense, the private sector, the community care networks of the Department, academic hospitals, other Federal health entities, and other relevant non-Federal health providers and systems, including strengths and limitations, and a description of the applications and exchanges in use by the Department to facilitate such interoperability.
+(2)
+The level of interoperability that exists as of the date of the report between the Department and the Department of Defense, the private sector, the community care networks of the Department, academic hospitals, other Federal health entities, and other relevant non-Federal health providers and systems, including strengths and limitations, and a description of the applications and exchanges in use by the Department to facilitate such interoperability that are not those procured as part of the contract with Cerner entered into on May 17, 2018.
+(3)
+The level of interoperability that exists as of the date of the report between the Department and the Department of Defense, the private sector, the community care networks of the Department, academic hospitals, other Federal health entities, and other relevant non-Federal health providers and systems, including strengths and limitations, and a description of the applications and exchanges in use by the Department to facilitate such interoperability that are solely those procured as part of the contract with Cerner entered into on May 17, 2018, and that are in use at each facility of the Department (including any subsidiary facilities, such as community-based outpatient clinics) that is using the Oracle-Cerner product under such program as of the date of the report.
+(4)
+A discussion of the limitation of the Departmentâs interoperability with whom and of what nature, if any, described in paragraphs (2) and (3) and how the Secretary foresees such limitations being resolved in whole, in part, or in no way through a continued deployment of the Oracle-Cerner product, a procurement of another electronic health record, other health information exchanges, networks, applications or solutions.
+(5)
+A comprehensive interoperability roadmap and strategy for the next five fiscal years, including goals, interoperability levels, partners, timelines, regulatory and legal limitations and challenges, and required resources and authorities to achieve such goals.
+(6)
+A description of the role interoperable data exchange plays in improving health care outcomes and care coordination for veterans who are eligible to receive health care through programs and services of the Department and whether interoperability alone improves health care outcomes, access, and quality or whether it must be part of a larger functioning electronic health record that can facilitate, among other actions, the delivery of physician orders, referrals, dispense prescriptions, schedule appointments, and other such foundational and routine elements of modern health care delivery.
+(7)
+Such other such matters as the Secretary considers appropriate, including recommendations for legislative action to achieve the goals set forth in the report.
+(c)
+Discussion
+The discussion included under subsection (b)(4) shall include the following:
+(1)
+A clear indication of what entities the Department experiences the greatest level of interoperability limitations in current state such as the Department of Defense, community care networks of the Department, academic hospitals and the Departmentâs solution or solutions for remedying those limitations.
+(2)
+A description of what current health care referral patterns, patient volumes, and networks it currently experiences the greatest volume of care referral, data exchange and interoperability transactions and how such patterns and volumes are projected to evolve and change over the next one, five, and ten fiscal years.
+(3)
+In providing the description required by paragraph (2), an indication of whether the volume of care coordination, record exchange, and related matters is expected to be greater with the Department of Defense in the next one, five, and ten fiscal years or with community care networks of the Department, academic hospitals, and other Federal and non-Federal health entities.

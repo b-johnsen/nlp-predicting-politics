@@ -1,0 +1,141 @@
+1.
+Short title
+This Act may be cited as the
+Reasonable Expectation of American Privacy Act of 2013
+or the
+REAP Act of 2013
+.
+2.
+Increased protections relating to voluntary disclosure of password information
+Section 2702
+of title 18, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+in the matter preceding paragraph (1), by striking
+subsection (b) or (c)
+and inserting
+subsection (b), (c), or (d)
+;
+(B)
+in paragraph (2), by striking
+and
+at the end;
+(C)
+in paragraph (3)â
+(i)
+by inserting after
+(not including the contents of communications covered by paragraph (1) or (2)
+the following:
+, or the password information covered by paragraph (4)
+; and
+(ii)
+by striking the period at the end and inserting
+; and
+; and
+(D)
+by inserting after paragraph (3) the following:
+(4)
+a person or entity providing an electronic communication service or a remote computing service to the public shall not knowingly divulge to any person or entity the password information pertaining to a subscriber or customer of such service.
+;
+(2)
+in subsection (c), by inserting after
+(not including the contents of communications covered by subsection (a)(1) or (2)
+the following:
+, or the password information covered by subsection (a)(4)
+;
+(3)
+by redesignating subsection (d) as subsection (e);
+(4)
+by inserting after subsection (c) the following:
+(d)
+Exceptions for Disclosure of Password Information
+A provider described in subsection (a) may divulge the password information pertaining to a subscriber or customer of such serviceâ
+(1)
+as otherwise authorized in 2703 of this title;
+(2)
+with the lawful consent of the subscriber or customer;
+(3)
+as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;
+(4)
+to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 2258A; or
+(5)
+to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of password information relating to the emergency.
+; and
+(5)
+in subsection (e), as so redesignated, by inserting after
+subsection (b)(8)
+each place it appears, the following:
+or (d)(5)
+.
+3.
+Increased protections relating to required disclosure of customer communications and password information
+(a)
+In general
+Section 2703
+of title 18, United States Code, is amendedâ
+(1)
+in subsection (a)â
+(A)
+in the first sentence, by inserting after
+A governmental entity may require the disclosure by a provider of electronic communication service
+the following:
+or remote computing service
+;
+(B)
+by striking
+in an electronic communications system for one hundred and eighty days or less
+; and
+(C)
+by striking the second sentence;
+(2)
+by amending subsection (b) to read as follows:
+(b)
+Password information
+A governmental entity may require a provider of electronic communication service or remote computing service to disclose the password information pertaining to a subscriber or customer of such service only pursuant to a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction.
+;
+(3)
+in subsection (c)(1), by inserting after
+(not including the contents of communications
+the following:
+or the password information pertaining to a subscriber or customer of such service
+; and
+(4)
+in subsection (d), by striking
+subsection (b) or (c)
+and inserting
+subsection (c)
+.
+(b)
+Conforming amendments
+Chapter 121
+of title 18, United States Code, is amendedâ
+(1)
+in section 2701(c)(3), by striking
+, 2704,
+;
+(2)
+by repealing sections 2704 and 2705; and
+(3)
+in section 2706, by striking
+section 2702, 2703, or 2704
+and inserting
+section 2702 or 2703
+.
+4.
+Password information excluded from transactional records available pursuant to a counterintelligence request
+Section 2709
+of title 18, United States Code, is amended by inserting after subsection (f), the following:
+(g)
+Password information
+A request made pursuant to subsection (b) for electronic communication transactional records may not include a request for the password information pertaining to a subscriber or customer of a provider of electronic communication service or remote computing service.
+.
+5.
+Password information excluded from tangible things required to be produced through a FISA court order
+Section 501(a)(1) of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1861(a)(1)
+) is amended by inserting after
+tangible things (including books, records, papers, documents, and other items
+the following:
+, but not including password information pertaining to a customer or subscriber of a provider of electronic communication service or remote computing service (as such terms are defined in section 2510 and 2711 of title 18, United States Code, respectively)
+.

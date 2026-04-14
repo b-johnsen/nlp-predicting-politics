@@ -1,0 +1,262 @@
+1.
+Short title
+This Act may be cited as the
+Pharmaceutical Research Transparency Act of 2022
+.
+2.
+Expansion of registry and results data bank to include costs of drug clinical trials
+(a)
+In general
+Section 402(j) of the Public Health Service Act (
+42 U.S.C. 282(j)
+) is amendedâ
+(1)
+by redesignating paragraph (7) as paragraph (8); and
+(2)
+by inserting after paragraph (6) the following new paragraph:
+(7)
+Creation of clinical trial cost data repository
+(A)
+Generally
+The Secretary, acting through the Director of NIH, shall create a publicly available Federal website to serve as a repository of cost data for all applicable drug clinical trials (in this paragraph referred to as the
+cost data repository
+). Such repository shall be searchable by the following criteria:
+(i)
+The responsible party or sponsor of the applicable drug clinical trial, or any entity funding the applicable drug clinical trial.
+(ii)
+The name of the intervention, including any drug being studied in the applicable drug clinical trial.
+(iii)
+The study phase of the applicable drug clinical trial.
+(iv)
+The start date and completion date of the applicable drug clinical trial.
+(v)
+Such other criteria as the Secretary deems appropriate.
+(B)
+Cost data defined
+For purposes of this paragraph, the term
+cost data
+includes the following information:
+(i)
+The total cost of the applicable drug clinical trial.
+(ii)
+The cost of the trial per patient.
+(iii)
+Expenditures for each of the following categories:
+(I)
+Personnel.
+(II)
+Any intervention or treatment that is administered in one or more arms of the applicable drug clinical trial.
+(III)
+Materials and supplies.
+(IV)
+Health care services provided to subjects.
+(V)
+Site management.
+(VI)
+Laboratory.
+(VII)
+Equipment.
+(VIII)
+The allocable portion of any facilities costs, administrative costs, or other costs that are not solely attributable to the applicable drug clinical trial.
+(IX)
+Such other categories as the Secretary may identify by regulation.
+(C)
+Posting of clinical trial cost data
+(i)
+In general
+Except as provided in clause (iii), each responsible party of an applicable drug clinical trial shall post cost data for that trial to the cost data repository no later than 1 year after the completion date of the trial.
+(ii)
+Format and methodology of posting
+A cost data posting under clause (i) shallâ
+(I)
+include individual data points for the information required under subparagraphs (B)(i) and (B)(ii), separated by year;
+(II)
+include individual data points for each category listed under subparagraph (B)(iii), separated by year;
+(III)
+limit the cost of the intervention or treatment under subparagraph (B)(iii)(II) to manufacturing costs unless the responsible party of the trial was required to purchase the intervention or treatment from an unaffiliated third party;
+(IV)
+include detailed documentation and methodology for the calculation of costs identified under subparagraph (B)(iii)(VIII); and
+(V)
+include a signed certification that the posted data is complete and accurate.
+(iii)
+Delayed posting of cost data and extensions
+(I)
+Seeking initial approval of drug, or approval of a new use
+If the responsible party for an applicable drug clinical trial submits a certification that paragraph (3)(E)(iv) or paragraph (3)(E)(v) applies to such trial, the responsible party shall post cost data under clause (i) at the time that clinical trial information is required to be submitted under the applicable paragraph.
+(II)
+Extension for good cause
+The Director of NIH may provide an extension of the deadline for posting of cost data under clause (i) if the responsible party for the trial submits to the Director a written request that demonstrates good cause for the extension and provides an estimate of the date on which the information will be posted. The Director of NIH may grant more than one such extension for a clinical trial, but under no circumstances shall an extension under this subclause extend beyond the date that is 18 months after the completion date of the trial.
+(III)
+Extension to establish necessary infrastructure
+If necessary to establish the necessary infrastructure to accept, organize, and post cost data submitted under clause (i), the Director of NIH may extend the deadline for the posting of cost data under clause (i) to not later than 2 years after the date of enactment of the
+Pharmaceutical Research Transparency Act of 2022
+.
+(IV)
+Rule of construction
+This clause shall not be construed to have any effect on reporting obligations of the responsible party under provisions other than this paragraph.
+(D)
+Linking to cost data repository
+(i)
+Creation of field
+The Director of NIH shall create a field within the registry and results data bank to include an electronic link to the relevant cost data posting under subparagraph (C)(i).
+(ii)
+Posting
+The responsible party for an applicable drug clinical trial shall post in the field created under clause (i) a link to the relevant cost data posting no later than 5 days after initial posting of the cost data under subparagraph (C)(i).
+(E)
+Rulemaking
+(i)
+In general
+The Secretary shall promulgate regulations to carry out this paragraph that includeâ
+(I)
+definitions for each category of information identified in subparagraph (B);
+(II)
+standards for allocating fixed expenditures across multiple years of an applicable drug clinical trial;
+(III)
+a standard format for the submission and posting of cost data under this paragraph;
+(IV)
+procedures, standards, and requirements for the reporting documentation and methodology required under subparagraph (C)(ii)(IV); and
+(V)
+any other procedures, standards, or requirements necessary to ensure public transparency of cost data as required by this paragraph.
+(ii)
+Initial regulations
+The Secretary shallâ
+(I)
+not later than one year after the date of enactment of the
+Pharmaceutical Research Transparency Act of 2022
+, propose initial regulations under clause (i); and
+(II)
+not later than 2 years after such date of enactment, finalize such regulations.
+(F)
+Applicability
+The requirements of this paragraph apply only to applicable drug clinical trials with a start date on or after the date of enactment of the
+Pharmaceutical Research Transparency Act of 2022
+.
+.
+(b)
+Conforming changes
+Section 402(j) of the Public Health Service Act (
+42 U.S.C. 282(j)
+), as amended by subsection (a), is further amendedâ
+(1)
+in paragraph (1)(A)(iv), by striking
+paragraph (2) or under paragraph (3)
+and inserting
+paragraph (2), (3), or (7)
+;
+(2)
+in paragraph (4)â
+(A)
+in subparagraph (A), by striking
+paragraph (2) or paragraph (3)
+and inserting
+paragraph (2), (3), or (7)
+; and
+(B)
+in subparagraph (B)(i), by striking
+paragraphs (2) and (3)
+each place it appears and inserting
+paragraphs (2), (3), and (7)
+; and
+(3)
+in paragraph (5)â
+(A)
+in subparagraph (A), by striking
+paragraphs (2) and (3)
+each place it appears and inserting
+paragraphs (2), (3), and (7)
+; and
+(B)
+in subparagraph (E)(i), by striking
+paragraphs (2) or (3)
+and inserting
+paragraph (2), (3), or (7)
+.
+3.
+Disclosure of research and development expenditures by drug manufacturers
+Section 13 of the Securities Exchange Act of 1934 (
+15 U.S.C. 78m
+) is amended by adding at the end the following:
+(s)
+Disclosure of research and development expenditures by drug manufacturers
+(1)
+Definitions
+In this subsection:
+(A)
+Drug
+The term
+drug
+means any product for which one or more components have been the subject of any of the following applications filed with the Food and Drug Administration:
+(i)
+A new drug application (or supplemental new drug application) filed under subsection (b) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act (
+21 U.S.C. 355
+).
+(ii)
+A biologic product application (or supplemental application) filed under subsection (a) or (k) of section 351 of the Public Health Service Act (
+42 U.S.C. 262
+).
+(B)
+Drug manufacturer issuer
+The term
+drug manufacturer issuer
+means an issuer thatâ
+(i)
+is required to file an annual report with the Commission under subsection (a); and
+(ii)
+engages in the development, manufacture, or marketing of any drug.
+(2)
+Disclosure
+(A)
+In general
+Subject to the other provisions of this paragraph, the Commission shall issue rules that require each drug manufacturer issuerâs annual report under subsection (a) to include information regarding the drug manufacturer issuerâs research and development expenditures with respect toâ
+(i)
+a drug; and
+(ii)
+any preliminary research or development of a drug product or drug substance, as those terms are defined in section 314.3 of title 21, Code of Federal Regulations (or any successor regulation) for which the drug manufacturer issuer has not submitted an application described in clause (i) or (ii) of paragraph (1)(A).
+(B)
+Initial rules
+The Commission shallâ
+(i)
+not later than 1 year after the date of enactment of the
+Pharmaceutical Research Transparency Act of 2022
+, propose initial rules under subparagraph (A); and
+(ii)
+not later than 2 years after the date of enactment described in clause (i), finalize the rules required under subparagraph (A).
+(C)
+Required information
+The information required under subparagraph (A) shall include total expenditures, which shall be disaggregated to each stage of drug research and development, includingâ
+(i)
+basic research;
+(ii)
+pre-clinical research;
+(iii)
+phase I of a clinical investigation of a new drug, as described in section 312.21(a) of title 21, Code of Federal Regulations, or any successor regulation;
+(iv)
+phase II of a clinical investigation of a new drug, as described in section 312.21(b) of title 21, Code of Federal Regulations, or any successor regulation;
+(v)
+phase III of a clinical investigation of a new drug, as described in section 312.21(c) of title 21, Code of Federal Regulations, or any successor regulation; and
+(vi)
+post-market studies or clinical trials required under section 505(o) of the Federal Food, Drug, and Cosmetic Act (
+21 U.S.C. 355(o)
+).
+(D)
+Limitations calculation
+The calculation of expenditure information disclosed under subparagraph (A) shall not include the following information, although such information may be disclosed separately:
+(i)
+Costs incurred in connection with licensing agreements or acquiring intellectual property.
+(ii)
+The cost of mergers or acquisitions.
+(iii)
+Any intangible costs, including estimates, adjustments, and assumptions related to the risk of failure, or the risk associated with seeking regulatory approval by the Food and Drug Administration or another agency.
+(iv)
+The estimated cost of capital.
+(3)
+Consultation in rulemaking
+In issuing rules under this subsection, the Commissionâ
+(A)
+shall consult with the Commissioner of Food and Drugs and the Director of the National Institutes of Health; and
+(B)
+may consult with the head of any other Federal agency or entity that the Commission determines is relevant.
+.
+4.
+Severability
+If any provision of this Act, an amendment made by this Act, or the application of any such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of the provisions of this Act, the amendments made by this Act, and the application of such provisions and amendments to any person or circumstance shall not be affected thereby.

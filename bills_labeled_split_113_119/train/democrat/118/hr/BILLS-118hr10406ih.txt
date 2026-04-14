@@ -1,0 +1,123 @@
+1.
+Short title
+This Act may be cited as the
+Patient Device Data Access Act of 2024
+.
+2.
+Sharing of patient-specific data by device manufacturers
+(a)
+In general
+Subchapter A of chapter V of the Federal Food, Drug, and Cosmetic Act (
+21 U.S.C. 351 et seq.
+) is amended by adding at the end the following:
+524C.
+Sharing of patient-specific data by device manufacturers
+(a)
+Requirement authorized
+The Secretary may require the manufacturer of a covered device, at the request of a patient who is using or has used such covered device, to disclose all patient-specific data that isâ
+(1)
+recorded or transmitted by such device; and
+(2)
+accessible to the manufacturer.
+(b)
+Regulations
+(1)
+Issuance
+Any requirement imposed on manufacturers under subsection (a) shall be by regulation.
+(2)
+Applicability to all manufacturers of covered devices
+Any requirement imposed under subsection (a) shall be applicable with respect to all manufacturers of covered devices.
+(3)
+Consideration
+In issuing any regulation under paragraph (1), the Secretary shall take into consideration the guidance issued in October 2017 by the Food and Drug Administration titled
+Manufacturers Sharing Patient-Specific Information from Medical Devices with Patients Upon Request
+.
+(4)
+Contents
+If the Secretary issues regulations under paragraph (1), the Secretary may include in such regulations provisions requiring the manufacturer of a covered device to do the following:
+(A)
+Disclose patient-specific data referred to in subsection (a), where possible, in a format that isâ
+(i)
+understandable to the patient; and
+(ii)
+at the request of the patient, to the extent practicable, in a preferred format, including an industry standard data format.
+(B)
+Receive and consider patient requests to disclose patient-specific data in a preferred format described in subparagraph (A).
+(C)
+Publish on the public website of the manufacturer of a covered deviceâ
+(i)
+an indication that such device is a covered device subject to regulation under this section;
+(ii)
+what types of patient-specific data, if any, areâ
+(I)
+being recorded or transmitted by the covered device; and
+(II)
+accessible to the manufacturer;
+(iii)
+whether the covered device operates in a closed system or otherwise collects patient-specific data that is inaccessible to the manufacturer; and
+(iv)
+whether and how the manufacturer utilizes patient data.
+(D)
+Make publicly available, by posting on the manufacturerâs website, the method by which patients who are using or have used the covered device may request their own patient-specific data described in subsection (a).
+(E)
+Notify, where possible, patients who are using or have used the covered device about how they can access patient-specific data described in subsection (a).
+(F)
+Notify patients if their covered device is subject to a recall, has a software update, or has generated an error message.
+(c)
+Exceptions
+This section does not authorize the Secretary to require the manufacturer of a covered deviceâ
+(1)
+to disclose data that isâ
+(A)
+recorded, transmitted, and retained in a closed system; and
+(B)
+inaccessible to the manufacturer;
+(2)
+to redesign the covered device to enable disclosure of patient-specific data; or
+(3)
+to disclose patient-specific data that is inaccessible to the manufacturer.
+(d)
+Definitions
+In this section:
+(1)
+The term
+covered device
+means any electronic device that isâ
+(A)
+intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease;
+(B)
+implanted into a patientâs body;
+(C)
+used for the purposes of remote monitoring; and
+(D)
+capable of recording or transmitting patient data.
+(2)
+The term
+patient-specific data
+â
+(A)
+means data unique to an individual patient or unique to the patientâs treatment or diagnosis that is recorded or transmitted by a covered device;
+(B)
+includes data described in subparagraph (A) irrespective of whether such data, absent regulation under this section, would otherwise be required by law to be disclosed to the patient or their physician; and
+(C)
+shall includeâ
+(i)
+data a health care provider inputs into a covered device to record the status, and ongoing treatment, of a patient;
+(ii)
+information recorded by a covered device regarding usage, alarms, or outputs; and
+(iii)
+pulse oximetry data, heart electrical activity data, and data on rhythms as monitored by a pace maker.
+(3)
+The term
+inaccessible to the manufacturer
+means data that is not reasonably accessible.
+.
+(b)
+Civil penalties
+Section 303(f)(1)(A) of the Federal Food, Drug, and Cosmetic Act (
+21 U.S.C. 333(f)(1)(A)
+) is amended after
+a requirement of this Act which relates to devices
+by inserting
+, including any such requirement under section 524C,
+.

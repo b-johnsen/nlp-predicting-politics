@@ -1,0 +1,58 @@
+1.
+Short title
+This Act may be cited as the
+Contingency Plan for Critical Infrastructure Act
+.
+2.
+Assessment on manual operations for critical infrastructure
+(a)
+Assessment
+(1)
+In general
+Not later than 180 days after the date of the enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency (CISA) of the Department of Homeland Security, in coordination with the Administrator of the Federal Emergency Management Agency (FEMA) and each sector risk management agency, shall provide to Congress a joint sector-by-sector assessment on the ability of critical infrastructure owners and operators to operate critical systems in a manual operating mode during cyber incidents.
+(2)
+Elements
+The assessment under paragraph (1) shall include the following:
+(A)
+An assessment of how the National Cyber Incident Response Plan (last published December 2016), accounts for the risk to critical infrastructure from not being able to rapidly transition into manually operating mode.
+(B)
+An assessment of CISAâs capabilities and responsibilities to not only remediate and respond to the digital aspects of cyber incidents, but to assist owners and operators of critical infrastructure to continue to operate key systems.
+(C)
+An assessment of how FEMAâs National Response Framework, including various Emergency Support Functions (ESFs) and Catastrophic Incident Response Teams (CIRT), are prepared to support owners and operators of critical infrastructure in events that require shifting to manual operating mode.
+(D)
+An assessment of the potential costs and challenges associated with requiring sectors to be able to shift to manual operating mode in the event of a cyber incident.
+(E)
+Policy recommendations to ensure continued operations of critical infrastructure in the event of a widespread cyber incident impacting critical infrastructure.
+(b)
+Updated planning considerations for cyber incidents
+(1)
+In general
+Not later than 180 days after the date of the enactment of this Act, the Administrator of the Federal Emergency Management Agency, in coordination with the Director of the Cybersecurity and Critical Infrastructure Agency, shall update their Planning Considerations for Cyber Incidents (last published November 2023).
+(2)
+Elements
+The updates required pursuant to paragraph (1) shall include the following:
+(A)
+Best practices and guidelines for the essential personnel of critical infrastructure owners and operators to perform mission critical functions and continue to operate critical infrastructure in a manual operating mode during a cyber incident that disables business enterprise, process control, or communications systems.
+(B)
+Steps that critical infrastructure owners and operators should take to respond to various levels of degradation to their systems to maintain operations.
+(C)
+Identifying Federal, State, and local resources available to assist owners and operators of critical infrastructure in the event that a switch to manual operating mode is necessary.
+(D)
+Specific guidelines on how to respond to and remediate the impact of cyber incidents on industrial control devices.
+(c)
+Definitions
+In this section:
+(1)
+Critical infrastructure
+The term
+critical infrastructure
+has the meaning given such term in section 1016(e) of
+Public Law 107â56
+(
+42 U.S.C. 5195c(e)
+).
+(2)
+Manual operating mode
+The term
+manual operating mode
+means a mode of operation with respect to critical infrastructure that is disconnected from the internet and with respect to which internal communication systems are degraded as a result of a cyber incident, but continues to allow such critical infrastructure to function to provide services to the public.

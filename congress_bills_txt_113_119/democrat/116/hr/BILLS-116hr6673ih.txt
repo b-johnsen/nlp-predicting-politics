@@ -1,0 +1,144 @@
+1.
+Short title
+This Act may be cited as the
+Federal Election Failsafe Act
+.
+2.
+Requiring States to establish failsafe plans for administration of elections in event of terrorist attack, cybersecurity incident, or public health emergency
+(a)
+Requirement for failsafe plans
+Title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21081
+et seq.) is amended by adding at the end the following new subtitle:
+C
+Failsafe Plans for Administration of Elections
+321.
+Requiring establishment and implementation of failsafe plans in event of terrorist attacks, cybersecurity incidents, or public health emergencies
+(a)
+Establishment of guidelines by Secretary of Homeland Security
+The Secretary of Homeland Security shall establish guidelines for the continuing administration of elections for Federal office by States in the event that a Stateâs ability to carry out the administration of such elections is adversely affected by a terrorist attack, an election cybersecurity incident, or a public health emergency.
+(b)
+Requiring States To establish and implement plans meeting guidelines
+(1)
+Requirement
+Each State shall establish and implement failsafe plans to provide for the continuing administration of elections for Federal office in the State in the event of a terrorist attack, an election cybersecurity incident, or a public health emergency which meet the guidelines established by the Secretary of Homeland Security under this subtitle.
+(2)
+Simulation exercises
+As part of the implementation of failsafe plans under this section, State and local election officials shall carry out
+tabletop
+exercises under which such officials shall respond to a simulated terrorist attack, election cybersecurity incident, and public health emergency and, based on the response, address the specific risks to the successful administration of election which are identified by such exercises. The Secretary shall assist such officials with the preparation for and implementation of such exercises.
+322.
+Purposes and elements of guidelines
+(a)
+In general
+The guidelines the Secretary established under this subtitle shall includeâ
+(1)
+guidelines for ensuring that voting systems are resilient against election cybersecurity incidents, including terrorist or state-sponsored cyber attacks, so that the systems operate as intended and accurately capture each vote as cast by voters, retain these votes, and accurately report these votes for purposes of tabulating and reporting official tallies in such elections;
+(2)
+guidelines for failsafe plans to continue the administration of elections in case an election system fails in part or in whole as the result of a terrorist attack or an election cybersecurity incident on the date of the election or during an early voting period, including plans for addressing polling location needs, based on the Secretaryâs assessment of which elements of voting systems are most critical to ensuring the continuing performance of essential election functions; and
+(3)
+guidelines for failsafe plans to continue the administration of elections through remote voting, including voting by mail, in the event that in-person voting will jeopardize the health and safety of voters and election officials because of a public health emergency.
+(b)
+Specific elements To be addressed
+The Secretary of Homeland Security shall address each of the following elements in the guidelines the Secretary establishes under this subtitle:
+(1)
+In the event that, as the result of an election cybersecurity incident, election poll books fail or that their operation does not meet the demands posed by voters presenting themselves to vote during an early voting or on the date of the election, the State shall ensure that a paper backup of all registered voters for the assigned polling location is available for immediate use by poll workers.
+(2)
+In the event that, as the result of an election cybersecurity incident, ballot marking technology fails, the Secretary shall provide paper ballots to the appropriate election officials in each congressional district in sufficient quantities to permit voting to continue. Each such ballot shall include each candidate for election for Federal office in such district. The appropriate State election officials shall provide the Secretary, at such times as the Secretary may require, with the information necessary to enable the Secretary to provide such ballots.
+(3)
+The need for conducting audits of Federal election results based upon random samples of physical ballots and electronic voting system technology to authenticate the accuracy of the data reported by polling locations, including results from local jurisdictions and statewide totals. If these random samples raise questions regarding the accuracy or reliability of the reported totals for the election, the guidelines shall provide that the Secretary shall coordinate with the appropriate election officials and make available to them security personnel to secure vote tabulation facilities and ballots, and otherwise support the efforts of such officials in ensuring the integrity of the ballots and the accuracy of the information reported.
+(4)
+The State shall have in place measures to ensure the physical security of election officials, and to ensure the safety and health of election officials in the event of a public health emergency. The Secretary shall develop and make available to the States special training programs for security personnel who are assigned to protect election officials, with a special emphasis on protecting election officials at the polling place in a manner which does not intimidate voters and which promotes an open, fair, and free voting process.
+(c)
+Consultation
+In establishing guidelines under this section, the Secretary shall consult with the Election Assistance Commission, the National Association of Secretaries of State, and the National Association of State Election Directors.
+323.
+Funding
+(a)
+Grants to election officials
+The Commission shall provide grants to eligible State and local election officials to assist such officials in meeting the requirements of this subtitle.
+(b)
+Eligibility
+A State or local election official is eligible to receive a grant under this section if the official submits to the Commission, at such time and in such form as the Commission may require, an application containing such information and assurances as the Commission may require.
+(c)
+Authorization of appropriations
+There are authorized to be appropriated $550,000,000 for grants under this section for fiscal year 2020 and each succeeding fiscal year, of whichâ
+(1)
+$400,000,000 shall be used for grants to State election officials; and
+(2)
+$150,000,000 shall be used for grants to local election officials whose jurisdictions include an urban area.
+324.
+Definitions
+In this subtitle, the following definitions apply:
+(1)
+The term
+election agency
+means any component of a State, or any component of a unit of local government in a State, which is responsible for the administration of elections for Federal office in the State.
+(2)
+The term
+election cybersecurity incident
+means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system of election infrastructure, or actually or imminently jeopardizes, without lawful authority, an information system of election infrastructure.
+(3)
+The term
+election infrastructure
+means storage facilities, polling places, and centralized vote tabulation locations used to support the administration of elections for public office, as well as related information and communications technology, including voter registration databases, voting machines, electronic mail and other communications systems (including electronic mail and other systems of election service providers who have entered into contracts with election agencies to support the administration of elections, manage the election process, and report and display election results), and other systems used to manage the election process and to report and display election results on behalf of an election agency.
+(4)
+The term
+election service provider
+means any person providing, supporting, or maintaining any information system which is part of an election infrastructure, such as a contractor or vendor.
+(5)
+The term
+information system
+means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.
+(6)
+The term
+urban area
+means an area within a Metropolitan Statistical Area, as defined by the Office of Management and Budget.
+325.
+Effective date
+This subtitle shall apply with respect to the regularly scheduled general elections for Federal office held in November 2020 and each succeeding election for Federal office.
+.
+(b)
+Conforming amendment relating to enforcement
+Section 401 of such Act (
+52 U.S.C. 21111
+) is amended by striking the period at the end and inserting the following:
+, and to enforce the requirements of subtitle C of title III.
+.
+(c)
+Clerical amendment
+The table of contents of such Act is amended by adding at the end of the items relating to title III the following:
+Subtitle CâFailsafe Plans for Administration of Elections
+Sec. 321. Requiring establishment and implementation of failsafe plans in event of terrorist attacks, cybersecurity incidents, or public health emergencies.
+Sec. 322. Purposes and elements of guidelines.
+Sec. 323. Funding.
+Sec. 324. Definitions.
+Sec. 325. Effective date.
+.
+3.
+Report on implementation by Secretary of Homeland Security
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit a report on the steps taken by the Secretary to carry out this Act and the amendments made by this Act to each of the following:
+(1)
+The Committee on Homeland Security of the House of Representatives.
+(2)
+The Committee on House Administration of the House of Representatives.
+(3)
+The Permanent Select Committee on Intelligence of the House of Representatives.
+(4)
+The Committee on Armed Services of the House of Representatives.
+(5)
+The Committee on Homeland Security and Governmental Affairs of the Senate.
+(6)
+The Committee on Rules and Administration of the Senate.
+(7)
+The Select Committee on Intelligence of the Senate.
+(8)
+The Committee on Armed Services of the Senate.
+4.
+GAO study and report on risks of reliance on electronic technologies in election administration
+(a)
+Study
+The Comptroller General of the United States shall conduct a study analyzing the risks and benefits associated with the reliance upon electronic voting technology in the administration of elections for Federal office, including the potential consequences of a systemic and comprehensive failure of such technology during early voting periods or on the date of the election.
+(b)
+Report
+Not later than 240 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report on the study conducted under subsection (a), and shall include in the report recommendations on how to mitigate the cybersecurity risks posed by the adoption and use of electronic voting systems technology in the administration of elections for Federal office.

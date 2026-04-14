@@ -1,0 +1,414 @@
+1.
+Short title
+This Act may be cited as the
+International Communications Privacy Act
+.
+2.
+Congressional findings and declaration of purpose
+Congress finds the following:
+(1)
+The Electronic Communications Privacy Act of 1986 (
+Public Law 99â508
+; 100 Stat. 1848) (referred to in this section as
+ECPA
+) was intended to protect the privacy of electronic communications and related records stored with providers of electronic communications services and remote computing services, while providing law enforcement agencies with the appropriate legal tools to compel production of information from such providers.
+(2)
+ECPA authorized governmental entities to obtain certain categories of communications data from providers using established, pre-existing forms of process, including search warrants and subpoenas. It also created a new form of court order, in section 2703(d) of title 18, United States Code, that governmental entities could use to obtain additional types of communications data.
+(3)
+Congress recognizes that there are often many interests that must be recognized when law enforcement agencies seek information from providers, such asâ
+(A)
+the legitimate needs of law enforcement agencies in the United States to obtain, through lawful process, electronic communications relevant to criminal investigations;
+(B)
+the privacy interests of all customers of the services offered by electronic communication service providers; and
+(C)
+the legitimate interests of governments to protect the human rights, civil liberties and privacy of their nationals and residents.
+(4)
+Therefore, where the Government seeks to obtain the contents of electronic communications of a national of a qualifying foreign government who is located outside of the United States, this Act authorizes the use of search warrants to compel production of that information only if the foreign government receives prior notice of the request and does not object or a judge determines that the interests of the United States in obtaining the information outweigh the interests of the qualifying foreign government in preventing the disclosure.
+3.
+Extension and clarification of warrant requirement
+(a)
+In general
+Chapter 121
+of title 18, United States Code, is amendedâ
+(1)
+in section 2702(a), by amending paragraph (3) to read as follows:
+(3)
+a provider of remote computing service or electronic communication service to the public shall not knowingly divulge to any governmental entity the contents of any communication described in section 2703(a), or any record or other information pertaining to a subscriber or customer of such service.
+;
+(2)
+in section 2703â
+(A)
+by striking subsections (a) and (b) and inserting the following:
+(a)
+Required disclosure
+A governmental entity may require the disclosure by a provider of electronic communication service or remote computing service of the contents of a wire or electronic communication that is stored, held, or maintained by the provider, regardless of where such contents may be in electronic storage or otherwise stored, held, or maintained, only pursuant to a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction.
+;
+(B)
+by redesignating subsections (c) through (g) as subsections (b) through (f), respectively;
+(C)
+in subsection (c), as so redesignated, in the first sentenceâ
+(i)
+by striking
+(b) or
+;
+(ii)
+by striking
+the contents of a wire or electronic communication, or
+; and
+(iii)
+by striking
+sought, are
+and inserting
+sought are
+; and
+(D)
+by adding at the end the following:
+(g)
+Application for warrant seeking contents of wire or electronic communication
+(1)
+In general
+An application for a warrant under this section seeking the contents of a wire or electronic communication of a subscriber or customer of an electronic communication service provider or remote computing service provider that is stored, held, or maintained by such provider shall state the nationality and location of the subscriber or customer whose communications are being sought, unless the nationality and location cannot reasonably be determined.
+(2)
+Nationality and location not reasonably determined
+If the nationality and location of the subscriber or customer cannot reasonably be determined, the application shall include a full and complete statement of the investigative steps taken to ascertain the nationality and location of the subscriber or customer.
+(3)
+Effective date
+(A)
+In general
+The requirements of paragraphs (1) and (2) shall take effect 14 days after the date on which the Attorney General first publishes a list of not less than 1 qualifying foreign country under section 2703A(e)(3).
+(B)
+Applicability
+The requirements of paragraphs (1) and (2) shall not apply during any period of time in which no country is determined by the Attorney General to be a qualifying foreign country.
+(4)
+Jurisdiction over offense
+A court may issue a warrant under this section for the contents of a wire or electronic communication only if the warrant application was madeâ
+(A)
+by a governmental entity in connection with an investigation of a criminal offense for which that entity has jurisdiction; or
+(B)
+on behalf of a foreign government investigating a criminal offense for which that foreign government has jurisdiction.
+(h)
+Rule of construction related to legal process
+Nothing in this section, section 2702, or section 2703A shall be construed to limit the authority of a governmental entity to use an administrative subpoena authorized under a Federal or State law or to use a Federal or State grand jury, trial, or civil discovery subpoena toâ
+(1)
+require an originator, addressee, or intended recipient of an electronic communication to disclose the contents of the electronic communication to the governmental entity; or
+(2)
+require an entity that provides electronic communication services to the officers, directors, employees, or agents of the entity (for the purpose of carrying out their duties) to disclose the contents of an electronic communication to or from an officer, director, employee, or agent of the entity to a governmental entity, if the electronic communication is held, stored, or maintained on an electronic communications system owned or operated by the entity.
+;
+(3)
+by inserting after section 2703 the following:
+2703A.
+Special rule for communications of non-United States subscriber or customer in qualifying foreign country
+(a)
+In general
+(1)
+Notice and opportunity to object
+Except as provided in paragraph (2), if a subscriber or customer whose communications are being sought is physically located outside the United States, is not a United States person, and is a national of or located in a qualifying foreign country, the court may issue a warrant under section 2703 for the contents of such communications only ifâ
+(A)
+the qualifying foreign country has been provided notice of the warrant application; and
+(B)
+(i)
+the Central Authority of the qualifying foreign country has provided written certification that the disclosure may be had;
+(ii)
+14 days have passed since the date on which the notice was provided under subparagraph (A) and the Central Authority of the qualifying foreign country has not initiated a challenge under subsection (c)(1); or
+(iii)
+the Central Authority of the qualifying foreign country has initiated a challenge under subsection (c)(1) and the court has denied the challenge.
+(2)
+Nationality and location not reasonably determined
+Paragraph (1) shall not apply ifâ
+(A)
+the nationality and location of the subscriber or customer whose communications are being sought cannot reasonably be determined; and
+(B)
+the requirements of section 2703(g)(2) have been met.
+(b)
+Contents of notice
+The notice required under subsection (a)(1)(A) shall includeâ
+(1)
+the name, nationality, and location of the subscriber or customer whose communications are being sought;
+(2)
+the name, nationality, and location of the service provider; and
+(3)
+a description of the events or offenses under investigation and how the communications sought are relevant and material to the investigation.
+(c)
+Challenge to warrant seeking contents of wire or electronic communication
+(1)
+In general
+Upon a motion made promptly by a service provider or by the Central Authority of a qualifying foreign country, a court receiving a warrant application under section 2703 or issuing a warrant under section 2703 for the contents of a wire or electronic communication of a subscriber or customer who is physically located outside the United States and who is not a United States person shall deny, modify, or quash the warrant, as appropriate, if the court finds thatâ
+(A)
+the subscriber or customer is a national of or located in a qualifying foreign country and the qualifying foreign country was not provided notice of the warrant application in accordance with subsection (a)(1)(A), unless the court issued an order under subsection (d)(2)(A) waiving the requirements of subsection (a)(1); or
+(B)
+(i)
+disclosure would cause the service provider to violate the laws of a foreign country; and
+(ii)
+based on the totality of the circumstances, the warrant should not be issued or enforced because the interests of the foreign country in preventing the disclosure and the penalties the service provider or any employees of the service provider would likely suffer as a result of violating the laws of the foreign country outweigh the investigative interests of the governmental entity seeking to compel the disclosure.
+(2)
+Comity analysis
+For purposes of making a determination under paragraph (1)(B)(ii), the court shall take into account, as appropriateâ
+(A)
+the laws of the foreign country;
+(B)
+the investigative interests of the governmental entity seeking to compel the disclosure;
+(C)
+the interests of the foreign government in preventing the disclosure;
+(D)
+the reasons, if any, for the objection of the foreign government;
+(E)
+the penalties the provider or any employees of the provider would likely suffer as a result of violating the laws of the foreign country;
+(F)
+the location and nationality of the subscriber or customer whose communications are being sought;
+(G)
+the location and nationality of the victims;
+(H)
+the location of the offense;
+(I)
+the seriousness of the offense;
+(J)
+the importance of the sought-after data to the investigation; and
+(K)
+the possibility of timely accessing the data through other means.
+(3)
+Disclosure obligations during pendency of challenge
+A service provider shall not be obligated to produce the contents of the communications sought during the pendency of a challenge brought under this subsection.
+(d)
+Exceptions to 14-Day notice period
+(1)
+Expedited treatment
+(A)
+In general
+A court may issue an order shortening the time period described in subsection (a)(1)(A) to a time period not less than 7 days, if the court finds, based on specific and articulable facts, that such expedited treatment is necessary to avoid one or more of the adverse results identified in section 2705(a)(2).
+(B)
+Notice
+An order issued under subparagraph (A) shall be served upon a representative of the Central Authority of the qualifying foreign country in a timely manner.
+(2)
+Delay of notice in exceptional circumstances
+(A)
+Delay of notice
+(i)
+In general
+A court receiving an application for a warrant under section 2703 for the contents of a wire or electronic communication of a subscriber or customer who is physically located outside the United States, who is not a United States person, and who is a national of or located in a qualifying foreign country may issue an order waiving the requirements of subsection (a)(1) for 90 days, if the court finds, based on specific and articulable facts, that providing notice of the warrant application to the qualifying foreign country wouldâ
+(I)
+jeopardize national security; or
+(II)
+result in one or more of the adverse results identified in section 2705(a)(2) becauseâ
+(aa)
+the potential criminal activity under investigation is sponsored or directed by the qualifying foreign country; or
+(bb)
+there is reason to believe that, notwithstanding the certification required under subsection (e)(1)(A)(ii), the qualifying foreign country would notify the subject of the investigation of the existence of the investigation, the existence of the warrant application, or both.
+(ii)
+Issuance of warrant
+Upon a finding described in clause (i), and following issuance of an order under clause (i), the court may issue the warrant forthwith.
+(B)
+Extension of order delaying notice
+An order waiving the requirements of subsection (a)(1) may be extended in 90-day increments until the investigation is completed. Any extension of an order under this subparagraph shall be made only upon a finding by the court, based on specific and articulable facts, that providing notice to the qualifying foreign country would lead to one or more of the adverse results identified in subparagraph (A)(i)(II).
+(C)
+Effect of expiration or nonrenewal
+(i)
+In general
+Upon expiration or nonrenewal of an order issued under subparagraph (A) the court shall suspend the warrant.
+(ii)
+Duration of suspension
+The suspension of a warrant under clause (i) shall remain in effect untilâ
+(I)
+the qualifying foreign country is provided notice of the warrant application; and
+(II)
+(aa)
+the Central Authority of the qualifying foreign country provides written certification that the disclosure may be had;
+(bb)
+the end of the 14-day period beginning on the date on which the notice described in clause (i) was provided to the qualifying foreign country, if during the 14-day period the Central Authority of the qualifying foreign country does not initiate a challenge under subsection (c)(1); or
+(cc)
+the Central Authority of the qualifying foreign country initiates a challenge under subsection (c)(1) and the court rules on the challenge.
+(iii)
+Immediate lift of suspension
+For purposes of clause (ii)(II)(cc), if the court denies the challenge, the court shall immediately lift the suspension.
+(e)
+Qualifying foreign country
+(1)
+Definition
+In this section, the term
+qualifying foreign country
+means a foreign country thatâ
+(A)
+has certified to the Attorney General thatâ
+(i)
+it will provide to the United States Government substantive and procedural opportunities similar to those under this section when the foreign country is seeking information about United States persons from electronic communications service providers or remote computing service providers subject to its jurisdiction; and
+(ii)
+in the event it is provided notice of an application for a warrant under subsection (a)(1)(A), upon request from the United States Government it will not notify the subject of the investigation of the existence of the investigation, the existence of the warrant application, or both; and
+(B)
+the Attorney General, in consultation with the Secretary of State, has determinedâ
+(i)
+affords robust substantive and procedural protections for privacy and civil liberties;
+(ii)
+adheres to applicable international human rights obligations and commitments;
+(iii)
+provides to the United States Government substantive and procedural opportunities similar to those under this section when the foreign country is seeking information about United States persons from electronic communication service providers or remote computing service providers subject to its jurisdiction; and
+(iv)
+will not unnecessarily impede legitimate criminal investigations or otherwise undermine the foreign relations of the United States as a result of receiving notice of warrant applications and the opportunity to initiate a challenge to such applications.
+(2)
+Determination required
+Not later than 60 days after the date on which the Attorney General receives the certifications described in paragraph (1)(A) from a foreign country, the Attorney General, in consultation with the Secretary of State, shall determine whether the country satisfies the requirements described in paragraph (1)(B). If the Attorney General determines a country satisfies the requirements described in paragraph (1)(B), the Attorney General shall add the country to the list of qualifying foreign countries under paragraph (3).
+(3)
+List of qualifying foreign countries
+The Attorney General shallâ
+(A)
+publish and make publicly available a list of the countries that satisfy the requirements described in paragraph (1);
+(B)
+add to the list published under subparagraph (A) any country that comes into compliance with the requirements described in paragraph (1); and
+(C)
+remove from the list published under subparagraph (A) any country that ceases to comply with the requirements described in paragraph (1).
+(f)
+Rule of construction related to national security and intelligence operations
+Nothing in this section shall be construed to affect, impact, or in any way impede terrorism investigations, military operations, or operations or activities under the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1801
+et seq.).
+;
+(4)
+in section 2704(a)(1), by striking
+section 2703(b)(2)
+and inserting
+section 2703
+; and
+(5)
+in section 2711â
+(A)
+in paragraph (3)(B) by striking
+warrants; and
+and inserting
+warrants;
+;
+(B)
+in paragraph (4) by striking
+thereof.
+and inserting
+thereof;
+; and
+(C)
+by adding at the end the following:
+(5)
+the term
+United States person
+means a citizen of the United States or an alien lawfully admitted for permanent residence (as defined in section 101(a) of the Immigration and Nationality Act (
+8 U.S.C. 1101(a)
+));
+(6)
+the term
+Central Authority
+means the agency, department, office, or authority of a country responsible for administering law enforcement requests between that country and another country; and
+(7)
+the term
+national of a foreign country
+means a citizen, a lawful resident, or an entity organized under the laws of a foreign jurisdiction.
+.
+(b)
+Technical and conforming amendments
+Title 18, United States Code, is amendedâ
+(1)
+in section 2258A(h)(1), by striking
+section 2703(f)
+and inserting
+section 2703(e)
+;
+(2)
+in section 2705â
+(A)
+in subsection (a)(1), by striking
+section 2703(b)
+each place the term appears and inserting
+section 2703
+; and
+(B)
+in subsection (b), by striking
+section 2703(b)(1)
+and inserting
+section 2703
+;
+(3)
+in section 2707â
+(A)
+in subsection (a), by striking
+section 2703(e)
+and inserting
+section 2703(d)
+; and
+(B)
+in subsection (e)(1), by striking
+section 2703(f)
+and inserting
+section 2703(e)
+; and
+(4)
+in section 3486(a)(1)(C)(i), by striking
+section 2703(c)(2)
+and inserting
+section 2703(b)(2)
+.
+(c)
+Rule of construction
+Nothing in this Act or the amendments made by this Act shall be construed to expand the investigative authority of any governmental entity.
+(d)
+Table of sections
+The table of sections for
+chapter 121
+of title 18, United States Code, is amended by inserting after the item relating to
+section 2703
+the following:
+2703A. Special rule for communications of non-United States subscriber or customer in qualifying
+foreign country.
+.
+4.
+Mutual legal assistance treaty reforms
+(a)
+Mutual legal assistance treaty transparency and efficiency
+(1)
+In general
+Not later than 180 days after the date of enactment of this Act, the Attorney General shall establishâ
+(A)
+a form for use by a foreign government filing a mutual legal assistance treaty request (referred to in this section as an
+MLAT request
+), which shallâ
+(i)
+be made available on the website of the Department of Justice; and
+(ii)
+require sufficient information and be susceptible for use by a foreign government to provide all the information necessary for the MLAT request;
+(B)
+an online docketing system for all MLAT requests, which shall allow a foreign government to track the status of an MLAT request filed by the foreign government; and
+(C)
+a process through which certified approval may be sought for disclosure pursuant to warrants issued under section 2703(a).
+(2)
+Annual publication
+Beginning not later than 1 year after the date of enactment of this Act, and each year thereafter, the Attorney General shall publish on the website of the Department of Justice statistics onâ
+(A)
+(i)
+the number of MLAT requests made by the Department of Justice to foreign governments for the purpose of obtaining the contents of an electronic communication or other information or records from a provider of electronic communications or remote computing services; and
+(ii)
+the average length of time taken by foreign governments to process the MLAT requests described in clause (i);
+(B)
+(i)
+the number of MLAT requests made to the Department of Justice by foreign governments for the purpose of obtaining the contents of an electronic communication or other information or records from a provider of electronic communications or remote computing services; and
+(ii)
+the average length of time taken by foreign governments to process the MLAT requests described in clause (i); and
+(C)
+(i)
+the number of MLAT requests made to the Department of Justice by foreign governments for the purpose of obtaining the contents of an electronic communication or other information or records from a provider of electronic communications or remote computing services; and
+(ii)
+the average length of time taken by the Department of Justice to process the MLAT requests described in clause (i).
+(3)
+Notice to department of state
+The Attorney General shall notify the Secretary of State not later than 7 days after the date on which disclosure of electronic communications content to a foreign government is made pursuant to an MLAT request.
+(b)
+Preservation of records
+The Attorney General may issue a request pursuant to section 2703(e) of title 18, United States Code, as so redesignated by section 3, upon receipt of an MLAT request that appears to be facially valid.
+(c)
+Notification to provider of MLAT request
+When the Attorney General makes use of the process provided in section 2703 of title 18, United States Code, to obtain information from an electronic communications provider or a remote computing provider based on an MLAT request, the Attorney General shall notify that provider in writing that the request has been made pursuant to a mutual legal assistance treaty.
+5.
+Sense of Congress
+It is the sense of Congress thatâ
+(1)
+data localization requirements imposed by foreign governments on data providers areâ
+(A)
+incompatible with the borderless nature of the Internet;
+(B)
+an impediment to online innovation; and
+(C)
+unnecessary to meet the needs of law enforcement; and
+(2)
+the Department of Justice, the Department of State, and the United States Trade Representatives should pursue open data flow policies with foreign nations.

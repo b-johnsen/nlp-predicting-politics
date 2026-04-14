@@ -1,0 +1,144 @@
+1.
+Short title; findings
+(a)
+Short title
+This Act may be cited as the
+Transparency and Accountability in Health Care Costs and Prices Act of 2020
+.
+(b)
+Findings
+Congress finds the following:
+(1)
+According to official estimates published by the Centers for Medicare & Medicaid Services, Americans spent a total of $3.6 trillion on health care in 2018, or $11,172 per person.
+(2)
+Spending on hospital care services reached $1.2 trillion in 2018 and rose by 4.5 percent from the previous year. This growth occurred even as Americans made fewer hospital visits because of growth in hospital prices.
+(3)
+Spending on physician visits and clinical services reached $725.6 billion in 2018 and rose by 4.1 percent from the previous year.
+(4)
+Spending on prescription drugs reached $335 billion in 2018 and rose by 2.5 percent from the previous year.
+(5)
+According to a 2019 analysis of a subset of commercial insurance claims by the independent, non-partisan Health Care Cost Institute, prices for common medical services could vary up to 25 times between different metro areas and up to 39 times for the same service within the same metro area.
+(6)
+A 2015 analysis of a subset of commercial insurance claims by Yale, University of Pennsylvania, Carnegie Mellon, and MIT researchers found that even within one hospital, prices for certain common services like lower limb MRIs, knee replacements, and colonoscopies could vary by 23.5 percent on average depending on which insurer covered the patient.
+(7)
+Information about contracts between providers and insurers available to researchers, policymakers, and the public is limited or incomplete because these contracts frequently prohibit disclosure of information about how providers are paid.
+(8)
+All-payer claims databases (APCDs) are large-scale databases increasingly adopted by States to collect health care claims data across different payers such as private insurers, government employee health plans, Medicare, and Medicaid.
+(9)
+APCD data can be shared with vetted and authorized users to make it easier to track trends in health care prices, create tools for consumers to check price and quality, assist employers and health plans in making more informed decisions when developing employer-sponsored health plans, test new ideas for holding down health care costs, and guide policymakers in developing health care policy.
+(10)
+In 2019, the independent, non-partisan RAND Corporation published the first broad-based study reporting prices paid by private health plans to hospitals identified by name. This important study tracked important disparities in price trends across the nation, with relative prices increasing rapidly from 2015 to 2017 for hospitals in some States, while falling in others. This work was made possible in part through the use of data from APCDs in New Hampshire and Colorado.
+(11)
+Since 2015, Oregon has used data from its APCD to review insurersâ proposed premium rates, including determining whether or not proposed premiums are excessive. Oregon has also used its APCD to create an annual report on hospital reimbursement variations from different insurers.
+(12)
+Minnesota and Virginia have used data from their APCDs to shine a spotlight on spending for low-valueâpossibly even unnecessaryâmedical services.
+(13)
+Washington State has used data from its APCD to create the Washington HealthCareCompare tool that helps patients learn about local prices for medical services at local doctorsâ offices, hospitals, and outpatient centers, and puts those prices in context by highlighting what kinds of prices can be considered typical, low, or high. Additional States that have developed price transparency tools from their APCDs include New Hampshire, Maine, Massachusetts, Colorado, Maryland, and Rhode Island.
+(14)
+According to the APCD Council, a learning collaborative of public and private organizations working on developing and establishing APCDs, at least 18 States have enacted State laws establishing APCDs.
+(15)
+While many States have or are considering establishing APCDs, current APCDs vary in the types of data collected, the types of users allowed to access the data, the types of data that can be published, and how much authorized users are charged to access the data.
+(16)
+A 2016 Supreme Court decision, Gobeille v. Liberty Mutual Insurance Co., prohibited States from requiring claim submissions to APCDs from large employers that pay for health benefits directly instead of purchasing health coverage from insurance companies. This limited the data that States could mandate for inclusion in an APCD.
+(17)
+Supporting the establishment of APCDs is an important way to promote transparency and understanding of overall health care spending.
+(18)
+State APCDs should be encouraged to collect data from more types of payers; make it easier and more affordable for APCD data to be used to assist patients and providers in making informed choices about care; make it easier and more affordable for APCD data to be used for efforts to bring health care cost growth under control and improve insurance coverage; and permit their data to be used to report provider-level prices.
+2.
+Requiring the Secretary of Health and Human Services to establish a grant program for purposes of facilitating State efforts to establish or maintain all-payer claims databases
+Part C of title XXVII of the Public Health Service Act (
+42 U.S.C. 300ggâ91
+et seq.) is amended by adding at the end the following new section:
+2795.
+All-payer claims database grant program
+(a)
+In general
+Not later than 1 year after the date of the enactment of this section, the Secretary shall establish a grant program (in this section referred to as the
+program
+) for purposes of awarding grants to States to facilitate such States in establishing or maintaining an all-payer claims database.
+(b)
+Use of funds
+A State use funds from a grant awarded under the program for any of the following:
+(1)
+To establish a State or regional all-payer claims database or to maintain an existing such database.
+(2)
+To expand the capabilities of an existing such database (such as through improving the collection of data contained in such database or improving the dissemination of such data).
+(c)
+Eligibility
+To be eligible to receive a grant under the program, a State (or compact of States) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may specify. Such information shall include the following:
+(1)
+A specification of how the State (or compact of States) will ensure uniform data collection through the all-payer claims database.
+(2)
+A description of privacy and security protections for data submitted to such database, including a specification of how the State (or compact of States) will ensure thatâ
+(A)
+no individually identifiable health information is disclosed to the public;
+(B)
+access to such information is limited to staff with appropriate security and privacy training;
+(C)
+effective security standards for transferring such data or making such data available to authorized uses of such database are maintained;
+(D)
+a process for providing access to such data for such users is secure and maintains the confidentiality of any individually identifiable health information is established;
+(E)
+such database adheres to best security practices relating to the management and use of such data, consistent with any applicable Federal law; and
+(F)
+users of such database are prohibited from attempting to reidentify such data and penalized for any such attempt.
+(3)
+A specification of whether submission of data to such database is (or will be) mandatory or voluntary.
+(4)
+A specification of which type of entities (such as group health plans, health insurance issues, nonfederal governmental plans, and Federal health care programs) are (or will be) submitting such data to such database.
+(5)
+A description of the types of claims included in such database (such as medical claims, pharmacy claims, and dental claims).
+(6)
+A description of the data release policy in effect (or proposed to be put into effect) with respect to data contained in such database, including a description of the type of users who are (or will be) authorized to access such data (such as employers, employee organizations, health care providers, researchers, and policymakers).
+(7)
+Any other information determined appropriate by the Secretary.
+(d)
+Award priority
+In making grants under the program, the Secretary shall prioritize applications submitted under subsection (c) that demonstrate any of the following (with higher priority being given to applications that demonstrate the greatest number of the following):
+(1)
+The all-payer claims database to be established, maintained, or expanded through such grant requires mandatory reporting of claims data to such database.
+(2)
+Such database will transition to require such mandatory reporting.
+(3)
+Data contained in such database is (or will be) easily accessible and affordable for users to access.
+(4)
+Such database permits (or will permit) such data to be viewed in a provider-specific manner.
+(5)
+A history of (or planned) partnerships with users of such database to facilitate the use of such data inâ
+(A)
+informing individuals about the cost, quality, and value of health care;
+(B)
+assisting health care providers, including hospitals, in working with individuals to make informed decisions regarding health care;
+(C)
+enabling health care providers, including hospitals, and communities to improve the furnishing of items and services and health outcomes for individuals through comparisons of such outcomes with other such providers and hospitals;
+(D)
+enabling entities that pay for items and services, including employers, employee organizations, group health plans, and health insurance issuers, to develop value-based purchasing models and improve the quality and cost of care furnished to employees or enrollees;
+(E)
+enabling group health plans and health insurance issuers to evaluate network design, network construction, and the cost of care furnished to enrollees;
+(F)
+facilitating State-led initiatives to lower health care costs and improve health care quality; or
+(G)
+promoting competition based on quality and cost.
+(e)
+Privacy regulations
+The Secretary shall promulgate regulations specifying the extent and manner to which any applicable Federal law or regulation relating to privacy shall apply to activities carried out pursuant to a grant made under the program and may issue any additional regulation determined necessary by the Secretary to ensure appropriate confidentiality of data associated with such activities.
+(f)
+Disclosure of data
+Any State (or compact of States) receiving a grant under the program to establish, maintain, or expand an all-payer claims database shall work to make all information contained in such database available to the Director of the Congressional Budget Office, the Comptroller General of the United States, the Executive Director of the Medicare Payment Advisory Commission, and the Executive Director of the Medicaid and CHIP Advisory Committee upon request, subject to any regulation described in subsection (e) and State law. Such information may be made available in the form of raw data, summary reports, or such other format determined appropriate by the requesting entity and the State (or compact of States).
+(g)
+Definition
+For purposes of this section, the term
+all-payer claims database
+means, with respect to a State (or compact of States), a State or regional database operated by (or under contract with) a State (or compact of States) that may include medical claims, pharmacy claims, dental claims, member eligibility, and provider files which are collected from private and public payers.
+(h)
+Authorization of appropriations
+There are authorized to be appropriated $100,000,000 to carry out this section.
+.
+3.
+Allowing for collection of information from self-insured group health plans
+Section 514(b) of the Employee Retirement Income Security Act of 1974 (
+29 U.S.C. 1144(b)
+) is amended by adding at the end the following new paragraph:
+(10)
+Subsection (a) shall not apply to any State law requiring a group health plan (including a self-insured group health plan) to provide claims data to an all-payer claims database (as defined in section 2795(g) of the Public Health Service Act).
+.

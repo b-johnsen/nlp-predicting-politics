@@ -1,0 +1,374 @@
+1.
+Short title
+This Act may be cited as the
+China AI Power Report Act
+.
+2.
+Sense of Congress
+It is the sense of Congress thatâ
+(1)
+export controls on artificial intelligence technologies and related capabilities must be dynamic and adaptive to effectively address the evolving national security challenges posed by the Peopleâs Republic of China (
+China
+);
+(2)
+such controls should be regularly updated to reflect rapid technological innovations, Chinaâs advancing capabilities, and emerging methods of diversion, circumvention, and avoidance, to ensure the United States maintains its strategic advantage and to protect the national security interests of the United States; and
+(3)
+to ensure Congress can exercise oversight and, as necessary, update export control authorities to enable necessary updates to export controls, Congress must be kept fully and currently informed of the current and projected future states of Chinaâs artificial intelligence capabilities.
+3.
+Report on artificial intelligence power of china
+(a)
+In general
+Not later than 180 days after the date of the enactment of this Act, and annually thereafter for 3 years, the Secretary of Commerce, in consultation with the covered agency heads, shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the advanced artificial intelligence capabilities of China, including the efforts by China relating to supply chains for advanced artificial intelligence systems.
+(b)
+Components
+Each report required under subsection (a) shall also include the following:
+(1)
+An assessment of integrated circuits designed or optimized for advanced artificial intelligence training or inference by leading artificial intelligence chip designers in China, including Huawei Technologies Co., Ltd. and Cambricon Technologies, that includesâ
+(A)
+with respect to such integrated circuits, theâ
+(i)
+total processing power;
+(ii)
+integer and floating point operations per second at relevant precision levels;
+(iii)
+memory capacity and bandwidth;
+(iv)
+interconnect bandwidth;
+(v)
+power efficiency;
+(vi)
+transistor count and die size;
+(vii)
+process node used per design;
+(viii)
+energy efficiency;
+(ix)
+manufacturing cost and yield assumptions;
+(x)
+ability of the integrated circuit to effectively run artificial intelligence models trained on a different chip designerâs integrated circuit, including measurements such as model inference in tokens per second and cost per token with and without a software application layer that improves model translation ability;
+(xi)
+the capability of the most advanced server configuration produced using the chip designerâs integrated circuits including such technical specifications like floating point operations per second, memory capacity and bandwidth, energy efficiency, and ability to function at scale; and
+(xii)
+any future specification that becomes relevant to the development of future artificial intelligence capability; and
+(B)
+with respect to such chip designersâ
+(i)
+the total number and types of integrated circuits produced in the year preceding submission of such report and the projected production number for the year proceeding submission of such report;
+(ii)
+the foundries used in the production of the integrated circuits;
+(iii)
+the software ecosystem, including any parallel computing platforms, programming models, or development frameworks that enable accelerated computing for artificial intelligence training or inference;
+(iv)
+the method and extent to which such integrated circuits are used in other countries, including in the United States; and
+(v)
+the manufacturerâs ability to produce a software application layer required to achieve an improved token per seconds and cost per token rate.
+(2)
+An assessment of leading semiconductor fabrication facilities in China that produce logic integrated circuits for use in advanced artificial intelligence training or inference, including such facilities owned or operated by the Semiconductor Manufacturing International Corporation, that includes, with respect to such facilities, theâ
+(A)
+total monthly production capacity per advanced process node with non-planar transistors or
+16/14
+nm and below and the percentage of that monthly production capacity dedicated to production of logic integrated circuits for use in advanced artificial training or inference;
+(B)
+yield for producing such logic integrated circuits for use in advanced artificial intelligence training or inference at each facility with an assessment of that yield in industry relevant terms, such as compared to Chinese firms, compared to non-Chinese firms, or how many are in current industry-leading datacenters;
+(C)
+most advanced process node under production;
+(D)
+types and volume of semiconductor manufacturing equipment used, the country of origin for such equipment, and the export control regulatory regime under which such equipment was procured;
+(E)
+collaborations, licit or illicit, between Chinese firms or their subsidiaries and non-Chinese firms and the advancements those collaborations produce for the Chinese firm;
+(F)
+progress Chinese firms are making at indigenizing export controlled technologies;
+(G)
+market share Chinese firms have in China and internationally; and
+(H)
+year-over-year trends in leading semiconductor fabrication facilities during at least the preceding 5-year period;
+(3)
+An assessment of leading semiconductor fabrication facilities in China that produce memory integrated circuits used for advanced artificial intelligence training or inference, including such facilities owned or operated by ChangXin Memory Technologies or Yangtze Memory Technologies Corp., that includesâ
+(A)
+with respect to such circuits, theâ
+(i)
+most advanced generation of high-bandwidth memory, including the technical specifications and stack height;
+(ii)
+smallest half-pitch and the per-die capacity of other dynamic random access memory integrated circuits; and
+(iii)
+highest number of layers in three-dimensional NOTâAND memory integrated circuits;
+(B)
+with respect to such facilities, theâ
+(i)
+yield and total monthly production capacity for memory integrated circuits, including dynamic random access memory such as high-bandwidth memory, and NOTâAND memory; and
+(ii)
+types and volume of semiconductor manufacturing equipment used, including the country of origin of such equipment and the export control regulatory regime such equipment was procured under.
+(C)
+collaborations, licit or illicit, between Chinese firms or their subsidiaries and non-Chinese firms and the advancements those collaborations produce for the Chinese firm;
+(D)
+progress Chinese firms are making at indigenizing export controlled technologies;
+(E)
+market share Chinese firms have in China and internationally; and
+(F)
+year-over-year trends in Chinaâs advanced memory integrated circuit production for a minimum of the 5 previous years.
+(4)
+An assessment of leading semiconductor manufacturing equipment companies in China, including NAURA Technology Group, KINGSEMI, Advanced Micro-Fabrication Equipment Inc., Shanghai Micro Electronics Equipment, and Shenzhen SiCarrier Technologies Co., Ltd, that includesâ
+(A)
+a categorical breakdown of annual unit production volume and technical specifications, including minimum feature size, throughput, and defect rate, of all major equipment classes installed or under development for wafer production in foundries in China, includingâ
+(i)
+lithography tools, including photolithography, nanoimprint, and electron beam lithography tools;
+(ii)
+etch equipment, including wet etching and dry etching;
+(iii)
+deposition equipment, including chemical vapor deposition, physical vapor deposition, and atomic layer deposition;
+(iv)
+cleaning systems;
+(v)
+chemical mechanical planarization tools;
+(vi)
+ion implantation and diffusion systems;
+(vii)
+wafer inspection, metrology, and process control tools;
+(viii)
+back-end packaging equipment, including wafer dicing equipment and wire bonders;
+(ix)
+capabilities and advancements in advanced packaging technologies;
+(x)
+thermal processing equipment;
+(xi)
+bonding equipment, including thermo compression bonders and hybrid bonders;
+(xii)
+environmental control systems;
+(xiii)
+laser systems; and
+(xiv)
+reticle and photomask writing and inspection tools;
+(B)
+the country of origin and supplier company for each piece of semiconductor manufacturing equipment used in foundries in China for advanced-node logic or high-bandwidth memory production by such companies;
+(C)
+the foreign-sourced subcomponents integrated into the semiconductor manufacturing equipment produced by such companies, including precision motion stages, lasers, electrostatic chucks, optical systems, radio frequency generators, or extreme-purity gas handling systems;
+(D)
+collaborations, licit or illicit, between Chinese firms or their subsidiaries and non-Chinese firms and the advancements those collaborations produce for the Chinese firm;
+(E)
+progress Chinese firms are making at indigenizing export controlled technologies;
+(F)
+market share Chinese firms have in China and internationally; and
+(G)
+year-over-year trends in leading semiconductor manufacturing equipment companies in China for a minimum of the 5 previous years.
+(5)
+An assessment of electronic design automation (EDA) software used in the design of integrated circuits for advanced artificial intelligence applications in China, including software developed or provided by leading Chinese EDA companies such as Empyrean Technology Co., Ltd. and Primarius Technologies Co., Ltd., that includesâ
+(A)
+with respect to such software tools, theâ
+(i)
+range of design stages supported, including front-end design such as architecture and register-transfer level design, logic synthesis, verification, physical design, place-and-route, timing closure, and final signoff;
+(ii)
+compatibility with advanced process nodes, including sub-7 nanometer technologies, gate-all-around devices, and three-dimensional integration;
+(iii)
+capabilities for designing artificial intelligence-specific components of such integrated circuits, including tensor processing cores, systolic array processing units, matrix multiplier units, and high-bandwidth memory interfaces;
+(iv)
+ability to model and optimize for power, performance, and thermal constraints in artificial intelligence workloads;
+(v)
+scale and performance of the software in handling large designs, such as chips exceeding 50â100 billion transistors; and
+(vi)
+integration with cloud compute resources or distributed workflows for large-scale artificial intelligence chip development;
+(B)
+with respect to such companies, theâ
+(i)
+total market share within China and internationally, including the share of advanced-node integrated circuits designed or optimized for advanced artificial intelligence training or inference designs supported by each company; and
+(ii)
+types, volume, and origin of critical technology components used in software development, including intellectual property cores, third-party libraries, verification suites, and artificial intelligence-assisted optimization algorithms;
+(C)
+progress Chinese firms are making at indigenizing export-controlled or foreign-origin technologies used in EDA, including high-performance computing integration, advanced verification engines, and proprietary intellectual property cores;
+(D)
+year-over-year trends for Chinaâs EDA industry over a minimum of the previous 5 years, including technology adoption, market share, and software capability evolution; and
+(E)
+identification of technical gaps relative to leading global EDA providers, particularly in relation to artificial intelligence-focused design, advanced nodes, and large-scale verification.
+(6)
+An assessment of the advanced artificial intelligence models determined by the Secretary to be the most relevant to the national security of the United States that were developed by artificial intelligence laboratories or companies based in China, especially those laboratories and companies affiliated with the Peopleâs Liberation Army or any university in China, including the most advanced models, open-weight and closed-weight models, based on model size, total compute used during training, benchmark performance, and any other advanced capabilities the Secretary determines relevant, that includes, with respect to each such modelâ
+(A)
+the number of model parameters;
+(B)
+the total training compute used, measured in floating-point operations and their relevant precision level;
+(C)
+the model performance on benchmark tasks;
+(D)
+an evaluation of the extent to which the model exhibits advanced cyber offensive capabilities, an advanced understanding of biological and virological application domains, and the ability to substantially automate or accelerate artificial intelligence research, and a comparison of such models to the most advanced artificial intelligence models from United States developers;
+(E)
+if the model is open-weight, an evaluation of the files provided and the security implications of following the developerâs deployment instructions;
+(F)
+a description of the algorithmic alignment training used;
+(G)
+the type and scale of compute infrastructure used in training and inference, including the cluster configurations, the number and type of integrated circuits specifically designed or optimized for advanced artificial intelligence training or inference, how such integrated circuits were acquired and from which companies, where those clusters are located, and how they are being accessed;
+(H)
+the manner and extent to which the model is used throughout society in China, including throughout the following industries or sectors:
+(i)
+the Peopleâs Liberation Army;
+(ii)
+the surveillance and intelligence collection functions of the Chinese Communist Party (CCP), including the genocide of Uyghur Muslims and other religious and ethnic minorities in the Xinjiang Uyghur Autonomous Region;
+(iii)
+the Government of China;
+(iv)
+business and finance;
+(v)
+education;
+(vi)
+healthcare;
+(vii)
+critical infrastructure sectors, including the power grid and transportation; and
+(viii)
+any other sectors that the Secretary determines to be relevant, such as high-risk industries where artificial intelligence failure would have outsized safety or mission consequences.
+(I)
+whether and where such models are deployed for public use, including API access or mobile app deployment;
+(J)
+the manner and extent to which such models are diffused in other countries, including the United States;
+(K)
+the alignment of those models to CCP propaganda;
+(L)
+the potential of those models to inject or create vulnerabilities for users or other ways they could be used to further CCP national security objectives;
+(M)
+an assessment of global market share of Chinese models and the effect that global market share is enabling China to set artificial intelligence hardware or software standards; and
+(N)
+the total number of tokens inferenced globally using the model, the types of hardware utilized for such inference and the percent breakdown between company of origin for such hardware, and the percentage of global inferenced tokens attributable to the model.
+(7)
+An assessment of emerging artificial intelligence research in China, based on indicators such as academic publications, patent filings, and research funding, includingâ
+(A)
+the development of novel artificial intelligence algorithms and techniques, including advancements in reinforcement learning, natural language processing, or computer vision, with a focus on algorithms and techniques most relevant for developing or deploying the most advanced artificial intelligence systems;
+(B)
+advancements in hardware designed to enhance artificial intelligence capabilities, including custom integrated circuits, quantum computing technologies, or neuromorphic computing systems, with a focus on hardware advancements most relevant for developing or deploying the most advanced artificial intelligence systems;
+(C)
+the scale and focus of research efforts, including the number of researchers, institutions, and collaborations involved, and the funding levels and sources, with a focus on those most relevant for developing or deploying the most advanced frontier artificial intelligence systems;
+(D)
+an evaluation of the potential impact of such research on future artificial intelligence capabilities relevant to national security competitiveness; and
+(E)
+a description of licit or illicit methods or tactics such as unauthorized model distillation used by Chinese entities to steal non-Chinese artificial intelligence related intellectual property.
+(8)
+An assessment of the aggregate public funding and capital flows supporting artificial intelligence development in China, includingâ
+(A)
+the sum total of Chinaâs national, provincial, and municipal investment in artificial intelligence;
+(B)
+subsidies that are underwriting the costs of artificial intelligence development in areas such as compute, infrastructure, water, and energy;
+(C)
+an assessment of foreign capital investments, including the total amount invested and a breakdown by entity, including the country of origin and the amount invested; and
+(D)
+an assessment of the PRC-based entities that have received the funding, including the name of the entity and the amount of funding received.
+(9)
+The aggregate artificial intelligence computational capacity in China, includingâ
+(A)
+a detailed analysis of computational capacity of the 5 most capable entities in China, including the number and types of integrated circuits and server systems used and their aggregate computational power;
+(B)
+the countries and companies with respect to which China sourced their computational capacity; and
+(C)
+the locations and specifications, including energy and computational capacity, of datacenters used for advanced artificial intelligence training and inference.
+(10)
+An assessment of leading humanoid robot manufacturers in China, including Unitree Robotics and Fourier, that includesâ
+(A)
+with respect to such manufacturers, theâ
+(i)
+production capacity per year; and
+(ii)
+unit cost and pricing trends for such robots intended for commercial deployment; and
+(B)
+with respect to the humanoid robots produced by such manufacturesâ
+(i)
+the number, type, and country and company of origin of the semiconductor components, including integrated circuits, used to build, run, or train such robots;
+(ii)
+the country and company of origin and the technical specifications of critical components used in such robots, including actuators, sensors, and battery systems, and if not Chinese, the progress toward indigenization;
+(iii)
+a description of the tasks such robots can perform;
+(iv)
+whether such robots are teleoperated, operated through hard-coded instructions, or function autonomously using artificial intelligence models;
+(v)
+whether inference is performed locally or via remote cloud services;
+(vi)
+the number of such robots deployed across China, including in the military, manufacturing, logistics, health care, security, and personal assistance sectors;
+(vii)
+the extent to which, and ways in which, such robots are diffused in other countries, including in the United States; and
+(viii)
+an assessment of the cybersecurity and other vulnerabilities of Chinese origin robotic systems.
+(11)
+An assessment of the most advanced or widely used artificial intelligence-powered applications developed by Chinese entities or built on Chinese artificial intelligence models, includingâ
+(A)
+the artificial intelligence models used to power these applications, including the company and country of origin for each model and whether the models are open-weight or closed-weight;
+(B)
+the means of deployment and the extent to which such applications are used, including in the United States;
+(C)
+the purposes, capabilities, and promoted uses of the applications;
+(D)
+an analysis of how data collected or generated by the applications is used, including for artificial intelligence model training, surveillance, or other national security-relevant purposes; and
+(E)
+an evaluation of the potential risks posed by these applications to United States national security, foreign policy objectives, or data privacy.
+(12)
+An assessment of the regulatory framework governing artificial intelligence development, deployment, and usage in China, that includesâ
+(A)
+the explicit restrictions on artificial intelligence models, including laws, regulations, and government policies that directly limit or control the development, deployment, or use of artificial intelligence models in China;
+(B)
+an analysis of the implicit restrictions on artificial intelligence models, including censorship, data access limitations, or other indirect controls that may constrain artificial intelligence model capabilities;
+(C)
+how such explicit and implicit restrictions impact the development, deployment, and diffusion of artificial intelligence models both within China and internationally, including the effects on innovation, competitiveness, and national security;
+(D)
+an analysis of efforts by the CCP to acquire greater insight into advanced artificial intelligence and reduce strategic surprise, such as efforts that require advanced artificial intelligence developers to disclose information about artificial intelligence systems or provide models to government entities;
+(E)
+an analysis of efforts in China to assess or mitigate national security or public safety threats from advanced artificial intelligence systems, including efforts to prevent loss of control from autonomous artificial intelligence systems; and
+(F)
+the goals for artificial intelligence development explicitly and implicitly stated by the CCP.
+(13)
+An assessment of Chinaâs global artificial intelligence standards diplomacy efforts, includingâ
+(A)
+mapping the fora where Chinese actors aimed to shape global standards;
+(B)
+jurisdictions where Chinese-promoted standards, model laws, guidance, or procurement criteria have been adopted or referenced;
+(C)
+the effects on procurement and vendor eligibility; and
+(D)
+opportunities for the United States to shape global artificial intelligence standards and counter Chinese efforts.
+(14)
+An assessment of the degree to which entities in China remotely accessed artificial intelligence computational resources, including through cloud services, international data centers, or through circumvention or avoidance of United States export controls.
+(15)
+An assessment of the methods, pathways, quantities, and companies and countries of origin of United States-controlled integrated circuits specifically designed or optimized for advanced artificial intelligence training or inference, including graphics processing units or application-specific integrated circuits, that have been diverted to mainland China, the estimated total compute capacity enabled through these chip diversions, and the percent of Chinaâs total compute capacity enabled through these chip diversions.
+(16)
+An assessment of the effectiveness of United States export controls in restricting access by China to artificial intelligence-relevant technologies, including an identification of loopholes within United States export controls and recommendations for legislative and administrative action to strengthen export controls and enforcement that is consistent with United States national security and foreign policy objectives.
+(c)
+Prioritization
+In conducting the assessments required under subsection (b), the Secretary shall prioritize the identification and analysis ofâ
+(1)
+semiconductors, semiconductor manufacturing equipment, and critical components of semiconductor manufacturing equipment that are, or are likely to become, critical to the supply chains for the training or inference of the most advanced artificial intelligence systems; and
+(2)
+items that enable or could enable advanced model performance, are associated with systems that pose significant national security or strategic implications to the United States, or are likely to be foundational to the development of future advanced artificial intelligence systems, including those not yet deployed or publicly disclosed.
+(d)
+Reference class
+Where applicable, the Secretary shall provide context to all statistics regarding Chinaâs artificial intelligence power in the report by presenting Chinaâs capabilities and production numbers in comparison to relevant United States and partner country production numbers and capabilities.
+(e)
+Coordination with expert entities
+In carrying out this section, the Secretary may consult and coordinate with other Federal departments and agencies, private industry or research organizations, federally funded research and development centers, national laboratories, academic institutions, relevant media outlets, or any other entities with expertise in semiconductor technologies, artificial intelligence, or national security that the Secretary determines relevant.
+(f)
+Form
+The report required by subsection (a) shall be submitted in unclassified form and may contain a classified annex.
+(g)
+Mandatory unclassified elements
+In the unclassified portion of the report required under subsection (a), the Secretary shall includeâ
+(1)
+the number of integrated circuits specifically designed or optimized for advanced artificial intelligence training or inference produced by leading entities in China in the year preceding submission of such report;
+(2)
+the projected production numbers of integrated circuits from China specifically designed or optimized for advanced artificial intelligence training or inference, including identification of foundries responsible for such production, for the year proceeding submission of such report; and
+(3)
+the extent to which and ways artificial intelligence-relevant technologies in China, including integrated circuits, models, semiconductor manufacturing equipment, and humanoid robots are diffused in other countries, including the United States.
+(h)
+Definitions
+In this Act:
+(1)
+Secretary
+The term
+Secretary
+means the Secretary of Commerce.
+(2)
+Covered agency heads
+The term
+covered agency heads
+means theâ
+(A)
+Secretary of State;
+(B)
+Secretary of Defense;
+(C)
+Secretary of Energy;
+(D)
+Director of National Intelligence;
+(E)
+Director for the White House Office of Science and Technology Policy; and
+(F)
+head of any other relevant Federal department or agency the Secretary determines necessary.

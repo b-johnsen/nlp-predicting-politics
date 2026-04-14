@@ -1,0 +1,500 @@
+1.
+Short title
+This Act may be cited as the
+Ensuring Transparent Honest Information on COVIDâ19 Act
+or the
+ETHIC Act
+.
+2.
+Required reporting by State, local, Tribal, or territorial governments regarding COVIDâ19
+(a)
+In general
+As a condition on receipt of funds through a covered grant or cooperative agreement, a State, local, Tribal, or territorial government shall agree to direct the appropriate State, local, Tribal, or territorial governmental entity (including any public health department thereof) to report to the Centers for Disease Control and Prevention, with respect to the jurisdiction involved and COVIDâ19â
+(1)
+on a daily basis, the information listed in subsection (c); and
+(2)
+on a weekly basis, the information listed in subsection (d).
+(b)
+Tribal waiver
+(1)
+Review and disposition
+Upon the receipt of a written request from a Tribal government, or consortia thereof, for a waiver of the conditions specified in paragraphs (1) and (2) of subsection (a), the Director of the Centers for Disease Control and Prevention shall, not later than 30 days after receipt of such request, approve or deny it.
+(2)
+Denials
+In the case of a denial of a request under paragraph (1), the Director of the Centers for Disease Control and Prevention shallâ
+(A)
+provide to the requestor a written explanation of the reasons for the denial; and
+(B)
+provide the requestor with an opportunity to correct any deficiencies in the request.
+(c)
+Covered grant or cooperative agreement
+For purposes of this section, a covered grant or cooperative agreement is any grant or cooperative agreement awarded under any of the following laws (including any amendment made thereby):
+(1)
+This Act.
+(2)
+The Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (
+Public Law 116â123
+).
+(3)
+The Families First Coronavirus Response Act (
+Public Law 116â127
+).
+(4)
+The CARES Act (
+Public Law 116â136
+).
+(5)
+The Paycheck Protection Program and Health Care Enhancement Act (
+Public Law 116â139
+).
+(d)
+Daily reporting
+The information to be reported daily pursuant to subsection (a)(1) consists of the following:
+(1)
+Demographic characteristics, including, in a de-identified, disaggregated, and stratified manner, race, ethnicity, age, sex, geographic region, and other relevant factors of individuals tested for or diagnosed with COVIDâ19, to the extent such information is available.
+(2)
+The number of adults with a confirmed case of COVIDâ19 who are hospitalized in an intensive care bed.
+(3)
+The number of adults with a suspected case of COVIDâ19 who are hospitalized in an intensive care bed.
+(4)
+The number of adults with a confirmed case of COVIDâ19 who are hospitalized in an inpatient care bed.
+(5)
+The number of adults with a suspected case of COVIDâ19 who are hospitalized in an inpatient care bed.
+(6)
+The number of children with a confirmed case of COVIDâ19 who are hospitalized in an intensive care bed.
+(7)
+The number of children with a suspected case of COVIDâ19 who are hospitalized in an intensive care bed.
+(8)
+The number of children with a confirmed case of COVIDâ19 who are hospitalized in an inpatient care bed.
+(9)
+The number of children with a suspected case of COVIDâ19 who are hospitalized in an inpatient care bed.
+(10)
+Out of the maximum number of beds for which hospitals are licensed to operate, the percentage occupied by confirmed or suspected COVIDâ19 patients.
+(11)
+Total staffed hospital beds.
+(12)
+The numbers of diagnostic and serological tests administered for COVIDâ19, disaggregated and stratified byâ
+(A)
+the type of test; and
+(B)
+the testing positivity rate of each type of test.
+(13)
+The median turnaround time for diagnostic tests stratified by molecular and antigen tests.
+(14)
+The percentage of new cases of COVIDâ19 linked to at least one other case, and if such new cases are part of a known outbreak, identification of such outbreak.
+(15)
+The rate of transmission of COVIDâ19.
+(16)
+The number of confirmed and probable deaths as a result of COVIDâ19, de-identified and stratified by race, ethnicity, age, sex, geographic region, and other relevant factors.
+(17)
+Such other information as the Director of the Centers for Disease Control and Prevention deems to be relevant.
+(e)
+Weekly reporting
+The information to be reported weekly pursuant to subsection (a)(2) consists of the following:
+(1)
+New infections of health care workers not confirmed to have contracted COVIDâ19 outside of the workplace.
+(2)
+The median time between collection of specimens for diagnostic tests for COVIDâ19 and isolation of cases.
+(3)
+The percentage of new cases of COVIDâ19 among quarantined contacts.
+(4)
+Such other information as the Director of the Centers for Disease Control and Prevention deems to be relevant.
+(f)
+Public posting of reported data
+On a daily basis, the Director of the Centers for Disease Control and Prevention shall make the information reported pursuant to this section, excluding personally identifiable information, publicly available on the website of the Centers for Disease Control and Prevention.
+(g)
+Applicability
+The condition on funding in subsection (a) applies with respect to the obligation and expenditure by the Federal Government of funds through a covered grant or cooperative agreement on or after the date of enactment of this Act, including with respect to covered grants and cooperative agreements awarded before such date.
+3.
+Public health data system transformation
+Subtitle C of title XXVIII of the Public Health Service Act (
+42 U.S.C. 300hhâ31
+et seq.) is amended by adding at the end the following:
+2823.
+Public health data system transformation
+(a)
+Expanding CDC and public health department capabilities
+(1)
+In general
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shallâ
+(A)
+conduct activities to expand, enhance, and improve applicable public health data systems used by the Centers for Disease Control and Prevention, related to the interoperability and improvement of such systems (including as it relates to preparedness for, prevention and detection of, and response to public health emergencies); and
+(B)
+award grants or cooperative agreements to State, local, Tribal, or territorial public health departments for the expansion and modernization of public health data systems, to assist public health departments inâ
+(i)
+assessing current data infrastructure capabilities and gaps to improve and increase consistency in data collection, storage, and analysis and, as appropriate, to improve dissemination of public health-related information;
+(ii)
+improving secure public health data collection, transmission, exchange, maintenance, and analysis;
+(iii)
+improving the secure exchange of data between the Centers for Disease Control and Prevention, State, local, Tribal, and territorial public health departments, public health organizations, and health care providers, including by public health officials in multiple jurisdictions within such State, as appropriate, and by simplifying and supporting reporting by health care providers, as applicable, pursuant to State law, including through the use of health information technology;
+(iv)
+enhancing the interoperability of public health data systems (including systems created or accessed by public health departments) with health information technology, including with health information technology certified under section 3001(c)(5);
+(v)
+supporting and training data systems, data science, and informatics personnel;
+(vi)
+supporting earlier disease and health condition detection, such as through near real-time data monitoring, to support rapid public health responses;
+(vii)
+supporting activities within the applicable jurisdiction related to the expansion and modernization of electronic case reporting; and
+(viii)
+developing and disseminating information related to the use and importance of public health data.
+(2)
+Data standards
+In carrying out paragraph (1), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, as appropriate and in consultation with the National Coordinator for Health Information Technology and the Director of the Indian Health Service, designate data and technology standards (including standards for interoperability) for public health data systems, with deference given to standards published by consensus-based standards development organizations with public input and voluntary consensus-based standards bodies.
+(3)
+Tribal consultation
+The Director of the Centers for Disease Control and Prevention, the National Coordinator for Health Information Technology, and Director of the Indian Health Service, shall jointly consult with Indian Tribes and Tribal organizations prior to designating the data and technology standards under paragraph (2).
+(4)
+Public-private partnerships
+The Secretary may develop and utilize public-private partnerships for technical assistance, training, and related implementation support for State, local, Tribal, and territorial public health departments, and the Centers for Disease Control and Prevention, on the expansion and modernization of electronic case reporting and public health data systems, as applicable.
+(b)
+Requirements
+(1)
+Health information technology standards
+The Secretary may not award a grant or cooperative agreement under subsection (a)(1)(B) unless the applicant uses or agrees to use standards endorsed by the National Coordinator for Health Information Technology pursuant to section 3001(c)(1) or adopted by the Secretary under section 3004.
+(2)
+Waiver
+The Secretary may waive the requirement under paragraph (1) with respect to an applicant if the Secretary determines that the activities under subsection (a)(1)(B) cannot otherwise be carried out within the applicable jurisdiction.
+(3)
+Application
+A State, local, Tribal, or territorial health department applying for a grant or cooperative agreement under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include information describingâ
+(A)
+the activities that will be supported by the grant or cooperative agreement; and
+(B)
+how the modernization of the public health data systems involved will support or impact the public health infrastructure of the health department, including a description of remaining gaps, if any, and the actions needed to address such gaps.
+(c)
+Strategy and implementation plan
+Not later than 180 days after the date of enactment of this section, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a coordinated strategy and an accompanying implementation plan that identifies and demonstrates the measures the Secretary will utilize toâ
+(1)
+update and improve applicable public health data systems used by the Centers for Disease Control and Prevention; and
+(2)
+carry out the activities described in this section to support the improvement of State, local, Tribal, and territorial public health data systems.
+(d)
+Consultation
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall consult with State, local, Tribal, and territorial health departments, professional medical and public health associations, associations representing hospitals or other health care entities, health information technology experts, and other appropriate public or private entities regarding the implementation of the grant program under subsection (a) and the development of the coordinated strategy and accompanying implementation plan under subsection (c).
+(e)
+Technical assistance and training
+In carrying out this section, the Secretary may provide technical assistance and training related toâ
+(1)
+the exchange of information by public health data systems used by relevant health care and public health entities at the local, State, Federal, Tribal, and territorial levels; or
+(2)
+the development and utilization of public-private partnerships for implementation support applicable to this section.
+(f)
+Report to Congress
+Not later than 1 year after the date of enactment of this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives that includesâ
+(1)
+a description of any barriers toâ
+(A)
+public health authorities implementing interoperable public health data systems and electronic case reporting;
+(B)
+the exchange of information pursuant to electronic case reporting; or
+(C)
+reporting by health care providers using such public health data systems, as appropriate, and pursuant to State law;
+(2)
+an assessment of the potential public health impact of implementing electronic case reporting and interoperable public health data systems; and
+(3)
+a description of the activities carried out pursuant to this section.
+(g)
+Electronic case reporting
+In this section, the term
+electronic case reporting
+means the automated identification, generation, and bilateral exchange of reports of health events among electronic health record or health information technology systems and public health authorities.
+(h)
+Authorization of appropriations
+To carry out this section, there is authorized to be appropriated $450,000,000, to remain available until expended.
+(i)
+Tribal set-Aside
+Of the amounts authorized under subsection (h), no less than 3 percent, but up to 5 percent of such funds, shall be reserved for noncompetitive grants or cooperative agreements to Indian Tribes and Tribal organizations (as those terms are defined under section 4 of the Indian Self-Determination and Education Assistance Act).
+.
+4.
+Core public health infrastructure for State, local, Tribal, and territorial health departments
+(a)
+Program
+The Secretary of Health and Human Services (in this section referred to as the
+Secretary
+), acting through the Director of the Centers for Disease Control and Prevention, shall establish a core public health infrastructure program consisting of awarding grants under subsection (b).
+(b)
+Grants
+(1)
+Award
+For the purpose of addressing core public health infrastructure needs, the Secretaryâ
+(A)
+shall award a grant to each State health department;
+(B)
+shall award grants to, or enter into cooperative agreements with, Indian Tribes and Tribal organizations on a noncompetitive basis; and
+(C)
+may award grants on a competitive basis to State, local, Tribal, or territorial health departments.
+(2)
+Allocation
+Of the total amount of funds awarded as grants under this subsection for a fiscal yearâ
+(A)
+not less than 50 percent shall be for grants to State health departments under paragraph (1)(A);
+(B)
+not less than 5 percent shall be for grants awarded to, or cooperative agreements with, Indian Tribes and Tribal organizations under paragraph (1)(B); and
+(C)
+not less than 30 percent shall be for grants to State, local, Tribal, or territorial health departments under paragraph (1)(C).
+(c)
+Use of funds
+A State, local, Tribal, or territorial health department receiving a grant under subsection (b) shall use the grant funds to address core public health infrastructure needs, including those identified in the accreditation process under subsection (g).
+(d)
+Formula grants to state health departments
+In making grants under subsection (b)(1)(A), the Secretary shall award funds to each State health department in accordance withâ
+(1)
+a formula based on population size, burden of preventable disease and disability, and core public health infrastructure gaps, including those identified in the accreditation process under subsection (g); and
+(2)
+application requirements established by the Secretary, including a requirement that the State health department submit a plan that demonstrates to the satisfaction of the Secretary that the Stateâs health department willâ
+(A)
+address its highest priority core public health infrastructure needs; and
+(B)
+as appropriate, allocate funds to local health departments within the State.
+(e)
+Formula Grants to Indian Tribes and Tribal Organizations
+In making grants under subsection (b)(1)(B), the Secretary shall coordinate with the Director of the Indian Health Service to award funds to Indian Tribes and Tribal organizations according toâ
+(1)
+a formula that ensures baseline funding on a noncompetitive basis for each Indian Tribe or Tribal organization, or a consortia thereof, that submits an application; and
+(2)
+awards funds above the baseline according to population size, gaps in public health infrastructure, or other criteria derived through consultation with Indian Tribes and Tribal organizations.
+(f)
+Competitive grants to State, local, Tribal, and territorial health departments
+In making grants under subsection (b)(1)(C), the Secretary shall give priority to applicants demonstrating core public health infrastructure needs identified in the accreditation process under subsection (g).
+(g)
+Maintenance of effort
+(1)
+In general
+Except as provided in paragraph (2), the Secretary may award a grant to an entity under subsection (b) only if the entity demonstrates to the satisfaction of the Secretary thatâ
+(A)
+funds received through the grant will be expended only to supplement, and not supplant, non-Federal and Federal funds otherwise available to the entity for the purpose of addressing core public health infrastructure needs; and
+(B)
+with respect to activities for which the grant is awarded, the entity will maintain expenditures of non-Federal amounts for such activities at a level not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives the grant.
+(2)
+Exception
+The requirement under paragraph (1) shall not apply with respect to a grant awarded under subsection (b)(1)(B).
+(h)
+Establishment of a public health accreditation program
+(1)
+In general
+The Secretary shallâ
+(A)
+develop, and periodically review and update, standards for voluntary accreditation of State, local, Tribal, and territorial health departments and public health laboratories for the purpose of advancing the quality and performance of such departments and laboratories; and
+(B)
+implement a program to accredit such health departments and laboratories in accordance with such standards.
+(2)
+Cooperative agreement
+The Secretary may enter into a cooperative agreement with a private nonprofit entity to carry out paragraph (1).
+(i)
+Report
+The Secretary shall submit to the Congress an annual report on progress being made to accredit entities under subsection (g), includingâ
+(1)
+a strategy, including goals and objectives, for accrediting entities under subsection (g) and achieving the purpose described in subsection (g)(1)(A);
+(2)
+identification of gaps in research related to core public health infrastructure; and
+(3)
+recommendations of priority areas for such research.
+(j)
+Definition
+In this section, the term
+core public health infrastructure
+includesâ
+(1)
+workforce capacity and competency;
+(2)
+laboratory systems;
+(3)
+testing capacity, including test platforms, mobile testing units, and personnel;
+(4)
+health information, health information systems, and health information analysis;
+(5)
+disease surveillance;
+(6)
+contact tracing;
+(7)
+communications;
+(8)
+financing;
+(9)
+other relevant components of organizational capacity; and
+(10)
+other related activities.
+(k)
+Authorization of appropriations
+To carry out this section, there is authorized to be appropriated $6,000,000,000, to remain available until expended.
+5.
+Core public health infrastructure and activities for CDC
+(a)
+In general
+The Secretary of Health and Human Services (in this section referred to as the
+Secretary
+), acting through the Director of the Centers for Disease Control and Prevention, shall expand and improve the core public health infrastructure and activities of the Centers for Disease Control and Prevention to address unmet and emerging public health needs.
+(b)
+Report
+The Secretary shall submit to the Congress an annual report on the activities funded through this section.
+(c)
+Definition
+In this section, the term
+core public health infrastructure
+has the meaning given to such term in section 3.
+(d)
+Authorization of appropriations
+To carry out this section, there is authorized to be appropriated $1,000,000,000, to remain available until expended.
+6.
+Modernization of State and local health inequities data
+(a)
+In general
+Not later than 6 months after the date of enactment of this Act, the Secretary of Health and Human Services (in this section referred to as the
+Secretary
+), acting through the Director of the Centers for Disease Control and Prevention, shall award grants to State, local, and territorial health departments in order to support the modernization of data collection methods and infrastructure for the purposes of increasing data related to health inequities, such as racial, ethnic, socioeconomic, sex, gender, and disability disparities. The Secretary shallâ
+(1)
+provide guidance, technical assistance, and information to grantees under this section on best practices regarding culturally competent, accurate, and increased data collection and transmission; and
+(2)
+track performance of grantees under this section to help improve their health inequities data collection by identifying gaps and taking effective steps to support States, localities, and territories in addressing the gaps.
+(b)
+Report
+Not later than 1 year after the date on which the first grant is awarded under this section, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate an initial report detailingâ
+(1)
+nationwide best practices for ensuring States and localities collect and transmit health inequities data;
+(2)
+nationwide trends which hinder the collection and transmission of health inequities data;
+(3)
+Federal best practices for working with States and localities to ensure culturally competent, accurate, and increased data collection and transmission; and
+(4)
+any recommended changes to legislative or regulatory authority to help improve and increase health inequities data collection.
+(c)
+Final report
+Not later than December 31, 2023, the Secretary shallâ
+(1)
+update and finalize the initial report under subsection (b); and
+(2)
+submit such final report to the committees specified in such subsection.
+(d)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section $100,000,000, to remain available until expended.
+7.
+Tribal funding to research health inequities including COVIDâ19
+(a)
+In general
+Not later than 6 months after the date of enactment of this Act, the Director of the Indian Health Service, in coordination with Tribal epidemiology centers and other Federal agencies, as appropriate, shall conduct or support research and field studies for the purposes of improved understanding of Tribal health inequities among American Indians and Alaska Natives, including with respect toâ
+(1)
+disparities related to COVIDâ19;
+(2)
+public health surveillance and infrastructure regarding unmet needs in Indian country and Urban Indian communities;
+(3)
+population-based health disparities;
+(4)
+barriers to health care services;
+(5)
+the impact of socioeconomic status; and
+(6)
+factors contributing to Tribal health inequities.
+(b)
+Consultation, confer, and coordination
+In carrying out this section, the Director of the Indian Health Service shallâ
+(1)
+consult with Indian Tribes and Tribal organizations;
+(2)
+confer with Urban Indian organizations; and
+(3)
+coordinate with the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health.
+(c)
+Process
+Not later than 60 days after the date of enactment of this Act, the Director of the Indian Health Service shall establish a nationally representative panel to establish processes and procedures for the research and field studies conducted or supported under subsection (a). The Director shall ensure that, at a minimum, the panel consists of the following individuals:
+(1)
+Elected Tribal leaders or their designees.
+(2)
+Tribal public health practitioners and experts from the national and regional levels.
+(d)
+Duties
+The panel established under subsection (c) shall, at a minimumâ
+(1)
+advise the Director of the Indian Health Service on the processes and procedures regarding the design, implementation, and evaluation of, and reporting on, research and field studies conducted or supported under this section;
+(2)
+develop and share resources on Tribal public health data surveillance and reporting, including best practices; and
+(3)
+carry out such other activities as may be appropriate to establish processes and procedures for the research and field studies conducted or supported under subsection (a).
+(e)
+Report
+Not later than 1 year after expending all funds made available to carry out this section, the Director of the Indian Health Service, in coordination with the panel established under subsection (c), shall submit an initial report on the results of the research and field studies under this section toâ
+(1)
+the Committee on Energy and Commerce and the Committee on Natural Resources of the House of Representatives; and
+(2)
+the Committee on Indian Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate.
+(f)
+Tribal data sovereignty
+The Director of the Indian Health Service shall ensure that all research and field studies conducted or supported under this section are tribally directed and carried out in a manner which ensures Tribal-direction of all data collected under this sectionâ
+(1)
+according to Tribal best practices regarding research design and implementation, including by ensuring the consent of the Tribes involved to public reporting of Tribal data;
+(2)
+according to all relevant and applicable Tribal, professional, institutional, and Federal standards for conducting research and governing research ethics;
+(3)
+with the prior and informed consent of any Indian Tribe participating in the research or sharing data for use under this section; and
+(4)
+in a manner that respects the inherent sovereignty of Indian Tribes, including Tribal governance of data and research.
+(g)
+Final report
+Not later than December 31, 2023, the Director of the Indian Health Service shallâ
+(1)
+update and finalize the initial report under subsection (e); and
+(2)
+submit such final report to the committees specified in such subsection.
+(h)
+Definitions
+In this section:
+(1)
+The terms
+Indian Tribe
+and
+Tribal organization
+have the meanings given to such terms in section 4 of the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 5304
+).
+(2)
+The term
+Urban Indian organization
+has the meaning given to such term in section 4 of the Indian Health Care Improvement Act (
+25 U.S.C. 1603
+).
+(i)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section $25,000,000, to remain available until expended.
+8.
+Study examining public health data and infrastructure necessary during and after the COVIDâ19 public health emergency
+(a)
+In general
+The Secretary of Health and Human Services (in this section referred to as the
+Secretary
+) shall seek to enter into a contract with the National Academies of Sciences, Engineering, and Medicine (referred to in this section as the
+National Academies
+) not later than 30 days after the date of enactment of this Act, under which the National Academies agree to conduct a study with stakeholders from Federal agencies, State, Tribal, territorial, and local governments, research institutions, industry, and nonprofit organizations that would review the current system for public health data infrastructure and reporting and provide recommendations on needed data and system improvements for future pandemics and ongoing public health needs.
+(b)
+Submission of report
+The contract under subsection (a) shall require that the study under such subsection be completed, and a report on the resulting recommendations be submitted to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, not later than 12 months after the date the contract was executed.
+(c)
+Study topics
+The contract under subsection (a) shall require the study under such subsection toâ
+(1)
+review the current public health data systems and the reporting structure for Federal, State, Tribal, territorial, and local public health information, including vital records;
+(2)
+review current standards for reporting, quality controls, and transparency of the data;
+(3)
+examine data gaps and barriers to timely and accurate reporting and identify ways to fill those gaps;
+(4)
+examine how systems can be accessed and used by a wide range of users, including external researchers;
+(5)
+examine how different data systems interact and how different data sources can be integrated;
+(6)
+examine nontraditional data sources or alternative data gathering methods that could be used to complement traditionally collected data;
+(7)
+identify needed improvements to the public health data systems and structure, especially with regard to the needs of Tribal systems;
+(8)
+identify core elements of a
+minimum data set
+that might be used for State population surveillance, including demographic components that are necessary to ensure health equity in public health decision making;
+(9)
+examine how surveillance systems can be explicitly designed to ensure vulnerable populations (which may include racial and ethnic minorities, immigrants, individuals in nursing homes, other institutionalized populations, and individuals experiencing homelessness) are included in reporting;
+(10)
+consider how traditional and nontraditional data might be used to promote health equity across the United States and reduce racial, Tribal, and other demographic disparities;
+(11)
+examine data gaps and barriers to collecting, analyzing, and using demographic data to characterize the COVIDâ19 pandemic for public health action and research to improve public health actions and identify ways to fill those gaps; and
+(12)
+report on what is known based on existing data about how COVIDâ19 is impacting subgroups of the population with respect to access to testing and treatment (hospitalization and access to drugs and medical equipment), and health outcomes (morbidity and mortality).
+(d)
+Disaggregation of data
+To the extent feasible, the contract under subsection (a) shall require data to be disaggregated by race, ethnicity, age, gender, disability, geography, language, socioeconomic status, and other factors.

@@ -1,0 +1,279 @@
+1.
+Short title
+This Act may be cited as the
+Off-Chain Digital Commodity Transaction Reporting Act of 2023
+.
+2.
+Reporting of swaps and digital commodity transactions
+Section 2(a)(13) of the Commodity Exchange Act is amendedâ
+(1)
+by amending the paragraph heading to read as follows:
+Reporting and public availability of swap and digital commodity transaction data
+;
+(2)
+in subparagraph (A), by inserting
+or digital commodity
+after
+swap
+both places it appears;
+(3)
+in subparagraph (B)â
+(A)
+by inserting
+or digital commodity
+after
+swap
+; and
+(B)
+by inserting
+and investor protection
+before the period at the end;
+(4)
+by amending subparagraph (G) to read as follows:
+(G)
+Reporting of swaps and digital commodity transactions to registered repositories
+(i)
+Swaps
+Each swap (whether cleared or uncleared) shall be reported to a registered swap data repository.
+(ii)
+Digital commodities
+Each contract of sale of a digital commodity in interstate commerce (whether on-chain or off-chain) shall be reported to a registered digital asset repository for transactions.
+;
+(5)
+by adding at the end the following:
+(H)
+Reporting of digital commodity transactions
+(i)
+In general
+With respect to contracts of sale of digital commodities in interstate commerce that are not executed on or through a trading platform, such transactions shall be reported by the purchaser in real-time to a registered digital asset repository for transactions as soon as technologically practicable after execution of the transaction.
+(ii)
+Rule for trading platforms
+Trading platforms which facilitate contracts of sale of digital commodities in interstate commerce transactions shall be responsible for reporting all such transactions to a registered digital asset repository of transactions as soon as technically practicable after the execution of each such transaction.
+(I)
+Actual delivery of digital commodity transactions
+(i)
+In general
+In the case of a contract of sale of a digital commodity in interstate commerce, the seller of such digital commodity shall actually deliver the digital commodity into the exclusive control of the purchaser not less than 24 hours after the transaction is executed.
+(ii)
+Actual delivery
+For purposes of clause (i), actual delivery shall have occurred only ifâ
+(I)
+the transfer of the digital commodity from the seller to the purchaserâs address is recorded on the public distributed ledger for the digital commodity; or
+(II)
+with respect to off-chain digital commodity transactions on a trading platform, the trading platform reports the off-chain digital commodity transaction, which must be held in a customer segregated account, to a registered digital asset repository of transactions.
+.
+3.
+Swap data repositories and digital asset repositories of transactions
+(a)
+Commodity Exchange Act
+Section 21 of the Commodity Exchange Act (
+7 U.S.C. 24a
+) is amended to read as follows:
+21.
+Swap data repositories and digital asset repositories of transactions
+(a)
+Registration requirement
+(1)
+Requirement; authority of derivatives clearing organization
+(A)
+In general
+It shall be unlawful for any person, unless registered with the Commission, directly or indirectly to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a swap data repository or a digital asset repository of transactions.
+(B)
+Registration of derivatives clearing organizations
+A derivatives clearing organization may register as a swap data repository.
+(2)
+Inspection and examination
+Each registered swap data repository and digital asset repository of transactions shall be subject to inspection and examination by any representative of the Commission.
+(3)
+Compliance with core principles
+(A)
+In general
+To be registered, and maintain registration, as a swap data repository or a digital asset repository of transactions, the swap data repository or digital asset repository of transactions shall comply withâ
+(i)
+the requirements and core principles described in this section; and
+(ii)
+any requirement that the Commission may impose by rule or regulation pursuant to section 8a(5).
+(B)
+Reasonable discretion of repository
+Unless otherwise determined by the Commission by rule or regulation, a swap data repository or a digital asset repository of transactions described in subparagraph (A) shall have reasonable discretion in establishing the manner in which the swap data repository or the digital asset repository of transactions complies with the core principles described in this section.
+(b)
+Standard setting
+(1)
+Data identification
+(A)
+In general
+In accordance with subparagraph (B), the Commission shall prescribe standards that specify the data elements for each swap or digital commodity, digital asset, or digital collectible (as determined a collectible under section 408(m) of the Internal Revenue Code) that shall be collected and maintained by each registered swap data repository or digital asset repository of transactions, respectively.
+(B)
+Requirement
+In carrying out subparagraph (A), the Commission shall prescribe consistent data element standards applicable to registered entities and reporting counterparties.
+(2)
+Data collection and maintenance
+The Commission shall prescribe data collection and data maintenance standards for swap data repositories and digital asset repositories of transactions.
+(3)
+Comparability
+The standards prescribed by the Commission under this subsection shall be comparable to the data standards imposed by the Commission on derivatives clearing organizations in connection with the clearing of swaps or digital commodities, digital assets, or digital collectibles, as appropriate.
+(4)
+Consistent standards
+If a digital asset repository of transactions is jointly registered with the Commission and Securities and Exchange Commission and receives digital commodity, digital asset, and digital collectible transaction data, the Commission shall coordinate with the Securities and Exchange Commission and the Commissioner of the Internal Revenue Service to ensure that the data standards and elements are appropriate and consistent for use by both Commissions and the Internal Revenue Service.
+(c)
+Duties
+A swap data repository or a digital asset repository of transactions shallâ
+(1)
+accept data prescribed by the Commission for each swap or digital commodity, digital asset, or digital collectible transaction under subsection (b), respectively;
+(2)
+confirm with both counterparties to the swap or digital commodity, digital asset, or digital collectible transaction the accuracy of the data that was submitted;
+(3)
+maintain the data described in paragraph (1) in such form, in such manner, and for such period as may be required by the Commission;
+(4)
+(A)
+provide direct electronic access to the Commission (or any designee of the Commission, including another registered entity); and
+(B)
+provide the information described in paragraph (1) in such form and at such frequency as the Commission may require to comply with the public reporting requirements contained in section 2(a)(13);
+(5)
+at the direction of the Commission, establish automated systems for monitoring, screening, and analyzing swap or digital commodity, digital asset, or digital collectible data, including compliance and frequency of end user clearing exemption claims by individual and affiliated entities;
+(6)
+maintain the privacy of any and all swap or digital commodity, digital asset, or digital collectible transaction information that the swap data repository or digital asset repository of transactions, respectively, receives from a swap dealer, counterparty, or any other registered entity;
+(7)
+on a confidential basis pursuant to section 8, upon request, and after notifying the Commission of the request, make available each swap or digital commodity, digital asset, or digital collectible data obtained by the swap data repository or digital asset repository of transactions, respectively, including individual counterparty trade and position data, toâ
+(A)
+each appropriate prudential regulator;
+(B)
+the Financial Stability Oversight Council;
+(C)
+the Securities and Exchange Commission;
+(D)
+the Department of Justice; and
+(E)
+any other person that the Commission determines to be appropriate, includingâ
+(i)
+foreign financial supervisors (including foreign futures authorities);
+(ii)
+foreign central banks;
+(iii)
+foreign ministries; and
+(iv)
+other foreign authorities; and
+(8)
+establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allows timely recovery and resumption of operations and the fulfillment of the responsibilities and obligations of the organization.
+(d)
+Confidentiality agreement
+Before the swap data repository or digital asset repository of transactions may share information with any entity described in subsection (c)(7), the swap data repository or digital asset repository of transactions shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to information on swap or digital commodity, digital asset, or digital collectible (as determined a collectible under section 408(m) of the Internal Revenue Code), respectively, that is provided.
+(e)
+Designation of chief compliance officer
+(1)
+In general
+Each swap data repository or digital asset repository of transactions shall designate an individual to serve as a chief compliance officer.
+(2)
+Duties
+The chief compliance officer shallâ
+(A)
+report directly to the board or to the senior officer of the swap data repository or digital asset repository of transactions;
+(B)
+review the compliance of the swap data repository or digital asset repository of transactions with respect to requirements and core principles described in this section;
+(C)
+in consultation with the board of the swap data repository or digital asset repository of transactions, a body performing a function similar to the board of the swap data repository or digital asset repository of transactions, or senior officer of the swap data repository or digital asset repository of transactions resolve any conflicts of interest that may arise;
+(D)
+be responsible for administering each policy and procedure that is required to be established pursuant to this section;
+(E)
+ensure compliance with this Act (including regulations) relating to agreements, contracts, or transactions, including each rule prescribed by the Commission under this section;
+(F)
+establish procedures for the remediation of noncompliance issues identified by the chief compliance officer through anyâ
+(i)
+compliance office review;
+(ii)
+look-back;
+(iii)
+internal or external audit finding;
+(iv)
+self-reported error; or
+(v)
+validated complaint; and
+(G)
+establish and follow appropriate procedures for handling, management response, remediation, retesting, and closing of noncompliance issues.
+(3)
+Annual Reports
+(A)
+In general
+In accordance with rules prescribed by the Commission, the chief compliance officer shall annually prepare and sign a report that contains a description ofâ
+(i)
+the compliance of the swap data repository or the digital asset repository of transactions, as appropriate, of the chief compliance office with respect to this Act (including regulations); and
+(ii)
+each policy and procedure of the swap data repository or the digital asset repository of transactions, as appropriate, of the chief compliance officer (including the code of ethics and conflict of interest policies of the swap data repository or the digital asset repository of transactions, as appropriate).
+(B)
+Requirements
+A compliance report under subparagraph (A) shallâ
+(i)
+accompany each appropriate financial report of the swap data repository or digital asset repository of transactions that is required to be furnished to the Commission pursuant to this section; and
+(ii)
+include a certification that, under penalty of law, the compliance report is accurate and complete.
+(f)
+Core principles applicable to swap data repositories and digital asset repositories of transactions
+(1)
+Antitrust considerations
+Unless necessary or appropriate to achieve the purposes of this Act, a swap data repository or digital asset repository of transactions shall notâ
+(A)
+adopt any rule or take any actions that result in any unreasonable restraint of trade; or
+(B)
+impose any material anticompetitive burden on the trading, clearing, or reporting of transactions.
+(2)
+Governance arrangements
+Each swap data repository or digital asset repository of transactions shall establish governance arrangements that are transparentâ
+(A)
+to fulfill public interest requirements; and
+(B)
+to support the objectives of the Federal Government, owners, and participants.
+(3)
+Conflicts of interest
+Each swap data repository or digital asset repository of transactions shallâ
+(A)
+establish and enforce rules to minimize conflicts of interest in the decision-making process of the swap data repository or the digital asset repository of transactions; and
+(B)
+establish a process for resolving conflicts of interest described in subparagraph (A).
+(4)
+Additional duties developed by the Commission
+(A)
+In general
+The Commission may develop 1 or more additional duties applicable to swap data repositories or digital asset repositories of transactions.
+(B)
+Consideration of evolving standards
+In developing additional duties under subparagraph (A), the Commission may take into consideration any evolving standard of the United States or the international community.
+(C)
+Additional duties for Commission designees
+The Commission shall establish additional duties for any registered swap data repository or digital asset repository of transactions in order to minimize conflicts of interest, protect data, ensure compliance, and guarantee safety and security of the swap data repository or digital asset repository of transactions.
+(g)
+Required registration of swap data repositories and digital asset repositories of transactions
+Any person that is required to be registered as a swap data repository or a digital asset repository of transactions under this section shall register with the Commission regardless of whether that person is also licensed as a bank, trust company, money services business, or registered with the Securities and Exchange Commission as a security-based swap data repository, broker-dealer, qualified custodian, or transfer agent.
+(h)
+Dual SEC and CFTC Registration of Digital Asset Repository of Transactions
+Any person that seeks to act as a digital asset repository for transactions for digital commodities, digital assets, digital collectibles (as determined a collectible under section 408(m) of the Internal Revenue Code) shall register with the Commission and Securities and Exchange Commission subject to joint regulation by such Commissions, but only with respect to the digital commodities and digital assets subject to their respective jurisdictions.
+(i)
+Rules
+The Commission shall adopt rules governing persons that are registered under this section.
+.
+4.
+Definitions
+(a)
+In general
+Section 1a of the Commodity Exchange Act (7 U.S.C 1a) is amended by adding at the end the following:
+(52)
+Digital asset repository of transactions
+The term
+digital asset repository of transactions
+or
+DART
+means any person that collects and maintains information or records with respect to transactions or positions in, or the terms and conditions of digital commodities, digital assets, or digital collectibles (as determined a collectibles under section 408(m) of the Internal Revenue Code) entered into by third parties for the purpose of providing a centralized recordkeeping facility for digital commodities, digital assets, or digital collectibles.
+(53)
+Off-chain digital commodity transaction
+The term
+off-chain digital commodity transaction
+means any contract of sale of a digital commodity in interstate commerce which is not mined or validated and recorded on the appropriate public distributed ledger for such digital commodity within 24 hours of the transaction being entered into.
+.
+(b)
+Definition of registered entity
+Section 1a(40)(E) of the Commodity Exchange Act (
+7 U.S.C. 1a(40)(E)
+) is amended by inserting
+or a digital asset repository of transactions
+after
+section 21
+.

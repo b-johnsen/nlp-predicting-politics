@@ -1,0 +1,355 @@
+1.
+Short title
+This Act may be cited as the
+Microelectronics Research for Energy Innovation Act of 2022
+or the
+Micro Act of 2022
+.
+2.
+Definitions
+In this Act:
+(1)
+Center
+The term
+Center
+means a Microelectronics Science Research Center established pursuant to section 5.
+(2)
+Department
+The term
+Department
+means the Department of Energy.
+(3)
+Director
+The term
+Director
+means the Director of the Office of Science.
+(4)
+Historically black college or university
+The term
+historically Black college or university
+has the meaning given the term
+part B institution
+in section 322 of the Higher Education Act of 1965 (
+20 U.S.C. 1061
+).
+(5)
+Institution of higher education
+The term
+institution of higher education
+has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (
+20 U.S.C. 1001(a)
+).
+(6)
+Minority-serving institution
+The term
+minority-serving institution
+means an institution described in any of paragraphs (1) through (7) of section 371(a) of the Higher Education Act of 1965 (
+20 U.S.C. 1067q(a)
+).
+(7)
+National Laboratory
+The term
+National Laboratory
+has the meaning given the term in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+).
+(8)
+Program
+The term
+program
+means the program established under section 4(a).
+(9)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(10)
+Skilled technical workforce
+The term
+skilled technical workforce
+has the meaning given the term in section 4(b)(3) of the Innovations in Mentoring, Training, and Apprenticeships Act (
+42 U.S.C. 1862p
+note;
+Public Law 115â402
+).
+(11)
+Tribal College or University
+The term
+Tribal College or University
+has the meaning given the term in section 316 of the Higher Education Act of 1965 (
+20 U.S.C. 1059c
+).
+3.
+Findings
+Congress finds thatâ
+(1)
+the coming end of Mooreâs Law presents major technological challenges and opportunities for the United States and has important implications for national security, economic competitiveness, and scientific discovery;
+(2)
+future progress and innovation in microelectronics, and the maintenance of a robust domestic microelectronics supply chain, will require an approach that advances relevant materials science, electronic and photonic device technologies, processing and packaging technologies, manufacturing technologies, circuit, chip, and system architecture, and software system and algorithm development in a codesign fashion;
+(3)
+the National Laboratories possess unique technical expertise and user facilities that are essential toâ
+(A)
+overcoming foundational research challenges relevant to the topics described in paragraph (2); and
+(B)
+translating and transferring research outcomes to industry; and
+(4)
+the expertise and user facilities of the National Laboratories described in paragraph (3) will enable the Department to drive advances in microelectronics that are essential to meeting future needs in areas critical to the missions of the Department and the future competitiveness of the domestic microelectronics industry, including high-performance computing, emerging data-centric computing approaches and energy-efficient computing, optical sensors, sources, and wireless networks, and power electronics and electricity delivery systems.
+4.
+Microelectronics research program
+(a)
+In general
+The Secretary shall carry out a crosscutting program of research, development, and demonstration of microelectronics relevant to the missions of the Department to enable advances and breakthroughs in measurement science, standards, material characterization, instrumentation, testing, and manufacturing capabilities that willâ
+(1)
+accelerate underlying research and development for design, development, and manufacturability of next-generation microelectronics; and
+(2)
+ensure the global competitiveness of the United States in the field of microelectronics.
+(b)
+Research projects
+(1)
+In general
+In carrying out the program, the Secretary shall provide financial assistance to eligible entities described in paragraph (2) to carry out research projects inâ
+(A)
+foundational science areas, includingâ
+(i)
+materials sciences, chemical sciences, and plasma science synthesis and fabrication;
+(ii)
+novel microelectronics devices, including emerging memory and storage technologies;
+(iii)
+diverse computing architectures and paradigms, including analog computing and edge computing;
+(iv)
+data-driven modeling and simulation;
+(v)
+integrated sensing, power harvesting, and communications;
+(vi)
+component integration and subsystems;
+(vii)
+photonic integration and packaging; and
+(viii)
+development of codesign frameworks for all stages of microelectronics design, development, fabrication, and application;
+(B)
+cybersecurity by design to result in trusted and resilient microelectronics;
+(C)
+methods for leveraging advanced simulation and artificial intelligence to enhance codesign and discovery in microelectronics;
+(D)
+in consultation with the National Institute of Standards and Technology, fabrication and processing science and metrology associated with microelectronics manufacturing, including lithography, patterning, surface deposition, etching, and cleaning;
+(E)
+approaches for optimizing system-level energy efficiency of advanced computing systems, the electrical grid, power electronics, and other energy infrastructure;
+(F)
+approaches for enhancing the durability and lifetime of radiation-hardened electronics;
+(G)
+enhancement of microelectronics security, including the development of integrated devices, packages, and thermal management for severe environments and national security; and
+(H)
+in coordination with other relevant initiatives of the Department, methods to improve the lifetime, maintenance, recycling, reuse, and sustainability of microelectronics components and systems, including technologies and strategies that reduce the use of energy, water, critical materials, and other commodities that the Secretary determines are vulnerable to disruption.
+(2)
+Eligible entities
+An eligible entity referred to in paragraph (1) isâ
+(A)
+an institution of higher education, including a historically Black college or university, a Tribal College or University, and a minority-serving institution;
+(B)
+a nonprofit research organization;
+(C)
+a State research agency;
+(D)
+a National Laboratory;
+(E)
+a private commercial entity;
+(F)
+a partnership or consortium of 2 or more entities described in subparagraphs (A) through (E); and
+(G)
+any other entity that the Secretary determines appropriate.
+(3)
+Notification
+Not later than 30 days after the Secretary provides financial assistance to an eligible entity under paragraph (1), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a notification of the financial assistance provided, includingâ
+(A)
+the criteria used by the Secretary to select the eligible entity receiving the financial assistance;
+(B)
+the manner in which the criteria described in subparagraph (A) comport with the purposes of the program described in subsection (a); and
+(C)
+a description of the research project that the eligible entity will carry out using the financial assistance.
+(c)
+Technology transfer
+In carrying out the program, the Secretary, in coordination with the Director of the Office of Technology Transitions and in consultation with the private sector, shallâ
+(1)
+support translational research and transfer of microelectronics technologies; and
+(2)
+identify emerging research and development needs of industry and government for the benefit of United States economic competitiveness.
+(d)
+Workforce development
+In carrying out the program, the Secretary shall supportâ
+(1)
+workforce development through existing authorities and mechanisms available to the Department, including internships, fellowships, individual investigator grants, and other activities the Secretary determines appropriate; and
+(2)
+education and outreach activitiesâ
+(A)
+to disseminate information and promote understanding of microelectronics and related fields among students at elementary school, secondary school, high school, undergraduate, and graduate levels; and
+(B)
+that may include educational programming with an emphasis on experiential and project-based learning.
+(e)
+Outreach
+The Secretary shall conduct outreach to recruit applicants to the program and engage participants from all regions of the United States, especially individuals from underserved communities and groups historically underrepresented in science, technology, engineering, and mathematics.
+(f)
+Coordination
+In carrying out the program, the Secretary shallâ
+(1)
+coordinate across all relevant programs and offices of the Department; and
+(2)
+coordinate the research carried out under the program relating to microelectronics with activities carried out by other Federal agencies and programs relating to microelectronics research, development, manufacturing, and supply chain security, including the programs authorized under subsections (c) through (f) of section 9906 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (
+15 U.S.C. 4656
+).
+(g)
+Report
+Not later than 180 days after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report describing the goals, priorities, and anticipated outcomes of the program.
+(h)
+Funding
+There are authorized to be appropriated to the Secretary to carry out this sectionâ
+(1)
+$75,000,000 for fiscal year 2022;
+(2)
+$100,000,000 for fiscal year 2023;
+(3)
+$100,000,000 for fiscal year 2024;
+(4)
+$100,000,000 for fiscal year 2025; and
+(5)
+$100,000,000 for fiscal year 2026.
+5.
+Microelectronics Science Research Centers
+(a)
+In general
+In carrying out the program, subject to the availability of appropriations, the Director shall designate not more than 4 eligible entities as Microelectronics Science Research Centersâ
+(1)
+to conduct mission-driven research to address foundational challenges in the design, development, characterization, prototyping, demonstration, and fabrication of microelectronics; and
+(2)
+to facilitate the translation of research results to industry.
+(b)
+Eligible entities
+An eligible entity referred to in subsection (a) isâ
+(1)
+a National Laboratory;
+(2)
+an institution of higher education, including a historically Black college or university, a Tribal College or University, and a minority-serving institution;
+(3)
+a private commercial entity;
+(4)
+a research center;
+(5)
+a partnership or consortium of 2 or more entities described in paragraphs (1) through (4); and
+(6)
+any other entity that the Secretary determines appropriate.
+(c)
+Activities
+The activities of a Center shall include research, development, and demonstration activities forâ
+(1)
+accelerating the development of new microelectronics science and technology, including materials, devices, circuits, systems, architectures, fabrication tools, processes, diagnostics, modeling, synthesis, and, in consultation with the National Institute of Standards and Technology, metrology;
+(2)
+advancing the sustainability and energy efficiency of new microelectronics devices, packages, and systems;
+(3)
+application-driven codesign and prototyping of novel devices to facilitate laboratory-to-fabrication transition;
+(4)
+advancing knowledge and experimental capabilities in surface and materials science, plasma science, and computational and theoretical methods, including artificial intelligence, multiscale codesign, and advanced supercomputing capabilities to invent and manufacture revolutionary microelectronic devices;
+(5)
+creating technology testbeds for prototyping platforms for validation and verification of new capabilities and sharing of ideas, intellectual property, and the unique facilities of the Department;
+(6)
+supporting development of cybersecurity capabilities for computing architectures that measurably improve safety and security and are adaptable for existing and future applications; and
+(7)
+supporting long-term and short-term workforce development in microelectronics.
+(d)
+Request for proposals
+The Director shall, at such time, in such manner, and containing such information as the Director determines to be appropriate, issue a request for proposals from eligible entities described in subsection (b) seeking to be designated as a Center.
+(e)
+Operation
+(1)
+Duration
+(A)
+In general
+Each Center shall operate for a period of not more than 5 years, unless renewed for an additional 5-year period in accordance with subparagraph (B).
+(B)
+Renewal
+(i)
+Initial renewal
+In the case of a Center that has operated for not more than 5 years, the Director may renew support for the Center on a merit-reviewed basis for a period of not more than 5 years.
+(ii)
+10-year operation
+In the case of a Center that has operated for not less than 5 years but not more than 10 years, the Director may renew support for the Center on a competitive, merit-reviewed basis for a period of not more than 5 years.
+(iii)
+15-year operation
+In the case of a Center that has operated for not less than 10 years but not more than 15 years, the Director may renew support for the Center on a merit-reviewed basis for a period of not more than 5 years.
+(2)
+Termination
+Consistent with the existing authorities of the Department, the Director may terminate an underperforming Center during the performance period.
+(f)
+Technology transfer
+The Director, in coordination with the Director of the Office of Technology Transitions, shall seek to enter into partnerships with industry groups to facilitate the translation and transfer of research results produced by the Centers.
+(g)
+Coordination
+The Secretary shallâ
+(1)
+establish a coordinating network to coordinate cross-cutting research and foster communication and collaboration among the Centers; and
+(2)
+ensure coordination, and avoid unnecessary duplication, of the activities of each Center with the activities ofâ
+(A)
+other research entities of the Department, includingâ
+(i)
+the Nanoscale Science Research Centers;
+(ii)
+the National Quantum Information Science Research Centers;
+(iii)
+the Energy Frontier Research Centers;
+(iv)
+the Energy Innovation Hubs;
+(v)
+the National Laboratories; and
+(vi)
+other offices of the Department;
+(B)
+the national semiconductor technology center established under section 9906(c)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (
+15 U.S.C. 4656(c)(1)
+);
+(C)
+institutions of higher education;
+(D)
+industry; and
+(E)
+relevant research activities carried out by other Federal agencies.
+(h)
+Workforce development
+Each Center shall support workforce development throughâ
+(1)
+incorporation of undergraduate students, postdoctoral fellows, graduate students, and early career researchers, as well as elementary school, secondary school, and high school students, through opportunities such as dual-enrollment programs and work-based learning programs, as applicable;
+(2)
+hands-on research and equipment training programs;
+(3)
+technical training and certificate programs for the skilled technical workforce;
+(4)
+facilitation of engagement among academic, industry, and laboratory researchers; and
+(5)
+public outreach activities, including to students at elementary school, secondary school, high school, undergraduate, and graduate levels, which activities may include educational programming with an emphasis on experiential and project-based learning.
+(i)
+Outreach
+The Secretary shall conduct outreach to recruit applicants to the program and engage participants from all regions of the United States, especially individuals from underserved communities and groups historically underrepresented in science, technology, engineering, and mathematics.
+(j)
+Intellectual property
+The Secretary shall ensure that the intellectual property and value proposition created by the Centers are retained within the United States.
+(k)
+Notification
+(1)
+Definition of covered determination
+In this subsection, the term
+covered determination
+means a determination of the Secretaryâ
+(A)
+to designate an eligible entity as a Center under subsection (a);
+(B)
+to renew support for a Center under subsection (e)(1)(B); or
+(C)
+to terminate a Center under subsection (e)(2).
+(2)
+Notification
+Not later than 30 days after the Secretary makes a covered determination, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a notification of the covered determination, includingâ
+(A)
+the criteria used by the Secretary to make the covered determination; and
+(B)
+the manner in which the criteria described in subparagraph (A) comport with the purposes of the program described in subsection (a).
+(l)
+Funding
+Subject to the availability of appropriations, the Secretary shall use not more than $25,000,000 to fund each Center for each of fiscal years 2022 through 2026.

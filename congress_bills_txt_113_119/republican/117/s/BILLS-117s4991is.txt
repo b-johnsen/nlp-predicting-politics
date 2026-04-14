@@ -1,0 +1,542 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Preventing Rampant Online Technological Exploitation and Criminal Trafficking Act of 2022
+or the
+PROTECT Act
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+Sec. 3. Definitions.
+Sec. 4. Severability clause.
+TITLE IâRegulating the uploading of pornographic images to online platforms
+Sec. 101. Verification obligations of covered platform operators.
+Sec. 102. Removal of images distributed without consent.
+Sec. 103. Obligations of users.
+TITLE IIâEnforcement
+Sec. 201. Civil enforcement.
+Sec. 202. Criminal prohibition on nonconsensual distribution of intimate visual depictions.
+2.
+Findings
+Congress finds the following:
+(1)
+In the United States, reports of child sexual abuse material (referred to in this section as
+CSAM
+) have grown exponentially in recent years, from 3,000 reports in 1998 to more than 1,000,000 in 2014 and 18,400,000 in 2018. The New York Times called it an
+almost unfathomable
+increase in criminal behavior.
+(2)
+The National Center for Missing and Exploited Children (referred to in this section as
+NCMEC
+), which is based in the United States, recorded more than 29,300,000 reports of suspected CSAM to its CyberTipline in 2021, the highest number of reports ever received in a single year and a 35 percent increase from 2020. Those reports included 85,000,000 images, videos, and other files of suspected CSAM and incident-related content.
+(3)
+Recent trends reported by NCMEC include increasingly graphic and violent sexual abuse images, and videos of infants and young children.
+(4)
+The Daily, a podcast hosted by the New York Times, reported in 2019 that CSAM had so overwhelmed law enforcement agencies in the United States that the Federal Bureau of Investigation, for example, had prioritized investigating material depicting infants and toddlers, not older children.
+(5)
+The COVIDâ19 pandemic has resulted in a surge in the online distribution of CSAM, which was remarkably high even before the pandemic. During the pandemic, NCMEC reported a 106 percent increase in the sharing of CSAM globally. The increased number of offenders exchanging CSAM during lockdowns may continue to stimulate demand for CSAM beyond the lockdowns as well.
+(6)
+Project Arachnid is a web platform administered by the Canadian Centre for Child Protection (referred to in this section as
+C3P
+) that is designed to detect known images of CSAM and issue removal notices to electronic service providers when possible. C3P has reported,
+It is a common misconception that CSAM and harmful-abusive content are relegated solely to the dark web.
+. In fact, 97 percent of the illegal media detected by Project Arachnid hides in plain sight on the clear web on image or file hosting services, forums, content delivery networks, and both mainstream adult pornography sites, such as Pornhub, XVideos, OnlyFans, and YouPorn, and fringe adult pornography sites.
+(7)
+In 2021, NCMEC reported that a majority of CSAM reports, more than 29,157,083 out of 29,397,681, came from electronic service providers.
+(8)
+An alarming and increasing number of adults are being depicted in online pornography without their knowledge or consent. These individuals are often victims of sexual abuse, sex trafficking, rape, sexual exploitation, sextortion, and forms of image-based sexual abuse such as nonconsensual distribution of sexually explicit material.
+(9)
+Most pornography websites do not effectively verify the age of the users who upload content to their platforms. Nor do these websites make an effort to effectively verify the age, consent, or identity of all individuals who are depicted in the pornographic content.
+(10)
+Pornography websites attract hundreds of millions of visitors daily. The leading pornography website in 2020, for example, reported attracting more than 3,500,000,000 monthly users, which exceeds the traffic of Netflix, Twitter, Instagram, Pinterest, or LinkedIn.
+(11)
+Pornography websites profit from the content uploaded to their platforms, including content that depicts or involves rape, child exploitation and abuse, and sex trafficking. In 2019, 6 high-level individuals employed by an online pornographic distributor were convicted of sex trafficking. Over an 11-year period, that platform generated more than $17,000,000 in revenue.
+(12)
+The ongoing exploitation of underage or nonconsenting individuals by highly visited pornography websites is evidenced by a recent series of successful lawsuits. One case, involving 22 victims of sex trafficking and fraud, concluded in a nearly $13,000,000 verdict against a pornography content producer who coerced women and children into producing sexual content. Another 34 women, some of whom are victims of child sex trafficking, filed a lawsuit against a pornographic website for failing to take proper precautions to verify the content uploaded to its platform and monetizing the illegal content.
+(13)
+The internet has revolutionized the pornography industry, making pornographic content incomparably more available, accessible, affordable, and anonymous than at any previous time in the history of the United States. Today, substantial majorities of teenagers have viewed pornography. A United States population-based probability study found that 84 percent of males and 57 percent of females between the ages of 14 and 18 have viewed pornography, belying the industryâs faux status as so-called
+adult entertainment
+. Moreover, pornography has contributed to the normalization of sexual violence among the youth of the United States. Numerous studies have demonstrated that viewing pornography harms youth, as it contributes to sexually violent attitudes and conduct towards children and adults and creates unrealistic expectations for intimate relationships. Additionally, research has demonstrated that the demand for online pornography has fueled an increase in purchasing sex from prostituted or sex trafficked individuals.
+(14)
+The online pornography industry has remained unchecked and generally immune from regulations. Online creators and distributors of pornographic content should be held to standards that require informed and thorough consent as well as age-verification. Currently, no substantive laws govern consent in pornography, which has permitted rampant abuses to occur.
+(15)
+Companies should not profit from the sexual exploitation of children and adults. Requiring pornographic websites to verify the age, consent, and identity of individuals appearing in pornographic content on their platforms would substantially curb the rampant exploitation of all children and adults online.
+(16)
+The harms to victims of CSAM and image-based sexual abuse are deep and enduring. Every time an image or video of their exploitation is shared, their abuse is repeated and amplified.
+3.
+Definitions
+(a)
+In general
+In this Act:
+(1)
+Coerced consent
+The term
+coerced consent
+means purported consent obtained from a personâ
+(A)
+through fraud, duress, misrepresentation, undue influence, or nondisclosure;
+(B)
+who lacks capacity; or
+(C)
+though exploiting or leveraging the personâsâ
+(i)
+immigration status;
+(ii)
+pregnancy;
+(iii)
+disability;
+(iv)
+addiction;
+(v)
+juvenile status; or
+(vi)
+economic circumstances.
+(2)
+Consent
+The term
+consent
+â
+(A)
+means an agreement that is informed and thorough; and
+(B)
+does not include coerced consent.
+(3)
+Covered platform
+(A)
+In general
+The term
+covered platform
+means an interactive computer service that hosts or makes available to the general public pornographic images.
+(B)
+Availability to public
+For purposes of subparagraph (A), the availability of pornographic images to a group of subscribers shall be considered availability to the general public if any member of the general public (subject to reasonable limitations) can obtain a subscription.
+(4)
+Covered platform operator
+The term
+covered platform operator
+means a provider of a covered platform.
+(5)
+Interactive computer service
+The term
+interactive computer service
+has the meaning given the term in section 230(f) of the Communications Act of 1934 (
+47 U.S.C. 230(f)
+).
+(6)
+Intimate visual depiction
+The term
+intimate visual depiction
+means any visual depictionâ
+(A)
+of an individual who is reasonably identifiable from the visual depiction itself or information displayed in connection with the visual depiction, including throughâ
+(i)
+facial recognition;
+(ii)
+an identifying marking on the individual, including a birthmark or piercing;
+(iii)
+an identifying feature of the background of the visual depiction;
+(iv)
+voice matching; or
+(v)
+written confirmation from an individual who is responsible, in whole or in part, for the creation or development of the visual depiction; and
+(B)
+in whichâ
+(i)
+the individual depicted is engaging in sexually explicit conduct; or
+(ii)
+the naked genitals, anus, pubic area, or post-pubescent female nipple of the individual depicted are visible.
+(7)
+Pornographic image
+The term
+pornographic image
+meansâ
+(A)
+any visual depiction of actual or feigned sexually explicit conduct; or
+(B)
+any intimate visual depiction.
+(8)
+User
+The term
+user
+â
+(A)
+means an individual who is an information content provider (as defined in section 230(f) of the Communications Act of 1934 (
+47 U.S.C. 230(f)
+)); and
+(B)
+with respect to a covered platform, means an individual described in subparagraph (A) who is responsible, in whole or in part, for the creation or development of pornographic images hosted or made available by the covered platform.
+(b)
+Terms defined in section 2256 of title 18, United States Code
+For purposes of subsection (a)â
+(1)
+the term
+computer
+has the meaning given the term in section 2256 of title 18, United States Code;
+(2)
+the term
+sexually explicit conduct
+has the meaning given the term in section 2256(2)(A) of title 18, United States Code; and
+(3)
+the term
+visual depiction
+means a photograph, film, video, or modified photograph, film, or video, whether made or produced by electronic, mechanical, or other means.
+4.
+Severability clause
+If any provision of this Act or an amendment made by this Act, or the application of such a provision or amendment to any person or circumstance, is held to be unconstitutional, the remaining provisions of this Act and amendments made by this Act, and the application of such provisions and amendments to any other person or circumstance, shall not be affected thereby.
+I
+Regulating the uploading of pornographic images to online platforms
+101.
+Verification obligations of covered platform operators
+(a)
+Verification of users
+(1)
+In general
+A covered platform operator may not upload or allow a user to upload a pornographic image to the covered platform unless the operator has verified, in accordance with paragraph (2)â
+(A)
+the identity of the user; and
+(B)
+that the user is not less than 18 years old.
+(2)
+Means of compliance
+In carrying out paragraph (1), a covered platform operator shall verify the identity and age of a user byâ
+(A)
+requiring use of an adult access code or adult personal identification number;
+(B)
+accepting a digital certificate that verifies age; or
+(C)
+using any other reasonable measure of age verification that the Attorney General has determined to be feasible with available technology.
+(3)
+Insufficient user confirmation
+Merely requiring a user to confirm that the user is not less than 18 years of age, without independent means of verification, shall not satisfy the requirement under paragraph (1).
+(b)
+Verification of participants
+(1)
+In general
+A covered platform operator may not upload or allow a user to upload a pornographic image to the covered platform unless the operator has verified, in accordance with paragraph (2), that each individual appearing in the pornographic imageâ
+(A)
+was not less than 18 years of age when the pornographic image was created;
+(B)
+has provided explicit written evidence of consent for each sex act in which the individual engaged during the creation of the pornographic image; and
+(C)
+has provided explicit written consent for the distribution of the specific pornographic image.
+(2)
+Separate consent for sex act and for distribution of image
+(A)
+Consent for sex act
+Consent described in subparagraph (B) of paragraph (1) does not imply or constitute evidence of consent described in subparagraph (C) of that paragraph.
+(B)
+Consent for distribution of image
+Consent described in subparagraph (C) of paragraph (1) does not imply or constitute evidence of consent described in subparagraph (B) of that paragraph.
+(3)
+Means of compliance
+In carrying out paragraph (1), a covered platform operator shall obtain, either from the user seeking to upload the pornographic image or through other meansâ
+(A)
+a consent form created or approved by the Attorney General under paragraph (4) from each individual appearing in the pornographic image that includesâ
+(i)
+the name, date of birth, and signature of the individual;
+(ii)
+a statement that the individual is not less than 18 years of age, unless no reasonable person could conclude that the individual is less than 30 years of age;
+(iii)
+a statement that the consent is for distribution of the specific pornographic image;
+(iv)
+the geographic area and medium, meaning online, print, or other distribution method, for which the individual provides consent to distribution of the pornographic image;
+(v)
+the duration of time for which the individual provides consent to distribution of the pornographic image;
+(vi)
+a list of the specific sex acts that the person agrees to engage in for the pornographic image; and
+(vii)
+a statement that explains coerced consent and that the individual has the right to withdraw the individualâs consent at any time; and
+(B)
+not less than 1 form of valid identification for each individual appearing in the pornographic imageâ
+(i)
+thatâ
+(I)
+was issued by an agency of the Federal Government or of a State, local, or foreign government; and
+(II)
+contains the name, date of birth, signature, and photograph of the individual; and
+(ii)
+on which the name, date of birth, and signature of the individual match the name, date of birth, and signature of the individual on the consent form required under subparagraph (A).
+(4)
+Creation and approval of consent forms by Attorney General
+(A)
+Attorney General consent form
+(i)
+In general
+Not later than 60 days after the date of enactment of this Act, the Attorney General shall create and make available to the public a consent form for purposes of paragraph (3)(A).
+(ii)
+Availability
+On and after the date that is 90 days after the date of enactment of this Act, a covered platform operator shall make the consent form created under clause (i) available to users in both written and electronic format.
+(B)
+Approval of alternative consent forms
+For purposes of paragraph (3)(A), a user may submit to a covered platform an alternative consent form created by a user or covered platform operator if the alternative consent form has been approved by the Attorney General.
+(c)
+Effective date; applicability
+This section shallâ
+(1)
+take effect on the date that is 90 days after the date of enactment of this Act; and
+(2)
+apply to any pornographic image uploaded to a covered platform before, on, or after that effective date.
+(d)
+Rules of construction
+(1)
+Obligations and criminal liability under other laws
+Nothing in this section shall be construed toâ
+(A)
+affect any obligation of a covered platform under any other provision of Federal or State law; or
+(B)
+impact or otherwise limit the criminal liability of a user or other individual under a Federal or State obscenity law.
+(2)
+First Amendment-protected speech
+Nothing in this section shall be construed to prohibit or impose a prior restraint on speech that is protected by the First Amendment to the Constitution of the United States.
+102.
+Removal of images distributed without consent
+(a)
+Definitions
+In this section:
+(1)
+Authorized representative
+The term
+authorized representative
+, with respect to an individual, meansâ
+(A)
+a person authorized in writing under State or other applicable law by the individual to act on behalf of the individual with regard to the matter in question; or
+(B)
+in the case of an individual under the age of 18, a parent or legal guardian of the individual.
+(2)
+Eligible person
+The term
+eligible person
+, with respect to a pornographic image uploaded to a covered platform, meansâ
+(A)
+an individual who appears in the pornographic image and has not provided consent to, or has withdrawn consent in compliance with the laws of the applicable jurisdiction for, the distribution of the pornographic image;
+(B)
+an authorized representative of an individual described in subparagraph (A); or
+(C)
+a Federal, State, Tribal, or local law enforcement officer acting pursuant to a valid court order.
+(b)
+Mechanism for removal
+A covered platform operator shallâ
+(1)
+establish a procedure for removing a pornographic image from the covered platform at the request of a person; and
+(2)
+designate 1 or more employees of the operator to be responsible for handling requests for removal of pornographic images.
+(c)
+Notice
+A covered platform operator shall display a prominently visible notice on the website or mobile application of the covered platform that provides instructions on how a person can request the removal of a pornographic image.
+(d)
+Response to requests for removal
+(1)
+Requests from eligible persons
+If a covered platform operator receives a request from an eligible person, through any request mechanism offered by the operator under subsection (b), to remove a pornographic image that is being hosted by the covered platform without the consent of an individual who appears in the pornographic image, the operator shall remove the pornographic image as quickly as possible, and in any event not later than 72 hours after receiving the request.
+(2)
+Requests from persons other than eligible persons
+If a covered platform operator receives a request from a person other than an eligible person, through any request mechanism offered by the operator under subsection (b), to remove a pornographic image that is being hosted by the covered platform without the consent of an individual who appears in the pornographic image, not later than 72 hours after receiving the requestâ
+(A)
+the operator shall review the records of the operator with respect to the pornographic image to determine whether the pornographic image was uploaded to the platform in accordance with the verification requirements under subsections (a) and (b) of section 101; and
+(B)
+if the operator determines under subparagraph (A) that the pornographic image was not uploaded to the platform in accordance with the verification requirements under subsections (a) and (b) of section 101, the operator shall remove the pornographic image.
+(e)
+Blocking re-Uploads
+In the case of a pornographic image that has been removed from a covered platform in accordance with this section, the covered platform operator shall block the pornographic image, and any altered or edited version of the pornographic image, from being uploaded to the covered platform again.
+(f)
+Effective Date; applicability
+(1)
+In general
+This section shallâ
+(A)
+except as provided in paragraph (2), take effect on the date that is 90 days after the date of enactment of this Act; and
+(B)
+apply to any pornographic image uploaded to a covered platform before, on, or after that effective date.
+(2)
+Blocking re-uploads
+Subsection (e) shall take effect on the date that is 180 days after the date of enactment of this Act.
+103.
+Obligations of users
+(a)
+Consent requirement
+A user of a covered platform may not upload a pornographic image of an individual to the covered platform without the consent of the individual.
+(b)
+Determination of consent
+For purposes of subsection (a), whether an individual has provided consent to the uploading of an image shall be determined in accordance with this Act and applicable State law.
+II
+Enforcement
+201.
+Civil enforcement
+(a)
+Verification obligations of covered platform operators
+(1)
+Civil penalty for failure to verify users
+(A)
+In general
+The Attorney General may impose a civil penalty on any covered platform operator that violates section 101(a) in an amount of not more than $10,000 for each day during which a pornographic image remains on the covered platform in violation of that section, beginning 24 hours after the Attorney General provides notice of the violation to the operator.
+(B)
+Per-day and per-image basis
+A civil penalty under subparagraph (A) shall accrue on a per-day and per-image basis.
+(C)
+Use of proceeds
+Notwithstanding section 3302 of title 31, United States Code, the Attorney General may use the proceeds from a civil penalty collected under subparagraph (A) to carry out enforcement under this section.
+(2)
+Civil liability for failure to verify participants
+If a covered platform operator violates section 101(b) with respect to a pornographic image, any person aggrieved by the violation may bring a civil action against the covered platform operator in an appropriate district court of the United States for damages in an amount equal to the greater ofâ
+(A)
+$10,000 for each day during which a pornographic image remains on the covered platform in violation of that section, calculated on a per-day and per-image basis; or
+(B)
+actual damages.
+(b)
+Removal of images distributed without consent
+(1)
+Civil penalty for failure to establish mechanism for removal
+(A)
+In general
+The Attorney General may impose a civil penalty on any covered platform operator that violates section 102(b) in an amount of not more than $10,000 for each day during which the covered platform remains in violation of that section, beginning 24 hours after the Attorney General provides notice of the violation to the operator.
+(B)
+Use of proceeds
+Notwithstanding section 3302 of title 31, United States Code, the Attorney General may use the proceeds from a civil penalty collected under subparagraph (A) to carry out enforcement under this section.
+(2)
+Civil penalty for failure to display notice of mechanism for removal
+The Attorney General may impose a civil penalty on any covered platform operator that violates section 102(c) in an amount of not more than $5,000 for each day during which the covered platform remains in violation of that section, beginning 24 hours after the Attorney General provides notice of the violation to the operator.
+(3)
+Civil liability for failure to make timely removal
+(A)
+In general
+If a covered platform operator violates section 102(d) with respect to a pornographic image, any person aggrieved by the violation may bring a civil action against the covered platform operator in an appropriate district court of the United States for damages in an amount equal to the greater ofâ
+(i)
+$10,000 for each day during which the pornographic image remains on the covered platform in violation of that section, calculated on a per-day and per-image basis; or
+(ii)
+actual damages.
+(B)
+Good faith exception
+(i)
+In general
+A covered platform operator shall not be liable under subparagraph (A) for a violation of section 102(d) if, in allowing the upload of a pornographic image to the covered platform, the operator reasonably relied on verification materials, in accordance with section 101(b)(3), that were later found to be fraudulent, provided that the operator removes the pornographic image not later than 24 hours after discovering that the verification materials are fraudulent.
+(ii)
+Failure to remove
+If a covered platform operator fails to remove a pornographic image within 24 hours of discovering that the verification materials are fraudulent, as described in clause (i), damages under subparagraph (A)(i) shall be calculated with respect to each day on or after the date on which that 24-hour period expires.
+(4)
+Civil liability for failure to block re-uploads
+If a covered platform operator violates section 102(e) with respect to a pornographic image, any person aggrieved by the violation may bring a civil action against the covered platform operator in an appropriate district court of the United States for damages in an amount equal to the greater ofâ
+(A)
+$10,000 for each day during which the pornographic image remains on the covered platform in violation of that section; or
+(B)
+actual damages.
+(c)
+Civil liability for violation of user obligations
+If a user of a covered platform violates section 103 with respect to a pornographic image, any person aggrieved by the violation may bring a civil action against the user in an appropriate district court of the United States for damages in an amount equal to the greater ofâ
+(1)
+$10,000 for each day during which the pornographic image remains on the covered platform in violation of that section, calculated on a per-day and per-image basis; or
+(2)
+actual damages.
+(d)
+Relation to Communications Decency Act
+Nothing in this section shall be construed to affect section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+).
+202.
+Criminal prohibition on nonconsensual distribution of intimate visual depictions
+(a)
+In general
+Chapter 88
+of title 18, United States Code, is amended by adding at the end the following:
+1802.
+Nonconsensual distribution of intimate visual depictions
+(a)
+Definitions
+In this section:
+(1)
+Information content provider
+The term
+information content provider
+has the meaning given the term in section 230(f) of the Communications Act of 1934 (
+47 U.S.C. 230(f)
+).
+(2)
+Interactive computer service
+The term
+interactive computer service
+has the meaning given the term in section 230(f) of the Communications Act of 1934 (
+47 U.S.C. 230(f)
+).
+(3)
+Intimate visual depiction
+The term
+intimate visual depiction
+means any visual depictionâ
+(A)
+of an individual who is reasonably identifiable from the visual depiction itself or information displayed in connection with the visual depiction, including throughâ
+(i)
+facial recognition;
+(ii)
+an identifying marking on the individual, including a birthmark or piercing;
+(iii)
+an identifying feature of the background of the visual depiction;
+(iv)
+voice matching; or
+(v)
+written confirmation from an individual who is responsible, in whole or in part, for the creation or development of the visual depiction; and
+(B)
+in whichâ
+(i)
+the individual depicted is engaging in sexually explicit conduct; or
+(ii)
+the naked genitals, anus, pubic area, or post-pubescent female nipple of the individual depicted are visible and are depicted with the objective intent to arouse, titillate, or gratify the sexual desires of a person.
+(4)
+Sexually explicit conduct
+The term
+sexually explicit conduct
+has the meaning given that term in section 2256(2)(A).
+(5)
+Visual depiction
+The term
+visual depiction
+means a photograph, film, video, or modified photograph, film, or video, whether made or produced by electronic, mechanical, or other means.
+(b)
+Offense
+Except as provided in subsection (d), it shall be unlawful for any information content provider to knowingly use any interactive computer service to publish an intimate visual depiction of an individual with knowledge of or reckless disregard forâ
+(1)
+the lack of consent of the individual to the publication; and
+(2)
+the reasonable expectation of the individual that the depiction would not be published through an interactive computer service without the individualâs consent.
+(c)
+Penalty
+Any person who violates subsection (b) shall be fined under this title, imprisoned for not more than 5 years, or both.
+(d)
+Exceptions
+(1)
+Law enforcement, lawful reporting, and other legal proceedings
+Subsection (b)â
+(A)
+does not prohibit any lawful law enforcement, correctional, or intelligence activity;
+(B)
+shall not apply to an individual acting in good faith to report unlawful activity or in pursuance of a legal or other lawful obligation; and
+(C)
+shall not apply to a document production or filing associated with a legal proceeding.
+(2)
+Rule of construction
+Nothing in this subsection shall affect the liability protection provided under section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+).
+(e)
+Venue and extraterritoriality
+(1)
+Venue
+A prosecution under this section may be brought in a district in whichâ
+(A)
+the defendant or the depicted individual resides; or
+(B)
+the intimate visual depiction is distributed or made available.
+(2)
+Extraterritoriality
+There is extraterritorial Federal jurisdiction over an offense under this section if the defendant or the depicted individual is a citizen or permanent resident of the United States.
+.
+(b)
+Clerical amendment
+The table of sections for
+chapter 88
+of title 18, United States Code, is amended by adding at the end the following:
+1802. Nonconsensual distribution of intimate visual depictions.
+.

@@ -1,0 +1,778 @@
+1.
+Short title
+This Act may be cited as the
+Energy Innovation and Carbon Dividend Act of 2018
+.
+2.
+Findings
+The Congress finds thatâ
+(1)
+efficient markets strengthen our economy and benefit our Nation by encouraging competition, innovation, and technological progress;
+(2)
+efficient markets should reflect all costs of goods to ensure that they advance Americaâs prosperity and national interests;
+(3)
+emissions of carbon pollution and other harmful pollutants into our Nationâs air impose substantial costs on all Americans and on future generations; and
+(4)
+creation of a Carbon Dividend Trust Fund, to be distributed to the American people, will make markets more efficient, create jobs, and stimulate competition, innovation, and technological progress that benefit all Americans and future generations.
+3.
+Carbon dividends and carbon fee
+(a)
+In general
+The Internal Revenue Code of 1986 is amended by adding at the end the following new subtitle:
+L
+CARBON DIVIDENDS AND CARBON FEE
+Chapter 101. Carbon Fees
+Chapter 102. Carbon Border Fee Adjustment
+101
+Carbon Fees
+Sec. 9901. Definitions.
+Sec. 9902. Carbon fee.
+Sec. 9903. Emissions reduction schedule.
+Sec. 9904. Fee on fluorinated greenhouse gases.
+Sec. 9905. Decommissioning of carbon fee.
+Sec. 9906. Carbon capture and sequestration.
+Sec. 9907. Administrative authority.
+9901.
+Definitions
+For purposes of this subtitle:
+(a)
+Administrator
+The term
+Administrator
+means the Administrator of the Environmental Protection Agency.
+(b)
+Carbon dioxide equivalent or CO
+2
+-e
+The term
+carbon dioxide equivalent
+or
+CO
+2
+-e
+means the number of metric tons of carbon dioxide emissions with the same global warming potential as one metric ton of another greenhouse gas.
+(c)
+Carbon-Intensive product
+The term
+carbon-intensive product
+means, as identified by the Secretary by ruleâ
+(1)
+any manufactured or agricultural product which the Secretary in consultation with the Administrator determines is emissions-intensive and trade-exposed, except that no covered fuel is a carbon-intensive product, and
+(2)
+until such time that the Secretary promulgates rules identifying carbon-intensive products, the following shall be considered carbon-intensive products: iron, steel, steel mill products (including pipe and tube), aluminum, cement, glass (including flat, container, and specialty glass and fiberglass), pulp, paper, chemicals, or industrial ceramics.
+(d)
+Carbon leakage
+The term
+carbon leakage
+means an increase of global greenhouse gas emissions which are substantially due to the relocation of greenhouse gas sources from the United States to jurisdictions which lack comparable controls upon greenhouse gas emissions.
+(e)
+Cost of carbon or carbon costs
+The term
+cost of carbon
+or
+carbon costs
+means a national or sub-national government policy which explicitly places a price on greenhouse gas pollution and shall be limited to either a tax on greenhouse gases or a system of cap-and-trade. The cost of carbon is expressed as the price per ton of CO
+2
+-e.
+(f)
+Covered entity
+The term
+covered entity
+meansâ
+(1)
+in the case of crude oilâ
+(A)
+a refinery operating in the United States, and
+(B)
+any importer of any petroleum or petroleum product into the United States,
+(2)
+in the case of coalâ
+(A)
+any coal mining operation in the United States, and
+(B)
+any importer of coal into the United States,
+(3)
+in the case of natural gasâ
+(A)
+any entity entering pipeline quality natural gas into the natural gas transmission system, and
+(B)
+any importer of natural gas into the United States,
+(4)
+in the case of fluorinated gases any entity required to report the emission of a fluorinated gas under part 98 of title 40, Code of Federal Regulations, and
+(5)
+any entity or class of entities which, as determined by the Secretary, is transporting, selling, or otherwise using a covered fuel in a manner which emits a greenhouse gas to the atmosphere and which has not been covered by the carbon fee, the fluorinated greenhouse gas fee, or the carbon border fee adjustment.
+(g)
+Covered fuel
+The term
+covered fuel
+means crude oil, natural gas, coal, or any other product derived from crude oil, natural gas, or coal which shall be used so as to emit greenhouse gases to the atmosphere.
+(h)
+Crude oil
+The term
+crude oil
+means unrefined petroleum.
+(i)
+Export
+The term
+export
+means to transport a product from within the jurisdiction of the United States to persons outside the United States.
+(j)
+Fluorinated greenhouse gas
+The term
+fluorinated greenhouse gas
+means sulfur hexafluoride (SF
+6
+), nitrogen trifluoride (NF
+3
+), and any fluorocarbon except for controlled substances as defined in subpart A of part 82 of title 40, Code of Federal Regulations, and substances with vapor pressures of less than 1 mm of Hg absolute at 25 degrees. With these exceptions,
+fluorinated greenhouse gas
+includes but is not limited to any hydrofluorocarbon, any perfluorocarbon, any fully fluorinated linear, branched or cyclic alkane, ether, tertiary amine or aminoether, any perfluoropolyether, and any hydrofluoropolyether.
+(k)
+Fossil fuel
+The term
+fossil fuel
+means coal, coal products, petroleum, petroleum products, or natural gas.
+(l)
+Full fuel cycle greenhouse gas emissions
+The term
+full fuel cycle greenhouse gas emissions
+means the greenhouse gas content of a covered fuel plus that covered fuelâs upstream greenhouse gas emissions.
+(m)
+Global warming potential
+The term
+global warming potential
+means the ratio of the time-integrated radiative forcing from the instantaneous release of one kilogram of a trace substance relative to that of one kilogram of carbon dioxide.
+(n)
+Greenhouse gas
+The term
+greenhouse gas
+means carbon dioxide (CO
+2
+), methane (CH
+4
+), nitrous oxide (N
+2
+O), sulfur hexafluoride (SF
+6
+), hydrofluorocarbons (HFCs), perfluorocarbon (PFCs), and other gases as defined by rule of the Administrator.
+(o)
+Greenhouse gas content
+The term
+greenhouse gas content
+means the amount of greenhouse gases, expressed in metric tons of CO
+2
+-e, which would be emitted to the atmosphere by the use of a covered fuel and shall include, nonexclusively, emissions of carbon dioxide (CO
+2
+), nitrous oxide (N
+2
+O), methane (CH
+4
+), and other greenhouse gases as identified by rule of the Administrator.
+(p)
+Greenhouse gas effect
+The term
+greenhouse gas effect
+means the adverse effects of greenhouse gases on health or welfare caused by the greenhouse gasâs heat-trapping potential or its effect on ocean acidification.
+(q)
+Import
+Irrespective of any other definition in law or treaty, the term
+import
+means to land on, bring into, or introduce into any place subject to the jurisdiction of the United States.
+(r)
+Petroleum
+The term
+petroleum
+means oil removed from the earth or the oil derived from tar sands or shale.
+(s)
+Production greenhouse gas emissions
+The term
+production greenhouse gas emissions
+means the quantity of greenhouse gases, expressed in metric tons of CO
+2
+-e, emitted to the atmosphere resulting from, nonexclusively, the production, manufacture, assembly, transportation, or financing of a product.
+(t)
+Upstream greenhouse gas emissions
+The term
+upstream greenhouse gas emissions
+means the quantity of greenhouse gases, expressed in metric tons of CO
+2
+-e, emitted to the atmosphere resulting from, nonexclusively, the extraction, processing, transportation, financing, or other preparation of a covered fuel for use.
+9902.
+Carbon fee
+(a)
+Carbon fee
+There is hereby imposed a carbon fee on any covered entityâs emitting use, or sale or transfer for an emitting use, of any covered fuel.
+(b)
+Amount of the carbon fee
+The carbon fee imposed by this section is an amount equal toâ
+(1)
+the greenhouse gas content of the covered fuel, multiplied by
+(2)
+the carbon fee rate.
+(c)
+Carbon fee rate
+For purposes of this sectionâ
+(1)
+In general
+The carbon fee rate, with respect to any use, sale, or transfer during a calendar year, shall beâ
+(A)
+in the case of calendar year 2019, $15, and
+(B)
+except as provided in paragraph (2), in the case of any calendar year thereafter, the carbon fee rate in effect under this subsection for the preceding calendar year, plus $10.
+(2)
+Exceptions
+(A)
+Increased carbon fee rate after missed annual emissions reduction target
+In the case of any year immediately following a year for which the Secretary determines under 9903(b) that the actual emissions of greenhouse gases from covered fuels exceeded the emissions reduction target for the previous year, paragraph (1)(B) shall be applied by substituting
+$15
+for
+$10
+.
+(B)
+Cessation of carbon fee rate increase after certain emission reductions achieved
+In the case of any year immediately following a year for which the Secretary determines under 9903(b) that actual emissions of greenhouse gases from covered fuels is not more than 10 percent of the greenhouse gas emissions from covered fuels during the year 2015, paragraph (1)(B) shall be applied by substituting
+$0
+for
+$10
+.
+(d)
+Exemption and refund
+The Secretary shall prescribe such rules as are necessary to ensure the fee imposed by this section is not imposed with respect to any nonemitting use, or any sale or transfer for a nonemitting use, including rules providing for the refund of any carbon fee paid under this section with respect to any such use, sale, or transfer.
+(e)
+Agriculture exemptions
+(1)
+Fuel
+If any covered fuel or its derivative is used on a farm for a farming purpose, the Secretary shall pay (without interest) to the ultimate purchaser of such covered fuel or its derivative, the total amount of carbon fees previously paid upon that covered fuel, as specified by rule of the Secretary.
+(2)
+Farm, farming use, and farming purpose
+The terms
+farm
+,
+farming use
+, and
+farming purpose
+shall have the respective meanings given such terms under section 6420(c).
+(3)
+Other greenhouse gases emissions from agriculture
+The carbon fee shall not be levied upon non-fossil fuel greenhouse gas emissions which occur on a farm.
+9903.
+Emissions reduction schedule
+(a)
+In general
+An emissions reduction schedule for greenhouse gas emissions from covered fuels is hereby established, as follows:
+(1)
+Reference year
+The greenhouse gas emissions from covered fuels during the year 2015 shall be the reference amount of emissions and shall be determined from the
+Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990â2015
+published by the Environmental Protection Agency in April of 2017.
+(2)
+Emissions reduction target
+The first emission reduction target shall be for the year 2022. The emission target for each year thereafter shall be the previous yearâs target emissions minus a percentage of emissions during the reference year determined in accordance with the following table:
+Year
+Emissions Reduction Target
+2015
+Reference year
+2018 to 2021
+No emissions reduction target
+2022 to 2030
+5 percent of 2015 emissions per year
+2030 to 2040
+2.5 percent of 2015 emissions per year
+2040 to 2050
+1.5 percent of 2015 emissions per year
+(b)
+Administrative determination
+Not later than 60 days after the beginning of each calendar year beginning after the enactment of this section, the Secretary, in consultation with the Administrator, shall determine whether actual emissions of greenhouse gases from covered fuels exceeded the emissions reduction target for the preceding calendar year. The Secretary shall make such determination using the same greenhouse gas accounting method as was used to determine the greenhouse gas emissions in the
+Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990â2015
+published by the Environmental Protection Agency in April of 2017.
+9904.
+Fee on fluorinated greenhouse gases
+(a)
+Fluorinated gas fee
+A fee is hereby imposed upon any fluorinated greenhouse gas which is required to be reported under part 98 of title 40, Code of Federal Regulations.
+(b)
+Amount
+The fee to be paid by the covered entity required to so report shall be an amount equal toâ
+(1)
+the total amount, in metric tons of CO
+2
+-e, of emitted fluorinated greenhouse gases (or, in the case of a supplier, emissions that would result determined under the rules of such part), multiplied by
+(2)
+an amount equal to 10 percent of the carbon fee rate in effect under section 9902(d)(1) for the calendar year of such emission.
+9905.
+Decommissioning of carbon fee
+(a)
+In general
+At such time thatâ
+(1)
+the Secretary determines under 9903(b) that actual emissions of greenhouse gases from covered fuels is not more than 10 percent of the greenhouse gas emissions from covered fuels during the year 2015, and
+(2)
+the monthly carbon dividend payable to an adult eligible individual has been less than $20 for 3 consecutive years,
+the Secretary shall decommission in an orderly manner all bureaus and programs associated with
+administering the carbon fee, the carbon border fee adjustment, and the
+Carbon Dividend Trust Fund.
+(b)
+Inflation adjustment
+In the case of any calendar year after 2018, the $20 amount under subsection (a)(2) shall be increased by an amount equal toâ
+(1)
+such dollar amount, multiplied by
+(2)
+cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting
+calendar year 2017
+for
+calendar year 2016
+in subparagraph (A)(ii) thereof.
+9906.
+Carbon capture and sequestration
+(a)
+In general
+The Secretary, in consultation with the Administrator and the Secretary of Energy, shall prescribe regulations for making payments as provided in subsection (b) to qualified facilities which capture and sequester qualified carbon dioxide.
+(b)
+Payment amounts
+(1)
+In general
+The Secretary shall make payments to a qualified facility in the same manner as if such payment was a refund of an overpayment of the carbon fee imposed by section 9902, in cases in which such qualified facilityâ
+(A)
+uses any covered fuelâ
+(i)
+with respect to which the carbon fee has been paid, and
+(ii)
+which results in the emission of qualified carbon dioxide,
+(B)
+captures such emitted qualified carbon dioxide, and
+(C)
+(i)
+sequesters such qualified carbon dioxide in a manner which is safe, permanent, and in compliance with any applicable local, State, and Federal laws, or
+(ii)
+utilizes such qualified carbon dioxide in a manner provided in paragraph (3)(C).
+(2)
+Amount of refund
+The payment determined under this section shall be an amount equal to the lesser ofâ
+(A)
+(i)
+the adjusted metric tons of qualified carbon dioxide captured and sequestered or utilized, multiplied by
+(ii)
+the carbon fee rate during the year in which the carbon fee was imposed by section 9902 upon the covered fuel to which such carbon dioxide relates, or
+(B)
+the amount of the carbon fee imposed by section 9902 with respect to such covered fuel.
+(3)
+Definitions and special rules
+For purposes of this sectionâ
+(A)
+Qualified carbon dioxide; qualified facility
+(i)
+Qualified carbon dioxide
+The term
+qualified carbon dioxide
+has the same meaning given such term under section 45Q(b).
+(ii)
+Qualified facility
+The term
+qualified facility
+means any industrial facility at which carbon capture equipment is placed in service.
+(B)
+Adjusted total metric tons
+The adjusted total metric tons of qualified carbon dioxide captured and sequestered or utilized shall be the total tons of qualified carbon dioxide captured and sequestered or utilized, reduced by the amount of any carbon dioxide likely to escape and be emitted into the atmosphere due to imperfect storage technology or otherwise, as determined by the Secretary in consultation with the Administrator.
+(C)
+Utilization
+The Secretary, in consultation with the Administrator, shall establish regulations providing for the methods and processes by which qualified carbon dioxide may be utilized so as to remove that qualified dioxide safely and permanently from the atmosphere. Utilization may include the production of substances such as but not limited to plastics and chemicals. Such regulations shall minimize the escape or further emission of the qualified carbon dioxide into the atmosphere.
+(D)
+Sequestration
+Not later than 540 days after the date of the enactment of this section, the Secretary, in consultation with the Administrator, shall prescribe regulations identifying the conditions under which carbon dioxide may be safely and permanently sequestered.
+(4)
+Coordination with credit for carbon dioxide sequestration
+At such time that the Secretary prescribes regulations implementing this section, no payment under this section shall be allowed to a taxpayer to whom a credit has been allowed for any taxable year under section 45Q.
+9907.
+Administrative authority
+(a)
+In general
+The Secretary in consultation with the Administrator shall prescribe such regulations, and other guidance, as may be necessary to carry out the purposes of this subtitle and assess and collect the carbon fee imposed by section 9902 and the fluorinated greenhouse gas fee imposed by section 9904.
+(b)
+Specifically
+Such regulations and guidance shall includeâ
+(1)
+the identification of an effective point in the production, distribution, or use of a covered fuel or fluorinated greenhouse gas for collecting such carbon fee or fluorinated greenhouse gas fee, in such a manner so as to minimize administrative burden and maximize the extent to which full fuel cycle greenhouse gas emissions from covered fuels or fluorinated greenhouse gases have the carbon fee or fluorinated greenhouse gas fee levied upon them,
+(2)
+the identification of covered entities which shall be liable for the payment of the carbon fee or the fluorinated greenhouse gas fee,
+(3)
+requirements for the monthly payment of such fees,
+(4)
+as may be necessary or convenient, rules for distinguishing between different types of covered fuels,
+(5)
+as may be necessary or convenient, rules for distinguishing between a covered fuelâs greenhouse gas content and its upstream greenhouse gas emissions,
+(6)
+rules to ensure that no covered fuel or fluorinated greenhouse gas has the carbon fee, fluorinated greenhouse gas fee, or carbon border fee adjustment imposed upon it more than once, and
+(7)
+rules to ensure that the domestic implementation of the carbon fee and the fluorinated greenhouse gas fee coordinate with the implementation of the carbon border fee adjustment of chapter 102.
+102
+Carbon Border Fee Adjustment
+Sec.â9908.âCarbon border fee adjustment.
+Sec.â9909.âAdministration of the carbon border fee adjustment.
+Sec.â9910.âAllocation of carbon border fee adjustment revenues.
+9908.
+Carbon border fee adjustment
+(a)
+In general
+The fees imposed by, and refunds allowed under, this section shall be referred to as
+the carbon border fee adjustment
+.
+(b)
+Purpose
+The purpose of the carbon border fee adjustment is to protect animal, plant, and human life and health, to conserve exhaustible natural resources by preventing carbon leakage, and to facilitate the creation of international agreements.
+(c)
+Imported covered fuels fee
+In the case of any person that imports into the United States any covered fuel, there shall be imposed a fee equal to the excess (if any) ofâ
+(1)
+an amount equal toâ
+(A)
+the amount of full fuel cycle greenhouse gas emissions of such fuel, multiplied by
+(B)
+the carbon fee rate in effect for the year in which such fuel is imported, over
+(2)
+the total foreign cost of carbon carried by such fuel.
+(d)
+Imported carbon-Intensive products fee
+In the case of any person that imports into the United States any carbon-intensive products, there shall be imposed a fee equal to the excess (if any) ofâ
+(1)
+an amount equal toâ
+(A)
+production greenhouse gas emissions of such product, multiplied by
+(B)
+the carbon fee rate in effect for the year in which the production greenhouse gas emissions of such product were emitted into the atmosphere, over
+(2)
+the total foreign cost of carbon carried by such product.
+(e)
+Refund on exports from United States
+(1)
+Carbon-intensive products
+Under regulations prescribed by the Secretary, there shall be allowed a credit or refund (without interest) to exporters of carbon-intensive products manufactured or produced in the United States an amount equal to the excess (if any) ofâ
+(A)
+an amount equal toâ
+(i)
+the production greenhouse gas emissions of the exported carbon-intensive product, multiplied by
+(ii)
+the carbon fee rate during the year in which the carbon fee or fluorinated greenhouse gas fee was paid upon the production greenhouse gas emissions of the exported carbon-intensive product, over
+(B)
+any total cost of carbon to be levied upon the carbon-intensive product by any jurisdiction to which the carbon-intensive product is to be imported.
+Any such credit or refund shall be allowed in the same manner as if it were an overpayment of the
+fee imposed by section 9902 or 9904. The Secretary shall establish fair,
+timely, impartial, and as necessary confidential procedures by which any
+exporter of any product from the United States may petition the Secretary
+to include that exported product on the list of carbon-intensive products.
+(2)
+Covered fuels
+Under regulations prescribed by the Secretary, in the case of a covered fuel produced in the United States with respect to which the fee under section 9902 was paid, there shall be allowed as a credit or refund (without interest) to any exporter of such covered fuels an amount equal to the excess (if any) ofâ
+(A)
+an amount equal toâ
+(i)
+the full fuel cycle greenhouse gas emissions of the covered fuel, multiplied by
+(ii)
+the carbon fee rate at the time the carbon fee was paid upon the full fuel cycle greenhouse gas emissions of the exported covered fuel, over
+(B)
+any total cost of carbon to be levied upon the covered fuel by a jurisdiction to which the carbon-intensive product is to be imported.
+Any such credit or refund shall be allowed in the same manner as if it were an overpayment of tax
+imposed by section 9902.
+(f)
+Definitions
+For purposes of this sectionâ
+(1)
+Foreign cost of carbon; foreign carbon costs
+The term
+foreign cost of carbon
+or
+foreign carbon cost
+means the cost of any laws of a foreign jurisdiction which impose a system of cap-and-trade with respect to, or a tax or fee on, greenhouse gas. Such cost shall be determined and expressed as a price per ton of CO2-e.
+(2)
+Total cost of carbon carried
+The term
+total cost of carbon carried
+means an amount equal toâ
+(A)
+the production greenhouse gas emissions of a carbon-intensive product or the full fuel cycle greenhouse gas emissions of a covered fuel, multiplied by
+(B)
+the cost of carbon with respect to such product or fuel, reduced by any amount refunded with respect to such product or fuel by a foreign jurisdiction.
+The total cost of carbon carried shall be expressed as price in United States dollars.
+(3)
+Total foreign cost of carbon carried
+The term
+total foreign cost of carbon carried
+means an amount equal toâ
+(A)
+the production greenhouse gas emissions of a carbon-intensive product, or the full fuel cycle greenhouse gas emissions of a covered fuel, multiplied by
+(B)
+the foreign cost of carbon with respect to such product or fuel, reduced by the amount refunded with respect to such product or fuel by a foreign jurisdiction.
+The total foreign cost of carbon carried shall be expressed as price in United States dollars.
+9909.
+Administration of the carbon border fee adjustment
+(a)
+Generally
+The Secretary in consultation with the Administrator shall prescribe regulations and guidance which implement the carbon border fee adjustment under section 9908.
+(b)
+Collaboration
+In determining the production greenhouse gas emissions of an imported carbon-intensive product, the upstream greenhouse gas emissions of an imported covered fuel, the full fuel cycle greenhouse gas emissions of an imported covered fuel, or the foreign cost of carbon, or otherwise administering the carbon border fee adjustment, it is the sense of Congress that the Secretary should collaborate with authorized officers of any jurisdiction, including sub-national governments, affected by the carbon border fee adjustment.
+(c)
+Methodology
+In determining the production greenhouse gas emissions of an imported carbon-intensive product, the upstream greenhouse gas emissions of an imported covered fuel, the full fuel cycle greenhouse gas emissions of an imported covered fuel, or the foreign cost of carbon, the Secretary shall use reliable methodologies, whichâ
+(1)
+as may be necessary or convenientâ
+(A)
+distinguish between different types of covered fuels,
+(B)
+distinguish between a covered fuelâs greenhouse gas content and that covered fuelâs upstream greenhouse gas emissions,
+(C)
+distinguish between the different types of greenhouse gas emissions which compose a covered fuelâs upstream greenhouse gas emissions or greenhouse gas content, as well as the various processes which produced those emissions, and
+(D)
+distinguish between the different types of greenhouse gas emissions which compose a carbon-intensive productâs production greenhouse gas emissions, as well as the various processes which produced those emissions,
+(2)
+ensure that no covered fuel, covered fluorinated greenhouse gas, or carbon-intensive product has the carbon fee, the fluorinated greenhouse gas fee, or the border fee adjustment imposed upon it more than once,
+(3)
+ensure that the implementation of the border carbon adjustment aligns with the carbon fee and the fluorinated gas fee,
+(4)
+in the case of incomplete data, rely upon the best available methodologies for interpolating data gaps, and
+(5)
+are consistent with international treaties and agreements.
+(d)
+Schedule
+The Secretary shall determineâ
+(1)
+not later than 3 years after the date of the enactment of this section, the production greenhouse gas emissions of imported carbon-intensive products,
+(2)
+not later than 180 days after the date of the enactment of this section, the full fuel cycle greenhouse gas emissions and the upstream greenhouse gas emissions of every imported covered fuel, and
+(3)
+not later than 3 years after the date of the enactment of this section, the foreign cost of carbon in all jurisdictions.
+(e)
+Procedure
+The Secretary shall establish fair, timely, impartial, and as necessary confidential procedures by which the importer of any carbon-intensive product or any covered fuel may petition the Secretary to revise the Secretaryâs determination of the production greenhouse gas emissions, full fuel cycle greenhouse gas emissions, or upstream greenhouse gas emissions of that importerâs imported covered fuel or imported carbon-intensive product, or the foreign cost of carbon carried by that importerâs imported carbon-intensive product.
+(f)
+Shipments from the United States to the territories of the United States
+Notwithstanding any other treaty, law, or policy, shipments of covered fuels or carbon-intensive products from the United States to Guam, the United States Virgin Islands, Samoa, Puerto Rico, and the Northern Mariana Islands shall be eligible for a refund of the carbon fee under section 9908(e).
+(g)
+Imports to the territories of the United States
+Notwithstanding any other treaty, law, or policy, imports of covered fuels or carbon-intensive products to Guam, the United States Virgin Islands, Samoa, Puerto Rico, and the Northern Mariana Islands shall not be subject to Section 9908(c) or 9908(d).
+9910.
+Allocation of carbon border fee adjustment revenues
+The revenues collected under this chapter may be used to supplement appropriations made available in fiscal years 2018 and thereafterâ
+(1)
+to U.S. Customs and Border Protection, in such amounts as are necessary to administer the carbon border fee adjustment, then
+(2)
+to the Department of Treasury, in such amounts as are necessary to allow refunds under section 9908(e) to exporters of carbon-intensive products and exporters of covered fuels.
+.
+(b)
+Coordination with carbon oxide sequestration credit
+Section 45Q(f) is amended by adding at the end the following new paragraph:
+(8)
+Coordination with carbon capture and sequestration payments
+No credit shall be allowed under this section to a taxpayer which has received any payment under section 9906.
+.
+(c)
+Treaties and international negotiations
+(1)
+Conformance with international treaties
+In the case that the Appellate Body of the World Trade Organization, or any other authoritative international treaty interpreter, shall find any portion of the carbon border fee adjustment under
+chapter 102
+of the Internal Revenue Code of 1986 to violate any treaty to which the United States is a party, the Secretary of the Treasury is authorized to alter any aspect of such carbon border fee adjustment so as to bring the carbon border fee adjustment into conformance with international law.
+(2)
+International negotiations
+The Congress finds the international mitigation of greenhouse gas emissions to be of national importance. Therefore, the Congress encourages the Secretary of State, or the Secretaryâs designee, to commence and complete negotiations with other nations with the goal of forming treaties, environmental agreements, accords, partnerships or any other instrument that effectively reduces global greenhouse gas emissions to 10 percent of 2015 levels by 2050 and which respect the principle of common but differentiated responsibilities and respective capabilities.
+(3)
+Suspension of the carbon border fee adjustment
+Any part of the carbon border fee adjustment shall be suspended, in whole or in partâ
+(A)
+by treaty or other international agreement which includes provisions for the suspension of the carbon border fee adjustment, in whole or in part, with any party signatory to the treaty or other international agreement, or
+(B)
+by a finding of the Secretary that a jurisdiction of importation has implemented policies which, in the case of high emitting countries, reduce greenhouse gas emissions at a rate at least equivalent to United States greenhouse gas emission reductions, or, in the case of low emitting countries, prevent the increase in greenhouse gas emissions.
+Any such finding shall be reviewed at least every 3 years and amended or revoked as required.
+4.
+Establishment of the Carbon Dividend Trust Fund
+(a)
+In general
+Subchapter A of
+chapter 98
+of the Internal Revenue Code of 1986 is amended by adding at the end the following:
+9512.
+Carbon Dividend Trust Fund
+(a)
+Establishment and funding
+There is hereby established in the Treasury of the United States a trust fund to be known as the
+Carbon Dividend Trust Fund
+, consisting of such amounts as may be appropriated to such trust fund as provided for in this section.
+(b)
+Transfers to the Carbon Dividend Trust Fund
+There is hereby appropriated to the Carbon Dividend Trust Fund amounts equal to the fees received into the Treasury less any amounts refunded or paid under section 9902(d) or 9906 of chapter 101 for each month.
+(c)
+Expenditures
+Amounts in the trust fund shall be available for the following purposes:
+(1)
+Administrative expenses
+So much of the expenses necessary to administer the Carbon Dividend Trust Fund for each year, as does not exceedâ
+(A)
+in the case of the first 5 calendar years ending after the date of the enactment of this section, the administrative expenses for any year may not exceed 8 percent of amounts appropriated to the Carbon Dividend Trust Fund during such year, and
+(B)
+in the case of any calendar year thereafter, 2 percent of the 5-year rolling average of the amounts appropriated to the Carbon Dividend Trust Fund.
+(2)
+Other administrative expenses
+So much of the expenses as are necessary to administer chapter 101 for any year as does not to exceed 0.60 percent of the amounts appropriated to the Carbon Dividend Trust Fund for the previous year, and further limited as follows:
+(A)
+The Department of the Treasury.
+(B)
+The Social Security Administration.
+(C)
+The Environmental Protection Agency.
+(D)
+Department of State.
+(3)
+Carbon dividend payments
+(A)
+In general
+From the amounts in the Carbon Dividend Trust Fund made available under paragraphs (1) and (2) of this subsection for any year, the Secretary shall for each month beginning more than 270 days after the date of the enactment of the
+Energy Innovation and Carbon Dividend Act of 2018
+, make carbon dividend payments to each eligible individual.
+(B)
+Pro-rata share
+A carbon dividend payment is one pro-rata share for each adult and half a pro-rata share for each child under 19 years old of amounts available for the month in the Carbon Dividend Trust Fund.
+(C)
+Eligible individual
+The term
+eligible individual
+means, with respect to any month, any natural living person who has a valid Social Security number or taxpayer identification number and is a citizen or lawful resident of the United States (other than any individual who is a citizen of any possession of the United States and whose bona fide residence is outside of the United States). The Secretary is authorized to verify an individualâs eligibility to receive a carbon dividend payment.
+(D)
+Fee treatment of payments
+Amounts paid under this subsection shall be includible in gross income.
+(E)
+Federal programs and Federal assisted programs
+The carbon dividend amount received by any individual shall not be taken into account as income and shall not be taken into account as resources for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
+(F)
+Advance payment
+The Secretary shall transfer to the Carbon Dividend Trust Fund such amounts as are necessary for the disbursement of an advanced carbon dividend to all eligible individuals as follows:
+(i)
+An advanced carbon dividend shall be the same as the anticipated first carbon dividend required to be distributed under subparagraph (A) and shall be distributed the month prior to the first collection of the carbon fee.
+(ii)
+Total amounts disbursed as advanced carbon dividends shall be deducted from the carbon dividends on a pro-rata basis over the first 3 years after the disbursement of the first carbon dividends.
+(d)
+Administrative authority
+The Secretary shall promulgate rules, guidance, and regulations useful and necessary to implement the Carbon Dividend Trust Fund.
+.
+(b)
+Clerical amendment
+The table of sections for subchapter A of chapter 98 of such Code is amended by adding at the end the following new item:
+Sec.â9512. Carbon Dividend Trust Fund.
+.
+5.
+Limited disclosure of information
+Section 6103(l)
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraphs:
+(23)
+Limited disclosure of identity information relating to carbon dividend payments
+(A)
+Department of Treasury
+Individual identity information shall, without written request, be open to inspection by or disclosure to officers and employees of the Department of the Treasury whose official duties require such inspection or disclosure for purposes of administering section 9512 (relating the Carbon Dividend Trust Fund).
+(B)
+Commissioner of Social Security
+The Commissioner of Social Security shall, on written request, disclose to officers and employees of the Department of the Treasury individual identity information which has been disclosed to the Social Security Administration as is necessary to administer section 9512.
+(C)
+Restriction on disclosure
+Information disclosed under this paragraph shall be disclosed only for purposes of, and to the extent necessary in, carrying out section 9512.
+.
+6.
+National Academy of Sciences review of carbon fee and emissions reduction schedule
+(a)
+In general
+Not later than 10 years after the date of the enactment of this Act, the Secretary of Energy shall enter into an agreement with the National Academy of Sciences to prepare a report relating to the carbon fee imposed by
+section 9902
+of the Internal Revenue Code of 1986 and the emissions reduction schedule established under section 9903 of such Code.
+(b)
+Report requirements
+Such report shallâ
+(1)
+assess the efficiency and effectiveness of the carbon fee in achieving the emissions reduction targets set forth in section 9903 of such Code;
+(2)
+describe and make recommendations on whether the carbon fee rate and annual increases prescribed by section 9902(c) of such Code should be adjusted in order to optimize the efficiency and effectiveness of this Act in achieving the emissions reduction targets set forth in section 9903 of such Code;
+(3)
+describe the potential of the carbon fee to achieve future emissions reduction targets set forth in section 9903(a) of such Code through the year 2050;
+(4)
+describe and evaluate the effectiveness of the carbon fee in reducing emissions from key sectors of the economy, including sectors of the economy that have decreased their carbon emissions, sectors of the economy that have increased their carbon emissions, and sectors of the economy in which carbon emissions have not changed;
+(5)
+make findings and recommendations to Federal departments and agencies and to Congress on actions that could be taken to reduce carbon emissions in the sectors of the economy in which carbon emissions have not decreased;
+(6)
+make findings and recommendations on adjusting regulations enacted under the Clean Air Act (
+42 U.S.C. 7401
+et seq.) and other Federal laws that affect economic sectors achieving the emissions reduction targets set forth in section 9903 of such Code; and
+(7)
+provide an assessment of any other factors determined to be material to the efficiency and effectiveness of the carbon fee in achieving the goals set forth in this Act.
+(c)
+Report made publicly available
+Not later than 10 years after the date of the enactment of this Act, the Secretary of Energy shall submit to Congress the report required under subsection (a). Such report shall be made electronically available to the public and open to public comment for at least 60 days before the final submission to Congress.
+7.
+Impact of carbon fee on biomass use and carbon sinks
+(a)
+Study of biomass
+The Secretary of Energy shall enter into an agreement with the National Academy of Sciences to conduct a study, make recommendations, and submit a report regarding the impact of the carbon fee imposed by
+section 9902
+of the Internal Revenue Code of 1986 on the use of biomass as an energy source and the resulting impacts on carbon sinks.
+(b)
+Study requirements
+The study conducted under subsection (a) by the National Academy of Sciences shall include analysis, documentation, and determinations onâ
+(1)
+the impact of the carbon fee onâ
+(A)
+the use of biomass as an energy source; and
+(B)
+greenhouse gas emissions from the use of biomass as an energy source;
+(2)
+the impacts of the use of biomass as an energy source on carbon sinks; and
+(3)
+the various types of biomass that are being used as an energy source.
+(c)
+Recommendations
+Based on the findings and conclusions of the study, the National Academy of Sciences shall make recommendations to Federal departments and agencies and to Congress. The recommendations shall include any actions that should be taken to mitigate impacts of the carbon fee onâ
+(1)
+increasing greenhouse gas emissions from the use of biomass as an energy source; and
+(2)
+degradation of carbon sinks relating to the use of biomass as an energy source.
+(d)
+Report
+The National Academy of Sciences shall prepare a report that includes any findings and recommendations made pursuant to this section and, not later than 18 months after the date of the enactment of this Act, make such report electronically available to the public.
+8.
+Environmental Protection Agency review
+(a)
+In general
+Not earlier than the date that is 6 years after the date of enactment of this Act, the Administrator of the Environmental Protection Agency (referred to in this section as the
+Administrator
+) shall evaluate the effectiveness of the fees imposed by sections 9902, 9904, and 9908 of the Internal Revenue Code of 1986 at reducing emissions in accordance with the emissions reduction schedule set forth in section 9903 of such Code.
+(b)
+Review of regulations
+(1)
+In general
+If the Administrator determines that the fees imposed by sections 9902, 9904, and 9908 of the Internal Revenue Code of 1986 are effectively reducing emissions, such that the emissions reduction schedule set forth in section 9903 of such Code is met or exceeded, the Administrator mayâ
+(A)
+review any regulations imposed on the combustion of any covered fuel on which a fee is also imposed by section 9902 or 9908 of the Internal Revenue Code of 1986; and
+(B)
+review any regulations imposed on any fluorinated greenhouse gas on which a fee is also imposed by
+section 9904
+of the Internal Revenue Code of 1986.
+(2)
+Limitation
+The Administrator shall not review under this subsection any regulation imposedâ
+(A)
+on a pollutant that is not a greenhouse gas; or
+(B)
+that is imposed for the purpose ofâ
+(i)
+protecting public health and welfare;
+(ii)
+monitoring, reporting, or recordkeeping;
+(iii)
+conducting or supporting investigations; or
+(iv)
+information collection.
+9.
+Effective date
+The amendments made by this Act shall take effect on the date of the enactment of this Act, except the carbon fee under
+section 9902
+of the Internal Revenue Code of 1986 shall apply to uses, sales, or transfers more than 270 days after the date of the enactment of this Act.
+10.
+Principle of interpretation
+In the case of ambiguity, the texts of this statute and its amending texts shall be interpreted so as to allow for the most effective abatement of greenhouse gas emissions.
+11.
+No preemption of State law
+Nothing in this legislation shall preempt or supersede, or be interpreted to preempt or supersede, any State law or regulation.

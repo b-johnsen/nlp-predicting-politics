@@ -1,0 +1,63 @@
+1.
+Short title
+This Act may be cited as the
+Data Analytics Robocall Technology Act of 2021
+or the
+DART Act of 2021
+.
+2.
+Definitions
+In this Actâ
+(1)
+the term
+Commission
+means the Federal Communications Commission;
+(2)
+the term
+covered ruling
+means the
+Declaratory Ruling and Third Further Notice of Proposed Rulemaking in the matter of Advanced Methods to Target and Eliminate Unlawful Robocalls
+, adopted by the Commission on June 6, 2019 (FCC 19â51; CG Docket No. 17â59);
+(3)
+the term
+public safety answering point
+has the meaning given the term in section 222(h) of the Communications Act of 1934 (
+47 U.S.C. 222(h)
+); and
+(4)
+the term
+voice service
+means any service thatâ
+(A)
+is interconnected with the public switched telephone network; and
+(B)
+furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934 (
+47 U.S.C. 251(e)(1)
+).
+3.
+Rulemaking
+Not later than 18 months after the date of enactment of this Act, the Commission shall initiate a rulemaking to consider establishing a process under which the Commission shall maintain a list of numbers that are not eligible to be blocked by a voice service provider, which may include a number usedâ
+(1)
+for outgoing calls by a public safety answering point or a similar facility that is designated to originate or route emergency calls;
+(2)
+to originate calls from a government entity, such as a call generated during an emergency;
+(3)
+by a school, or a similar institution, to provide school-related notifications, such as a notification regardingâ
+(A)
+a weather-related closure; or
+(B)
+the existence of an emergency affecting a school or students attending a school; and
+(4)
+for similar or emergency purposes, as determined appropriate by the Commission.
+4.
+Reports on deployment and implementation of call blocking and caller ID authentication
+Not later than 180 days after the date on which the Commission receives any report under paragraph 90 of the covered ruling, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representativesâ
+(1)
+an analysis by the Commission with respect to the effectiveness of various categories of call blocking tools, as evaluated in the report; and
+(2)
+any legislative recommendations of the Commission relating to the report.
+5.
+Rule of construction
+Nothing in this Act may be construed to impede or delay the analysis by the Commission of the most effective means by which to maintain and administer a list of numbers that may not be blocked (referred to in the covered ruling as a
+Critical Calls List
+), as considered in the covered ruling.

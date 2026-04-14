@@ -1,0 +1,169 @@
+1.
+Short title
+This Act may be cited as the
+Roadway Safety Modernization Act of 2025
+.
+2.
+Inclusion of highway safety technology in certain highway and freight safety programs
+(a)
+Amendments to highway safety programs
+(1)
+Highway safety improvement program
+Section 148 of title 23, United States Code, is amendedâ
+(A)
+in subsection (a)â
+(i)
+in paragraph (4)(B) by adding at the end the following new clause:
+(xxx)
+The development, acquisition, or deployment of safety data and systems, including predictive analytics, telematics, and other validated methodology tools for purposes of highway safety.
+;
+(ii)
+in paragraph (10)(B) by striking
+includes,
+and all that follows through the period at the end and inserting
+includesâ
+(i)
+in the case of a railway-highway grade crossing, the characteristics of highway and train traffic, licensing, and vehicle data; and
+(ii)
+to the extent practicable, data collected via predictive analytics, telematics, or other validated methodology tools for use in risk modeling and highway safety planning.
+; and
+(iii)
+in paragraph (13)â
+(I)
+by redesignating subparagraphs (H) through (J) as subparagraphs (I) through (K), respectively; and
+(II)
+by inserting after subparagraph (G) the following:
+(H)
+incorporates predictive analytics, telematics, or other validated methodology tools for use in risk modeling and highway safety planning;
+; and
+(B)
+in subsection (c)â
+(i)
+in paragraph (1)(B) by striking
+; and
+and inserting
+, including by using of safety data to proactively identify and address roadway safety risks and such safety problems; and
+;
+(ii)
+in paragraph (2)(A)â
+(I)
+in clause (v) by striking
+and
+at the end;
+(II)
+in clause (vi) by striking the semicolon and inserting
+; and
+; and
+(III)
+by adding at the end the following new clause:
+(vii)
+using crash data and predictive analytics, telematics, or other validated methodology tools;
+; and
+(iii)
+in paragraph (2)(B)â
+(I)
+in clause (iv) by striking
+and
+at the end; and
+(II)
+by adding at the end the following new clauses:
+(vi)
+evaluate how effective a safety project is at reducing crashes, injuries, or fatalities; and
+(vii)
+assess the comparative benefits, if any, of safety strategies and interventions to determine which such strategies and interventions yield the greatest improvement to safety, taking into account characteristics of various locations and risk factors;
+.
+(2)
+National highway freight program
+Section 167 of title 23, United States Code, is amendedâ
+(A)
+in subsection (h)â
+(i)
+in paragraph (5)(C) by adding at the end the following new clause:
+(xxiv)
+Development, acquisition, or deployment of safety data tools, including predictive analytics, telematics, and other validated methodology tools to improve freight safety and support performance-based planning, including performance-based planning under sections 134 and 135.
+; and
+(ii)
+in paragraph (6)(B)(i) by inserting before the semicolon
+, including the use of predictive analytics, telematics, and other validated methodology tools
+;
+(B)
+in subsection (j), by amending to read as follows:
+(j)
+Intelligent freight transportation system operating standards
+Not later than 1 year after the date of enactment of the
+Roadway Safety Modernization Act of 2025
+, the Administrator shallâ
+(1)
+determine whether there is a need for establishing operating standards for intelligent freight transportation systems; and
+(2)
+if the Administrator determines there is such a need, submit to Congress a report on such need.
+; and
+(C)
+by adding at the end the following new subsection:
+(l)
+Definitions
+In this section:
+(1)
+Intelligent freight transportation system
+The term
+intelligent freight transportation system
+meansâ
+(A)
+innovative or intelligent technological transportation systems, infrastructure, or facilities, including elevated freight transportation facilitiesâ
+(i)
+in proximity to, or within, an existing right of way on a Federal-aid highway; or
+(ii)
+that connect land ports of entry to existing Federal-aid highways; or
+(B)
+communications or information processing systems that improve the efficiency, security, or safety of freight movements on the Federal-aid highway system, including to improve the conveyance of freight on dedicated intelligent freight lanes.
+(2)
+Safety data
+The term
+safety data
+has the meaning given such term in section 148(a).
+.
+(3)
+National priority safety programs
+Section 405(c) of title 23, United States Code, is amendedâ
+(A)
+in paragraph (1)â
+(i)
+in subparagraph (E) by striking the period at the end and inserting
+; and
+; and
+(ii)
+by adding at the end the following:
+(F)
+encourage the integration of predictive analytics, telematics, and other validated methodology tools into safety data systems of the State.
+; and
+(B)
+in paragraph (4)â
+(i)
+in subparagraph (H)(ii) by striking
+and
+at the end;
+(ii)
+in subparagraph (I) by striking the period at the end and inserting
+; and
+; and
+(iii)
+by adding at the end the following:
+(J)
+deploying or using predictive analytics, telematics, and other validated methodology tools to identify high-risk roadway segments, evaluate crash causation factors, and support the development of performance-based planning, including performance-based planning under sections 134 and 135.
+.
+(b)
+Guidance
+Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall develop and issue guidance regarding best practices forâ
+(1)
+anonymizing data collected for highway safety purposes, securing such data, and protecting personally identifiable information;
+(2)
+promoting transparency and accountability in using predictive analytics, telematics, and other validated methodology tools; and
+(3)
+ensuring that safety data and related technologies are grounded in validated methodologies (such as actuarial validation, behavioral risk analysis, and other proven risk indicators) to ensure, to the extent practicable, the reliability and effectiveness of such data and technologies.
+(c)
+Coordination; consultation
+The Secretary shallâ
+(1)
+within the Department of Transportation, ensure the coordination of activities carried out with respect to, or programs that fund the use of, predictive safety tools, including any such activities or programs of the Federal Highway Administration, National Highway Traffic Safety Administration, Federal Motor Carrier Safety Administration, Federal Railroad Administration, Office of the Assistant Secretary for Research and Technology, and the Intelligent Transportation Systems Joint Program Office; and
+(2)
+consult with the Secretary of Energy, Secretary of Commerce, and the heads of any other agency determined appropriate by the Secretary of Transportation to promote the effective use of predictive analytics, telematics, and other validated methodology tools in, and ensure interoperability of such tools across, Federal programs.

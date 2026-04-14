@@ -1,0 +1,187 @@
+1.
+Short title
+This Act may be cited as the
+Crypto-Asset Environmental Transparency Act of 2023
+.
+2.
+Definitions
+In this Act:
+(1)
+Administrator
+The term
+Administrator
+means the Administrator of the Environmental Protection Agency.
+(2)
+Air pollutant
+The term
+air pollutant
+has the meaning given the term in section 302 of the Clean Air Act (
+42 U.S.C. 7602
+).
+(3)
+Block
+The term
+block
+means a group of data stored as a single record in a blockchain.
+(4)
+Blockchain
+The term
+blockchain
+means a distributed ledger technology in whichâ
+(A)
+the data are shared across a network that creates a digital ledger of verified transactions or information among network participants; and
+(B)
+the data are typically linked using cryptography to maintain the integrity of the ledger and execute other functions, including transfer of ownership or value.
+(5)
+Consensus mechanism
+The term
+consensus mechanism
+means a process to achieve agreement among network participants on the current state of a blockchain.
+(6)
+Crypto-asset
+The term
+crypto-asset
+means a digital asset, which may be a medium of exchange, a representation of value, or both, for which generation or ownership records of the digital asset are recorded in a distributed ledger technology that relies on cryptography.
+(7)
+Crypto-asset mining
+The term
+crypto-asset mining
+means the process of performing computations to add a valid block of data to the blockchain, typically in exchange for a reward or fee.
+(8)
+Power load
+The term
+power load
+means the amount of electrical power, in megawatts, that can be consumed by a qualifying crypto-asset mining operation.
+(9)
+Qualifying crypto-asset mining operation
+The term
+qualifying crypto-asset mining operation
+meansâ
+(A)
+an individual crypto-asset mining facility that has a power load that is greater than or equal to 5 megawatts; or
+(B)
+multiple crypto-asset mining facilities thatâ
+(i)
+are owned by the same company; and
+(ii)
+(I)
+each have a power load that is less than 5 megawatts; but
+(II)
+have a cumulative power load that is greater than or equal to 5 megawatts.
+(10)
+Scope 1 emissions
+The term
+scope 1 emissions
+means greenhouse gas emissions directly from sources that are operated, controlled, or owned by an individual or entity performing a qualifying crypto-asset mining operation.
+(11)
+Scope 2 emissions
+The term
+scope 2 emissions
+means indirect greenhouse gas emissions associated with the purchase of electricity, steam, heat, or cooling by an individual or entity performing a qualifying crypto-asset mining operation.
+(12)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+3.
+Compliance with the Clean Air Act
+(a)
+Rulemaking required
+(1)
+Proposed regulation
+Not later than 1 year after the date of enactment of this Act, the Administrator shall, pursuant to section 114(a) of the Clean Air Act (
+42 U.S.C. 7414(a)
+), issue a notice of proposed rulemaking to revise part 98 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act)â
+(A)
+to require qualifying crypto-asset mining operations to report as covered facilities under subpart A of that part;
+(B)
+to add a new subpart to that part that includes qualifying crypto-asset mining operations as a source category;
+(C)
+to include in the new subpart created under subparagraph (B) appropriate calculation methodologies, reporting guidelines, and monitoring operations of, with respect to qualifying crypto-asset mining operations, scope 1 emissions and scope 2 emissions; and
+(D)
+to designate the qualifying crypto-asset mining operations source category established pursuant to subparagraph (B) as a source category that is subject to greenhouse gas reporting requirements and related monitoring, recordkeeping, and reporting requirements under section 98.2 of that title, regardless of whether a qualifying crypto-asset mining operation emits at least 25,000 metric tons of carbon dioxide-equivalent.
+(2)
+Final Rule
+Not later than 180 days after the date on which the public comment period on the proposed rule under paragraph (1) closes, the Administrator shall issue a final rule revising part 98 of title 40, Code of Federal Regulations.
+(b)
+Assessment
+Not later than 1 year after the date on which the Administrator finalizes the rule required under subsection (a), the Administrator shall, pursuant to section 114(a) of the Clean Air Act (
+42 U.S.C. 7414(a)
+), issue requests for information for the purpose of conducting an assessment of, with respect to qualifying crypto-asset mining operations, the permit programs under the Clean Air Act (
+42 U.S.C. 7401 et seq.
+), which shall include identifying the extent to which any qualifying crypto-asset mining operations are improperly operating without a valid and current permit under that Act.
+(c)
+Authorization of appropriations
+There is authorized to be appropriated to the Administrator to carry out this section $5,000,000 for fiscal year 2023, to remain available until expended.
+(d)
+Savings provision
+Nothing in this section limits the ability of the Administrator to require the reporting of emissions of any type in another source category.
+4.
+Impact study
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with the Secretary, the Administrator of the Energy Information Administration, the Federal Energy Regulatory Commission, and the head of any other Federal agency the Administrator or the Secretary determines appropriate, shall conduct a study on the environmental impacts of crypto-asset mining in the United States.
+(b)
+Study Requirements
+The study required under subsection (a) shall includeâ
+(1)
+the number and location of any existing or planned qualifying crypto-asset mining operation;
+(2)
+the amount of greenhouse gas emissions and other air pollutants that areâ
+(A)
+released by an onsite energy source; and
+(B)
+attributable to offsite-generated electricity, steam, heat, or cooling provided to a qualifying crypto-asset mining operation;
+(3)
+the anticipated increase of new, and expansion of existing, qualifying crypto-asset mining operations;
+(4)
+the potential impacts of electric energy consumption by qualifying crypto-asset mining operations, including by prolonging the use of fossil fuel generators, on the ability of the United States to achieve the greenhouse gas emission reductions necessary to keep global warming below 1.5 degrees Celsius compared to pre-industrial levels;
+(5)
+the ecological impacts, including ecological impacts associated with electronic waste generation and the use or discharge of cooling water, caused by qualifying crypto-asset mining operations;
+(6)
+the potential public health impacts due to the reduced air and water quality and increased water stress on communities near qualifying crypto-asset mining operations;
+(7)
+the potential public health impacts from greenhouse gas emissions released by qualifying crypto-asset mining operations;
+(8)
+the potential public health and ecological impacts from noise generated by qualifying crypto-asset mining operations;
+(9)
+the amount of electric energy consumed by each qualifying crypto-asset mining operation, including the time of use of electricity and the potential grid stress posed by the power load of the qualifying crypto-asset mining operation;
+(10)
+the source of electric energy consumed by each qualifying crypto-asset mining operation;
+(11)
+the aggregated energy-use statistics and greenhouse gas emissions statistics for qualifying crypto-asset mining operations in the United States;
+(12)
+an analysis of energy use and greenhouse gas emissions by type of consensus mechanism;
+(13)
+an analysis of demand-response programs negotiated between qualifying crypto-asset mining operations and electric utilities;
+(14)
+an analysis of potential rate-design measures that could be implemented by State and local regulators to reduce the energy consumption and dependence on fossil fuel energy sources of crypto-asset mining operations;
+(15)
+a geospatial assessment of the extent to which crypto-asset mining operations are located within environmental justice communities, as defined by the Administrator or within the Climate and Economic Justice Screening Tool of the Council on Environmental Quality; and
+(16)
+an identification of, and recommendations for, best practices for data types, data sources, and methodologies for accurately measuring, modeling, and tracking the environmental impacts of crypto-asset mining operations in the United States in the future.
+(c)
+Public Comment
+Before conducting the study required by subsection (a), the Administrator shall provide an opportunity for public comment and advice relevant to conducting the study.
+(d)
+Report to Congress
+Not later than 18 months after the date of enactment of this Act, the Administrator shall submit to the Committees on Energy and Commerce and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Energy and Natural Resources of the Senate, and publish on the public websites of the Environmental Protection Agency and the Department of Energy, a report that contains the results of the study required by subsection (a).
+(e)
+Authorization of Appropriations
+There is authorized to be appropriated to the Administrator to carry out this section $5,000,000 for fiscal year 2023, to remain available until expended.
+5.
+Energy efficiency of data center buildings
+Section 453(a)(1) of the Energy Independence and Security Act of 2007 (
+42 U.S.C. 17112(a)(1)
+) is amendedâ
+(1)
+in subparagraph (A), by striking ââorââ at the end after the semicolon;
+(2)
+in subparagraph (B), by striking the period at the end and inserting ââ; orââ; and
+(3)
+by adding at the end the following:
+(C)
+a facility in which 2 or more computers perform logical operations to mine or create crypto-asset (as defined in section 2 of the
+Crypto-Asset Environmental Transparency Act of 2023
+).
+.

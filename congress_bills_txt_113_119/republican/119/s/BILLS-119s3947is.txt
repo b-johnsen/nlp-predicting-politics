@@ -1,0 +1,425 @@
+1.
+Short title
+This Act may be cited as the
+Reconductoring Existing Wires for Infrastructure Reliability and Expansion Act
+or the
+REWIRE Act
+.
+2.
+Definitions
+In this Act:
+(1)
+Advanced transmission conductor
+The term
+advanced transmission conductor
+means a conductor, including a carbon fiber conductor, a composite core conductor, a superconductor, and any other conductor, thatâ
+(A)
+has a direct current electrical resistance at least 10 percent lower than a traditional ACSR conductor of a similar diameter and weight;
+(B)
+has a potential energy carrying capacity at least 70 percent greater than a traditional ACSR conductor of a similar diameter and weight; and
+(C)
+has a coefficient of thermal expansion at least 50 percent lower than a traditional ACSR conductor of a similar diameter and weight.
+(2)
+ASCR conductor
+The term
+ASCR conductor
+means an aluminum conductor steel-reinforced cable.
+(3)
+Bulk-power system
+The term
+bulk-power system
+has the meaning given the term in section 215(a) of the Federal Power Act (
+16 U.S.C. 824o(a)
+).
+(4)
+Commission
+The term
+Commission
+means the Federal Energy Regulatory Commission.
+(5)
+Effective load carrying capability; ELCC
+(A)
+In general
+The term
+effective load carrying capability
+or
+ELCC
+means the ability of a generating resource to produce electricity when the grid needs it, measured as the additional load (or perfect replacement capacity) that the system can supply with a particular generator of interest with no net change in reliability.
+(B)
+Clarification
+The additional load (or perfect replacement capacity) referred to in subparagraph (A)â
+(i)
+may be measured using LOLE, EUE, or other metrics; and
+(ii)
+may be divided by the nameplate capacity of the generating resource to yield a percentage.
+(6)
+Electric Reliability Organization
+The term
+Electric Reliability Organization
+has the meaning given the term in section 215(a) of the Federal Power Act (
+16 U.S.C. 824o(a)
+).
+(7)
+Electric utility
+The term
+electric utility
+has the meaning given the term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).
+(8)
+Expected unserved energy; EUE
+The term
+expected unserved energy
+or
+EUE
+means the cumulative amount of energy (in megawatt-hours) per year that is not provided to customers due to outages.
+(9)
+Grid-enhancing technology
+The term
+grid-enhancing technology
+means any hardware or software thatâ
+(A)
+increases the capacity, efficiency, reliability, resilience, or safety of transmission facilities and transmission technologies; and
+(B)
+is installed in addition to transmission facilities and transmission technologiesâ
+(i)
+to give operators of the transmission facilities and transmission technologies more situational awareness and control over the electric grid;
+(ii)
+to make the transmission facilities and transmission technologies more efficient; or
+(iii)
+to increase the transfer capacity of the transmission facilities and transmission technologies.
+(10)
+Independent System Operator
+The term
+Independent System Operator
+has the meaning given the term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).
+(11)
+Integrated resource planning
+The term
+integrated resource planning
+means modeling and evaluating how projected long-term electricity demands (such as electricity demands over periods of 5, 10, 20, or more years) within a service area can be met with a combination of electric generation resources that best achieve desired metrics, such as metrics relating to reliability, resilience, and cost.
+(12)
+Loss of load expectation; LOLE
+(A)
+In general
+The term
+loss of load expectation
+or
+LOLE
+means the expected number of days per year that the available generation capacity is less than the system load for the applicable power grid region or service area.
+(B)
+Clarification
+As of November 2023, a commonly acceptable value for loss of load expectation is 0.1 days per year, as described in the standard of the North American Electric Reliability Corporation entitled
+Planning Resource Adequacy Analysis, Assessment and Documentation
+and numbered BALâ502âRFâ03.
+(13)
+National Laboratory
+The term
+National Laboratory
+has the meaning given the term in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+).
+(14)
+Planning reserve margin
+(A)
+In general
+The term
+planning reserve margin
+means the quotient, expressed as a percentage, obtained by dividingâ
+(i)
+the difference betweenâ
+(I)
+deliverable electric system supply capacity for a power grid region or service area; and
+(II)
+net demand in that power grid region or service area; by
+(ii)
+net demand in that power grid region or service area.
+(B)
+Clarification
+As of November 2023, a reserve margin falling within the range from 15 percent to 25 percent is typical for a power grid region or service area.
+(15)
+Power grid
+The term
+power grid
+means that portion of an Interconnection (as defined in section 215(a) of the Federal Power Act (
+16 U.S.C. 824o(a)
+)) that is located within the United States, including the relevant portion of each of the following:
+(A)
+The Eastern Interconnection.
+(B)
+The Western Interconnection.
+(C)
+The Texas Interconnection.
+(16)
+Power grid region
+The term
+power grid region
+means a geographic areaâ
+(A)
+located within a power grid; and
+(B)
+for which a regional entity (as defined in subsection (a) of section 215 of the Federal Power Act (
+16 U.S.C. 824o
+)) has enforcement authority under that section.
+(17)
+Probabilistic modeling
+(A)
+In general
+The term
+probabilistic modeling
+means a modeling approach that uses statistics to simulate and quantify the likelihood of achieving desired metrics, taking into consideration all modeled uncertainties, for determination of the optimal resource portfolio, such as a modeling approach consistent with the document of the North American Electric Reliability Corporation entitled
+Probabilistic Assessment Technical Guideline Document
+and dated August 2016, including the recommendations described in that document.
+(B)
+Inclusion
+The term
+probabilistic modeling
+includes modeling that can identify the most important parameters that impact a simulated metric for further characterization or optimization.
+(18)
+Regional Transmission Organization
+The term
+Regional Transmission Organization
+has the meaning given the term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).
+(19)
+Reliability standard
+The term
+reliability standard
+has the meaning given the term in section 215(a) of the Federal Power Act (
+16 U.S.C. 824o(a)
+).
+(20)
+Resource adequacy
+The term
+resource adequacy
+means the adequate supply and provision of electricity from various electric generation resources to meet projected electricity demands in a particular power grid region or service area.
+(21)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(22)
+Service area
+The term
+service area
+means the area or region served byâ
+(A)
+an electric utility;
+(B)
+a Regional Transmission Organization; or
+(C)
+an Independent System Operator.
+(23)
+State regulatory authority
+The term
+State regulatory authority
+has the meaning given the term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).
+3.
+Categorical exclusion for reconductoring
+Part II of the Federal Power Act (
+16 U.S.C. 824 et seq.
+) is amended by inserting after section 216 the following:
+216A.
+Grid capacity expansion in existing rights-of-way
+(a)
+Definition of previously disturbed or developed
+In this section, the term
+previously disturbed or developed
+has the meaning given the term in section 1021.102(g)(1) of title 10, Code of Federal Regulations (or a successor regulation).
+(b)
+Establishment of categorical exclusion
+Activities to increase the capacity of the electric grid within existing rights-of-way or on previously disturbed or developed land are a category of actions designated as being categorically excluded from the preparation of an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969 (
+42 U.S.C. 4321 et seq.
+).
+(c)
+Inclusions
+The activities to which the categorical exclusion established by subsection (b) shall apply include any repair, maintenance, replacement, upgrade, modification, optimization, or minor relocation of, addition to, or addition of energy storage at or near, an existing electric transmission or distribution facility or associated infrastructure, including electrical substations, within an existing right-of-way or on otherwise previously disturbed or developed land, including reconductoring and installation of grid-enhancing technologies.
+.
+4.
+Return on equity for advanced transmission conductors
+Section 219 of the Federal Power Act (
+16 U.S.C. 824s
+) is amendedâ
+(1)
+in subsection (a), by striking
+Not later than 1 year after the date of enactment of this section, the
+and inserting
+The
+;
+(2)
+in subsection (b), in the matter preceding paragraph (1), by inserting
+issued under subsection (a)
+after
+rule
+;
+(3)
+in subsection (c)â
+(A)
+in the second sentence, by striking
+The Commission
+and inserting the following:
+(2)
+Recoverable costs
+The Commission
+; and
+(B)
+in the first sentence, by striking
+In the rule issued under this section
+and inserting the following:
+(1)
+In general
+In the rule issued under subsection (a)
+;
+(4)
+in subsection (d), by striking
+All rates approved under the rules adopted pursuant to this section, including any revisions to the rules, are
+and inserting
+Any rate approved under a rule issued pursuant to this section (including a revision to a rule) shall be
+; and
+(5)
+by adding at the end the following:
+(e)
+Advanced transmission conductors
+(1)
+Return on equity
+Not later than 1 year after the date of enactment of the
+REWIRE Act
+, the Commission shall promulgate new, or revise existing, rules under this section to improve the return on equity for investments in advanced transmission conductors (as defined in section 2 of that Act).
+(2)
+Consumer protections
+The Commission shall ensure that all rates approved under the rules promulgated or revised under this subsection (including any subsequent revisions to those rules) are just and reasonable and not unduly discriminatory or preferential, as required by subsection (d).
+.
+5.
+State energy programs
+Section 362(c)(7)(B) of the Energy Policy and Conservation Act (
+42 U.S.C. 6322(c)(7)(B)
+) is amended by inserting
+, including reconductoring with advanced transmission conductors (as defined in section 2 of the
+REWIRE Act
+) and the installation of grid-enhancing technologies (as defined in that section)
+before the semicolon at the end.
+6.
+National Laboratory modeling and evaluation program
+(a)
+In general
+The Secretary, acting through 1 or more National Laboratories, in consultation with the Commission and the Electric Reliability Organization, shall establish a program to model and evaluate the performance of the electric grid.
+(b)
+Requirements
+In carrying out the program established under subsection (a), the Secretary shall develop 1 or more probabilistic models for transmission planning, resource adequacy modeling, and integrated resource planning thatâ
+(1)
+reflect the specific needs, resources, and attributes of a given power grid region or service area;
+(2)
+ensure consistent methods based on best practices;
+(3)
+include consideration of uncertainties relating toâ
+(A)
+transmission systems and infrastructure;
+(B)
+the impact of weather (such as the impact of temperature on transmission facilities, including line ratings);
+(C)
+congestion and thermal overload; and
+(D)
+the costs of new or modified transmission infrastructure, including reconductoring with advanced transmission conductors and the deployment of grid-enhancing technologies; and
+(4)
+include consideration of other relevant transmission uncertainties, including those which may be unique to a given power grid region or service area, as determined by the Secretary in consultation with the Commission.
+(c)
+Use of modeling
+The Secretary shall ensure that the models developed pursuant to the program established under subsection (a) may be used, at a minimumâ
+(1)
+to simulate and quantify desired metrics, taking into consideration the relevant uncertainties described in paragraphs (3) and (4) of subsection (b), which may be used to assist in transmission planning and the determination of the optimal resource portfolio for the applicable power grid region or service area, includingâ
+(A)
+loss of load expectation;
+(B)
+expected unserved energy;
+(C)
+effective load carrying capability (also known as
+capacity value
+);
+(D)
+planning reserve margin;
+(E)
+electricity transmission losses;
+(F)
+congestion; and
+(G)
+cost;
+(2)
+to identify the parameters and processes considered under subsection (b) thatâ
+(A)
+have the most impact on the magnitude or uncertainty of the applicable simulated metrics; and
+(B)
+can be further characterized or optimized to improve the modeling and determination of the optimal resource portfolio and transmission system for the applicable power grid region or service area; and
+(3)
+to identify areas where the deployment of advanced transmission technologies, such as advanced transmission conductors or grid-enhancing technologies, may improve electric grid performance.
+(d)
+Regional collaboratives
+(1)
+In general
+In carrying out the program under subsection (a), the Secretary shall establish regional collaboratives between the National Laboratories and institutions of higher education.
+(2)
+Considerations
+The Secretary shall, to the maximum extent practicable, prioritize establishing regional collaboratives under paragraph (1) thatâ
+(A)
+are between regional institutions of higher education and National Laboratories that are owned and operated by the Federal Government;
+(B)
+include institutions of higher education with existing demonstration capability, such as field-scale systems of not less than 100 kilovolt-amperes or laboratory capabilities of not less than 10 kilovolt-amperes, to support technology validation, utility adoption, industry engagement, and workforce development;
+(C)
+demonstrate rural grid planning models (including transmission and distribution co-simulation and digital twin capabilities); or
+(D)
+utilize existing active data sharing and joint modeling programs between institutions of higher education and participating utilities at a statewide scale.
+7.
+Technical assistance relating to the use of advanced transmission conductors
+(a)
+Definitions
+In this section:
+(1)
+Developer
+The term
+developer
+means a developer of electric transmission facilities or technologies that pays to install a high-voltage transmission conductor.
+(2)
+Eligible entity
+The term
+eligible entity
+meansâ
+(A)
+a developer;
+(B)
+an electric utility;
+(C)
+a State;
+(D)
+a Regional Transmission Organization or Independent System Operator; or
+(E)
+any other relevant entity, as determined by the Secretary.
+(b)
+Technical assistance and application guide
+(1)
+Application guide
+Not later than 1 year after the date of enactment of this Act, the Secretary shall establish an application guide for eligible entities seeking to implementâ
+(A)
+advanced transmission conductors, including through reconductoring with advanced transmission conductors; and
+(B)
+grid-enhancing technologies.
+(2)
+Updates
+The guide established under paragraph (1) shall be reviewed and updated annually.
+(3)
+Technical assistance
+(A)
+In general
+On request of an eligible entity using the guide established under paragraph (1), the Secretary shall provide technical assistance to that eligible entity with respect to the use of advanced transmission conductors and grid-enhancing technologies for particular applications.
+(B)
+Clearinghouse
+In carrying out subparagraph (A), the Secretary shall establish a clearinghouse of previously completed projects that the Secretary and eligible entities may use to identify issues and solutions relating toâ
+(i)
+the use of advanced transmission conductors;
+(ii)
+reconductoring with advanced transmission conductors; and
+(iii)
+the use of grid-enhancing technologies.

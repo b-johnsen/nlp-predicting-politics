@@ -1,0 +1,251 @@
+1.
+Short title
+This Act may be cited as the
+Reinforcing and Evaluating Service Integrity, Local Infrastructure, and Emergency Notification for Todayâs Networks Act
+or the
+RESILIENT Networks Act
+.
+2.
+Network resiliency cooperative requirements
+Title VII of the Communications Act of 1934 (
+47 U.S.C. 601
+et seq.) is amended by adding at the end the following:
+723.
+Network resiliency cooperative requirements
+(a)
+Required coordinated response in times of emergency
+(1)
+In general
+Not later than 1 year after the date of the enactment of this section, the Commission, in consultation with the Secretary of Homeland Security, shall conduct a proceeding and, after public notice and an opportunity for comment, adopt rules to provide for coordination among providers of advanced communications service during times of emergency.
+(2)
+Required aspects of coordination
+In issuing the rules required by paragraph (1), the Commission shall require that, where technically feasibleâ
+(A)
+providers of wireless advanced communications service have in place reasonable roaming and peering agreements for times of emergency, which can be employed without additional negotiation, as necessary; and
+(B)
+providers of advanced communications service have in place reasonable arrangements for the provision of mutual aid for times of emergency, as necessary.
+(b)
+Required assistance for first responders
+(1)
+In general
+Not later than 1 year after the date of the enactment of this section, the Commission shall, after public notice and an opportunity for comment, adopt rules designed to improve coordination for times of emergency between providers of advanced communications service and public safety answering points and covered public safety entities.
+(2)
+Providing detailed timely network outage data to first responders
+In issuing the rules required by paragraph (1), the Commission shallâ
+(A)
+make changes to the Disaster Information Reporting System to facilitate the participation in such System by all providers of advanced communications service;
+(B)
+require providers of advanced communications service to participate in the Disaster Information Reporting System during times of emergency;
+(C)
+ensure information collected through the Disaster Information Reporting System is made available to public safety answering points and covered public safety entities in those areas where the Disaster Information Reporting System is activated in an easily accessible format thatâ
+(i)
+facilitates the provision of such information as soon as possible, in light of efforts to remedy network disruption and restore services, with reasonably sufficient granularity and speed to help such public safety answering points and covered public safety entities understand the timing, nature, and scope of reported disruptions to the provision of advanced communications service during times of emergency, including disruptions to the provision of such service to public safety answering points or covered public safety entities;
+(ii)
+reflects the status of operations of and disruptions affecting the individual reporting providerâs network during times of emergency and does not reflect the continued provision of advanced communications service using roaming and peering arrangements; and
+(iii)
+allows such information to be accessed through a secure internet website; and
+(D)
+ensure that providers of advanced communications service are not held liable for outage reports based upon reasonable efforts to identify accurately any such outages as soon as reasonably practicable during times of emergency that may later be determined to have contained inaccurate information.
+(3)
+Access and security
+In issuing the rules required by paragraph (1), the Commission shall ensure thatâ
+(A)
+the information described in paragraph (2)(C) is secured against access by any person not authorized to access such information and that persons authorized to access such information are trained in reasonable security measures to protect such information;
+(B)
+such information will be used by public safety answering points and covered public safety entities exclusively for the purpose of responding to public safety concerns during times of emergency, and that public safety answering points and covered public safety entities will be required to notify the Commission and affected providers of advanced communications service as soon as reasonably practicable in the event of any breach or other unauthorized use; and
+(C)
+the public continues to have access to the information published by the Commission on its websites in times of emergency in a manner that is at least as accessible to the public as before the date of the enactment of this section.
+(c)
+Coordinated response master directory
+(1)
+In general
+Not later than 1 year after the date of the enactment of this section, the Commission, in consultation with the Secretary of Energy, shall, after public notice and an opportunity for comment, establish a master point-of-contact directory to provide for effective communication between providers of advanced communications service, tower owner or operators, and public safety answering points, covered public safety entities, and utilities.
+(2)
+Access and security
+In establishing the directory under paragraph (1), the Commission shall ensure thatâ
+(A)
+the directory established under paragraph (1) is secured against access by any person not authorized to access such directory information and that persons authorized to access such information are trained in reasonable security measures to protect such information;
+(B)
+such information is updated by the Commission no less frequently than quarterly; and
+(C)
+such information will be used by public safety answering points and covered public safety entities exclusively for the purpose of responding to public safety concerns, and that public safety answering points and covered public safety entities will be required to notify the Commission and affected providers of advanced communications service, tower owner or operators, and utilities as soon as reasonably practicable in the event of any breach or other unauthorized use.
+(d)
+Triennial review of coordinated response policies
+(1)
+In general
+Not later than the date that is 4 years after the date of the enactment of this section, and every 3 years thereafter, the Commission shall, after public notice and an opportunity for comment, evaluate whether the rules adopted and directory established under this section, coupled with any other actions that the Commission has taken regarding network resiliency, are substantially improving the resiliency of advanced communications services in times of emergency.
+(2)
+Additional action
+If the Commission finds in an evaluation under paragraph (1) that the rules issued pursuant to this section and the directory established under this section, coupled with any other actions that the Commission has taken regarding network resiliency, are not substantially improving the resiliency of advanced communications services, the Commission shall seek comment and consider amending such rules and directory to take additional action that may be necessary and within its jurisdiction to help ensure those rules more efficiently promote the resiliency of advanced communications services in times of emergency.
+(e)
+Exemption from Paperwork Reduction Act
+Information collected under this section shall not constitute a collection of information for the purposes of subchapter I of
+chapter 35
+of title 44, United States Code (commonly referred to as the Paperwork Reduction Act).
+(f)
+Definitions
+In this section:
+(1)
+Advanced communications service
+The term
+advanced communications service
+has the meaning given such term in section 3 and has the meaning given to the term
+advanced telecommunications capability
+in section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+), but such term shall not include the network of the First Responder Network Authority established by section 6204 of the Middle Class Tax Relief and Job Creation Act of 2012 (
+47 U.S.C. 1424
+).
+(2)
+Disaster Information Reporting System
+The term
+Disaster Information Reporting System
+means the system described in the public notice released by the Commission on September 11, 2007 (DA 07â3871).
+(3)
+Utility
+The term
+utility
+has the meaning given to the term
+distribution utility
+in section 217 of the Federal Power Act (
+16 U.S.C. 824q
+).
+(4)
+Public safety answering point
+The term
+public safety answering point
+has the meaning given such term in section 222.
+(5)
+Covered public safety entity
+The term
+covered public safety entity
+is an entity responsible for emergency management functions during times of emergency that is expressly authorized by the Federal Emergency Management Agency or Governor of a State as eligible to access outage information pursuant to subsections (b) and (c).
+(6)
+Roaming
+The term
+roaming
+means the ability of a subscriber of wireless advanced communications service to originate or terminate a call, to continue an in-progress call, or to transmit or receive data, using the facilities of a provider of wireless advanced communications service different than the one with whom the subscriber has a direct preexisting service or financial relationship.
+(7)
+Time of emergency
+The term
+time of emergency
+meansâ
+(A)
+the time period of an emergency (as defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (
+42 U.S.C. 5122
+));
+(B)
+the time period that the Federal Communications Commission activates the Disaster Information Reporting System; or
+(C)
+the time period of an emergency as declared by the Governor of a State.
+(8)
+Tower owner or operator
+The term
+tower owner or operator
+has the meaning given to such term in section 427 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (
+42 U.S.C. 5189e
+).
+(9)
+Resiliency
+The term
+resiliency
+means the ability to withstand and recover rapidly from disruptions. Resiliency includes the ability to withstand and recover from deliberate attacks, accidents, or naturally occurring threats or incidents.
+.
+3.
+Stopping accidental cuts to communications networks
+(a)
+Study
+Not later than 180 days after the date of the enactment of this Act, the Commission shall, in consultation with the Secretary of Transportation, and after public notice and an opportunity for comment, complete a study on the feasibility of expanding the one-call notification system programs under chapter 61 and section 60114 of title 49, United States Code, to cover advanced communications service.
+(b)
+Considerations
+In conducting the study under subsection (a), the Commission shall consider additional solutions to prevent third-party damage to infrastructure used in the provision of advanced communications service, including dig-once policies, and the use of wireless backhaul.
+(c)
+Report
+Not later than 270 days after the date of the enactment of this Act, the Commission shall publish on the website of the Commission and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report detailing the findings and recommendations of the study conducted under subsection (a).
+4.
+Keeping advanced communications service operational
+(a)
+Coordination best practices
+Not later than 1 year after the date of the enactment of this Act, the Commission, in consultation with the Secretary of Energy, shall adopt, after public notice and an opportunity for comment, a set of recommended best practices on how providers of advanced communications service and utilities should coordinate in order to ensure that advanced communications service remains operational during times of emergency and pre-planned power downs.
+(b)
+Measures
+Not later than 1 year after the date of the enactment of this Act, the Commission, in consultation with the Secretary of Energy and Secretary of Homeland Security, shallâ
+(1)
+establish a process by which providers of advanced communications service and utilities share information regarding what infrastructure, used in the provision of advanced communications service, should be prioritized for reenergization to best restore critical parts of such providersâ networks necessary for emergency response and restoration efforts, in a manner that promotes the most efficient and effective use of resources during times of emergency and pre-planned power downs;
+(2)
+ensure that providers of advanced communications service take reasonable and technically feasible measures to integrate backup power, including generators and batteries, into such providersâ networks to continue the provision of advanced communications service during and following times of emergency and during pre-planned power downs with particular focus on consumersâ ability to send and receive emergency communications;
+(3)
+take all necessary, reasonable measures to ensure appropriate coordination including at incident command centers established during times of emergency between utilities, covered public safety entities, providers of advanced communications service, and, where appropriate, Federal, State, and local representatives, to ensure such utilities, entities, and providersâ
+(A)
+are aware of where infrastructure used in the provision of advanced communications service is located to avoid inadvertently damaging such infrastructure and thereby delaying restoration of advanced communications service during and following times of emergency and pre-planned power downs;
+(B)
+communicate with each other on a regular and ongoing basis regarding the progress of network restoration during and following times of emergency and pre-planned power downs; and
+(C)
+are aware of their respective restoration plans, priorities, and critical sites in advance of any emergency, as well as during and following times of emergency and pre-planned power downs; and
+(4)
+ensure any and all information exchanged pursuant to this section will be subject to reasonable confidentiality protections, accessed only by authorized users responsible for coordination required by this section, and used exclusively for the purpose of ensuring advanced communications service remains operational during and following times of emergency and pre-planned power downs.
+5.
+Promoting 5G resiliency
+(a)
+Report
+Not later than 1 year after the date of the enactment of this Act and after public notice and an opportunity for comment, the Commission, in consultation with the Secretary of Homeland Security, shall publish on the website of the Commission and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a report that includes the following:
+(1)
+An evaluation of any unique (with respect to other forms of advanced communications service) challenges or advantages of 5G wireless networks with regard to the resiliency of such networks to withstand disruptions during times of emergency.
+(2)
+An analysis of the following:
+(A)
+5G wireless networks using high-band frequencies of the electromagnetic spectrum.
+(B)
+5G wireless networks using low-band frequencies of the electromagnetic spectrum.
+(C)
+The backhaul requirements of 5G wireless networks.
+(D)
+The power requirements of 5G wireless networks.
+(E)
+The potential uses of 5G wireless networks in responding to natural and manmade disasters for public safety officials and the public that are specific to 5G wireless networks.
+(F)
+The uses of 5G wireless networks to provide wireless emergency alerts and disÂ­patchÂ­able location to public safety answering points.
+(G)
+The uses of 5G wireless networks in responding to natural and manmade disasters in rural areas.
+(3)
+Recommendations regarding regulatory or statutory changes that could address any challenges to, or better use any advantages of, 5G wireless networks with regard to the deployment and resiliency of such networks.
+(b)
+Rules may be required
+Not later than 2 years after the date the Commission submits its report, the Commission shall consider whether to adopt rules or issue best practices to address any challenges or better use any advantages of 5G wireless networks with regard to the resiliency of such networks are needed.
+6.
+Audit of FCCâs response to 2017 hurricane season in Puerto Rico
+(a)
+In general
+The Comptroller General of the United States shall conduct a performance audit of the Commissionâs efforts to restore advanced communications service, and other communications services, in Puerto Rico during, and following, the 2017 hurricane season.
+(b)
+Required considerations
+In conducting the study under subsection (a), the Comptroller General shall examineâ
+(1)
+the timeliness of the Commissionâs actions to restore advanced communications service, and other communications services, in Puerto Rico during, and following, the 2017 hurricane season; and
+(2)
+how the Commission responded following the 2017 hurricane season in Puerto Rico as compared to how the Commission responded to other natural disasters, including hurricanes, previously or subsequently.
+(c)
+Report
+Not later than 18 months after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the findings of the study under subsection (a), including any recommendations.
+(d)
+No combination
+Such study and report required by subsection (a), (b), or (c) may not be combined or associated with any other ongoing, or subsequently requested, study by the Comptroller General.
+(e)
+Proceeding
+Not later than 2 years after the date of the enactment of this Act, the Commission shall commence a proceeding regarding what actions are appropriate for the Commission to take in addressing the findings and recommendations outlined in the report issued under subsection (c).
+7.
+Rule of construction
+Nothing in this Act or the amendments made by this Act shall affect the operation or authority of the First Responder Network Authority established by section 6204 of the Middle Class Tax Relief and Job Creation Act of 2012 (
+47 U.S.C. 1424
+).
+8.
+Definitions
+In this Act:
+(1)
+Terms defined in section 723 of Communications Act of 1934, as amended
+The terms defined in section 723 of the Communications Act of 1934, as added by section 2, have the meanings given such terms in section 723.
+(2)
+Commission
+The term
+Commission
+means the Federal Communications Commission.

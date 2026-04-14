@@ -1,0 +1,42 @@
+1.
+Short title
+This Act may be cited as the
+Amateur Radio Communications Improvement Act
+.
+2.
+Findings
+Congress finds the following:
+(1)
+More than 778,000 amateur operators in the United States are licensed by the Federal Communications Commission in the amateur radio services, and, by treaty, additional amateur operators licensed by other sovereign entities and jurisdictions are authorized to operate within the United States.
+(2)
+Amateur radio, in addition to providing life-saving emergency communications at no cost to taxpayers, provides a fertile ground for technical self-training in modern telecommunications, electronics technology, and emergency communications techniques and protocols.
+(3)
+In 2016, the Commission issued a Notice of Proposed Rulemaking agreeing with the petition of the American Radio Relay League to remove an outmoded limit on digital data rate transmissions (contained in part 97.307(f) of title 47, Code of Federal Regulations) that constrains the use of the amateur spectrum, particularly during emergencies and declared disasters.
+(4)
+Adopted in 1980, the present data rate limit is a relic of an era long since relegated to obsolescence by the remarkable advancements in digital data communications.
+(5)
+The present data rate limit has no place in the modern digital communications world. Slower speeds needlessly occupy busy amateur frequencies for longer than necessary to transmit messages, leading to unnecessary crowding without benefit to anyone, and a delay in the transmission of mission critical information during emergencies and declared disasters.
+(6)
+United States amateurs developed the first amateur digital protocols, but now are consigned to watching as amateurs in other countries take the lead in squeezing more data within each bandwidth. Amateurs in other countries universally are permitted to use modern digital data speeds denied amateurs in the United States. United States amateurs can hear and decode higher speed signals every day, but are not permitted to respond with the same protocol.
+(7)
+This situation is not because of any affirmative decision, but simply because there has been an 8-year unexplained lack of action to update the rules.
+(8)
+It is embarrassing that in recent years, including this year, radio amateurs have had to apply to the Commission for temporary waivers, which are always granted, of the limit on data communications to efficiently manage emergency, health, and welfare messages from hurricane-prone Caribbean islands, and even from within the United States. Amateurs in the Caribbean, as in other areas of the world, generally are using equipment and software developed by the amateur community and promoted by the International Telecommunication Union specifically to ensure communications capabilities during times of severe weather.
+(9)
+Amateur radio has led many young people into scientific and engineering professions, including many related to the digital services and technologies that are at the heart of the wireless communications marketplace of today. The incentive to work on improving data communications technologies is the ability to experiment on the airwaves and to employ improved capabilities both casually and in times of need.
+(10)
+This capability should be restored to radio amateurs in the United States.
+3.
+Repeal of symbol rate limits for transmissions on certain amateur frequencies and adoption of 2.8 kHz bandwidth limit
+Not later than 180 days after the date of the enactment of this Act, the Federal Communications Commission, pursuant to section 303 of the Communications Act of 1934 (
+47 U.S.C. 303
+) and as proposed in FCC Docket 16â239, shallâ
+(1)
+repeal the symbol (or baud) rate limits in part 97.307(f) of title 47, Code of Federal Regulations; and
+(2)
+adopt, in place of such symbol (or baud) rate limits, a 2.8 kHz bandwidth limit for any single digital signal on the frequencies referred to in such part.
+4.
+Commission defined
+In this Act, the term
+Commission
+means the Federal Communications Commission.

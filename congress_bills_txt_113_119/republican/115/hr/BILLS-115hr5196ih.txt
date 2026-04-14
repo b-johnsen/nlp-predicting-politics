@@ -1,0 +1,350 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Commercial Engagement Through Ocean Technology Act of 2018
+or the
+CENOTE Act of 2018
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec.â1.âShort title; table of contents.
+Sec.â2.âDefinitions.
+Title IâAssessment and acquisition of unmanned maritime systems
+Sec.â101.âEstablishment of program on assessment and acquisition by National Oceanic and
+Atmospheric Administration of unmanned maritime systems.
+Sec.â102.âRegular assessment of unmanned maritime systems to support National Oceanic and
+Atmospheric Administration missions.
+Sec.â103.âAcquisition of unmanned maritime systems.
+Sec.â104.âAnnual report on unmanned maritime systems and effects on mission of the National Oceanic
+and Atmospheric Administration.
+Sec.â105.âAdditional authorities.
+Title IIâAvailability of data from unmanned maritime systems
+Sec.â201.âPublic availability of data collected by National Oceanic and Atmospheric Administration
+using unmanned maritime systems.
+Sec.â202.âPublic engagement on matters relating to data collected by National Oceanic and
+Atmospheric Administration using unmanned maritime systems.
+Sec.â203.âFacilitating joint projects between National Oceanic and Atmospheric Administration and
+private industry on unmanned maritime systems.
+2.
+Definitions
+In this Act:
+(1)
+Administration
+The term
+Administration
+means the National Oceanic and Atmospheric Administration.
+(2)
+Administrator
+The term
+Administrator
+means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+(3)
+Cooperative activities of the Administration
+The term
+cooperative activities of the Administration
+means cooperative activities between the Administration and an external entity, such as the Cooperative Institutes, Sea Grant Colleges, National Estuarine Research Reserves, the National Oceanographic Partnership Program established under
+chapter 665
+of title 10, United States Code, and regional associations of the Integrated Ocean Observing System.
+(4)
+Curate the data and data curation
+The terms
+curate the data
+and
+data curation
+shall encompass the processes of conducting quality assurance and quality control measures for data, capturing associated appropriate metadata, electronic storage and back up of the data, and ensuring accessibility of the data.
+(5)
+Data specifications
+The term
+data specifications
+shall refer to the type, resolution, periodicity, and quality of data required by a program of the Administration.
+(6)
+Program
+The term
+Program
+means the program established under section 101(a).
+(7)
+Test or training range
+(A)
+In general
+The term
+test or training range
+means an area designated for operating unmanned maritime systems and other types of systems for the purpose ofâ
+(i)
+evaluating the performance of such systems; or
+(ii)
+training personnel on operating procedures for such systems.
+(B)
+Inclusions
+The term
+test or training range
+may include specialized fixed or portable instrumentation for the operation of unmanned maritime systems and other types of systems.
+(8)
+Unmanned maritime systems
+(A)
+In general
+The term
+unmanned maritime systems
+means remotely operated or autonomous vehicles produced by the commercial sectorâ
+(i)
+designed to travel in the air, on or under the ocean surface, on land, or any combination, and that function without an on-board human presence; and
+(ii)
+that may include associated components such as control and communications, data transmission, and processing systems.
+(B)
+Examples
+The term
+unmanned maritime systems
+includes the following:
+(i)
+Unmanned undersea vehicles.
+(ii)
+Unmanned surface vehicles.
+(iii)
+Unmanned aerial vehicles.
+(iv)
+Autonomous underwater vehicles.
+(v)
+Autonomous surface vehicles.
+(vi)
+Autonomous aerial vehicles.
+I
+Assessment and acquisition of unmanned maritime systems
+101.
+Establishment of program on assessment and acquisition by National Oceanic and Atmospheric Administration of unmanned maritime systems
+(a)
+Establishment
+The Administrator shall establish within the Office of Oceanic and Atmospheric Research (OAR) and the Office of Marine and Aviation Operations (OMAO) a joint program office to coordinate the Administrationâs research, assessment, and acquisition of unmanned maritime systems. The program established under this section shall also consider the use of unmanned maritime systems in cooperative activities of the Administration.
+(b)
+Coordination within the Administration
+(1)
+Authority to establish coordinating committee
+The Administrator shall establish a coordinating committee to ensure that the Program addresses requirements throughout the Administration.
+(2)
+Included
+In establishing a coordinating committee under paragraph (1), the Administrator shall ensure that representation in the committee is included from the following:
+(A)
+The Office of Ocean Exploration (OER).
+(B)
+The program office of the Integrated Ocean Observing System.
+(C)
+Such other offices of the Administration as the Administrator determines are actively engaged with unmanned maritime systems.
+(3)
+Designation
+A coordinating committee established under paragraph (1) shall be known as the
+Unmanned Maritime Systems Ocean Technology Coordinating Committee
+.
+(c)
+Coordination with the Navy
+(1)
+In general
+In carrying out the Program, the Administrator shallâ
+(A)
+make efforts to coordinate with the Secretary of the Navy to leverage expertise in the development and operational transition of unmanned maritime systems;
+(B)
+align with, utilize, and inform the Deputy Under Secretary of Commerce for Operations and the Oceanographer of the Navyâs strategic and operational priorities, particularly for missions and geography within the Administrationâs purview;
+(C)
+seek to utilize Naval unmanned systems test or training ranges, such as the Gulf of Mexico Unmanned Systems Test and Training Range of the Naval Meteorology and Oceanography Command, and maximize interagency cooperation and sharing of best practices;
+(D)
+to formalize coordination, execute a memorandum of understanding with the Secretary of the Navy that includesâ
+(i)
+incorporating consideration of priorities and requirements of the Administration into research and development activities conducted by the Secretary of the Navy;
+(ii)
+consultation intended to encourage and facilitate efforts by the Administration to partner with the Navy to procure unmanned maritime systems and to establish, instrument, and operate test or training ranges and related facilities;
+(iii)
+adopting procedures defined by the Secretary of the Navy for the Administration to access and utilize test or training ranges or related Naval facilities for purposes identified in paragraph (2)(B); and
+(iv)
+such other topics as the Administrator considers necessary or advisable, including mapping, bathymetry, observations, and ocean exploration; and
+(E)
+make efforts to coordinate with the United States Naval Postgraduate School to utilize its advanced infrastructure, laboratory facilities, student-faculty expertise, and research and development programs.
+(2)
+Location
+The Administrator shall, if practicable, carry out the Program at a facility where the Navy and the Administration are co-located, for the following purposes:
+(A)
+Gaining efficiencies through collaboration.
+(B)
+Advancing development of unmanned maritime systems, includingâ
+(i)
+systems research and development;
+(ii)
+systems testing;
+(iii)
+systems modifications; and
+(iv)
+systems integration.
+(C)
+Accelerating transition from concept to manufacturing and acquisition.
+(d)
+Coordination with other Federal agencies
+In carrying out the Program, the Administrator and the Secretary of the Navy may utilize the National Oceanographic Partnership Program, established under
+chapter 665
+of title 10, United States Code, as a mechanism for providing interagency coordination for the advancement of unmanned maritime systems.
+(e)
+Coordination with academic sector
+In carrying out the Program, to the extent approved by the Secretary of the Navy, the Administrator or the Secretary of the Navy may coordinate and co-locate with an academic research institution, or consortium of academic research institutions, for the following purposes:
+(1)
+Maximizing opportunities for research and development of unmanned maritime systems.
+(2)
+Providing training in unmanned maritime systems as part of an accredited certificate or degree program of education.
+(3)
+Facilitating the commercialization of unmanned maritime systems through public-private partnerships that includes academic research institutions, private industry, and public safety agencies.
+(4)
+Arranging access to and use of additional facilities that support testing and assessment of or training with respect to unmanned maritime systems under environmental conditions of interest, increasing operational tolerance under such conditions, certifying operational capacity under such conditions, whether real or simulated, and training operators of unmanned maritime systems in real or simulated environments.
+(5)
+Facilitating engagement with other academic institutions with interest or relevant expertise in unmanned maritime systems.
+(6)
+Promoting information sharing between the academic, environmental, and military institutions to lead to more robust, mission-oriented unmanned maritime systems.
+(f)
+Engagement with the private sector
+Other than as described in subsection (e) and to the extent approved by the Secretary of the Navy, the Administrator or the Secretary of the Navy may, in carrying out the Program, to the extent practicable, coordinate and consult with the private sectorâ
+(1)
+to support the commercialization of unmanned maritime systems; and
+(2)
+to assist with their assessment of commercially available unmanned maritime systems to support the missions and goals of the Navy, the Administration, and cooperative activities of the Administration.
+102.
+Regular assessment of unmanned maritime systems to support National Oceanic and Atmospheric
+Administration missions
+(a)
+In general
+The Administrator, acting through the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the Office of Marine and Aviation Operations and the National Oceanic and Atmospheric Administration Commissioned Officer Corps, shall regularly assess publicly and commercially available unmanned maritime systems for potential use to support missions of the Administration.
+(b)
+Science-Based assessments
+The Administrator shall carry out subsection (a) through the Assistant Administrator for all matters relating to assessment of the suitability of unmanned maritime systems to meet data specifications required by programs of the Administration.
+(c)
+Assessment of operational utility
+The Administrator shall carry out subsection (a) through the Director for all matters relating to assessment of whether unmanned maritime systems are operationally reliable enough to make in situ observations required by programs of the Administration.
+(d)
+Engagement
+The Assistant Administrator and the Director shall jointly consult with the heads of other offices of the Administration, with the academic sector, and with developers and manufacturers of unmanned maritime systems to conduct the assessments under subsection (a).
+103.
+Acquisition of unmanned maritime systems
+(a)
+In general
+The Administrator shall coordinate and centralize the acquisition by the Administration of unmanned maritime systems to meet the prioritized list of data requirements identified under section 104(b)(2).
+(b)
+Memoranda of understanding
+In order to realize greater savings and efficiency, the Administrator may develop and execute a memorandum of agreement with the Secretary of the Navy toâ
+(1)
+participate in procurements conducted by that Office;
+(2)
+accept decommissioned unmanned maritime systems from that Office;
+(3)
+develop policies and procedures to share unmanned maritime systems; or
+(4)
+provide for other means of creating efficiency and savings in Federal acquisition of unmanned maritime systems.
+(c)
+Rule of construction
+Nothing in this Act shall be construed to modify Federal procurement law.
+104.
+Annual report on unmanned maritime systems and effects on mission of the National Oceanic and Atmospheric Administration
+(a)
+In general
+In carrying out the Program, the Administrator shall, not later than one year after the date of the enactment of this Act, and every four years thereafter, submit to the appropriate committees of Congress a report on the effects of unmanned maritime systems on the mission of the Administration.
+(b)
+Contents
+Each report submitted under subsection (a) shall include, for the period covered by the report, the following:
+(1)
+An inventory of current unmanned maritime systems used by programs of the Administration, a summary of the data they have returned, and the benefits realized from having such data.
+(2)
+A prioritized list of data requirements of the Administration that could be met with unmanned maritime systems, and the estimated cost of acquiring such systems and data.
+(c)
+Appropriate committees of Congress defined
+In this section, the term
+appropriate committees of Congress
+meansâ
+(1)
+the Committee on Appropriations, the Committee on Armed Services, and the Committee on Commerce, Science, and Transportation of the Senate; and
+(2)
+the Committee on Appropriations, the Committee on Armed Services, the Committee on Natural Resources, and the Committee on Science, Space, and Technology of the House of Representatives.
+105.
+Additional authorities
+In carrying out this title, the Administrator mayâ
+(1)
+enter into contracts, cooperative agreements, and other transactions;
+(2)
+notwithstanding section 1342 of title 31, United States Code, accept donations and voluntary and uncompensated services;
+(3)
+accept funds from other Federal departments and agencies;
+(4)
+utilize the National Oceanographic Partnership Program established under
+chapter 665
+of title 10, United States Code, to accept funds from other Federal departments and agencies, to accept donations, and to enter into contracts and award grants; and
+(5)
+promulgate such rules and regulations as may be necessary and appropriate.
+II
+Availability of data from unmanned maritime systems
+201.
+Public availability of data collected by National Oceanic and Atmospheric Administration using unmanned maritime systems
+(a)
+Available to the public
+(1)
+In general
+Except as provided in paragraph (2), the Administrator shall make available, free of charge, to the public all data collected by the Administrator with the use of unmanned maritime systems.
+(2)
+Exception
+The Administrator shall not make data described in paragraph (1) available as described in such paragraph ifâ
+(A)
+the Secretary of the Navy determines that the data is subject to a restriction on availability, in whole or in part and on a term or permanent basis, relating to national security; or
+(B)
+the Administrator, in consultation with the Secretary of the Navy, determines the data is subject to a restriction on availability due to the need for protection of intellectual property or for pre-publication academic use.
+(b)
+Program of curation and distribution of data
+(1)
+Availability
+The Administrator, acting through the Assistant Administrator for Satellite and Information Services and the Assistant Administrator of the National Ocean Service jointly, shall use existing secure infrastructure such as the Integrated Ocean Observing Systemâ
+(A)
+to curate, distribute, store, and backup data described in subsection (a)(1); and
+(B)
+to facilitate joint projects under section 203.
+(2)
+Distribution
+In carrying out the program required by paragraph (1), the Administrator shall use efforts that were in effect on the day before the date of the enactment of this Act, such as the data management framework of the Integrated Ocean Observing System for Federal and non-Federal partnerships, to make data made available under subsection (a)(1) easily accessible to a wide range of users and stakeholders.
+(3)
+Storage and backup
+In carrying out the program required by paragraph (1), the Administrator shall use the data centers of the National Environmental and Satellite Data Information Service and the data assembly centers of the National Ocean Service that were in effect on the day before the date of the enactment of this Act to store and backup the data described in subsection (a)(1).
+202.
+Public engagement on matters relating to data collected by National Oceanic and Atmospheric
+Administration using unmanned maritime systems
+(a)
+In general
+Subject to subsection (b), the Assistant Administrator for Satellite and Information Services and the Assistant Administrator of the National Ocean Service shall jointly engage in cooperative activities of the Administration and with other interested users or potential users, including users from the academic, commercial, government, and not-for-profit sectors, as well as the general public to ensure thatâ
+(1)
+data are made available under section 201 in formats that areâ
+(A)
+useful; and
+(B)
+to the extent practicable, consistent and interoperable with data collected by the Integrated Ocean Observing System;
+(2)
+users and potential users of data made available under section 201 are aware of the range of data available under such section; and
+(3)
+the Administrationâ
+(A)
+develops a better understanding of data needs from users and potential users; and
+(B)
+anticipates future data infrastructure needs to meet growing demands for access to data sets of the Administration from commercial applications.
+(b)
+Approval of Secretary of the Navy
+Cooperative activities may be carried out under subsection (a) only to the extent that the Secretary of the Navy approves data made available under section 201 for release to the public after the Secretary determines there are no national security implications relating to that data.
+(c)
+Technical assistance
+The Assistant Administrator for Satellite and Information Services and the Assistant Administrator of the National Ocean Service shall jointly provide technical assistance to users or potential users on accessing the data provided under section 201.
+203.
+Facilitating joint projects between National Oceanic and Atmospheric Administration and private
+industry on unmanned maritime systems
+(a)
+In general
+In carrying out the program required by section 201(b)(1), the Administrator shall develop and implement a process to facilitate joint projects among private industry, research institutions, and other non-Federal entities with unmanned maritime systems expertise for the following purposes:
+(1)
+Improving ocean observing capabilities to monitor the physical, chemical, and biological conditions of the ocean.
+(2)
+Increasing cost effectiveness of developing technologies relating to unmanned maritime systems.
+(3)
+Seeking efficiencies in data collection and management through in the development and deployment of unmanned maritime systems.
+(4)
+Expanding global capabilities of ocean technology.
+(5)
+Capitalizing on emerging technological advances.
+(b)
+Use of existing partnerships
+The Administrator may consider using partnerships in existence on the day before the date of the enactment of this Act, such as such partnerships established through the National Oceanographic Partnership Program, for carrying out this section.

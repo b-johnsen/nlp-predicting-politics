@@ -1,0 +1,2336 @@
+1.
+Short title; etc
+(a)
+Short title
+This Act may be cited as the
+Clean Energy for America Act
+.
+(b)
+Amendment of 1986 Code
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+(c)
+Table of contents
+The table of contents of this Act is as follows:
+Sec. 1. Short title; etc.
+TITLE IâClean energy tax credits
+Sec. 101. Clean energy production credit.
+Sec. 102. Clean energy investment credit.
+Sec. 103. Extensions and modifications of various energy provisions.
+TITLE IIâClean fuel tax credits
+Sec. 201. Clean fuel production credit.
+Sec. 202. Temporary extension of existing fuel and transportation incentives.
+TITLE IIIâEnergy Efficiency Incentives
+Sec. 301. Credit for new energy efficient residential buildings.
+Sec. 302. Heating and air conditioning replacement credit.
+Sec. 303. Energy efficiency credit for existing residential buildings.
+Sec. 304. Deduction for new energy efficient commercial buildings.
+Sec. 305. Energy efficiency deduction for existing commercial buildings.
+Sec. 306. Temporary extension of existing energy efficiency incentives.
+TITLE IVâClean Electricity and Fuel Bonds
+Sec. 401. Clean energy bonds.
+I
+Clean energy tax credits
+101.
+Clean energy production credit
+(a)
+In general
+Subpart D of part IV of subchapter A of
+chapter 1
+is amended by adding at the end the following new section:
+45S.
+Clean energy production credit
+(a)
+Amount of credit
+(1)
+In general
+For purposes of section 38, the clean energy production credit for any taxable year is an amount equal to the product ofâ
+(A)
+the applicable credit rate (as determined under paragraph (2)), multiplied by
+(B)
+the kilowatt hours of electricityâ
+(i)
+produced by the taxpayer at a qualified facility, and
+(ii)
+(I)
+sold by the taxpayer to an unrelated person during the taxable year, or
+(II)
+in the case of a qualified facility which is equipped with a metering device which is owned and operated by an unrelated person, sold, consumed, or stored by the taxpayer during the taxable year.
+(2)
+Applicable credit rate
+(A)
+In general
+(i)
+Maximum credit rate
+Except as provided in clause (ii), the applicable credit rate is 1.5 cents.
+(ii)
+Reduction of credit based on greenhouse gas emission rate
+The applicable credit rate shall be reduced (but not below zero) by an amount which bears the same ratio to the amount in effect under clause (i) as the greenhouse gas emissions rate for the qualified facility bears to 325 grams of CO
+2
+e per KWh.
+(B)
+Rounding
+If any amount determined under subparagraph (A)(ii) is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+(b)
+Greenhouse gas emissions rate
+(1)
+In general
+For purposes of this section, the term
+greenhouse gas emissions rate
+means the amount of greenhouse gases emitted into the atmosphere by a qualified facility in the production of electricity, expressed as grams of CO
+2
+e per KWh.
+(2)
+Non-fossil fuel combustion and gasification
+In the case of a qualified facility which produces electricity through combustion or gasification of a non-fossil fuel, the greenhouse gas emissions rate for such facility shall be equal to the net rate of greenhouse gases emitted into the atmosphere by such facility in the production of electricity, expressed as grams of CO
+2
+e per KWh.
+(3)
+Establishment of safe harbor for qualified facilities
+(A)
+In general
+The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish safe-harbor greenhouse gas emissions rates for types or categories of qualified facilities, which a taxpayer may elect to use for purposes of this section.
+(B)
+Rounding
+In establishing the safe-harbor greenhouse gas emissions rates for qualified facilities, the Secretary may round such rates to the nearest multiple of 32.5 grams of CO
+2
+e per KWh (or, in the case of a greenhouse gas emissions rate which is less than 16.25 grams of CO
+2
+e per KWh, by rounding such rate to zero).
+(4)
+Carbon capture and sequestration equipment
+For purposes of this subsection, the amount of greenhouse gases emitted into the atmosphere by a qualified facility in the production of electricity shall not include any qualified carbon dioxide (as defined in section 48E(c)(3)(A)) that is captured and disposed of by the taxpayer.
+(c)
+Inflation adjustment
+(1)
+In general
+In the case of a calendar year beginning after 2018, the 1.5 cent amount in clause (i) of subsection (a)(2)(A) shall be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale or use of the electricity occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+(2)
+Annual computation
+The Secretary shall, not later than April 1 of each calendar year, determine and publish in the Federal Register the inflation adjustment factor for such calendar year in accordance with this subsection.
+(3)
+Inflation adjustment factor
+The term
+inflation adjustment factor
+means, with respect to a calendar year, a fraction the numerator of which is the GDP implicit price deflator for the preceding calendar year and the denominator of which is the GDP implicit price deflator for the calendar year 1992. The term
+GDP implicit price deflator
+means the most recent revision of the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce before March 15 of the calendar year.
+(d)
+Credit phase-Out
+(1)
+In general
+If the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines that the annual greenhouse gas emissions from electrical production in the United States are equal to or less than 65 percent of the annual greenhouse gas emissions from electrical production in the United States for calendar year 2017, the amount of the clean energy production credit under subsection (a) for any qualified facility placed in service during a calendar year described in paragraph (2) shall be equal to the product ofâ
+(A)
+the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by
+(B)
+the phase-out percentage under paragraph (2).
+(2)
+Phase-out percentage
+The phase-out percentage under this paragraph is equal toâ
+(A)
+for a facility placed in service during the first calendar year following the calendar year in which the determination described in paragraph (1) is made, 75 percent,
+(B)
+for a facility placed in service during the second calendar year following such determination year, 50 percent,
+(C)
+for a facility placed in service during the third calendar year following such determination year, 25 percent, and
+(D)
+for a facility placed in service during any calendar year subsequent to the year described in subparagraph (C), 0 percent.
+(e)
+Definitions
+In this section:
+(1)
+CO
+2
+e
+per
+KWh
+The term
+CO
+2
+e per KWh
+means, with respect to any greenhouse gas, the equivalent carbon dioxide per kilowatt hour of electricity produced.
+(2)
+Greenhouse gas
+The term
+greenhouse gas
+has the same meaning given such term under section 211(o)(1)(G) of the Clean Air Act (
+42 U.S.C. 7545(o)(1)(G)
+), as in effect on the date of the enactment of this section.
+(3)
+Qualified facility
+(A)
+In general
+Subject to subparagraphs (B) and (C), the term
+qualified facility
+means a facility which isâ
+(i)
+used for the generation of electricity, and
+(ii)
+originally placed in service after December 31, 2018.
+(B)
+10-year production credit
+For purposes of this section, a facility shall only be treated as a qualified facility during the 10-year period beginning on the date the facility was originally placed in service.
+(C)
+Expansion of facility; incremental production
+A qualified facility shall include either of the following in connection with a facility described in subparagraph (A)(i) that was previously placed in service, but only to the extent of the increased amount of electricity produced at the facility by reason of the following:
+(i)
+A new unit placed in service after December 31, 2018.
+(ii)
+Any efficiency improvements or additions of capacity placed in service after December 31, 2018.
+(D)
+Coordination with other credits
+The term
+qualified facility
+shall not include any facility for whichâ
+(i)
+a renewable electricity production credit determined under section 45 is allowed under section 38 for the taxable year or any prior taxable year,
+(ii)
+an energy credit determined under section 48 is allowed under section 38 for the taxable year or any prior taxable year, or
+(iii)
+a clean energy investment credit determined under section 48E is allowed under section 38 for the taxable year or any prior taxable year.
+(f)
+Final guidance
+Not later than January 1, 2018, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall issue final guidance regarding implementation of this section, including calculation of greenhouse gas emission rates for qualified facilities and determination of clean energy production credits under this section.
+(g)
+Special rules
+(1)
+Only production in the United States taken into account
+Consumption or sales shall be taken into account under this section only with respect to electricity the production of which is withinâ
+(A)
+the United States (within the meaning of section 638(1)), or
+(B)
+a possession of the United States (within the meaning of section 638(2)).
+(2)
+Combined heat and power system property
+(A)
+In general
+For purposes of subsection (a)(1)(B), the kilowatt hours of electricity produced by a taxpayer at a qualified facility shall include any production in the form of useful thermal energy by any combined heat and power system property within such facility.
+(B)
+Combined heat and power system property
+For purposes of this paragraph, the term
+combined heat and power system property
+has the same meaning given such term by section 48(c)(3) (without regard to subparagraphs (A)(iv), (B), and (D) thereof).
+(C)
+Conversion from BTU to KWh
+(i)
+In general
+For purposes of subparagraph (A), the amount of kilowatt hours of electricity produced in the form of useful thermal energy shall be equal to the quotient ofâ
+(I)
+the total useful thermal energy produced by the combined heat and power system property within the qualified facility, divided by
+(II)
+the heat rate for such facility.
+(ii)
+Heat rate
+For purposes of this subparagraph, the term
+heat rate
+means the amount of energy used by the qualified facility to generate 1 kilowatt hour of electricity, expressed as British thermal units per net kilowatt hour generated.
+(3)
+Production attributable to the taxpayer
+In the case of a qualified facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.
+(4)
+Related persons
+Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person if such electricity is sold to such a person by another member of such group.
+(5)
+Pass-thru in the case of estates and trusts
+Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+(6)
+Allocation of credit to patrons of agricultural cooperative
+(A)
+Election to allocate
+(i)
+In general
+In the case of an eligible cooperative organization, any portion of the credit determined under subsection (a) for the taxable year may, at the election of the organization, be apportioned among patrons of the organization on the basis of the amount of business done by the patrons during the taxable year.
+(ii)
+Form and effect of election
+An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+(B)
+Treatment of organizations and patrons
+The amount of the credit apportioned to any patrons under subparagraph (A)â
+(i)
+shall not be included in the amount determined under subsection (a) with respect to the organization for the taxable year, and
+(ii)
+shall be included in the amount determined under subsection (a) for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+(C)
+Special rules for decrease in credits for taxable year
+If the amount of the credit of a cooperative organization determined under subsection (a) for a taxable year is less than the amount of such credit shown on the return of the cooperative organization for such year, an amount equal to the excess ofâ
+(i)
+such reduction, over
+(ii)
+the amount not apportioned to such patrons under subparagraph (A) for the taxable year,
+shall be treated as an increase in tax imposed by this chapter on the organization. Such increase
+shall not be treated as tax imposed by this chapter for purposes of
+determining the amount of any credit under this chapter.
+(D)
+Eligible cooperative defined
+For purposes of this section, the term
+eligible cooperative
+means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
+.
+(b)
+Conforming amendments
+(1)
+Section 38(b)
+is amendedâ
+(A)
+in paragraph (35), by striking
+plus
+at the end,
+(B)
+in paragraph (36), by striking the period at the end and inserting
+, plus
+, and
+(C)
+by adding at the end the following new paragraph:
+(37)
+the clean energy production credit determined under section 45S(a).
+.
+(2)
+The table of sections for subpart D of part IV of subchapter A of
+chapter 1
+is amended by adding at the end the following new item:
+Sec. 45S. Clean energy production credit.
+.
+(c)
+Effective date
+The amendments made by this section shall apply to facilities placed in service after December 31, 2018.
+102.
+Clean energy investment credit
+(a)
+Business credit
+(1)
+In general
+Subpart E of part IV of subchapter A of
+chapter 1
+is amended by inserting after section 48D the following new section:
+48E.
+Clean energy investment credit
+(a)
+Investment credit for qualified property
+(1)
+In general
+For purposes of section 46, the clean energy investment credit for any taxable year is an amount equal to the sum ofâ
+(A)
+the clean energy percentage of the qualified investment for such taxable year with respect to any qualified facility, plus
+(B)
+30 percent of the qualified investment for such taxable year with respect toâ
+(i)
+qualified carbon capture and sequestration equipment, and
+(ii)
+energy storage property.
+(2)
+Clean energy percentage
+(A)
+In general
+(i)
+Maximum percentage
+Except as provided in clause (ii), the clean energy percentage is 30 percent.
+(ii)
+Reduction of percentage based on greenhouse gas emissions rate
+The clean energy percentage shall be reduced (but not below zero) by an amount which bears the same ratio to 30 percent as the anticipated greenhouse gas emissions rate for the qualified facility bears to 325 grams of CO
+2
+e per KWh.
+(B)
+Rounding
+If any amount determined under subparagraph (A)(ii) is not a multiple of 1 percent, such amount shall be rounded to the nearest multiple of 1 percent.
+(3)
+Coordination with rehabilitation credit
+The clean energy percentage shall not apply to that portion of the basis of any property which is attributable to qualified rehabilitation expenditures (as defined in section 47(c)(2)).
+(b)
+Qualified investment with respect to any qualified facility
+(1)
+In general
+For purposes of subsection (a)(1)(A), the qualified investment with respect to any qualified facility for any taxable year is the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of a qualified facility.
+(2)
+Qualified property
+The term
+qualified property
+means propertyâ
+(A)
+which isâ
+(i)
+tangible personal property, or
+(ii)
+other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified facility,
+(B)
+with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
+(C)
+which is constructed, reconstructed, erected, or acquired by the taxpayer, and
+(D)
+the original use of which commences with the taxpayer.
+(3)
+Qualified facility
+The term
+qualified facility
+has the same meaning given such term under section 45S(e)(3) (without regard to subparagraphs (B) and (D) thereof). Such term shall not include any facility for which a renewable electricity production credit under section 45 or an energy credit determined under section 48 is allowed under section 38 for the taxable year or any prior taxable year.
+(c)
+Qualified investment with respect to qualified carbon capture and sequestration equipment
+(1)
+In general
+For purposes of subsection (a)(1)(B)(i), the qualified investment with respect to qualified carbon capture and sequestration equipment for any taxable year is the basis of any qualified carbon capture and sequestration equipment placed in service by the taxpayer during such taxable year.
+(2)
+Qualified carbon capture and sequestration equipment
+The term
+qualified carbon capture and sequestration equipment
+means propertyâ
+(A)
+installed at a facility placed in service before January 1, 2019, which produces electricity,
+(B)
+which results in at least a 50 percent reduction in the carbon dioxide emissions rate at the facility, as compared to such rate before installation of such equipment, through the capture and disposal of qualified carbon dioxide (as defined in paragraph (3)(A)),
+(C)
+with respect to which depreciation is allowable,
+(D)
+which is constructed, reconstructed, erected, or acquired by the taxpayer, and
+(E)
+the original use of which commences with the taxpayer.
+(3)
+Qualified carbon dioxide
+(A)
+In general
+The term
+qualified carbon dioxide
+means carbon dioxide captured from an industrial source whichâ
+(i)
+would otherwise be released into the atmosphere as industrial emission of greenhouse gas,
+(ii)
+is measured at the source of capture and verified at the point of disposal or injection,
+(iii)
+is disposed of by the taxpayer in secure geological storage, and
+(iv)
+is captured and disposed of within the United States (within the meaning of section 638(1)) or a possession of the United States (within the meaning of section 638(2)).
+(B)
+Secure geological storage
+The term
+secure geological storage
+has the same meaning given to such term under section 45Q(d)(2).
+(d)
+Qualified investment with respect to energy storage property
+(1)
+In general
+For purposes of subsection (a)(1)(B)(ii), the qualified investment with respect to energy storage property for any taxable year is the basis of any energy storage property placed in service by the taxpayer during such taxable year.
+(2)
+Energy storage property
+The term
+energy storage property
+means propertyâ
+(A)
+which receives, stores, and delivers electricity or energy for conversion to electricity, provided that such electricity isâ
+(i)
+sold by the taxpayer to an unrelated person, or
+(ii)
+in the case of a facility which is equipped with a metering device which is owned and operated by an unrelated person, sold or consumed by the taxpayer,
+(B)
+with respect to which depreciation is allowable,
+(C)
+which is constructed, reconstructed, erected, or acquired by the taxpayer,
+(D)
+the original use of which commences with the taxpayer, and
+(E)
+which is placed in service after December 31, 2018.
+(e)
+Greenhouse gas emissions rate
+(1)
+In general
+For purposes of this section, the term
+greenhouse gas emissions rate
+has the same meaning given such term under subsection (b) of section 45S.
+(2)
+Establishment of safe harbor for qualified property
+(A)
+In general
+The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish safe-harbor greenhouse gas emissions rates for types or categories of qualified property which are part of a qualified facility, which a taxpayer may elect to use for purposes of this section.
+(B)
+Rounding
+In establishing the safe-harbor greenhouse gas emissions rates for qualified property, the Secretary may round such rates to the nearest multiple of 32.5 grams of CO
+2
+e per KWh (or, in the case of a greenhouse gas emissions rate which is less than 16.25 grams of CO
+2
+e per KWh, by rounding such rate to zero).
+(f)
+Certain progress expenditure rules made applicable
+Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
+(g)
+Credit phase-Out
+(1)
+In general
+If the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines that the annual greenhouse gas emissions from electrical production in the United States are equal to or less than 65 percent of the annual greenhouse gas emissions from electrical production in the United States for calendar year 2017, the amount of the clean energy investment credit under subsection (a) for any qualified facility, qualified carbon capture and sequestration equipment, or energy storage property placed in service during a calendar year described in paragraph (2) shall be equal to the product ofâ
+(A)
+the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by
+(B)
+the phase-out percentage under paragraph (2).
+(2)
+Phase-out percentage
+The phase-out percentage under this paragraph is equal toâ
+(A)
+for a facility or property placed in service during the first calendar year following the calendar year in which the determination described in paragraph (1) is made, 75 percent,
+(B)
+for a facility or property placed in service during the second calendar year following such determination year, 50 percent,
+(C)
+for a facility or property placed in service during the third calendar year following such determination year, 25 percent, and
+(D)
+for a facility or property placed in service during any calendar year subsequent to the year described in subparagraph (C), 0 percent.
+(h)
+Definitions
+In this section:
+(1)
+CO
+2
+e
+per
+KWh
+The term
+CO
+2
+e per KWh
+has the same meaning given such term under section 45S(e)(1).
+(2)
+Greenhouse gas
+The term
+greenhouse gas
+has the same meaning given such term under section 45S(e)(2).
+(i)
+Recapture of credit
+For purposes of section 50, if the Administrator of the Environmental Protection Agency determines thatâ
+(1)
+the greenhouse gas emissions rate for a qualified facility is significantly higher than the anticipated greenhouse gas emissions rate claimed by the taxpayer for purposes of the clean energy investment credit under this section, or
+(2)
+with respect to any qualified carbon capture and sequestration equipment installed in a facility, the carbon dioxide emissions from such facility cease to be captured or disposed of in a manner consistent with the requirements of subsection (c),
+the facility or equipment shall cease to be investment credit property in the taxable year in which
+the determination is made.
+(j)
+Final guidance
+Not later than January 1, 2018, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall issue final guidance regarding implementation of this section, including calculation of greenhouse gas emission rates for qualified facilities and determination of clean energy investment credits under this section.
+.
+(2)
+Conforming amendments
+(A)
+Section 46
+is amended by inserting a comma at the end of paragraph (4), by striking âandâ at the end of paragraph (5), by striking the period at the end of paragraph (6) and inserting â, andâ, and by adding at the end the following new paragraph:
+(7)
+the clean energy investment credit.
+.
+(B)
+Section 49(a)(1)(C)
+is amended by striking âandâ at the end of clause (v), by striking the period at the end of clause (vi) and inserting a comma, and by adding at the end the following new clauses:
+(vii)
+the basis of any qualified property which is part of a qualified facility under section 48E,
+(viii)
+the basis of any qualified carbon capture and sequestration equipment under section 48E, and
+(ix)
+the basis of any energy storage property under section 48E.
+.
+(C)
+Section 50(a)(2)(E)
+is amended by inserting
+or 48E(e)
+after
+section 48(b)
+.
+(D)
+The table of sections for subpart E of part IV of subchapter A of
+chapter 1
+is amended by inserting after the item relating to section 48D the following new item:
+48E. Clean energy investment credit.
+.
+(3)
+Effective date
+The amendments made by this subsection shall apply to property placed in service after December 31, 2018, under rules similar to the rules of
+section 48(m)
+of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+(b)
+Individual credit
+(1)
+In general
+Section 25D
+is amended to read as follows:
+25D.
+Clean residential energy credit
+(a)
+Allowance of credit
+(1)
+In general
+In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum ofâ
+(A)
+the clean energy percentage of the expenditures made by the taxpayer for qualified property which isâ
+(i)
+for use in a dwelling unit which is located in the United States and used as a residence by the taxpayer, and
+(ii)
+placed in service during such taxable year, plus
+(B)
+30 percent of the expenditures made by the taxpayer for energy storage property which isâ
+(i)
+for use in a dwelling unit which is located in the United States and used as a residence by the taxpayer, and
+(ii)
+placed in service during such taxable year.
+(2)
+Clean energy percentage
+(A)
+In general
+(i)
+Maximum percentage
+Except as provided in clause (ii), the clean energy percentage is 30 percent.
+(ii)
+Reduction of percentage based on greenhouse gas emissions rate
+The clean energy percentage shall be reduced (but not below zero) by an amount which bears the same ratio to 30 percent as the anticipated greenhouse gas emissions rate for the qualified property bears to 325 grams of CO
+2
+e per KWh.
+(B)
+Rounding
+If any amount determined under subparagraph (A)(ii) is not a multiple of 1 percent, such amount shall be rounded to the nearest multiple of 1 percent.
+(C)
+Definitions
+For purposes of this section, the terms
+greenhouse gas emissions rate
+and
+CO
+2
+e per KWh
+have the same meanings given such terms under subsections (b) and (e)(1) of section 45S, respectively.
+(3)
+Establishment of safe harbor for qualified property
+(A)
+In general
+The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish safe-harbor greenhouse gas emissions rates for types or categories of qualified property which are for use in a dwelling unit, which a taxpayer may elect to use for purposes of this section.
+(B)
+Rounding
+In establishing the safe-harbor greenhouse gas emissions rates for qualified property, the Secretary may round such rates to the nearest multiple of 32.5 grams of CO
+2
+e per KWh (or, in the case of a greenhouse gas emissions rate which is less than 16.25 grams of CO
+2
+e per KWh, by rounding such rate to zero).
+(b)
+Qualified property
+The term
+qualified property
+means propertyâ
+(1)
+which is tangible personal property,
+(2)
+which is used for the generation of electricity,
+(3)
+which is constructed, reconstructed, erected, or acquired by the taxpayer,
+(4)
+the original use of which commences with the taxpayer, and
+(5)
+which is originally placed in service after December 31, 2018.
+(c)
+Energy storage property
+The term
+energy storage property
+means property whichâ
+(1)
+receives, stores, and delivers electricity or energy for conversion to electricity which is consumed by the taxpayer, and
+(2)
+is equipped with a metering device which is owned and operated by an unrelated person.
+(d)
+Carryforward of unused credit
+If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+(e)
+Credit phase-Out
+(1)
+In general
+If the Secretary determines that the annual greenhouse gas emissions from electrical production in the United States are equal to or less than the percentage specified in section 48E(g), the amount of the credit allowable under subsection (a) for any qualified property or energy storage property placed in service during a calendar year described in paragraph (2) shall be equal to the product ofâ
+(A)
+the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by
+(B)
+the phase-out percentage under paragraph (2).
+(2)
+Phase-out percentage
+The phase-out percentage under this paragraph is equal toâ
+(A)
+for property placed in service during the first calendar year following the calendar year in which the determination described in paragraph (1) is made, 75 percent,
+(B)
+for property placed in service during the second calendar year following such determination year, 50 percent,
+(C)
+for property placed in service during the third calendar year following such determination year, 25 percent, and
+(D)
+for property placed in service during any calendar year subsequent to the year described in subparagraph (C), 0 percent.
+(f)
+Special rules
+For purposes of this section:
+(1)
+Labor costs
+Expenditures for labor costs properly allocable to the onsite preparation, assembly, or original installation of the qualified property or energy storage property and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section.
+(2)
+Tenant-stockholder in cooperative housing corporation
+In the case of an individual who is a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as defined in such section), such individual shall be treated as having made his tenant-stockholder's proportionate share (as defined in section 216(b)(3)) of any expenditures of such corporation.
+(3)
+Condominiums
+(A)
+In general
+In the case of an individual who is a member of a condominium management association with respect to a condominium which the individual owns, such individual shall be treated as having made the individual's proportionate share of any expenditures of such association.
+(B)
+Condominium management association
+For purposes of this paragraph, the term
+condominium management association
+means an organization which meets the requirements of paragraph (1) of section 528(c) (other than subparagraph (E) thereof) with respect to a condominium project substantially all of the units of which are used as residences.
+(4)
+Allocation in certain cases
+If less than 80 percent of the use of a property is for nonbusiness purposes, only that portion of the expenditures for such property which is properly allocable to use for nonbusiness purposes shall be taken into account.
+(g)
+Basis adjustment
+For purposes of this subtitle, if a credit is allowed under this section for any expenditures with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditures shall be reduced by the amount of the credit so allowed.
+(h)
+Final guidance
+Not later than January 1, 2018, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall issue final guidance regarding implementation of this section, including calculation of greenhouse gas emission rates for qualified property and determination of residential clean energy property credits under this section.
+.
+(2)
+Conforming amendments
+(A)
+Paragraph (1) of
+section 45(d)
+is amended by striking
+Such term
+and all that follows through the period and inserting the following:
+Such term shall not include any facility with respect to which any expenditures for qualified property (as defined in subsection (b) of section 25D) which uses wind to produce electricity is taken into account in determining the credit under such section.
+.
+(B)
+Paragraph (34) of
+section 1016(a)
+is amended by striking
+section 25D(f)
+and inserting
+section 25D(h)
+.
+(C)
+The item relating to section 25D in the table of contents for subpart A of part IV of subchapter A of
+chapter 1
+is amended to read as follows:
+Sec. 25D. Clean residential energy credit.
+.
+(3)
+Effective date
+The amendments made by this section shall apply to property placed in service after December 31, 2018.
+103.
+Extensions and modifications of various energy provisions
+(a)
+Residential energy efficient property
+(1)
+In general
+Subsection (h) of
+section 25D
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2018
+.
+(2)
+Elimination of phaseout
+Section 25D
+, as amended by paragraph (1), is amendedâ
+(A)
+in paragraphs (1) and (2) of subsection (a), by striking
+the applicable percentage
+each place it appears and inserting
+30 percent
+,
+(B)
+in subsection (h), by striking
+(December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)
+,
+(C)
+by striking subsection (g), and
+(D)
+by redesignating subsection (h) as subsection (g).
+(3)
+Effective date
+The amendments made by this subsection shall apply to property placed in service after December 31, 2016.
+(b)
+Electricity produced from certain renewable resources
+(1)
+In general
+The following provisions of section 45(d) are each amended by striking
+January 1, 2017
+each place it appears and inserting
+January 1, 2019
+:
+(A)
+Paragraph (2)(A).
+(B)
+Paragraph (3)(A).
+(C)
+Paragraph (4)(B).
+(D)
+Paragraph (6).
+(E)
+Paragraph (7).
+(F)
+Paragraph (9).
+(G)
+Paragraph (11)(B).
+(2)
+Termination of half-credit rate
+Subparagraph (A) of
+section 45(b)(4)
+is amended by inserting
+and before 2017
+after
+after 2003
+.
+(3)
+Effective date
+The amendments made by this subsection shall take effect on January 1, 2017.
+(c)
+Credit for production from advanced nuclear power facilities
+Section 45J(d)(1)(B)
+is amended by striking
+2021
+and inserting
+2019
+.
+(d)
+Repeal of energy efficient appliance credit
+(1)
+In general
+Subpart D of part IV of subchapter A of chapter 1 of subtitle A is amended by striking section 45M.
+(2)
+Conforming amendments
+(A)
+Section 38(b)
+is amended by striking paragraph (24).
+(B)
+The table of sections for subpart D of part IV of subchapter A of chapter 1 of subtitle A is amended by striking the item relating to section 45M.
+(3)
+Effective date
+The amendments made by this subsection shall take effect on the date of the enactment of this Act.
+(e)
+Credit for carbon dioxide sequestration
+Section 45Q(c)
+is amendedâ
+(1)
+in paragraph (2), by striking
+and
+at the end,
+(2)
+in paragraph (3), by striking the period at the end and inserting
+, and
+, and
+(3)
+by adding at the end the following new paragraph:
+(4)
+which is placed in service before January 1, 2019.
+.
+(f)
+Elimination of phaseout of credits for wind facilities and solar energy property
+(1)
+Wind facilities
+(A)
+In general
+Paragraph (1) of
+section 45(d)
+is amended by striking
+January 1, 2020
+and inserting
+January 1, 2019
+.
+(B)
+Phaseout
+Subsection (b) of
+section 45
+is amended by striking paragraph (5).
+(C)
+Qualified investment credit facility
+(i)
+In general
+Section 48(a)(5)(C)(ii)
+is amended by striking
+January 1, 2017
+and all that follows through
+section 45(d))
+and inserting
+January 1, 2019
+.
+(ii)
+Phaseout
+Paragraph (5) of
+section 48(a)
+is amended by striking subparagraph (E).
+(D)
+Effective date
+The amendments made by this paragraph shall take effect on January 1, 2017.
+(2)
+Solar energy property
+(A)
+In general
+Subclause (II) of
+section 48(a)(2)(A)(i)
+is amended by striking
+property the construction of which begins before January 1, 2022
+and inserting
+periods ending before January 1, 2019
+.
+(B)
+Phaseout
+Subsection (a) of
+section 48
+is amended by striking paragraph (6).
+(C)
+Conforming amendment
+Subparagraph (A) of
+section 48(a)(2)
+is amended by striking
+Except as provided in paragraph (6), the energy percentage
+and inserting
+The energy percentage
+.
+(D)
+Effective date
+The amendments made by this paragraph shall take effect on January 1, 2017.
+(g)
+Energy credit
+(1)
+Solar energy property
+Section 48(a)(3)(A)
+is amendedâ
+(A)
+in clause (i), by inserting
+but only with respect to periods ending before January 1, 2019
+after
+swimming pool,
+, and
+(B)
+in clause (ii), by striking
+January 1, 2017
+and inserting
+January 1, 2019
+.
+(2)
+Geothermal energy property
+Section 48(a)(3)(A)(iii)
+is amended by inserting
+with respect to periods ending before January 1, 2019, and
+after
+but only
+.
+(3)
+Thermal energy property
+Section 48(a)(3)(A)(vii)
+is amended by striking
+January 1, 2017
+and inserting
+January 1, 2019
+.
+(4)
+Qualified fuel cell property
+Section 48(c)(1)(D)
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2018
+.
+(5)
+Qualified microturbine property
+Section 48(c)(2)(D)
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2018
+.
+(6)
+Combined heat and power system property
+Section 48(c)(3)(A)(iv)
+is amended by striking
+January 1, 2017
+and inserting
+January 1, 2019
+.
+(7)
+Qualified small wind energy property
+Section 48(c)(4)(C)
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2018
+.
+(h)
+Qualifying advanced energy project credit
+(1)
+In general
+Section 48C
+is amendedâ
+(A)
+by redesignating subsection (e) as subsection (f), and
+(B)
+by inserting after subsection (d) the following new subsection:
+(e)
+Additional qualifying advanced energy program
+(1)
+Establishment
+(A)
+In general
+Not later than 180 days after the date of enactment of this subsection, the Secretary, in consultation with the Secretary of Energy, shall establish an additional qualifying advanced energy project program to consider and award certifications for qualified investments eligible for credits under this section to qualifying advanced energy project sponsors.
+(B)
+Limitation
+The total amount of credits that may be allocated under the program described in subparagraph (A) shall not exceed $5,000,000,000.
+(2)
+Certification
+(A)
+Application period
+Each applicant for certification under this paragraph shall submit an application containing such information as the Secretary may require during the 2-year period beginning on the date the Secretary establishes the program under paragraph (1).
+(B)
+Time to meet criteria for certification
+Each applicant for certification shall have 1 year from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.
+(C)
+Period of issuance
+An applicant which receives a certification shall have 3 years from the date of issuance of the certification in order to place the project in service and if such project is not placed in service by that time period, then the certification shall no longer be valid.
+(3)
+Selection criteria
+In determining which qualifying advanced energy projects to certify under this section, the Secretary shall consider the same criteria described in subsection (d)(3).
+(4)
+Review and redistribution
+(A)
+Review
+Not later than 4 years after the date of enactment of this subsection, the Secretary shall review the credits allocated pursuant to this subsection as of such date.
+(B)
+Redistribution
+The Secretary may reallocate credits awarded under this section if the Secretary determines thatâ
+(i)
+there is an insufficient quantity of qualifying applications for certification pending at the time of the review, or
+(ii)
+any certification made pursuant to paragraph (2) has been revoked pursuant to paragraph (2)(B) because the project subject to the certification has been delayed as a result of third-party opposition or litigation to the proposed project.
+(C)
+Reallocation
+If the Secretary determines that credits under this section are available for reallocation pursuant to the requirements set forth in paragraph (2), the Secretary is authorized to conduct an additional program for applications for certification.
+(5)
+Disclosure of allocations
+The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to periods after the date of the enactment of this Act, under rules similar to the rules of
+section 48(m)
+of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+II
+Clean fuel tax credits
+201.
+Clean fuel production credit
+(a)
+In general
+Subpart D of part IV of subchapter A of chapter 1, as amended by
+section 101,
+is amended by adding at the end the following new section:
+45T.
+Clean fuel production credit
+(a)
+Amount of credit
+(1)
+In general
+For purposes of section 38, the clean fuel production credit for any taxable year is an amount equal to the product ofâ
+(A)
+$1.00 per gallon with respect to any transportation fuel which isâ
+(i)
+produced by the taxpayer at a qualified facility, and
+(ii)
+sold or used by the taxpayer in a manner described in paragraph (2), and
+(B)
+the emissions factor for such fuel (as determined under subsection (b)(2)).
+(2)
+Sale or use
+For purposes of paragraph (1)(A)(ii), the transportation fuel is sold or used in a manner described in this paragraph if such fuel isâ
+(A)
+sold by the taxpayer to an unrelated personâ
+(i)
+for use by such person in the production of a fuel mixture that will be used as a transportation fuel,
+(ii)
+for use by such person as a transportation fuel in a trade or business, or
+(iii)
+who sells such fuel at retail to another person and places such fuel in the fuel tank of such other person, or
+(B)
+used or sold by the taxpayer for any purpose described in subparagraph (A).
+(3)
+Rounding
+If any amount determined under paragraph (1) is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+(b)
+Emissions factors
+(1)
+Emissions factor
+(A)
+In general
+The emissions factor of a transportation fuel shall be an amount equal to the quotient ofâ
+(i)
+an amount (not less than zero) equal toâ
+(I)
+75, minus
+(II)
+the emissions rate for such fuel, divided by
+(ii)
+75.
+(B)
+Establishment of safe harbor emissions rate
+The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish the safe harbor emissions rate for similar types and categories of transportation fuels based on the amount of lifecycle greenhouse gas emissions (as described in section 211(o)(1)(H) of the Clean Air Act (
+42 U.S.C. 7545(o)(1)(H)
+), as in effect on the date of the enactment of this section) for such fuels, expressed as kilograms of CO
+2
+e per mmBTU, which a taxpayer may elect to use for purposes of this section.
+(C)
+Rounding of safe harbor emissions rate
+The Secretary may round the safe harbor emissions rates under subparagraph (B) to the nearest multiple of 7.50 kilograms of CO
+2
+e per mmBTU, except that, in the case of an emissions rate that is less than 3.75 kilograms of CO
+2
+e per mmBTU, the Secretary may round such rate to zero.
+(D)
+Provisional safe harbor emissions rate
+(i)
+In general
+In the case of any transportation fuel for which a safe harbor emissions rate has not been established by the Secretary, a taxpayer producing such fuel may file a petition with the Secretary for determination of the safe harbor emissions rate with respect to such fuel.
+(ii)
+Establishment of provisional and final safe harbor emissions rate
+In the case of a transportation fuel for which a petition described in clause (i) has been filed, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shallâ
+(I)
+not later than 12 months after the date on which the petition was filed, provide a provisional safe harbor emissions rate for such fuel which a taxpayer may use for purposes of this section, and
+(II)
+not later than 24 months after the date on which the petition was filed, establish the safe harbor emissions rate for such fuel.
+(E)
+Rounding
+If any amount determined under subparagraph (A) is not a multiple of 0.1, such amount shall be rounded to the nearest multiple of 0.1.
+(2)
+Publishing safe harbor emissions rate
+The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall publish a table that sets forth the safe harbor emissions rate (as established pursuant to paragraph (1)) for similar types and categories of transportation fuels.
+(c)
+Inflation adjustment
+(1)
+In general
+In the case of calendar years beginning after 2019, the $1.00 amount in subsection (a)(1)(A) shall be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale or use of the transportation fuel occurs. If any amount as increased under the preceding sentence is not a multiple of 1 cent, such amount shall be rounded to the nearest multiple of 1 cent.
+(2)
+Inflation adjustment factor
+For purposes of paragraph (1), the inflation adjustment factor shall be the inflation adjustment factor determined and published by the Secretary pursuant to section 45S(c), determined by substituting
+calendar year 2018
+for
+calendar year 1992
+in paragraph (3) thereof.
+(d)
+Credit phase-Out
+(1)
+In general
+If the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines that the greenhouse gas emissions from transportation fuel produced and sold at retail annually in the United States are equal to or less than 65 percent of the greenhouse gas emissions from transportation fuel produced and sold at retail in the United States during calendar year 2017, the amount of the clean fuel production credit under this section for any qualified facility placed in service during a calendar year described in paragraph (2) shall be equal to the product ofâ
+(A)
+the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by
+(B)
+the phase-out percentage under paragraph (2).
+(2)
+Phase-out percentage
+The phase-out percentage under this paragraph is equal toâ
+(A)
+for a facility placed in service during the first calendar year following the calendar year in which the determination described in paragraph (1) is made, 75 percent,
+(B)
+for a facility placed in service during the second calendar year following such determination year, 50 percent,
+(C)
+for a facility placed in service during the third calendar year following such determination year, 25 percent, and
+(D)
+for a facility placed in service during any calendar year subsequent to the year described in subparagraph (C), 0 percent.
+(e)
+Definitions
+In this section:
+(1)
+mm
+BTU
+The term
+mmBTU
+means 1,000,000 British thermal units.
+(2)
+CO
+2
+e
+The term
+CO
+2
+e
+means, with respect to any greenhouse gas, the equivalent carbon dioxide.
+(3)
+Greenhouse gas
+The term
+greenhouse gas
+has the same meaning given that term under section 211(o)(1)(G) of the Clean Air Act (
+42 U.S.C. 7545(o)(1)(G)
+), as in effect on the date of the enactment of this section.
+(4)
+Qualified facility
+(A)
+In general
+Subject to subparagraphs (B) and (C), the term
+qualified facility
+means a facility used for the production of transportation fuels.
+(B)
+10-year production credit
+For purposes of this section, a facility shall only qualify as a qualified facilityâ
+(i)
+in the case of a facility that is originally placed in service after December 31, 2018, for the 10-year period beginning on the date such facility is placed in service, or
+(ii)
+in the case of a facility that is originally placed in service before January 1, 2019, for the 10-year period beginning on January 1, 2019.
+(5)
+Transportation fuel
+The term
+transportation fuel
+means a fuel which is suitable for use as a fuel in a highway vehicle or aircraft.
+(f)
+Final guidance
+Not later than January 1, 2018, the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall issue final guidance regarding implementation of this section, including calculation of emissions factors for transportation fuel, the table described in subsection (b)(2), and the determination of clean fuel production credits under this section.
+(g)
+Special rules
+(1)
+Only registered production in the United States taken into account
+(A)
+In general
+No clean fuel production credit shall be determined under subsection (a) with respect to any transportation fuel unlessâ
+(i)
+the taxpayer is registered as a producer of clean fuel under section 4101 at the time of production, and
+(ii)
+such fuel is produced in the United States.
+(B)
+United States
+For purposes of this paragraph, the term
+United States
+includes any possession of the United States.
+(2)
+Production attributable to the taxpayer
+In the case of a facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.
+(3)
+Related persons
+Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling fuel to an unrelated person if such fuel is sold to such a person by another member of such group.
+(4)
+Pass-thru in the case of estates and trusts
+Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+(5)
+Allocation of credit to patrons of agricultural cooperative
+(A)
+Election to allocate
+(i)
+In general
+In the case of an eligible cooperative organization, any portion of the credit determined under subsection (a) for the taxable year may, at the election of the organization, be apportioned among patrons of the organization on the basis of the amount of business done by the patrons during the taxable year.
+(ii)
+Form and effect of election
+An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+(B)
+Treatment of organizations and patrons
+The amount of the credit apportioned to any patrons under subparagraph (A)â
+(i)
+shall not be included in the amount determined under subsection (a) with respect to the organization for the taxable year, and
+(ii)
+shall be included in the amount determined under subsection (a) for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+(C)
+Special rules for decrease in credits for taxable year
+If the amount of the credit of a cooperative organization determined under subsection (a) for a taxable year is less than the amount of such credit shown on the return of the cooperative organization for such year, an amount equal to the excess ofâ
+(i)
+such reduction, over
+(ii)
+the amount not apportioned to such patrons under subparagraph (A) for the taxable year,
+shall be treated as an increase in tax imposed by this chapter on the organization. Such increase
+shall not be treated as tax imposed by this chapter for purposes of
+determining the amount of any credit under this chapter.
+(D)
+Eligible cooperative defined
+For purposes of this section the term
+eligible cooperative
+means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
+.
+(b)
+Conforming amendments
+(1)
+Section 38(b), as amended by
+section 101,
+is amendedâ
+(A)
+in paragraph (36), by striking
+plus
+at the end,
+(B)
+in paragraph (37), by striking the period at the end and inserting
+, plus
+, and
+(C)
+by adding at the end the following new paragraph:
+(38)
+the clean fuel production credit determined under section 45T(a).
+.
+(2)
+The table of sections for subpart D of part IV of subchapter A of chapter 1, as amended by
+section 101,
+is amended by adding at the end the following new item:
+Sec. 45T. Clean fuel production credit.
+.
+(3)
+Section 4101(a)(1)
+is amended by inserting
+every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45T),
+after
+section 6426(b)(4)(A)),
+.
+(c)
+Effective date
+The amendments made by this section shall apply to transportation fuel produced after December 31, 2018.
+202.
+Temporary extension of existing fuel and transportation incentives
+(a)
+Alternative motor vehicle credit for fuel cell motor vehicles
+(1)
+In general
+Paragraph (1) of
+section 30B(k)
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2026
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to property purchased after December 31, 2016.
+(b)
+Alternative fuel vehicle refueling property credit
+(1)
+In general
+Paragraph (1) of
+section 30C(g)
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2018
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to property placed in service after December 31, 2016.
+(c)
+New qualified plug-In electric drive motor vehicles
+(1)
+2- and 3-wheeled plug-in electric vehicles
+(A)
+In general
+Clause (ii) of
+section 30D(g)(3)(E)
+is amended to read as follows:
+(ii)
+after December 31, 2016, and before January 1, 2019.
+.
+(B)
+Effective date
+The amendments made by this paragraph shall apply to vehicles acquired after December 31, 2016.
+(2)
+Elimination on limitation on number of vehicles eligible for credit
+(A)
+In general
+Section 30D
+, as amended by paragraph (1), is amendedâ
+(i)
+by striking subsection (e), and
+(ii)
+by redesignating subsections (f) and (g) as subsections (e) and (f), respectively.
+(B)
+Conforming amendment
+Paragraph (37) of
+section 1016(a)
+is amended by striking
+section 30D(f)(1)
+and inserting
+section 30D(e)(1)
+.
+(C)
+Effective date
+The amendments made by this paragraph shall apply to vehicles sold after the date of the enactment of this Act.
+(d)
+Second generation biofuel producer credit
+(1)
+In general
+Section 40(b)(6)
+is amendedâ
+(A)
+in subparagraph (E)(i)â
+(i)
+in subclause (I), by striking
+and
+at the end,
+(ii)
+in subclause (II), by striking the period at the end and inserting
+, and
+, and
+(iii)
+by inserting at the end the following new subclause:
+(III)
+qualifies as a transportation fuel (as defined in section 45T(e)(5)).
+, and
+(B)
+in subparagraph (J)(i), by striking
+2017
+and inserting
+2019
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to qualified second generation biofuel production after December 31, 2016.
+(e)
+Biodiesel and renewable diesel used as fuel
+(1)
+In general
+Section 40A
+is amendedâ
+(A)
+in subsection (f)(3)(B), by striking
+or D396
+, and
+(B)
+in subsection (g), by striking
+2016
+and inserting
+2018
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to fuel sold or used after December 31, 2016.
+(f)
+Credit for biodiesel and alternative fuel mixtures
+(1)
+In general
+Section 6426
+is amendedâ
+(A)
+in subsection (c)(6), by striking
+2016
+and inserting
+2018
+,
+(B)
+in subsection (d)â
+(i)
+in paragraph (1), by striking
+motor vehicle
+and inserting
+highway vehicle
+,
+(ii)
+in paragraph (2)(D), by striking
+liquefied
+, and
+(iii)
+in paragraph (5), by striking
+2016
+and inserting
+2018
+, and
+(C)
+in subsection (e), by amending paragraph (3) to read as follows:
+(3)
+Termination
+This subsection shall not apply to any sale or use for any period afterâ
+(A)
+in the case of any alternative fuel mixture sold or used by the taxpayer for the purposes described in subsection (d)(1), December 31, 2018,
+(B)
+in the case of any sale or use involving hydrogen that is not for the purposes described in subsection (d)(1), December 31, 2018, and
+(C)
+in the case of any sale or use not described in subparagraph (A) or (B), December 31, 2016.
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to fuel sold or used after December 31, 2016.
+(3)
+Special rule for certain periods
+Notwithstanding any other provision of law, in the case ofâ
+(A)
+any biodiesel mixture credit properly determined under
+section 6426(c)
+of the Internal Revenue Code of 1986 for the periods after December 31, 2016, and before the date of the enactment of this Act, and
+(B)
+any alternative fuel credit properly determined under section 6426(d) of such Code for such periods,
+such credit shall be allowed, and any refund or payment attributable to such credit (including any
+payment under section 6427(e) of such Code) shall be made, only in such
+manner as the Secretary of the Treasury (or the Secretary's delegate)
+shall provide. Such Secretary shall issue guidance within 30 days after
+the date of the enactment of this Act providing for a one-time submission
+of claims covering periods described in the preceding sentence. Such
+guidance shall provide for a 180-day period for the submission of such
+claims (in such manner as prescribed by such Secretary) to begin not later
+than 30 days after such guidance is issued. Such claims shall be paid by
+such Secretary not later than 60 days after receipt. If such Secretary has
+not paid pursuant to a claim filed under this subsection within 60 days
+after the date of the filing of such claim, the claim shall be paid with
+interest from such date determined by using the overpayment rate and
+method under section 6621 of such Code.
+(g)
+Biodiesel, biodiesel mixtures, and alternative fuels
+(1)
+In general
+Section 6427(e)(6)
+is amendedâ
+(A)
+in subparagraph (B), by striking
+2016
+and inserting
+2018
+, and
+(B)
+in subparagraph (C), by striking
+2016
+and inserting
+2018
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to fuel sold or used after December 31, 2016.
+III
+Energy Efficiency Incentives
+301.
+Credit for new energy efficient residential buildings
+(a)
+In general
+Section 45L
+is amended to read as follows:
+45L.
+New energy efficient home credit
+(a)
+Allowance of credit
+For purposes of section 38, in the case of an eligible contractor, the new energy efficient home credit for the taxable year is the applicable amount for each qualified residence which isâ
+(1)
+constructed by the eligible contractor, and
+(2)
+acquired by a person from such eligible contractor for use as a residence during the taxable year.
+(b)
+Applicable amount
+(1)
+In general
+For purposes of subsection (a), the applicable amount shall be an amount equal to $1,500 increased (but not above $3,000) by $100 for every 5 percentage points by which the efficiency ratio for the qualified residence is certified to be greater than 25 percent.
+(2)
+Efficiency ratio
+For purposes of this section, the efficiency ratio of a qualified residence shall be equal to the quotient, expressed as a percentage, obtained by dividingâ
+(A)
+an amount equal to the difference betweenâ
+(i)
+the annual level of energy consumption of the qualified residence, and
+(ii)
+the annual level of energy consumption of the baseline residence, by
+(B)
+the annual level of energy consumption of the baseline residence.
+(3)
+Baseline residence
+For purposes of this section, the baseline residence shall be a residence which isâ
+(A)
+comparable to the qualified residence, and
+(B)
+constructed in accordance with the standards of the 2015 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the
+Clean Energy for America Act
+.
+(c)
+Definitions
+For purposes of this section:
+(1)
+Eligible contractor
+The term
+eligible contractor
+meansâ
+(A)
+the person who constructed the qualified residence, or
+(B)
+in the case of a qualified residence which is a manufactured home, the manufactured home producer of such residence.
+(2)
+Qualified residence
+The term
+qualified residence
+means a dwelling unitâ
+(A)
+located in the United States,
+(B)
+the construction of which is substantially completed after the date of the enactment of this section, and
+(C)
+which is certified to have an annual level of energy consumption that is less than the baseline residence and an efficiency ratio of not less than 25 percent.
+(3)
+Construction
+The term
+construction
+does not include substantial reconstruction or rehabilitation.
+(d)
+Certification
+(1)
+In general
+(A)
+Accredited third party
+A certification described in this section shall be made by a third party that is accredited by a certification program approved by the Secretary, in consultation with the Secretary of Energy.
+(B)
+Guidance
+A certification described in this section shall be made in accordance with guidance prescribed by the Secretary, in consultation with the Secretary of Energy. Such guidance shallâ
+(i)
+specify procedures and methods for calculating annual energy consumption levels, and
+(ii)
+include requirements to ensure the safe operation of energy efficiency improvements and that all improvements are installed according to the applicable standards of such certification program.
+(2)
+Computer software
+(A)
+In general
+Any calculation under paragraph (1)(B)(i) shall be prepared by qualified computer software.
+(B)
+Qualified computer software
+For purposes of this paragraph, the term
+qualified computer software
+means softwareâ
+(i)
+for which the software designer has certified that the software meets all procedures and detailed methods for calculating energy consumption levels as required by the Secretary, and
+(ii)
+which provides such forms as required to be filed by the Secretary in connection with energy consumption levels and the credit allowed under this section.
+(e)
+Basis adjustment
+For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property (other than a qualified low-income building, as described in section 42(c)(2)), the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.
+(f)
+Coordination with investment credits
+For purposes of this section, expenditures taken into account under section 25D or 47 shall not be taken into account under this section.
+.
+(b)
+Effective date
+The amendment made by this section shall apply to any qualified residence acquired after December 31, 2018.
+302.
+Heating and air conditioning replacement credit
+(a)
+In general
+Subpart A of part IV of subchapter A of
+chapter 1
+is amended by adding at the end the following new section:
+25E.
+Heating and air conditioning replacement credit
+(a)
+In general
+In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the lesser ofâ
+(1)
+the sum of the applicable qualified property amounts for any qualified property placed in service by the individual during such taxable year, or
+(2)
+$1,500.
+(b)
+Applicable qualified property amount
+For any qualified property, the applicable qualified property amount shall be equal to the lesser ofâ
+(1)
+50 percent of the amount paid or incurred by the individual for such qualified property, or
+(2)
+$500.
+(c)
+Qualified property
+The term
+qualified property
+means a furnace, boiler, condensing water heater, central air conditioning unit, heat pump, or biomass property whichâ
+(1)
+meets the requirements of the Energy Star program which are in effect at the time that the property was placed in service,
+(2)
+is installed according to applicable ACCAâQI standards which are in effect at the time that the property was placed in service,
+(3)
+is for use in a dwelling unit which is located in the United States and used as a residence by the individual, and
+(4)
+is reasonably expected to remain in service in such dwelling unit for not less than 5 years.
+(d)
+Biomass property
+(1)
+In general
+For purposes of this section, the term
+biomass property
+means any property whichâ
+(A)
+uses the burning of biomass fuel to heat a dwelling unit or to heat water for use in a dwelling unit, and
+(B)
+using the higher heating value, has a thermal efficiency of not less than 75 percent.
+(2)
+Biomass fuel
+For purposes of paragraph (1), the term
+biomass fuel
+means any plant-derived fuel which is available on a renewable or recurring basis, including any such fuel which has been subject to a densification process (such as wood pellets).
+(e)
+Denial of double benefit
+No credit shall be allowed under subsection (a) for any amounts paid or incurred for which a deduction or credit is allowed under any other provision of this chapter.
+.
+(b)
+Clerical amendment
+The table of sections for subpart A of part IV of subchapter A
+chapter 1
+is amended by inserting after the item relating to section 25D the following new item:
+25E. Heating and air conditioning replacement credit.
+.
+(c)
+Effective date
+The amendments made by this section shall apply to qualified property placed in service after December 31, 2018.
+303.
+Energy efficiency credit for existing residential buildings
+(a)
+In general
+Section 25C
+is amended to read as follows:
+25C.
+Credit for energy efficiency improvements to residential buildings
+(a)
+Allowance of credit
+In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the lesser ofâ
+(1)
+the applicable amount for the qualified residence based on energy efficiency improvements made by the taxpayer and placed in service during such taxable year, or
+(2)
+30 percent of the amount paid or incurred by the taxpayer for energy efficiency improvements made to the qualified residence that were placed in service during such taxable year.
+(b)
+Applicable amount
+(1)
+In general
+For purposes of subsection (a)(1), the applicable amount shall be an amount equal to $1,750 increased (but not above $6,500) by $300 for every 5 percentage points by which the efficiency ratio for the qualified residence is certified to be greater than 20 percent.
+(2)
+Efficiency ratio
+For purposes of this section, the efficiency ratio of a qualified residence shall be equal to the quotient, expressed as a percentage, obtained by dividingâ
+(A)
+an amount equal to the difference betweenâ
+(i)
+the projected annual level of energy consumption of the qualified residence after the energy efficiency improvements have been placed in service, and
+(ii)
+the annual level of energy consumption of such qualified residence prior to the energy efficiency improvements being placed in service, by
+(B)
+the annual level of energy consumption described in subparagraph (A)(ii).
+(3)
+Coordination with credit for residential energy efficient property
+For purposes of paragraph (2)(A), the determination of the difference in annual levels of energy consumption of the qualified residence shall not include any reduction in net energy consumption related toâ
+(A)
+qualified property or energy storage property for which a credit was allowed under section 25D, or
+(B)
+qualified property for which a credit was allowed under section 25E.
+(c)
+Definitions
+For purposes of this section:
+(1)
+Qualified residence
+The term
+qualified residence
+means a dwelling unitâ
+(A)
+located in the United States,
+(B)
+owned and used by the taxpayer as the taxpayer's principal residence (within the meaning of section 121), and
+(C)
+which is certified to haveâ
+(i)
+a projected annual level of energy consumption after the energy efficiency improvements have been placed in service that is less than the annual level of energy consumption prior to the energy efficiency improvements being placed in service, and
+(ii)
+an efficiency ratio of not less than 20 percent.
+(2)
+Energy efficiency improvements
+(A)
+In general
+The term
+energy efficiency improvements
+means any property installed on or in a dwelling unit which has been certified to reduce the level of energy consumption for such unit, provided thatâ
+(i)
+the original use of such property commences with the taxpayer, and
+(ii)
+such property reasonably can be expected to remain in use for at least 5 years.
+(B)
+Amounts paid or incurred for energy efficiency improvements
+For purposes of subsection (a)(2), the amount paid or incurred by the taxpayerâ
+(i)
+shall include expenditures for design and for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property, and
+(ii)
+shall not include any expenditures related to expansion of the building floor area.
+(d)
+Special rules
+For purposes of this section:
+(1)
+Tenant-stockholder in cooperative housing corporation
+In the case of an individual who is a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as defined in such section), such individual shall be treated as having made his tenant-stockholder's proportionate share (as defined in section 216(b)(3)) of any expenditures for energy efficiency improvements of such corporation.
+(2)
+Condominiums
+(A)
+In general
+In the case of an individual who is a member of a condominium management association with respect to a condominium which the individual owns, such individual shall be treated as having made the individual's proportionate share of any expenditures for energy efficiency improvements of such association.
+(B)
+Condominium management association
+For purposes of this paragraph, the term
+condominium management association
+means an organization which meets the requirements of paragraph (1) of section 528(c) (other than subparagraph (E) thereof) with respect to a condominium project substantially all of the units of which are used as residences.
+(3)
+Allocation in certain cases
+If less than 80 percent of the use of a property is for nonbusiness purposes, only that portion of the expenditures for energy efficiency improvements for such property which is properly allocable to use for nonbusiness purposes shall be taken into account.
+(e)
+Certification
+(1)
+In general
+(A)
+Accredited third party
+A certification described in this section shall be made by a third party that is accredited by a certification program approved by the Secretary, in consultation with the Secretary of Energy.
+(B)
+Guidance
+A certification described in this section shall be made in accordance with guidance prescribed by the Secretary, in consultation with the Secretary of Energy. Such guidance shallâ
+(i)
+specify procedures and methods for calculating annual energy consumption levels, and
+(ii)
+include requirements to ensure the safe operation of energy efficiency improvements and that all improvements are installed according to the applicable standards of such certification program.
+(2)
+Computer software
+(A)
+In general
+Any calculation under paragraph (1)(B)(i) shall be prepared by qualified computer software.
+(B)
+Qualified computer software
+For purposes of this paragraph, the term
+qualified computer software
+has the same meaning given such term under section 45L(d)(2).
+(f)
+Basis adjustment
+For purposes of this subtitle, if a credit is allowed under this section for any expenditures with respect to any energy efficiency improvements, the increase in the basis of such property which would (but for this subsection) result from such expenditures shall be reduced by the amount of the credit so allowed.
+(g)
+Coordination with investment credits
+For purposes of this section, expenditures taken into account under section 25D or 47 shall not be taken into account under this section.
+.
+(b)
+Conforming amendment
+The table of sections for subpart A of part IV of subchapter A of
+chapter 1
+is amended by striking the item relating to section 25C and inserting after the item relating to section 25B the following item:
+Sec. 25C. Credit for energy efficiency improvements to residential buildings.
+.
+(c)
+Effective date
+The amendments made by this section shall apply to any energy efficiency improvements placed in service after December 31, 2018.
+304.
+Deduction for new energy efficient commercial buildings
+(a)
+In general
+Section 179D
+is amended to read as follows:
+179D.
+Energy efficient commercial building deduction
+(a)
+In general
+There shall be allowed as a deduction an amount equal to the applicable amount for each qualified building placed in service by the taxpayer during the taxable year.
+(b)
+Applicable amount
+(1)
+In general
+For purposes of subsection (a), the applicable amount shall be an amount equal to the product ofâ
+(A)
+the applicable dollar value, and
+(B)
+the square footage of the qualified building.
+(2)
+Applicable dollar value
+For purposes of paragraph (1)(A), the applicable dollar value shall be an amount equal to $1.00 increased (but not above $4.75) by $0.25 for every 5 percentage points by which the efficiency ratio for the qualified building is certified to be greater than 25 percent.
+(3)
+Efficiency ratio
+(A)
+In general
+For purposes of this section, the efficiency ratio of a qualified building shall be equal to the quotient, expressed as a percentage, obtained by dividingâ
+(i)
+an amount equal to the difference betweenâ
+(I)
+the annual level of energy consumption of the qualified building, and
+(II)
+the annual level of energy consumption of the baseline building, by
+(ii)
+the annual level of energy consumption of the baseline building.
+(B)
+Exclusion of plug loads
+For purposes of determining the annual level of energy consumption of the qualified and baseline buildings under this paragraph, any energy consumption attributable to plug loads shall be excluded.
+(4)
+Baseline building
+For purposes of this section, the baseline building shall be a building whichâ
+(A)
+is comparable to the qualified building, and
+(B)
+meets the minimum requirements of Standard 90.1â2016 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the date of the enactment of the
+Clean Energy for America Act
+).
+(c)
+Qualified building
+The term
+qualified building
+means a buildingâ
+(1)
+located in the United States,
+(2)
+which is owned by the taxpayer, and
+(3)
+which is certified to have an annual level of energy consumption that is less than the baseline building and an efficiency ratio of not less than 25 percent.
+(d)
+Allocation of deduction
+(1)
+In general
+In the case of a qualified building owned by an eligible entity, the Secretary shall promulgate regulations to allow the allocation of the deduction to the person primarily responsible for designing the property in lieu of the owner of such property, with such person to be treated as the taxpayer for purposes of this section.
+(2)
+Eligible entity
+For purposes of this subsection, the term
+eligible entity
+meansâ
+(A)
+a Federal, State, or local government or a political subdivision thereof,
+(B)
+an Indian tribe (as defined in section 45A(c)(6)), or
+(C)
+an organization described in section 501(c) and exempt from tax under section 501(a).
+(e)
+Basis adjustment
+For purposes of this subtitle, if a deduction is allowed under this section with respect to any qualified building, the basis of such property shall be reduced by the amount of the deduction so allowed.
+(f)
+Certification
+(1)
+In general
+(A)
+Accredited third party
+A certification described in this section shall be made by a third party that is accredited by a certification program approved by the Secretary, in consultation with the Secretary of Energy.
+(B)
+Guidance
+A certification described in this section shall be made in accordance with guidance prescribed by the Secretary, in consultation with the Secretary of Energy. Such guidance shallâ
+(i)
+specify procedures and methods for calculating annual energy consumption levels, and
+(ii)
+include requirements to ensure the safe operation of energy efficiency improvements and that all improvements are installed according to the applicable standards of such certification program.
+(2)
+Computer software
+(A)
+In general
+Any calculation under paragraph (1)(B)(i) shall be prepared by qualified computer software.
+(B)
+Qualified computer software
+For purposes of this paragraph, the term
+qualified computer software
+means softwareâ
+(i)
+for which the software designer has certified that the software meets all procedures and detailed methods for calculating energy consumption levels as required by the Secretary, and
+(ii)
+which provides such forms as required to be filed by the Secretary in connection with energy consumption levels and the deduction allowed under this section.
+.
+(b)
+Conforming amendment
+The table of sections for part VI of subchapter B of
+chapter 1
+is amended by striking the item relating to section 179D and inserting after the item relating to section 179C the following item:
+Sec. 179D. Energy efficient commercial building deduction.
+.
+(c)
+Effective date
+The amendments made by this section shall apply to any qualified building placed in service after December 31, 2018.
+305.
+Energy efficiency deduction for existing commercial buildings
+(a)
+In general
+Part VI of subchapter B of
+chapter 1
+is amended by inserting after section 179E the following new section:
+179F.
+Deduction for energy efficiency improvements to commercial buildings
+(a)
+In general
+There shall be allowed as a deduction an amount equal to the lesser ofâ
+(1)
+the applicable amount for the qualified building based on energy efficiency improvements made by the taxpayer and placed in service during the taxable year, or
+(2)
+the amount paid or incurred by the taxpayer for energy efficiency improvements made to the qualified building which were placed in service during the taxable year.
+(b)
+Applicable amount
+(1)
+In general
+For purposes of subsection (a), the applicable amount shall be an amount equal to the product ofâ
+(A)
+the applicable dollar value, and
+(B)
+the square footage of the qualified building.
+(2)
+Applicable dollar value
+For purposes of paragraph (1), the applicable dollar value shall be an amount equal to $1.25 increased (but not above $9.25) by $0.50 for every 5 percentage points by which the efficiency ratio for the qualified building is certified to be greater than 20 percent.
+(3)
+Efficiency ratio
+(A)
+In general
+For purposes of this section, the efficiency ratio of a qualified building shall be equal to the quotient, expressed as a percentage, obtained by dividingâ
+(i)
+an amount equal to the difference betweenâ
+(I)
+the projected annual level of energy consumption of the qualified building after the energy efficiency improvements have been placed in service, and
+(II)
+the annual level of energy consumption of such qualified building prior to the energy efficiency improvements being placed in service, by
+(ii)
+the annual level of energy consumption described in clause (i)(II).
+(B)
+Exclusion of plug loads
+For purposes of determining the annual level of energy consumption of the qualified building under this paragraph, any energy consumption attributable to plug loads shall be excluded.
+(4)
+Coordination with clean energy investment credit
+For purposes of paragraph (3)(A)(i), the determination of the difference in annual levels of energy consumption of the qualified building shall not include any reduction in net energy consumption related to qualified property or energy storage property for which a credit was allowed under section 48E.
+(c)
+Definitions
+(1)
+Qualified building
+The term
+qualified building
+means a buildingâ
+(A)
+located in the United States,
+(B)
+which is owned by the taxpayer, and
+(C)
+which is certified to haveâ
+(i)
+a projected annual level of energy consumption after the energy efficiency improvements have been placed in service that is less than the annual level of energy consumption prior to the energy efficiency improvements being placed in service, and
+(ii)
+an efficiency ratio of not less than 20 percent.
+(2)
+Energy efficiency improvements
+(A)
+In general
+The term
+energy efficiency improvements
+means any property installed on or in a qualified building which has been certified to reduce the level of energy consumption for such building, provided that depreciation (or amortization in lieu of depreciation) is allowable with respect to such property.
+(B)
+Amounts paid or incurred for energy efficiency improvements
+For purposes of subsection (a)(2), the amount paid or incurred by the taxpayerâ
+(i)
+shall include expenditures for design and for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property, and
+(ii)
+shall not include any expenditures related to expansion of the building floor area.
+(d)
+Certification
+(1)
+In general
+(A)
+Accredited third party
+A certification described in this section shall be made by a third party that is accredited by a certification program approved by the Secretary, in consultation with the Secretary of Energy.
+(B)
+Guidance
+A certification described in this section shall be made in accordance with guidance prescribed by the Secretary, in consultation with the Secretary of Energy. Such guidance shallâ
+(i)
+specify procedures and methods for calculating annual energy consumption levels, and
+(ii)
+include requirements to ensure the safe operation of energy efficiency improvements and that all improvements are installed according to the applicable standards of such certification program.
+(2)
+Computer software
+(A)
+In general
+Any calculation under paragraph (1)(B)(i) shall be prepared by qualified computer software.
+(B)
+Qualified computer software
+For purposes of this paragraph, the term
+qualified computer software
+has the same meaning given such term under section 179D(f)(2).
+(e)
+Allocation of deduction
+(1)
+In general
+In the case of a qualified building owned by an eligible entity, the Secretary shall promulgate regulations to allow the allocation of the deduction to the person primarily responsible for designing the energy efficiency improvements in lieu of the owner of such property, with such person to be treated as the taxpayer for purposes of this section.
+(2)
+Eligible entity
+For purposes of this subsection, the term
+eligible entity
+has the same meaning given such term under section 179D(d)(2).
+(f)
+Basis reduction
+For purposes of this subtitle, if a deduction is allowed under this section with respect to any energy efficiency improvements, the basis of such property shall be reduced by the amount of the deduction so allowed.
+(g)
+Coordination with other credits
+For purposes of this section, expenditures taken into account under section 47 or 48E shall not be taken into account under this section.
+.
+(b)
+Conforming amendment
+(1)
+Section 263(a)
+is amendedâ
+(A)
+in subparagraph (K), by striking
+or
+at the end,
+(B)
+in subparagraph (L), by striking the period and inserting
+, or
+, and
+(C)
+by inserting at the end the following new subparagraph:
+(M)
+expenditures for which a deduction is allowed under section 179F.
+.
+(2)
+Section 312(k)(3)(B)
+is amendedâ
+(A)
+in the heading, by striking
+or 179E
+and inserting
+179E, or 179F
+, and
+(B)
+by striking
+or 179E
+and inserting
+179E, or 179F
+.
+(3)
+Section 1016(a)
+is amendedâ
+(A)
+in paragraph (36), by striking
+and
+at the end,
+(B)
+in paragraph (37), by striking the period at the end and inserting
+, and
+, and
+(C)
+by inserting at the end the following new paragraph:
+(38)
+to the extent provided in section 179D(f).
+.
+(4)
+Section 1245(a)
+is amendedâ
+(A)
+in paragraph (2)(C), by inserting
+179F,
+after
+179E,
+, and
+(B)
+in paragraph (3)(C), by inserting
+179F,
+after
+179E,
+.
+(5)
+The table of sections for part VI of subchapter B of
+chapter 1
+is amended by inserting after the item relating to section 179E the following new item:
+Sec. 179F. Deduction for energy efficiency improvements to commercial buildings.
+.
+(c)
+Effective date
+The amendments made by this section shall apply to any energy efficiency improvements placed in service after December 31, 2018.
+306.
+Temporary extension of existing energy efficiency incentives
+(a)
+Nonbusiness energy property
+(1)
+In general
+Paragraph (2) of
+section 25C(g)
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2018
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to property placed in service after December 31, 2016.
+(b)
+New energy efficient home credit
+(1)
+In general
+Subsection (g) of
+section 45L
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2018
+.
+(2)
+Effective date
+The amendments made by this subsection shall apply to any qualified new energy efficient home acquired after December 31, 2016.
+(c)
+Energy efficient commercial buildings deduction
+(1)
+In general
+Subsection (h) of
+section 179D
+is amended by striking
+December 31, 2016
+and inserting
+December 31, 2018
+.
+(2)
+Effective date
+The amendments made by this section shall apply to property placed in service after December 31, 2016.
+IV
+Clean Electricity and Fuel Bonds
+401.
+Clean energy bonds
+(a)
+In general
+Subpart J of part IV of subchapter A of
+chapter 1
+is amended by adding at the end the following new section:
+54BB.
+Clean energy bonds
+(a)
+In general
+If a taxpayer holds a clean energy bond on one or more interest payment dates of the bond during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection (b) with respect to such dates.
+(b)
+Amount of credit
+(1)
+In general
+The amount of the credit determined under this subsection with respect to any interest payment date for a clean energy bond is the applicable percentage (as determined under paragraph (2)) of the amount of interest payable by the issuer with respect to such date.
+(2)
+Applicable percentage
+(A)
+In general
+(i)
+Maximum percentage
+Except as provided in clause (ii), the applicable percentage is 70 percent.
+(ii)
+Reduction of credit based on greenhouse gas emission rate
+The applicable percentage shall be reduced (but not below zero) by an amount which bears the same ratio to the percentage in effect under clause (i) asâ
+(I)
+in the case of a qualified facility described in subsection (e)(3) of section 45S, the greenhouse gas emissions rate for the facility bears to 325 grams of CO
+2
+e per KWh (as such terms are defined in subsections (b)(1) and (e)(1) of such section), or
+(II)
+in the case of a qualified facility described in subsection (e)(4) of section 45T, the average emissions rate for all transportation fuel produced by such facility bears to 75 kilograms of CO
+2
+e per mmBTU (as such terms are defined in subsections (b) and (e) of such section).
+(B)
+Rounding
+If any applicable percentage determined under subparagraph (A) is not a whole percentage point, such percentage shall be rounded to the nearest whole percentage point.
+(C)
+Safe harbor rules
+Rules similar to the rules of sections 45S(b)(3) and 45T(b) shall apply for purposes of this section.
+(c)
+Limitation based on amount of tax
+(1)
+In general
+The credit allowed under subsection (a) for any taxable year shall not exceed the excess ofâ
+(A)
+the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+(B)
+the sum of the credits allowable under this part (other than subpart C and this subpart).
+(2)
+Carryover of unused credit
+If the credit allowable under subsection (a) exceeds the limitation imposed by paragraph (1) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year (determined before the application of paragraph (1) for such succeeding taxable year).
+(d)
+Clean energy bond
+(1)
+In general
+For purposes of this section, the term
+clean energy bond
+means any bond issued as part of an issue ifâ
+(A)
+100 percent of the excess of the available project proceeds (as defined in section 54A(e)(4)) of such issue over the amounts in a reasonably required reserve (within the meaning of section 150(a)(3)) with respect to such issue are to be used for capital expenditures incurred by an entity described in subparagraph (B) for one or more qualified facilities,
+(B)
+the bond is issued byâ
+(i)
+a governmental body (as defined in paragraph (3) of section 54C(d)),
+(ii)
+a public power provider (as defined in paragraph (2) of such section), or
+(iii)
+a cooperative electric company (as defined in paragraph (4) of such section), and
+(C)
+the issuer makes an irrevocable election to have this section apply.
+(2)
+Applicable rules
+For purposes of applying paragraph (1)â
+(A)
+for purposes of section 149(b), a clean energy bond shall not be treated as federally guaranteed by reason of the credit allowed under subsection (a) or section 6433,
+(B)
+for purposes of section 148, the yield on a clean energy bond shall be determined without regard to the credit allowed under subsection (a), and
+(C)
+a bond shall not be treated as a clean energy bond if the issue price has more than a de minimis amount (determined under rules similar to the rules of section 1273(a)(3)) of premium over the stated principal amount of the bond.
+(3)
+Qualified facility
+The term
+qualified facility
+means a facilityâ
+(A)
+which is described in section 45S(e)(3), or
+(B)
+which is described in section 45T(e)(4) and only produces transportation fuel which has an emissions rate of less than 75 kilograms of CO
+2
+e per mmBTU (as such terms are defined in subsections (b) and (e) of such section).
+(e)
+Interest payment date
+For purposes of this section, the term
+interest payment date
+means any date on which the holder of record of the clean energy bond is entitled to a payment of interest under such bond.
+(f)
+Credit phase out
+(1)
+Electrical production
+In the case of a clean energy bond for which the proceeds are used for capital expenditures incurred by an entity for a qualified facility described in subsection (d)(3)(A), if the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines that the annual greenhouse gas emissions from electrical production in the United States are equal to or less than the percentage specified in section 45S(d)(1), the amount of the credit determined under subsection (b) with respect to any clean energy bond issued during a calendar year described in paragraph (3) shall be equal to the product ofâ
+(A)
+the amount determined under subsection (b) without regard to this subsection, multiplied by
+(B)
+the phase-out percentage under paragraph (3).
+(2)
+Fuel production
+In the case of a clean energy bond for which the proceeds are used for capital expenditures incurred by an entity for a qualified facility described in subsection (d)(3)(B), if the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines that the annual greenhouse gas emissions from transportation fuel produced and sold at retail annually in the United States are equal to or less than the percentage specified in section 45T(d)(1), the amount of the credit determined under subsection (b) with respect to any clean energy bond issued during a calendar year described in paragraph (3) shall be equal to the product ofâ
+(A)
+the amount determined under subsection (b) without regard to this subsection, multiplied by
+(B)
+the phase-out percentage under paragraph (3).
+(3)
+Phase-out percentage
+The phase-out percentage under this paragraph is equal toâ
+(A)
+for any bond issued during the first calendar year following the calendar year in which the determination described in paragraph (1)(A) or (2)(A) is made, 75 percent,
+(B)
+for any bond issued during the second calendar year following such determination year, 50 percent,
+(C)
+for any bond issued during the third calendar year following such determination year, 25 percent, and
+(D)
+for any bond issued during any calendar year subsequent to the year described in subparagraph (C), 0 percent.
+(g)
+Special rules
+(1)
+Interest on clean energy bonds includible in gross income for Federal income tax purposes
+For purposes of this title, interest on any clean energy bond shall be includible in gross income.
+(2)
+Application of certain rules
+Rules similar to the rules of subsections (f), (g), (h), and (i) of section 54A shall apply for purposes of the credit allowed under subsection (a).
+(h)
+Regulations
+The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section and section 6433.
+.
+(b)
+Credit for qualified clean energy bonds allowed to issuer
+Subchapter B of chapter 65 of subtitle F is amended by adding at the end the following new section:
+6433.
+Credit for qualified clean energy bonds allowed to issuer
+(a)
+In general
+The issuer of a qualified clean energy bond shall be allowed a credit with respect to each interest payment under such bond which shall be payable by the Secretary as provided in subsection (b).
+(b)
+Payment of credit
+(1)
+In general
+The Secretary shall pay (contemporaneously with each interest payment date under such bond) to the issuer of such bond (or to any person who makes such interest payments on behalf of the issuer) the applicable percentage (as determined under subsection (b) of section 54BB) of the interest payable under such bond on such date.
+(2)
+Interest payment date
+For purposes of this subsection, the term
+interest payment date
+means each date on which interest is payable by the issuer under the terms of the bond.
+(c)
+Application of arbitrage rules
+For purposes of section 148, the yield on a qualified clean energy bond shall be reduced by the credit allowed under this section.
+(d)
+Qualified clean energy bond
+For purposes of this section, the term
+qualified clean energy bond
+means a clean energy bond (as defined in section 54BB(d)) issued as part of an issue if the issuer, in lieu of any credit allowed under section 54BB(a) with respect to such bond, makes an irrevocable election to have this section apply.
+.
+(c)
+Conforming amendments
+(1)
+The table of sections for subpart J of part IV of subchapter A of
+chapter 1
+is amended by adding at the end the following new item:
+Sec. 54BB. Clean energy
+bonds.
+.
+(2)
+The heading of such subpart (and the item relating to such subpart in the table of subparts for part IV of subchapter A of chapter 1) are each amended by striking
+Build America Bonds
+and inserting
+Build America Bonds and Clean Energy Bonds
+.
+(3)
+The table of sections for subchapter B of chapter 65 of subtitle F is amended by adding at the end the following new item:
+Sec. 6433. Credit for qualified clean energy bonds allowed to issuer.
+.
+(4)
+Subparagraph (A) of
+section 6211(b)(4)
+is amended by striking
+and 6431
+and inserting
+6431, and 6433
+.
+(d)
+Gross-Up of payment to issuers in case of sequestration
+(1)
+In general
+In the case of any payment under subsection (b) of
+section 6433
+of the Internal Revenue Code of 1986 (as added by this Act) made after the date of the enactment of this Act to which sequestration applies, the amount of such payment shall be increased to an amount equal toâ
+(A)
+such payment (determined before such sequestration), multiplied by
+(B)
+the quotient obtained by dividing 1 by the amount by which 1 exceeds the percentage reduction in such payment pursuant to such sequestration.
+(2)
+Sequestration
+For purposes of this subsection, the term
+sequestration
+means any reduction in direct spending ordered by the President under the Balanced Budget and Emergency Deficit Control Act of 1985 or the Statutory Pay-As-You-Go Act of 2010.
+(e)
+Effective date
+The amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.

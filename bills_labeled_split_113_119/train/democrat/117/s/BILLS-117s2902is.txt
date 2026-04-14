@@ -1,0 +1,2639 @@
+1.
+Short title
+This Act may be cited as the
+Federal Information Security Modernization Act of 2021
+.
+2.
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+Sec. 3. Definitions.
+TITLE IâUpdates to FISMA
+Sec. 101. Title 44 amendments.
+Sec. 102. Amendments to subtitle III of title 40.
+Sec. 103. Actions to enhance Federal incident response.
+Sec. 104. Additional guidance to agencies on FISMA updates.
+Sec. 105. Agency requirements to notify entities impacted by incidents.
+TITLE IIâImproving Federal cybersecurity
+Sec. 201. Evaluation of effectiveness of standards.
+Sec. 202. Mobile security standards.
+Sec. 203. Quantitative cybersecurity metrics.
+Sec. 204. Data and logging retention for incident response.
+Sec. 205. CISA agency advisors.
+Sec. 206. Federal penetration testing policy.
+Sec. 207. Ongoing threat hunting program.
+Sec. 208. Codifying vulnerability disclosure programs.
+Sec. 209. Implementing presumption of compromise and zero trust architectures.
+Sec. 210. Automation reports.
+Sec. 211. Extension of Federal Acquisition Security Council.
+TITLE IIIâPilot programs to enhance Federal cybersecurity
+Sec. 301. Continuous independent FISMA evaluation pilot.
+Sec. 302. Active cyber defensive pilot.
+Sec. 303. Security operations center as a service pilot.
+3.
+Definitions
+In this Act, unless otherwise specified:
+(1)
+Additional cybersecurity procedure
+The term
+additional cybersecurity procedure
+has the meaning given the term in section 3552(b) of title 44, United States Code, as amended by this Act.
+(2)
+Agency
+The term
+agency
+has the meaning given the term in section 3502 of title 44, United States Code.
+(3)
+Appropriate congressional committees
+The term
+appropriate congressional committees
+meansâ
+(A)
+the
+Committee on Homeland Security and Governmental Affairs of the Senate
+;
+(B)
+the
+Committee on Oversight and Reform of the House of Representatives
+; and
+(C)
+the
+Committee on Homeland Security of the House of Representatives.
+(4)
+Director
+The term
+Director
+means the Director of the Office of Management and Budget.
+(5)
+Incident
+The term
+incident
+has the meaning given the term in section 3552(b) of title 44, United States Code.
+(6)
+Penetration test
+The term
+penetration test
+has the meaning given the term in section 3552(b) of title 44, United States Code, as amended by this Act.
+(7)
+Threat hunting
+The term
+threat hunting
+means proactively and iteratively searching for threats to systems that evade detection by automated threat detection systems.
+(8)
+Verification specification
+The term
+verification specification
+means a specification developed under section 11331(f) of title 40, United States Code, as amended by this Act.
+I
+Updates to FISMA
+101.
+Title 44 amendments
+(a)
+Subchapter I amendments
+Subchapter I of
+chapter 35
+of title 44, United States Code, is amendedâ
+(1)
+in section 3504â
+(A)
+in subsection (a)(1)(B)(v), by striking
+confidentiality, security, disclosure, and sharing of information
+and inserting
+disclosure, sharing of information, and, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency, confidentiality and security
+;
+(B)
+in subsection (b)(2)(B), by inserting
+in coordination with the Director of the Cybersecurity and Infrastructure Security Agency
+after
+standards for security
+;
+(C)
+in subsection (g), by striking paragraph (1) and inserting the following:
+(1)
+with respect to information collected or maintained by or for agenciesâ
+(A)
+develop and oversee the implementation of policies, principles, standards, and guidelines on privacy, disclosure, and sharing of the information; and
+(B)
+in consultation with the Director of the Cybersecurity and Infrastructure Security Agency, develop and oversee policies, principles, standards, and guidelines on confidentiality and security of the information; and
+; and
+(D)
+in subsection (h)(1)â
+(i)
+in the matter preceding subparagraph (A)â
+(I)
+by inserting
+the Director of the Cybersecurity and Infrastructure Security Agency,
+before
+the Director
+; and
+(II)
+by inserting a comma before
+and the Administrator
+; and
+(ii)
+in subparagraph (A), by inserting
+security and
+after
+information technology
+;
+(2)
+in section 3505â
+(A)
+in paragraph (3) of the first subsection designated as subsection (c)â
+(i)
+in subparagraph (B)â
+(I)
+by inserting
+and the Director of the Cybersecurity and Infrastructure Security Agency
+after
+Comptroller General
+; and
+(II)
+by striking
+and
+at the end;
+(ii)
+in subparagraph (C)(v), by striking the period at the end and inserting
+; and
+; and
+(iii)
+by adding at the end the following:
+(D)
+maintained on a continual basis through the use of automation, machine-readable data, and scanning.
+; and
+(B)
+by striking the second subsection designated as subsection (c);
+(3)
+in section 3506â
+(A)
+in subsection (b)â
+(i)
+in paragraph (1)(C), by inserting
+, availability
+after
+integrity
+; and
+(ii)
+in paragraph (4), by inserting
+the Director of the Cybersecurity and Infrastructure Security Agency,
+after
+General Services,
+; and
+(B)
+in subsection (h)(3), by inserting
+security,
+after
+efficiency,
+;
+(4)
+in section 3513â
+(A)
+in subsection (a), by inserting
+the Director of the Cybersecurity and Infrastructure Security Agency,
+before
+the Administrator of General Services
+;
+(B)
+by redesignating subsection (c) as subsection (d); and
+(C)
+by inserting after subsection (b) the following:
+(c)
+Each agency providing a written plan under subsection (b) shall provide any portion of the written plan addressing information security or cybersecurity to the Director of the Cybersecurity and Infrastructure Security Agency.
+; and
+(5)
+in section 3520A(b)â
+(A)
+in paragraph (1), by striking
+, protection
+;
+(B)
+by redesignating paragraphs (2), (3), (4), and (5) as paragraphs (3), (4), (5), and (6), respectively; and
+(C)
+by inserting after paragraph (1) the following:
+(2)
+in consultation with the Director of the Cybersecurity and Infrastructure Security Agency, establish Governmentwide best practices for the protection of data;
+.
+(b)
+Suchapter II definitions
+(1)
+In general
+Section 3552(b) of title 44, United States Code, is amendedâ
+(A)
+by redesignating paragraphs (1), (2), (3), (4), (5), (6), and (7) as paragraphs (2), (3), (4), (5), (6), (9), and (11), respectively;
+(B)
+by inserting before paragraph (2), as so redesignated, the following:
+(1)
+The term
+additional cybersecurity procedure
+means a process, procedure, or other activity that is established in excess of the information security standards promulgated under section 11331(b) of title 40 to increase the security and reduce the cybersecurity risk of agency systems, such as continuous threat hunting, increased network segmentation, endpoint detection and response, or persistent penetration testing.
+;
+(C)
+by inserting after paragraph (6), as so redesignated, the following:
+(7)
+The term
+high value asset
+means information or an information system that the head of an agency determines so critical to the agency that the loss or corruption of the information or the loss of access to the information system would have a serious impact on the ability of the agency to perform the mission of the agency or conduct business.
+(8)
+The term
+major incident
+has the meaning given the term in guidance issued by the Director under section 3598(a).
+;
+(D)
+by inserting after paragraph (9), as so redesignated, the following:
+(10)
+The term
+penetration test
+means a specialized type of assessment thatâ
+(A)
+is conducted on an information system or a component of an information system; and
+(B)
+emulates an attack or other exploitation capability of a potential adversary, typically under specific constraints, in order to identify any vulnerabilities of an information system or a component of an information system that could be exploited.
+; and
+(E)
+by inserting after paragraph (11), as so redesignated, the following:
+(12)
+The term
+shared service
+means a business or mission function that is provided for use by multiple organizations within or between agencies.
+(13)
+The term
+verification specification
+means a specification developed under section 11331(f) of title 40.
+.
+(2)
+Conforming amendments
+(A)
+Homeland Security Act of 2002
+Section 1001(c)(1)(A) of the Homeland Security Act of 2002 (
+6 U.S.C. 511(1)(A)
+) is amended by striking
+section 3552(b)(5)
+and inserting
+section 3552(b)
+.
+(B)
+Title 10
+(i)
+Section 2222
+Section 2222(i)(8) of title 10, United States Code, is amended by striking
+section 3552(b)(6)(A)
+and inserting
+section 3552(b)(9)(A)
+.
+(ii)
+Section 2223
+Section 2223(c)(3) of title 10, United States Code, is amended by striking
+section 3552(b)(6)
+and inserting
+section 3552(b)
+.
+(iii)
+Section 2315
+Section 2315 of title 10, United States Code, is amended by striking
+section 3552(b)(6)
+and inserting
+section 3552(b)
+.
+(iv)
+Section 2339a
+Section 2339a(e)(5) of title 10, United States Code, is amended by striking
+section 3552(b)(6)
+and inserting
+section 3552(b)
+.
+(C)
+High-Performance Computing Act of 1991
+Section 207(a) of the High-Performance Computing Act of 1991 (
+15 U.S.C. 5527(a)
+) is amended by striking
+section 3552(b)(6)(A)(i)
+and inserting
+section 3552(b)(9)(A)(i)
+.
+(D)
+Internet of Things Cybersecurity Improvement Act of 2020
+Section 3(5) of the Internet of Things Cybersecurity Improvement Act of 2020 (
+15 U.S.C. 278gâ3a
+) is amended by striking
+section 3552(b)(6)
+and inserting
+section 3552(b)
+.
+(E)
+National Defense Authorization Act for Fiscal Year 2013
+Section 933(e)(1)(B) of the National Defense Authorization Act for Fiscal Year 2013 (
+10 U.S.C. 2224
+note) is amended by striking
+section 3542(b)(2)
+and inserting
+section 3552(b)
+.
+(F)
+Ike Skelton National Defense Authorization Act for Fiscal Year 2011
+The Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (
+Public Law 111â383
+) is amendedâ
+(i)
+in section 806(e)(5) (
+10 U.S.C. 2304
+note), by striking
+section 3542(b)
+and inserting
+section 3552(b)
+;
+(ii)
+in section 931(b)(3) (
+10 U.S.C. 2223
+note), by striking
+section 3542(b)(2)
+and inserting
+section 3552(b)
+; and
+(iii)
+in section 932(b)(2) (
+10 U.S.C. 2224
+note), by striking
+section 3542(b)(2)
+and inserting
+section 3552(b)
+.
+(G)
+E-Government Act of 2002
+Section 301(c)(1)(A) of the E-Government Act of 2002 (
+44 U.S.C. 3501
+note) is amended by striking
+section 3542(b)(2)
+and inserting
+section 3552(b)
+.
+(H)
+National Institute of Standards and Technology Act
+Section 20 of the National Institute of Standards and Technology Act (
+15 U.S.C. 278gâ3
+) is amendedâ
+(i)
+in subsection (a)(2), by striking
+section 3552(b)(5)
+and inserting
+section 3552(b)
+; and
+(ii)
+in subsection (f)â
+(I)
+in paragraph (3), by striking
+section 3532(1)
+and inserting
+section 3552(b)
+; and
+(II)
+in paragraph (5), by striking
+section 3532(b)(2)
+and inserting
+section 3552(b)
+.
+(c)
+Subchapter II amendments
+Subchapter II of
+chapter 35
+of title 44, United States Code, is amendedâ
+(1)
+in section 3551â
+(A)
+by redesignating paragraphs (3), (4), (5), and (6) as paragraphs (4), (5), (6), and (7), respectively;
+(B)
+by inserting after paragraph (2) the following:
+(3)
+recognize the role of the Cybersecurity and Infrastructure Security Agency as the lead cybersecurity entity for operational coordination across the Federal Government;
+;
+(C)
+in paragraph (5), as so redesignated, by striking
+diagnose and improve
+and inserting
+integrate, deliver, diagnose, and improve
+;
+(D)
+in paragraph (6), as so redesignated, by striking
+and
+at the end; and
+(E)
+by adding at the end the following:
+(8)
+recognize that each agency has specific mission requirements and, at times, unique cybersecurity requirements to meet the mission of the agency;
+(9)
+recognize that each agency does not have the same resources to secure agency systems, and an agency should not be expected to have the capability to secure the systems of the agency from advanced adversaries alone; and
+(10)
+recognize thatâ
+(A)
+a holistic Federal cybersecurity model is necessary to account for differences between the missions and capabilities of agencies; and
+(B)
+in accounting for the differences described in subparagraph (A) and ensuring overall Federal cybersecurityâ
+(i)
+the Office of Management and Budget is the leader for policy development and oversight of Federal cybersecurity;
+(ii)
+the Cybersecurity and Infrastructure Security Agency is the leader for implementing operations at agencies; and
+(iii)
+the National Cyber Director is responsible for developing the overall cybersecurity strategy of the United States and advising the President on matters relating to cybersecurity.
+;
+(2)
+in section 3553, as amended by section 1705 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (
+Public Law 116â283
+)â
+(A)
+in subsection (a)â
+(i)
+in paragraph (1)â
+(I)
+by striking
+developing and
+and inserting
+in coordination with the Director of the Cybersecurity and Infrastructure Security Agency,
+; and
+(II)
+by inserting
+and associated verification specifications
+before
+promulgated
+; and
+(ii)
+in paragraph (5), by inserting
+, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency,
+before
+agency compliance
+;
+(B)
+in subsection (b)â
+(i)
+by striking the subsection heading and inserting
+Cybersecurity and Infrastructure Security Agency
+;
+(ii)
+in the matter preceding paragraph (1), by striking
+the Secretary
+and inserting
+the Director of the Cybersecurity and Infrastructure Security Agency
+;
+(iii)
+in paragraph (2)â
+(I)
+in subparagraph (A), by inserting
+and reporting requirements under subchapter IV of this title
+after
+section 3556
+; and
+(II)
+in subparagraph (D), by striking
+the Director or Secretary
+and inserting
+the Director of the Cybersecurity and Infrastructure Security Agency
+;
+(iv)
+in paragraph (5), by striking
+coordinating
+and inserting
+leading the coordination of
+;
+(v)
+in paragraph (6)â
+(I)
+in the matter preceding subparagraph (A), by inserting
+and verifications specifications
+before
+promulgated under
+;
+(II)
+in subparagraph (C), by striking
+and
+at the end;
+(III)
+in subparagraph (D), by adding
+and
+at the end; and
+(IV)
+by adding at the end the following:
+(E)
+taking any other action that the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Directorâ
+(i)
+may determine necessary; and
+(ii)
+is authorized to perform;
+;
+(vi)
+in paragraph (8), by striking
+the Secretary's discretion
+and inserting
+the Director of the Cybersecurity and Infrastructure Security Agency's discretion
+; and
+(vii)
+in paragraph (9), by striking
+as the Director or the Secretary, in consultation with the Director,
+and inserting
+as the Director of the Cybersecurity and Infrastructure Security Agency
+;
+(C)
+in subsection (c)â
+(i)
+in paragraph (4), by striking
+and
+at the end;
+(ii)
+by redesignating paragraph (5) as paragraph (7); and
+(iii)
+by inserting after paragraph (4) the following:
+(5)
+an assessment of agency use of automated verification of standards for the standards promulgated under section 11331 of title 40 using verification specifications;
+(6)
+a summary of each assessment of Federal risk posture performed under subsection (i); and
+;
+(D)
+in subsection (f)(2)(B), by striking
+conflict with
+and inserting
+reduce the security posture of agencies established under
+;
+(E)
+by redesignating subsections (i), (j), (k), and (l) as subsections (j), (k), (l), and (m) respectively;
+(F)
+by inserting after subsection (h) the following:
+(i)
+Federal risk assessments
+The Director of the Cybersecurity and Infrastructure Security Agency, in coordination with the Director, shall perform, on an ongoing and continuous basis, assessments of Federal risk posture using any available information on the cybersecurity posture of agencies, includingâ
+(1)
+the status of agency cybersecurity remedial actions described in section 3554(b)(7);
+(2)
+any vulnerability information relating to the systems of an agency that is known by the agency;
+(3)
+analysis of incident information under section 3597;
+(4)
+evaluation of penetration testing performed under section 3559A;
+(5)
+evaluation of vulnerability disclosure program information under section 3559B;
+(6)
+evaluation of agency threat hunting results;
+(7)
+evaluation of Federal and non-Federal threat intelligence;
+(8)
+data on compliance with standards issued under section 11331 of title 40 that, when appropriate, uses verification specifications;
+(9)
+agency system risk assessments performed under section 3554(a)(1)(A); and
+(10)
+any other information the Secretary determines relevant.
+; and
+(G)
+in subsection (j), as so redesignatedâ
+(i)
+by striking
+regarding the specific
+and inserting âthat includes a summary ofâ
+(1)
+the specific
+;
+(ii)
+in paragraph (1), as so designated, by striking the period at the end and inserting
+; and
+and
+(iii)
+by adding at the end the following:
+(2)
+the trends identified in the Federal risk assessment performed under subsection (i).
+;
+(3)
+in section 3554â
+(A)
+in subsection (a)â
+(i)
+in paragraph (1)â
+(I)
+by redesignating subparagraphs (A), (B), and (C) as subparagraphs (B), (C), and (D), respectively;
+(II)
+by inserting before subparagraph (B), as so redesignated, the following:
+(A)
+performing, not less frequently than once every 2 years or based on a significant change to system architecture or security posture, an agency system risk assessment thatâ
+(i)
+identifies and documents the high value assets of the agency using guidance from the Director;
+(ii)
+evaluates the data assets inventoried under section 3511 of title 44 for sensitivity to compromises in confidentiality, integrity, and availability;
+(iii)
+identifies agency systems that have access to or hold the data assets inventoried under section 3511 of title 44;
+(iv)
+evaluates the threats facing agency systems and data, including high value assets, based on Federal and non-Federal cyber threat intelligence products, where available;
+(v)
+evaluates the vulnerability of agency systems and data, including high value assets, based onâ
+(I)
+the results of penetration testing performed by the Department of Homeland Security under section 3553(b)(9);
+(II)
+the results of penetration testing performed under section 3559A;
+(III)
+information provided to the agency through the vulnerability disclosure program of the agency under section 3559B;
+(IV)
+incidents; and
+(V)
+any other vulnerability information relating to agency systems that is known to the agency;
+(vi)
+assesses the impacts of potential agency incidents to agency systems, data, and operations based on the evaluations described in clauses (ii) and (iv) and the agency systems identified under clause (iii); and
+(vii)
+assesses the consequences of potential incidents occurring on agency systems that would impact systems at other agencies, including due to interconnectivity between different agency systems or operational reliance on the operations of the system or data in the system;
+;
+(III)
+in subparagraph (B), as so redesignatedâ
+(aa)
+in the matter preceding clause (i), by striking
+providing information
+and inserting
+using information from the assessment conducted under subparagraph (A), providing, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, information
+;
+(bb)
+in clause (i), by striking
+and
+at the end;
+(cc)
+in clause (ii), by adding
+and
+at the end; and
+(dd)
+by adding at the end the following:
+(iii)
+in consultation with the Director and the Director of the Cybersecurity and Infrastructure Security Agency, information or information systems used by agencies through shared services, memoranda of understanding, or other agreements;
+;
+(IV)
+in subparagraph (C), as so redesignatedâ
+(aa)
+in clause (ii) by inserting
+binding
+before
+operational
+; and
+(bb)
+in clause (vi), by striking
+and
+at the end; and
+(V)
+by adding at the end the following:
+(E)
+not later than 30 days after the date on which an agency system risk assessment is performed under subparagraph (A), providing the assessment toâ
+(i)
+the Director;
+(ii)
+the Director of the Cybersecurity and Infrastructure Security Agency; and
+(iii)
+the National Cyber Director;
+(F)
+in consultation with the Director of the Cybersecurity and Infrastructure Security Agency and not less frequently than annually, performing an evaluation of whether additional cybersecurity procedures are appropriate for securing a system of, or under the supervision of, the agency, which shallâ
+(i)
+be completed considering the agency system risk assessment performed under subparagraph (A); and
+(ii)
+include a specific evaluation for high value assets; and
+(G)
+not later than 30 days after completing the evaluation performed under subparagraph (F), providing the evaluation and an implementation plan for using additional cybersecurity procedures determined to be appropriate toâ
+(i)
+the Director of the Cybersecurity and Infrastructure Security Agency;
+(ii)
+the Director; and
+(iii)
+the National Cyber Director.
+;
+(ii)
+in paragraph (2)â
+(I)
+in subparagraph (A), by inserting
+in accordance with the agency system risk assessment performed under paragraph (1)(A)
+after
+information systems
+;
+(II)
+in subparagraph (B)â
+(aa)
+by striking
+in accordance with standards
+and inserting âin accordance withâ
+(i)
+standards
+; and
+(bb)
+by adding at the end the following:
+(ii)
+the evaluation performed under paragraph (1)(F); and
+(iii)
+the implementation plan described in paragraph (1)(G);
+; and
+(III)
+in subparagraph (D), by inserting
+, through the use of penetration testing, the vulnerability disclosure program established under section 3559B, and other means,
+after
+periodically
+;
+(iii)
+in paragraph (3)â
+(I)
+in subparagraph (B), by inserting
+, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency,
+after
+maintaining
+;
+(II)
+in subparagraph (D), by striking
+and
+at the end;
+(III)
+in subparagraph (E), by adding
+and
+at the end; and
+(IV)
+by adding at the end the following:
+(F)
+implementing mechanisms for using verification specifications, or alternate verification specifications validated by the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Director of the National Institute of Standards and Technology, to automatically verify the implementation of standards of agency systems promulgated under section 11331 of title 40 or any additional cybersecurity procedures, as applicable;
+; and
+(iv)
+in paragraph (5), by inserting
+and the Director of the Cybersecurity and Infrastructure Security Agency
+before
+on the effectiveness
+;
+(B)
+in subsection (b)â
+(i)
+by striking paragraph (1) and inserting the following:
+(1)
+pursuant to subsection (a)(1)(A), performing an agency system risk assessment, which shall include using automated tools consistent with standards, verification specifications, and guidelines promulgated under section 11331 of title 40, as applicable;
+;
+(ii)
+in paragraph (2)(D)â
+(I)
+by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively;
+(II)
+by inserting after clause (ii) the following:
+(iii)
+binding operational directives and emergency directives promulgated by the Director of the Cybersecurity and Infrastructure Security Agency under section 3553 of title 44;
+; and
+(III)
+in clause (iv), as so redesignated, by striking
+as determined by the agency; and
+and inserting âas determined by the agencyâ
+(I)
+in coordination with the Director of the Cybersecurity and Infrastructure Security Agency; and
+(II)
+in consideration ofâ
+(aa)
+the agency risk assessment performed under subsection (a)(1)(A); and
+(bb)
+the determinations of applying more stringent standards and additional cybersecurity procedures pursuant to section 11331(c)(1) of title 40; and
+;
+(iii)
+in paragraph (5)â
+(I)
+in subparagraph (A), by inserting
+, including penetration testing, as appropriate,
+after
+shall include testing
+; and
+(II)
+in subparagraph (C), by inserting
+, verification specifications,
+after
+with standards
+;
+(iv)
+in paragraph (6), by striking
+planning, implementing, evaluating, and documenting
+and inserting
+planning and implementing and, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency, evaluating and documenting
+;
+(v)
+by redesignating paragraphs (7) and (8) as paragraphs (9) and (10), respectively;
+(vi)
+by inserting after paragraph (6) the following:
+(7)
+a process for providing the status of every remedial action and known system vulnerability to the Director and the Director of the Cybersecurity and Infrastructure Security Agency, using automation and machine-readable data to the greatest extent practicable;
+(8)
+a process for providing the verification of the implementation of standards promulgated under section 11331 of title 40 using verification specifications, automation, and machine-readable data, to the Director and the Director of the Cybersecurity and Infrastructure Security Agency;
+; and
+(vii)
+in paragraph (9)(C), as so redesignatedâ
+(I)
+by striking clause (ii) and inserting the following:
+(ii)
+notifying and consulting with the Federal information security incident center established under section 3556 pursuant to the requirements of section 3594;
+;
+(II)
+by redesignating clause (iii) as clause (iv);
+(III)
+by inserting after clause (ii) the following:
+(iii)
+performing the notifications and other activities required under subchapter IV of this title; and
+; and
+(IV)
+in clause (iv), as so redesignatedâ
+(aa)
+in subclause (I), by striking
+and relevant Offices of Inspector General
+;
+(bb)
+in subclause (II), by adding
+and
+at the end;
+(cc)
+by striking subclause (III); and
+(dd)
+by redesignating subclause (IV) as subclause (III);
+(C)
+in subsection (c)â
+(i)
+in paragraph (1)â
+(I)
+in subparagraph (A)â
+(aa)
+in the matter preceding clause (i), by striking
+on the adequacy and effectiveness of information security policies, procedures, and practices, including
+and inserting
+that includes
+; and
+(bb)
+in clause (ii), by inserting
+unless the Director issues a waiver to the agency under subparagraph (B)(iii),
+before
+the total number
+; and
+(II)
+by striking subparagraph (B) and inserting the following:
+(B)
+Incident reporting waiver
+(i)
+Certification of agency information sharing
+If the Director, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency, determines that an agency shares any information relating to any incident pursuant to section 3594(a), the Director shall certify that the agency is in compliance with that section.
+(ii)
+Certification of issuing report
+If the Director determines that the Director of the Cybersecurity and Infrastructure Security Agency uses the information described in clause (i) with respect to a particular agency to submit to Congress an annex required under section 3597(c)(3) for that agency, the Director shall certify that the Cybersecurity and Infrastructure Security Agency is in compliance with that section with respect to that agency.
+(iii)
+Waiver
+The Director may waive the reporting requirement with respect to the information required to be included in the report under subparagraph (A)(ii) for a particular agency ifâ
+(I)
+the Director has issued a certification for the agency under clause (i); and
+(II)
+the Director has issued a certification with respect to the annex of the agency under clause (ii).
+(iv)
+Revocation of waiver or certifications
+(I)
+Waiver
+If, at any time, the Director determines that the Director of the Cybersecurity and Infrastructure Security Agency cannot submit to Congress an annex for a particular agency under section 3597(c)(3)â
+(aa)
+any waiver previously issued under clause (iii) with respect to that agency shall be considered void; and
+(bb)
+the Director shall revoke the certification for the annex of that agency under clause (ii).
+(II)
+Certifications
+If, at any time, the Director determines that an agency has not provided to the Director of the Cybersecurity and Infrastructure Security Agency the totality of incident information required under section 3594(a)â
+(aa)
+any waiver previously issued under clause (iii) with respect to that agency shall be considered void; and
+(bb)
+the Director shall revoke the certification for that agency under clause (i).
+(III)
+Reissuance
+If the Director revokes a waiver under this clause, the Director may issue a subsequent waiver if the Director issues new certifications under clauses (i) and (ii).
+;
+(ii)
+by redesignating paragraphs (2) through (5) as paragraphs (4) through (7), respectively; and
+(iii)
+by inserting after paragraph (1) the following:
+(2)
+Biannual report
+Not later than 180 days after the date on which an agency completes an agency system risk assessment under subsection (a)(1)(A) and not less frequently than every 2 years, each agency shall submit to the Director, the Secretary, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform of the House of Representatives, the Committee on Homeland Security of the House of Representatives, the appropriate authorization and appropriations committees of Congress, the National Cyber Director, and the Comptroller General of the United States a report thatâ
+(A)
+summarizes the agency system risk assessment performed under subsection (a)(1)(A);
+(B)
+evaluates the adequacy and effectiveness of information security policies, procedures, and practices of the agency to address the risks identified in the system risk assessment performed under subsection (a)(1)(A); and
+(C)
+summarizes the evaluations and implementation plans described in subparagraphs (F) and (G) of subsection (a)(1) and whether those evaluations and implementation plans call for the use of additional cybersecurity procedures determined to be appropriate by the agency.
+(3)
+Unclassified reports
+Each report submitted under paragraphs (1) and (2)â
+(A)
+shall be, to the greatest extent practicable, in an unclassified and otherwise uncontrolled form; and
+(B)
+may include a classified annex.
+; and
+(D)
+in subsection (d)(1), in the matter preceding subparagraph (A), by inserting
+and the Director of the Cybersecurity and Infrastructure Security Agency
+after
+the Director
+;
+(4)
+in section 3555â
+(A)
+in subsection (a)(2)(A), by inserting
+, including by penetration testing and analyzing the vulnerability disclosure program of the agency
+after
+information systems
+;
+(B)
+by striking subsection (f) and inserting the following:
+(f)
+Protection of information
+(1)
+Agencies and evaluators shall take appropriate steps to ensure the protection of information which, if disclosed, may adversely affect information security.
+(2)
+The protections required under paragraph (1) shall be commensurate with the risk and comply with all applicable laws and regulations.
+(3)
+With respect to information that is not related to national security systems, agencies and evaluators shall make a summary of the information unclassified and publicly available, including information that does not identifyâ
+(A)
+specific information system incidents; or
+(B)
+specific information system vulnerabilities.
+;
+(C)
+in subsection (g)(2)â
+(i)
+by striking
+this subsection shall
+and inserting âthis subsectionâ
+(A)
+shall
+;
+(ii)
+in subparagraph (A), as so designated, by striking the period at the end and inserting
+; and
+; and
+(iii)
+by adding at the end the following:
+(B)
+identify any entity that performs an independent audit under subsection (b).
+; and
+(D)
+in subsection (j), by striking
+the Secretary
+and inserting
+the Director of the Cyber Security and Infrastructure Security Agency
+; and
+(5)
+in section 3556(a)â
+(A)
+in the matter preceding paragraph (1), by inserting
+within the Cybersecurity and Infrastructure Security Agency
+after
+incident center
+; and
+(B)
+in paragraph (4), by striking
+3554(b)
+and inserting
+3554(a)(1)(A)
+.
+(d)
+Federal system incident response
+(1)
+In general
+Chapter 35
+of title 44, United States Code, is amended by adding at the end the following:
+IV
+Federal System Incident Response
+3591.
+Definitions
+(a)
+In general
+Except as provided in subsection (b), the definitions under sections 3502 and 3552 shall apply to this subchapter.
+(b)
+Additional definitions
+As used in this subchapter:
+(1)
+Appropriate notification entities
+The term
+appropriate notification entities
+meansâ
+(A)
+the Committee on Homeland Security and Governmental Affairs of the Senate;
+(B)
+the Committee on Oversight and Reform of the House of Representatives;
+(C)
+the Committee on Homeland Security of the House of Representatives;
+(D)
+the appropriate authorization and appropriations committees of Congress;
+(E)
+the Director;
+(F)
+the Director of the Cybersecurity and Infrastructure Security Agency;
+(G)
+the National Cyber Director; and
+(H)
+the Comptroller General of the United States.
+(2)
+Contractor
+The term
+contractor
+â
+(A)
+means any person or business that collects or maintains information that includes personally identifiable information or sensitive personal information on behalf of an agency; and
+(B)
+includes any subcontractor of a person or business described in subparagraph (A).
+(3)
+Intelligence community
+The term
+intelligence community
+has the meaning given the term in section 3 of the National Security Act of 1947 (
+50 U.S.C. 3003
+).
+(4)
+Nationwide consumer reporting agency
+The term
+nationwide consumer reporting agency
+means a consumer reporting agency described in section 603(p) of the Fair Credit Reporting Act (
+15 U.S.C. 1681a(p)
+).
+(5)
+Vulnerability disclosure
+The term
+vulnerability disclosure
+means a vulnerability identified under section 3559B.
+3592.
+Notification of high risk exposure after major incident
+(a)
+Notification
+As expeditiously as practicable and without unreasonable delay, and in any case not later than 30 days after an agency has a reasonable basis to conclude that a major incident has occurred due to a high risk exposure of personal identifiable information, as described in section 3598(c)(2), the head of the agency shall provide notice of the major incident in accordance with subsection (b) in writing to the last known home mailing address of each individual whom the major incident may have impacted.
+(b)
+Contents of notice
+Each notice to an individual required under subsection (a) shall includeâ
+(1)
+a description of the rationale for the determination that the major incident resulted in a high risk of exposure of the personal information of the individual;
+(2)
+an assessment of the type of risk the individual may face as a result of an exposure;
+(3)
+contact information for the Federal Bureau of Investigation or other appropriate entity;
+(4)
+the contact information of each nationwide consumer reporting agency;
+(5)
+the contact information for questions to the agency, including a telephone number, e-mail address, and website;
+(6)
+information on any remedy being offered by the agency;
+(7)
+consolidated Federal Government recommendations on what to do in the event of a major incident; and
+(8)
+any other appropriate information as determined by the head of the agency.
+(c)
+Delay of notification
+(1)
+In general
+The Attorney General, the Director of National Intelligence, or the Secretary of Homeland Security may impose a delay of a notification required under subsection (a) if the notification would disrupt a law enforcement investigation, endanger national security, or hamper security remediation actions.
+(2)
+Documentation
+(A)
+In general
+Any delay under paragraph (1) shall be reported in writing to the head of the agency, the Director, the Director of the Cybersecurity and Infrastructure Security Agency, and the Office of Inspector General of the agency that experienced the major incident.
+(B)
+Contents
+A statement required under subparagraph (A) shall include a written statement from the entity that delayed the notification explaining the need for the delay.
+(C)
+Form
+The statement required under subparagraph (A) shall be unclassified, but may include a classified annex.
+(3)
+Renewal
+A delay under paragraph (1) shall be for a period of 2 months and may be renewed.
+(d)
+Update notification
+If an agency determines there is a change in the reasonable basis to conclude that a major incident occurred, or that there is a change in the details of the information provided to impacted individuals as described in subsection (b), the agency shall as expeditiously as practicable and without unreasonable delay, and in any case not later than 30 days after such a determination, notify all such individuals who received a notification pursuant to subsection (a) of those changes.
+(e)
+Rule of construction
+Nothing in this section shall be construed to limitâ
+(1)
+the Director from issuing guidance regarding notifications or the head of an agency from sending notifications to individuals impacted by incidents not determined to be major incidents; or
+(2)
+the Director from issuing guidance regarding notifications of major incidents or the head of an agency from issuing notifications to individuals impacted by major incidents that contain more information than described in subsection (b).
+3593.
+Congressional notifications and reports
+(a)
+Initial report
+(1)
+In general
+Not later than 5 days after the date on which an agency has a reasonable basis to conclude that a major incident occurred, the head of the agency shall submit a written notification and, to the extent practicable, provide a briefing, to the appropriate notification entities, taking into accountâ
+(A)
+the information known at the time of the notification;
+(B)
+the sensitivity of the details associated with the major incident; and
+(C)
+the classification level of the information contained in the notification.
+(2)
+Contents
+A notification required under paragraph (1) shall includeâ
+(A)
+a summary of the information available about the major incident, including how the major incident occurred, based on information available to agency officials as of the date on which the agency submits the report;
+(B)
+if applicable, an estimate of the number of individuals impacted by the major incident, including an assessment of the risk level to impacted individuals based on the guidance promulgated under section 3598(c)(1) and any information available to agency officials on the date on which the agency submits the report;
+(C)
+if applicable, a description and any associated documentation of any circumstances necessitating a delay in or exemption to notification granted under subsection (c) or (d) of section 3592; and
+(D)
+if applicable, an assessment of the impacts to the agency, the Federal Government, or the security of the United States, based on information available to agency officials on the date on which the agency submits the report.
+(b)
+Supplemental report
+Within a reasonable amount of time, but not later than 45 days after the date on which additional information relating to a major incident for which an agency submitted a written notification under subsection (a) is discovered by the agency, the head of the agency shall submit to the appropriate notification entities updates to the written notification that include summaries ofâ
+(1)
+the threats and threat actors, vulnerabilities, means by which the major incident occurred, and impacts to the agency relating to the major incident;
+(2)
+any risk assessment and subsequent risk-based security implementation of the affected information system before the date on which the major incident occurred;
+(3)
+the status of compliance of the affected information system with applicable security requirements at the time of the major incident;
+(4)
+an estimate of the number of individuals affected by the major incident based on information available to agency officials as of the date on which the agency submits the update;
+(5)
+an update to the assessment of the risk of harm to impacted individuals affected by the major incident based on information available to agency officials as of the date on which the agency submits the update;
+(6)
+an update to the assessment of the risk to agency operations, or to impacts on other agency or non-Federal entity operations, affected by the major incident based on information available to agency officials as of the date on which the agency submits the update; and
+(7)
+the detection, response, and remediation actions of the agency, including any support provided by the Cybersecurity and Infrastructure Security Agency under section 3594(d) and status updates on the notification process described in section 3592(a), including any delay or exemption described in subsection (c) or (d), respectively, of section 3592, if applicable.
+(c)
+Update Report
+If the agency determines that there is any significant change in the understanding of the agency of the scope, scale, or consequence of a major incident for which an agency submitted a written notification under subsection (a), the agency shall provide an updated report to the appropriate notification entities that includes information relating to the change in understanding.
+(d)
+Annual report
+Each agency shall submit as part of the annual report required under section 3554(c)(1) of this title a description of each major incident that occurred during the 1-year period preceding the date on which the report is submitted.
+(e)
+Delay and exemption report
+The Director shall submit to the appropriate notification entities an annual report on all notification delays and exemptions granted pursuant to subsections (c) and (d) of section 3592.
+(f)
+Report delivery
+Any written notification or report required to be submitted under this section may be submitted in a paper or electronic format.
+(g)
+Rule of construction
+Nothing in this section shall be construed to limitâ
+(1)
+the ability of an agency to provide additional reports or briefings to Congress; or
+(2)
+Congress from requesting additional information from agencies through reports, briefings, or other means.
+(h)
+Binding operational directive
+If the Director of the Cybersecurity and Infrastructure Security Agency issues a binding operational directive or an emergency directive under section 3553, not later than 2 days after the date on which the binding operational directive requires an agency to take an action, each agency shall provide to the appropriate notification entities the status of the implementation of the binding operational directive at the agency.
+3594.
+Government information sharing and incident response
+(a)
+In general
+(1)
+Incident reporting
+The head of each agency shall provide any information relating to any incident, whether the information is obtained by the Federal Government directly or indirectly, to the Cybersecurity and Infrastructure Security Agency and the Office of Management and Budget.
+(2)
+Contents
+A provision of information relating to an incident made by the head of an agency under paragraph (1) shallâ
+(A)
+include detailed information about the safeguards that were in place when the incident occurred;
+(B)
+whether the agency implemented the safeguards described in subparagraph (A) correctly; and
+(C)
+in order to protect against a similar incident, identifyâ
+(i)
+how the safeguards described in subparagraph (A) should be implemented differently; and
+(ii)
+additional necessary safeguards.
+(b)
+Compliance
+The information provided under subsection (a) shallâ
+(1)
+take into account the level of classification of the information and any information sharing limitations relating to law enforcement; and
+(2)
+be in compliance with the requirements limiting the release of information under section 552a of title 5 (commonly known as the
+Privacy Act of 1974
+).
+(c)
+Responding to information requests from agencies experiencing incidents
+An agency that receives a request from another agency or Federal entity for information specifically intended to assist in the remediation or notification requirements due to an incident shall provide that information to the greatest extent possible, in accordance with guidance issued by the Director and taking into account classification, law enforcement, national security, and compliance with section 552a of title 5 (commonly known as the
+Privacy Act of 1974
+).
+(d)
+Incident response
+Each agency that has a reasonable basis to conclude that a major incident occurred, regardless of delays from notification granted for a major incident, shall consult with the Cybersecurity and Infrastructure Security Agency regardingâ
+(1)
+incident response and recovery; and
+(2)
+recommendations for mitigating future incidents.
+3595.
+Responsibilities of contractors and grant recipients
+(a)
+Notification
+(1)
+In general
+Subject to paragraph (3), any contractor of an agency or recipient of a grant from an agency that has a reasonable basis to conclude that an incident involving Federal information has occurred shall immediately notify the agency.
+(2)
+Procedures
+(A)
+Major incident
+Following notification of a major incident by a contractor or recipient of a grant under paragraph (1), an agency, in consultation with the contractor or grant recipient, as applicable, shall carry out the requirements under sections 3592, 3593, and 3594 with respect to the major incident.
+(B)
+Incident
+Following notification of an incident by a contractor or recipient of a grant under paragraph (1), an agency, in consultation with the contractor or grant recipient, as applicable, shall carry out the requirements under section 3594 with respect to the incident.
+(3)
+Applicability
+This subsection shall apply to a contractor of an agency or a recipient of a grant from an agency thatâ
+(A)
+receives information from the agency that the contractor or recipient, as applicable, is not contractually authorized to receive;
+(B)
+experiences an incident relating to Federal information on an information system of the contractor or recipient, as applicable; or
+(C)
+identifies an incident involving a Federal information system.
+(b)
+Incident response
+Any contractor of an agency or recipient of a grant from an agency that has a reasonable basis to conclude that a major incident occurred shall, in coordination with the agency, consult with the Cybersecurity and Infrastructure Security Agency regardingâ
+(1)
+incident response assistance; and
+(2)
+recommendations for mitigating future incidents at the agency.
+(c)
+Effective date
+This section shall apply on and after the date that is 1 year after the date of enactment of the
+Federal Information Security Modernization Act of 2021
+.
+3596.
+Training
+(a)
+In general
+Each agency shall develop training for individuals at the agency with access to Federal information or information systems on how to identify and respond to an incident, includingâ
+(1)
+the internal process at the agency for reporting an incident; and
+(2)
+the obligation of the individual to report to the agency a confirmed major incident and any suspected incident, involving information in any medium or form, including paper, oral, and electronic.
+(b)
+Applicability
+The training developed under subsection (a) shallâ
+(1)
+be required for an individual before the individual may access Federal information or information systems; and
+(2)
+apply to individuals with temporary access to Federal information or information systems, such as detailees, contractors, subcontractors, grantees, volunteers, and interns.
+(c)
+Inclusion in annual training
+The training developed under subsection (a) may be included as part of an annual privacy or security awareness training of the agency, as applicable.
+3597.
+Analysis and report on Federal incidents
+(a)
+Definition of compromise
+In this section, the term
+compromise
+meansâ
+(1)
+an incident;
+(2)
+a result of a penetration test in which the tester successfully gains access to a system within the standards under section 3559A;
+(3)
+a vulnerability disclosure; or
+(4)
+any other event that the Director of the Cybersecurity and Infrastructure Security Agency determines identifies an exploitable vulnerability in an agency system.
+(b)
+Analysis of Federal incidents
+(1)
+In general
+The Director of the Cybersecurity and Infrastructure Security Agency shall perform continuous monitoring of compromises of agencies.
+(2)
+Quantitative and Qualitative analyses
+The Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Director, shall develop and perform continuous monitoring and quantitative and qualitative analyses of compromises of agencies, includingâ
+(A)
+the causes of successful compromises, includingâ
+(i)
+attacker tactics, techniques, and procedures; and
+(ii)
+system vulnerabilities, including zero days, unpatched systems, and information system misconfigurations;
+(B)
+the scope and scale of compromises of agencies;
+(C)
+cross Federal Government root causes of compromises of agencies;
+(D)
+agency response, recovery, and remediation actions and effectiveness of incidents, as applicable; and
+(E)
+lessons learned and recommendations in responding, recovering, remediating, and mitigating future incidents.
+(3)
+Automated analysis
+The analyses developed under paragraph (2) shall, to the greatest extent practicable, use machine readable data, automation, and machine learning processes.
+(4)
+Sharing of data and analysis
+(A)
+In general
+The Director shall share on an ongoing basis the analyses required under this subsection with agencies toâ
+(i)
+improve the understanding of agencies with respect to risk; and
+(ii)
+support the cybersecurity improvement efforts of agencies.
+(B)
+Format
+In carrying out subparagraph (A), the Director shall share the analysesâ
+(i)
+in human-readable written products; and
+(ii)
+to the greatest extent practicable, in machine-readable formats in order to enable automated intake and use by agencies.
+(c)
+Annual report on Federal compromises
+Not later than 2 years after the date of enactment of this section, and not less frequently than annually thereafter, the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Director, shall submit to the appropriate notification entities a report that includesâ
+(1)
+a summary of causes of compromises from across the Federal Government that categorizes those compromises by the items described in paragraphs (1) through (4) of subsection (a);
+(2)
+the quantitative and qualitative analyses of compromises developed under subsection (b)(2) on an agency-by-agency basis and comprehensively; and
+(3)
+an annex for each agency that includes the total number of compromises of the agency and categorizes those compromises by the items described in paragraphs (1) through (4) of subsection (a).
+(d)
+Publication
+A version of each report submitted under subsection (c) shall be made publicly available on the website of the Cybersecurity and Infrastructure Security Agency during the year in which the report is submitted.
+(e)
+Information provided by agencies
+The analysis required under subsection (b) and each report submitted under subsection (c) shall utilize information provided by agencies pursuant to section 3594(d).
+(f)
+Requirement To Anonymize Information
+In publishing the public report required under subsection (d), the Director of the Cybersecurity and Infrastructure Security Agency shall sufficiently anonymize and compile information such that no specific incidents of an agency can be identified, except with the concurrence of the Director of the Office of Management and Budget and in consultation with the impacted agency.
+3598.
+Major incident guidance
+(a)
+In general
+Not later than 90 days after the date of enactment of the Federal Information Security Management Act of 2021, the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall develop and promulgate guidance on the definition of the term
+major incident
+for the purposes of subchapter II and this subchapter.
+(b)
+Requirements
+With respect to the guidance issued under subsection (a), the definition of the term
+major incident
+shallâ
+(1)
+include, with respect to any information collected or maintained by or on behalf of an agency or an information system used or operated by an agency or by a contractor of an agency or another organization on behalf of an agencyâ
+(A)
+any incident the head of the agency determines is likely to have an impact on the national security, homeland security, or economic security of the United States;
+(B)
+any incident the head of the agency determines is likely to have an impact on the operations of the agency, a component of the agency, or the Federal Government, including an impact on the efficiency or effectiveness of agency information systems;
+(C)
+any incident that the head of an agency, in consultation with the Chief Privacy Officer of the agency, determines involves a high risk incident in accordance with the guidance issued under subsection (c)(1);
+(D)
+any incident that involves the unauthorized disclosure of personally identifiable information of not less than 500 individuals, regardless of the risk level determined under the guidance issued under subsection (c)(1);
+(E)
+any incident the head of the agency determines involves a high value asset owned or operated by the agency; and
+(F)
+any other type of incident determined appropriate by the Director;
+(2)
+stipulate that every agency shall be considered to have experienced a major incident if the Director of the Cybersecurity and Infrastructure Security Agency determines that an incident that occurs at not less than 2 agenciesâ
+(A)
+is enabled by a common technical root cause, such as a supply chain compromise, a common software or hardware vulnerability; or
+(B)
+is enabled by the related activities of a common actor; and
+(3)
+stipulate that, in determining whether an incident constitutes a major incident because that incidentâ
+(A)
+is any incident described in paragraph (1), the head of an agency shall consult with the Director of the Cybersecurity and Infrastructure Security Agency;
+(B)
+is an incident described in paragraph (1)(A), the head of the agency shall consult with the National Cyber Director; and
+(C)
+is an incident described in subparagraph (C) or (D) of paragraph (1), the head of the agency shall consult withâ
+(i)
+the Privacy and Civil Liberties Oversight Board; and
+(ii)
+the Executive Director of the Federal Trade Commission.
+(c)
+Guidance on risk to individuals
+(1)
+In general
+Not later than 90 days after the date of enactment of the
+Federal Information Security Modernization Act of 2021
+, the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, the Privacy and Civil Liberties Oversight Board, and the Executive Director of the Federal Trade Commission, shall develop and issue guidance to agencies that establishes a risk-based framework for determining the level of risk that an incident involving personally identifiable information could result in substantial harm, physical harm, embarrassment, or unfairness to an individual.
+(2)
+Risk levels and considerations
+The risk-based framework included in the guidance issued under paragraph (1) shallâ
+(A)
+include a range of risk levels, including a high risk level; and
+(B)
+considerâ
+(i)
+any personally identifiable information that was exposed as a result of an incident;
+(ii)
+the circumstances under which the exposure of personally identifiable information of an individual occurred; and
+(iii)
+whether an independent evaluation of the information affected by an incident determines that the information is unreadable, including, as appropriate, instances in which the information isâ
+(I)
+encrypted; and
+(II)
+determined by the Director of the Cybersecurity and Infrastructure Security Agency to be of sufficiently low risk of exposure.
+(3)
+Approval
+(A)
+In general
+The guidance issued under paragraph (1) shall include a process by which the Director, jointly with the Director of the Cybersecurity and Infrastructure Security Agency and the Attorney General, may approve the designation of an incident that would be considered high risk as lower risk if information exposed by the incident is unreadable, as described in paragraph (2)(B)(iii).
+(B)
+Documentation
+The Director shall report any approval of an incident granted by the Director under subparagraph (A) toâ
+(i)
+the head of the agency that experienced the incident;
+(ii)
+the inspector general of the agency that experienced the incident; and
+(iii)
+the Director of the Cybersecurity and Infrastructure Security Agency.
+(d)
+Evaluation and updates
+Not later than 2 years after the date of enactment of the
+Federal Information Security Modernization Act of 2021
+, and not less frequently than every 2 years thereafter, the Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives an evaluation, which shall includeâ
+(1)
+an update, if necessary, to the guidance issued under subsections (a) and (c);
+(2)
+the definition of the term
+major incident
+included in the guidance issued under subsection (a);
+(3)
+an explanation of, and the analysis that led to, the definition described in paragraph (2); and
+(4)
+an assessment of any additional datasets or risk evaluation criteria that should be included in the risk-based framework included in the guidance issued under subsection (c)(1).
+.
+(2)
+Clerical amendment
+The table of sections for
+chapter 35
+of title 44, United States Code, is amended by adding at the end the following:
+SUBCHAPTER IVâFederal System Incident Response
+3591. Definitions.
+3592. Notification of high risk exposure after major incident.
+3593. Congressional notifications and reports.
+3594. Government information sharing and incident response.
+3595. Responsibilities of contractors and grant recipients.
+3596. Training.
+3597. Analysis and report on Federal incidents.
+3598. Major incident guidance.
+.
+102.
+Amendments to subtitle III of title 40
+(a)
+Information Technology Modernization Centers of Excellence Program Act
+Section 2(c)(4)(A)(ii) of the Information Technology Modernization Centers of Excellence Program Act (
+40 U.S.C. 11301
+note) is amended by striking the period at the end and inserting
+, which shall be provided in coordination with the Director of the Cybersecurity and Infrastructure Security Agency.
+.
+(b)
+Modernizing Government Technology
+Subtitle G of title X of Division A of the National Defense Authorization Act for Fiscal Year 2018 (
+40 U.S.C. 11301
+note) is amendedâ
+(1)
+in section 1077(b)â
+(A)
+in paragraph (5)(A), by inserting
+improving the cybersecurity of systems and
+before
+cost savings activities
+; and
+(B)
+in paragraph (7)â
+(i)
+in the paragraph heading, by striking
+cio
+and inserting
+CIO
+;
+(ii)
+by striking
+In evaluating projects
+and inserting the following:
+(A)
+Consideration of guidance
+In evaluating projects
+;
+(iii)
+in subparagraph (A), as so designated, by striking
+under section 1094(b)(1)
+and inserting
+guidance issued by the Director
+; and
+(iv)
+by adding at the end the following:
+(B)
+Consultation
+In using funds under paragraph (3)(A), the Chief Information Officer of the covered agency shall consult with the Director of the Cybersecurity and Infrastructure Security Agency.
+; and
+(2)
+in section 1078â
+(A)
+by striking subsection (a) and inserting the following:
+(a)
+Definitions
+In this section:
+(1)
+Agency
+The term
+agency
+has the meaning given the term in section 551 of title 5, United States Code.
+(2)
+High value asset
+The term
+high value asset
+has the meaning given the term in section 3552 of title 44, United States Code.
+;
+(B)
+in subsection (b), by adding at the end the following:
+(8)
+Proposal evaluation
+The Director shallâ
+(A)
+give consideration for the use of amounts in the Fund to improve the security of high value assets; and
+(B)
+require that any proposal for the use of amounts in the Fund includes a cybersecurity plan, including a chain risk management plan, to be reviewed by the member of the Technology Modernization Board described in subsection (c)(5)(C).
+; and
+(C)
+in subsection (c)â
+(i)
+in paragraph (2)(A)(i), by inserting
+, including a consideration of the impact on high value assets
+after
+operational risks
+;
+(ii)
+in paragraph (5)â
+(I)
+in subparagraph (A), by striking
+and
+at the end;
+(II)
+in subparagraph (B), by striking the period at the end and inserting
+and
+; and
+(III)
+by adding at the end the following:
+(C)
+a senior official from the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, appointed by the Director.
+; and
+(iii)
+in paragraph (6)(A), by striking
+shall beâ
+and all that follows through
+4 employees
+and inserting
+shall be 4 employees
+.
+(c)
+Subchapter I
+Subchapter I of subtitle III of title 40, United States Code, is amendedâ
+(1)
+in section 11302â
+(A)
+in subsection (b), by striking
+use, security, and disposal of
+and inserting
+use, and disposal, and, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, promote and improve the security, of
+;
+(B)
+in subsection (c)â
+(i)
+in paragraph (2), by inserting
+in consultation with the Director of the Cybersecurity and Infrastructure Security Agency
+before
+, and results of
+;
+(ii)
+in paragraph (3)â
+(I)
+in subparagraph (A), by striking
+, and performance
+and inserting
+security, and performance
+; and
+(II)
+in subparagraph (C)â
+(aa)
+by striking
+For each major
+and inserting the following:
+(i)
+In general
+For each major
+; and
+(bb)
+by adding at the end the following:
+(ii)
+Cybersecurity
+In categorizing an investment according to risk under clause (i), the Chief Information Officer of the covered agency shall consult with the Director of the Cybersecurity and Infrastructure Security Agency on the cybersecurity or supply chain risk.
+(iii)
+Security risk guidance
+The Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall issue guidance for the categorization of an investment under clause (i) according to the cybersecurity or supply chain risk.
+; and
+(iii)
+in paragraph (4)â
+(I)
+in subparagraph (A)â
+(aa)
+in clause (ii), by striking
+and
+at the end;
+(bb)
+in clause (iii), by striking the period at the end and inserting
+; and
+; and
+(cc)
+by adding at the end the following:
+(iv)
+in consultation with the Director of the Cybersecurity and Infrastructure Security Agency, the cybersecurity risks of the investment.
+; and
+(II)
+in subparagraph (B), in the matter preceding clause (i), by inserting
+not later than 30 days after the date on which the review under subparagraph (A) is completed,
+before
+the Administrator
+;
+(C)
+in subsection (f)â
+(i)
+by striking
+heads of executive agencies to develop
+and inserting âheads of executive agencies toâ
+(1)
+develop
+;
+(ii)
+in paragraph (1), as so designated, by striking the period at the end and inserting
+; and
+; and
+(iii)
+by adding at the end the following:
+(2)
+consult with the Director of the Cybersecurity and Infrastructure Security Agency for the development and use of supply chain security best practices.
+; and
+(D)
+in subsection (h), by inserting
+, including cybersecurity performances,
+after
+the performances
+; and
+(2)
+in section 11303(b)(2)(B)â
+(A)
+in clause (i), by striking
+or
+at the end;
+(B)
+in clause (ii), by adding
+or
+at the end; and
+(C)
+by adding at the end the following:
+(iii)
+whether the function should be performed by a shared service offered by another executive agency;
+.
+(d)
+Subchapter II
+Subchapter II of subtitle III of title 40, United States Code, is amendedâ
+(1)
+in section 11312(a), by inserting
+, including security risks
+after
+managing the risks
+;
+(2)
+in section 11313(1), by striking
+efficiency and effectiveness
+and inserting
+efficiency, security, and effectiveness
+;
+(3)
+in section 11317, by inserting
+security,
+before
+or schedule
+; and
+(4)
+in section 11319(b)(1), in the paragraph heading, by striking
+cios
+and inserting
+Chief Information Officers
+.
+(e)
+Subchapter III
+Section 11331 of title 40, United States Code, is amendedâ
+(1)
+in subsection (a), by striking
+section 3532(b)(1)
+and inserting
+section 3552(b)
+;
+(2)
+in subsection (b)(1)(A)â
+(A)
+by striking
+in consultation
+and inserting
+in coordination
+;
+(B)
+by striking
+the Secretary of Homeland Security
+and inserting
+the Director of the Cybersecurity and Infrastructure Security Agency
+; and
+(C)
+by inserting
+and associated verification specifications developed under subsection (g)
+before
+pertaining to Federal
+;
+(3)
+by striking subsection (c) and inserting the following:
+(c)
+Application of more stringent standards
+(1)
+In general
+The head of an agency shallâ
+(A)
+evaluate the need to employ standards for cost-effective, risk-based information security for all systems, operations, and assets within or under the supervision of the agency that are more stringent than the standards promulgated by the Director under this section, if such standards contain, at a minimum, the provisions of those applicable standards made compulsory and binding by the Director; and
+(B)
+to the greatest extent practicable and if the head of the agency determines that the standards described in subparagraph (A) are necessary, employ those standards.
+(2)
+Evaluation of more stringent standards
+In evaluating the need to employ more stringent standards under paragraph (1), the head of an agency shall consider available risk information, includingâ
+(A)
+the status of cybersecurity remedial actions of the agency;
+(B)
+any vulnerability information relating to agency systems that is known to the agency;
+(C)
+incident information of the agency;
+(D)
+information fromâ
+(i)
+penetration testing performed under section 3559A of title 44; and
+(ii)
+information from the verification disclosure program established under section 3559B of title 44;
+(E)
+agency threat hunting results under section 207 of the
+Federal Information Security Modernization Act of 2021
+;
+(F)
+Federal and non-Federal threat intelligence;
+(G)
+data on compliance with standards issued under this section, using the verification specifications developed under subsection (f) when appropriate;
+(H)
+agency system risk assessments of the agency performed under section 3554(a)(1)(A) of title 44; and
+(I)
+any other information determined relevant by the head of the agency.
+;
+(4)
+in subsection (d)(2)â
+(A)
+by striking the paragraph heading and inserting
+Consultation, notice, and comment
+;
+(B)
+by inserting
+promulgate,
+before
+significantly modify
+; and
+(C)
+by striking
+shall be made after the public is given an opportunity to comment on the Director's proposed decision.
+and inserting âshall be madeâ
+(A)
+for a decision to significantly modify or not promulgate such a proposed standard, after the public is given an opportunity to comment on the Director's proposed decision;
+(B)
+in consultation with the Chief Information Officers Council, the Director of the Cybersecurity and Infrastructure Security Agency, the National Cyber Director, the Comptroller General of the United States, and the Council of the Inspectors General on Integrity and Efficiency;
+(C)
+considering the Federal risk assessments performed under section 3553(i) of title 44; and
+(D)
+considering the extent to which the proposed standard reduces risk relative to the cost of implementation of the standard.
+; and
+(5)
+by adding at the end the following:
+(e)
+Review of promulgated standards
+(1)
+In general
+Not less frequently than once every 2 years, the Director of the Office of Management and Budget, in consultation with the Chief Information Officers Council, the Director of the Cybersecurity and Infrastructure Security Agency, the National Cyber Director, the Comptroller General of the United States, and the Council of the Inspectors General on Integrity and Efficiency shall review the efficacy of the standards in effect promulgated under this section in reducing cybersecurity risks and determine whether any changes to those standards are appropriate based onâ
+(A)
+the Federal risk assessment developed under section 3553(i) of title 44;
+(B)
+public comment; and
+(C)
+an assessment of the extent to which the proposed standards reduce risk relative to the cost of implementation of the standards.
+(2)
+Updated guidance
+Not later than 90 days after the date of the completion of the review under paragraph (1), the Director of the Office of Management and Budget shall issue guidance to agencies to make any necessary updates to the standards in effect promulgated under this section based on the results of the review.
+(3)
+Congressional report
+Not later than 30 days after the date on which a review is completed under paragraph (1), the Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the
+Committee on Oversight and Reform of the House of Representatives
+a report that includesâ
+(A)
+the review of the standards in effect promulgated under this section conducted under paragraph (1);
+(B)
+the risk mitigation offered by each standard described in subparagraph (A); and
+(C)
+a summary ofâ
+(i)
+the standards to which changes were determined appropriate during the review; and
+(ii)
+anticipated changes to the standards under this section in guidance issued under paragraph (2).
+(f)
+Verification specifications
+Not later than 1 year after the date on which the Director of the National Institute of Standards and Technology issues a proposed standard pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (
+15 U.S.C. 278gâ3(a)
+), the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Director of the National Institute of Standards and Technology, as practicable, shall develop technical specifications to enable the automated verification of the implementation of the controls within the standard.
+.
+103.
+Actions to enhance Federal incident response
+(a)
+Responsibilities of the Cybersecurity and Infrastructure Security Agency
+(1)
+Recommendations
+Not later than 180 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency, in coordination with the Chair of the Federal Trade Commission, the Chair of the Securities and Exchange Commission, the Secretary of the Treasury, the Director of the Federal Bureau of Investigation, the Director of the National Institute of Standards and Technology, and the head of any other appropriate Federal or non-Federal entity, shall consolidate, maintain, and make publicly available recommendations for individuals whose personal information, as defined in section 3591 of title 44, United States Code, as added by this Act, is inappropriately exposed as a result of a high risk incident described in section 3598(c)(2) of title 44, United States Code.
+(2)
+Plan for analysis of, and report on, Federal incidents
+(A)
+In general
+Not later than 180 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shallâ
+(i)
+develop a plan for the development of the analysis required under section 3597(b) of title 44, United States Code, as added by this Act, and the report required under subsection (c) of that section that includesâ
+(I)
+a description of any challenges the Director anticipates encountering; and
+(II)
+the use of automation and machine-readable formats for collecting, compiling, monitoring, and analyzing data; and
+(ii)
+provide to the appropriate congressional committees a briefing on the plan developed under clause (i).
+(B)
+Briefing
+Not later than 1 year after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shall provide to the appropriate congressional committees a briefing onâ
+(i)
+the execution of the plan required under subparagraph (A); and
+(ii)
+the development of the report required under section 3597(c) of title 44, United States Code, as added by this Act.
+(b)
+Responsibilities of the Director of the Office of Management and Budget
+(1)
+FISMA
+Section 2 of the Federal Information Security Modernization Act of 2014 (
+44 U.S.C. 3554
+note) is amendedâ
+(A)
+by striking subsection (b); and
+(B)
+by redesignating subsections (c) through (f) as subsections (b) through (e), respectively.
+(2)
+Incident data sharing
+(A)
+In general
+The Director shall develop guidance, to be updated not less frequently than once every 2 years, on the content, timeliness, and format of the information provided by agencies under section 3594(a) of title 44, United States Code, as added by this Act.
+(B)
+Requirements
+The guidance developed under subparagraph (A) shallâ
+(i)
+prioritize the availability of data necessary to understand and analyzeâ
+(I)
+the causes of incidents;
+(II)
+the scope and scale of incidents within the agency networks and systems;
+(III)
+cross Federal Government root causes of incidents;
+(IV)
+agency response, recovery, and remediation actions; and
+(V)
+the effectiveness of incidents;
+(ii)
+enable the efficient development ofâ
+(I)
+lessons learned and recommendations in responding to, recovering from, remediating, and mitigating future incidents; and
+(II)
+the report on Federal compromises required under section 3597(c) of title 44, United States Code, as added by this Act;
+(iii)
+include requirements for the timeliness of data production; and
+(iv)
+include requirements for using automation and machine-readable data for data sharing and availability.
+(3)
+Guidance on responding to information requests
+Not later than 1 year after the date of enactment of this Act, the Director shall develop guidance for agencies to implement the requirement under section 3594(c) of title 44, United States Code, as added by this Act, to provide information to other agencies experiencing incidents.
+(4)
+Standard guidance and templates
+Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall develop guidance and templates, to be reviewed and, if necessary, updated not less frequently than once every 2 years, for use by Federal agencies in the activities required under sections 3592, 3593, and 3596 of title 44, United States Code, as added by this Act.
+(5)
+Contractor and grantee guidance
+(A)
+In general
+Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the Secretary of Homeland Security, the Secretary of Defense, the Administrator of General Services, and the heads of other agencies determined appropriate by the Director, shall issue guidance to Federal agencies on how to deconflict existing regulations, policies, and procedures relating to the responsibilities of contractors and grant recipients established under section 3595 of title 44, United States Code, as added by this Act.
+(B)
+Existing processes
+To the greatest extent practicable, the guidance issued under subparagraph (A) shall allow contractors and grantees to use existing processes for notifying Federal agencies of incidents involving information of the Federal Government.
+(6)
+Updated briefings
+Not less frequently than once every 2 years, the Director shall provide to the appropriate congressional committees an update on the guidance and templates developed under paragraphs (2) through (4).
+(c)
+Update to the Privacy Act of 1974
+Section 552a(b) of title 5, United States Code (commonly known as the
+Privacy Act of 1974
+) is amendedâ
+(1)
+in paragraph (11), by striking
+or
+at the end;
+(2)
+in paragraph (12), by striking the period at the end and inserting
+; and
+; and
+(3)
+by adding at the end the following:
+(13)
+to another agency in furtherance of a response to an incident (as defined in section 3552 of title 44) and pursuant to the information sharing requirements in section 3594 of title 44 if the head of the requesting agency has made a written request to the agency that maintains the record specifying the particular portion desired and the activity for which the record is sought.
+.
+104.
+Additional guidance to agencies on FISMA updates
+Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall issue guidance for agencies onâ
+(1)
+completing the agency system risk assessment required under section 3554(a)(1)(A) of title 44, United States Code, as amended by this Act;
+(2)
+implementing additional cybersecurity procedures, which shall include resources for shared services;
+(3)
+establishing a process for providing the status of each remedial action under section 3554(b)(7) of title 44, United States Code, as amended by this Act, to the Director and the Cybersecurity and Infrastructure Security Agency using automation and machine-readable data, as practicable, which shall includeâ
+(A)
+specific standards for the automation and machine-readable data; and
+(B)
+templates for providing the status of the remedial action;
+(4)
+interpreting the definition of
+high value asset
+in section 3552 of title 44, United States Code, as amended by this Act;
+(5)
+implementing standards in agency authorization processes to encourage the tailoring of processes to agency and system risk that are proportionate to the sensitivity of systems, which shall includeâ
+(A)
+a clarification ofâ
+(i)
+the acceptable use and development of customization of standards promulgated under section 11331 of title 40, United States Code; and
+(ii)
+the acceptable use of risk-based authorization procedures authorized on the date of enactment of this Act; and
+(B)
+a requirement to coordinate with Inspectors Generals of agencies to ensure consistent understanding and application of agency policies for the purpose of Inspector General audits; and
+(6)
+requiring, as practicable and pursuant to section 203, an evaluation of agency cybersecurity using metrics that areâ
+(A)
+based on outcomes; and
+(B)
+based on time.
+105.
+Agency requirements to notify entities impacted by incidents
+Not later than 180 days after the date of enactment of this Act, the Director shall issue guidance that requires agencies to notify entities that are compelled to share sensitive information with the agency of an incident that impactsâ
+(1)
+sensitive information shared with the agency by the entity; or
+(2)
+the systems used to the transmit sensitive information described in paragraph (1) to the agency.
+II
+Improving Federal cybersecurity
+201.
+Evaluation of effectiveness of standards
+(a)
+In general
+As a component of the evaluation and report required under section 3555(h) of title 44, United States Code, and not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall perform a study thatâ
+(1)
+assesses the standards promulgated under section 11331(b) of title 40, United States Code to determine the degree to which agencies use the authority under section 11331(c)(1) of title 40, United States Code to customize the standards relative to the risks facing each agency and agency system;
+(2)
+assesses the effectiveness of the standards described in paragraph (1), including any standards customized by agencies under section 11331(c)(1) of title 40, United States Code, at improving agency cybersecurity;
+(3)
+examines the quantification of cybersecurity risk in the private sector for any applicability for use by the Federal Government;
+(4)
+examines cybersecurity metrics existing as of the date of enactment of this Act used by the Director, the Director of the Cybersecurity and Infrastructure Security Agency, and the heads of other agencies to evaluate the effectiveness of information security policies and practices; and
+(5)
+with respect to the standards described in paragraph (1), provides recommendations forâ
+(A)
+the addition or removal of standards; or
+(B)
+the customization ofâ
+(i)
+the standards by agencies under section 11331(c)(1) of title 40, United
+States Code; or
+(ii)
+specific controls within the standards.
+(b)
+Incorporation of study
+The Director shall incorporate the results of the study performed under subsection (a) into the review of standards required under section 11331(e) of title 40, United States Code.
+(c)
+Briefing
+Not later than 30 days after the date on which the study performed under subsection (a) is completed, the Comptroller General of the United States shall provide to the appropriate congressional committees a briefing on the study.
+202.
+Mobile security standards
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, the Director shallâ
+(1)
+evaluate mobile application security standards promulgated under section 11331(b) of title 44, United States Code; and
+(2)
+issue guidance to implement mobile security standards in effect on the date of enactment of this Act promulgated under section 11331(b) of title 40, United States Code, including for mobile applications, for every agency.
+(b)
+Contents
+The guidance issued under subsection (a)(2) shall includeâ
+(1)
+a requirement, pursuant to section 3506(b)(4) of title 44, United States Code, for every agency to maintain a continuous inventory of everyâ
+(A)
+mobile device operated by or on behalf of the agency;
+(B)
+mobile application installed on a mobile device described in subparagraph (A); and
+(C)
+vulnerability identified by the agency associated with a mobile device or mobile application described in subparagraphs (A) and (B); and
+(2)
+a requirement for every agency to perform continuous evaluation of the vulnerabilities described in paragraph (1)(C) and other risks.
+(c)
+Information sharing
+The Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall issue guidance to agencies for sharing the inventory of the agency required under subsection (b)(1) with the Director of the Cybersecurity and Infrastructure Security Agency, using automation and machine-readable data to the greatest extent practicable.
+(d)
+Briefing
+Not later than 60 days after the date on which the Director issues guidance under subsection (a)(2), the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall provide to the appropriate congressional committees a briefing on the guidance.
+203.
+Quantitative cybersecurity metrics
+(a)
+Establishing time-Based metrics
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shallâ
+(A)
+update the metrics used to measure security under section 3554 of title 44, United States Code, including any metrics developed pursuant to section 224(c) of the Cybersecurity Act of 2015 (
+6 U.S.C. 1522(c)
+), to include standardized metrics to quantitatively evaluate and identify trends in agency cybersecurity performance, including performance for incident response; and
+(B)
+evaluate the metrics described in subparagraph (A).
+(2)
+Qualities
+With respect to the updated metrics required under paragraph (1)â
+(A)
+not less than 2 of the metrics shall be time-based; and
+(B)
+the metrics may include other measurable outcomes.
+(3)
+Evaluation
+The evaluation required under paragraph (1)(B) shall evaluateâ
+(A)
+the amount of time it takes for an agency to detect an incident; and
+(B)
+the amount of time that passes betweenâ
+(i)
+the detection and remediation of an incident; and
+(ii)
+the remediation of an incident and the recovery from the incident.
+(b)
+Implementation
+(1)
+In general
+The Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall promulgate guidance that requires the use of the updated metrics developed under subsection (a)(1)(A) by every agency over a 4-year period beginning on the date on which the metrics are developed to track trends in the incident response capabilities of agencies.
+(2)
+Penetration tests
+On not less than 2 occasions during the 2-year period following the date on which guidance is promulgated under paragraph (1), not less than 3 agencies shall be subjected to substantially similar penetration tests in order to validate the utility of the metrics developed under subsection (a)(1)(A).
+(3)
+Database
+The Director of the Cybersecurity and Infrastructure Security Agency shall develop and use a database thatâ
+(A)
+stores agency metrics information; and
+(B)
+allows for the performance of cross-agency comparison of agency incident response capability trends.
+(c)
+Updated metrics
+(1)
+In general
+The Director may issue guidance that updates the metrics developed under subsection (a)(1)(A) if the updated metricsâ
+(A)
+have the qualities described in subsection (a)(2); and
+(B)
+can be evaluated under subsection (a)(3).
+(2)
+Data sharing
+The guidance issued under paragraph (1) shall require agencies to share with the Director of the Cybersecurity and Infrastructure Security Agency data demonstrating the performance of the agency with the updated metrics included in that guidance against the metrics developed under subsection (a)(1)(A).
+(d)
+Congressional reports
+(1)
+Updated metrics
+Not later than 30 days after the date on which the Director of the Cybersecurity and Infrastructure Security completes the evaluation required under subsection (a)(1)(B), the Director of the Cybersecurity and Infrastructure Security Agency shall submit to the appropriate congressional committees a report on the updated metrics developed under subsection (a)(1)(A).
+(2)
+Program
+Not later than 180 days after the date on which guidance is promulgated under subsection (b)(1), the Director shall submit to the appropriate congressional committees a report on the results of the use of the updated metrics developed under subsection (a)(1)(A) by agencies.
+204.
+Data and logging retention for incident response
+(a)
+Recommendations
+Not later than 60 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Attorney General and the National Cyber Director, shall submit to the Director recommendations on requirements for logging events on agency systems and retaining other relevant data within the systems and networks of an agency.
+(b)
+Contents
+The recommendations provided under subsection (a) shall includeâ
+(1)
+the types of logs to be maintained;
+(2)
+the time periods to retain the logs and other relevant data;
+(3)
+the time periods for agencies to enable recommended logging and security requirements;
+(4)
+how to ensure the confidentiality, integrity, and availability of logs;
+(5)
+requirements to ensure that, upon request, agencies provide logs toâ
+(A)
+the Director of the Cybersecurity and Infrastructure Security Agency for a cybersecurity purpose; and
+(B)
+the Federal Bureau of Investigation to investigate potential criminal activity; and
+(6)
+ensuring the highest level security operations center of each agency has visibility into all agency logs.
+(c)
+Guidance
+Not later than 90 days after receiving the recommendations submitted under subsection (a), the Director, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency and the Attorney General, shall promulgate guidance to agencies to establish requirements for logging, log retention, log management, and sharing of log data with other appropriate agencies.
+(d)
+Periodic review
+Not later than 2 years after the date on which the Director of the Cybersecurity and Infrastructure Security Agency submits the recommendations required under subsection (a), and not less frequently than every 2 years thereafter, the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Attorney General, shall evaluate the recommendations and provide an update on the recommendations to the Director as necessary.
+205.
+CISA agency advisors
+(a)
+In general
+Not later than 120 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shall assign not less than 1 cybersecurity professional employed by the Cybersecurity and Infrastructure Security Agency to be the Cybersecurity and Infrastructure Security Agency advisor to the Chief Information Officer of each agency.
+(b)
+Qualifications
+Each advisor assigned under subsection (a) shall have knowledge ofâ
+(1)
+cybersecurity threats facing agencies, including any specific threats to the assigned agency;
+(2)
+performing risk assessments of agency systems; and
+(3)
+other Federal cybersecurity initiatives.
+(c)
+Duties
+The duties of each advisor assigned under subsection (a) shall includeâ
+(1)
+providing ongoing assistance and advice, as requested, to the agency Chief Information Officer;
+(2)
+serving as an incident response point of contact between the assigned agency and the Cybersecurity and Infrastructure Security Agency; and
+(3)
+familiarizing themselves with agency systems, processes, and procedures to better facilitate support to the agency in responding to incidents.
+(d)
+Limitation
+An advisor assigned under subsection (a) shall not be a contractor.
+(e)
+Multiple assignments
+One individual advisor made be assigned to multiple agency Chief Information Officers under subsection (a).
+206.
+Federal penetration testing policy
+(a)
+In general
+Subchapter II of
+chapter 35
+of title 44, United States Code, is amended by adding at the end the following:
+3559A.
+Federal penetration testing
+(a)
+Definitions
+In this section:
+(1)
+Agency operational plan
+The term
+agency operational plan
+means a plan of an agency for the use of penetration testing.
+(2)
+Rules of engagement
+The term
+rules of engagement
+means a set of rules established by an agency for the use of penetration testing.
+(b)
+Guidance
+(1)
+In general
+Not later than 180 days after the date of enactment of this Act, the Director shall issue guidance thatâ
+(A)
+requires agencies to use, when and where appropriate, penetration testing on agency systems; and
+(B)
+requires agencies to develop an agency operational plan and rules of engagement that meet the requirements under subsection (c).
+(2)
+Penetration testing guidance
+The guidance issued under this section shallâ
+(A)
+permit an agency to use, for the purpose of performing penetration testingâ
+(i)
+a shared service of the agency or another agency; or
+(ii)
+an external entity, such as a vendor;
+(B)
+include templates and frameworks for reporting the results of penetration testing, without regard to the status of the entity that performs the penetration testing; and
+(C)
+require agencies to provide the rules of engagement and results of penetration testing to the Director and the Director of the Cybersecurity and Infrastructure Security Agency, without regard to the status of the entity that performs the penetration testing.
+(c)
+Agency plans and rules of engagement
+The agency operational plan and rules of engagement of an agency shallâ
+(1)
+require the agency to perform penetration testing on the high value assets of the agency;
+(2)
+establish guidelines for avoiding, as a result of penetration testingâ
+(A)
+adverse impacts to the operations of the agency;
+(B)
+adverse impacts to operational networks and systems of the agency; and
+(C)
+inappropriate access to data;
+(3)
+require the results of penetration testing to include feedback to improve the cybersecurity of the agency; and
+(4)
+include mechanisms for providing consistently formatted, and, if applicable, automated and machine-readable, data to the Director and the Director of the Cybersecurity and Infrastructure Security Agency.
+(d)
+Responsibilities of CISA
+The Director of the Cybersecurity and Infrastructure Security Agency shallâ
+(1)
+establish a certification process for the performance of penetration testing by both Federal and non-Federal entities that establishes minimum quality controls for penetration testing;
+(2)
+develop operational guidance for instituting penetration testing programs at agencies;
+(3)
+develop and maintain a centralized capability to offer penetration testing as a service to Federal and non-Federal entities; and
+(4)
+provide guidance to agencies on the best use of penetration testing resources.
+(e)
+Responsibilities of OMB
+The Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shallâ
+(1)
+not less frequently than annually, inventory all Federal penetration testing assets; and
+(2)
+develop and maintain a Federal strategy for the use of penetration testing.
+(f)
+Prioritization of penetration testing resources
+(1)
+In general
+The Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall develop a framework for prioritizing Federal penetration testing resources among agencies.
+(2)
+Considerations
+In developing the framework under this subsection, the Director shall considerâ
+(A)
+agency system risk assessments performed under section 3554(a)(1)(A);
+(B)
+the Federal risk assessment performed under section 3553(i);
+(C)
+the analysis of Federal incident data performed under section 3597; and
+(D)
+any other information determined appropriate by the Director or the Director of the Cybersecurity and Infrastructure Security Agency.
+.
+(b)
+Clerical amendment
+The table of sections for
+chapter 35
+of title 44, United States Code, is amended by adding after the item relating to section 3559 the following:
+3559A. Federal penetration testing.
+.
+(c)
+Penetration testing by the Secretary of Homeland Security
+Section 3553(b) of title 44, United States Code, as amended by section 1705 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (
+Public Law 116â283
+) and section 101, is further amendedâ
+(1)
+in paragraph (8)(B), by striking
+and
+at the end;
+(2)
+by redesignating paragraph (9) as paragraph (10); and
+(3)
+by inserting after paragraph (8) the following:
+(9)
+performing penetration testing with or without advance notice to, or authorization from, agencies, to identify vulnerabilities within Federal information systems; and
+.
+207.
+Ongoing threat hunting program
+(a)
+Threat hunting program
+(1)
+In general
+Not later than 540 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shall establish a program to provide ongoing, hypothesis-driven threat-hunting services on the network of each agency.
+(2)
+Plan
+Not later than 180 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shall develop a plan to establish the program required under paragraph (1) that describes how the Director of the Cybersecurity and Infrastructure Security Agency plans toâ
+(A)
+determine the method for collecting, storing, accessing, and analyzing appropriate agency data;
+(B)
+provide on-premises support to agencies;
+(C)
+staff threat hunting services;
+(D)
+allocate available human and financial resources to implement the plan; and
+(E)
+provide input to the heads of agencies on the use ofâ
+(i)
+more stringent standards under section 11331(c)(1) of title 40, United States Code; and
+(ii)
+additional cybersecurity procedures under section 3554 of title 44, United States Code.
+(b)
+Reports
+The Director of the Cybersecurity and Infrastructure Security Agency shall submit to the appropriate congressional committeesâ
+(1)
+not later than 30 days after the date on which the Director of the Cybersecurity and Infrastructure Security Agency completes the plan required under subsection (a)(2), a report on the plan to provide threat hunting services to agencies;
+(2)
+not less than 30 days before the date on which the Director of the Cybersecurity and Infrastructure Security Agency begins providing threat hunting services under the program, a report providing any updates to the plan developed under subsection (a)(2); and
+(3)
+not later than 1 year after the date on which the Director of the Cybersecurity and Infrastructure Security Agency begins providing threat hunting services to agencies other than the Cybersecurity and Infrastructure Security Agency, a report describing lessons learned from providing those services.
+208.
+Codifying vulnerability disclosure programs
+(a)
+In general
+Chapter 35
+of title 44 of United States Code is amended by inserting after section 3559A, as added by section 206 of this Act, the following:
+3559B.
+Federal vulnerability disclosure programs
+(a)
+Definitions
+In this section:
+(1)
+Report
+The term
+report
+means a vulnerability disclosure made to an agency by a reporter.
+(2)
+Reporter
+The term
+reporter
+means an individual that submits a vulnerability report pursuant to the vulnerability disclosure process of an agency.
+(b)
+Responsibilities of OMB
+(1)
+Limitation on legal action
+The Director, in consultation with the Attorney General, shall issue guidance to agencies to not recommend or pursue legal action against a reporter or an individual that conducts a security research activity that the head of the agency determinesâ
+(A)
+represents a good faith effort to follow the vulnerability disclosure policy developed under subsection (d)(2) of the agency; and
+(B)
+is authorized under the vulnerability disclosure policy developed under subsection (d)(2) of the agency.
+(2)
+Sharing information with CISA
+The Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall issue guidance to agencies on sharing relevant information in a consistent, automated, and machine readable manner with the Cybersecurity and Infrastructure Security Agency, includingâ
+(A)
+any valid or credible reports of newly discovered or not publicly known vulnerabilities (including misconfigurations) on an agency information system that uses commercial software or services;
+(B)
+information relating to vulnerability disclosure, coordination, or remediation activities of an agency, particularly as those activities relate to outside organizationsâ
+(i)
+with which the head of the agency believes the Director of the Cybersecurity and Infrastructure Security can assist; or
+(ii)
+about which the head of the agency believes the Director of the Cybersecurity and Infrastructure Security should know; and
+(C)
+any other information with respect to which the head of the agency determines helpful or necessary to involve the Cybersecurity and Infrastructure Security Agency.
+(3)
+Agency vulnerability disclosure policies
+(A)
+In general
+The Director shall issue guidance to agencies on the required minimum scope of agency systems covered by the vulnerability disclosure policy of an agency required under subsection (d)(2).
+(B)
+Deadline
+Not later than 2 years after the date of enactment of the
+Federal Information Security Modernization Act of 2021
+, the Director shall update the guidance issued under subparagraph (A) to require that every agency system that is connected to the internet is covered by the vulnerability disclosure policy of the agency.
+(c)
+Responsibilities of CISA
+The Director of the Cybersecurity and Infrastructure Security Agency shallâ
+(1)
+provide support to agencies with respect to the implementation of the requirements of this section;
+(2)
+develop tools, processes, and other mechanisms determined appropriate to offer agencies capabilities to implement the requirements of this section; and
+(3)
+upon a request by an agency, assist the agency in the disclosure to vendors of newly identified vulnerabilities in vendor products and services.
+(d)
+Responsibilities of agencies
+(1)
+Public information
+The head of each agency shall make publicly available, with respect to each internet domain under the control of the agency that is not a national security systemâ
+(A)
+an appropriate security contact; and
+(B)
+the component of the agency that is responsible for the internet accessible services offered at the domain.
+(2)
+Vulnerability disclosure policy
+The head of each agency shall develop and make publicly available a vulnerability disclosure policy for the agency, which shallâ
+(A)
+describeâ
+(i)
+the scope of the systems of the agency included in the vulnerability disclosure policy;
+(ii)
+the type of information system testing that is authorized by the agency;
+(iii)
+the type of information system testing that is not authorized by the agency; and
+(iv)
+the disclosure policy of the agency for sensitive information;
+(B)
+include a provision that authorizes the anonymous submission of a vulnerability by a reporter;
+(C)
+with respect to a report to an agency, describeâ
+(i)
+how the reporter should submit the report; and
+(ii)
+if the report is not anonymous under subparagraph (B), when the reporter should anticipate an acknowledgment of receipt of the report by the agency; and
+(D)
+include any other relevant information.
+(3)
+Identified vulnerabilities
+The head of each agency shall incorporate any vulnerabilities reported under paragraph (2) into the vulnerability management process of the agency in order to track and remediate the vulnerability.
+(e)
+Paperwork Reduction Act exemption
+The requirements of subchapter I (commonly known as the
+Paperwork Reduction Act
+) shall not apply to a vulnerability disclosure program established under this section.
+(f)
+Congressional reporting
+Not later than 90 days after the date of enactment of the
+Federal Information Security Modernization Act of 2021
+, and annually thereafter for a 3-year period, the Director shall provide to the
+Committee on Homeland Security and Governmental Affairs of the Senate
+and the
+Committee on Oversight and Reform of the House of Representatives
+a briefing on the status of the use of vulnerability disclosure policies under this section at agencies, including, with respect to the guidance issued under subsection (b)(3), an identification of the agencies that are compliant and not compliant.
+.
+(b)
+Clerical amendment
+The table of sections for
+chapter 35
+of title 44, United States Code, is amended by adding after the item relating to section 3559A the following:
+3559B. Federal vulnerability disclosure programs.
+.
+209.
+Implementing presumption of compromise and zero trust architectures
+(a)
+Recommendations
+Not later than 60 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Director of the National Institute of Standards and Technology, shall develop recommendations to increase the internal defenses of agency systems toâ
+(1)
+limit the ability of entities that cause incidents to move laterally through or between agency systems;
+(2)
+identify incidents more quickly;
+(3)
+isolate and remove unauthorized entities from agency systems more quickly;
+(4)
+implement zero trust architecture; and
+(5)
+otherwise increase the resource costs for entities that cause incidents; and
+(b)
+OMB Guidance
+Not later than 180 days after the date on which the recommendations under subsection (a) are completed, the Director shall issue guidance to agencies that requires the implementation of the recommendations.
+(c)
+Agency implementation plans
+Not later than 60 days after the date on which the Director issues guidance under subsection (b), the head of each agency shall submit to the Director a plan to implement zero trust architecture that includesâ
+(1)
+a description of any steps the agency has completed;
+(2)
+an identification of activities that will have the most immediate security impact; and
+(3)
+a schedule to implement the plan.
+(d)
+Report and briefing
+Not later than 90 days after the date on which the Director issues guidance required under subsection (b), the Director shall provide a briefing to the appropriate congressional committees on the guidance and the agency implementation plans submitted under subsection (c).
+210.
+Automation reports
+(a)
+OMB Report
+Not later than 180 days after the date of enactment of this Act, the Director shall submit to the appropriate congressional committees a report on the use of automation under paragraphs (1), (5)(C) and (7)(B) of section 3554(b) of title 44, United States Code.
+(b)
+GAO Report
+Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall perform a study on the use of automation and machine readable data across the Federal Government for cybersecurity purposes, including the automated updating of cybersecurity tools, sensors, or processes by agencies.
+211.
+Extension of Federal Acquisition Security Council
+Section 1328 of title 41, United States Code, is amended by striking
+the date
+and all that follows and inserting
+December 31, 2026.
+.
+III
+Pilot programs to enhance Federal cybersecurity
+301.
+Continuous independent FISMA evaluation pilot
+(a)
+In general
+Not later than 2 years after the date of enactment of this Act, the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall establish a pilot program to perform continual agency auditing of the standards promulgated under section 11331 of title 40, United States Code.
+(b)
+Purpose
+(1)
+In general
+The purpose of the pilot program established under subsection (a) shall be to develop the capability to continuously audit agency cybersecurity postures, rather than performing an annual audit.
+(2)
+Use of information
+It is the sense of Congress that information relating to agency cybersecurity postures should be used, on an ongoing basis, to increase agency understanding of cybersecurity risk and improve agency cybersecurity.
+(c)
+Participating agencies
+(1)
+In general
+The Director, in coordination with the Council of the Inspectors General on Integrity and Efficiency and in consultation with the Director of the Cybersecurity and Infrastructure Security Agency, shall identify not less than 1 agency and the Inspector General of each identified agency to participate in the pilot program established under subsection (a).
+(2)
+Capabilities of agency
+An agency selected under paragraph (1) shall have advanced cybersecurity capabilities, including the capability to implement verification specifications and other automated and machine-readable means of sharing information.
+(3)
+Capabilities of Inspector General
+The Inspector General of an agency selected under paragraph (1) shall have advanced cybersecurity capabilities, including the abilityâ
+(A)
+to perform real-time or almost real-time and continuous analysis of the use of verification specifications by the agency to assess compliance with standards promulgated under section 11331 of title 40, United States Code; and
+(B)
+to assess the impact and deployment of additional cybersecurity procedures.
+(d)
+Duties
+The Director, in coordination with the Council of the Inspectors General on Integrity and Efficiency, the Director of the Cybersecurity and Infrastructure Security Agency, and the head of each agency participating in the pilot program under subsection (c), shall develop processes and procedures to perform a continuous independent evaluation ofâ
+(1)
+the compliance of the agency withâ
+(A)
+the standards promulgated under section 11331 of title 40, United States Code, using verification specifications to the greatest extent practicable; and
+(B)
+any additional cybersecurity procedures implemented by the agency as a result of the evaluation performed under section 3554(a)(1)(F) of title 44, United States Code; and
+(2)
+the overall cybersecurity posture of the agency, which may include an evaluation ofâ
+(A)
+the status of cybersecurity remedial actions of the agency;
+(B)
+any vulnerability information relating to agency systems that is known to the agency;
+(C)
+incident information of the agency;
+(D)
+penetration testing performed by an external entity under section 3559A of title 44, United States Code;
+(E)
+information from the vulnerability disclosure program information established under section 3559B of title 44, United States Code;
+(F)
+agency threat hunting results; and
+(G)
+any other information determined relevant by the Director.
+(e)
+Independent evaluation waiver
+With respect to an agency that participates in the pilot program under subsection (a) during any year other than the first year during which the pilot program is conducted, the Director, with the concurrence of the Director of the Cybersecurity and Infrastructure Security Agency, may waive any requirement of the agency with respect to the annual independent evaluation under section 3555 of title 44, United States Code.
+(f)
+Duration
+The pilot program established under this sectionâ
+(1)
+shall be performed over a period of not less than 2 years at each agency that participates in the pilot program under subsection (c), unless the Director, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency and the Council of the Inspectors General on Integrity and Efficiency, determines that continuing the pilot program would reduce the cybersecurity of the agency; and
+(2)
+may be extended by the Director, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency and the Council of the Inspectors General on Integrity and Efficiency, if the Director makes the determination described in paragraph (1).
+(g)
+Reports
+(1)
+Pilot program plan
+Before identifying any agencies to participate in the pilot program under subsection (c), the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency and the Council of the Inspectors General on Integrity and Efficiency, shall submit to the appropriate congressional committees a plan for the pilot program that outlines selection criteria and preliminary plans to implement the pilot program.
+(2)
+Briefing
+Before commencing a continuous independent evaluation of any agency under the pilot program established under subsection (a), the Director shall provide to the appropriate congressional committees a briefing onâ
+(A)
+the selection of agencies to participate in the pilot program; and
+(B)
+processes and procedures to perform a continuous independent evaluation of agencies.
+(3)
+Pilot results
+Not later than 60 days after the final day of each year during which an agency participates in the pilot program established under subsection (a), the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency and the Council of the Inspectors General on Integrity and Efficiency, shall submit to the appropriate congressional committees a report on the results of the pilot program for each agency that participates in the pilot program during that year.
+302.
+Active cyber defensive pilot
+(a)
+Definition
+In this section, the term
+active defense technique
+â
+(1)
+means an action taken on the systems of an entity to increase the security of information on the network of an agency by misleading an adversary; and
+(2)
+includes a honeypot, deception, or purposefully feeding false or misleading data to an adversary when the adversary is on the systems of the entity.
+(b)
+Study
+Not later than 180 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shall perform a study on the use of active defense techniques to enhance the security of agencies, which shall includeâ
+(1)
+a review of legal restrictions on the use of different active cyber defense techniques on Federal networks;
+(2)
+an evaluation ofâ
+(A)
+the efficacy of a selection of active defense techniques determined by the Director of the Cybersecurity and Infrastructure Security Agency; and
+(B)
+factors that impact the efficacy of the active defense techniques evaluated under subparagraph (A); and
+(3)
+the development of a framework for the use of different active defense techniques by agencies.
+(c)
+Pilot program
+Not later than 180 days after the date of enactment of this Act, the Director, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, shall establish a pilot program at not less than 2 agencies to implement, and assess the effectiveness of, not less than 1 active cyber defense technique.
+(d)
+Purpose
+The purpose of the pilot program established under subsection (c) shall be toâ
+(1)
+identify any statutory or policy limitations on using active defense techniques;
+(2)
+understand the efficacy of using active defense techniques; and
+(3)
+implement the use of effective techniques to improve agency systems.
+(e)
+Plan
+Not later than 360 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency, in coordination with the Director, shall develop a plan to offer any active defense technique determined to be successful during the pilot program established under subsection (c) as a shared service to other agencies.
+(f)
+Reports
+Not later than 1 year after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shallâ
+(1)
+provide to the appropriate congressional committees a briefing onâ
+(A)
+the results of the study performed under subsection (b); and
+(B)
+the agencies selected to participate in the pilot program established under subsection (c);
+(2)
+submit to the appropriate congressional committees a report on the results of the pilot program established under subsection (c), including any recommendations developed from the results of the pilot program; and
+(3)
+submit to the appropriate congressional committees a copy of the plan developed under subsection (e).
+(g)
+Sunset
+(1)
+In general
+The requirements of this section shall terminate on the date that is 3 years after the date of enactment of this Act.
+(2)
+Authority to continue use of techniques
+Notwithstanding paragraph (1), after the date described in paragraph (1), the Director of the Cybersecurity and Infrastructure Security Agency may continue to offer any active defense technique determined to be successful during the pilot program established under subsection (c) as a shared service to agencies.
+303.
+Security operations center as a service pilot
+(a)
+Purpose
+The purpose of this section is for the Cybersecurity and Infrastructure Security Agency to run a security operation center on behalf of another agency, alleviating the need to duplicate this function at every agency, and empowering a greater centralized cybersecurity capability.
+(b)
+Plan
+Not later than 1 year after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shall develop a plan to establish a centralized Federal security operations center shared service offering within the Cybersecurity and Infrastructure Security Agency.
+(c)
+Contents
+The plan required under subsection (b) shall include considerations forâ
+(1)
+collecting, organizing, and analyzing agency information system data in real time;
+(2)
+staffing and resources; and
+(3)
+appropriate interagency agreements, concepts of operations, and governance plans.
+(d)
+Pilot program
+(1)
+In general
+Not later than 180 days after the date on which the plan required under subsection (b) is developed, the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Director, shall enter into a 1-year agreement with not less than 2 agencies to offer a security operations center as a shared service.
+(2)
+Additional agreements
+After the date on which the briefing required under subsection (e)(1) is provided, the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the Director, may enter into additional 1-year agreements described in paragraph (1) with agencies.
+(e)
+Briefing and report
+(1)
+Briefing
+Not later than 260 days after the date of enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shall provide to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Oversight and Reform of the House of Representatives a briefing on the parameters of any 1-year agreements entered into under subsection (d)(1).
+(2)
+Report
+Not later than 90 days after the date on which the first 1-year agreement entered into under subsection (d) expires, the Director of the Cybersecurity and Infrastructure Security Agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Oversight and Reform of the House of Representatives a report onâ
+(A)
+the agreement; and
+(B)
+any additional agreements entered into with agencies under subsection (d).

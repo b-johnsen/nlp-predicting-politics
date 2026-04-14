@@ -1,0 +1,96 @@
+1.
+Short title
+This Act may be cited as the
+Simplifying Management, Access, Reallocation, and Transfer of Spectrum Act
+or the
+SMART Spectrum Act
+.
+2.
+Incumbent informing capability
+Part B of the National Telecommunications and Information Administration Organization Act (
+47 U.S.C. 921 et seq.
+) is amended by adding at the end the following:
+120.
+Incumbent informing capability
+(a)
+In general
+The Assistant Secretary shallâ
+(1)
+not later than 120 days after the date of the enactment of this section, begin to amend the Department of Commerce spectrum management document entitled
+Manual of Regulations and Procedures for Federal Radio Frequency Management
+so as to incorporate an incumbent informing capability; and
+(2)
+not later than the date on which amounts appropriated to carry out this section are first made available, begin to implement such capability, including the development and testing of such capability.
+(b)
+Establishment of the incumbent informing capability
+(1)
+In general
+The incumbent informing capability required by subsection (a) shall include a system to enable sharing, including time-based sharing, to securely manage harmful interference between non-Federal users and incumbent Federal entities sharing a band of covered spectrum and between Federal entities sharing a band of covered spectrum.
+(2)
+Requirements
+The system required by paragraph (1) shall contain, at a minimum, the following:
+(A)
+One or more mechanisms to allow non-Federal use in covered spectrum, as authorized by the rules of the Commission. Such mechanism or mechanisms shall include interfaces to commercial sharing systems, as appropriate.
+(B)
+One or more mechanisms to facilitate Federal-to-Federal sharing, as authorized by the NTIA.
+(C)
+One or more mechanisms to prevent, eliminate, or mitigate harmful interference to incumbent Federal entities, including one or more of the following functions:
+(i)
+Sensing.
+(ii)
+Identification.
+(iii)
+Reporting.
+(iv)
+Analysis.
+(v)
+Resolution.
+(D)
+Dynamic coordination area analysis, definition, and control, if appropriate for a band.
+(3)
+Compliance with Commission rules
+The incumbent informing capability required by subsection (a) shall ensure that use of covered spectrum is in accordance with the applicable rules of the Commission.
+(4)
+Input of information
+(A)
+In general
+Each incumbent Federal entity sharing a band of covered spectrum shallâ
+(i)
+input into the system required by paragraph (1) such information as the Assistant Secretary may require, including the frequency, time, and location of the use of the band by such Federal entity; and
+(ii)
+to the extent practicable, input such information into such system on an automated basis.
+(B)
+Payment of costs
+Notwithstanding subsections (c) through (e) of section 118 and subparagraphs (C) through (E) of subsection (g)(2) of such section, the Director of the Office of Management and Budget, in consultation with the Assistant Secretary, may use amounts available in the Spectrum Relocation Fund to pay the costs incurred by Federal entities to input information as required by subparagraph (A).
+(5)
+Protection of classified information and controlled unclassified information
+The system required by paragraph (1) shall contain appropriate measures to protect classified information and controlled unclassified information, including any such classified information or controlled unclassified information that relates to military operations.
+(c)
+Briefing
+Not later than 1 year after the date on which amounts appropriated to carry out this section are first made available, the Assistant Secretary shall provide a briefing on the implementation of this section to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(d)
+Definitions
+In this section:
+(1)
+Covered spectrum
+The term
+covered spectrum
+meansâ
+(A)
+electromagnetic spectrum for which usage rights are assigned to or authorized for (including before the date on which the incumbent informing capability required by subsection (a) is implemented) a non-Federal user or class of non-Federal users for use on a shared basis with an incumbent Federal entity in accordance with the rules of the Commission; and
+(B)
+electromagnetic spectrum allocated on a primary or co-primary basis for Federal use that is shared among Federal entities.
+(2)
+Federal entity
+The term
+Federal entity
+has the meaning given such term in section 113(l).
+(3)
+Incumbent informing capability
+The term
+incumbent informing capability
+means a capability to facilitate the sharing of covered spectrum.
+(e)
+Rule of construction
+Nothing in this section shall be construed to alter or expand the authority of the NTIA as described in section 113(j)(1).
+.

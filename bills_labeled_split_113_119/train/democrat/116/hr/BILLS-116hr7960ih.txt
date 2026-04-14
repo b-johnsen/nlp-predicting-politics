@@ -1,0 +1,435 @@
+1.
+Short title
+This Act may be cited as the
+Payments for the People Act
+.
+2.
+Additional recovery rebates to individuals
+(a)
+In general
+Subchapter B of
+chapter 65
+of the Internal Revenue Code of 1986 is amended by inserting after section 6428 the following new section:
+6428A.
+Additional recovery rebates to individuals
+(a)
+In general
+On each applicable date, each eligible individual shall be allowed a credit against the tax imposed by subtitle A for the applicable taxable year in an amount equal to the additional rebate amount determined for each quarter in such taxable year.
+(b)
+Applicable date
+For purposes of this section, the term
+applicable date
+means the first day of the month after the date of the enactment of this section and on the first day of every third month thereafterâ
+(1)
+during the periodâ
+(A)
+beginning on the date of the enactment of this section, and
+(B)
+ending in the month beginning after any quarter for which the 3-month average national total unemployment rate is less than 5.5 percent and has decreased for the last two months, or
+(2)
+during any subsequent periodâ
+(A)
+beginning in the month beginning after any quarter for which the 3-month average national total unemployment rate is greater than 5.5 percent, and
+(B)
+ending in the month beginning after any quarter for which the 3-month average national total unemployment rate is less than 5.5 percent and has decreased for the last two months.
+(c)
+Additional rebate amount
+For purposes of this section, the term
+additional rebate amount
+means, with respect to any taxpayerâ
+(1)
+with respect to a quarter in which the 3-month average national total unemployment rate is 8.5% or higherâ
+(A)
+$2,000 ($4,000 in the case of a joint return), plus
+(B)
+$2,000 multiplied by the number of dependents of the taxpayer for such taxable year,
+(2)
+with respect to any quarter in which the 3-month average national total unemployment rate is less than 8.5% but greater than or equal to 7.0%â
+(A)
+$1,500 ($3,000 in the case of a joint return), plus
+(B)
+$1,500 multiplied by the number of dependents of the taxpayer for such taxable year,
+(3)
+with respect to any quarter in which the 3-month average national total unemployment rate less than 7.0% but greater than or equal to 5.5%â
+(A)
+$1,000 ($2,000 in the case of a joint return), plus
+(B)
+$1,000 multiplied by the number of dependents of the taxpayer for such taxable year,
+(4)
+with respect to any quarter in which the 3-month average national total unemployment rate is less than 5.5%, $0.
+(d)
+Eligible individual
+For purposes of this section, the term
+eligible individual
+means, with respect to the applicable taxable year, any individual other thanâ
+(1)
+any nonresident alien individual,
+(2)
+any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individualâs taxable year begins, and
+(3)
+an estate or trust.
+(e)
+Limitation based on modified adjusted gross income
+The amount of the credit allowed by subsection (a) with respect to an applicable taxable year (determined without regard to this subsection and subsection (g)) shall be reduced (but not below zero) by 5 percent of so much of the taxpayerâs modified adjusted gross income in such taxable year as exceedsâ
+(1)
+$150,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
+(2)
+$112,500 in the case of a head of household (as defined in section 2(b)), and
+(3)
+$75,000 in any other case.
+(f)
+Definitions and special rules
+(1)
+Applicable taxable year
+For purposes of this section, the term
+applicable taxable year
+means the taxable year ending in the calendar year preceding the date on which a credit under subsection (a) is allowed.
+(2)
+Modified adjusted gross income
+For purposes of this section, the term
+modified adjusted gross income
+means adjusted gross income determined without regard to sections 911, 931, and 933.
+(3)
+National total unemployment rate
+For purposes of this section, the term
+national total unemployment rate
+means the rate determined in the most recently available unemployment data release published by the Bureau of Labor Statistics of the Department of Labor.
+(4)
+Dependent defined
+For purposes of this section, the term
+dependent
+has the meaning given such term in section 152.
+(5)
+Credit treated as refundable
+The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1.
+(6)
+Identification number requirement
+(A)
+In general
+The credit amount determined under subsection (c) shall be treated as being zero unless the taxpayer includes the TIN (as defined in section 7701(a)(41)) of the taxpayer on the return of tax for the taxable year.
+(B)
+Joint returns
+In the case of a joint return, the credit amount determined under subsection (c) shall be treated as beingâ
+(i)
+zero if the TIN of neither spouse is included on the return of tax for the taxable year, and
+(ii)
+the amount calculated for a single filer, if the TIN of only one spouse is so included.
+(C)
+Dependents
+A dependent shall not be taken into account under subsection (a)(2) unless the TIN of such dependent is included on the return of tax for the taxable year.
+(D)
+Special rule for members of the armed forces
+Paragraph (1) shall not apply to a joint return where at least 1 spouse was a member of the Armed Forces of the United States at any time during the applicable taxable year.
+(E)
+Coordination with certain advance payments
+In the case of any payment made pursuant to subsection (h)(5)(A)(ii), a TIN shall be treated for purposes of this paragraph as included on the taxpayerâs return of tax if such TIN is provided pursuant to such subsection.
+(g)
+Coordination with advance refunds of credit
+(1)
+Reduction of refundable credit
+The amount of the credit which would (but for this paragraph) be allowable under subsection (a) shall be reduced (but not below zero) by the aggregate refunds and credits made or allowed to the taxpayer (or any dependent of the taxpayer) under subsection (h). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+(2)
+Joint returns
+In the case of a refund or credit made or allowed under subsection (h) with respect to a joint return, half of such refund or credit shall be treated as having been made or allowed to each individual filing such return.
+(h)
+Advance refunds and credits
+(1)
+In general
+Subject to paragraph (5), each individual who was an eligible individual in an applicable taxable year shall be treated as having made a payment against the tax imposed by chapter 1 for such taxable year in an amount equal to the advance refund amount for such taxable year.
+(2)
+Advance refund amount
+For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such taxable year if this section (other than subsection (f) and this subsection) had applied to such taxable year.
+(3)
+Timing and manner of payments
+(A)
+Timing
+The Secretary shall, subject to the provisions of this title, refund or credit any overpayment attributable to this section as rapidly as possible.
+(B)
+Delivery of payments
+Notwithstanding any other provision of law, the Secretary may certify and disburse refunds payable under this sectionâ
+(i)
+electronically to any account to which the payee authorized, on or after January 1, 2018, the delivery of a refund of taxes under this title or of a Federal payment (as defined in section 3332 of title 31, United States Code),
+(ii)
+to a Direct Express prepaid debit card, or
+(iii)
+in the event that electronic disbursement or Direct Express payment is not possible, through such other means as are determined appropriate by the Secretary, including through the use of stored value cards and online payment systems.
+(C)
+Waiver of certain rules
+Notwithstanding section 3325 of title 31, United States Code, or any other provision of law, with respect to any payment of a refund under this subsection, a disbursing official in the executive branch of the United States Government may modify payment information received from an officer or employee described in section 3325(a)(1)(B) of such title for the purpose of facilitating the accurate and efficient delivery of such payment. Except in cases of fraud or reckless neglect, no liability under section 3325, 3527, 3528, or 3529 of title 31, United States Code, shall be imposed with respect to payments made under this subparagraph.
+(4)
+No interest
+No interest shall be allowed on any overpayment attributable to this section.
+(5)
+Application to individuals who do not file a return of tax for applicable tax year
+(A)
+In general
+In the case of an individual who, at the time of any determination made pursuant to paragraph (3), has not filed a tax return for an applicable tax year described in paragraph (1), the Secretary shallâ
+(i)
+apply paragraph (1) by substituting the taxable year preceding the applicable taxable year, or
+(ii)
+in the case of an individual who has not filed a tax return for the taxable year described in clause (i), determine the advance refund amount with respect to such individual on the basis of information with respect to such individual whichâ
+(I)
+in the case of a specified social security beneficiary or a specified supplemental security income recipient, is provided by the Commissioner of Social Security,
+(II)
+in the case of a specified railroad retirement beneficiary, is provided by the Railroad Retirement Board,
+(III)
+in the case of a specified veterans beneficiary, is provided by the Secretary of Veterans Affairs (in coordination with, and with the assistance of, the Commissioner of Social Security if appropriate), and
+(IV)
+in the case of any other individual, is determined using aggregate payment information provided by the employer of such individual, including information provided on Form Wâ2 or Form 1099.
+(B)
+Specified social security beneficiary
+For purposes of this paragraphâ
+(i)
+In general
+The term
+specified social security beneficiary
+means any individual who, for the last month that ends prior to the date of enactment of this section, is entitled to any monthly insurance benefit payable under title II of the Social Security Act (
+42 U.S.C. 401
+et seq.), including payments made pursuant to sections 202(d), 223(g), and 223(i)(7) of such Act.
+(ii)
+Exception
+Such term shall not include any individual if such benefit is not payable for such month by reason of section 202(x) of the Social Security Act (
+42 U.S.C. 402(x)
+) or section 1129A of such Act (
+42 U.S.C. 1320aâ8a
+).
+(C)
+Specified supplemental security income recipient
+For purposes of this paragraphâ
+(i)
+In general
+The term
+specified supplemental security income recipient
+means any individual who, for the last month that ends prior to the date of enactment of this section, is eligible for a monthly benefit payable under title XVI of the Social Security Act (
+42 U.S.C. 1381
+et seq.) (other than a benefit to an individual described in section 1611(e)(1)(B) of such Act (
+42 U.S.C. 1382(e)(1)(B)
+)), includingâ
+(I)
+payments made pursuant to section 1614(a)(3)(C) of such Act (
+42 U.S.C. 1382c(a)(3)(C)
+),
+(II)
+payments made pursuant to section 1619(a) (
+42 U.S.C. 1382h
+) or subsection (a)(4), (a)(7), or (p)(7) of section 1631 (
+42 U.S.C. 1383
+) of such Act, and
+(III)
+State supplementary payments of the type referred to in section 1616(a) of such Act (
+42 U.S.C. 1382e(a)
+) (or payments of the type described in section 212(a) of
+Public Law 93â66
+) which are paid by the Commissioner under an agreement referred to in such section 1616(a) (or section 212(a) of
+Public Law 93â66
+).
+(ii)
+Exception
+Such term shall not include any individual if such monthly benefit is not payable for such month by reason of subsection (e)(1)(A) or (e)(4) of section 1611 (
+42 U.S.C. 1382
+) or section 1129A of such Act (
+42 U.S.C. 1320aâ8a
+).
+(D)
+Specified railroad retirement beneficiary
+For purposes of this paragraph, the term
+specified railroad retirement beneficiary
+means any individual who, for the last month that ends prior to the date of enactment of this section, is entitled to a monthly annuity or pension payment payable (without regard to section 5(a)(ii) of the Railroad Retirement Act of 1974 (45 U.S.C. 231d(a)(ii))) underâ
+(i)
+section 2(a)(1) of such Act (
+45 U.S.C. 231a(a)(1)
+),
+(ii)
+section 2(c) of such Act (
+45 U.S.C. 231a(c)
+),
+(iii)
+section 2(d)(1) of such Act (
+45 U.S.C. 231a(d)(1)
+), or
+(iv)
+section 7(b)(2) of such Act (
+45 U.S.C. 231f(b)(2)
+) with respect to any of the benefit payments described in subparagraph (C)(i).
+(E)
+Specified veterans beneficiary
+For purposes of this paragraphâ
+(i)
+In general
+The term
+specified veterans beneficiary
+means any individual who, for the last month that ends prior to the date of enactment of this section, is entitled to a compensation or pension payment payable underâ
+(I)
+section 1110, 1117, 1121, 1131, 1141, or 1151 of title 38, United States Code,
+(II)
+section 1310, 1312, 1313, 1315, 1316, or 1318 of title 38, United States Code,
+(III)
+section 1513, 1521, 1533, 1536, 1537, 1541, 1542, or 1562 of title 38, United States Code, or
+(IV)
+section 1805, 1815, or 1821 of title 38, United States Code,
+to a veteran, surviving spouse, child, or parent as described in paragraph (2), (3), (4)(A)(ii), or (5) of section 101, title 38, United States Code.
+(ii)
+Exception
+Such term shall not include any individual if such compensation or pension payment is not payable, or was reduced, for such month by reason of section 1505, 5313, or 5313B of title 38, United States Code.
+(F)
+Subsequent determinations and redeterminations not taken into account
+For purposes of this section, any individualâs status as a specified social security beneficiary, a specified supplemental security income recipient, a specified railroad retirement beneficiary, or a specified veterans beneficiary shall be unaffected by any determination or redetermination of any entitlement to, or eligibility for, any benefit, payment, or compensation, if such determination or redetermination occurs after the last month that ends prior to the date of enactment of this section.
+(G)
+Payment to representative payees and fiduciaries
+(i)
+In general
+If the benefit, payment, or compensation referred to in subparagraph (C)(i), (D)(i), (E), or (F)(i) with respect to any specified individual is paid to a representative payee or fiduciary, payment by the Secretary under paragraph (3) with respect to such specified individual shall be made to such individualâs representative payee or fiduciary and the entire payment shall be used only for the benefit of the individual who is entitled to the payment.
+(ii)
+Application of enforcement provisions
+(I)
+In the case of a payment described in clause (i) which is made with respect to a specified social security beneficiary or a specified supplemental security income recipient, section 1129(a)(3) of the Social Security Act (
+42 U.S.C. 1320aâ8(a)(3)
+) shall apply to such payment in the same manner as such section applies to a payment under title II or XVI of such Act.
+(II)
+In the case of a payment described in clause (i) which is made with respect to a specified railroad retirement beneficiary, section 13 of the Railroad Retirement Act (
+45 U.S.C. 231l
+) shall apply to such payment in the same manner as such section applies to a payment under such Act.
+(III)
+In the case of a payment described in clause (i) which is made with respect to a specified veterans beneficiary, sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to such payment in the same manner as such sections apply to a payment under such title.
+(6)
+Notice to taxpayer
+Not later than 15 days after the date on which the Secretary distributed any payment to an eligible taxpayer pursuant to this subsection, notice shall be sent by mail to such taxpayer's last known address. Such notice shall indicate the method by which such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any error with respect to such payment.
+(i)
+Regulations
+The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, includingâ
+(1)
+regulations or other guidance providing taxpayers the opportunity to provide the Secretary information sufficient to allow the Secretary to make payments to such taxpayers under subsection (h) (including the determination of the amount of such payment) if such information is not otherwise available to the Secretary, and
+(2)
+regulations or other guidance providing for the proper treatment of joint returns and taxpayers with dependents to ensure that an individual is not taken into account more than once in determining the amount of any credit under subsection (a) and any credit or refund under subsection (h).
+.
+(b)
+Treatment of certain possessions
+(1)
+Payments to possessions with mirror code tax systems
+The Secretary of the Treasury shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the amendments made by this section. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+(2)
+Payments to other possessions
+The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents.
+(3)
+Coordination with credit allowed against United States income taxes
+No credit shall be allowed against United States income taxes under
+section 6428A
+of the Internal Revenue Code of 1986 (as added by this section), nor shall any credit or refund be made or allowed under subsection (h) of such section, to any personâ
+(A)
+to whom a credit is allowed against taxes imposed by the possession by reason of the amendments made by this section, or
+(B)
+who is eligible for a payment under a plan described in paragraph (2).
+(4)
+Mirror code tax system
+For purposes of this subsection, the term
+mirror code tax system
+means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+(c)
+Administrative provisions
+(1)
+Definition of deficiency
+Section 6211(b)(4)(A)
+of the Internal Revenue Code of 1986 is amended by striking
+and 6428
+and inserting
+6428, and 6428A
+.
+(2)
+Mathematical or clerical error authority
+Section 6213(g)(2) of such Code is amendedâ
+(A)
+by inserting
+or section 6428A (relating to additional recovery rebates to individuals)
+before the comma at the end of subparagraph (H), and
+(B)
+by striking
+or 6428
+in subparagraph (L) and inserting
+6428, or 6428A
+.
+(3)
+Exception from reduction or offset
+Any credit or refund allowed or made to any individual by reason of
+section 6428A
+of the Internal Revenue Code of 1986 (as added by this section) or by reason of subsection (b) of this section shall not beâ
+(A)
+subject to reduction or offset pursuant to section 3716 or 3720A of title 31, United States Code,
+(B)
+subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of
+section 6402
+of the Internal Revenue Code of 1986, or
+(C)
+reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.
+(4)
+Assignment of benefits
+(A)
+In general
+Any applicable payment shall not be subject to transfer, assignment, execution, levy, attachment, garnishment, or other legal process, or the operation of any bankruptcy or insolvency law, to the same extent as payments described in section 207 of the Social Security Act (
+42 U.S.C. 407
+) without regard to subsection (b) thereof.
+(B)
+Encoding of payments
+As soon as practicable after the date of the enactment of the paragraph, the Secretary of the Treasury shall encode applicable payments that are paid electronically to any accountâ
+(i)
+with a unique identifier that is reasonably sufficient to allow a financial institution to identify the payment as a payment protected under subparagraph (A), and
+(ii)
+pursuant to the same specifications as required for a benefit payment to which part 212 of title 31, Code of Federal regulations applies.
+(C)
+Garnishment
+(i)
+Encoded payments
+Upon receipt of a garnishment order that applies to an account that has received an applicable payment that is encoded as provided in subparagraph (B), a financial institution shall follow the requirements and procedures set forth in part 212 of title 31, Code of Federal Regulations. This paragraph shall not alter the status of payments as tax refunds or other nonbenefit payments for purposes of any reclamation rights of the Department of the Treasury or the Internal Revenue Service as per part 210 of title 31 of the Code of Federal Regulations.
+(ii)
+Other payments
+If a financial institution receives a garnishment order (other than an order that has been served by the United States) that applies to an account into which an applicable payment that has not been encoded as provided in subparagraph (B) has been deposited on any date in the prior 60 days (including any date before the date of the enactment of this paragraph), the financial institution, upon the request of the account holder or for purposes of complying in good faith with a State order, State law, court order, or interpretation by a State Attorney General relating to garnishment order, may, but is not required to, treat the amount of the payment as exempt under law from garnishment without requiring the account holder to assert any right of garnishment exemption or requiring the consent of the judgment creditor.
+(iii)
+Liability
+A financial institution that complies in good faith with clause (i) or that acts in good faith in reliance on clause (ii) shall not be liable under any Federal or State law, regulation, or court or other order to a creditor that initiates an order for any protected amounts, to an account holder for any frozen amounts or garnishment order applied.
+(D)
+Definitions
+For purposes of this paragraphâ
+(i)
+Account holder
+The term
+account holder
+means a natural person against whom a garnishment order is issued and whose name appears in a financial institutionâs records.
+(ii)
+Applicable payment
+The term
+applicable payment
+means any payment of credit or refund by reason of section 6428 of such Code (as so added) or by reason of subsection (c) of this section.
+(iii)
+Garnishment
+The term
+garnishment
+means execution, levy, attachment, garnishment, or other legal process.
+(iv)
+Garnishment order
+The term
+garnishment order
+means a writ, order, notice, summons, judgment, levy, or similar written instruction issued by a court, a State or State agency, a municipality or municipal corporation, or a State child support enforcement agency, including a lien arising by operation of law for overdue child support or an order to freeze the assets in an account, to effect a garnishment against a debtor.
+(5)
+Treatment of credit and advance payments
+For purposes of section 1324 of title 31, United States Code, any credit under
+section 6428A(a)
+of the Internal Revenue Code of 1986, any credit or refund under section 6428A(h) of such Code, and any payment under subsection (b) of this section, shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section 1324.
+(6)
+Agency information sharing and assistance
+The Commissioner of Social Security, the Railroad Retirement Board, and the Secretary of Veterans Affairs shall each provide the Secretary of the Treasury (or the Secretaryâs delegate) such information and assistance as the Secretary of the Treasury (or the Secretaryâs delegate) may require for purposes of making payments under
+section 6428A(g)
+of the Internal Revenue Code of 1986 to individuals described in paragraph (5)(A)(ii) thereof.
+(7)
+Clerical amendment
+The table of sections for subchapter B of
+chapter 65
+of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 6428 the following new item:
+Sec. 6428A. Additional recovery rebates to individuals.
+.
+(d)
+Effective date
+The amendments made by this section shall take effect on the date of the enactment of this Act.
+3.
+Refund of balance owed with respect to certain dependents
+In the case of any taxpayer with respect to whom a partial refund or credit was made or allowed before the date of the enactment of this Act under subsection (f) of
+section 6428
+of the Internal Revenue Code of 1986 and for whom a balance is owed with respect to a dependent, the Secretary shall, before December 31, 2020, certify and disburse the balance of such refund electronically to any account to which the payee authorized, on or after January 1, 2018, the delivery of a refund of taxes or of a Federal payment (as defined in section 3332 of title 31, United States Code).

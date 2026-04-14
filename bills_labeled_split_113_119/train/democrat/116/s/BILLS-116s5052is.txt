@@ -1,0 +1,303 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Algorithmic Fairness Act of 2020
+.
+(b)
+Table of contents
+The table of contents of this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. FTC study and report on ways companies are developing and implementing algorithmic eligibility determinations.
+Sec. 4. Substantive fairness.
+Sec. 5. Procedural fairness.
+Sec. 6. Enforcement.
+Sec. 7. Research grants for the study of fair and transparent data analytics.
+Sec. 8. Leadership program.
+Sec. 9. Avoiding duplication.
+2.
+Definitions
+In this Act:
+(1)
+Algorithmic eligibility determination
+The term
+algorithmic eligibility determination
+means a determination based in whole or in significant part on an algorithmic process that utilizes methods of machine learning, advanced statistical techniques, artificial intelligence, or similar techniques to determine the eligibility for, the denial of access to, the receipt of information about, the cost of acquiring, the opportunity to access, or the revocation of important opportunities including, but not limited to, education, employment, credit, health care insurance, and housing.
+(2)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(3)
+Covered entity
+The term
+covered entity
+means an entity thatâ
+(A)
+makes an algorithmic eligibility determination; and
+(B)
+isâ
+(i)
+a person over which the Commission has authority pursuant to section 5(a)(2) of the
+Federal Trade Commission Act
+(
+15 U.S.C. 45(a)(2)
+), but including banks, savings and loan institutions, and Federal credit unions that are otherwise excluded under such section;
+(ii)
+a common carrier subject to the
+Communications Act of 1934
+(
+47 U.S.C. 151
+et seq.), notwithstanding the definition of the term
+Acts to regulate commerce
+in section 4 of the
+Federal Trade Commission Act
+(
+15 U.S.C. 44
+) and the exception provided by section 5(a)(2) of the
+Federal Trade Commission Act
+(
+15 U.S.C. 45(a)(2)
+) for such carriers; or
+(iii)
+a nonprofit organization, including any organization described in
+section 501(c)
+of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code, notwithstanding the definition of the term
+Acts to regulate commerce
+in section 4 of the
+Federal Trade Commission Act
+(
+15 U.S.C. 44
+) and the exception provided by section 5(a)(2) of the
+Federal Trade Commission Act
+(
+15 U.S.C. 45(a)(2)
+) for such organizations.
+(4)
+Online advertisement
+The term
+online advertisement
+means an algorithmic eligibility determination that determines whether an individual receives promotional information from a covered entity through the use of paid internet or paid digital communication.
+(5)
+Search result
+The term
+search result
+means an algorithmic eligibility determination that determines the information an individual is presented after querying an internet search engine.
+3.
+FTC study and report on ways companies are developing and implementing algorithmic eligibility determinations
+(a)
+Study
+The Commission shall conduct a study on the ways covered entities are developing and implementing algorithmic eligibility determinations. Such study shall include an analysis ofâ
+(1)
+the industries that most commonly utilize algorithmic eligibility determinations;
+(2)
+the types of algorithmic eligibility determinations that covered entities make;
+(3)
+the data, data sources, pre-processing strategies and other practices, data collection technologies, and methodologies that covered entities use to make such determinations;
+(4)
+the transparency of algorithmic eligibility determinations, including the types of explanations that covered entities disclose toâ
+(A)
+individuals or entities that are the subject of an algorithmic eligibility determination;
+(B)
+regulators; and
+(C)
+the general public;
+(5)
+whether and how human decision makers are involved in rendering algorithmic eligibility determinations;
+(6)
+whether covered entities have a mechanism to receive complaints about algorithmic eligibility determinations, and the number and nature of such complaints received from individuals regarding such determinations;
+(7)
+whether covered entities have accountability procedures in place should an algorithmic eligibility determination be questioned or challenged, a description of such accountability procedures, and what remedial steps covered entities have taken, if any;
+(8)
+what information a covered entity could reasonably be required to disclose such that an individual could understand, question, or challenge an algorithmic eligibility determination;
+(9)
+whether covered entities perform algorithmic audits to understand whether algorithmic eligibility determinations are fair, how covered entities define fairness for this purpose, and whether any such audit techniques and outcomes of audits are available to individuals or groups challenging an algorithmic eligibility determination;
+(10)
+the extent to which, if any, algorithmic eligibility determinations consider factors such as geographic information, income, ethnicity, race, religion, national origin, age, sex, sexual orientation, disability information, pregnancy, marital status, physical or mental health status, criminal history status, or proxies for such factors;
+(11)
+the extent to which algorithmic eligibility determinations could result in negative or differential treatment of individuals based on the factors described in paragraph (10); and
+(12)
+the best way to address intellectual property concerns of covered entities, like trade secret protections, that may arise if the Federal Government requires companies to share information related to their algorithmic eligibility determination processes.
+(b)
+Reports
+(1)
+Initial report
+Not later than 1 year after the date of the enactment of this Act, and once every 3 years thereafter (until a total of 4 reports have been submitted), the Commission shall submit to Congress a report on the study conducted under subsection (a), together with recommendations for such additional legislation and administrative action as the Commission determines appropriate.
+(2)
+Special rule
+In the final report submitted in accordance with paragraph (1), the Commission shall include a recommendation as to whether to continue conducting the study under subsection (a) (and submitting corresponding reports under this subsection).
+(c)
+Consultation
+In conducting the study under subsection (a) and preparing the reports under subsection (b), the Commission shall consult withâ
+(1)
+the National Institute of Standards and Technology;
+(2)
+the Department of Homeland Security;
+(3)
+the Consumer Financial Protection Bureau;
+(4)
+the Department of Housing and Urban Development;
+(5)
+the Department of Health and Human Services;
+(6)
+the Department of Veterans Affairs;
+(7)
+the Department of Education;
+(8)
+the Federal Communications Commission;
+(9)
+the Equal Employment Opportunity Commission; and
+(10)
+the Civil Rights Division of the Department of Justice.
+4.
+Substantive fairness
+(a)
+In general
+A covered entity shall not act on an unfair algorithmic eligibility determination in or affecting commerce.
+(b)
+Considerations
+In determining whether a particular algorithmic eligibility determination is unfair, the Commissionâ
+(1)
+shall consider the factors specified in section 5(n) of the Federal Trade Commission Act (
+15 U.S.C. 45(n)
+); and
+(2)
+may considerâ
+(A)
+established public policies;
+(B)
+emotional distress, bias on the basis of protected class status, and other noneconomic injuries, and may conclude that these injuries contribute to substantial injury to consumers for the purposes of section 5(n) of the Federal Trade Commission Act (
+15 U.S.C. 45(n)
+); and
+(C)
+any code of conduct developed by industry sectors, civil rights groups, consumer protection groups, or academics, as long as the Commission has first published such code of conduct in the Federal Register and provided for a period of public comment in accordance with section 553 of title 5, United States Code.
+5.
+Procedural fairness
+(a)
+In general
+Beginning 1 year after the date of the enactment of this Act, each covered entity shall, for each algorithmic eligibility determinationâ
+(1)
+retain for at least 5 years an audit trail that recordsâ
+(A)
+the data used by the algorithm, as it existed at the time the algorithm was deployed and rendered the algorithmic eligibility determination;
+(B)
+the source of pre-processing techniques, or any other technique used to produce any such data described in subparagraph (A);
+(C)
+the methodology used by the entity to develop the algorithm;
+(D)
+the version of the design of the algorithm utilized to make the determination;
+(E)
+any data or sets of data used to train the algorithm;
+(F)
+any testing for model performance for discriminatory effects across different subgroups and the results of such testing;
+(G)
+the methodology used to render the determination; and
+(H)
+the ultimate determination rendered;
+(2)
+notify the individual that they have been the subject of an algorithmic eligibility determination; and
+(3)
+upon request, provide the individual with the opportunity toâ
+(A)
+access the data pertaining to that individual that the covered entity employed to make the determination, in a human-readable format that a reasonable individual can understand;
+(B)
+submit corrections to the data pertaining to that individual that the covered entity used in the algorithmic eligibility determination; and
+(C)
+request that the covered entity conduct a reevaluation of the relevant algorithmic eligibility determination based on the corrected data.
+(b)
+Review
+Upon the request of the Commission, a covered entity shall make available to the Commission the full audit trail described in subsection (a)(1). The Commission shall establish a secure and confidential process for reviewing the materials created and retained under such subsection.
+(c)
+Request to the Commission
+An individual who has been the subject of an algorithmic eligibility determination may request that the Commission conduct a review (and the Commission may conduct such a review) ofâ
+(1)
+the algorithmic eligibility determination to determine if it was unfair (determined pursuant to section (4)); and
+(2)
+a covered entityâs reevaluation of an algorithmic eligibility determination where an individual has submitted corrected data.
+(d)
+Rule of construction
+Nothing in this section shall be construed to require a covered entity to provide an individual with the algorithm or model used to make the eligibility determination, or otherwise divulge legally protected trade secrets.
+(e)
+Scope
+Notwithstanding any of the preceding provisions of this section, subsection (a)(2) shall not apply toâ
+(1)
+online advertisements;
+(2)
+search results; or
+(3)
+any other use case for which the Commission determines, by rulemaking in accordance with section 553 of title 5, United States Code, that the requirements of subsection (a)(2) would impose an undue burden on or prove to be infeasible for that general class of use case.
+6.
+Enforcement
+(a)
+Enforcement by the Federal Trade Commission
+(1)
+Unfair act or practice
+Any covered entity that violates section 4 or section 5 shall be deemed to have committed an unfair act or practice under section 5(a)(1) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(1)
+).
+(2)
+Powers of the Commission
+(A)
+In general
+The Commission shall enforce sections 4 and 5 in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the
+Federal Trade Commission Act
+(
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of this section.
+(B)
+Civil penalty authority
+When enforcing section 4 or 5, the Commission may, depending on the nature and severity of the violation, include an assessment of a civil penalty in the cease and desist order provided for under section 5(b) of the Federal Trade Commission Act (
+15 U.S.C. 45
+).
+(C)
+Privileges and immunities
+Any covered entity that violates section 4 or 5 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+(D)
+Authority preserved
+Nothing in this subsection shall be construed to limit the authority of the Commission under any other provision of law.
+(b)
+Regulations
+(1)
+In general
+The Commission may promulgate, in accordance with section 553 of title 5, United States Code, regulations toâ
+(A)
+carry out section 4, including by describing which algorithmic eligibility determinations are unfair for the purposes of section 5 of the Federal Trade Commission Act (
+15 U.S.C. 45
+); and
+(B)
+carry out section 5.
+(2)
+No requirement for regulations
+Nothing in this Act shall require the Commission to promulgate regulations before enforcing violations of section 4 or 5.
+(c)
+Referral regarding a potential violation of a Federal anti-Discrimination law
+If the Commission finds that an algorithmic eligibility determination may be in violation of a Federal anti-discrimination law, the Commission shall refer the matter to the appropriate Federal or State agency with authority to initiate proceedings relating to such violation.
+7.
+Research grants for the study of fair and transparent data analytics
+(a)
+Grant authority
+The Director of the National Institute of Standards and Technology may award grants for research into fair, accountable, and transparent data analytics and machine learning, particularly with respect to algorithmic eligibility determinations.
+(b)
+Funding
+There are authorized to be appropriated $10,000,000 for each of fiscal years 2021 through 2026, to carry out this section. Amounts appropriated under the preceding sentence shall remain available until expended.
+8.
+Leadership program
+(a)
+In general
+By not later than 1 year after the date of the enactment of this Act, the Commission shall establish a leadership program under which the Commission recognizes covered entities that display excellence in fair, accountable, and transparent data science or machine learning, particularly with respect to algorithmic eligibility determinations.
+(b)
+Process
+Such leadership program shall include a process forâ
+(1)
+covered entities to apply to the Commission for such recognition;
+(2)
+the Commission, in consultation with the National Institute of Standards and Technology, to evaluate the merits of applications in accordance with standards that the Commission shall promulgate as a rule under section 553 of title 5, United States Code; and
+(3)
+recognizing covered entities that the Commission determines have achieved excellence in fair, accountable, and transparent data science or machine learning, particularly with respect to algorithmic eligibility determinations.
+9.
+Avoiding duplication
+In implementing the provisions of this Act, the Commission shall work with other Federal agencies to avoid the burden on a covered entity from having to comply with requirements under this Act that may be duplicative of requirements under other provisions of Federal law.

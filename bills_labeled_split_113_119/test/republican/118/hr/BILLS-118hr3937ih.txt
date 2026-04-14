@@ -1,0 +1,960 @@
+1.
+Short title; table of contents, etc
+(a)
+Short title
+This Act may be cited as the
+Small Business Jobs Act
+.
+(b)
+Amendment of
+1986
+Code
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+(c)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents, etc.
+Sec. 2. Increase in threshold for requiring information reporting with respect to certain payees.
+Sec. 3. Restoration of reporting rule for third party network transactions.
+Sec. 4. Modifications to exclusion for gain from qualified small business stock.
+Sec. 5. Increase in limitations on expensing of depreciable business assets.
+Sec. 6. Establishment of special rules for capital gains invested in rural opportunity zones.
+Sec. 7. Reporting on qualified opportunity funds and qualified rural opportunity funds.
+2.
+Increase in threshold for requiring information reporting with respect to certain payees
+(a)
+In general
+Sections 6041(a) is amended by striking
+$600
+and inserting
+$5,000
+.
+(b)
+Inflation adjustment
+Section 6041
+is amended by adding at the end the following new subsection:
+(h)
+Inflation adjustment
+In the case of any calendar year after 2024, the dollar amount in subsection (a) shall be increased by an amount equal toâ
+(1)
+such dollar amount, multiplied by
+(2)
+the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting
+calendar year 2023
+for
+calendar year 2016
+in subparagraph (A)(ii) thereof.
+If any increase under the preceding sentence is not a multiple of $100, such increase shall be rounded to the nearest multiple of $100.
+.
+(c)
+Application to reporting on remuneration for services and direct sales
+Section 6041A
+is amendedâ
+(1)
+in subsection (a)(2), by striking
+is $600 or more
+and inserting
+equals or exceeds the dollar amount in effect for such calendar year under section 6041(a)
+, and
+(2)
+in subsection (b)(1)(B), by striking
+is $5,000 or more
+and inserting
+equals or exceeds the dollar amount in effect for such calendar year under section 6041(a)
+.
+(d)
+Application To backup withholding
+Section 3406(b)(6)
+is amendedâ
+(1)
+by striking
+$600
+in subparagraph (A) and inserting
+the dollar amount in effect for such calendar year under section 6041(a)
+, and
+(2)
+by striking
+only where aggregate for calendar year is
+$600
+or more
+in the heading and inserting
+only if in excess of threshold
+.
+(e)
+Conforming amendments
+(1)
+The heading of
+section 6041(a)
+is amended by striking
+of $600 or more
+and inserting
+exceeding threshold
+.
+(2)
+Section 6041(a)
+is amended by striking
+taxable year
+and inserting
+calendar year
+.
+(f)
+Effective date
+The amendments made by this section shall apply with respect to payments made after December 31, 2023.
+3.
+Restoration of reporting rule for third party network transactions
+(a)
+De minimis exception for third party settlement organizations
+Section 6050W(e)
+is amended to read as follows:
+(e)
+Exception for de minimis payments by third party settlement organizations
+A third party settlement organization shall be required to report any information under subsection (a) with respect to third party network transactions of any participating payee only ifâ
+(1)
+the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions exceeds $20,000, and
+(2)
+the aggregate number of such transactions exceeds 200.
+.
+(b)
+Effective date
+The amendment made by this section shall apply to returns for calendar years beginning after December 31, 2021.
+4.
+Modifications to exclusion for gain from qualified small business stock
+(a)
+Phased increase in exclusion for gain from qualified small business stock
+(1)
+In general
+Section 1202(a)(1)
+is amendedâ
+(A)
+by striking
+50 percent
+and inserting
+the applicable percentage
+, and
+(B)
+by striking
+held for more than 5 years
+and inserting
+held for at least 3 years
+.
+(2)
+Applicable percentage
+Section 1202(a)
+is amended by adding at the end the following new paragraph:
+(5)
+Applicable percentage
+Except as provided in paragraphs (3) and (4), the applicable percentage under paragraph (1) shall be determined under the following table:
+Years stock held:
+Applicable percentage:
+3 years
+50%
+4 years
+75%
+5 years or more
+100%
+.
+(3)
+Continued treatment as not item of tax preference
+(A)
+In general
+Section 57(a)(7)
+is amended by striking
+An amount
+and inserting
+In the case of stock acquired on or before the date of the enactment of the Creating Small Business Jobs Act of 2010, an amount
+.
+(B)
+Conforming amendment
+Section 1202(a)(4)
+is amendedâ
+(i)
+by striking
+, and
+at the end of subparagraph (B) and inserting a period, and
+(ii)
+by striking subparagraph (C).
+(4)
+Other conforming amendments
+(A)
+Section 1202(a)(4)
+is amended by inserting
+and before the date of the enactment of the
+Small Business Jobs Act
+after
+Act of 2010
+.
+(B)
+Paragraphs (3) and (4) of section 1202(a) are each amended by inserting
+held for more than 5 years and
+after
+In the case of qualified small business stock
+.
+(C)
+Section 1202(a)(3)(A) of such Code is amended to read as follows:
+(A)
+the applicable percentage under paragraph (1) shall be 75 percent, and
+,
+(D)
+Section 1202(a)(4)(A)
+is amended to read as follows:
+(A)
+the applicable percentage under paragraph (1) shall be 100 percent, and
+.
+(E)
+Section 1202(b)(2)
+is amended by striking
+more than 5 years
+and inserting
+at least 3 years
+.
+(F)
+Section 1202(g)(2)(A)
+is amended by striking
+more than 5 years
+and inserting
+at least 3 years
+.
+(G)
+Section 1202(j)(1)(A)
+is amended by striking
+more than 5 years
+and inserting
+at least 3 years
+.
+(b)
+Tacking holding period of convertible debt instruments
+(1)
+In general
+Section 1202(f)
+is amendedâ
+(A)
+by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B) and moving such subparagraphs (as so redesignated) 2 ems to the right,
+(B)
+by striking
+conversion of other stock
+.âIf any stock
+and inserting the following:
+conversion.â
+(1)
+Other stock
+If any stock
+, and
+(C)
+by adding at the end the following new paragraph:
+(2)
+Convertible debt instruments
+(A)
+In general
+If any stock in a corporation is acquired by the taxpayer, without recognition of gain, solely through the conversion of a qualified convertible debt instrumentâ
+(i)
+the stock so acquired shall be treated as qualified small business stock in the hands of the taxpayer, and
+(ii)
+the stock so acquired shall be treated as having been held during the period during which the qualified convertible debt instrument was held.
+(B)
+Qualified convertible debt instrument
+For purposes of this paragraph, the term
+qualified convertible debt instrument
+means any bond or other evidence of indebtednessâ
+(i)
+which is originally issued by the corporation to the taxpayer,
+(ii)
+the issuer of whichâ
+(I)
+from issuance until conversion, is a qualified small business, and
+(II)
+during substantially all of the taxpayerâs holding period of such bond or evidence of indebtedness, the corporation meets the active business requirements of subsection (e), and
+(iii)
+which is convertible into stock in the corporation.
+.
+(c)
+Gain exclusion allowed with respect to qualified small business stock in corporation
+(1)
+In general
+Section 1202(c)
+is amendedâ
+(A)
+by striking
+C corporation
+in paragraphs (1) and inserting
+corporation
+, and
+(B)
+by striking
+and such corporation is a C corporation
+in paragraph (2)(A).
+(2)
+Qualified small business definition
+Section 1202(d)(1)
+is amended by striking
+which is a C corporation
+.
+(3)
+Clarification of aggregation rules applicable to
+S
+corporations
+Section 1202(d)(3)
+is amended by adding at the end the following new subparagraph:
+(C)
+Clarification with respect to
+S
+corporations
+Any determination of the members of a controlled group of corporations under this paragraph shall include taking into account any stock ownership in an S corporation.
+.
+(4)
+Treatment of passive losses
+Section 469(g)(1)
+is amended by adding at the end the following new subparagraph:
+(D)
+Certain dispositions of small business stock
+In the case a disposition any gain from which is excluded from gross income under section 1202, subparagraph (A) shall not apply.
+.
+(5)
+Special rules relating to
+S
+corporations
+Section 1202(e)
+is amended by adding at the end the following new paragraph:
+(9)
+Applied at
+S
+corporation level
+In the case of an S corporation, the requirements of this subsection shall be applied at the corporate level.
+.
+(d)
+Effective dates
+(1)
+In general
+Except as otherwise provided in this subsection, the amendments made by this section shall apply to stock acquired after the date of the enactment of this Act.
+(2)
+Continued treatment as not item of tax preference
+The amendments made by subsection (a)(3) shall take effect as if included in the enactment of section 2011 the Creating Small Business Jobs Act of 2010.
+(3)
+Tacking holding period of convertible debt instruments
+The amendments made by subsection (b) shall apply to debt instruments originally issued after the date of the enactment of this Act.
+5.
+Increase in limitations on expensing of depreciable business assets
+(a)
+In general
+Section 179(b)
+is amendedâ
+(1)
+by striking
+$1,000,000
+in paragraph (1) and inserting
+$2,500,000
+, and
+(2)
+by striking
+$2,500,000
+in paragraph (2) and inserting
+$4,000,000
+.
+(b)
+Inflation adjustment
+Section 179(b)(6)
+is amendedâ
+(1)
+by striking
+2018
+and inserting
+2024 (2018 in the case of the dollar amount in paragraph (5)(A))
+, and
+(2)
+by striking
+calendar year 2017
+and inserting
+calendar year 2024
+(
+calendar year 2017
+in the case of the dollar amount in paragraph (5)(A))
+.
+(c)
+Effective date
+The amendments made by this section shall apply to property placed in service in taxable years beginning after December 31, 2023.
+6.
+Establishment of special rules for capital gains invested in rural opportunity zones
+(a)
+In general
+Subchapter Z of
+chapter 1
+is amended by adding at the end the following new section:
+1400Zâ3.
+Special rules for capital gains invested in rural opportunity zones
+(a)
+In general
+(1)
+Treatment of gains
+In the case of capital gain from the sale to, or exchange with, an unrelated person of any property held by the taxpayer, at the election of the taxpayerâ
+(A)
+gross income for the taxable year shall not include so much of such gain as does not exceed the aggregate amount invested by the taxpayer in a qualified rural opportunity fund during the 180-day period beginning on the date of such sale or exchange,
+(B)
+the amount of gain excluded by subparagraph (A) shall be included in gross income as provided by subsection (b), and
+(C)
+subsection (c) shall apply.
+(2)
+Election
+No election may be made under paragraph (1)â
+(A)
+with respect to a sale or exchange if an election previously made with respect to such sale or exchange is in effect, or
+(B)
+with respect to any sale or exchange after December 31, 2032.
+(b)
+Deferral of gain invested in qualified rural opportunity zone property
+(1)
+Year of inclusion
+Gain to which subsection (a)(1)(B) applies shall be included in income in the taxable year which includes the earlier ofâ
+(A)
+the date on which such investment is sold or exchanged, or
+(B)
+December 31, 2032.
+(2)
+Amount includible
+(A)
+In general
+The amount of gain included in gross income under subsection (a)(1)(A) shall be the excess ofâ
+(i)
+the lesser of the amount of gain excluded under paragraph (1) or the fair market value of the investment as determined as of the date described in paragraph (1), over
+(ii)
+the taxpayerâs basis in the investment.
+(B)
+Determination of basis qualified rural opportunity zone property
+(i)
+In general
+Except as otherwise provided in this clause or subsection (c), the taxpayerâs basis in the investment shall be zero.
+(ii)
+Increase for gain recognized under subsection (a)(1)(b)
+The basis in the investment shall be increased by the amount of gain recognized by reason of subsection (a)(1)(B) with respect to such property.
+(iii)
+Investments held for 5 years
+In the case of any investment held for at least 5 years, the basis of such investment shall be increased by an amount equal to 10 percent of the amount of gain deferred by reason of subsection (a)(1)(A).
+(iv)
+Investments held for 7 years
+In the case of any investment held by the taxpayer for at least 7 years, in addition to any adjustment made under clause (iii), the basis of such property shall be increased by an amount equal to 5 percent of the amount of gain deferred by reason of subsection (a)(1)(A).
+(c)
+Special rule for investments held for at least 10 years
+In the case of any investment held by the taxpayer for at least 10 years and with respect to which the taxpayer makes an election under this subsection, the basis of such property shall be equal to the fair market value of such investment on the date that the investment is sold or exchanged.
+(d)
+Qualified rural opportunity fund
+For purposes of this sectionâ
+(1)
+In general
+The term
+qualified rural opportunity fund
+means any investment vehicle which is organized as a corporation or a partnership for the purpose of investing in qualified rural opportunity zone property (other than another qualified rural opportunity fund) that holds at least 90 percent of its assets in qualified rural opportunity zone property, determined by the average of the percentage of qualified rural opportunity zone property held in the fund as measuredâ
+(A)
+on the last day of the first 6-month period of the taxable year of the fund, and
+(B)
+on the last day of the taxable year of the fund.
+(2)
+Qualified rural opportunity zone property
+(A)
+In general
+The term
+qualified rural opportunity zone property
+means property which isâ
+(i)
+qualified rural opportunity zone stock,
+(ii)
+qualified rural opportunity zone partnership interest, or
+(iii)
+qualified rural opportunity zone business property.
+(B)
+Qualified rural opportunity zone stock
+(i)
+In general
+Except as provided in clause (ii), the term
+qualified rural opportunity zone stock
+means any stock in a domestic corporation ifâ
+(I)
+such stock is acquired by the qualified rural opportunity fund after December 31, 2023, at its original issue (directly or through an underwriter) from the corporation solely in exchange for cash,
+(II)
+as of the time such stock was issued, such corporation was a qualified rural opportunity zone business (or, in the case of a new corporation, such corporation was being organized for purposes of being a qualified rural opportunity zone business), and
+(III)
+during substantially all of the qualified rural opportunity fundâs holding period for such stock, such corporation qualified as a qualified rural opportunity zone business.
+(ii)
+Redemptions
+A rule similar to the rule of section 1202(c)(3) shall apply for purposes of this paragraph.
+(C)
+Qualified rural opportunity zone partnership interest
+The term
+qualified rural opportunity zone partnership interest
+means any capital or profits interest in a domestic partnership ifâ
+(i)
+such interest is acquired by the qualified rural opportunity fund after December 31, 2023, from the partnership solely in exchange for cash,
+(ii)
+as of the time such interest was acquired, such partnership was a qualified rural opportunity zone business (or, in the case of a new partnership, such partnership was being organized for purposes of being a qualified rural opportunity zone business), and
+(iii)
+during substantially all of the qualified rural opportunity fundâs holding period for such interest, such partnership qualified as a qualified rural opportunity zone business.
+(D)
+Qualified rural opportunity zone business property
+(i)
+In general
+The term
+qualified rural opportunity zone business property
+means tangible property used in a trade or business of the qualified rural opportunity fund ifâ
+(I)
+such property was acquired by the qualified rural opportunity fund by purchase (as defined in section 179(d)(2)) after December 31, 2023,
+(II)
+the original use of such property in the qualified rural opportunity zone commences with the qualified rural opportunity fund or the qualified rural opportunity fund substantially improves the property, and
+(III)
+during substantially all of the qualified rural opportunity fundâs holding period for such property, substantially all of the use of such property was in a qualified rural opportunity zone.
+(ii)
+Substantial improvement
+For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified rural opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified rural opportunity fund exceed an amount equal to the adjusted basis of such property at the beginning of such 30-month period in the hands of the qualified rural opportunity fund.
+(iii)
+Related party
+For purposes of subparagraph (A)(i), the related person rule of section 179(d)(2) shall be applied pursuant to subsection (e)(2) in lieu of the application of such rule in section 179(d)(2)(A).
+(3)
+Qualified rural opportunity zone business
+(A)
+In general
+The term
+qualified rural opportunity zone business
+means a trade or businessâ
+(i)
+in which substantially all of the tangible property owned or leased by the taxpayer is qualified rural opportunity zone business property (determined by substituting
+qualified rural opportunity zone business
+for
+qualified rural opportunity fund
+each place it appears in paragraph (2)(D)),
+(ii)
+which satisfies the requirements of paragraphs (2), (4), and (8) of section 1397C(b), and
+(iii)
+which is not described in section 144(c)(6)(B).
+(B)
+Special rule
+For purposes of subparagraph (A), tangible property that ceases to be a qualified rural opportunity zone business property shall continue to be treated as a qualified rural opportunity zone business property for the lesser ofâ
+(i)
+5 years after the date on which such tangible property ceases to be so qualified, or
+(ii)
+the date on which such tangible property is no longer held by the qualified rural opportunity zone business.
+(4)
+Qualified rural opportunity zone
+(A)
+In general
+The term
+qualified rural opportunity zone
+means any population census tract whichâ
+(i)
+is located in a rural county, and
+(ii)
+is in persistent poverty (as determined by the Bureau of the Census using the same methodology and data as used for purposes of the May 2023 report of such Bureau entitled
+Persistent Poverty in Counties and Census Tracts
+).
+(B)
+Rural county
+The term
+rural county
+means any county if more than 50 percent of the census blocks which comprise such county are rural blocks (as determined by the Bureau of the Census as of the date of the enactment of this Act). A rule similar to section 143(k)(2)(D) shall apply for purposes of the preceding sentence.
+(e)
+Applicable rules
+(1)
+Treatment of investments with mixed funds
+In the case of any investment in a qualified rural opportunity fund only a portion of which consists of investments of gain to which an election under subsection (a) is in effectâ
+(A)
+such investment shall be treated as 2 separate investments, consisting ofâ
+(i)
+one investment that only includes amounts to which the election under subsection (a) applies, and
+(ii)
+a separate investment consisting of other amounts, and
+(B)
+subsections (a), (b), and (c) shall only apply to the investment described in subparagraph (A)(i).
+(2)
+Related persons
+For purposes of this section, persons are related to each other if such persons are described in section 267(b) or 707(b)(1), determined by substituting
+20 percent
+for
+50 percent
+each place it occurs in such sections.
+(3)
+Decedents
+In the case of a decedent, amounts recognized under this section shall, if not properly includible in the gross income of the decedent, be includible in gross income as provided by section 691.
+(4)
+Regulations
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, includingâ
+(A)
+rules for the certification of qualified rural opportunity funds for the purposes of this section,
+(B)
+rules to ensure a qualified rural opportunity fund has a reasonable period of time to reinvest the return of capital from investments in qualified rural opportunity zone stock and qualified rural opportunity zone partnership interests, and to reinvest proceeds received from the sale or disposition of qualified rural opportunity zone property, and
+(C)
+rules to prevent abuse.
+(f)
+Failure of qualified rural opportunity fund To maintain investment standard
+(1)
+In general
+If a qualified rural opportunity fund fails to meet the 90-percent requirement of subsection (d)(1), the qualified rural opportunity fund shall pay a penalty for each month it fails to meet the requirement in an amount equal to the product ofâ
+(A)
+the excess ofâ
+(i)
+the amount equal to 90 percent of its aggregate assets, over
+(ii)
+the aggregate amount of qualified rural opportunity zone property held by the fund, multiplied by
+(B)
+the underpayment rate established under section 6621(a)(2) for such month.
+(2)
+Special rule for partnerships
+In the case that the qualified rural opportunity fund is a partnership, the penalty imposed by paragraph (1) shall be taken into account proportionately as part of the distributive share of each partner of the partnership.
+(3)
+Reasonable cause exception
+No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
+.
+(b)
+Clerical amendment
+The table of sections for subchapter Z of
+chapter 1
+is amended by adding at the end the following new item:
+Sec. 1400Zâ3. Special rules for capital gains invested in rural opportunity zones.
+.
+(c)
+Effective date
+The amendments made by this section shall apply to amounts invested after the date of the enactment of this section.
+7.
+Reporting on qualified opportunity funds and qualified rural opportunity funds
+(a)
+In general
+(1)
+Filing requirements for funds and investors
+Subpart A of part III of subchapter A of
+chapter 61
+is amended by inserting after section 6039J the following new sections:
+6039K.
+Returns with respect to qualified opportunity funds and qualified rural opportunity funds
+(a)
+In general
+Every qualified opportunity fund shall file an annual return (at such time and in such manner as the Secretary may prescribe) containing the information described in subsection (b).
+(b)
+Information from qualified opportunity funds
+The information described in this subsection isâ
+(1)
+the name, address, and taxpayer identification number of the qualified opportunity fund,
+(2)
+whether the qualified opportunity fund is organized as a corporation or a partnership,
+(3)
+the value of the total assets held by the qualified opportunity fund as of each date described in section 1400Zâ2(d)(1),
+(4)
+the value of all qualified opportunity zone property held by the qualified opportunity fund on each such date,
+(5)
+with respect to each investment held by the qualified opportunity fund in qualified opportunity zone stock or a qualified opportunity zone partnership interestâ
+(A)
+the name, address, and taxpayer identification number of the corporation in which such stock is held or the partnership in which such interest is held, as the case may be,
+(B)
+each North American Industry Classification System (NAICS) code that applies to the trades or businesses conducted by such corporation or partnership,
+(C)
+the population census tracts in which the qualified opportunity zone business property of such corporation or partnership is located,
+(D)
+the amount of the investment in such stock or partnership interest as of each date described in section 1400Zâ2(d)(1),
+(E)
+the value of tangible property held by such corporation or partnership on each such date which is owned by such corporation or partnership,
+(F)
+the value of tangible property held by such corporation or partnership on each such date which is leased by such corporation or partnership,
+(G)
+the approximate number of residential units (if any) for any real property held by such corporation or partnership, and
+(H)
+the approximate average monthly number of full-time equivalent employees of such corporation or partnership for the year (within numerical ranges identified by the Secretary) or such other indication of the employment impact of such corporation or partnership as determined appropriate by the Secretary,
+(6)
+with respect to the items of qualified opportunity zone business property held by the qualified opportunity fundâ
+(A)
+the North American Industry Classification System (NAICS) code that applies to the trades or businesses in which such property is held,
+(B)
+the population census tract in which the property is located,
+(C)
+whether the property is owned or leased,
+(D)
+the aggregate value of the items of qualified opportunity zone property held by the qualified opportunity fund as of each date described in section 1400Zâ2(d)(1), and
+(E)
+in the case of real property, number of residential units (if any),
+(7)
+the approximate average monthly number of full-time equivalent employees for the year of the trades or businesses of the qualified opportunity fund in which qualified opportunity zone business property is held (within numerical ranges identified by the Secretary) or such other indication of the employment impact of such trades or businesses as determined appropriate by the Secretary,
+(8)
+with respect to each person who disposed of an investment in the qualified opportunity fund during the yearâ
+(A)
+the name and taxpayer identification number of such person,
+(B)
+the date or dates on which the investment disposed was acquired, and
+(C)
+the date or dates on which any such investment was disposed and the amount of the investment disposed, and
+(9)
+such other information as the Secretary may require.
+(c)
+Statement required To be furnished to investors
+Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return by reason of subsection (b)(8) a written statement showingâ
+(1)
+the name, address and phone number of the information contact of the person required to make such return, and
+(2)
+the information required to be shown on such return by reason of subsection (b)(8) with respect to the person whose name is required to be so set forth.
+(d)
+Definitions
+For purposes of this sectionâ
+(1)
+In general
+Any term used in this section which is also used in subchapter Z of chapter 1 shall have the meaning given such term under such subchapter.
+(2)
+Full-time equivalent employees
+The term
+full-time equivalent employees
+means, with respect to any month, the sum ofâ
+(A)
+the number of full-time employees (as defined in section 4980H(c)(4)) for the month, plus
+(B)
+the number of employees determined (under rules similar to the rules of section 4980H(c)(2)(E)) by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
+(e)
+Application to qualified rural opportunity funds
+Every qualified rural opportunity fund shall file the annual return required under subsection (a), and the statements required under subsection (c), appliedâ
+(1)
+by substituting
+qualified rural opportunity
+for
+qualified opportunity
+each place it appears, and
+(2)
+by substituting
+section 1400Zâ3(d)(1)
+for
+section 1400Zâ2(d)(1)
+each place it appears.
+6039L.
+Information required from qualified opportunity zone businesses and qualified rural opportunity zone businesses
+(a)
+In general
+Every applicable qualified opportunity zone business shall furnish to the qualified opportunity fund described in subsection (b) a written statement in such manner and setting forth such information as the Secretary may by regulations prescribe for purposes of enabling such qualified opportunity fund to meet the requirements of section 6039K(b)(5).
+(b)
+Applicable qualified opportunity zone business
+For purposes of subsection (a), the term
+applicable qualified opportunity zone business
+means any qualified opportunity zone businessâ
+(1)
+which is a trade or business of a qualified opportunity fund,
+(2)
+in which a qualified opportunity fund holds qualified opportunity zone stock, or
+(3)
+in which a qualified opportunity fund holds a qualified opportunity zone partnership interest.
+(c)
+Other terms
+Any term used in this section which is also used in subchapter Z of chapter 1 shall have the meaning given such term under such subchapter.
+(d)
+Application to qualified rural opportunity funds
+Every qualified rural opportunity zone business (as defined in subsection (b) determined after application of the substitutions described in this sentence) shall furnish the written statement required under subsection (a), applied by substituting
+qualified rural opportunity
+for
+qualified opportunity
+each place it appears.
+.
+(2)
+Penalties
+(A)
+In general
+Part II of subchapter B of
+chapter 68
+is amended by inserting after section 6725 the following new section:
+6726.
+Failure to comply with information reporting requirements relating to qualified opportunity funds and qualified rural opportunity funds
+(a)
+In general
+In the case of any person required to file a return under section 6039K fails to file a complete and correct return under such section in the time and in the manner prescribed therefor, such person shall pay a penalty of $500 for each day during which such failure continues.
+(b)
+Limitation
+(1)
+In general
+The maximum penalty under this section on failures with respect to any 1 return shall not exceed $10,000.
+(2)
+Large qualified opportunity funds
+In the case of any failure described in subsection (a) with respect to a fund the gross assets of which (determined on the last day of the taxable year) are in excess of $10,000,000, paragraph (1) shall be applied by substituting
+$50,000
+for
+$10,000
+.
+(c)
+Penalty in cases of intentional disregard
+If a failure described in subsection (a) is due to intentional disregard, thenâ
+(1)
+subsection (a) shall be applied by substituting
+$2,500
+for
+$500
+,
+(2)
+subsection (b)(1) shall be applied by substituting
+$50,000
+for
+$10,000
+, and
+(3)
+subsection (b)(2) shall be applied by substituting
+$250,000
+for
+$50,000
+.
+(d)
+Inflation adjustment
+(1)
+In general
+In the case of any failure relating to a return required to be filed in a calendar year beginning after 2023, each of the dollar amounts in subsections (a), (b), and (c) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting
+calendar year 2022
+for
+calendar year 2016
+in subparagraph (A)(ii) thereof.
+(2)
+Rounding
+(A)
+In general
+If the $500 dollar amount in subsection (a) and (c)(1) or the $2,500 amount in subsection (c)(1), after being increased under paragraph (1), is not a multiple of $10, such dollar amount shall be rounded to the next lowest multiple of $10.
+(B)
+Asset threshold
+If the $10,000,000 dollar amount in subsection (b)(2), after being increased under paragraph (1), is not a multiple of $10,000, such dollar amount shall be rounded to the next lowest multiple of $10,000.
+(C)
+Other dollar amounts
+If any dollar amount in subsection (b) or (c) (other than any amount to which subparagraph (A) or (B) applies), after being increased under paragraph (1), is not a multiple of $1,000, such dollar amount shall be rounded to the next lowest multiple of $1,000.
+.
+(B)
+Information required to be sent to other taxpayers
+Section 6724(d)(2)
+is amendedâ
+(i)
+by striking
+or
+at the end of subparagraph (II),
+(ii)
+by striking the period at the end of the first subparagraph (JJ) (relating to section 6226) and inserting a comma,
+(iii)
+by redesignating the second subparagraph (JJ) (relating to section 6050Y) as subparagraph (KK),
+(iv)
+by striking the period at the end of subparagraph (KK) (as redesignated by clause (iii)) and inserting a comma, and
+(v)
+by inserting after subparagraph (KK) (as so redesignated) the following new subparagraphs:
+(LL)
+section 6039K(c) (relating to disposition of qualified opportunity fund investments), or
+(MM)
+section 6039L (relating to information required from certain qualified opportunity zone businesses and qualified rural opportunity zone businesses).
+.
+(3)
+Electronic filing
+Section 6011(e)
+is amended by adding at the end the following new paragraph:
+(8)
+Qualified opportunity funds and qualified rural opportunity funds
+Notwithstanding paragraphs (1) and (2), any return filed by a qualified opportunity fund or qualified rural opportunity fund shall be filed on magnetic media or other machine-readable form.
+.
+(4)
+Clerical amendments
+(A)
+The table of sections for subpart A of part III of subchapter A of
+chapter 61
+is amended by inserting after the item relating to section 6039J the following new items:
+Sec. 6039K. Returns with respect to qualified opportunity funds and qualified rural opportunity funds.
+Sec. 6039L. Information required from certain qualified opportunity zone businesses and qualified rural opportunity zone businesses.
+.
+(B)
+The table of sections for part II of subchapter B of
+chapter 68
+is amended by inserting after the item relating to section 6725 the following new item:
+Sec. 6726. Failure to comply with information reporting requirements relating to qualified opportunity funds and qualified rural opportunity zone businesses.
+.
+(5)
+Effective date
+The amendments made by this subsection shall apply to taxable years beginning after the date of the enactment of this Act.
+(b)
+Reporting of data on opportunity zone and rural opportunity zone tax incentives
+(1)
+In general
+As soon as practical after the date of the enactment of this Act, and annually thereafter, the Secretary of the Treasury, or the Secretaryâs delegate (referred to in this section as the
+Secretary
+), in consultation with the Director of the Bureau of the Census and such other agencies as the Secretary determines appropriate, shall make publicly available a report on qualified opportunity funds.
+(2)
+Information included
+The report required under paragraph (1) shall include, to the extent available, the following information:
+(A)
+The number of qualified opportunity funds.
+(B)
+The aggregate dollar amount of assets held in qualified opportunity funds.
+(C)
+The aggregate dollar amount of investments made by qualified opportunity funds in qualified opportunity fund property, stated separately for each North American Industry Classification System (NAICS) code.
+(D)
+The percentage of population census tracts designated as qualified opportunity zones that have received qualified opportunity fund investments.
+(E)
+For each population census tract designated as a qualified opportunity zone, the approximate average monthly number of full-time equivalent employees of the qualified opportunity zone businesses in such qualified opportunity zone for the preceding 12-month period (within numerical ranges identified by the Secretary) or such other indication of the employment impact of such qualified opportunity fund businesses as determined appropriate by the Secretary.
+(F)
+The percentage of the total amount of investments made by qualified opportunity funds inâ
+(i)
+qualified opportunity zone property which is real property; and
+(ii)
+other qualified opportunity zone property.
+(G)
+For each population census tract, the aggregate approximate number of residential units resulting from investments made by qualified opportunity funds in real property.
+(H)
+The aggregate dollar amount of investments made by qualified opportunity funds in each population census tract.
+(3)
+Additional information
+(A)
+In general
+Beginning with the report submitted under paragraph (1) for the 6th year after the date of the enactment of this Act, the Secretary shall include in such report the impacts and outcomes of a designation of a population census tract as a qualified opportunity zone as measured by economic indicators, such as job creation, poverty reduction, new business starts, and other metrics as determined by the Secretary.
+(B)
+Semi-decennial information
+(i)
+In general
+In the case of any report submitted under paragraph (1) in the 6th year or the 11th year after the date of the enactment of this Act, the Secretary shall include the following information:
+(I)
+For population census tracts designated as a qualified opportunity zone, a comparison (based on aggregate information) of the factors listed in clause (iii) between the 5-year period ending on the date of the enactment of
+Public Law 115â97
+and the most recent 5-year period for which data is available.
+(II)
+For population census tracts designated as a qualified opportunity zone, a comparison (based on aggregate information) of the factors listed in clause (iii) for the most recent 5-year period for which data is available between such population census tracts and a similar population census tracts that were not designated as a qualified opportunity zone.
+(ii)
+Control groups
+For purposes of clause (i), the Secretary may combine population census tracts into such groups as the Secretary determines appropriate for purposes of making comparisons.
+(iii)
+Factors listed
+The factors listed in this paragraph are the following:
+(I)
+The unemployment rate.
+(II)
+The number of persons working in the population census tract, including the percentage of such persons who were not residents in the population census tract in the preceding year.
+(III)
+Individual, family, and household poverty rates.
+(IV)
+Median family income of residents of the population census tract.
+(V)
+Demographic information on residents of the population census tract, including age, income, education, race, and employment.
+(VI)
+The average percentage of income of residents of the population census tract spent on rent annually.
+(VII)
+The number of residences in the population census tract.
+(VIII)
+The rate of home ownership in the population census tract.
+(IX)
+The average value of residential property in the population census tract.
+(X)
+The number of affordable housing units in the population census tract.
+(XI)
+The number and percentage of residents in the population census tract that were not employed for the preceding year.
+(XII)
+The number of new business starts in the population census tract.
+(XIII)
+The distribution of employees in the population census tract by North American Industry Classification System (NAICS) code.
+(4)
+Protection of identifiable return information
+In making reports required under this subsection, the Secretaryâ
+(A)
+shall establish appropriate procedures to ensure that any amounts reported do not disclose taxpayer return information that can be associated with any particular taxpayer or competitive or proprietary information, and
+(B)
+if necessary to protect taxpayer return information, may combine information required with respect to individual population census tracts into larger geographic areas.
+(5)
+Definitions
+Any term used in this paragraph which is also used in subchapter Z of
+chapter 1
+of the Internal Revenue Code of 1986 shall have the meaning given such term under such subchapter.
+(6)
+Reports on qualified rural opportunity funds
+The Secretary shall make publicly available, with respect to qualified rural opportunity funds, separate reports as required under this subsection, appliedâ
+(A)
+by substituting
+qualified rural opportunity
+for
+qualified opportunity
+each place it appears, and
+(B)
+by substituting
+the
+Small Business Jobs Act
+for
+Public Law 115â97
+.

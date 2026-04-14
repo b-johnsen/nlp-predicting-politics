@@ -1,0 +1,151 @@
+1.
+Short title
+This Act may be cited as the
+Detective Brian Simonsen Memorial Act of 2022
+or the
+Cell Phone Theft Prevention Act of 2022
+.
+2.
+Smart phone theft prevention
+(a)
+In general
+Part I of title III of the Communications Act of 1934 (
+47 U.S.C. 301 et seq.
+) is amended by adding at the end the following:
+345.
+Smart phone theft prevention
+(a)
+Provision of service on stolen smart phone
+(1)
+Prohibition
+A provider of commercial mobile service or commercial mobile data service may not knowingly provide service on a smart phone thatâ
+(A)
+has been reported to such provider as stolen by an authorized user of such phone; or
+(B)
+is listed as stolen on a central equipment identity register.
+(2)
+Reporting by service providers
+A provider of commercial mobile service or commercial mobile data service to which a smart phone is reported stolen by an authorized user of such phone as described in paragraph (1)(A) shall transmit to a central equipment identity register a notification that such phone has been reported stolen. Such notification shall include such information as is required for the identification of such phone.
+(b)
+Anti-Theft functionality; mobile device identification numbers
+A person may not manufacture for retail sale in the United States, or import into the United States for retail sale in the United States, a smart phone unless such phone isâ
+(1)
+equipped with pre-loaded anti-theft functionality at no additional cost to purchasers of such phone, or capable of downloading anti-theft functionality that is available at no additional cost to purchasers of such phone; and
+(2)
+equipped with a mobile device identification number.
+(c)
+Alteration or removal of mobile device identification number; prohibition of sale of stolen smart phones
+(1)
+Prohibition
+It shall be unlawful toâ
+(A)
+knowingly remove, obliterate, tamper with, or alter the mobile device identification number of a smart phone;
+(B)
+knowingly use, produce, traffic in, have control or custody of, or possess hardware or software, knowing it has been configured to engage in the conduct described in subparagraph (A); or
+(C)
+knowingly sell a smart phone for which the mobile device identification number is listed as stolen on a central equipment identity register.
+(2)
+Penalty
+Any person who violates paragraph (1) shall be fined under title 18, United States Code, imprisoned not more than 5 years, or both.
+(d)
+Rules of construction
+(1)
+Additional technologies or services
+Nothing in this section prohibits a provider of commercial mobile service or commercial mobile data service, device manufacturer, or operating system provider from offering a technology or service in addition to the anti-theft functionality required by subsection (b)(1).
+(2)
+Emergency communications
+Nothing in this section requires the use of a technology that is incompatible with, or renders it impossible to comply with, Federal or State law with regard toâ
+(A)
+the provision of emergency services through the 9â1â1 system, including text-to-9â1â1, bounce-back messages, and location accuracy requirements;
+(B)
+participation in the Wireless Emergency Alerts system; or
+(C)
+participation in other Federal, State, or local emergency alert and public safety warning systems.
+(3)
+No private right of action
+Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation promulgated under this section.
+(e)
+Definitions
+In this section:
+(1)
+Anti-theft functionality
+The term
+anti-theft functionality
+means, with respect to a smart phone, a functionality provided by the manufacturer or operating system provider thatâ
+(A)
+once downloaded to the phone and initiatedâ
+(i)
+has the capability, from a remote locationâ
+(I)
+to render the essential features of the phone inoperable to a person who is not an authorized user; and
+(II)
+to delete from the phone the personal information of the authorized users, except for any information necessary to permit the capability described in subclause (I) to be reversed as required by clause (ii); and
+(ii)
+permits the capability described in clause (i)(I) to be reversed if an authorized user of the phone obtains possession of the phone after the essential features of the phone have been rendered inoperable by such capability; and
+(B)
+may be designed so as to allow an authorized user to opt out of implementing the capability described in subparagraph (A)(i).
+(2)
+Authorized user
+The term
+authorized user
+means, with respect to a smart phoneâ
+(A)
+the person who holds the commercial mobile service or commercial mobile data service account for the phone;
+(B)
+if the phone is a phone for which particular amounts of service are purchased in advance, the person who owns the phone; or
+(C)
+any person who has been authorized by a person described in subparagraph (A) or (B) to use the phone.
+(3)
+Central equipment identity register
+The term
+central equipment identity register
+means a list of mobile device identification numbers that are associated with mobile devices that have been reported as lost, stolen, faulty, or otherwise unsuitable for use, including any such list that is a part of the GSMA Device Registry or any equivalent or successor registry or database.
+(4)
+Commercial mobile data service
+The term
+commercial mobile data service
+has the meaning given such term in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 (
+47 U.S.C. 1401
+).
+(5)
+Commercial mobile service
+The term
+commercial mobile service
+has the meaning given such term in section 332.
+(6)
+Essential features
+The term
+essential features
+means, with respect to a smart phone, features that provide the capability for a user to use the phone for voice communications, text messaging, Internet browsing, and accessing and using software applications. Such term does not include the features that provide the capability to operate the anti-theft functionality or to use the phone for emergency communications.
+(7)
+Mobile device identification number
+The term
+mobile device identification number
+means an international mobile equipment identity number, a mobile equipment identifier, an electronic serial number, or any other number or signal that identifies a specific mobile device and has the same function and purposes as an international mobile equipment identity number or a mobile equipment identifier.
+(8)
+Smart phone
+(A)
+In general
+The term
+smart phone
+means a hand-held mobile device thatâ
+(i)
+possesses advanced computing capability;
+(ii)
+is designed to enable the user to engage in voice communications using commercial mobile service;
+(iii)
+is capable of operating on a long-term evolution network or successor wireless data network communication standards; and
+(iv)
+may possess capabilities that include built-in applications, Internet access, Internet browsing, digital voice service, text messaging, and e-mail.
+(B)
+Exclusions
+Such term does not include a phone that offers only a limited capability or set of capabilities (such as placing voice calls and sending text messages), a laptop computer, a tablet device, or a device that has only electronic reading capability.
+.
+(b)
+Effective date
+(1)
+In general
+Except as provided in paragraph (2), section 345 of the Communications Act of 1934, as added by subsection (a) of this section, shall apply beginning on the date that is 2 years after the date of the enactment of this Act.
+(2)
+Anti-theft functionality; mobile device identification numbers
+Subsection (b) of such section 345 shall apply with respect to a smart phone that is manufactured on or after the date that is 2 years after the date of the enactment of this Act.

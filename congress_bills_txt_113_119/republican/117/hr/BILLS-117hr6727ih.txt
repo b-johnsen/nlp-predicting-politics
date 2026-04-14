@@ -1,0 +1,33 @@
+1.
+Prohibition on restricting use of convertible virtual currency by a person to purchase goods or services for the personâs own use
+(a)
+In general
+No agency head may prohibit or otherwise restrict the ability of a covered user toâ
+(1)
+use virtual currency or its equivalent for such userâs own purposes, such as to purchase real or virtual goods and services for the userâs own use; or
+(2)
+conduct transactions through a self-hosted wallet.
+(b)
+Definitions
+In this section:
+(1)
+Convertible virtual currencies
+A medium of exchange thatâ
+(A)
+has an equivalent value as currency (as defined in section 1010.100 of title 31, Code of Federal Regulations (or successor regulations)); or
+(B)
+acts as a substitute for currency but may not possess all the attributes (including legal tender status) specified under such section 1010.100.
+(2)
+Covered user
+The term
+covered user
+means a person that obtains convertible virtual currency to purchase goods or services on that personâs own behalf, without regard to the method in which such covered user obtained such convertible virtual currency.
+(3)
+Self-hosted wallet
+The term
+self-hosted wallet
+means an interfaceâ
+(A)
+used to secure and transfer convertible virtual currency; and
+(B)
+under which the owner of convertible virtual currency retains independent control over such convertible virtual currency that is secured by such digital interface.

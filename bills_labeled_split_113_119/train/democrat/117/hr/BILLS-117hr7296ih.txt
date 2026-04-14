@@ -1,0 +1,128 @@
+1.
+Short title
+This Act may be cited as the
+Government Ownership and Oversight of Data in Artificial Intelligence Act of 2022
+or the
+GOOD AI Act of 2022
+.
+2.
+Principles and policies for use of artificial intelligence in government
+(a)
+Definitions
+In this Act:
+(1)
+Agency
+The term
+agency
+has the meaning given the term in section 3502 of title 44, United States Code.
+(2)
+Appropriate congressional committees
+The term
+appropriate congressional committees
+meansâ
+(A)
+the Committee on Homeland Security and Governmental Affairs of the Senate; and
+(B)
+the Committee on Oversight and Reform of the House of Representatives.
+(3)
+Artificial intelligence
+The term
+artificial intelligence
+has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (
+10 U.S.C. 2358
+note).
+(4)
+Artificial intelligence system
+The term
+artificial intelligence system
+â
+(A)
+means any data system, software, application, tool, or utility that operates in whole or in part using dynamic or static machine learning algorithms or other forms of artificial intelligence, including a data system, software, application, tool, or utilityâ
+(i)
+that is established primarily for the purpose of researching, developing, or implementing artificial intelligence technology; and
+(ii)
+for which the artificial intelligence capability is integrated into another system or agency business process, operational activity, or technology system; and
+(B)
+does not include any common or commercial product within which artificial intelligence is embedded, such as a word processor or map navigation system.
+(5)
+Director
+The term
+Director
+means the Director of the Office of Management and Budget.
+(b)
+Guidance for agency use of artificial intelligence
+(1)
+In general
+In developing an update under section 104(d) of the AI in Government Act of 2020 (
+40 U.S.C. 11301
+note) to the memorandum issued under subsection (a) of that section, the Director shall considerâ
+(A)
+the considerations and recommended practices identified by the National Security Commission on Artificial Intelligence in the report entitled
+Key Considerations for Responsible Development and Fielding of AI
+, as updated in April 2021;
+(B)
+the principles articulated in Executive Order 13960 (85 Fed. Reg. 78939; relating to promoting the use of trustworthy artificial intelligence in the Federal Government); and
+(C)
+the input ofâ
+(i)
+the Privacy and Civil Liberties Oversight Board;
+(ii)
+relevant interagency councils, such as the Federal Privacy Council, the Chief Information Officers Council, and the Chief Data Officers Council;
+(iii)
+other governmental and nongovernmental privacy, civil rights, and civil liberties experts; and
+(iv)
+any other individual or entity the Director determines appropriate.
+(2)
+Sunset
+This subsection shall cease to have force or effect on the date that is 4 years after the date of enactment of this Act.
+(c)
+Artificial intelligence hygiene and protection of government information, privacy, civil rights, and civil liberties
+(1)
+Establishment
+Not later than 45 days after the date of enactment of this Act, the Director shall establish a working group to be known as the
+Artificial Intelligence Hygiene Working Group
+.
+(2)
+Membership
+The Director shall appoint members to the Artificial Intelligence Hygiene Working Group from among members of appropriate interagency councils.
+(3)
+Implementation
+Not later than 1 year after the date of enactment of this Act, the Director, in consultation with the Artificial Intelligence Hygiene Working Group, shall implement a means by which toâ
+(A)
+ensure that contracts for the acquisition of artificial intelligence and artificial intelligence systemsâ
+(i)
+align with the memorandum issued, and periodically updated, by the Director under subsections (a) and (d), respectively, of section 104 of the AI in Government Act of 2020 (
+40 U.S.C. 11301
+note);
+(ii)
+address the protection of privacy, civil rights, and civil liberties;
+(iii)
+address the ownership and security of data and other information created, used, processed, stored, maintained, disseminated, disclosed, or disposed of by a contractor or subcontractor on behalf of the Federal Government; and
+(iv)
+address requirements for securing the training data, algorithms, and other components of any artificial intelligence system againstâ
+(I)
+misuse;
+(II)
+unauthorized alteration;
+(III)
+degradation; or
+(IV)
+being rendered inoperable; and
+(B)
+address any other issue or concern the Director determines relevant to ensureâ
+(i)
+the appropriate use of artificial intelligence and artificial intelligence systems; and
+(ii)
+the protection of privacy, Federal Government data, and other information of the Federal Government.
+(4)
+Approaches
+In carrying out paragraph (3), the Director may use 1 or more approach and tailor requirements based on risk or any other factor determined relevant by the Director and the Artificial Intelligence Hygiene Working Group.
+(5)
+Updates
+On a continuous basis, not later than 2 years after the date of enactment of this Act, and not less frequently than once every 2 years thereafter, the Director shall update the means implemented under paragraph (3).
+(6)
+Briefing
+Not later than 90 days after the date of enactment of this Act, quarterly thereafter until the date on which the Director implements the means required under paragraph (3), and annually thereafter, the Director shall brief the appropriate congressional committees on the implementation of this subsection.
+(7)
+Sunset
+This subsection shall cease to have force or effect on the date that is 10 years after the date of enactment of this Act.

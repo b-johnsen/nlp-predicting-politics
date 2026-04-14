@@ -1,0 +1,2038 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+National Quantum Initiative Reauthorization Act of 2026
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Purposes.
+Sec. 4. National Quantum Initiative Program.
+Sec. 5. National Quantum Coordination Office.
+Sec. 6. Subcommittee on Quantum Information Science.
+Sec. 7. National Quantum Initiative Advisory Committee.
+Sec. 8. Subcommittee on the Economic and Security Implications of Quantum Information Science.
+Sec. 9. International Quantum Cooperation Strategy.
+Sec. 10. Prize challenges.
+Sec. 11. Sunset of National Quantum Initiative.
+Sec. 12. National Institute of Standards and Technology activities and quantum consortium.
+Sec. 13. National Institute of Standards and Technology Quantum Centers.
+Sec. 14. National Science Foundation quantum information science research and education activities.
+Sec. 15. Multidisciplinary centers for quantum research and education.
+Sec. 16. Quantum Reskilling, Education, and Workforce (QREW) Coordination Hub, quantum testbeds, and research security.
+Sec. 17. National Science Foundation cryptography research.
+Sec. 18. National Aeronautics and Space Administration quantum activities.
+Sec. 19. Comptroller General review and report.
+Sec. 20. Review of regulatory barriers to quantum information science and technology development.
+Sec. 21. Sunset of National Nanotechnology Program.
+Sec. 22. Clerical amendments.
+2.
+Definitions
+Section 2 of the National Quantum Initiative Act (
+15 U.S.C. 8801
+) is amendedâ
+(1)
+by redesignating paragraphs (4), (5), (6), (7), the first paragraph (8) (relating to the definition of the
+Subcommittee on Economic and Security Implications
+), and the second paragraph (8) (relating to the definition of the
+Subcommittee on Quantum Information Science
+) as paragraphs (7), (9), (12), (13), (17), and (18), respectively;
+(2)
+by inserting after paragraph (3) the following:
+(4)
+Federal laboratory
+The term
+Federal laboratory
+has the meaning given such term in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3703
+).
+(5)
+Foreign country of concern
+The term
+foreign country of concern
+meansâ
+(A)
+a country that is a covered nation (as such term is defined in section 4872(d) of title 10, United States Code); and
+(B)
+any country that the Secretary of Commerce, in consultation with the Secretary of Defense, the Secretary of State, and the Director of National Intelligence, determines to be engaged in conduct that is detrimental to the national security or foreign policy of the United States.
+(6)
+Foreign entity of concern
+The term
+foreign entity of concern
+means a foreign entity that isâ
+(A)
+designated as a foreign terrorist organization by the Secretary of State under section 219(a) of the Immigration and Nationality Act (
+8 U.S.C. 1189(a)
+);
+(B)
+included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (commonly known as the
+SDN list
+);
+(C)
+owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is a covered nation (as such term is defined in section 4872 of title 10, United States Code);
+(D)
+alleged by the Attorney General to have been involved in activities for which a conviction was obtained underâ
+(i)
+chapter 37
+of title 18, United States Code (commonly known as the
+Espionage Act
+);
+(ii)
+section 951 or 1030 of title 18, United States Code;
+(iii)
+chapter 90
+of title 18, United States Code (commonly known as the
+Economic Espionage Act of 1996
+);
+(iv)
+the Arms Export Control Act (
+22 U.S.C. 2751 et seq.
+);
+(v)
+section 224, 225, 226, 227, or 236 of the Atomic Energy Act of 1954 (
+42 U.S.C. 2274
+, 2275, 2276, 2277, and 2284);
+(vi)
+the Export Control Reform Act of 2018 (
+50 U.S.C. 4801 et seq.
+); or
+(vii)
+the International Emergency Economic Powers Act (
+50 U.S.C. 1701 et seq.
+); or
+(E)
+determined by the Secretary of Commerce, in consultation with the Secretary of Defense and the Director of National Intelligence, to be engaged in unauthorized conduct that is detrimental to the national security or foreign policy of the United States.
+;
+(3)
+in paragraph (7), as so redesignated, by striking
+(a)
+each place it appears;
+(4)
+by inserting after paragraph (7), as so redesignated, the following new paragraph:
+(8)
+National Laboratory
+The term
+National Laboratory
+has the meaning given such term in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+).
+;
+(5)
+by inserting after paragraph (9), as so redesignated, the following:
+(10)
+Quantum applications
+The term
+quantum applications
+means uses of quantum information science, engineering, and technology, including quantum algorithms and software, quantum computing and quantum-classical hybrids, quantum sensing, quantum networking, quantum encryption, quantum simulation, or quantum communications applications.
+(11)
+Quantum computing
+The term
+quantum computing
+means any of a variety of quantum computing technologies, including quantum annealing and quantum gate-model systems that utilize a variety of architectures, such as superconductors, ion traps, photonics, neutral atoms, atomic spin, electron spin, or topological qubits.
+;
+(6)
+by amending paragraph (12), as so redesignated, to read as follows:
+(12)
+Quantum information science, engineering, and technology
+The term
+quantum information science, engineering, and technology
+means the understanding, translation, use, or application of the laws of quantum physics for the storage, transmission, manipulation, computing, simulation, or measurement of information.
+; and
+(7)
+by inserting after paragraph (13), as so redesignated, the following:
+(14)
+Quantum networking
+The term
+quantum networking
+means the transmission of quantum information and the distribution and use of entanglement across nodes to enable new information technology applications and fundamental science.
+(15)
+Quantum sensing
+The term
+quantum sensing
+â
+(A)
+means the use of quantum mechanics to enhance or enable new sensors; and
+(B)
+can include uses of superposition and entanglement, nonclassical states, and advances in accuracy and precision enabled by quantum control.
+(16)
+STEM
+The term
+STEM
+means the academic and professional disciplines of science, technology, engineering, and mathematics, including computer science.
+(17)
+Supply chain shock
+The term
+supply chain shock
+â
+(A)
+means an event causing severe or serious disruption to normal operations or capacity in a supply chain; and
+(B)
+includesâ
+(i)
+a natural disaster;
+(ii)
+a pandemic;
+(iii)
+a biological threat;
+(iv)
+a cyber attack;
+(v)
+a geopolitical conflict;
+(vi)
+a terrorist or geopolitical attack;
+(vii)
+a trade disruption caused byâ
+(I)
+a foreign country of concern; or
+(II)
+an entity or an individual subject to the jurisdiction of such a country; and
+(viii)
+an event for which the President declares a major disaster or an emergency under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (
+42 U.S.C. 5170
+;
+42 U.S.C. 5191
+).
+.
+3.
+Purposes
+Section 3 of the National Quantum Initiative Act (
+15 U.S.C. 8802
+) is amendedâ
+(1)
+in paragraph (1)â
+(A)
+by amending subparagraph (A) to read as follows:
+(A)
+to expand the number of researchers, educators, and students with training in quantum information science, engineering, and technology to develop a domestic workforce pipeline and retain international talent to the extent consistent with national security and international competitiveness;
+;
+(B)
+in subparagraph (B), by striking
+science at the
+and inserting
+science, engineering, and technology at the primary, secondary,
+;
+(C)
+in subparagraph (D)â
+(i)
+by striking
+science and technology
+and inserting
+science, engineering, and technology
+; and
+(ii)
+by striking
+and
+after the semicolon; and
+(D)
+by adding at the end the following:
+(F)
+to facilitate development of quantum applications, including quantum-hybrid applications, to promote innovation; and
+(G)
+to support advancements in emerging technologies that could benefit from or benefit the development of quantum technology and promote research, development, demonstration, and application of such emerging technologies in quantum information science, engineering, and technology and scientific discovery.
+;
+(2)
+in paragraph (2), by striking
+science and technology
+and inserting
+science, engineering, and technology
+;
+(3)
+in paragraph (3), by striking
+science and technology
+and inserting
+science, engineering, and technology
+;
+(4)
+in paragraph (4)â
+(A)
+by inserting
+National Laboratories,
+after
+Federal laboratories,
+; and
+(B)
+by striking
+and
+after the semicolon;
+(5)
+in paragraph (5)â
+(A)
+in the matter preceding subparagraph (A)â
+(i)
+by inserting
+partnerships, research collaborations, and
+after
+international
+; and
+(ii)
+by striking
+science and technology security
+and inserting
+science, engineering, and technology
+;
+(B)
+in subparagraph (A), by striking
+and
+after the semicolon;
+(C)
+in subparagraph (B), by striking the period at the end and inserting a semicolon; and
+(D)
+by adding at the end the following:
+(C)
+to facilitate cooperation in the advancement of quantum capabilities among the United States and its strategic allies and partners to strengthen and secure the quantum-relevant supply chain and related ecosystem; and
+(D)
+to coordinate on potential export or strategic trade controls where appropriate; and
+; and
+(6)
+by adding at the end the following:
+(6)
+improving the maturity and scale of the quantum industry.
+.
+4.
+National Quantum Initiative Program
+Subsection (b) of section 101 of the National Quantum Initiative Act (
+15 U.S.C. 8811
+) is amendedâ
+(1)
+in paragraph (1)â
+(A)
+by striking
+development
+and inserting
+research development, and near-, medium-, and long-term demonstration
+; and
+(B)
+by striking
+information science and technology
+;
+(2)
+in paragraph (2)â
+(A)
+by striking
+science and technology
+and inserting
+science, engineering, and technology
+; and
+(B)
+by inserting
+infrastructure,
+after
+demonstration,
+;
+(3)
+in paragraph (3)â
+(A)
+by inserting
+and retain
+after
+to develop
+; and
+(B)
+by striking
+science and technology
+and inserting
+science, engineering, and technology
+;
+(4)
+by amending paragraph (4) to read as follows:
+(4)
+provide for interagency planning and coordination of Federal quantum information science, engineering, and technology research, development, demonstration, standards engagement, and other activities under the Program, including activities authorized pursuant to section 234 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (
+Public Law 115â232
+;
+10 U.S.C. 4001
+note), quantum educational activities and programs authorized pursuant to section 10661 of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19261
+), and activities conducted at any Federal laboratory or National Laboratory;
+; and
+(5)
+in paragraph (5)â
+(A)
+by striking
+industry and universities
+and inserting
+industry, universities, small businesses, and strategic allies and partners
+; and
+(B)
+by inserting
+, including human resources
+after
+resources
+.
+5.
+National Quantum Coordination Office
+Section 102 of the National Quantum Initiative Act (
+15 U.S.C. 8812
+) is amendedâ
+(1)
+in subsection (a)(2)â
+(A)
+in subparagraph (A), by inserting
+who shall be
+before
+appointed
+; and
+(B)
+by amending subparagraph (B) to read as follows:
+(B)
+staff comprised of employees detailed from the Federal departments and agencies specified in section 103(b).
+; and
+(2)
+in subsection (b)â
+(A)
+in paragraph (3), by striking
+science and technology
+and inserting
+science, engineering, and technology research, development, workforce, and international
+;
+(B)
+by amending paragraph (4) to read as follows:
+(4)
+ensure coordination among the collaborative ventures or consortia established under this Act, including under section 201(a), the Multidisciplinary Centers for Quantum Research and Education established under section 302(a), and the National Quantum Information Science Research Centers established under section 402(a), and the Quantum Economic Development Consortium;
+;
+(C)
+in paragraph (6), by striking
+; and
+and inserting a semicolon;
+(D)
+in paragraph (7)â
+(i)
+by inserting
+nonprofit research organizations,
+after
+universities,
+; and
+(ii)
+by striking the period at the end and inserting a semicolon; and
+(E)
+by adding after paragraph (7), the following:
+(8)
+promote understanding and adoption of viable quantum capabilities that strengthen the United States economy, as may be appropriate;
+(9)
+track, monitor, and promote policies that will ensure the stability of the United States quantum workforce, quantum supply chain, domestic quantum industry, and international trade; and
+(10)
+ensure coordination and avoid unnecessary duplication of existing quantum-related activities, other activities carried out under this Act, and other related programs, as appropriate.
+.
+6.
+Subcommittee on Quantum Information Science
+Section 103 of the National Quantum Initiative Act (
+15 U.S.C. 8813
+) is amendedâ
+(1)
+in subsection (b)â
+(A)
+in paragraph (8), by striking
+and
+after the semicolon;
+(B)
+by redesignating paragraph (9) as paragraph (12); and
+(C)
+by inserting after paragraph (8) the following new paragraphs:
+(9)
+the Department of Health and Human Services;
+(10)
+the Department of State;
+(11)
+the Department of Homeland Security; and
+;
+(2)
+in subsection (d)â
+(A)
+in paragraph (1), by striking
+the quantum information science and technology research
+and inserting
+quantum information science, engineering, and technology research and quantum application development, and demonstration
+;
+(B)
+in paragraph (4)â
+(i)
+by inserting
+, engineering, and technology
+after
+science
+; and
+(ii)
+by inserting
+skillset
+before
+diversity
+;
+(C)
+in paragraph (5)â
+(i)
+by inserting
+, engineering, and technology
+after
+science
+; and
+(ii)
+by inserting
+and conduct comparative benchmarking of Federal investments and research strategies relative to those of strategic allies and partners of the United States and other countries,
+after
+development efforts
+;
+(D)
+in paragraph (6)â
+(i)
+by striking
+science and technology
+and inserting
+science, engineering, and technology
+; and
+(ii)
+by striking
+and
+after the semicolon;
+(E)
+in paragraph (7)â
+(i)
+by inserting
+, engineering and technology
+after
+science
+; and
+(ii)
+by striking the period and inserting
+; and
+; and
+(F)
+by adding at the end the following new paragraph:
+(8)
+facilitate interagency partnership opportunities to advance quantum applications related to advanced manufacturing, biotechnology, chemistry, space, and other sectors.
+;
+(3)
+in subsection (g)(2)â
+(A)
+in paragraph (A), by inserting
+numbers
+after
+budget
+;
+(B)
+in paragraph (B), by inserting
+numbers
+after
+budget
+; and
+(C)
+by adding at the end the following new paragraphs:
+(D)
+Metrics for measuring the impact of the Program for the current fiscal year, for each Federal department and agency described in subsection (b).
+(E)
+Value proposition as a result of each interagency partnership opportunity.
+;
+(4)
+in subsection (h)(2)(A), by inserting
+, including a description of agency roles and responsibilities
+before the period; and
+(5)
+by adding at the end the following new subsection:
+(i)
+Quantum use cases
+(1)
+In general
+The Subcommittee shall identify potential use cases for quantum technologies that could advance the missions of Federal departments and agencies participating in the Program.
+(2)
+Quantum on-ramp
+For each potential use case identified pursuant to paragraph (1) for a Federal department or agency, the head of the Federal department or agency may, in consultation with the Subcommittee, develop a plan to enable such department or agency to address the potential use case.
+(3)
+Comparison to artificial intelligence technologies
+For any potential use case identified under paragraph (1) for a Federal department or agency, the head of the department or agency may, in consultation with the Subcommittee, consider the quantum use caseâs interplay with artificial intelligence and compare its anticipated costs, functionality, and benefits.
+(4)
+Reporting
+The Subcommittee, as part of the annual report on the budget for the Program under subsection (g), shall report progress in carrying out the activities under this subsection, including information relating to the following:
+(A)
+The potential use cases identified pursuant to paragraph (1).
+(B)
+The status of plans developed pursuant to paragraph (2).
+(C)
+Any obstacles to addressing such potential use cases, including lack of funding.
+.
+7.
+National Quantum Initiative Advisory Committee
+Section 104 of the National Quantum Initiative Act (
+15 U.S.C. 8814
+) is amendedâ
+(1)
+by amending subsection (b) to read as follows:
+(b)
+Qualifications
+The Advisory Committee shall consist of members, appointed by the President, whoâ
+(1)
+areâ
+(A)
+representative of industry;
+(B)
+small- and medium-sized businesses; and
+(C)
+universities and Federal laboratories that are qualified to provide advice and information on quantum information science, engineering, and technology research, development, demonstrations, standards, STEM education and workforce, technology transfer, economic and national security, or research security.
+(2)
+may hold doctoral degrees in physical sciences, mathematics, computer science, or engineering, or related fields.
+;
+(2)
+in subsection (d)(2)â
+(A)
+in subparagraph (A), by striking
+science and technology
+and inserting
+science, engineering, and technology
+;
+(B)
+by redesignating subparagraphs (D), (E), (F), and (G) as subparagraphs (F), (G), (H), and (I), respectively;
+(C)
+by inserting after subparagraph (C) the following new subparagraphs:
+(D)
+other countriesâ quantum programs and the progress of such countries and their programs, based on publicly available data, including metrics such as published government funding commitments, research publications, patent filings, academic and industry partnerships, and announced strategic initiatives and milestones, in comparison to the progress of the Program;
+(E)
+the competitiveness and capabilities of the United States in quantum technologies, with respect to quantum computing, sensing, and networking;
+;
+(D)
+in subparagraph (F), as so redesignatedâ
+(i)
+by striking
+to
+and inserting
+promote innovation, foster a robust United States quantum industry, and
+; and
+(ii)
+by striking
+science and technology
+and inserting
+science, engineering, and technology
+;
+(E)
+in subparagraph (G), as so redesignated, by inserting
+, including to address any gaps that may exist in basic research, capabilities, workforce, supply chain, or coordination among participating Federal agencies
+before the semicolon;
+(F)
+in subparagraph (H), as so redesignated, by striking
+open standards for, quantum information science and technology; and
+and inserting
+international standards in open and transparent standardization systems for quantum information science, engineering, and technology;
+;
+(G)
+in subparagraph (I), as so redesignated, by striking
+societal
+; and
+(H)
+by adding at the end the following new subparagraphs:
+(J)
+the domestic and international cooperation needs and goals of the Program, including those related to infrastructure and the supply chain of quantum information science, engineering, and technology; and
+(K)
+the degree to which quantum information science, engineering, and technologyâ
+(i)
+is enhancing or can enhanceâ
+(I)
+the capabilities of the United States advanced industrial economy; and
+(II)
+Federal, State, and local government capabilities and services; and
+(ii)
+can protect or optimize critical infrastructure (as such term is defined in section 1016(e) of
+Public Law 107â56
+(
+42 U.S.C. 5195c(e)
+)).
+;
+(3)
+in subsection (e)â
+(A)
+by inserting
+through December 31, 2030
+after
+thereafter
+; and
+(B)
+by adding at the end the following new sentence:
+In the first such report required after the date of the enactment of the
+National Quantum Initiative Reauthorization Act of 2026
+, the Advisory Committee shall assess the benefits and opportunities to strengthen quantum communications corridors in which Federal laboratories, institutions of higher education, and other entities conducting quantum information science, engineering, and technology research are connected via quantum communication networks capable of securely transmitting information.
+;
+(4)
+by redesignating subsections (e) through (g) as subsections (f) through (h), respectively; and
+(5)
+by inserting after subsection (d) the following:
+(e)
+Performance and usefulness assessment of National Quantum Initiative Program
+(1)
+Annual evaluation required
+Not less frequently than once each year, the Advisory Committee shall, in coordination with the Subcommittee on Quantum Information Science, conduct an evaluation of the effectiveness, progress, and usefulness of activities carried out under the Program.
+(2)
+Elements
+Each evaluation under paragraph (1) shall assessâ
+(A)
+which Federal programs or activities within the Program have made measurable progress toward program goals;
+(B)
+which Federal programs within the Program have produced tangible scientific, workforce, or commercial outcomes;
+(C)
+which programs or activities within the Program have overlapping missions or duplicative structures;
+(D)
+resource utilization and return on investment of each major component of the Program; and
+(E)
+barriers to performance or implementation of the Program, including structural or administrative challenges.
+(3)
+Report to Congress
+Not later than March 1 of each year, the Advisory Committee shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report summarizing the findings of the Advisory Committee with respect to the evaluation most recently conducted under paragraph (1), including specific recommendations forâ
+(A)
+improvements to the Program;
+(B)
+consolidation or termination of programs or activities within the Program; and
+(C)
+realignment of funding to high-impact areas within the Program.
+(4)
+Public summary
+The Advisory Committee shall make a public-facing summary of each report submitted under paragraph (3) available on the website of the Advisory Committee to promote transparency and accountability.
+.
+8.
+Subcommittee on the Economic and Security Implications of Quantum Information Science
+Section 105 of the National Quantum Initiative Act (
+15 U.S.C. 8814a
+) is amendedâ
+(1)
+in subsection (b)â
+(A)
+in paragraph (10), by striking
+and
+after the semicolon;
+(B)
+by redesignating paragraph (11) as paragraph (15); and
+(C)
+by inserting after paragraph (10) the following new paragraphs:
+(11)
+the Department of State;
+(12)
+the National Aeronautics and Space Administration; and
+; and
+(2)
+in subsection (c)â
+(A)
+in paragraph (1), by striking
+information science
+and inserting
+information science, engineering, and technology
+;
+(B)
+in paragraph (2), by inserting
+or to supply chains
+before the semicolon;
+(C)
+in paragraph (3), by inserting
+or supply chains
+before the semicolon;
+(D)
+in paragraph (5)â
+(i)
+by inserting
+and engineering
+after
+quantum information science
+; and
+(ii)
+by inserting
+any
+before
+export controls
+;
+(E)
+in paragraph (6), by striking
+information science
+and inserting
+information science, engineering, and technology
+;
+(F)
+in paragraph (7), by striking
+and
+after the semicolon;
+(G)
+in paragraph (8)â
+(i)
+by striking
+information science
+and inserting
+information science, engineering, and technology
+; and
+(ii)
+by striking the period and inserting a semicolon; and
+(H)
+by adding at the end the following:
+(9)
+in coordination with the Subcommittee on Quantum Information Science, identify opportunities to increase coordination between civilian, military, and intelligence quantum research entities, reduce unnecessary duplicative quantum research activities, and facilitate collaboration between quantum research agencies with specialized capabilities or expertise in one or more aspects of quantum information science, engineering, and technology; and
+(10)
+recommend strategies for attracting and retaining students and scholars with expertise in quantum related fields to Federal departments and agencies.
+.
+9.
+International Quantum Cooperation Strategy
+The National Quantum Initiative Act (
+15 U.S.C. 8801 et seq.
+) is amended by inserting after section 105 the following new section:
+105A.
+International Quantum Cooperation Strategy
+(a)
+Strategy required
+Not later than one year after the date of the enactment of this section, the Director of the Office of Science and Technology Policy shall, in consultation with the Secretary of Commerce, the Secretary of State, the Secretary of Energy, the Director of the National Science Foundation, the Director of the National Institute of Standards and Technology, and the Administrator of the National Aeronautics and Space Administration, and the heads of other Federal agencies, as appropriate, develop and submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Foreign Relations of the Senate, and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a strategyâ
+(1)
+to establish collaborative international partnerships to advance research and development, testing and evaluation, and interoperability in quantum information science, engineering, and technology with allies and partners of the United States, and other countries, when in the security, strategic, technological, and scientific interests of the United States;
+(2)
+to establish collaborative international partnerships, including co-funded international programs, to advance research and development, testing and evaluation, and interoperability in quantum information science, engineering, and technology with allies and partners of the United States, and other countries, when in the security, strategic, technological, and scientific interests of the United States;
+(3)
+to ensure continued United States participation in bilateral and multilateral efforts to advance quantum information science, engineering, and technology on the international stage;
+(4)
+to promote the integrity and impartiality of international standards organizations and processes related to quantum information science, engineering, and technology; and
+(5)
+to ensure ethical application of quantum information science, engineering, and technology to protect civil liberties and basic human rights.
+(b)
+Designation
+The strategy under this subsection shall be known as the
+International Quantum Cooperation Strategy
+(in this section referred to as the
+Strategy
+).
+(c)
+Elements
+In the development of the Strategy, the Director of the Office of Science and Technology Policy, the National Quantum Coordination Office, the Subcommittee on Quantum Information Science, the Subcommittee on Economic and Security Implications, and the relevant agencies shall consider including the following:
+(1)
+The establishment of international partnerships to advance research and development in quantum information science, engineering, and technology.
+(2)
+Key strategic allies and partners of the United States that have demonstrated unique capabilities in one or more areas of quantum information science, engineering, and technology.
+(3)
+Efforts and plans to address risks to the national security and economic interests of the United States during development and deployment of quantum technologies worldwide, including plans for diplomatic engagement with allies and partners, and other countries.
+(4)
+Efforts and plans to promote global development and deployment of quantum technologies, including through international engagement and leadership in the development of international standards that are aligned with United States national interests.
+(5)
+Efforts and plans to develop, attract, and retain international talent.
+(6)
+The ability and risks of domestic manufacturers and suppliers and those of allies and partners of the United States to meet the needs of the global quantum supply chain, including raw materials such as Heliumâ3, plans for engagement with allies and partners, manufacturers, and suppliers, and options to mitigate gaps and vulnerabilities in the global quantum supply chain.
+(7)
+A plan to safeguard research and technology supported through international cooperation, as appropriate, in whole or in part, including in quantum technologies critical to national security, from malign influence, theft, or exfiltration by foreign entities of concern.
+(8)
+As necessary, a description of such legislative or administrative action needed to carry out the Strategy.
+(d)
+Briefing
+Not later than 30 days after the date on which the Strategy is completed, the Director shall brief the committees specified in subsection (a) on the Strategy.
+.
+10.
+Prize challenges
+The National Quantum Initiative Act (
+15 U.S.C. 8801 et seq.
+) is amendedâ
+(1)
+by redesignating section 106 as section 107; and
+(2)
+by inserting after section 105A, as added by section 9, the following:
+106.
+National quantum prize challenges
+(a)
+In general
+Subject to the availability of appropriations, any head of a Federal agency with a representative serving on the Subcommittee on Quantum Information Science established under section 103, may, individually or in cooperation with one or more heads of Federal agenciesâ
+(1)
+conduct a prize competition under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3719
+), or such other prize competition authority as may be available to the head of an agency, to dramatically accelerate the development of applications and algorithms in quantum information science, engineering, and technology; and
+(2)
+define a measurable set of performance goals for participants in the prize competitions to demonstrate their solutions on a level playing field while making a significant advancement over the current state of the art.
+(b)
+Purpose
+Any prize competition carried out under subsection (a) shall be for the purpose of stimulating innovation to advance the ability of the United States to achieve high-priority breakthroughs for applications in quantum information science, engineering, and technology, such as in quantum computing, quantum sensing, quantum communications, quantum networking, quantum algorithms, and quantum cryptography.
+(c)
+Coordination with subcommittees
+Each prize competition conducted under subsection (a) may be conducted in coordination with members of the Subcommittee on Quantum Information Science and the Subcommittee on the Economic and Security Implications of Quantum Information Science.
+(d)
+Recommendations
+To assist in the administration of this section, the Subcommittee on Quantum Information Science may provide recommendations on key challenges in quantum information science, engineering, and technology that would be well-suited for a prize competition under subsection (a). The recommendations shall include a scope for efforts carried out under such subsection.
+.
+11.
+Sunset of National Quantum Initiative
+Subsection (a) of section 107 of the National Quantum Initiative Act (
+15 U.S.C. 8815
+), as redesignated by section 10, is amended to read as follows:
+(a)
+In general
+Except as provided in subsection (b), the authority to carry out sections 101, 102, 103, 104, and 105 shall terminate on December 30, 2034.
+.
+12.
+National Institute of Standards and Technology activities and quantum consortium
+Section 201 of the National Quantum Initiative Act (
+15 U.S.C. 8831
+) is amendedâ
+(1)
+in subsection (a)â
+(A)
+in paragraph (1), by striking
+science and technology
+and inserting
+science, engineering, and technology
+;
+(B)
+in paragraph (2)â
+(i)
+by inserting
+attract, educate, and
+before
+train
+; and
+(ii)
+by striking
+science and technology
+and inserting
+science, engineering, and technology
+;
+(C)
+by amending paragraph (3) to read as follows:
+(3)
+shall carry out research to facilitate the development and standardization, as appropriate, of quantum cryptography, post-quantum cryptography (as such term is defined in section 3 of the Quantum Computing Cybersecurity Preparedness Act (
+6 U.S.C. 1526
+note;
+Public Law 117â260
+)), and practices to replace cryptographic keys or algorithms with minimal disruption to current applications and systems;
+;
+(D)
+by amending paragraph (4) to read as follows:
+(4)
+shall carry out research, development, and demonstration projects, as appropriate, to facilitate the development of quantum applications, including research on quantum supply chain enabling technologies, such as lasers, cryogenics, and other supporting technologies;
+;
+(E)
+by redesignating paragraphs (5), (6), and (7) as paragraphs (8), (9), and (11), respectively;
+(F)
+by inserting the following after paragraph (4) the following:
+(5)
+shall carry out, in coordination with the Director of the Defense Advanced Research Projects Agency, research to support the measurement of comparative performance and progress of quantum technologies;
+(6)
+shall promote United States participation in international standards organizations related to quantum information science, engineering, and technology;
+(7)
+shall establish or expand partnerships with the public sector and private sectorâ
+(A)
+to accelerate the development of domestic quantum supply chain and supply chain-supporting technologies;
+(B)
+to reduce quantum supply chain vulnerabilities; and
+(C)
+to avoid offshoring to, or dependence on, countries of concern for critical components of capabilities in the quantum supply chain;
+;
+(G)
+in paragraph (8), as so redesignated, by striking
+infrastructure
+and inserting
+, communications, sensing, and computing
+;
+(H)
+in paragraph (9), as so redesignatedâ
+(i)
+by inserting
+nonprofit research organizations,
+after
+universities,
+; and
+(ii)
+by striking
+and engineering; and
+and inserting
+, engineering, and technology and expanding the domestic STEM workforce;
+; and
+(I)
+by inserting after paragraph (9), as so redesignated, the following:
+(10)
+shall establish such infrastructure as is necessary to carry out title II; and
+;
+(2)
+in subsection (b)â
+(A)
+in paragraph (1)â
+(i)
+by striking
+future
+and inserting
+research
+; and
+(ii)
+by striking
+science and technology
+and inserting
+science, engineering, and technology
+;
+(B)
+in paragraph (2)â
+(i)
+by amending subparagraph (A) to read as follows:
+(A)
+to gather and assess information on the quantum industry to address the needs identified in paragraph (1);
+; and
+(ii)
+by striking subparagraphs (B) and (C) and inserting the following new subparagraphs:
+(B)
+to provide recommendations regarding how the National Institute of Standards and Technology, the Program, and other Federal agencies, as appropriate, can address the gaps in the research necessary to meet the needs identified in paragraph (1) and accelerate real-world uses of quantum information science, engineering, and technology;
+(C)
+to identify enabling technologies and the relevant supply chain essential to foster research and industrial competitiveness in quantum information science, engineering, and technology, and communicate findings to Federal agencies and other domestic and international stakeholders; and
+(D)
+to assess and identify key areas for establishing, expanding, or developing international partnerships that will meet the needs identified in paragraph (1).
+;
+(C)
+in paragraph (3)â
+(i)
+by striking
+Not later than 2 years after the date of enactment of this Act, the
+and inserting
+The
+; and
+(ii)
+by inserting
+periodically, but not less frequently than once every five years,
+after
+shall
+; and
+(D)
+by adding at the end the following new paragraph:
+(4)
+Sense of Congress on coordination
+It is the sense of Congress that, as may be appropriate, Federal agencies that are involved in the transition or translation of research results to practical quantum applications or that have a mission that could benefit from the development of quantum technologies, should engage with the consortium to inform and accelerate progress in such areas.
+; and
+(3)
+by striking subsection (c) and inserting the following new subsections:
+(c)
+Quantum supply chains
+(1)
+Mapping and planning
+The Secretary of Commerce shall carry out the following activities:
+(A)
+Assess, map, and model supply chains for quantum networking, quantum computing, quantum communications, quantum simulation, and quantum sensing technologies and applications.
+(B)
+Identify current and future high-priority gaps and vulnerabilities in quantum supply chains, such asâ
+(i)
+single points of failure, sole source, consolidated manufacturing, or where there are limited United States and partner national suppliers; and
+(ii)
+critical components, elements, materials, equipment, and infrastructure.
+(C)
+Identify potential supply chain shocks to the quantum supply chain that may disrupt, strain, or eliminate the supply chain.
+(2)
+Study on critical quantum supply chains
+Not later than 2 years after the date of the enactment of the
+National Quantum Initiative Reauthorization Act of 2026
+, the Secretary of Commerce and the Secretary of Energy shall jointlyâ
+(A)
+complete a study documenting the critical quantum supply chains and identified high-priority gaps and vulnerabilities; and
+(B)
+submit to the appropriate committees of Congress a report on the findings with respect to the study completed pursuant to subparagraph (A).
+(3)
+Recommendations for avoiding shocks to quantum supply chains
+Not later than 2 years after the date of the enactment of the
+National Quantum Initiative Reauthorization Act of 2026
+, the Secretary of Commerce shall, in coordination with the Secretary of Energy, the Director of the National Science Foundation, the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the Administrator of the Small Business Administration, and the heads of such other Federal agencies as the Secretary of Commerce considers relevant, develop and submit to the appropriate committees of Congress specific recommendations for legislative or administrative action to mitigate harm to quantum supply chains.
+(4)
+Plan to strengthen and secure quantum supply chains
+Not later than 3 years after the date of the enactment of the
+National Quantum Initiative Reauthorization Act of 2026
+, the Secretary of Commerce shall submit to the appropriate committees of Congress a plan identifying legislative or administrative opportunities to strengthen supply chains and build capacity.
+(d)
+International quantum research and metrology
+(1)
+In general
+The Director of the National Institute of Standards and Technology shall, in coordination with the Secretary of State and the Director of the National Science Foundation, promote, establish, and support international quantum information science, engineering, and technology research, metrology research, and standardization, as appropriate, to enhance international cooperation, meet United States commitments, and support United States engagement in international voluntary standards for quantum information science, engineering, and technology.
+(2)
+Alignment
+In carrying out this section, the Director of the National Institute of Standards and Technology shall ensure alignment with the National Quantum Information Science Strategy and the U.S. Government National Standards Strategy for Critical and Emerging Technology, or successor strategies.
+(3)
+Prohibitions
+(A)
+Confucius institute
+None of the funds made available under this subsection may be obligated or expended to an institution of higher education that maintains a contract or agreement between such institution and a Confucius Institute (as defined in section 10339A of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19039
+)) or any successor of a Confucius Institute.
+(B)
+Foreign countries or entities of concern
+None of the funds made available under this subsection may be obligated or expended to promote, establish, or finance quantum research activities between a United States entity and a foreign country of concern or foreign entity of concern, including the entityâs subsidiaries, except such restriction shall not apply to participation by award recipients in consensus-based international standardization activities.
+(e)
+Post-Quantum cryptography deployment
+(1)
+Definition of post-quantum cryptography
+In this subsection, the term
+post-quantum cryptography
+has the meaning given such term in section 3 of the Quantum Computing Cybersecurity Preparedness Act (
+Public Law 117â260
+;
+6 U.S.C. 1526
+note).
+(2)
+In general
+The Director of the National Institute of Standards and Technology shall, in consultation with the Secretary of Homeland Security, the heads of Sector Risk Management Agencies (as such term is defined in section 2200 of the Homeland Security Act of 2002 (
+6 U.S.C. 650
+)), and private sector entities, as the Director considers appropriate, promote the voluntary development, adoption, and deployment of voluntary standards relating to post-quantum cryptography, including byâ
+(A)
+disseminating and making publicly available guidelines and resources to help organizations adopt and deploy standards relating to post-quantum cryptography and minimize disruptions to current applications and systems caused by cryptographic updates;
+(B)
+providing technical assistance, as practicable, to entities that are at high risk of quantum cryptoanalytic attacks, such as entities determined to be critical infrastructure (as such term is defined in section 1016(e) of
+Public Law 107â56
+(
+42 U.S.C. 5195c(e)
+)) or digital infrastructure providers; and
+(C)
+conducting such other activities as determined necessary by the Director to promote the development, adoption, and deployment across the United States of standards relating to post-quantum cryptography.
+(3)
+Grant program
+(A)
+In general
+Subject to the availability of appropriations and after the date on which the Director of the National Institute of Standards and Technology has issued voluntary standards relating to post-quantum cryptography, the Director may establish a program to identify and provide technical assistance through the award of grants to entities that are at high risk of quantum cryptoanalytic attacks, including by granting funds for the adoption of such standards and the remediation of quantum-related vulnerabilities.
+(B)
+Use of funds
+Grants awarded to entities under this paragraph may be used to cover reasonable costs, up to a specified amount established by the Director of the National Institute of Standards and Technology, for activities to adopt standards relating to post-quantum cryptography and remediate quantum-related vulnerabilities.
+(C)
+Guidance
+The Director of the National Institute of Standards and Technology may develop, and periodically update, guidance, including relating to eligibility, application disclosure requirements, grant amount and duration, and any additional requirements regarding the award of grants under this paragraph.
+(D)
+Consultation
+If the program described in this paragraph is established, the Director of the National Institute of Standards and Technology shall consult with the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, the heads of other Sector Risk Management Agencies, and appropriate representatives of private sector entities, including nonprofit organizations, to share information regarding the grant program under this paragraph and guidance developed and updated under subparagraph (C).
+(f)
+Funding
+(1)
+Authorization of appropriations
+There is authorized to be appropriated to the Director of the National Institute of Standards and Technology to carry out this section $85,000,000 for each of fiscal years 2026 through 2030.
+(2)
+Derivation of funds
+Amounts made available pursuant to paragraph (1) for each of fiscal years 2026 and 2027 shall be derived from amounts authorized to be appropriated for the National Institute of Standards and Technology pursuant to section 10211 of the Research and Development, Competition, and Innovation Act (
+Public Law 117â167
+) for scientific and technical research and services laboratory activities.
+.
+13.
+National Institute of Standards and Technology Quantum Centers
+Title II of the National Quantum Initiative Act is amended by adding at the end the following new sections:
+202.
+National Institute of Standards and Technology quantum centers
+(a)
+Establishment
+(1)
+In general
+Subject to the availability of appropriations, the Director of the National Institute of Standards and Technology shall, in consultation with such heads of other Federal departments and agencies as the Director considers appropriate, carry out a program to establish and operate at least 1, but not more than 3, centers to accelerate research, development, deployment, and standardization of quantum information science, engineering, and technology.
+(2)
+Program details
+(A)
+Competitive, merit-reviewed process
+The centers established and operated under paragraph (1) shall be established through a competitive, merit-reviewed process.
+(B)
+Applications
+An eligible applicant described in subparagraph (C) seeking to establish and operate a center described in paragraph (1) shall submit to the Director of the National Institute of Standards and Technology an application therefor at such time, in such manner, and containing such information as the Director determines to be appropriate.
+(C)
+Eligible applicants
+Eligible applicants described in this subparagraph are the following:
+(i)
+Institutions of higher education.
+(ii)
+Nonprofit organizations.
+(iii)
+Multi-institution collaborations, including multiple types of research institutions, private sector entities, Federal laboratories, and nonprofit organizations, or consortia thereof.
+(iv)
+Any other entity the Director determines appropriate.
+(3)
+Selection of applications and prioritized topics
+The Director of the National Institute of Standards and Technology shall solicit proposals and prioritize the following topics in the initial selection of applications submitted under paragraph (2)(B), subject to merit-review:
+(A)
+Quantum sensing and measurement technologies.
+(B)
+Advancing the manufacturing and scale-up of quantum systems and quantum-enabling technologies.
+(C)
+Address technology barriers to quantum networking and communications.
+(4)
+Grants
+(A)
+In general
+The Director shall carry out the program required by paragraph (1) through the award of grants to eligible applicants seeking to establish and operate centers under the program.
+(B)
+Duration of grant awards
+Subject to the availability of appropriations, the duration of a grant awarded under subparagraph (A) shall be a period of 5 years.
+(C)
+Renewal
+Subject to the availability of appropriations, each grant awarded under subparagraph (A) may be renewed for successive periods of 5 years following a successful merit-based review by the Director.
+(D)
+Termination
+Consistent with the authorities of the Institute, the Director may terminate a grant awarded under subparagraph (A) for an underperforming center for cause during the performance period of the grant.
+(b)
+Requirements
+To the maximum extent practicable, centers established and operated under this section shall serve the mission of the National Institute of Standards and Technology, for the benefit of the broader United States quantum information science community, to develop processes for the following purposes:
+(1)
+Advancing research and standardization in quantum information science, engineering, and technology.
+(2)
+Advancing technology development.
+(3)
+Improving the competitiveness of the United States.
+(c)
+Coordination
+The Director of the National Institute of Standards and Technology shall ensure coordination, and avoid unnecessary duplication of, the activities carried out under this section with existing activities of the Institute, other activities carried out under this Act, and other related programs, as appropriate.
+(d)
+Operation of centers
+(1)
+Commercial technology
+Each center established under this section may leverage commercially available hardware and software to carry out the activities described in subsection (a), provided that such hardware and software is not manufactured in a country of concern or by a foreign country of concern.
+(2)
+Renewal
+Each center established under this section may be renewed for successive periods of 5 years following a successful merit-based review by the Director.
+(3)
+Termination
+Consistent with the authorities of the National Institute of Standards and Technology, the Director of the National Institute of Standards and Technology may terminate an underperforming center for cause during the performance period.
+(e)
+Funding
+The Director of the National Institute of Standards and Technology shall allocate up to $18,000,000 for each center established under this section for each of fiscal years 2026 through 2030, subject to the availability of appropriations. Such amounts shall be derived from amounts appropriated pursuant to section 10211 of the Research and Development Competition and Innovation Act (
+Public Law 117â167
+).
+(f)
+Briefing requirements
+Not later than 1 year after the date of the enactment of the
+National Quantum Initiative Reauthorization Act of 2026
+, and not less frequently than once each year thereafter, the Director of the National Institute of Standards and Technology shall provide the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Space, Science, and Technology of the House of Representatives a briefing on current and planned activities under this section.
+203.
+Research security
+The activities authorized under this title shall be carried out in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19231 et seq.
+) and section 6432 of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (
+Public Law 118â159
+;
+42 U.S.C. 7144b
+note).
+.
+14.
+National Science Foundation quantum information science research and education activities
+Section 301 of the National Quantum Initiative Act (
+15 U.S.C. 8841
+) is amendedâ
+(1)
+in the section heading, by inserting
+, Engineering, and Technology
+after
+Science
+;
+(2)
+in subsection (a), by striking
+science and engineering
+and inserting
+science, engineering, and technology
+;
+(3)
+in subsection (b)â
+(A)
+in paragraph (1)â
+(i)
+in subparagraph (A), by striking
+science and engineering
+and inserting
+science, engineering, and technology
+; and
+(ii)
+in subparagraph (B)â
+(I)
+by striking
+human resources
+and inserting
+education and workforce
+; and
+(II)
+by striking
+science and engineering
+and inserting
+science, engineering, and technology
+; and
+(B)
+in paragraph (2)â
+(i)
+in subparagraph (A)â
+(I)
+in clause (i)â
+(aa)
+by striking
+science and engineering
+and inserting
+science, engineering, and technology
+; and
+(bb)
+by striking
+and
+after the semicolon;
+(II)
+in clause (ii), by inserting
+and
+after the semicolon; and
+(III)
+by adding at the end the following:
+(iii)
+to pursue research at the frontiers of quantum information science, engineering, and technology, and explore solutions to important challenges for the development and application of quantum technologies;
+;
+(ii)
+in subparagraph (B), by striking
+science and engineering
+and inserting
+science, engineering, and technology
+;
+(iii)
+in subparagraph (C), by striking
+science and engineering
+and inserting
+science, engineering, and technology
+;
+(iv)
+in subparagraph (D), by striking
+and
+after the semicolon;
+(v)
+in subparagraph (E), by striking the period and inserting
+; and
+; and
+(vi)
+by adding at the end the following:
+(F)
+providing infrastructure to support academic quantum information science, engineering, and technology, including through existing infrastructure programs and new activities.
+;
+(4)
+by striking subsection (c) and inserting the following:
+(c)
+Student traineeships, fellowships, and other models
+(1)
+Quantum traineeships
+The Director of the National Science Foundation, in consultation with heads of Federal agencies as the Director considers appropriate, may use existing programs to make awards to institutions of higher education or nonprofit organizations (or consortia thereof)â
+(A)
+to provide traineeships to graduate students at institutions of higher education within the United States who are citizens of the United States and who choose or plan to pursue master or doctoral degrees in quantum information science, engineering, and technology, or related fields; and
+(B)
+to provide students with opportunities for research experiences in government or industry related to such studentsâ quantum studies.
+(2)
+Quantum fellowships and scholarships
+(A)
+In general
+The Director of the National Science Foundation, in consultation with heads of Federal agencies as the Director considers appropriate, may use existing programs to support fellowships and scholarships for students at institutions of higher education for the purpose ofâ
+(i)
+increasing quantum information science, engineering, and technology exposure for undergraduate and graduate STEM students; and
+(ii)
+increasing postgraduation employment opportunities for STEM students who demonstrate potential to pursue careers in quantum information science, engineering, and technology.
+(B)
+Requirements
+An eligible participant in the fellowship and scholarship program under this paragraph shallâ
+(i)
+be enrolled in or have graduated from a STEM degree program at an institution of higher education within the United States; and
+(ii)
+have demonstrated interest in quantum information science, engineering, and technology, such as by taking not less than 1 quantum science or quantum-relevant course as part of the participant's degree program or by participating in a summer school program that focuses on quantum information science, engineering, and technology.
+(C)
+Considerations
+Eligible fellowships and scholarship programs under this paragraph may include temporary quantum-related positions at Federal or State agencies, National Laboratories, private sector entities, institutions of higher education, the quantum centers established under section 202, the Multidisciplinary Centers for Quantum Research and Education established under section 302, the Quantum Reskilling, Education, and Workforce Coordination Hub under section 303, the National Quantum Information Science Research Centers established under section 402, and the initiatives established under section 503, or other quantum-relevant entities, as determined appropriate by the Director.
+(D)
+Competitive awards
+Fellowships and scholarships awarded under this paragraph shall be competitively awarded through a merit-review process. The Director of the National Science Foundation may prioritize fellowships that include an industry partner that provides financial assistance to awardees for direct or indirect costs.
+(3)
+Quantum research experiences for undergraduates
+The Director of the National Science Foundation shall seek to increase opportunities for quantum research for undergraduate students by encouraging proposals in quantum information science, engineering, and technology, through the research experiences for undergraduates provided under section 514 of the America COMPETES Reauthorization Act of 2010 (
+42 U.S.C. 1862pâ6
+).
+(4)
+Cooperative education programs
+The Director of the National Science Foundation, in consultation with heads of Federal agencies the Director considers appropriate, may establish, or use existing, programs to support cooperative education programs between institutions of higher education and employers that increase opportunities for undergraduate students to acquire experiential learning and professional experiences in quantum information science, engineering, and technology.
+(5)
+Partnerships
+In carrying out the activities under this subsection, the Director of the National Science Foundation shall encourage recipients of awards under this subsection to partner with relevant Federal agencies, Federal laboratories, industry and other private sector organizations, and nonprofit organizations to facilitate the expansion of workforce pathways and hands-on learning experiences.
+;
+(5)
+in subsection (d)â
+(A)
+in the subsection heading, by striking
+QISE
+and inserting
+QISET
+;
+(B)
+in paragraph (1)â
+(i)
+by striking
+information science and engineering (referred to in this subsection as
+QISE
+)
+and inserting
+information science, engineering, and technology (referred to in this subsection as
+QISET
+)
+; and
+(ii)
+by inserting
+and career and technical education entities
+after
+colleges
+;
+(C)
+in paragraph (2)â
+(i)
+in subparagraph (A), by striking
+QISE
+and inserting
+quantum information science, engineering, and technology
+;
+(ii)
+in subparagraph (D)â
+(I)
+by inserting
+, engineering, and technology
+after
+science
+; and
+(II)
+by inserting
+, including those principles relevant to emerging technologies, such as artificial intelligence, microelectronics, and nanotechnology
+after
+fields
+;
+(iii)
+by redesignating subparagraph (F) as subparagraph (G); and
+(iv)
+by inserting after subparagraph (E) the following:
+(F)
+Methods to introduce security dimensions associated with quantum information science, engineering, and technology into STEM curricula.
+;
+(D)
+in paragraph (3), by striking
+QISE
+and inserting
+quantum information science, engineering, and technology
+; and
+(E)
+by striking paragraph (4); and
+(6)
+by adding at the end the following:
+(e)
+Quantum research experiences for teachers
+The Director of the National Science Foundation shall seek to increase opportunities to engage educators, principals, or other school leaders of kindergarten through grade 12 students in professional learning opportunities to enhance quantum information science, engineering, and technology knowledge, including byâ
+(1)
+providing hands-on training and research opportunities for such educators at Federal laboratories or institutions of higher education, or in industry; and
+(2)
+developing best practices.
+(f)
+Expanding capacity in quantum information science, engineering, and technology
+(1)
+Definitions
+In this subsection:
+(A)
+Eligible consortium
+The term
+eligible consortium
+means a consortium thatâ
+(i)
+includes not less than 1 institution of higher education or eligible nonprofit organization; and
+(ii)
+may includeâ
+(I)
+a private sector entity;
+(II)
+a Federal laboratory; or
+(III)
+a Federal, Tribal, State, local, or territorial government entity.
+(B)
+Eligible institution of higher education
+The term
+eligible institution of higher education
+means an institution of higher education that, during the 3-year period prior to the year of an award under this section and according to the data published by the National Center for Science and Engineering Statistics was not, on average, among the top 70 institutions in Federal research and development expenditures.
+(2)
+Awards authorized
+The Director of the National Science Foundation, in consultation with the heads of Federal agencies the Director considers appropriate, shall make awards on a competitive, merit-reviewed basis to eligible institutions of higher education, eligible nonprofit organizations, or eligible consortia to increase research capacity, increase education and infrastructure capacity, and broaden participation in quantum information science, engineering, and technology and related disciplines, including byâ
+(A)
+supporting curriculum development in quantum information science, engineering, and technology as described in subsection (d);
+(B)
+building upon the activities carried out under the Next Generation Quantum Leaders Pilot Program authorized under section 10661(f) of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19261(f)
+); and
+(C)
+leveraging the readiness for the involvement of local research and education communities to secure a talent pipeline in quantum information science, engineering, and technology to meet the workforce needs of industry, government, and academia.
+(3)
+Requirements
+To receive an award under this subsection, an eligible institution of higher education, eligible nonprofit organization, or eligible consortium shall submit to the Director of the National Science Foundation an application that includes the following:
+(A)
+A plan to sustain proposed activities beyond the duration of the award.
+(B)
+Proposed quantum information science, engineering, and technology disciplines and focus areas the eligible institution of higher education or consortium is prepared to engage in to significantly build up its quantum information science, engineering, and technology research and education capacity.
+(C)
+A plan for education and workforce development, which may includeâ
+(i)
+kindergarten through grade 12 and postsecondary education programs and activities;
+(ii)
+workforce training and career and technical education programs and activities;
+(iii)
+undergraduate, graduate, and postdoctoral education programs and activities; and
+(iv)
+informal education programs and activities.
+(4)
+Activities
+Awards under this subsection to support research and related activities may include activities relating to the following:
+(A)
+Development or expansion of research programs in disciplines and focus areas specified in paragraph (3)(B).
+(B)
+Faculty recruitment and professional development in disciplines and focus areas specified in paragraph (3)(B).
+(C)
+Bridge programs focused on preparing postbaccalaureate students for graduate programs in quantum information science, engineering, and technology.
+(D)
+Building research capacity and infrastructure at an eligible institution of higher education in disciplines and focus areas specified in paragraph (3)(B).
+(E)
+An assessment of capacity-building and research infrastructure needs identified in paragraph (3)(B).
+(F)
+Administrative research development support.
+(G)
+Other activities necessary to build research capacity in quantum information science, engineering, and technology.
+(5)
+Additional considerations
+In making awards under this subsection, the Director of the National Science Foundation may also consider the following:
+(A)
+The extent to which the eligible applicant will support students from diverse backgrounds, including first-generation undergraduate students.
+(B)
+The geographic and institutional diversity of eligible applicants.
+(C)
+How the eligible applicant can leverage public-private partnerships and existing research partnerships with Federal agencies.
+(D)
+How the eligible applicant prioritizes research security, including through educational efforts and furtherance of best practices for handling research that is supported by an award under this subsection.
+(6)
+Duplication
+The Director of the National Science Foundation shall ensure awards made under this subsection are complementary to, and not duplicative of, existing programs.
+(g)
+International research on quantum information science, engineering, and technology
+(1)
+In general
+The Director of the National Science Foundation, in coordination with the Secretary of State and the heads of other Federal agencies, as appropriate, shall support international quantum information science, engineering, and technology research, as appropriate, to enhance international cooperation and meet United States commitments, including as part of the terms and conditions of bilateral or multilateral quantum information science, engineering, and technology research agreements.
+(2)
+Alignment
+In carrying out this subsection, the Director of the National Science Foundation shall ensure alignment with the national strategy for quantum information science in accordance with Executive Order 14073 (87 Fed. Reg. 27909; relating to enhancing the National Quantum Advisory Committee) or successor strategies.
+(3)
+Priority
+The Director shall prioritize research programs with countries that have signed a quantum cooperation statement with the United States.
+(4)
+Restrictions
+(A)
+Confucius institute
+None of the funds made available under this subsection may be obligated or expended to an institution of higher education that maintains a contract or agreement between such institution and a Confucius Institute, as defined in section 10339A of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19039
+) or any successor of a Confucius Institute.
+(B)
+Foreign country of concern and foreign entity of concern
+None of the funds made available under this subsection may be obligated or expended to promote, establish, or finance quantum research activities between a United States entity and a foreign country of concern or foreign entity of concern, including the entityâs subsidiaries.
+(h)
+Upgrading and improving access to quantum research resources
+(1)
+In general
+In carrying out the activities described in this section, the Director of the National Science Foundation, in consultation with the heads of other Federal departments and agencies, as appropriate, shall award grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof) to upgrade research facilities and improve access to research resources, such as equipment and instrumentation, that is needed for research and development in quantum information science, engineering, and technology.
+(2)
+Purpose
+Grants under paragraph (1) shall be used to facilitate quantum information science, engineering, and technology research and development, including by carrying out the following:
+(A)
+Upgrading or adding research resources toâ
+(i)
+accelerate the development of quantum technologies, including capabilities focused on addressing the roadblocks to implementation; and
+(ii)
+meet the materials, advanced materials development, high performance computing, heterogeneous computing, networking, software, data, clean room, and device needs of the scientific community and the quantum supply chain.
+(B)
+Enhancing access to equipment and instrumentation, including at partnering institutions, by facilitating information sharing, coordination, education, and training, including activities that provide meaningful hands-on learning experiences for students, including at community and technical colleges.
+(C)
+Enabling professional staff to support the operation, scheduling, and improvement of research resources used for quantum information science, engineering, and technology.
+(3)
+Requirements
+An institution of higher education or an eligible nonprofit organization (or a consortium thereof) seeking funding under this subsection shall submit to the Director of the National Science Foundation an application at such time, in such manner, and containing such information as the Director may require.
+.
+15.
+Multidisciplinary centers for quantum research and education
+Section 302 of the National Quantum Initiative Act (
+15 U.S.C. 8842
+) is amendedâ
+(1)
+in subsection (a), by striking
+5
+and inserting
+10
+;
+(2)
+in subsection (c)â
+(A)
+in paragraph (1), by striking
+science and engineering
+and inserting
+science, engineering, and technology
+;
+(B)
+in paragraph (2), by striking
+and engineering
+and inserting
+, engineering, and technology, including leveraging or expanding activities established pursuant to section 301(d)
+; and
+(C)
+in paragraph (3), by inserting
+, such as commercially-available hardware and software
+after
+resources
+;
+(3)
+in subsection (d)(2)â
+(A)
+in subparagraph (A), by striking
+quantum science,
+and inserting
+quantum information science, engineering, and technology,
+;
+(B)
+in subparagraph (B), by inserting
+health,
+after
+chemistry,
+;
+(C)
+in subparagraph (D), by striking
+and
+after the semicolon;
+(D)
+in subparagraph (E), by striking the period and inserting a semicolon; and
+(E)
+by adding at the end the following:
+(F)
+how the Center will participate in international collaborations, as appropriate, to build a trusted global research network with allies and partners of the United States and other countries that share values with the United States;
+(G)
+how the Center will protect research from foreign countries of concern and foreign entities of concern, and the subsidiaries of such foreign entities, to ensure the competitiveness of the United States; and
+(H)
+how the Center will assess and report on progress toward achieving self-sustainability, including metrics, milestones, and a timeline for meeting the long-term goal described in subparagraph (E).
+; and
+(4)
+in subsection (e), by striking paragraph (2) and inserting the following:
+(2)
+Reapplication
+An awardee may reapply for an additional, subsequent period of 5 years following a successful, merit-based review.
+;
+(5)
+in subsection (f), by striking
+2019 through 2023
+and inserting
+2026 through 2030
+; and
+(6)
+by adding at the end the following:
+(g)
+Briefing requirements
+Not later than 1 year after the date of the enactment of the
+National Quantum Initiative Reauthorization Act of 2026
+, and not less frequently than annually thereafter, the Director of the National Science Foundation shall brief the appropriate committees of Congress on current and planned activities under this section. Each briefing shall includeâ
+(1)
+an assessment of how each Center is progressing toward the goal of self-sustainability described in subsection (d)(2)(E); and
+(2)
+a summary of the most recent reports submitted by the Centers regarding such progress in accordance with subsection (d)(2)(H).
+.
+16.
+Quantum Reskilling, Education, and Workforce (QREW) Coordination Hub, quantum testbeds, and research security
+Title III of the National Quantum Initiative Act (
+15 U.S.C. 8841 et seq.
+) is amended by adding at the end the following:
+303.
+Quantum Reskilling, Education, and Workforce (QREW) Coordination Hub
+(a)
+In general
+The Director of the National Science Foundation, in consultation with the Director of the National Institute of Standards and Technology, the Secretary of Energy, and the heads of other relevant Federal agencies, shall make an award to a consortium led by an institution of higher education or an eligible nonprofit organization to establish a Quantum Reskilling, Education, and Workforce Coordination Hub (in this section referred to as the
+Hub
+).
+(b)
+Consortium
+The consortium established pursuant to subsection (a) shall include not fewer than 4 institutions of higher education, including not fewer than 2 community colleges, and may include career and technical schools, nonprofit organizations, and private sector entities.
+(c)
+Purpose
+The purpose of the Hub shall be toâ
+(1)
+identify and address cross-cutting workforce development challenges in quantum information science, engineering, and technology, the quantum industry, and other critical and emerging technology areas that share similar workforce challenges by serving as a national and regional clearinghouse; and
+(2)
+facilitate the establishment of programs to disseminate, to institutions of higher education (including community colleges) and career and technical education entities, model curricula, best practices, and instructional materials related to the activities described in subsection (d).
+(d)
+Activities
+The activities of the Hub may include the following:
+(1)
+Testing, implementing, scaling, disseminating, and standardizing materials, methods, best practices, and other outputs developed through activities under this Act.
+(2)
+Promoting core competencies, such as computer science, data science, and mathematics, that are shared with other critical and emerging technologies, such as artificial intelligence.
+(3)
+Increasing the integration of quantum information science, engineering, and technology content into STEM curricula at all education levels, including career and technical education programs.
+(4)
+Providing opportunities for STEM degree students to provide feedback on quantum information science, engineering, and technology curricula.
+(5)
+Facilitating post-education employment opportunities and workforce pathways for STEM degree recipients in quantum-related industries, including by facilitating opportunities for internships, externships, fellowships, and other such activities as determined by the Director, including through the establishment of a publicly accessible online portal.
+(6)
+Coordinating with quantum industry and nonprofit entities and small- and medium-sized businesses and startups to inform and enhance the quality and availability of quantum education in STEM degree programs, including through the promotion of postgraduation opportunities for STEM students outside the classroom to increase exposure to quantum industries.
+(7)
+Supporting activities and programs to enhance the recruitment of students from groups historically underrepresented in STEM to pursue undergraduate and graduate studies in quantum information science, engineering, and technology.
+(8)
+Developing, testing, implementing, and coordinating career development programs and strategies to increase the number of quantum-informed educators at all levels of education, including by carrying out the following:
+(A)
+Hosting career development workshops.
+(B)
+Developing in-house and distance learning career development tools for public use.
+(C)
+Facilitating access to related quantum technology, tools, and resources.
+(D)
+Developing training, research, and professional development programs, including innovative pre-service and in-service programs.
+(E)
+Facilitating relationships with State and local entities, such as a State board or local board (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act (
+29 U.S.C. 3102
+)), to increase awareness of and promote quantum-related career development activities at the Hub.
+(9)
+Establishing a framework for performing ongoing regular data collection and analysis for the quantum workforce to report on trends, and perform other activities that expand the understanding of the current and future needs of the quantum industry, and the education capacity or readiness of the quantum workforce. Such activities shall complement or align with, as relevant, authorized quantum and STEM workforce studies under section 10661(d) of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19261(d)
+).
+(10)
+Facilitating public education and outreach activities to enhance the understanding and awareness of quantum information science, engineering, and technology to a broader community to satisfy broader impact requirements of award applications.
+(11)
+Encouraging coordination on quantum education in the broader STEM community.
+(e)
+QREW Quantum Fellowship Program
+Subject to the restrictions described in section 301(c), the Hub may support education or policy fellowships for students at entities participating in the consortium under subsection (a) or at other research centers established pursuant to this Act at the National Science Foundation, the National Institute of Standards and Technology, the Department of Energy, or the National Aeronautics and Space Administration, for the purpose of supporting the activities described in subsection (d).
+(f)
+Industry coordination
+The Hub shall collaborate with the Quantum Consortium established under section 201(b) or other industry consortia to identify, publish, facilitate, or enable quantum-related education and workforce development opportunities as described in subsections (c) and (d).
+(g)
+Application
+A consortium seeking funding under this section shall submit to the Director of the National Science Foundation an application at such time, in such manner, and containing such information as the Director may require. Each application shall include a description of how the consortium shall carry out the following:
+(1)
+Contribute to the success of the Hub and fulfill the purposes of the Hub.
+(2)
+Include industry participation in fulfilling the purposes of the Hub.
+(3)
+Collaborate with other members of the consortium to share expertise in integrating quantum information science, engineering, and technology into STEM programs and other relevant fields and disciplines.
+(4)
+Support long-term and short-term workforce development in the quantum field.
+(5)
+Develop and implement outreach activities to increase the participation of women and other students from groups historically underrepresented in STEM.
+(h)
+Selection and duration
+(1)
+In general
+The Hub established under this section is authorized to carry out activities for a period of 5 years.
+(2)
+Reapplication
+A consortium receiving an award under this section may reapply for an additional, subsequent period of 5 years following a successful, merit-based review.
+(3)
+Termination
+Consistent with and in addition to the authorities of the National Science Foundation, the Director of the National Science Foundation may also terminate the Hub if it is underperforming during the performance period.
+(i)
+Coordination
+The Hub shall coordinate with other research centers established under this Act at the National Science Foundation, the National Institute of Standards and Technology, the Department of Energy, the National Aeronautics and Space Administration, and other relevant Federal agencies, as appropriate, on activities and resources.
+(j)
+Reporting requirements
+Not later than 3 years after the date of enactment of the
+National Quantum Initiative Reauthorization Act of 2026
+, the Director shall prepare and submit to the appropriate committees of Congress a progress report that includes current (as of the date of the report) and planned activities of the Hub.
+304.
+Quantum testbeds
+(a)
+In general
+Not later than 1 year after the date of the enactment of the
+National Quantum Initiative Reauthorization Act of 2026
+, the Director of the National Science Foundation, in coordination with the Director of the National Institute of Standards and Technology, the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, and the heads of other Federal agencies, as determined appropriate by the Director of the National Science Foundation, shall make awards on a competitive, merit-reviewed basis to institutions of higher education, nonprofit organizations, federally funded research and development centers, or consortia thereof, to establish testbeds for accelerating the development of viable quantum applications.
+(b)
+Purposes
+The quantum testbeds established under subsection (a) shall focus on advancing the development of quantum application use cases, as determined by the Director, through proof-of-concept testing, demonstrations, pilot projects, benchmarking, and prototyping, byâ
+(1)
+supporting translational quantum research and development activities for quantum application use cases, including, for testbeds featuring quantum software and quantum algorithms driving toward utility, leveraging approaches such as algorithm innovation and tools such as resource estimators;
+(2)
+providing accessible research resources for developing, testing, and benchmarking the application of quantum technologies to likely use cases, including enabling quantum cloud access;
+(3)
+investing in quantum computing technologies that show promise for viability, including directing funding to advance each layer of the stack and related systems engineering and integration; and
+(4)
+establishing cost and benefit.
+(c)
+Application proposals
+An applicant for an award under this section shall submit to the Director a proposal at such time, in such manner, and containing such information as the Director may reasonably require. The proposal shall, at a minimum, describe the following:
+(1)
+How the applicant will assemble a workforce, including from populations that are historically underrepresented in STEM, with the skills needed to operate a quantum testbed.
+(2)
+How the applicant will ensure broad access to a quantum testbed, including for start-ups and small businesses.
+(3)
+How a quantum testbed will operate after Federal funding has ended.
+(4)
+How the applicant will contribute to the quantum testbed, such as through funding or other resources required to develop quantum applications.
+(5)
+How the applicant will protect any research or advancements made as a result of using the quantum testbed.
+(d)
+Prioritization
+In awarding grants under this section, the Director of the National Science Foundation shall prioritize the following:
+(1)
+Applicants that ensure not less than 25 percent of the cost for a testbed awarded under this section is provided by private or non-Federal entities, including in-kind contributions.
+(2)
+Awards for consortia that include quantum industry participation.
+(e)
+Roles and responsibilities
+The Director of the National Science Foundation shall be responsible for the following:
+(1)
+Maintaining a record of notable outcomes from each quantum testbed established under this section.
+(2)
+Partnering with other Federal agencies to enable opportunities for quantum testbed outcomes to be appropriately taken up by such agencies in alignment with the missions of such agencies.
+(3)
+Not later than 1 year after the date of the enactment of this section and every 2 years thereafter until December 31, 2030, briefing the appropriate committees of Congress on the status of such quantum testbeds and providing recommendations for improving such quantum testbeds.
+(f)
+Coordination
+In establishing quantum testbeds under this section, the Director of the National Science Foundation shall ensure coordination with other testbeds and other quantum facilities hosting Federal quantum technology and infrastructure supported by the National Science Foundation, including those testbeds and facilities authorized pursuant to section 10390 of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19110
+), or by other Federal agencies as determined appropriate by the Director, to avoid duplication and maximize use of Federal resources.
+(g)
+Stakeholder collaboration
+In carrying out this section, the Director of the National Science Foundation shall collaborate with the Quantum Consortium established pursuant to section 201(b) to accomplish the purposes of the quantum testbeds program described in subsection (b) and ensure there is strong collaboration with industry stakeholders. The Director may also engage with National Laboratories, federally funded research and development centers, industry, and other members of the United States quantum ecosystem.
+(h)
+Geographic diversity
+The Director shall ensure regional and geographic diversity in issuing awards under this section.
+305.
+Research security
+(a)
+Research security
+The activities authorized under this title shall be carried out in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19231 et seq.
+).
+(b)
+Review of visitors and assignees from countries of risk
+The Director of the National Science Foundation shall establish policies and procedures to assess and screen visitors and assignees to National Science Foundation-supported facilities that are similar, to the extent practicable, to the policies and procedures regarding visitors and assignees to the National Laboratories that were established in accordance with section 6432 of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (
+42 U.S.C. 7144b
+note).
+.
+17.
+National Science Foundation cryptography research
+Section 4(a)(1)(A) of the Cyber Security Research and Development Act (
+15 U.S.C. 7403
+) is amended by inserting
+, including post-quantum cryptography (as such term is defined in section 3 of the Quantum Computing Cybersecurity Preparedness Act (
+6 U.S.C. 1526
+note;
+Public Law 117â260
+))
+before the semicolon.
+18.
+National Aeronautics and Space Administration quantum activities
+(a)
+In general
+The National Quantum Initiative Act (
+15 U.S.C. 8801 et seq.
+) is amended by adding at the end the following new title:
+V
+National Aeronautics and Space Administration quantum activities
+501.
+Definition of Administrator
+In this title, the term
+Administrator
+means the Administrator of the National Aeronautics and Space Administration.
+502.
+Quantum information science, engineering, and technology research for space and aeronautics
+(a)
+In general
+The Administrator is authorized to carry out research on quantum information science, engineering, and technology.
+(b)
+Cooperation
+In carrying out subsection (a), the Administratorâ
+(1)
+shall consider cooperative arrangements with the Department of Energy and other Federal Government agencies, as practicable, on areas of shared benefit; and
+(2)
+may enter into memoranda of understanding or memoranda of agreement to establish such cooperative arrangements.
+(c)
+Strategy
+Not later than 180 days after the date of the enactment of this title, the Administrator shall submit to the appropriate committees of Congress a strategy for National Aeronautics and Space Administration research on quantum information science, engineering, and technology. The strategy shall identify resources required to support implementation of the strategy, including budgets, workforce, and infrastructure, describe cooperative efforts with other Federal Government agencies, and address areas of research and applications, including the following:
+(1)
+Quantum sensing.
+(2)
+Quantum networking.
+(3)
+Quantum communications, including quantum satellite communications.
+(4)
+Quantum computing.
+(5)
+Science, aeronautics, and exploration-related applications.
+(6)
+Any other area of quantum information, science, engineering, and technology that furthers the mission of the National Aeronautics and Space Administration and is consistent with the purposes of this Act, as the Administrator considers appropriate.
+(d)
+Consultation
+In developing the strategy described in subsection (c), the Administrator may seek input from relevant external stakeholders, including institutions of higher education, industry, and nonprofit research organizations.
+503.
+National Aeronautics and Space Administration quantum initiatives
+(a)
+In general
+Subject to the availability of appropriations, the Administrator, in consultation with the heads of other Federal departments and agencies, as appropriate, may establish one or more initiatives focused on space and aeronautics applications of quantum information science, engineering, and technology.
+(b)
+Initiative details
+(1)
+Merit-based review process
+(A)
+In general
+The Administrator shall develop and implement a formal, merit-based review process for evaluating proposals, applications, and initiatives submitted to the National Aeronautics and Space Administration with respect to the research, development, or deployment of quantum technologies with potential relevance to the civil space and aeronautics missions of the National Aeronautics and Space Administration.
+(B)
+Criteria
+The process established under subparagraph (A) shall be designedâ
+(i)
+to ensure taxpayer dollars are directed to the most technically sound and strategically aligned quantum technology proposals;
+(ii)
+to prioritize proposals that demonstrate strong potential to enhance United States leadership in space-based quantum applications, including sensing, navigation, communications, simulation, and computing;
+(iii)
+to support initiatives that align with the strategic goals of the National Aeronautics and Space Administration and avoid unnecessary duplication of efforts led by other Federal agencies;
+(iv)
+to facilitate a competitive, transparent, and objective selection process using qualified subject-matter experts; and
+(v)
+to include appropriate consideration of project feasibility, cost-effectiveness, technological maturity, and risk mitigation.
+(2)
+Application requirements
+An applicant under this section shall submit to the Administrator a proposal at such time, in such manner, and containing such technical, programmatic, and budgetary information as the Administrator determines necessary to evaluate the proposal through the review process developed under paragraph (1).
+(3)
+Eligible applicants
+In carrying out the process under paragraph (1), the Administrator shall consider applications from institutions of higher education, research centers, multi-institutional collaborations, and any other entity the Administrator considers appropriate.
+(4)
+Collaborations
+A collaboration that receives an award under this section may include multiple types of research institutions, including institutions of higher education, private sector entities, and nonprofit organizations.
+(5)
+Coordination and accountability
+The Administrator shall ensure that an awardee under this sectionâ
+(A)
+coordinates with the National Aeronautics and Space Administration, including by identifying personnel designated to serve as program liaisons for technical and programmatic oversight; and
+(B)
+avoids unnecessary duplication of existing activities of the National Aeronautics and Space Administration, other activities carried out under the
+National Quantum Initiative Reauthorization Act of 2026
+or the amendments made by that Act, and other related programs, as appropriate.
+(6)
+Commercial technology
+An initiative established under this section may leverage commercially-available hardware and software to carry out the activities described in subsection (c).
+(c)
+Initiative activities
+An initiative established under this section may carry out activities thatâ
+(1)
+support research focused on developing and demonstrating space, aeronautics, and exploration applications for quantum information science, engineering, exploration, and technology, including research relating to the strategy developed under section 502(c); and
+(2)
+support quantum information science, engineering, and technology education and public outreach.
+(d)
+Initiative requirements
+To the maximum extent practicable, an initiative established under this section shall serve the needs of the National Aeronautics and Space Administration for the benefit of the broader United States quantum information science community, to create and develop processes for the purpose of advancing space and aeronautics applications in quantum information science, engineering, and technology, and improving the competitiveness of the United States.
+(e)
+Initiative selection and duration
+(1)
+In general
+Subject to the availability of appropriations, an initiative established under this section may carry out activities for a period of 5 years.
+(2)
+Reapplication
+Subject to the availability of appropriations, an awardee may reapply for an additional, subsequent period of 5 years following a successful, merit-based review.
+(3)
+Termination
+Consistent with the authorities of the National Aeronautics and Space Administration, the Administrator may terminate the initiative for cause during the performance period.
+504.
+Research security
+The activities authorized under this title shall be carried out in a manner consistent withâ
+(1)
+subtitle D of title VI of the Research and Development, Competition, and Innovation Act (
+42 U.S.C. 19231 et seq.
+); and
+(2)
+section 6432 of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (
+42 U.S.C. 7144b
+note;
+Public Law 118â159
+).
+505.
+Authorization of appropriations
+The Administrator shall allocate up to $25,000,000 for each of fiscal years 2026 through 2030 to carry out this title, subject to the availability of appropriations. Amounts made available to carry out this title shall be derived from amounts appropriated or otherwise made available to the National Aeronautics and Space Administration.
+.
+19.
+Comptroller General review and report
+(a)
+Review
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a review of existing processes and reporting requirements associated with research and development programs established within the National Institute of Standards and Technology, the National Science Foundation, and the Department of Energy pursuant to the National Quantum Initiative Act (
+15 U.S.C. 8801 et seq.
+) to identify potential opportunitiesâ
+(1)
+to reduce duplicative and unnecessary paperwork and reporting requirements without compromising security, transparency, and accountability; and
+(2)
+to expedite access to facilities and equipment of the Federal Government for researchers affiliated with such programs.
+(b)
+Research and development programs covered
+The review required under subsection (a) shall cover all research and development programs established pursuant to sections 201, 302, 402, 403, and 404 of the National Quantum Initiative Act (
+15 U.S.C. 8831
+, 8842, 8852, 8853, and 8854).
+(c)
+Report
+Not later than 180 days after completing the review under subsection (a), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the findings of the review, which shall include recommendations relating to paragraphs (1) and (2) of such subsection.
+20.
+Review of regulatory barriers to quantum information science and technology development
+(a)
+Definitions
+In this section:
+(1)
+Appropriate congressional committees
+The term
+appropriate congressional committees
+means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+(2)
+Quantum information science and technology
+The term
+quantum information science and technology
+has the meaning given such term in section 2 of the National Quantum Initiative Act (
+15 U.S.C. 8801
+), as amended by section 2 of this Act.
+(b)
+Review and assessment required
+Not later than 540 days after the date of the enactment of this Act, the Director of the Office of Science and Technology Policy shall, in coordination with the National Quantum Coordination Office, conduct a review to identify and assess any existing or potential regulatory barriers that inhibit research, development, deployment, or scaling of quantum information science and technology.
+(c)
+Elements
+The review and assessment conducted pursuant to subsection (b) shall include the following:
+(1)
+An inventory of existing Federal regulations, policies, and guidance documents that are applicable to quantum information science and technology.
+(2)
+An analysis of whether regulations, policies, and guidance inventoried pursuant to paragraph (1) impose undue burdens on academic, private sector, or government-led quantum information science and technology research or development.
+(3)
+Recommendations to modernize, streamline, or eliminate duplicative or outdated regulatory barriers identified pursuant to subsection (b).
+(4)
+Input from stakeholders across industry, academia, and the National Laboratories with respect to such regulatory barriers.
+(5)
+Recommended actions to harmonize regulatory requirements relating to quantum information science and technology across Federal agencies where inconsistences exist.
+(d)
+Report
+Not later than 180 days after the date on which the Director completes the review and assessment required by subsection (b), the Director shall submit to the appropriate congressional committees a report detailing the findings and recommendations described in subsection (c).
+(e)
+Quinquennial updates
+Not later than 5 years after the date on which the Director completes the review and assessment required by subsection (b), and every 5 years thereafter, the Director shall update the review and assessment required by subsection (b) and submit to the appropriate congressional committees an updated report detailing the findings and recommendations of the Director.
+21.
+Sunset of National Nanotechnology Program
+(a)
+Sunset of National Nanotechnology Program
+The National Nanotechnology Program (in this section referred to as the
+Program
+) and the authorities and requirements of the 21st Century Nanotechnology Research and Development Act (
+15 U.S.C. 7501 et seq.
+) are terminated on the date that is 180 days after the date of the enactment of this Act.
+(b)
+Wind-Down
+The Director of the Office of Science and Technology Policy shall take such actions as may be necessary to terminate and wind down the Program before the date specified in subsection (a).
+(c)
+Plan and briefing
+(1)
+In general
+Not later than 90 days after the date of the enactment of this Act, the Director of the Office of Science and Technology Policy shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a briefing in which the Director shall present a plan on how the Director will carry out subsection (b).
+(2)
+Elements
+The plan presented under paragraph (1) shallâ
+(A)
+ensure minimal disruption to ongoing federally funded research and development activities;
+(B)
+ensure transfer or reassignment of nanotechnology research infrastructure programs and facilities to minimize disruption of researcher access to critical tools that support other national priorities;
+(C)
+provide for the orderly disposition or transfer of active grants, contracts, and personnel associated with the National Nanotechnology Coordination Office established under section 3(a) of the 21st Century Nanotechnology Research and Development Act (
+15 U.S.C. 7502(a)
+);
+(D)
+identify any relevant responsibilities that should be reassigned to existing programs at the Office of Science and Technology Policy; and
+(E)
+minimize duplication and ensure fiscal efficiency in the conclusion of the Program.
+22.
+Clerical amendments
+The table of contents in section 1(b) of the National Quantum Initiative Act is amended as follows:
+(1)
+By inserting after the item relating to section 105 the following new items:
+Sec. 105A. International Quantum Cooperation Strategy.
+Sec. 106. National quantum prize challenges.
+.
+(2)
+By inserting after the item relating to section 201 the following new items:
+Sec. 202. National Institute of Standards and Technology Quantum Centers.
+Sec. 203. Research security.
+.
+(3)
+By striking the item relating to section 301 and inserting the following new item:
+Sec. 301. Quantum information science, engineering, and technology research and education program.
+.
+(4)
+By inserting after the item relating to section 302 the following new items:
+Sec. 303. Quantum Reskilling, Education, and Workforce (QREW) Coordination Hub.
+Sec. 304. Quantum testbeds.
+Sec. 305. Research security.
+.
+(5)
+By adding at the end the following new items:
+TITLE VâNational Aeronautics and Space Administration quantum activities
+Sec. 501. Definition of Administrator.
+Sec. 502. Quantum information science, engineering, and technology research for space and aeronautics.
+Sec. 503. National Aeronautics and Space Administration quantum initiatives.
+Sec. 504. Research security.
+Sec. 505. Authorization of appropriations.
+.

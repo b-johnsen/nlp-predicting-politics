@@ -1,0 +1,1483 @@
+1.
+Short title
+This Act may be cited as the
+Digital Commodities Consumer Protection Act of 2022
+.
+2.
+Definitions
+(a)
+In general
+Section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+) is amendedâ
+(1)
+by redesignating paragraphs (3) through (15) and paragraphs (16) through (51) as paragraphs (5) through (17) and paragraphs (25) through (60), respectively;
+(2)
+by inserting after paragraph (2) the following:
+(3)
+Associated person of a digital commodity broker
+(A)
+In general
+The term
+associated person of a digital commodity broker
+means a person who is associated with a digital commodity broker as a partner, officer, employee, or agent (or any person occupying a similar status or performing similar functions) in any capacity that involvesâ
+(i)
+the solicitation or acceptance of a digital commodity trade; or
+(ii)
+the supervision of any person engaged in the solicitation or acceptance of a digital commodity trade.
+(B)
+Exclusion
+The term
+associated person of a digital commodity broker
+does not include any person associated with a digital commodity broker the functions of which are solely clerical or ministerial.
+(4)
+Associated person of a digital commodity dealer
+(A)
+In general
+The term
+associated person of a digital commodity dealer
+means a person who is associated with a digital commodity dealer as a partner, officer, employee, or agent (or any person occupying a similar status or performing similar functions) in any capacity that involvesâ
+(i)
+the solicitation or acceptance of a digital commodity trade; or
+(ii)
+the supervision of any person engaged in the solicitation or acceptance of a digital commodity trade.
+(B)
+Exclusion
+The term
+associated person of a digital commodity dealer
+does not include any person associated with a digital commodity dealer the functions of which are solely clerical or ministerial.
+;
+(3)
+in paragraph (11) (as so redesignated), by striking
+and frozen concentrated orange juice
+and inserting
+frozen concentrated orange juice, and digital commodities,
+;
+(4)
+in paragraph (12)(A) (as so redesignated)â
+(A)
+by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; and
+(B)
+by inserting after clause (ii) the following:
+(iii)
+digital commodity;
+;
+(5)
+in paragraph (13)(A)(i) (as so redesignated)â
+(A)
+by redesignating subclauses (III) and (IV) as subclauses (IV) and (V), respectively; and
+(B)
+by inserting after subclause (II) the following:
+(III)
+digital commodity;
+;
+(6)
+in paragraph (14)(A)(i) (as so redesignated)â
+(A)
+in subclause (II), by adding a semicolon at the end;
+(B)
+by redesignating subclauses (III) and (IV) as subclauses (IV) and (V), respectively; and
+(C)
+by inserting after subclause (II) the following:
+(III)
+a digital commodity;
+;
+(7)
+by inserting after paragraph (17) (as so redesignated) the following:
+(18)
+Digital commodity
+(A)
+In general
+The term
+digital commodity
+means a fungible digital form of personal property that can be possessed and transferred person-to-person without necessary reliance on an intermediary.
+(B)
+Inclusions
+The term
+digital commodity
+includes property commonly known as cryptocurrency or virtual currency, such as Bitcoin and Ether.
+(C)
+Exclusions
+The term
+digital commodity
+does not includeâ
+(i)
+an interest in a physical commodity;
+(ii)
+a security;
+(iii)
+a digital form of currency backed by the full faith and credit of the United States;
+(iv)
+except as provided in subparagraph (D), an instrument regulated by the Commission pursuant to any provision of this Act other than section 2(c)(2)(F); or
+(v)
+any other instrument that the Commission determines not to be a digital commodity.
+(D)
+Exception
+The exclusion described in subparagraph (C)(iv) shall not apply to a commodity transaction that is subject only to Commission antimanipulation, antifraud, or false reporting authority.
+(19)
+Digital commodity broker
+(A)
+In general
+The term
+digital commodity broker
+means a person that is engaged, as an identifiable business, inâ
+(i)
+soliciting or accepting orders on behalf of another person for a digital commodity trade;
+(ii)
+accepting digital commodities from another person for the purpose of entering into digital commodity trades;
+(iii)
+arranging digital commodity trades on behalf of another person; or
+(iv)
+a similar activity, as determined by the Commission.
+(B)
+Exclusion
+The term
+digital commodity broker
+does not include a person solely because that person validates digital commodity transactions.
+(20)
+Digital commodity custodian
+(A)
+In general
+The term
+digital commodity custodian
+means a person that, as an identifiable business, maintains possession, custody, or control over digital commodities on behalf of another person.
+(B)
+Exclusions
+The term
+digital commodity custodian
+does not includeâ
+(i)
+an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+)); or
+(ii)
+an insured credit union (as defined in section 101 of the Federal Credit Union Act (
+12 U.S.C. 1752
+)).
+(21)
+Digital commodity dealer
+(A)
+In general
+The term
+digital commodity dealer
+means a person thatâ
+(i)
+has an identifiable business of dealing in a digital commodity as principal for its own account;
+(ii)
+makes a market in a digital commodity;
+(iii)
+holds itself out as a dealer in a digital commodity;
+(iv)
+has as an identifiable business of buying or selling digital commodities for conversion into other digital commodities, currency, or other consideration;
+(v)
+has as an identifiable business of accepting digital commodities from another person (referred to in this clause as a
+depositor
+) with an obligation to return the digital commodities, consideration linked to the digital commodities, or both to the depositor; or
+(vi)
+engages in a similar activity, as determined by the Commission.
+(B)
+Exclusion
+The term
+digital commodity dealer
+does not include a person solely because that person validates digital commodity transactions.
+(22)
+Digital commodity platform
+(A)
+In general
+The term
+digital commodity platform
+means a person that is 1 or more of the following:
+(i)
+A digital commodity broker.
+(ii)
+A digital commodity custodian.
+(iii)
+A digital commodity dealer.
+(iv)
+A digital commodity trading facility.
+(B)
+Category
+The term
+category
+, with respect to a digital commodity platform, means 1 or more categories described in clauses (i) through (iv) of subparagraph (A) of that digital commodity platform.
+(23)
+Digital commodity trade
+(A)
+In general
+The term
+digital commodity trade
+means a purchase or sale of a digital commodity in exchange forâ
+(i)
+another digital commodity; or
+(ii)
+any other consideration.
+(B)
+Inclusions
+The term
+digital commodity trade
+includesâ
+(i)
+an offer to enter into a purchase or sale described in subparagraph (A); and
+(ii)
+a loan of a digital commodity, an offer to enter into a loan of a digital commodity, or a similar activity, as determined by the Commission.
+(C)
+Exclusion
+Except as provided in subparagraph (D), the term
+digital commodity trade
+excludes a transaction regulated by the Commission pursuant to any provision of this Act except section 2(c)(2)(F).
+(D)
+Exception
+The exclusion described in subparagraph (C) shall not apply to a commodity transaction that is subject only to Commission antimanipulation, antifraud, or false reporting authority.
+(24)
+Digital commodity trading facility
+(A)
+In general
+The term
+digital commodity trading facility
+means a trading facility that facilitates the execution or trading of digital commodity trades between persons.
+(B)
+Exclusion
+The term
+digital commodity trading facility
+does not include a person solely because that person validates digital commodity transactions.
+;
+(8)
+in paragraph (43) (as so redesignated)â
+(A)
+in the paragraph heading, by striking
+; member of a derivatives transaction execution facility
+;
+(B)
+in the matter preceding subparagraph (A), by striking
+entity or derivatives transaction execution facility,
+and inserting
+entity,
+;
+(C)
+in subparagraph (A), by striking
+entity
+and all that follows through the semicolon and inserting
+entity;
+; and
+(D)
+in subparagraph (B), by striking
+entity
+and all that follows through the period at the end and inserting
+entity.
+; and
+(9)
+in paragraph (49) (as so redesignated)â
+(A)
+by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; and
+(B)
+by inserting after subparagraph (D) the following:
+(E)
+a digital commodity trading facility registered under section 5i;
+.
+(b)
+Conforming amendments
+(1)
+Section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+) is amendedâ
+(A)
+in paragraph (26)(A) (as redesignated by subsection (a)(1)), in the matter preceding clause (i), by striking
+(18)(A)
+and inserting
+(27)(A)
+; and
+(B)
+in paragraph (27)(A)(vii)(III)(aa) (as redesignated by subsection (a)(1)), by striking
+(17)(A)
+and inserting
+(26)(A)
+.
+(2)
+Section 4(c)(1)(A)(i)(I) of the Commodity Exchange Act (
+7 U.S.C. 6(c)(1)(A)(i)(I)
+) is amended by striking
+paragraphs (2), (3), (4), (5), and (7), paragraph (18)(A)(vii)(III), paragraphs (23), (24), (31), (32), (38), (39), (41), (42), (46), (47), (48), and (49) of section 1a
+and inserting
+paragraphs (2), (5), (6), (7), (9), (27)(A)(vii)(III), (32), (33), (40), (41), (47), (48), (50), (51), (55), (56), (57), and (58) of section 1a
+.
+(3)
+Section 4q(a)(1) of the Commodity Exchange Act (
+7 U.S.C. 6q(a)(1)
+) is amended by striking
+1a(9)
+and inserting
+1a(11)
+.
+(4)
+Section 4s of the Commodity Exchange Act (
+7 U.S.C. 6s
+) is amendedâ
+(A)
+in subsection (f)(1)(D), by striking
+1a(47)(A)(v)
+and inserting
+1a(56)(A)(v)
+; and
+(B)
+in subsection (h)(5)(A)(i), in the matter preceding subclause (I), by striking
+1a(18)
+and inserting
+1a(27)(A)
+.
+(5)
+Section 4t(b)(1)(C) of the Commodity Exchange Act (
+7 U.S.C. 6t(b)(1)(C)
+) is amended by striking
+1a(47)(A)(v)),
+and inserting
+1a(56)(A)(v)),
+.
+(6)
+Section 5 of the Commodity Exchange Act (
+7 U.S.C. 7
+) is amendedâ
+(A)
+in subsection (d)(23), by striking
+1a(47)(A)(v)
+and inserting
+1a(56)(A)(v)
+; and
+(B)
+in subsection (e)(1), by striking
+1a(9)
+and inserting
+1a(11)
+.
+(7)
+Section 5b(k)(3)(A) of the Commodity Exchange Act (
+7 U.S.C. 7aâ1(k)(3)(A)
+) is amended by striking
+1a(47)(A)(v))
+and inserting
+1a(56)(A)(v))
+.
+(8)
+Section 5c(c)(4)(B) of the Commodity Exchange Act (
+7 U.S.C. 7aâ2(c)(4)(B)
+) is amended by striking
+1a(10)
+and inserting
+1a(11)
+.
+(9)
+Section 5h(f)(10)(A)(iii) of the Commodity Exchange Act (
+7 U.S.C. 7bâ3(f)(10)(A)(iii)
+) is amended by striking
+1a(47)(A)(v)
+and inserting
+1a(56)(A)(v)
+.
+(10)
+Section 21(f)(4)(C) of the Commodity Exchange Act (
+7 U.S.C. 24a(f)(4)(C)
+) is amended by striking
+1a(48)
+and inserting
+1a(57)
+.
+(11)
+Section 403 of the Legal Certainty for Bank Products Act of 2000 (
+7 U.S.C. 27a
+) is amendedâ
+(A)
+in subsection (a)(2), by striking
+1a(47)(A)(v)
+and inserting
+1a(56)(A)(v)
+; and
+(B)
+in subsection (b)(1), by striking
+1a(47)
+and inserting
+1a
+.
+(12)
+Section 5(e) of the Securities Act of 1933 (
+15 U.S.C. 77e(e)
+) is amended by striking
+section 1a(18) of the Commodity Exchange Act (
+7 U.S.C. 1a(18)
+)
+and inserting
+section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+)
+.
+(13)
+Section 3C(g)(3)(A)(v) of the Securities Exchange Act of 1934 (
+15 U.S.C. 78câ3(g)(3)(A)(v)
+) is amended by striking
+section 1a(10) of the Commodity Exchange Act;
+and inserting
+section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+);
+.
+(14)
+Section 6(g)(5)(B)(i) of the Securities Exchange Act of 1934 (
+15 U.S.C. 78f(g)(5)(B)(i)
+) is amendedâ
+(A)
+in subclause (I), by striking
+section 1a(18)(B)(ii) of the Commodity Exchange Act
+and inserting
+subparagraph (B)(ii) of section 1a(27) of the Commodity Exchange Act (
+7 U.S.C. 1a(27)
+)
+; and
+(B)
+in subclause (II), by striking
+such section 1a(18))
+and inserting
+that section)
+.
+(15)
+Section 712(a)(8) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (
+15 U.S.C. 8302(a)(8)
+) is amended by striking
+section 1a(47)(D) of the Commodity Exchange Act (
+7 U.S.C. 1a(47)(D)
+)
+and inserting
+section 1a(56)(D) of the Commodity Exchange Act (
+7 U.S.C. 1a(56)(D)
+)
+.
+(16)
+Section 752(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (
+15 U.S.C. 8325(a)
+) is amended by striking
+section 1a(39) of the Commodity Exchange Act),
+and inserting
+section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+)),
+.
+3.
+Commission jurisdiction over digital commodity trades
+Section 2 of the Commodity Exchange Act (
+7 U.S.C. 2
+) is amendedâ
+(1)
+in subsection (a)(1)(A), in the first sentence, by striking
+section 19 of this Act
+and inserting
+subsection (c)(2)(F) or section 19
+; and
+(2)
+in subsection (c)(2), by adding at the end the following:
+(F)
+Commission jurisdiction over digital commodity trades
+(i)
+In general
+Except as provided in clause (ii), this Act applies to, and the Commission shall have exclusive jurisdiction over, any account, agreement, contract, or transaction involving a digital commodity trade.
+(ii)
+Exception
+Nothing in this Act applies to, and the Commission shall not have jurisdiction over, any digital commodity transaction by a merchant or consumer that uses a digital commodity solely for the purchase or sale of a good or service.
+(iii)
+Prohibition on certain trading practices
+Sections 4b, 4c, and 6(c) shall apply to any digital commodity trade as if the digital commodity trade were a contract of sale of a commodity for future delivery.
+.
+4.
+Digital commodity platforms
+The Commodity Exchange Act is amended by inserting after section 5h (
+7 U.S.C. 7bâ3
+) the following:
+5i.
+Digital commodity platforms
+(a)
+Registration
+(1)
+Requirement
+It shall be unlawful for any person to act as any category of digital commodity platform unless the person is registered under this section as that category of digital commodity platform.
+(2)
+Applications
+A person desiring to register as any category of digital commodity platform shall submit to the Commission an application in such form and containing such information as the Commission may require for the purpose of determining whether the applicant is in compliance with subsection (b) and the other requirements of this Act.
+(3)
+Multiple registrations
+As appropriate to further the purposes of this Act and avoid duplicative or unnecessary requirements, and taking into consideration potential conflicts of interest or other risks, the Commission may prescribe rules or regulations permitting, or may otherwise authorizeâ
+(A)
+registration by a person in more than 1 category of digital commodity platform;
+(B)
+a registered entity, a swap dealer, or a futures commission merchant registered under this Act to register under this section in 1 or more categories of digital commodity platform; and
+(C)
+exemptions or additional requirements applicable to persons with multiple registrations under this Act.
+(b)
+Core principles for digital commodity platforms
+(1)
+Compliance with core principles
+(A)
+In general
+To be registered, and maintain registration, as a digital commodity platform, the digital commodity platform shall comply withâ
+(i)
+the core principles described in this subsection; and
+(ii)
+any requirement that the Commission may impose by rule or regulation.
+(B)
+Reasonable discretion of digital commodity platform
+Unless otherwise determined by the Commission by rule or regulation, a digital commodity platform described in subparagraph (A) shall have reasonable discretion in establishing the manner in which the digital commodity platform complies with the core principles described in this subsection.
+(2)
+Core principles applicable to digital commodity trading facilities
+(A)
+Compliance with rules
+A digital commodity trading facility shallâ
+(i)
+establish and enforce compliance with any rule of the digital commodity trading facility, includingâ
+(I)
+the terms and conditions of the transactions in digital commodities traded or processed on or through the digital commodity trading facility; and
+(II)
+any limitation on access to the digital commodity trading facility;
+(ii)
+establish and enforce trading, trade processing, and participation rules that will deter abuses and have the capacity to detect, investigate, and enforce those rules, including meansâ
+(I)
+to provide market participants with impartial access to the market; and
+(II)
+to capture information that may be used in establishing whether rule violations have occurred; and
+(iii)
+establish rules governing the operation of the digital commodity trading facility.
+(B)
+Digital commodity transactions not readily susceptible to manipulation
+A digital commodity trading facility shall permit trading only in transactions in digital commodities that are not readily susceptible to manipulation.
+(C)
+Monitoring of trading and trade processing
+(i)
+Markets and mechanisms
+(I)
+In general
+A digital commodity trading facility shall provide a competitive, open, and efficient market and mechanism for executing transactions that protects the price discovery process of trading on the digital commodity trading facility.
+(II)
+Centralized market
+A digital commodity trading facility shall provide a centralized market for executing transactions.
+(ii)
+Protection of markets and market participants
+A digital commodity trading facility shall establish and enforce rulesâ
+(I)
+to protect markets and market participants from abusive practices committed by any party, including abusive practices committed by a party acting as an agent for a participant; and
+(II)
+to promote fair and equitable trading on the digital commodity trading facility.
+(iii)
+Procedures and monitoring
+A digital commodity trading facility shallâ
+(I)
+establish and enforce rules or terms and conditions defining, or specifications detailingâ
+(aa)
+trading procedures to be used in entering and executing orders traded on or through the facilities of the digital commodity trading facility; and
+(bb)
+procedures for trade processing of digital commodities on or through the facilities of the digital commodity trading facility; and
+(II)
+monitor trading in digital commodities to prevent manipulation, price distortion, and disruptions of the delivery or settlement process through surveillance, compliance, and disciplinary practices and procedures, including investigations, sanctions, and methods for conducting real-time monitoring of trading and comprehensive and accurate trade reconstructions.
+(D)
+Ability to obtain information
+A digital commodity trading facility shallâ
+(i)
+establish and enforce rules that will allow the digital commodity trading facility to obtain any necessary information to perform any of the functions described in this section;
+(ii)
+provide the information to the Commission on request; and
+(iii)
+have the capacity to carry out such international information-sharing agreements as the Commission may require.
+(E)
+Financial integrity of transactions
+A digital commodity trading facility shall establish and enforce rules and procedures for ensuring the financial integrity of digital commodity trades entered on or through the facilities of the digital commodity trading facility.
+(F)
+Emergency authority
+A digital commodity trading facility shall adopt rules to provide for the exercise of emergency authority, in consultation or cooperation with the Commission, as is necessary and appropriate, including the authority to liquidate or transfer open positions in any digital commodity or to suspend or curtail trading in a digital commodity.
+(G)
+Timely publication of trading information
+(i)
+In general
+A digital commodity trading facility shall make public timely information on price, trading volume, and other trading data on digital commodities to the extent prescribed by the Commission.
+(ii)
+Capacity of digital commodity trading facility
+A digital commodity trading facility shall be required to have the capacity to electronically capture and transmit trade information with respect to transactions executed on the digital commodity trading facility.
+(H)
+Availability of general information
+A digital commodity trading facility shall make available to market authorities, market participants, and the public accurate information concerningâ
+(i)
+the terms and conditions of the contracts for transactions in digital commodities;
+(ii)
+the rules and mechanisms for executing digital commodity trades on or through the facilities of the digital commodity trading facility; and
+(iii)
+the rules and specifications describing the operation of the electronic matching platform or trade execution facility of the digital commodity trading facility.
+(I)
+Disciplinary procedures
+A digital commodity trading facility shall establish and enforceâ
+(i)
+disciplinary procedures that authorize the digital commodity trading facility to discipline, suspend, or expel market participants that violate the rules of the digital commodity trading facility; or
+(ii)
+similar methods for performing the functions described in clause (i), including delegation to third parties.
+(J)
+Dispute resolution
+A digital commodity trading facility shall establish and enforce rules regarding, and provide facilities for alternative dispute resolution, as appropriate, for, market participants and market intermediaries.
+(3)
+Core principles applicable to digital commodity dealers and digital commodity brokers
+(A)
+Execution
+A digital commodity dealer or digital commodity brokerâ
+(i)
+shall establish prices fairly and objectively;
+(ii)
+shall disclose the basis for those prices; and
+(iii)
+shall not disrupt market functioning or hinder the price discovery process.
+(B)
+Daily trading records
+(i)
+In general
+A digital commodity dealer or digital commodity broker shall keep full, complete, and systematic records (including all pertinent data and memoranda) of all transactions relating to its business of dealing or brokerage in digital commodity transactions.
+(ii)
+Included communications
+A digital commodity dealer or digital commodity broker shall keep all oral and written communications provided or received concerning quotes, solicitations, bids, offers, instructions, trading, and prices that lead to the execution of a transaction in a digital commodity.
+(C)
+Business conduct standards
+A digital commodity dealer or digital commodity broker shall conform with such business conduct standards as may be prescribed by the Commission by rule or regulation that relate toâ
+(i)
+fraud, manipulation, and other abusive practices involving digital commodity trades (including digital commodity trades that are offered but not entered into);
+(ii)
+diligent supervision of the business of the digital commodity dealer or digital commodity broker; and
+(iii)
+such other matters as the Commission determines to be appropriate.
+(D)
+Duties
+A digital commodity dealer or digital commodity broker shall comply with the following requirements:
+(i)
+Risk management procedures
+The digital commodity dealer or digital commodity broker shall establish robust and professional risk management systems adequate for managing the day-to-day business of the digital commodity dealer or digital commodity broker.
+(ii)
+Disclosure of general information
+The digital commodity dealer or digital commodity broker shall disclose to the Commission, as applicable, information concerningâ
+(I)
+terms and conditions of its digital commodity trades;
+(II)
+trading operations, mechanisms, and practices;
+(III)
+financial integrity protections relating to transactions in digital commodity trades; and
+(IV)
+other information relevant to its digital commodity trades.
+(E)
+Ability to obtain information
+A digital commodity dealer or digital commodity broker shallâ
+(i)
+establish and enforce internal systems and procedures to obtain any necessary information to perform any of the functions described in this section; and
+(ii)
+provide the information described in clause (i) to the Commission on request.
+(4)
+Core principles applicable to all digital commodity platforms
+(A)
+Recordkeeping and reporting
+A digital commodity platform shallâ
+(i)
+(I)
+maintain records of all activities relating to the business of the digital commodity platform, including a complete audit trail, in a form and manner acceptable to the Commission for a period of 5 years; and
+(II)
+keep the records described in subclause (I) open to inspection by the Commission;
+(ii)
+provide to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this Act; and
+(iii)
+make such reports as are required by the Commission relating to the transactions and positions of the customers of the digital commodity platform.
+(B)
+Antitrust considerations
+Unless necessary or appropriate to achieve the purposes of this Act, a digital commodity platform shall notâ
+(i)
+adopt any rules or take any actions that result in any unreasonable restraint of trade; or
+(ii)
+impose any material anticompetitive burden on trading or custody.
+(C)
+Conflicts of interest
+The Commission shall require conflict of interest systems and procedures thatâ
+(i)
+establish structural and institutional safeguardsâ
+(I)
+to minimize conflicts of interest that might potentially bias the judgment or supervision of a digital commodity platform and contravene the core principles of fair and equitable trading and the business conduct standards described in this Act, including conflicts arising out of transactions or arrangements with affiliates (including affiliates acting as issuers, market-makers, or custodians); and
+(II)
+which may include, as the Commission determines to be appropriate, information partitions and the legal separation of different categories of digital commodity platforms;
+(ii)
+establish a process for resolving conflicts of interest described in clause (i);
+(iii)
+require disclosure by a digital commodity platform of any material incentives or conflicts of interest that the digital commodity platform is unable to resolve; and
+(iv)
+address such other issues as the Commission determines to be appropriate.
+(D)
+Financial resources
+(i)
+In general
+A digital commodity platform shall have adequate financial, operational, and managerial resources to discharge each responsibility of the digital commodity platform.
+(ii)
+Financial resources for margin trading
+The Commission shall require such additional financial resources as are necessary to enable a digital commodity platform to fulfill obligations of the digital commodity platform arising from margined, leveraged, or financed transactions.
+(E)
+System safeguards
+A digital commodity platform shallâ
+(i)
+establish and maintain a program of risk analysis and oversight to identify and minimize sources of operational risk (including cybersecurity risk), through the development of appropriate controls and procedures, and automated systems, thatâ
+(I)
+are reliable and secure; and
+(II)
+have adequate scalable capacity;
+(ii)
+establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow forâ
+(I)
+the timely recovery and resumption of operations; and
+(II)
+the fulfillment of the responsibilities and obligations of the digital commodity platform; and
+(iii)
+periodically conduct tests to verify that the backup resources of the digital commodity platform are sufficient to ensure continuedâ
+(I)
+order processing and trade matching;
+(II)
+price reporting;
+(III)
+market surveillance; and
+(IV)
+maintenance of a comprehensive and accurate audit trail.
+(F)
+Designation of chief compliance officer
+(i)
+In general
+A digital commodity platform shall designate an individual to serve as a chief compliance officer (referred to in this paragraph as a
+chief compliance officer
+).
+(ii)
+Duties
+A chief compliance officer shallâ
+(I)
+report directly to the board or to the senior officer of the digital commodity platform;
+(II)
+review compliance with the core principles described in this subsection;
+(III)
+in consultation with the board of the digital commodity platform, a body performing a function similar to that of a board, or the senior officer of the digital commodity platform, resolve any conflicts of interest that may arise;
+(IV)
+be responsible for establishing and administering the policies and procedures required to be established pursuant to this section;
+(V)
+ensure compliance with this Act and the rules and regulations issued under this Act, including rules prescribed by the Commission pursuant to this section; and
+(VI)
+establish procedures for the remediation of noncompliance issues found during compliance office reviews, look backs, internal or external audit findings, self-reported errors, or through validated complaints.
+(iii)
+Requirements for procedures
+In establishing procedures under clause (ii)(VI), a chief compliance officer shall design the procedures to establish the handling, management response, remediation, retesting, and closing of noncompliance issues.
+(iv)
+Annual reports
+(I)
+In general
+In accordance with rules prescribed by the Commission, a chief compliance officer shall annually prepare and sign a report that contains a description ofâ
+(aa)
+the compliance of the digital commodity platform with this Act; and
+(bb)
+the policies and procedures, including the code of ethics and conflict of interest policies, of the digital commodity platform.
+(II)
+Requirements
+A chief compliance officer shallâ
+(aa)
+submit each report described in subclause (I) with the appropriate financial report of the digital commodity platform that is required to be submitted to the Commission pursuant to this section; and
+(bb)
+include in the report a certification that, under penalty of law, the report is accurate and complete.
+(G)
+Governance; fitness standards
+(i)
+Governance arrangements
+A digital commodity platform shall establish governance arrangements that are transparent to fulfill public interest requirements.
+(ii)
+Fitness standards
+A digital commodity platform shall establish and enforce appropriate fitness standards forâ
+(I)
+directors; and
+(II)
+any entity offering affiliated services for the digital commodity platform.
+(H)
+Treatment of customer assets
+(i)
+In general
+A digital commodity platform shall hold customer property (including digital commodities) in a manner that minimizes the risk of loss of, or unreasonable delay in access to, the customer property.
+(ii)
+Segregation of funds
+(I)
+In general
+A digital commodity platform shall treat and deal with all customer property that is received by the digital commodity platform as belonging to the customer.
+(II)
+Commingling prohibited
+Customer property described in subclause (I)â
+(aa)
+shall be separately accounted for; and
+(bb)
+shall not be commingled with the assets of the digital commodity platform.
+(iii)
+Exceptions
+(I)
+Use of funds
+Notwithstanding clause (ii), customer property described in that clause may, for convenience, be commingled in the same account or accounts withâ
+(aa)
+an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+));
+(bb)
+an insured credit union (as defined in section 101 of the Federal Credit Union Act (
+12 U.S.C. 1752
+)); or
+(cc)
+a digital commodity platform.
+(II)
+Withdrawal
+Notwithstanding clause (ii), such share of the customer property described in that clause as, in the normal course of business, is necessary to margin, guarantee, secure, transfer, adjust, or settle a digital commodity transaction with a digital commodity platform, or with any customer of a digital commodity platform, may be withdrawn and applied to such purposes lawfully accruing in connection with the digital commodity transaction, including the payment of commissions, taxes, and brokerage, interest, storage, and other charges.
+(III)
+Commission action
+Notwithstanding clause (ii)â
+(aa)
+the Commission may adopt rules or regulations permitting the lending of digital commodities by a digital commodity platform holding those digital commodities for customers, subject to such conditions as the Commission may prescribe to protect customers and achieve the purposes of this Act; and
+(bb)
+in accordance with such terms and conditions as the Commission may prescribe by rule, regulation, or order, any customer property described in that clause may be commingled and deposited in customer accounts with any other money, securities, or property received by the digital commodity platform and required by the Commission to be separately accounted for, treated, and dealt with as belonging to customers.
+(iv)
+Permitted investments
+(I)
+In general
+Customer property described in clause (ii) in the form of money may be invested inâ
+(aa)
+obligations of the United States;
+(bb)
+obligations the principal and interest of which are fully guaranteed by the United States; and
+(cc)
+any other investment that the Commission may by rule or regulation prescribe.
+(II)
+Rules and conditions
+Investments under subclause (I) shall be made in accordance with such rules and regulations, and subject to such conditions, as the Commission may prescribe.
+(v)
+Prohibition
+It shall be unlawful for any person, including a digital commodity platform or a depository institution, that has received any customer property for deposit in a separate account or accounts in accordance with clause (ii) to hold, dispose of, or use that customer property as belonging to the depositing digital commodity platform or any person other than the customers of the digital commodity platform.
+(c)
+Rules governing margined or leveraged trading
+The Commission may make, promulgate, and enforce such rules governing margined, leveraged, or financed digital commodity trades on digital commodity platforms as are reasonably necessary to protect the public interest and promote the orderly settlement of transactions.
+(d)
+Contract listings, rules, and rule amendments for digital commodity trading facilities
+(1)
+In general
+Subject to the requirements under this subsection, a digital commodity trading facility mayâ
+(A)
+list for trading a contract for a digital commodity; and
+(B)
+approve and implement a new rule or rule amendment.
+(2)
+Certification from digital commodity trading facility
+A digital commodity trading facility that elects to carry out an activity described in subparagraph (A) or (B) of paragraph (1) shall, prior to carrying out that activity, provide to the Commission a written certification that the contract, new rule, or rule amendment, as applicable, complies with this Act (including regulations under this Act).
+(3)
+Effective date of listing, rule, and rule amendment
+Subject to paragraph (4), a listing, rule, or rule amendment described in paragraph (1) shall become effective on the date that isâ
+(A)
+in the case of a listing of a contract that has not previously been listed on any digital commodity trading facility, 30 business days after the date on which the Commission receives the certification (or such shorter period as determined by the Commission by rule or regulation); or
+(B)
+in any other case, 10 business days after the date on which the Commission receives the certification (or such shorter period as determined by the Commission by rule or regulation).
+(4)
+Stay of certification
+(A)
+In general
+The Commission may stay a certification for a listing, rule, or rule amendment described in paragraph (1) by notifying the digital commodity trading facility that the Commission is staying the certification because there existsâ
+(i)
+a novel or complex issue that requires additional time to analyze;
+(ii)
+an inadequate explanation by the submitting digital commodity trading facility; or
+(iii)
+a potential inconsistency with this Act (including regulations under this Act).
+(B)
+Duration of stay
+A stay of certification by the Commission under subparagraph (A) shall be for a period of not more than 90 days, beginning on the date of the notification by the Commission under that subparagraph.
+(C)
+Effective date after stay
+A listing, rule, or rule amendment subject to a stay under subparagraph (A) shall become effective on the expiration of the period described in subparagraph (B), unless the Commissionâ
+(i)
+withdraws the stay prior to that time; or
+(ii)
+notifies the digital commodity trading facility during such period that the Commission objects to the proposed certification and disapproves a listing, rule, or rule amendment pursuant to paragraph (5).
+(D)
+Public comment
+The Commission may provide a public comment period of not less than 30 days, within the period in which a stay is in effect under subparagraph (B), whenever the Commission reviews a listing, rule, or rule amendment pursuant to a notification by the Commission under subparagraph (A).
+(5)
+Disapproval
+(A)
+In general
+The Commission may disapprove a listing, rule, or rule amendment described in paragraph (1) if the Commission determines that the listing, rule, or rule amendment is inconsistent with this Act (including the considerations in subparagraph (B) and regulations under this Act).
+(B)
+Considerations
+In making a determination described in subparagraph (A) with respect to a listing for a digital commodity, the Commission may consider, among other thingsâ
+(i)
+whether the operating structure and system of the digital commodity is secure from cybersecurity threats, including the possibility of material alterations by persons acting collectively;
+(ii)
+whether the functionality of the digital commodity will protect holders from operational failures;
+(iii)
+with respect to a digital commodity that purports to have a fixed valueâ
+(I)
+an identification and description of the issuer of the digital commodity;
+(II)
+the collateral or reserves backing the digital commodity; and
+(III)
+the terms by which the issuer will redeem the digital commodity; and
+(iv)
+whether the digital commodity and the market for the digital commodity are not readily susceptible to manipulation.
+(6)
+Prior approval
+(A)
+In general
+A digital commodity trading facility may request that the Commission grant prior approval to the listing of any new contract for a digital commodity.
+(B)
+Deadline
+If prior approval is requested under subparagraph (A), the Commission shall take final action on the request not later than 90 days after submission of the request, unless the person submitting the request agrees to an extension of the time limitation established under this subparagraph.
+(C)
+Disapproval
+Paragraphs (4) and (5) shall apply to Commission action on a request under this paragraph.
+(7)
+Delisting; Revocation
+After the listing of a contract for a digital commodity has taken effect, the Commission may require the delisting of the contract or disapprove the listing in accordance with paragraph (5).
+(8)
+Disclosures
+(A)
+In general
+The Commission shall require a digital commodity trading facility to disclose to the public, on a timely basis, with respect to a listing described in paragraph (1)(A)â
+(i)
+the operating structure and system of the digital commodity; and
+(ii)
+the trading volume and volatility of the digital commodity.
+(B)
+Format
+The Commission shall prescribe rules and regulations for the standardization and simplification of disclosures under subparagraph (A) and subsection (f)(1)(A), including requiring that disclosuresâ
+(i)
+are conspicuous;
+(ii)
+use plain language comprehensible to customers; and
+(iii)
+succinctly explain the information that is required to be communicated to the customer.
+(e)
+Product listing for digital commodity brokers and digital commodity dealers
+(1)
+In general
+A digital commodity broker and a digital commodity dealer may only trade, or arrange a trade, in a contract for a digital commodity that is not readily susceptible to manipulation.
+(2)
+Disclosure, listing, and certification requirements
+A digital commodity broker and a digital commodity dealer may only trade, or arrange for trading, in digital commodities that have met the requirements of subsection (d) (including the listing and disclosure requirements).
+(f)
+Customer protection
+The Commission shall adopt customer protection requirements thatâ
+(1)
+require disclosure by a digital commodity platform to a customer (other than another digital commodity platform registered under this section) ofâ
+(A)
+information about the material risks and characteristics of any applicable digital commodity contracts; and
+(B)
+any material incentives or conflicts of interest that the digital commodity platform may have in connection with any applicable digital commodity contracts;
+(2)
+establish a duty for a digital commodity platform to communicate in a fair and balanced manner based on principles of fair dealing and good faith;
+(3)
+establish standards governing digital commodity platform marketing and advertising, including testimonials and endorsements; and
+(4)
+establish such other standards and requirements as the Commission may determine areâ
+(A)
+in the public interest;
+(B)
+appropriate for the protection of customers; or
+(C)
+otherwise in furtherance of the purposes of this Act.
+(g)
+Examination and publication of energy consumption in digital commodity markets
+(1)
+In general
+The Commission shall examine, in collaboration with other Federal regulatory agencies as the Commission determines appropriate, the energy consumption and sources of energy used in connection with the creation and transfer of the most widely traded digital commodities.
+(2)
+Report
+Not later than 180 days after the date of enactment of the
+Digital Commodities Consumer Protection Act of 2022
+, the Commission shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describingâ
+(A)
+an estimate of the energy consumption and sources of energy used in connection with the creation and transfer of the most widely traded digital commodities; and
+(B)
+the methodology used by the Commission to generate the estimate described in subparagraph (A).
+(3)
+Publication
+Using the methodology described in paragraph (2)(B), the Commission shall publish on the website of the Commission, and periodically update on a timely basis, an estimate of the energy consumption and sources of energy used in connection with the creation and transfer of the most widely traded digital commodities.
+(h)
+Prohibition on fraud, deception, and manipulation
+It shall be unlawful for any digital commodity platform to engage in any act, practice, or course of business in connection with its business as a digital commodity platform that is fraudulent, deceptive, or manipulative.
+(i)
+Self-Regulation
+(1)
+In general
+A digital commodity broker, digital commodity dealer, or digital commodity custodian shall be a member of a registered futures association, regardless of whether such person is separately registered as a digital commodity trading facility.
+(2)
+Delegation of registration functions
+The Commission may authorize any registered futures association to perform any portion of the registration functions with respect to digital commodity platforms, associated persons of digital commodity brokers, and associated persons of digital commodity dealersâ
+(A)
+in accordance with rules, notwithstanding any other provision of law, adopted by that registered futures association and submitted to the Commission for approval; and
+(B)
+subject to the provisions of this section applicable to registrations granted by the Commission.
+(j)
+Dual registration
+A digital commodity platform registered under this section may also be registered with the Securities and Exchange Commission as an exchange, broker, or dealer (as those terms are defined in section 3 of the Securities Exchange Act of 1934 (
+15 U.S.C. 78c
+)) or another trading platform.
+(k)
+Fees for registration
+(1)
+In general
+The Commission shall, in accordance with this subsection, assess and collect fees, which shall be used to recover the annual costs ofâ
+(A)
+registering digital commodity platforms;
+(B)
+conducting oversight of digital commodity trades; and
+(C)
+carrying out education and outreach under subsection (l).
+(2)
+Determination of fee rates
+In determining fee rates under paragraph (1), the Commission shall considerâ
+(A)
+the volume of business of the digital commodity platform; and
+(B)
+the category of the digital commodity platform.
+(3)
+Prohibitions
+(A)
+Commission
+The Commission shall not require a digital commodity platform to collect directly from customers a per-transaction fee for each digital commodity trade.
+(B)
+Digital commodity platforms
+A digital commodity platform shall not impose directly on customers a per-transaction fee for each digital commodity trade to pay the fees under paragraph (1).
+(4)
+Publication
+Not later than 60 days after the date of enactment of an Act making a regular appropriation to the Commission for a fiscal year, the Commission shall publish in the Federal Register a notice ofâ
+(A)
+the fee rates determined pursuant to this subsection for that fiscal year; and
+(B)
+any estimates or projections on which those fee rates are based.
+(5)
+Records and disclosure
+In carrying out this subsection, the Commission shall not be required to comply with section 553 of title 5, United States Code.
+(6)
+No judicial review
+A fee rate prescribed under this subsection shall not be subject to judicial review.
+(7)
+Deposit of fees
+Fees collected pursuant to this subsection for any fiscal year shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission.
+(8)
+Annual adjustment
+For each fiscal year, the Commission shall, by order, determine fee rates pursuant to this subsection that are reasonably likely to produce aggregate fee collections that are equal to the annual appropriation to the Commission by Congress for activities relating to the registration of digital commodity platforms and the oversight of digital commodity trades.
+(9)
+Lapse of appropriation
+If, on the first day of a fiscal year, a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect (as offsetting collections) fees pursuant to this subsection at each of the rates in effect during the preceding fiscal year.
+(10)
+Budget requests
+The Commission shall itemize in each budget submitted to the President or the Office of Management and Budget the estimated annual costs ofâ
+(A)
+registering digital commodity platforms;
+(B)
+conducting oversight of digital commodity trades; and
+(C)
+carrying out education and outreach under subsection (l).
+(11)
+Limitations
+(A)
+In general
+Fees may only be assessed and imposed pursuant to this subsection on digital commodity platforms regulated by the Commission pursuant to this section.
+(B)
+Use of fees
+Fees authorized under this subsection are prohibited from funding any Commission activity not directly related to the registration of digital commodity platforms, the oversight of digital commodity trades, and the education and outreach carried out under subsection (l).
+(l)
+Customer education and outreach
+The Commission shall provide education and outreach to customers participating in digital commodity markets.
+(m)
+Inspection
+The Commission may inspect and monitor digital commodity platforms, on an ongoing basis, for the purpose of ensuring compliance with this Act.
+(n)
+Preemption of State laws
+(1)
+In general
+The registration of a digital commodity platform, an associated person of a digital commodity broker, or an associated person of a digital commodity dealer under this sectionâ
+(A)
+shall preempt any applicable registration requirements under State laws relating to money transmission, virtual currency, and commodity brokers; and
+(B)
+shall not affect the applicability of State antifraud laws.
+(2)
+Compliance
+Beginning on the effective date of a registration of a digital commodity platform under this section, the digital commodity platform shall not be required to comply with applicable State law requirements relating to money transmission, virtual currency, and commodity brokerage.
+(o)
+Regulations
+The Commission shall prescribe such rules and regulations as are appropriate for the implementation of this section.
+.
+5.
+Additional amendments
+(a)
+Retail commodity transactions
+Section 2(c)(2)(D)(ii) of the Commodity Exchange Act (
+7 U.S.C. 2(c)(2)(D)(ii)
+) is amendedâ
+(1)
+in subclause (III)(bb), by striking
+or
+at the end;
+(2)
+by redesignating subclauses (IV) and (V) as subclauses (V) and (VI), respectively; and
+(3)
+by inserting after subclause (III) the following:
+(IV)
+a digital commodity trade;
+.
+(b)
+Applicability
+Section 2(i) of the Commodity Exchange Act (
+7 U.S.C. 2(i)
+) is amendedâ
+(1)
+by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately;
+(2)
+in the matter preceding subparagraph (A) (as so redesignated), by striking
+The provisions
+and inserting the following:
+(1)
+Swaps
+The provisions
+; and
+(3)
+by adding at the end the following:
+(2)
+Digital commodities
+The provisions of this Act (including any rule prescribed or regulation promulgated under this Act) relating to digital commodities shall not apply to activities outside the United States unless those activitiesâ
+(A)
+have a reasonably foreseeable significant effect within the United States;
+(B)
+involve, for the purpose of soliciting or accepting any order for, or otherwise dealing in, digital commoditiesâ
+(i)
+the offering to enter into, entering into, execution, or confirming the execution of digital commodities with any United States person; or
+(ii)
+the conducting of any office or business anywhere in the United States (including any territory or possession of the United States); or
+(C)
+contravene such rules or regulations as the Commission may prescribe or promulgate as are necessary or appropriate to prevent the evasion of any provision of this Act.
+.
+(c)
+Registration of associated persons
+(1)
+In general
+Section 4k of the Commodity Exchange Act (
+7 U.S.C. 6k
+) is amendedâ
+(A)
+by redesignating paragraphs (4) through (6) as paragraphs (5) through (7);
+(B)
+by inserting after paragraph (3) the following:
+(4)
+It shall be unlawful for any person to act as an associated person of a digital commodity broker or an associated person of a digital commodity dealer unless such person is registered with the Commission under this Act and such registration shall not have expired, been suspended (and the period of suspension has not expired), or been revoked. It shall be unlawful for a digital commodity broker or a digital commodity dealer to permit such a person to become or remain associated with the digital commodity broker or digital commodity dealer if such digital commodity broker or digital commodity dealer knew or should have known that such person was not so registered or that such registration had expired, been suspended (and the period of suspension has not expired), or been revoked.
+; and
+(C)
+in paragraph (5) (as so redesignated), by striking
+or of a commodity trading advisor
+and inserting
+of a commodity trading advisor, of a digital commodity broker, or of a digital commodity dealer
+.
+(2)
+Conforming amendment
+The Commodity Exchange Act (
+7 U.S.C. 1a et seq.
+) is amended by striking
+section 4k(6)
+each place it appears and inserting
+section 4k(7)
+.
+(d)
+Commodity trading advisers; commodity pool operators
+(1)
+In general
+Section 4l of the Commodity Exchange Act (
+7 U.S.C. 6l
+) is amendedâ
+(A)
+in paragraph (2), by striking
+derivatives transaction execution facilities
+and inserting
+digital commodity trades on or subject to the rules of digital commodity trading facilities
+; and
+(B)
+in paragraph (3), by striking
+derivatives transaction execution facilities
+and inserting
+digital commodity trading facilities
+.
+(2)
+Use of mail or other interstate commerce
+Section 4m(3)(C) of the Commodity Exchange Act (
+7 U.S.C. 6m(3)(C)
+) is amended by inserting
+digital commodity trades,
+before
+and any monies
+.
+(3)
+Registration
+Section 4n(3)(B) of the Commodity Exchange Act (
+7 U.S.C. 6n(3)(B)
+) is amended by inserting
+or digital commodity
+after
+futures market
+.
+(e)
+Acceptable business practices under core principles
+Section 5c(a)(1) of the Commodity Exchange Act (
+7 U.S.C. 7aâ2(a)(1)
+) is amended by striking
+and 5b(c)(2),
+and inserting
+, 5b(c)(2), and 5i(b)
+.
+(f)
+Public disclosure
+Section 8(a)(1) of the Commodity Exchange Act (
+7 U.S.C. 12(a)(1)
+) is amended, in the first sentence of the matter preceding subparagraph (A), by inserting
+, digital commodity platforms,
+after
+boards of trade
+.
+(g)
+Anti-Money laundering
+(1)
+Amendment
+Section 5312(a)(2) of title 31, United States Code, is amendedâ
+(A)
+by redesignating subparagraphs (Y) and (Z) as subparagraphs (Z) and (AA), respectively; and
+(B)
+by inserting after subparagraph (X) the following:
+(Y)
+a digital commodity platform (as defined in section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+));
+.
+(2)
+Regulations
+(A)
+Proposed regulations
+Not later than 180 days after the date of enactment of this Act, the Secretary of the Treasury, after consultation with the Commodity Futures Trading Commission, shall publish proposed regulations in the Federal Register requiring a digital commodity platform (as defined in section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+)) registered with the Commodity Futures Trading Commission to submit a report of any suspicious transaction under section 5318(g) of title 31, United States Code.
+(B)
+Final regulations
+Not later than 180 days after the date of publication of the proposed regulations under subparagraph (A), the Secretary of the Treasury shall publish those regulations in final form.
+(h)
+Registration of commodity dealers and associated persons
+Section 8a of the Commodity Exchange Act (
+7 U.S.C. 12a
+) is amendedâ
+(1)
+in paragraph (1), by inserting
+digital commodity brokers, associated persons of digital commodity brokers, digital commodity dealers, associated persons of digital commodity dealers,
+after
+to register
+;
+(2)
+in paragraph (2)â
+(A)
+in subparagraph (C)â
+(i)
+in clause (i), by inserting
+digital commodity broker, digital commodity dealer,
+before
+futures commission merchant
+; and
+(ii)
+in clause (ii), by striking
+contracts of
+and inserting
+a digital commodity trade or a contract of
+;
+(B)
+in subparagraph (D)â
+(i)
+in clause (i), by inserting
+digital commodity trade or
+before
+contract of sale
+; and
+(ii)
+in clause (ii), by inserting
+digital commodity broker, digital commodity dealer,
+before
+futures commission merchant
+; and
+(C)
+in subparagraph (E)(i), by striking
+Investors
+and inserting
+Investor
+;
+(3)
+in paragraph (3)â
+(A)
+in subparagraph (B)(i), by striking
+Investors
+and inserting
+Investor
+;
+(B)
+in subparagraph (E)â
+(i)
+in clause (i), by striking
+contract of sale of a commodity for future delivery or
+and inserting
+contract of sale of a commodity for future delivery, digital commodity trade, or
+; and
+(ii)
+in clause (ii), by inserting
+digital commodity broker, digital commodity dealer,
+before
+futures commission merchant
+; and
+(C)
+in subparagraph (J)â
+(i)
+by inserting
+a digital commodity trading facility,
+before
+a registered entity
+; and
+(ii)
+by striking
+registered entity, association
+and inserting
+digital commodity trading facility, registered entity, registered futures association
+;
+(4)
+in paragraph (4)â
+(A)
+by striking
+futures commission merchant
+and inserting
+digital commodity broker, digital commodity dealer, futures commission merchant,
+;
+(B)
+by inserting
+digital commodity subject to the rules of a digital commodity trading facility or
+before
+commodity
+; and
+(C)
+by inserting
+digital commodity trading facility or
+before
+registered entity
+each place it appears;
+(5)
+in paragraph (6), by inserting
+digital commodity trading facility, digital commodity custodian,
+before
+registered entity
+each place it appears; and
+(6)
+in paragraph (9)â
+(A)
+by inserting
+digital commodity trading facility or
+before
+registered entity
+each place it appears;
+(B)
+by inserting
+digital commodity or
+before
+futures contract
+each place it appears; and
+(C)
+by inserting
+digital commodity or
+before
+commodity
+each place it appears.
+(i)
+Amendments to title 11
+Title 11, United States Code, is amendedâ
+(1)
+in section 101(6), by inserting
+digital commodity platform, as defined in section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+),
+after
+leverage transaction merchant,
+; and
+(2)
+in section 761â
+(A)
+in paragraph (4)(F)â
+(i)
+in clause (i), by striking
+and
+at the end;
+(ii)
+in clause (ii), by inserting
+and
+after the semicolon; and
+(iii)
+by adding at the end the following:
+(iii)
+with respect to a digital commodity platform, a contract for a digital commodity tradeâ
+(I)
+held at a digital commodity platform; or
+(II)
+executed by or through a digital commodity platform;
+;
+(B)
+in paragraph (9)â
+(i)
+in subparagraph (D), by striking
+or
+at the end;
+(ii)
+in subparagraph (E)(ii)(II), by adding
+or
+after the semicolon at the end; and
+(iii)
+by adding at the end the following:
+(F)
+with respect to a digital commodity platformâ
+(i)
+entity for or with whom the digital commodity platform deals and that holds a claim against the digital commodity platform on account of a commodity contract made, received, acquired, or held by or through the digital commodity platform in the ordinary course of the business of the digital commodity platform as a digital commodity platform from or for a commodity contract account of the entity; or
+(ii)
+entity that holds a claim against the digital commodity platform arising out ofâ
+(I)
+the making, liquidation, or change in the value of a commodity contract of a kind specified in clause (i) of this subparagraph;
+(II)
+a deposit or payment of cash, a security, digital commodity, or other property with the digital commodity platform for the purpose ofâ
+(aa)
+making or margining the commodity contract; or
+(bb)
+holding in custody, or accepting a deposit, of property related to the making or margining of the commodity contract; or
+(III)
+the making or taking of delivery on the commodity contract.
+;
+(C)
+by redesignating paragraphs (11) through (17) as paragraphs (12) through (18), respectively; and
+(D)
+by inserting after paragraph (10) the following:
+(11)
+the terms
+digital commodity
+,
+digital commodity platform
+, and
+digital commodity trade
+have the meanings given those terms in section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+);
+.
+6.
+Applicability
+The amendments made by this Act shall not apply to any person regulated under the Commodity Exchange Act (
+7 U.S.C. 1 et seq.
+), as amended by this Act, until the date of effectiveness of the final rule of the Commodity Futures Trading Commission requiring registration of digital commodity platforms under section 5i of that Act.
+7.
+Report on historically underserved customers participating in digital commodity markets
+Not later than 180 days after the date of enactment of this Act, the Commodity Futures Trading Commission (referred to in this section as the
+Commission
+) shallâ
+(1)
+examine the racial, ethnic, and gender demographics of customers participating in digital commodity markets; and
+(2)
+submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a reportâ
+(A)
+describing how those demographics will inform the rules and regulations of the Commission relating to customer protection;
+(B)
+proposing ways in which the Commission can provide outreach to historically underserved customers participating in digital commodity markets; and
+(C)
+containing recommendations relating to any other activities the Commission determines to be necessary to provide appropriate protection, outreach, or other similar activities relating to historically underserved customers participating in digital commodity markets.

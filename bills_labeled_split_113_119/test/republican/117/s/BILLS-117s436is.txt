@@ -1,0 +1,276 @@
+1.
+Short title
+This Act may be cited as the
+American Broadband Buildout Act of 2021
+.
+2.
+Definitions
+In this Act:
+(1)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(2)
+Broadband availability maps
+The term
+broadband availability maps
+means the maps created by the Federal Communications Commission under section 802(c)(1) of the Communications Act of 1934 (
+47 U.S.C. 642(c)(1)
+).
+(3)
+Broadband internet access service
+The term
+broadband internet access service
+â
+(A)
+means mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up internet access service; and
+(B)
+includes any service that the Commission finds to be providing a functional equivalent of the service described in subparagraph (A) or that is used to evade the protections set forth in part 8 of title 47, Code of Federal Regulations, or any successor thereto.
+(4)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(5)
+Eligible entity
+The term
+eligible entity
+meansâ
+(A)
+a State; or
+(B)
+an entity authorized by a State to spend funds for a purpose described in section 3 or 4.
+(6)
+Last-mile infrastructure
+The term
+last-mile infrastructure
+means infrastructure the predominant purpose of which is to provide broadband internet access service to end users or end user devices, including households, businesses, community anchor institutions, public safety entities, and critical community facilities.
+(7)
+Overbuilding
+(A)
+In general
+Except as provided in subparagraph (B), the term
+overbuilding
+means deploying broadband infrastructure in an areaâ
+(i)
+that already hasâ
+(I)
+facilities capable of providing standard broadband service; or
+(II)
+broadband infrastructure that was built using funds from a Federal or State program that were provided for the express purpose of deploying broadband infrastructure;
+(ii)
+where Federal or State funding has already been committed for the deployment of facilities capable of providing standard broadband service, even if such service is not yet available, provided that the funding recipient is meeting any applicable buildout deadlines; or
+(iii)
+with respect to which a broadÂ­band internet access service provider has already made enforceable commitments to a Federal agency or State to deploy facilities capable of providing standard broadÂ­band service, even if such service is not yet available, provided that the broadband internet access service provider is meeting any applicable buildout deadlines.
+(B)
+Interconnect points
+The term
+overbuilding
+does not include deploying broadband infrastructure in an area described in subparagraph (A) if the infrastructure is deployed for the purpose of reaching interconnect points of standard broadband service to meet the needs of broadband users in another area that is an unserved area.
+(8)
+Qualifying project
+The term
+qualifying project
+means a projectâ
+(A)
+to construct last-mile infrastructure that will provide broadband internet access service at a speed of not less than 100 megabits per second for downloads and 10 megabits per second for uploads in an unserved area, without engaging in overbuilding; and
+(B)
+that is funded by a public-private partnership in whichâ
+(i)
+(I)
+the State in which the project is located provides a portion of the funds; or
+(II)
+the State in which the project is located and another entity, which may be a political subdivision of the State in which the project is located, together provide not less than 25 percent of the funds; and
+(ii)
+the private company or electric cooperative that will provide broadband internet access service to customers connected to the last-mile infrastructure provides not less than 25 percent of the funds.
+(9)
+Standard broadband service
+The term
+standard broadband service
+means broadÂ­band internet access service with a speed of not less thanâ
+(A)
+25 megabits per second for downloads; and
+(B)
+3 megabits per second for uploads.
+(10)
+State
+The term
+State
+has the meaning given the term in section 3 of the Communications Act of 1934 (
+47 U.S.C. 153
+).
+(11)
+Unserved area
+The term
+unserved area
+means a census block in which standard broadband service is not available to all households according toâ
+(A)
+the broadband availability maps; or
+(B)
+if the maps described in subparagraph (A) have not been completed at the time when the relevant grant is being awarded, any existing broadband availability data of the Commission, as well as any relevant data from the National Broadband Availability Map produced by the Assistant Secretary.
+3.
+Last-mile broadband infrastructure
+(a)
+Grants
+(1)
+In general
+The Commission shall award grants to eligible entities for qualifying projects.
+(2)
+Advisory role of NTIA
+The Commission shall carry out paragraph (1) in consultation with the Assistant Secretary, including by soliciting and taking into account the advice of the Assistant Secretary.
+(b)
+Prioritization
+The Commission shall give priority to qualifying projects in States in which, according to the broadband availability mapsâ
+(1)
+less than 68 percent of households subscribe to fixed terrestrial broadband internet access service with a speed of not less thanâ
+(A)
+10 megabits per second for downloads; and
+(B)
+1 megabit per second for uploads; and
+(2)
+less than 40.5 percent of households subscribe to fixed terrestrial standard broadband service.
+(c)
+High-Cost, geographically challenged areas
+The Commission shall ensure that not less than 15 percent of the amounts awarded under this section are used in unserved areas that are high-cost and geographically challenged, as determined by the Commission.
+(d)
+Population-Based allocation
+(1)
+In general
+In awarding grants under this section, the Commission shall allocate not less than $5,000,000,000 among the States based on the proportion that the population of each State bears to the population of all States.
+(2)
+Excess funds
+If the amount allocated for a State under paragraph (1) exceeds the allowable Federal share of the costs of projects of the State (or other eligible entity acting on behalf of the State) that are eligible for funding under this section, the Commission shall withhold the excess amount, which shall revert to the general fund of the Treasury.
+(3)
+Failure to apply
+If an eligible entity does not apply for a grant under this section by the last day of fiscal year 2022, the amount that would have been awarded to the eligible entity under paragraph (1) shall revert to the general fund of the Treasury.
+4.
+Public awareness campaigns; digital literacy programs
+The Commission shall award grants to eligible entitiesâ
+(1)
+to carry out public awareness campaigns designed to highlight the value and benefits of broadband internet access service, in order to increase the adoption of broadband internet access service; and
+(2)
+to support digital literacy programs in areas in which a qualifying project that receives funding under section 3 is located.
+5.
+Federal share
+(a)
+In general
+The Federal share of the cost of a project, campaign, or program that receives funding under this Act shall be not more than 50 percent.
+(b)
+Use of certain Federal funds for non-Federal share
+(1)
+In general
+A State may use any amounts described in paragraph (2) for the non-Federal share of the cost of a project, campaign, or program that receives funding under this Act.
+(2)
+Eligible amounts
+The amounts referred to in paragraph (1) are amounts received fromâ
+(A)
+the Secretary of Housing and Urban Development under the community development block grant program under title I of the Housing and Community Development Act of 1974 (
+42 U.S.C. 5301
+et seq.);
+(B)
+the Appalachian Regional Commission established under section 14301(a) of title 40, United States Code;
+(C)
+the Economic Development Administration of the Department of Commerce;
+(D)
+any rural telehealth program of the Commission; or
+(E)
+the Northern Border Regional Commission established under section 15301(a)(3) of title 40, United States Code.
+6.
+Technology neutrality required
+The Commission shall award grants to eligible entities under this Act in a manner that does not favor the use of any particular technology.
+7.
+Transparency and accountability
+(a)
+Last-Mile broadband infrastructure grants
+For grants awarded under section 3, the Commission shall establish transparency and accountability rules under whichâ
+(1)
+after receiving an application for a grant to carry out a qualifying project in an area, the Commission shall determine whether the area is served or unserved using accurate and granular information regarding the availability of broadband internet access service at the sub-census block level;
+(2)
+the Commission shallâ
+(A)
+permit a person or entity to challenge an initial determination of the Commission under paragraph (1); and
+(B)
+provide a period of not less than 45 days, after the Commission makes an initial determination under paragraph (1) with respect to an area, during which a provider of broadÂ­band internet access service may voluntarily submit information concerning the broadband internet access service that the provider offers in the area;
+(3)
+the Commission shall provide the public with notice ofâ
+(A)
+an initial determination with respect to an area under paragraph (1);
+(B)
+the final determination of whether an area is served or unserved after the process for challenging the initial determination, as described in paragraph (2), has concluded;
+(C)
+the entities that have applied for a grant; and
+(D)
+the results of any decision regarding a grant application, including by identifyingâ
+(i)
+each eligible entity that was awarded a grant;
+(ii)
+the areas that each grantee will serve using the grant funds;
+(iii)
+the nature of the service that each grantee will provide in each area described in clause (ii); and
+(iv)
+the amount that the Commission has authorized each grantee to use to carry out a qualifying project in each unserved area; and
+(4)
+the Commission shall establishâ
+(A)
+broadband buildout milestones and periodic certifications that a grantee must submit to demonstrate compliance with the broadÂ­band buildout milestones;
+(B)
+a maximum buildout timeframe of 5 years from the date on which the Commission first awards a grant to an eligible entity;
+(C)
+requirements for grantees to submit to the Commission and to the broadband office or other applicable authority of the State in which the grantee is carrying out the project periodic reports that identifyâ
+(i)
+the nature of the service provided in each unserved area; and
+(ii)
+the latitude and longitude coordinates of each location to which the grantee has provided broadband internet access service in each census block;
+(D)
+penalties for noncompliance withâ
+(i)
+the broadband buildout milestones under subparagraph (A);
+(ii)
+the certification requirements under subparagraph (A); and
+(iii)
+the reporting requirements under subparagraph (C);
+(E)
+procedures through which the Commission may recover grant funds, in whole or in part, from a grantee if the grantee defaults or does not comply with the requirements under this Act; and
+(F)
+any additional methods or reporting necessary to reduce waste, fraud, and abuse within the grant program.
+(b)
+Public awareness and digital literacy grants
+For grants awarded under section 4, the Commission shall establish transparency and accountability rules thatâ
+(1)
+require the Commission to provide the public with notice ofâ
+(A)
+the entities that have applied for a grant; and
+(B)
+the results of any decision regarding a grant application, including byâ
+(i)
+identifying each eligible entity that was awarded a grant;
+(ii)
+identifying the areas that each grantee will serve using the grant funds;
+(iii)
+providing a summary of the projects that each grantee will carry out in each area described in clause (ii); and
+(iv)
+the amount that the Commission has authorized a grantee to use to carry out a public awareness campaign or support digital literacy programs in each area described in clause (ii); and
+(2)
+establishâ
+(A)
+project milestones and periodic certifications that a grantee must submit to demonstrate compliance with the project milestones;
+(B)
+a maximum project completion timeframe of 5 years from the date on which the Commission first awards a grant to an eligible entity;
+(C)
+periodic reporting requirements for grantees to demonstrate progress in meeting the project milestones under subparagraph (A);
+(D)
+penalties for noncompliance withâ
+(i)
+the project milestones under subparagraph (A);
+(ii)
+the certification requirements under subparagraph (A); and
+(iii)
+the reporting requirements under subparagraph (C);
+(E)
+procedures through which the Commission may recover grant funds, in whole or in part, from a grantee if the grantee defaults or does not comply with the requirements under this Act; and
+(F)
+any additional methods or reporting necessary to reduce waste, fraud, and abuse within the grant program.
+8.
+Authorization of appropriations
+There are authorized to be appropriated to the Commission to carry out this Act for fiscal year 2021, $15,000,000,000, to remain available until expended.

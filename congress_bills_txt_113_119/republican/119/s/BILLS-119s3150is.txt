@@ -1,0 +1,216 @@
+1.
+Short title
+This Act may be cited as the
+Guaranteeing Access and Innovation for National Artificial Intelligence Act of 2025
+or the
+GAIN AI Act of 2025
+.
+2.
+Prohibition on prioritizing countries of concern over United States persons for
+exports of advanced integrated circuits
+Part I of the Export Control Reform Act of 2018 (
+50 U.S.C. 4811 et seq.
+) is amended by inserting after section 1758 the following:
+1758A.
+Control of exports of advanced integrated circuits
+(a)
+Definitions
+In this section:
+(1)
+Advanced integrated circuit
+(A)
+In general
+Subject to subparagraph (B), the term
+advanced integrated circuit
+meansâ
+(i)
+an integrated circuit, computer, or other productâ
+(I)
+classified under Export Control Classification Number 3A090 or 4A090 or related Export Control Classification Numbers; or
+(II)
+that is functionally equivalent or substantially similar to a circuit, computer, or product described in subclause (I); or
+(ii)
+an integrated circuit that has one or more digital processing units withâ
+(I)
+a total processing performance of 4,800 or more;
+(II)
+a total processing performance of 2,400 or more and a performance density of 1.6 or more;
+(III)
+a total processing performance of 1,600 or more and a performance density of 3.2 or more; or
+(IV)
+a total DRAM bandwidth of 1,400 gigabytes per second or more, interconnect bandwidth of 1,100 gigabytes per second or more, or a sum of DRAM bandwidth and interconnect bandwidth of 1,700 gigabytes per second or more.
+(B)
+Authority to update technical parameters
+Beginning 36 months after the date of the enactment of this section, the Under Secretary may add new technical parameters for the definition of
+advanced integrated circuit
+for purposes of this section following publication of the parameters in the Federal Register and a period of public notice and comment.
+(2)
+Backlog of requests
+The term
+backlog of requests
+, in the case of a person submitting an application for a license under subsection (b), means the person has received a request from a United States person for a covered circuit or product thatâ
+(A)
+is formally documented throughâ
+(i)
+a purchase order or enforceable contract; or
+(ii)
+any other format consistent with ordinary commercial practice that specifies quantity, price, and time frame of delivery; and
+(B)
+the person has not fulfilled or will not be able to fulfill the request within a time frame consistent with commercially standard production and delivery lead times.
+(3)
+Commerce Control List
+The term
+Commerce Control List
+means the list set forth in Supplement No. 1 to part 774 of the Export Administration Regulations.
+(4)
+Country of concern
+The term
+country of concern
+meansâ
+(A)
+a country listed in Country Group D:5 or E in Supplement No. 1 to part 740 of the Export Administration Regulations;
+(B)
+the Macau Special Administrative Region of the Peopleâs Republic of China; or
+(C)
+the Hong Kong Special Administrative Region of the Peopleâs Republic of China.
+(5)
+Covered circuit or product
+(A)
+In general
+Except as provided by subparagraph (B), the term
+covered circuit or product
+means an advanced integrated circuit or a product containing such a circuit.
+(B)
+Exclusion
+The term
+covered circuit or product
+does not include an advanced integrated circuit or a product containing such a circuit that is not designed or marketed for data centers.
+(6)
+Performance density; total
+processing performance
+The terms
+performance density
+and
+total processing performance
+have the meanings given those terms in, and are calculated as provided for under, Export Control Classification Number 3A090 in the Commerce Control List set forth in Supplement No. 1 to part 774 of the Export Administration Regulations.
+(7)
+Trusted United States person
+The term
+trusted United States person
+means any United States person designated as a trusted United States person pursuant to subsection (d)(2).
+(b)
+License requirement
+The Under Secretary of Commerce for Industry and Security shall require a license for the export, reexport, or in-country transfer of a covered circuit or product to an entity that is located or headquartered in, or the ultimate parent company of which is headquartered in, a country of concern.
+(c)
+Certification of priority for United States customers for certain
+advanced integrated circuits
+(1)
+Certification requirement
+The Under Secretary shall require a person submitting an application for a license under subsection (b) for the export, reexport, or in-country transfer of a covered circuit or product to an entity described in subsection (b) to certify in the application thatâ
+(A)
+United States persons had a right of first refusal for the covered circuit or product, which means the person submitting the applicationâ
+(i)
+provided, through a public notice, United States persons with the opportunity to inquire about purchasing a covered circuit or product that would otherwise be sold to an entity described in subsection (b);
+(ii)
+provided not fewer than 15 business days for a United States person to inquire and request to purchase the covered circuit or product; and
+(iii)
+provided preference to a United States person submitting an inquiry under clause (i) if the United States personâ
+(I)
+requests to purchase the full quantity or a lesser quantity of the covered circuit or product offered by the person submitting the application; and
+(II)
+takes material steps to complete the purchase within 15 business days of requesting to purchase the covered circuit or product; and
+(B)
+the person submitting the applicationâ
+(i)
+has no current backlog of requests from United States persons for the covered circuit or product or a comparable circuit or product that utilizes substantially similar production process, infrastructure, or supply;
+(ii)
+cannot reasonably foresee, based on material information known to the person, including information disclosed to investors or shareholders or in public filings, the production and export, reexport, or in-country transfer of the covered circuit or product resulting, during the 12-month period following the export, reexport, or in-country transfer, inâ
+(I)
+such a backlog; or
+(II)
+a reduction in critical production capacity for the production of a covered circuit or product or a substantially similar circuit or product that utilizes substantially similar production process, infrastructure, or supply for United States persons; and
+(iii)
+is not providing advantageous pricing or terms for the covered circuit or product to foreign persons that the person is not providing to United States persons.
+(2)
+Denial of applications without certification
+If a certification described in paragraph (1) is not submitted with an application for a license required under subsection (b), the Under Secretary shall deny the license.
+(3)
+Implementation
+Not later than 90 days after the date of the enactment of this section, the Under Secretary shallâ
+(A)
+seek input from the public regarding compliance with the certification requirements under paragraph (1); and
+(B)
+based on such input, prescribe regulations providing guidance for compliance with the certification requirements, which shall includeâ
+(i)
+information that the person submitting an application for a license under subsection (b) is required to make available about transactions with entities described in subsection (b) to ensure that United States persons can exercise a right-of-first-refusal under paragraph (1)(A);
+(ii)
+procedures for United States persons to exercise such a right-of-first-refusal, includingâ
+(I)
+the procedural requirements for public notice under paragraph (1)(A)(i); and
+(II)
+guidance on when a United States person should inform the Under Secretary of Commerce for Industry and Security that the person is seeking to exercise the right-of-first-refusal under paragraph (1)(A);
+(iii)
+conditions upon which a person submitting an application for a license under subsection (b) may proceed with the export, reexport, or in-country transfer of the covered circuit or product if a request from a United States person under paragraph (1)(A) to purchase the covered circuit or product was not made in good faith or completed in a timely manner;
+(iv)
+recordkeeping requirements;
+(v)
+penalties for misrepresentation and concealment of material facts; and
+(vi)
+guidance with respect to determining whetherâ
+(I)
+a United States person exercising the right-of-first-refusal has taken a material step under paragraph (1)(A)(iii)(II);
+(II)
+the export, reexport, or in-country transfer of a covered circuit or product would createâ
+(aa)
+a backlog of requests described in paragraph (1)(B)(i); or
+(bb)
+a reduction in critical production capacity described in paragraph (1)(B)(ii)(II); and
+(III)
+the person selling the circuit or product is providing advantageous pricing or terms to foreign persons as described in paragraph (1)(B)(iii).
+(4)
+Rules of construction
+Nothing in this subsection shall be construedâ
+(A)
+in the case of more than one United States person requesting to purchase a covered circuit or product under paragraph (1)(A)(iii), to authorize the Under Secretary of Commerce for Industry and Security, or any other Federal official, to allocate, prioritize, or otherwise select one United States person over any other United States person submitting such a request;
+(B)
+to require a person submitting an application for a license under subsection (b) to publicly disclose commercially sensitive or proprietary information, includingâ
+(i)
+customer identities;
+(ii)
+contract terms;
+(iii)
+delivery schedules; or
+(iv)
+pricing data; or
+(C)
+as applying to a covered circuit product that is designed and manufactured exclusively for internal use.
+(d)
+Exemption from certain license requirement for trusted United States
+persons
+(1)
+In general
+The requirement for a license under sections 742.4 and 744.23 of the Export Administration Regulations shall not apply to the export, reexport, or in-country transfer of a covered circuit or product if the covered circuit or productâ
+(A)
+is destined for a country that is not a country of concern; and
+(B)
+remains under the ownership and control of a trusted United States person once the covered circuit or product is in operation.
+(2)
+Implementation
+Not later than 90 days after the date of the enactment of this section, the Under Secretary of Commerce for Industry and Security shallâ
+(A)
+seek input from the public regarding the standards and requirements a United States person is required to meet to obtain a designation as a trusted United States person; and
+(B)
+based on such input, prescribe regulations establishing such standards and requirements, which shall includeâ
+(i)
+establishment by the United States person of physical security, cybersecurity, and other measures designed to prevent the illicit transfer or diversion of covered circuit products and comply with export control regulations;
+(ii)
+a requirement that the United States person may not transfer or install a majority of its aggregate total processing performance of covered circuits or products outside the United States;
+(iii)
+a requirement that not more than 10 percent of the ultimate beneficial ownership of the United States person may be held, directly or indirectly, by any entity that primarily resides, is domiciled, or conducts the majority of its business in a country of concern;
+(iv)
+a preference for sourcing advanced integrated circuit and subcomponents from production facilities that support the revival of semiconductor manufacturing in the United States; and
+(v)
+annual audit or attestation requirements to ensure compliance with clauses (i), (ii), and (iii); and
+(C)
+prescribe regulations establishing the process by which the Under Secretary shall approve such a designation.
+.

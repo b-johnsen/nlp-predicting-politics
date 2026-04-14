@@ -1,0 +1,880 @@
+1.
+Short title
+This Act may be cited as the
+Responsible Self-Regulation Act of 2022
+.
+2.
+Definitions
+(a)
+In general
+Subtitle VI of title 31, United States Code, is amended by adding after chapter 97 the following:
+98
+Digital assets
+Sec.
+9801. Definitions.
+9801.
+Definitions
+In this chapter:
+(1)
+Ancillary asset
+(A)
+In general
+The term
+ancillary asset
+means an intangible, fungible asset that is offered, sold, or otherwise provided to a person in connection with the purchase and sale of a security through an arrangement or scheme that constitutes an investment contract, as that term is used in section 2(a)(1) of the Securities Act of 1933 (
+15 U.S.C. 77b(a)(1)
+).
+(B)
+Exclusion
+The term
+ancillary asset
+does not include an asset that provides the holder of the asset with any of the following rights in a business entity:
+(i)
+A debt or equity interest in that entity.
+(ii)
+Liquidation rights with respect to that entity.
+(iii)
+An entitlement to an interest or dividend payment from that entity.
+(iv)
+A profit or revenue share in that entity solely from the entrepreneurial or managerial efforts of others.
+(v)
+Any other financial interest in that entity.
+(2)
+Appropriate commission
+The term
+appropriate commission
+means the Commodity Futures Trading Commission or the Securities and Exchange Commission, or both, as applicable, based on the commission that has statutory jurisdiction over a digital asset intermediary and acts as the primary registration or licensing authority, consistent with paragraph (4).
+(3)
+Digital asset
+The term
+digital asset
+â
+(A)
+means a natively electronic asset thatâ
+(i)
+confers economic, proprietary, or access rights or powers; and
+(ii)
+is recorded using cryptographically secured distributed ledger technology, or any similar analogue; and
+(B)
+includesâ
+(i)
+virtual currency and ancillary assets;
+(ii)
+payment stablecoins; and
+(iii)
+any other security or commodity that meets the requirements of subparagraph (A).
+(4)
+Digital asset intermediary
+The term
+digital asset intermediary
+â
+(A)
+meansâ
+(i)
+a person thatâ
+(I)
+holds a license, registration, or other similar authorization, as specified by this chapter, the Commodity Exchange Act (
+7 U.S.C. 1 et seq.
+), the Securities Act of 1933 (
+15 U.S.C. 77a et seq.
+), the Corporation of Foreign Bondholders Act, 1933 (
+15 U.S.C. 77bb et seq.
+), the Trust Indenture Act of 1939 (
+15 U.S.C. 77aaa et seq.
+), the Securities Exchange Act of 1934 (
+15 U.S.C. 78a et seq.
+), the Securities Investor Protection Act of 1970 (
+15 U.S.C. 78aaa et seq.
+), the Investment Company Act of 1940 (
+15 U.S.C. 80aâ1 et seq.
+), the Investment Advisers Act of 1940 (
+15 U.S.C. 80bâ1
+), and the Omnibus Small Business Capital Formation Act of 1980 (
+15 U.S.C. 80c
+); and
+(II)
+may conduct market activities relating in digital assets; or
+(ii)
+a person that is required by law to hold a license, registration, or other similar authorization described in clause (i);
+(B)
+includesâ
+(i)
+a person that holds a license, registration, or other similar authorization under State or Federal law and issues a payment stablecoin; and
+(ii)
+a person that is required by law to hold a license, registration, or other similar authorization described in clause (i); and
+(C)
+does not include a depository institution.
+(5)
+Registered digital asset association
+The term
+registered digital asset association
+means an organization jointly registered by the Securities and Exchange Commission and Commodity Futures Trading Commission under section 9802 for the supervision of digital asset intermediaries.
+(6)
+Security
+The term
+security
+has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (
+15 U.S.C. 78c(a)
+).
+(7)
+Virtual currency
+The term
+virtual currency
+â
+(A)
+means a digital asset thatâ
+(i)
+is used primarily as a medium of exchange, unit of account, store of value, or any combination of such functions;
+(ii)
+is not legal tender, as described in section 5103; and
+(iii)
+does not derive value from, or is not backed by, an underlying financial asset (except other digital assets); and
+(B)
+includes a digital asset, consistent with subparagraph (A), that is accompanied by a statement from the issuer that a denominated or pegged value will be maintained and be available upon redemption from the issuer or other identified person, based solely on computer code deployed to a distributed ledger technology network that executes an instruction based on the occurrence or non-occurrence of a specified condition, or any similar analogue.
+.
+(b)
+Technical and conforming amendment
+The table of contents for subtitle VI of title 31, United States Code, is amended by adding at the end the following:
+98.
+Digital assets
+9801
+.
+3.
+Registered digital asset associations
+(a)
+In general
+Chapter 98
+of title 31, United States Code, as amended by section 2, is amended by adding at the end the following:
+9802.
+Registered digital asset associations
+(a)
+Definitions
+In this section:
+(1)
+Nonmember professional
+The term
+nonmember professional
+means any person thatâ
+(A)
+is a digital asset intermediary; and
+(B)
+is a not a member of a registered digital asset association or affiliated organization.
+(2)
+Registration information
+The term
+registration information
+means the information reported in connection with the licensing, registration, or other authorization of digital asset intermediaries and their associated persons, includingâ
+(A)
+disciplinary actions, regulatory, judicial, and arbitration proceedings, and other information required by law or digital asset association rule; and
+(B)
+the source and status of the information described in subparagraph (A).
+(b)
+Registration; application
+An association of digital asset intermediaries may be registered as a digital asset association, under the terms and conditions provided in this section, and in accordance with the provisions of this section and section 9803, by jointly filing with the Securities and Exchange Commission and the Commodity Futures Trading Commission an application for registration, in such form as the commissions may require, containing the rules of the association and such other information and documents that may be prescribed as necessary or appropriate in the public interest or for customer protection.
+(c)
+Determinations by Commissions requisite to registration
+An association of digital asset intermediaries may not be registered as a registered digital asset association under subsection (b) unless a majority of the members of each of the Securities and Exchange Commission and the Commodity Futures Trading Commission, voting separately, determine thatâ
+(1)
+by reason of the number and the scope of the transactions of the association, the association will be able to carry out the purposes of this section;
+(2)
+the association is so organized, and has the capacity, toâ
+(A)
+be able to carry out the purposes of this section and other applicable State and Federal laws; and
+(B)
+subject to any rule or order of the appropriate commission, enforce compliance by members of the association (and persons associated with those members) with the provisions of applicable law, the rules under those provisions, and the rules of the association;
+(3)
+the rules of the association provide that any digital asset intermediary may become a member of the association and any person may become associated with a member of the association;
+(4)
+the rules of the association ensure a fair representation of the members of the association, including emerging growth companies (as defined in section 2(a) of the Securities Act of 1933 (
+15 U.S.C. 77b(a)
+)), in the selection of the directors of the association and administration of the affairs of the association;
+(5)
+the rules of the association provide for the equitable allocation of reasonable dues, fees, and other charges among members of the association and other persons using any facility or system that the association operates or controls;
+(6)
+the rules of the associationâ
+(A)
+are designed toâ
+(i)
+prevent fraudulent and manipulative acts and practices in order to promote just and equitable principles of trade;
+(ii)
+foster cooperation and coordination with persons engaged in regulating, clearing, settling, processing information with respect to, and facilitating transactions in digital assets;
+(iii)
+remove impediments to, and perfect the mechanism of, a free and open market; and
+(iv)
+protect customers and the public interest; and
+(B)
+are not designed toâ
+(i)
+permit unfair discrimination between customers and digital asset intermediaries;
+(ii)
+fix minimum profits;
+(iii)
+impose any schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by the members of the association; or
+(iv)
+regulate by virtue of any authority conferred by law matters not related to the purposes of this section or the administration of the association;
+(7)
+the rules of the association provide that, subject to any rule or order of the appropriate commission, the members of the association (and persons associated with those members) shall be appropriately disciplined for a violation of any provision of applicable law, the rules under such a provision, or the rules of the association by expulsion, suspension, limitation of activities, functions, and operations, fine, censure, a suspension or bar from being associated with a member, or any other fitting sanction;
+(8)
+the rules of the association are consistent with the provisions of subsection (h) and, in general, provide a fair procedure forâ
+(A)
+the disciplining of members and persons associated with members;
+(B)
+the denial of membership to any person seeking membership in the association;
+(C)
+the barring of any person from becoming associated with a member of the association; and
+(D)
+the prohibition or limitation by the association of any person with respect to access to services offered by the association or a member of the association;
+(9)
+the rules of the association do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this section;
+(10)
+the requirements of subsection (d), as applicable, are satisfied; and
+(11)
+the rules of the association include provisions governing the form and content of quotations relating to digital assets, which shall be designed toâ
+(A)
+produce fair and informative quotations;
+(B)
+prevent fictitious or misleading quotations; and
+(C)
+promote orderly procedures for collecting, distributing, and publishing quotations.
+(d)
+Rules; provision for registration of affiliated organization
+(1)
+In general
+The Securities and Exchange Commission and the Commodity Futures Trading Commission may permit or require the rules of an association applying for registration under subsection (b) to provide for the admission of an organization registered as an affiliated organization pursuant to subsection (e), to participate in the applicant association as an affiliate of the applicant association, under terms permitting powers and responsibilities to the affiliate, and under such other appropriate terms and conditions, as may be provided by the rules of the applicant association, if those rules appear to the commissions jointly to be necessary or appropriate in the public interest or for customer protection and to carry out the purposes of this section.
+(2)
+Duties and powers of the commissions
+The duties and powers of the Securities and Exchange Commission and the Commodity Futures Trading Commission with respect to any association or affiliate organization shall in no way be limited by reason of any such affiliation.
+(e)
+Registration as affiliated organization; prerequisites; association rules
+(1)
+In general
+An applicant organization shall not be registered as an affiliated organization, unlessâ
+(A)
+the organization, notwithstanding that the organization does not satisfy the requirements under subsection (c)(1), will, upon the registration of the organization under this subsection, be admitted to affiliation with an organization registered as a digital asset association pursuant to subsection (c), in the manner and under the terms and conditions provided by the rules of the registered digital asset association in accordance with subsection (d); and
+(B)
+the organization and the rules of the organization satisfy the requirements under paragraphs (2) through (11) of subsection (c).
+(2)
+Exception
+Any restrictions upon membership of an applicant organization shall not be less stringent than in the case of the registered digital asset association with which the organization is to be affiliated.
+(f)
+Dealings with nonmember professionals
+(1)
+In general
+The rules of a digital asset association may provide that no member of the association may deal with any nonmember professional except at the same prices, for the same commissions or fees, and on the same terms and conditions the member accords to the general public.
+(2)
+Rule of construction
+Nothing in this subsection may be construed to prevent any member of a registered digital asset association from granting to any other member of any other registered digital asset association any discount, allowance, commission, or special terms in connection with a digital asset transaction.
+(g)
+Denial of membership
+(1)
+In general
+Membership in a registered digital asset association under this section shall be limited to digital asset intermediaries.
+(2)
+Denial for public interest or consumer protection
+(A)
+In general
+A registered digital asset association may, and the appropriate commission, by order, may direct such an association to, as necessary or appropriate in the public interest or for customer protection, deny membership to any person, and bar from becoming associated with a member any person, that is subject to a statutory disqualification within the laws under the jurisdiction of that commission.
+(B)
+Notice
+A registered digital asset association shall file notice with the appropriate commission, in such form and containing such information as the appropriate commission shall require, not less than 30 days before admitting any person to membership or permitting any person to become associated with a member, if the association knew, or in the exercise of reasonable care should have known, that such person was subject to a statutory disqualification.
+(3)
+Procedure
+(A)
+In general
+A registered digital asset association mayâ
+(i)
+deny membership to, or condition the membership of, a digital asset intermediary, ifâ
+(I)
+the intermediary does not meet such standards of financial responsibility or operational capability, or such intermediary or any individual associated with the intermediary does not meet such standards of training, experience, and competence, as are prescribed by the rules of the association; or
+(II)
+the intermediary or person associated with the intermediary has engaged, and there is a reasonable likelihood the intermediary or person will again engage, in acts or practices inconsistent with just and equitable principles of trade; and
+(ii)
+examine and verify the qualifications of an applicant to become a member and the individuals associated with the applicant in accordance with procedures established by the rules of the association.
+(B)
+Association
+A registered digital asset association mayâ
+(i)
+bar an individual from becoming associated with a member, or condition the association of an individual with a member, if that individualâ
+(I)
+does not meet such standards of training, experience, and competence as are prescribed by the rules of the association; or
+(II)
+has engaged, and there is a reasonable likelihood the individual will again engage, in acts or practices inconsistent with just and equitable principles of trade;
+(ii)
+examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the association; and
+(iii)
+require an individual associated with a member, or any class of such individuals, to be registered with the association in accordance with procedures so established.
+(C)
+Bar on association
+A registered digital asset association may bar any person from becoming associated with a member if that person does not agreeâ
+(i)
+to supply the association with such information with respect to the relationship and dealings of the person with the member as may be specified in the rules of the association; and
+(ii)
+to permit examination of the records of the person to verify the accuracy of any information supplied by the person under clause (i).
+(4)
+Denial for type of business
+(A)
+In general
+Subject to subparagraph (B), a registered digital asset association may deny membership to a digital asset intermediary not engaged in a type of business in which the rules of the association require members to be engaged.
+(B)
+Condition
+No digital asset association may deny membership to a digital asset intermediary by reason of the amount of such type of business done by such intermediary or the other types of business in which the intermediary is engaged.
+(h)
+Discipline of registered digital asset association members and persons associated with members; summary proceedings
+(1)
+Discipline
+(A)
+Notification
+In any proceeding by a registered digital asset association to determine whether a member, or a person associated with a member, should be disciplined (other than a summary proceeding pursuant to paragraph (3)), the association shall bring specific charges, notify such member or person of (and give the person an opportunity to defend against) those charges, and keep a record.
+(B)
+Statement
+A determination by a registered digital asset association to impose discipline in a proceeding under subparagraph (A) shall be supported by a statement setting forthâ
+(i)
+any act or practice in which the member, or person associated with a member, has been found to have engaged, or that such member or person has been found to have omitted;
+(ii)
+the specific provision of law, the rules under such a provision, or the rules of the association that an act or practice described in clause (i), or omission to act, is charged with violating; and
+(iii)
+the sanction imposed and a justification for the sanction.
+(2)
+Denial of membership or services
+(A)
+Notification
+In any proceeding by a registered digital asset association to determine whether a person shall be denied membership, barred from becoming associated with a member, or prohibited or limited with respect to access to services offered by the association or a member of the association (other than a summary proceeding pursuant to paragraph (3)), the association shallâ
+(i)
+notify that person and give the person an opportunity to be heard;
+(ii)
+provide the person the specific grounds for denial, bar, or prohibition or limitation under consideration; and
+(iii)
+maintain a record.
+(B)
+Statement
+A determination by a registered digital asset association to deny membership, bar a person from becoming associated with a member, or prohibit or limit a person with respect to access to services offered by the association or a member under subparagraph (A) shall be supported by a statement setting forth the specific grounds on which the denial, bar, or prohibition or limitation is based.
+(3)
+Summary proceeding
+(A)
+In general
+A registered digital asset association may summarilyâ
+(i)
+suspend a member of the association, or a person associated with such a member, that isâ
+(I)
+expelled or suspended from any other digital asset association; or
+(II)
+barred or suspended from being associated with a member of another digital asset association;
+(ii)
+suspend a member of the association that is in such financial or operating difficulty that the association determines (and so notifies the appropriate commission) that the member cannot be permitted to continue to do business as a member, in order to protect customers, creditors, other members, or the association; or
+(iii)
+limit or prohibit any person from accessing services offered by the association if clause (i) or (ii) is applicable to that person, or, in the case of a person that is not a member of the association, if the association determines that the personâ
+(I)
+does not meet the qualification requirements or other prerequisites for that access; and
+(II)
+cannot be permitted to continue to have such access with safety, in order to protect customers, creditors, members, or the association.
+(B)
+Opportunity for hearing
+Any person aggrieved by a summary action under subparagraph (A) shall be promptly afforded an opportunity for a hearing by the applicable digital asset association in accordance with the provisions of paragraph (1) or (2).
+(C)
+Stay
+The appropriate commission, by order, may stay a summary action described in subparagraph (A) on the motion of the commission or upon application by any person aggrieved by the summary action, if the commission determines summarily or after notice and opportunity for hearing (which may consist solely of the submission of affidavits or presentation of oral arguments) that the stay is consistent with the public interest and customer protection.
+(i)
+Obligation To maintain registration, disciplinary, and other data
+(1)
+Maintenance of system to respond to inquiries
+A registered digital asset association shall establish and maintainâ
+(A)
+a system for collecting and retaining registration information; and
+(B)
+a website, including an application programming interface, to receive and promptly respond to inquiries regarding registration information on the members of the association and associated persons with respect to those members.
+(2)
+Recovery of costs
+A registered digital asset association may charge persons making inquiries described in paragraph (1)(B), other than individual customers of digital asset intermediaries, reasonable fees for responses.
+(3)
+Process for disputed information
+Each registered digital asset association shall adopt rules establishing a process for disputing the accuracy of information provided in response to inquiries under this subsection.
+(4)
+Limitation on liability
+A registered digital asset association, or any digital asset intermediary reporting information to such an association, shall not have any liability to any person for any actions taken or omitted in good faith under this subsection.
+(j)
+Avoidance of duplicative rules
+(1)
+In general
+Each digital asset association registered under subsection (b) shall issue rules as necessary to avoid duplicative or conflicting rules applicable to any digital asset intermediary that is a member of a national securities exchange, board of trade, contract market, registered securities association, registered futures association, or similar digital asset association.
+(2)
+Other membership
+A digital asset intermediary shall not be required to become a member of another digital asset association unless the intermediary performs activities with financial assets other than digital assets.
+(3)
+Non-digital asset activities
+(A)
+Rules by Commissions
+The Securities and Exchange Commission and the Commodity Futures Trading Commission shall jointly prescribe rules under which a digital asset intermediary that is a member or affiliate of a digital asset association registered under this section may perform activities with financial assets other than digital assets, if those activities are not a majority of the business of an intermediary and are conducted in a responsible manner, without membership in another digital asset association.
+(B)
+Rules by digital asset associations
+A registered digital asset association under this section shall adopt rules governing activities with financial assets other than digital assets, which shall be consistent with existing law, rule, guidance or industry best practices or the rules of other digital asset associations.
+.
+(b)
+Technical and conforming amendment
+The table of sections for
+chapter 98
+of title 31, United States Code, as added by section 2, is amended by adding at the end the following:
+9802. Registered digital asset associations.
+.
+4.
+Registration, rulemaking, and supervision of digital asset associations
+(a)
+In general
+Chapter 98
+of title 31, United States Code, as amended by section 3, is amended by adding at the end the following:
+9803.
+Registration, rulemaking, and supervision of digital asset associations
+(a)
+Registration procedures; notice of filing; other regulatory agencies
+(1)
+Publication of notice
+(A)
+In general
+The Securities and Exchange Commission and Commodity Futures Trading Commission shall, upon the filing of an application for registration as a digital asset association under section 9802, publish notice of that filing and afford interested persons an opportunity to submit written data, views, and arguments concerning the application.
+(B)
+Requirements
+Not later than 90 days after the date on which notice is published under subparagraph (A), or within a longer period to which the applicable applicant consents, the Securities and Exchange Commission and Commodity Futures Trading Commission shallâ
+(i)
+by joint order, grant registration of the digital asset association; or
+(ii)
+institute proceedings to determine whether registration should be denied.
+(C)
+Proceedings
+(i)
+In general
+Proceedings instituted under subparagraph (B)(ii) shall include notice of the grounds for denial under consideration and opportunity for hearing before the joint commissions.
+(ii)
+Hearing
+A hearing described in clause (i) shall be concluded not later than 180 days after the date on which notice of the filing of the application for registration is published under subparagraph (A).
+(iii)
+Further proceedings
+(I)
+Separate votes
+At the conclusion of a hearing conducted under this subparagraph, and not later than the end of the 180-day period described in clause (ii), the Securities and Exchange Commission and Commodity Futures Trading Commission, voting separately, shall act to grant or deny the applicable registration.
+(II)
+Effect of failure to issue joint order
+The failure of the Securities and Exchange Commission and Commodity Futures Trading Commission to issue a joint order during the period described in subclause (I) shall be deemed to be a denial of the applicable registration.
+(D)
+Considerations
+With respect to an application for registration described in this paragraph, the Securities and Exchange Commission and Commodity Futures Trading Commission shallâ
+(i)
+grant registration if all statutory requirements have been met and the rules under those statutory provisions with respect to the applicant are satisfied; and
+(ii)
+deny such registration if the commissions do not make the findings described in clause (i).
+(2)
+Withdrawal from registration
+(A)
+In general
+A digital asset association may, upon such terms and conditions as the Securities and Exchange Commission and Commodity Futures Trading Commission, by rule, determine necessary or appropriate in the public interest or for the protection of customers, withdraw from registration described in paragraph (1) by filing a written notice of withdrawal with the commissions.
+(B)
+Considerations
+(i)
+In general
+If the Securities and Exchange Commission and Commodity Futures Trading Commission, voting separately, each finds that a digital asset association is no longer in existence or has ceased to do business in the capacity specified in the application for registration submitted by the association, the commissions may cancel the registration of the association.
+(ii)
+Effect of failure to vote
+The failure to issue a joint order described in clause (i) shall be deemed to maintain the registration of the applicable digital asset association.
+(C)
+Effect of withdrawal, cancellation, suspension, or revocation
+Upon withdrawal by registration or the cancellation, suspension, or revocation of the registration of a digital asset association, the registration of any association affiliated with the association shall automatically terminate.
+(b)
+Proposed rule changes; notice; proceedings
+(1)
+In general
+Except as otherwise provided in paragraph (2)â
+(A)
+a digital asset association shall file with the appropriate commission, in accordance with the rules of that commission, copies of any proposed rule or any proposed change in, addition to, or deletion from the rules of such digital asset association accompanied by a concise general statement of the basis and purpose of such proposed rule change;
+(B)
+the appropriate commission shallâ
+(i)
+as soon as practicable after the date on which a proposed rule change is filed under subparagraph (A), publish notice of that filing together with the terms of substance of the proposed rule change or a description of the subjects and issues involved; and
+(ii)
+give interested persons an opportunity to submit written data, views, and arguments concerning that proposed rule change;
+(C)
+no proposed rule change described in subparagraph (A) shall take effect unless approved by the appropriate commission or otherwise permitted in accordance with the provisions of this subsection; and
+(D)
+no proposed rule change described in subparagraph (A) relating to a matter under the jurisdiction of more than 1 commission may be filed.
+(2)
+Approval process
+(A)
+Approval process established
+(i)
+In general
+Except as provided in clause (ii), not later than 30 days after the date on which notice of a proposed rule change is published under paragraph (1), the appropriate commission shallâ
+(I)
+by order, approve or disapprove the proposed rule change; or
+(II)
+institute proceedings under subparagraph (B) to determine whether the proposed rule change should be disapproved.
+(ii)
+Extension of time period
+The appropriate commission may extend the period established under clause (i) by not more than an additional 30 days, ifâ
+(I)
+the commission determines that a longer period is appropriate and publishes the reasons for that determination; or
+(II)
+the digital asset association that filed the proposed rule change consents to a longer period.
+(B)
+Proceedings
+(i)
+Notice and hearing
+If the appropriate commission does not approve or disapprove a proposed rule change under subparagraph (A), the commission shall provide to the digital asset association that filed the proposed rule changeâ
+(I)
+notice of the grounds for disapproval under consideration; and
+(II)
+opportunity for hearing, to be concluded not later than 180 days after the date of publication of notice of the filing of the proposed rule change.
+(ii)
+Order of approval or disapproval
+(I)
+In general
+Except as provided in subclause (II), not later than 180 days after the date on which notice is published under paragraph (1), the appropriate commission shall issue an order approving or disapproving the proposed rule change that is the subject of the notice.
+(II)
+Extension of time period
+The appropriate commission may extend the period for issuance under clause (I) by not more than 60 days, ifâ
+(aa)
+the commission determines that a longer period is appropriate and publishes the reasons for such determination; or
+(bb)
+the digital asset association that filed the proposed rule change consents to the longer period.
+(C)
+Standards for approval and disapproval
+(i)
+Approval
+The appropriate commission shall approve a proposed rule change of a digital asset association if the commission finds that the proposed rule change is consistent with law.
+(ii)
+Time for approval
+The appropriate commission may not approve a proposed rule change earlier than 30 days after the date of publication of notice with respect to the proposed rule change under paragraph (1), unless the commission finds good cause for so doing and publishes the reason for the finding.
+(D)
+Result of failure to institute or conclude proceedings
+A proposed rule change shall be deemed to have been approved by the appropriate commission, ifâ
+(i)
+the commission does not approve or disapprove the proposed rule change, or begin proceedings under subparagraph (B), within the period described in subparagraph (A); or
+(ii)
+the commission does not issue an order approving or disapproving the proposed rule change under subparagraph (B) within the period described in subparagraph (B)(ii).
+(E)
+Publication date based on federal register publishing
+(i)
+In general
+For purposes of this paragraph, if, after filing a proposed rule change with the appropriate commission under paragraph (1), a digital asset association publishes a notice of the filing of that proposed rule change, together with the substantive terms of that proposed rule change, on a publicly accessible website, the commission shall send the notice to the Federal Register for publication of the proposed rule change under paragraph (1) not later than 5 days after the date on which that website publication is made.
+(ii)
+Effect of failing to send
+If the appropriate commission fails to send notice under clause (i) during the 5-day period described in that clause, the date of publication shall be deemed to be the date on which the applicable website publication is made.
+(3)
+Internal governance
+With respect to a proposed rule relating to the internal operation, governance, and procedures of a digital asset association, or a proposed rule relating to the determination of the legal character of a digital assetâ
+(A)
+the proposed rule shall beâ
+(i)
+subject to approval by the Securities and Exchange Commission and the Commodity Futures Trading Commission; and
+(ii)
+deemed to be approved on the date that is 5 days after the date on which the proposed rule is submitted, unless either commission objects to the proposed rule change; and
+(B)
+if a commission objects to the proposed rule change under subparagraph (A)(ii)â
+(i)
+the commission shall, in a public format, provide to the digital asset association and the non-objecting commission the reasons for the objection;
+(ii)
+the digital asset association, and interested members of the public, may provide written comments to the commissions during the 20-day period beginning on the date on which the objection is noted; and
+(iii)
+the Securities and Exchange Commission and the Commodity Futures Trading Commission, voting separately, shall jointly issue an order approving or disapproving the proposed rule, with the failure to issue such a joint order being deemed to be approval of the proposed rule.
+(4)
+Exception
+(A)
+In general
+Notwithstanding paragraphs (2) and (3), a proposed rule change shall take effect upon filing if self-certified by a digital asset association asâ
+(i)
+constituting a stated policy, practice, or interpretation with respect to the meaning, administration, or enforcement of an existing rule of the digital asset association;
+(ii)
+establishing or changing a due, fee, or other charge imposed by the digital asset association on any person, whether or not the person is a member of the digital asset association; or
+(iii)
+notwithstanding any other provision of this subsection, necessary for customer protection, the maintenance of fair and orderly markets, or the safeguarding of digital assets, customer funds, or other property, in which case the proposed rule change under shall be filed promptly thereafter in accordance with paragraph (1).
+(B)
+Enforcement
+(i)
+In general
+Any proposed rule change of a digital asset association that has taken effect under subparagraph (A) may be enforced by the association to the extent the rule change is not inconsistent with applicable law.
+(ii)
+Suspension
+(I)
+In general
+At any time during the 60-day period beginning on the date on which a proposed rule change is filed under paragraph (1), the appropriate commission may temporarily and summarily suspend the change in the rules of the applicable digital asset association on a temporary basis, if the commission determines that such action is necessary or appropriate in the public interest, for customer protection, or to otherwise comply with applicable law.
+(II)
+Requirements
+If a commission takes action under subclause (I), the commission shall institute proceedings under paragraph (2)(B) to determine whether the applicable proposed rule should be approved or disapproved.
+(iii)
+Rule of construction
+Action under this subparagraph shall not affect the validity or force of a proposed rule change during the period the rule change was in effect and shall not be reviewable in a judicial proceeding, nor deemed to be final agency action for purposes of section 704 of title 5.
+(5)
+Rule of construction relating to filing date of proposed rule changes
+(A)
+In general
+For purposes of this subsection, the date of filing of a proposed rule change shall be deemed to be the date on which the applicable commission receives the proposed rule change.
+(B)
+Exception
+(i)
+In general
+Subject to clause (ii), a proposed rule has not been received by the applicable commission for purposes of subparagraph (A), if, not later than 7 business days after the date on which the commission receives the rule, the commission notifies the applicable digital asset association that the proposed rule change does not comply with the rules of the commission relating to the required form of a proposed rule change.
+(ii)
+Lengthy and complex proposed rule changes
+(I)
+In general
+If the applicable commission determines that a proposed rule change is unusually lengthy, and is complex or raises novel regulatory issues, the commission shall inform the applicable digital asset association of that determination not later than 7 business days after the date on which the commission receives the rule.
+(II)
+Deadline
+For the purposes of subparagraph (A), a proposed rule change described in subclause (I) has not been received by the applicable commission, if, not later than 21 days after the date on which the commission receives the rule, the commission notifies the applicable digital asset association that the proposed rule change does not comply with the rules of the commission relating to the required form of a proposed rule change.
+(C)
+Applicability
+This paragraph shall not apply to a rule relating to the internal operations, governance, and procedure of a digital asset association.
+(c)
+Amendment of rules of digital asset associations
+(1)
+In general
+The appropriate commission may, by rule, abrogate, add to, and delete from the rules of a digital asset association as the commission determines necessary or appropriate to ensure the fair administration of the digital asset association or to conform the rules of the association to law or applicable rule, in the following manner:
+(A)
+The appropriate commission shall notify the digital asset association and publish notice of the proposed rulemaking in the Federal Register, which shall include the text of the proposed amendment to the rules of the digital asset association and a statement of the reasons of the commission, including any pertinent facts, for commencing the proposed rulemaking.
+(B)
+(i)
+The appropriate commission shall give interested persons an opportunity for the oral presentation of data, views, and arguments, in addition to an opportunity to make written submissions.
+(ii)
+A transcript shall be kept of any oral presentation under clause (i).
+(C)
+A rule adopted pursuant to this paragraph shall incorporate the text of the amendment to the rules of the digital asset association and a statement of the appropriate commission regarding the basis for amendment of the rule, which shall include an identification of any facts on which the determination of the commission to amend the rules of the digital asset association is based, including the reasons for the conclusions of the commission relating to any facts that were disputed in the rulemaking.
+(2)
+Rule of construction
+Nothing in this subsection may be construed to impair or limit the authority of the appropriate commission to make, or to modify or alter the procedures the commission may follow in making, rules pursuant to any other authority granted by law that is consistent with this subsection.
+(3)
+Effect of rules
+Any amendment to the rules of a digital asset association made by the appropriate commission under this subsection shall be considered for all purposes to be part of the rules of that digital asset association and shall not be considered to be a rule of the commission.
+(4)
+Consultations
+With respect to rules described in subsection (b)(4)(A)(iii), the appropriate commission shall consult with and consider the views of the other commission and the Secretary of the Treasury before abrogating, adding to, and deleting from those rules, except where the commission determines that an emergency exists requiring expeditious or summary action and publishes the reasons of the commission for taking that action.
+(d)
+Notice of disciplinary action taken by digital asset association against a member or participant; review of action by appropriate commission; procedure
+(1)
+In general
+If a digital asset association imposes any final disciplinary sanction on any member of the association, or any participant with respect to the association, denies membership or participation to any applicant, prohibits or limits any person from accessing services offered by the association or a member of the association, imposes any final disciplinary sanction on any person associated with a member, or bars any person from becoming associated with a member, the digital asset association shall promptly file notice of that action with the appropriate commission.
+(2)
+Review
+(A)
+In general
+Any action with respect to which a digital asset association is required to file notice under paragraph (1) shall be subject to review by the appropriate commission for the applicable member, participant, applicant, or other person, on its own motion, or upon application by any person aggrieved by that action if filed not later than 30 days after the date on which the notice was filed with the appropriate commission and received by the aggrieved person, or within such longer period as the appropriate commission may determine.
+(B)
+Application
+Application to the appropriate commission for review, or the institution of review by the commission on its own motion, shall not operate as a stay of an action described in subparagraph (A) unless the appropriate commission otherwise orders, summarily or after notice and opportunity for hearing on the question of a stay, which may consist solely of the submission of affidavits or presentation of oral arguments.
+(C)
+Stays
+For the purposes of this paragraph, each of the appropriate commissions shall establish for appropriate cases an expedited procedure for consideration and determination of the question of a stay.
+(3)
+Applicability
+This subsection shall apply only to the extent that a digital asset association imposes any final disciplinary sanction forâ
+(A)
+a violation of Federal law or the rules issued under Federal law; or
+(B)
+a violation of a rule of the digital asset association, as to which a proposed change would be required to be filed under this section.
+(e)
+Disposition of review; cancellation, reduction, or remission of sanction
+(1)
+In general
+In any proceeding to review a final disciplinary sanction imposed by a digital asset association on a member of the association, a participant with respect to the association, or a person associated with such a member, after notice and opportunity for hearing, which may consist solely of consideration of the record before the digital asset association and opportunity for the presentation of supporting reasons to affirm, modify, or set aside the sanctionâ
+(A)
+if the appropriate commission finds that such member, participant, or person associated with a member has engaged in such acts or practices, or has omitted such acts, as the digital asset association has found that person to have engaged in or omitted, that such acts or practices, or omissions to act, are in violation of law, the rules thereunder, or the rules of the digital asset association, and that such provisions are, and were applied in a manner, consistent with law, the commission, by order, shallâ
+(i)
+make a declaration regarding that finding; and
+(ii)
+as appropriateâ
+(I)
+affirm the sanction imposed by the digital asset association;
+(II)
+modify the sanction in accordance with paragraph (2); or
+(III)
+remand to the digital asset association for further proceedings; or
+(B)
+if the appropriate commission does not make a finding described in subparagraph (A), the commission shall, by orderâ
+(i)
+set aside the sanction imposed by the digital asset association; and
+(ii)
+if appropriate, remand to the digital asset association for further proceedings.
+(2)
+Modification
+If the appropriate commission for a member, participant, or person associated with a member, having due regard for the public interest and customer protection, finds, after a proceeding under paragraph (1), that a sanction imposed by a digital asset association upon that member, participant, or person associated with a member imposes any burden on competition not necessary or appropriate or is excessive or oppressive, the commission may cancel, reduce, or require the remission of that sanction.
+(f)
+Dismissal of review proceeding
+(1)
+In general
+In any proceeding to review the denial of membership or participation in a digital asset association to any applicant, the barring of any person from becoming associated with a member of a digital asset association, or the prohibition or limitation by a digital asset association of any person from accessing services offered by the digital asset association or any member of the association, if the appropriate commission, after notice and opportunity for hearing, which may consist solely of consideration of the record before the digital asset association and opportunity for the presentation of supporting reasons to dismiss the proceeding or set aside the action of the digital asset association, finds that the specific grounds on which that denial, bar, or prohibition or limitation is based exist in fact, that such denial, bar, or prohibition or limitation is in accordance with the rules of the digital asset association, and that such rules are, and were applied in a manner, consistent with law, the appropriate commission, by order, shall dismiss the proceeding.
+(2)
+Failure to make finding
+If the appropriate commission does not make a finding described in paragraph (1), or if the commission finds that the applicable denial, bar, prohibition, or limitation imposes any burden on competition not necessary or appropriate, the commission, by order, shall set aside the action of the digital asset association and require the association to admit the applicable applicant to membership or participation, permit that person to become associated with a member, or grant that person access to services offered by the digital asset association or a member of the association.
+(g)
+Suspension or revocation of digital asset association registration; other sanctions
+(1)
+In general
+If necessary or appropriate in the public interest, for customer protection, or otherwise in furtherance of the purposes of this section, the appropriate commissions, voting separately, may issue a joint order suspending for a period not exceeding 1 year or revoking the registration of a digital asset association, or censuring or imposing limitations upon the activities, functions, and operations of a digital asset association, if, the commissions find, on the record after notice and opportunity for hearing, that the digital asset associationâ
+(A)
+has violated or is unable to comply with any provision of law, rule, or the rules of the association without reasonable justification or excuse; or
+(B)
+has failed to enforce compliance with any provision by a member of the association or a person associated with a member of the association.
+(2)
+Expulsion
+The appropriate commission may, by order, if necessary or appropriate in the public interest, for customer protection, or otherwise in furtherance of the purposes of this section, to suspend for a period not exceeding 1 year or expel from a digital asset association, any member of a digital asset association, or participant with respect to a digital asset association, if such member or participant is subject to an order of the commission or if the commission, on the record after notice and opportunity for hearing, determines that the member or participant has willfully violated, or has effected any transaction for any other person who the member or participant had reason to believe was violating, with respect to such transaction any applicable provision of law under the jurisdiction of the commission.
+(3)
+Bar on association
+The applicable commission may, by order, if necessary or appropriate in the public interest, for customer protection, or otherwise in furtherance of the purposes of this section, to suspend for a period not exceeding 1 year or to bar any person from being associated with a member of such digital asset association, if the person is subject to an order of the appropriate commission or if the appropriate commission finds, on the record after notice and opportunity for hearing, that the person has willfully violated, or has effected any transaction for any other person who the person associated with a member had reason to believe was violating, with respect to the transaction any applicable provision of law under the jurisdiction of the commission.
+(4)
+Removal from office
+If necessary or appropriate in the public interest, for customer protection, or otherwise in furtherance of the purposes of this section, the Securities and Exchange Commission and the Commodity Futures Trading Commission, voting separately, may, by joint order, remove from office or censure any person who is, or at the time of the alleged misconduct was, an officer or director of a digital asset association, if the commissions find, on the record after notice and opportunity for a hearing before an impartial hearing officer, that such person has willfully violated any provision of law, the rules thereunder, or the rules of such digital asset association, willfully abused the authority of the person, or without reasonable justification or excuse has failed to enforce compliance with any provision of law by any member or person associated with a member.
+(h)
+Interagency working group
+The Securities and Exchange Commission and the Commodity Futures Trading Commission shall each appoint an equal number of employees, under the supervision of the Chairman of the respective commissions, to an interagency working group, which shall coordinate and facilitate the responsibilities and powers of the respective commissions under this chapter.
+.
+(b)
+Technical and conforming amendment
+The table of sections for
+chapter 98
+of title 31, United States Code, as amended by section 3, is amended by adding at the end the following:
+9803. Registration, rulemaking, and supervision of digital asset associations.
+.
+5.
+Records and reports; duties and powers of registered digital asset associations
+(a)
+In general
+Chapter 98
+of title 31, United States Code, as amended by section 4, is amended by adding at the end the following:
+9804.
+Records and reports; duties and powers of registered digital asset associations
+(a)
+In general
+Each member of a registered digital asset association shall make, and keep for prescribed periods, such electronic records and disseminate reports as the registered digital asset association, by rule, prescribes as necessary or appropriate in the public interest.
+(b)
+Records subject to examination
+(1)
+Procedures for cooperation with other agencies
+(A)
+In general
+All records of a member described in subsection (a) are subject at any time, or from time to time, to reasonable periodic, special, or other examinations by the registered digital asset association of the member.
+(B)
+Notice
+Before conducting an examination under subparagraph (A), the examining authority shallâ
+(i)
+inform all other relevant regulatory agencies and digital asset associations with jurisdiction over the member regarding the proposed examination; and
+(ii)
+consult concerning the feasibility and desirability of coordinating such examination with examinations conducted by other entities with a view to avoiding unnecessary duplication and undue regulatory burden.
+(C)
+Examinations of members
+Upon a showing of good cause, the Securities and Exchange Commission or the Commodity Futures Trading Commission, as applicable, may conduct a special examination of a registered digital asset association or a member of such an association.
+(D)
+Report
+With respect to an examination under this paragraph, the examining authority shall share such information, including reports of the examination, customer complaint information, and other nonpublic regulatory information, as may be appropriate to foster a coordinated approach to regulatory oversight for members that are subject to examination by more than 1 examining authority.
+(E)
+Requirements when examination not ongoing
+A registered digital asset association, at all times when an examination under this paragraph is not in progress, shall conduct ongoing supervision of members of the association, as may be provided by the rules of the association.
+(2)
+Clarification
+Notwithstanding any other provision of this subsection, the records of a member of a registered digital asset association shall not be subject to routine periodic examinations by the Securities and Exchange Commission or the Commodity Futures Trading Commission.
+(3)
+Examination standards
+Each registered digital asset association shallâ
+(A)
+adopt tailored supervision and examination standards commensurate with the size and complexity of the association and risks faced by members of the association;
+(B)
+to the extent reasonably possible, reduce the regulatory burden for emerging growth companies, as defined in section 2(a) of the Securities Act of 1933 (
+15 U.S.C. 77b(a)
+), including through the use of self-certification and expedited or automated examinations; and
+(C)
+in consultation with other registered digital asset associations, develop standard form customer agreements for the execution of digital asset transactions.
+(c)
+Registered digital asset associations
+(1)
+In general
+The Securities and Exchange Commission and Commodity Futures Trading Commission, shall, by rule or order, in order to foster cooperation and coordination among registered digital asset associationsâ
+(A)
+with respect to any person that is a member of or participant in more than 1 registered digital asset association, relieve any registered digital asset association of any responsibilityâ
+(i)
+to receive regulatory reports from the person;
+(ii)
+to examine the person for compliance; or
+(iii)
+to carry out other specified regulatory functions with respect to the person; and
+(B)
+allocate among registered digital asset associations the authority to adopt rules with respect to matters as to which, in the absence of the allocation, such registered digital asset associations share authority.
+(2)
+Considerations
+(A)
+In general
+In making a rule, or entering an order, under paragraph (1), the appropriate commission shall take into consideration the regulatory capabilities and procedures of the applicable registered digital asset associations, availability of staff, convenience of location, unnecessary regulatory duplication, and all other factors applicable to customer protection, cooperation and coordination among registered digital asset associations, and the development of a healthy digital asset market, which may include providing for the acceptance of examination reports prepared by a registered digital asset association under this chapter with respect to a digital asset intermediary for which digital asset activities constitute a majority of business, in lieu of examinations conducted by other registered digital asset associations.
+(B)
+Notification requirement
+The Securities and Exchange Commission or Commodity Futures Trading Commission, by rule or order, may require that a registered digital asset association relieved of any responsibility under this paragraph, and any person with respect to which that responsibility relates, to take such steps as are specified in any rule or order to notify customers of, and persons doing business with, the person of the limited nature of the responsibility of that registered digital asset association for the acts, practices, and course of business of the person.
+(d)
+Missing and stolen digital assets
+Each member of a registered digital asset association or other financial institution conducting digital asset transactions shall report to the Financial Crimes Enforcement Network of the Department of the Treasury such information as may be required by rule relating to digital asset theft or missing private keys for the possession or control of digital assets.
+(e)
+Confidentiality
+(1)
+Sharing of information
+(A)
+In general
+Section 24 of the Securities Exchange Act of 1934 (
+15 U.S.C. 78x
+) shall apply to the sharing of information by the Securities and Exchange Commission and Commodity Futures Trading Commission in accordance with this subsection.
+(B)
+Protection from inappropriate disclosure
+The commissions and a registered digital asset association shall ensure that all confidential information is not inappropriately disclosed pursuant to subparagraph (A).
+(2)
+Appropriate disclosure not prohibited
+Nothing in this subsection may be construed to authorize the Securities and Exchange Commission and Commodity Futures Trading Commission or a registered digital asset association toâ
+(A)
+withhold information from Congress; or
+(B)
+prevent the commissions or an association from complying withâ
+(i)
+a request for information from any Federal or State department or agency requesting the information for purposes within the scope of the jurisdiction of that department or agency; or
+(ii)
+an order of a court of the United States in an action brought by the United States or the commissions.
+(f)
+Best execution
+A registered digital asset association, in consultation with members of the association, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, shall develop rules governing the best execution of digital asset transactions.
+(g)
+Initial determination of legal character
+(1)
+In general
+(A)
+Initial determination
+A registered digital asset association may make an initial determination of the legal character of a digital asset as a security, an ancillary asset, a commodity (as defined in section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+)), or as otherwise provided by law, upon the written request of a member of the association.
+(B)
+Consultation; hearings
+Upon receipt of a request under subparagraph (A), a registered digital asset associationâ
+(i)
+shall consult with the commissions and make an initial determination regarding the request, after public notice and comment, not later than 45 days after the date on which the association receives the request; and
+(ii)
+may hold a public hearing with respect to an initial determination described in clause (i), ifâ
+(I)
+the matter is of significant precedential value or complex; or
+(II)
+holding such a hearing is otherwise in the public interest.
+(2)
+Publication
+A registered digital asset association shall publish all determinations made under paragraph (1) on the website of the association.
+(h)
+Objection to initial determination
+(1)
+In general
+(A)
+Deadline for objection
+Not later than 30 days after the date on which an initial determination is made under subsection (g), the Securities and Exchange Commission or Commodity Futures Trading Commission may object to the initial determination of the registered digital asset association by issuing an order, after public notice, comment, and a hearing.
+(B)
+Effect of objection
+Upon an objection under subparagraph (A), the initial determination to which the objection applies shall be held in abeyance.
+(2)
+Order
+(A)
+In general
+Not later than 60 days after the date on which a commission objects under paragraph (1), the commissions shall, after public notice and comment of not less than 30 days, issue an order resolving the objection and the status of the digital asset, as described in subsection (g)(1)(A), which may include joint responsibility of the commissions.
+(B)
+Failure to issue
+If the Securities and Exchange Commission and the Commodity Futures Trading Commission fail to issue a joint order under subparagraph (A), the determination of the registered digital asset association under subsection (g) shall become final, unless an action is brought in an appropriate district court of the United States of competent jurisdiction.
+.
+(b)
+Technical and conforming amendment
+The table of sections for
+chapter 98
+of title 31, United States Code, as amended by section 4, is amended by adding at the end the following:
+9804. Records and reports; duties and powers of registered digital asset associations.
+.

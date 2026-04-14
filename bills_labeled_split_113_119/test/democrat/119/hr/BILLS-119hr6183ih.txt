@@ -1,0 +1,247 @@
+1.
+References
+Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+2.
+Repeal of exception to requirement that penalty-free distributions be for qualified medical expenses
+(a)
+In general
+Section 223(f)(4)
+is amended by striking subparagraph (C).
+(b)
+Effective date
+The amendment made by this section shall apply to distributions made after December 31, 2025.
+3.
+Income limitation on deductible contributions to health savings accounts
+(a)
+In general
+Section 223(b)
+is amended by adding at the end the following new paragraph:
+(9)
+Limitation based on modified adjusted gross income
+(A)
+In general
+The amount otherwise allowable as a deduction under subsection (a) shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph) asâ
+(i)
+the amount (if any) by which the taxpayerâs modified adjusted gross income exceeds the applicable income threshold, bears to
+(ii)
+$40,000 ($20,000 in the case of a married individual filing a separate return).
+(B)
+Applicable income threshold
+For purposes of this paragraph, the term
+applicable income threshold
+meansâ
+(i)
+in the case of a joint return or surviving spouse (as defined in section 2(a)), $300,000,
+(ii)
+in the case of a head of household, $250,000,
+(iii)
+in the case of a married individual filing a separate return, $150,000, and
+(iv)
+in any other case, $200,000.
+(C)
+Modified adjusted gross income
+For purposes of this paragraph, the term
+modified adjusted gross income
+means adjusted gross income determined without regard to this section and sections 911, 931, and 933.
+.
+(b)
+Treatment of non-deductible contributions
+(1)
+Rules for distribution
+Section 223(f)(2)
+is amended is amended by striking
+shall be included in the gross income of such beneficiary.
+and inserting
+shall be included in the gross income of the beneficiary as provided in section 72. Rules similar to the rules of section 408(d)(2) shall apply for purposes of the preceding sentence.
+.
+(2)
+Coordination with excise tax on excess contributions
+Section 4973(g)(1)
+is amended by inserting
+(determined without regard to section 223(b)(9))
+after
+section 223
+.
+(c)
+Payroll taxes
+(1)
+FICA
+Section 3121(a)
+is amended by striking
+or
+at the end of paragraph (22), by striking the period at the end of paragraph (23) and inserting
+; or
+, and by inserting afer paragraph (23) the following new paragraph:
+(24)
+(A)
+for purposes of section 3101, any payment excludable from the employeeâs gross income under section 106(d), and
+(B)
+for purposes of any other provision of this chapter (including section 3102), any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
+.
+(2)
+Railroad Retirement
+Section 3231(e)(11)
+is amended to read as follows:
+(11)
+(A)
+for purposes of section 3201, any payment excludable from the employeeâs gross income under section 106(d), and
+(B)
+for purposes of any other provision of this chapter (including section 3202), any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d);
+.
+(d)
+Effective date
+(1)
+In general
+Except as otherwise provided in this subsection, the amendments made by this section shall apply to taxable years beginning after December 31, 2025.
+(2)
+Payroll taxes
+The amendments made by subsection (c) shall apply to payments made after December 31, 2025.
+4.
+Health savings account reimbursement of medical expenses limited to 2 years
+(a)
+In general
+Section 223(d)(2)
+is amended by adding at the end the following new subparagraph:
+(E)
+Reimbursements limited to 2 years
+An amount paid or distributed from a health savings account to reimburse the account beneficiary for a qualified medical expense shall not be treated as used to pay a qualified medical expense unless such distribution is made not later than 2 years after the date on which such reimbursed qualified medical expense was paid.
+.
+(b)
+Effective date
+The amendment made by this section shall apply to amounts paid or distributed from a health savings account after December 31, 2025.
+5.
+Requirement to substantiate distributions from health savings accounts that are for qualified medical expenses
+(a)
+In general
+Section 223(d)(2), as amended by the preceding provisions of this Act, is amended by adding at the end the following new subparagraph:
+(F)
+Substantiation requirement
+(i)
+In general
+An amount paid or distributed from a health savings account shall not be treated as used to pay a qualified medical expense unless such amount is substantiated as a qualified medical expense.
+(ii)
+Assessment required
+In the case of any expense with respect to which a providerâs opinion is required to substantiate such expense as a qualified medical expense under clause (i), such opinion shall not constitute substantiation unlessâ
+(I)
+such opinion is based on an assessment conducted pursuant to a bona fide provider-patient relationship,
+(II)
+such assessment is conducted in-person or is an assessment of a type that generally accepted standards of medical practice do not require to be in-person, and
+(III)
+the expense is incurred for an item or service of a type that would be typically recommended under generally accepted standards of medical practice.
+(G)
+Regulations
+The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this subparagraph.
+.
+(b)
+Determination by trustee
+Section 223(d)(1)
+is amended by adding at the end the following new subparagraph:
+(F)
+In the case of any amount paid or distributed from the trust, the trustee shall determine, consistent with the requirements of paragraph (2)(F), whether such amount has been substantiated as a qualified medical expense.
+.
+(c)
+Effective date
+The amendments made by this section shall apply to amounts paid or distributed from a health savings account after December 31, 2025.
+6.
+Certain expenses not treated as medical care
+(a)
+In general
+Section 223(d)(2), as amended by the preceding provisions of this Act, is amended by adding at the end the following new subparagraph:
+(G)
+Exclusions
+For purposes of this paragraph, the amounts paid for the following shall not be treated as paid for medical care:
+(i)
+Spa and beauty treatments.
+(ii)
+So much of any amounts paid for exercise equipment as exceed $500 in any taxable year.
+.
+(b)
+Effective date
+The amendment made by this section shall apply to amounts paid or distributed from a health savings account after December 31, 2025.
+7.
+Excise tax on excessive health savings account fees
+(a)
+In general
+Subtitle D is amended by adding at the end the following new chapter:
+50B
+Excessive health savings account fees
+Sec.â5000E.âExcessive health savings account fees.
+5000E.
+Excessive health savings account fees
+(a)
+In general
+There is hereby imposed on the trustee of any health savings account which charges any excessive health savings account fee a tax equal to the excess ofâ
+(1)
+the amount of such fee, over
+(2)
+the reasonable amount of such fee as determined under subsection (b)(3).
+(b)
+Excessive health saving account fee
+For purposes of this sectionâ
+(1)
+Excessive health savings account fee
+The term
+excessive health savings account fee
+means any covered health savings account fee if such fee exceeds the reasonable amount of such fee as determined under paragraph (3).
+(2)
+Covered health savings account fee
+The term
+covered health savings account fee
+means any of the following if charged in connection with a health savings account: maintenance fees; transfer fees; fees for paper statements, checks, or replacement cards; withdrawal fees; fees for insufficient funds; fees to ensure that fees do not exceed earnings or account balance; and such other fees or charges as the Secretary may identify for purposes of this paragraph.
+(3)
+Reasonable fees
+With respect to each category of fees described in paragraph (2) and such additional categories or subcategories as the Secretary may provide, the Secretary shall determine the reasonable amount of such fee.
+(c)
+Health saving account
+For purposes of this section, the term
+health savings account
+has the meaning given such term in section 223.
+.
+(b)
+Reporting
+Subpart A of part III of subchapter A of
+chapter 61
+is amended by inserting after section 6039L the following new section:
+6039M.
+Information regarding health savings account fees
+(a)
+In general
+Each trustee of a health savings account which charges any covered health savings account fee during any calendar year shall, for such calendar year, make a return at such time and in such manner as the Secretary may provide setting forth the information described in subsection (b) and such other information as the Secretary may require.
+(b)
+Information
+(1)
+In general
+Each return under subsection (a) shall include, with respect to each category of fee charged, a description of such fee, the number of such fees charged, and the aggregate amount of such fees charged.
+(2)
+Separately stated categories
+The information described in paragraph (1) shall be separately stated based on such demographic or other characteristics as the Secretary may provide.
+(c)
+Definitions
+Terms used in this section which are also used in section 5000E shall have the same meaning as when used in section 5000E.
+.
+(c)
+Clerical amendments
+(1)
+The table of chapters for subtitle D is amended by adding at the end the following new item:
+Chapter 50BâExcessive health savings account fees
+.
+(2)
+The table of sections for subpart A of part III of subchapter A of
+chapter 61
+is amended by inserting after the item relating to section 6039L the following new item:
+Sec. 6039M. Information regarding health savings account fees.
+.
+(d)
+Effective date
+The amendments made by this section shall apply to fees charged after December 31, 2025.
+8.
+Reporting of earnings on cash balances of health savings accounts
+(a)
+In general
+Section 223(h)
+is amended by adding at the end the following:
+The reports under paragraph (1) shall include a statement specifying the average yield on cash balances in the health savings account of the account beneficiary for the period covered by the report and a statement of the national average yield on savings account balances for such period (determined in such manner as the Secretary may provide).
+.
+(b)
+Effective date
+The amendment made by this section shall apply to reports with respect to periods beginning after December 31, 2025.

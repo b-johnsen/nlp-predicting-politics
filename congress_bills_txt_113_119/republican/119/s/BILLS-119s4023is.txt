@@ -1,0 +1,323 @@
+1.
+Short title
+This Act may be cited as the
+Americaâs Living Library Act
+.
+2.
+Americaâs living library project
+(a)
+Definitions
+In this Act:
+(1)
+Control
+The term
+control
+means having the ability, directly or indirectly, to determine (without regard to whether exercised through 1 or more corporate structures) the manner in which an entity conducts activities, through any means, includingâ
+(A)
+ownership interest;
+(B)
+authority to commit the real or financial assets of the entity;
+(C)
+position as a director, officer, or partner of the entity; or
+(D)
+contractual arrangement.
+(2)
+Department
+The term
+Department
+means the Department of the Interior.
+(3)
+Foreign entity of concern
+The term
+foreign entity of concern
+has the meaning given the term in section 40207 of the Infrastructure Investment and Jobs Act (
+42 U.S.C. 18741
+).
+(4)
+High-priority species
+The term
+high-priority species
+has the meaning given the term by the Secretary, the Secretary of Agriculture, the Secretary of Health and Human Services, and the Director of the National Museum of Natural History of the Smithsonian Institution, based on factors such as the conservation status, economic, cultural, or ecological value, biomedical or public health relevance, and rarity of the species.
+(5)
+Indian Tribe
+The term
+Indian Tribe
+has the meaning given the term
+Indian tribe
+in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (
+25 U.S.C. 5130
+).
+(6)
+Office
+The term
+office
+means the office established or designated under subsection (e)(1).
+(7)
+Program
+The term
+program
+means the Americaâs Living Library Project established under subsection (b).
+(8)
+Secretary
+The term
+Secretary
+means the Secretary of the Interior (acting through the Director of the United States Geological Survey).
+(b)
+Establishment
+The Secretary shall establish a pilot program, to be known as the
+Americaâs Living Library Project
+.
+(c)
+Purpose
+The purpose of the program is to facilitate the collection of new genomic data from species that are found in units of the National Park System.
+(d)
+Interagency coordination
+(1)
+In general
+In carrying out the program, the Secretary shall coordinateâ
+(A)
+the collection, cataloging, and whole-genome sequencing of samples from animals, plants, fungi, and microbes found on selected units of the National Park System, subject toâ
+(i)
+applicable permitting and consultation requirements under the Endangered Species Act of 1973 (
+16 U.S.C. 1531 et seq.
+), the Migratory Bird Treaty Act (
+16 U.S.C. 703 et seq.
+), and the Marine Mammal Protection Act of 1972 (
+16 U.S.C. 1361 et seq.
+);
+(ii)
+applicable permitting requirements under section 42 of title 18, United States Code; and
+(iii)
+applicable requirements under the Lacey Act Amendments of 1981 (
+16 U.S.C. 3371 et seq.
+);
+(B)
+the establishment of a publicly available genomic database for resulting genomic data collected under the program, including long-read sequence data, genome assemblies, annotations, and associated metadata, except that the database shall withhold from public release any personally identifiable information and any sensitive collection locality information, including precise collection site locations or coordinates, as determined to be appropriate by the Secretary to protect personnel, specimens, and resources;
+(C)
+as the Secretary determines to be appropriate, the integration of the Integrated Taxonomic Information System and any other systems, such as the PLANTS Database of the Department of Agriculture and the World Register of Marine Species, to provide scientific name concepts for organisms to accompany the genomic database; and
+(D)
+the long-term storage of samples collected under the program.
+(2)
+Partner agencies
+In carrying out paragraph (1), the Secretary shall coordinate with the Director of the National Park Service, the Secretary of Agriculture, the Director of the Smithsonian Museum of Natural History, the Director of the National Center for Biotechnology Information of the National Institutes of Health, and any other appropriate Federal agency.
+(e)
+Establishment of program office
+(1)
+In general
+The Secretary shall establish a new, or designate an existing, office within the United States Geological Survey to administer the program.
+(2)
+Staff
+The Secretary shall hire staff to carry out the program in accordance with this section.
+(3)
+Authority
+The office shall have the authorityâ
+(A)
+to carry out the program in accordance with this Act;
+(B)
+subject to such terms as the Secretary may determine appropriate, to enter into and implement any contract, lease, cooperative agreement, or other transaction that is necessary to carry out the program withâ
+(i)
+any Federal agency, including the Department of Agriculture and the Department of Defense; or
+(ii)
+any public or private person or entity;
+(C)
+to develop mechanisms to receive in-kind contributions from biotechnology companies, subject to requirements that the mechanisms developed shallâ
+(i)
+limit in-kind contributions to the provision of resources to carry out the program, such as materials, instrumentation, or technological capabilities (such as deoxyribonucleic acid sequencing); and
+(ii)
+include vetting for, and prevention of, conflicts of interest; and
+(D)
+to use, subject to the consent of the applicable Federal agency, the services, personnel, and facilities of any other Federal agency.
+(f)
+Selection of units of the National Park System
+(1)
+Initial selection
+Not later than 180 days after the date of enactment of this Act, based on the criteria described in paragraph (2), the Secretary shall select 5 units of the National Park System at which to carry out the program initially.
+(2)
+Selection criteria
+The Secretary, in consultation with the Director of the National Park Service, shall select units of the National Park System under this subsection based on objective criteria that take into accountâ
+(A)
+the biological landscape of the unit of the National Park System;
+(B)
+the feasibility of implementation at, and operational readiness of, the unit of the National Park System;
+(C)
+the quality of the education and public engagement opportunities at the unit of the National Park System;
+(D)
+the research value and alignment of the unit of the National Park System with program priorities, including, where appropriate, genomic sequencing and associated metadata needs;
+(E)
+the geographic and ecological diversity across the National Park System; and
+(F)
+any other criteria established by the Secretary.
+(3)
+Additional units of the National Park System
+Not later than 2 years after the date of enactment of this Act, the Secretary shall select, in accordance with the criteria under paragraph (2), an additional 20 units of the National Park System at which to carry out the program.
+(4)
+Notice of selections
+Not later than 15 days after the date on which a unit of the National Park System is selected under this subsection, the Secretary shall make publicly available on a Department website a notice thatâ
+(A)
+lists any units of the National Park System selected as part of that selection process; and
+(B)
+provides, for each unit of the National Park System selected as part of that selection process, a brief statement of reasons describing how the selection satisfies the criteria described in paragraph (2).
+(g)
+Program requirements
+(1)
+Data standards
+In carrying out the program, the Secretary shallâ
+(A)
+leverage existing and emerging data standards to ensureâ
+(i)
+high-quality data are obtained under the program; and
+(ii)
+program data are considered usable and interoperable, with appropriate metadata to be included;
+(B)
+ensure that data outputs under the programâ
+(i)
+(I)
+meet applicable Federal data standards for biological data; or
+(II)
+if there are no applicable Federal data standards described in subclause (I), meet data standards for the program established by the Secretary, in consultation with relevant Federal agencies, based on findability, accessibility, interoperability, and reusability data principles and using industry best practices;
+(ii)
+as appropriate, comply with Department policies relating to species listed as endangered or threatened under the Endangered Species Act of 1973 (
+16 U.S.C. 1531 et seq.
+); and
+(iii)
+are updated to comply with any applicable United States Geological Survey standards for biological data; and
+(C)
+ensure that appropriate cybersecurity and access safeguards are implemented to protect the data generated or stored under the program, including by ensuring that data outputs under the program are updated as necessary to meet applicable Federal cybersecurity standards for genomic data, including controls consistent with the National Institute of Standards and Technology special publications 800â53 (relating to Security and Privacy Controls for Information Systems and Organizations) and 800â111 (relating to Guide to Storage Encryption Technologies for End User Devices) or any successor framework.
+(2)
+Long-term storage
+The Secretary shall consult with the Secretary of Agriculture and the Director of the National Museum of Natural History of the Smithsonian Institution with respect to storage capabilities for the management and long-term storage of samples collected under the program, subject to the following:
+(A)
+Ownership of any samples collected under the program shall not be transferred, but samples may be housed with the Smithsonian Institution, the Department of Agriculture, or another qualified repository pursuant to a written repository agreement, which shall provide that access to samples collected under the program shall be managed by the respective institutional collection managers, withâ
+(i)
+the natural history collections to be managed by the Director of the National Museum of Natural History of the Smithsonian Institution; and
+(ii)
+the germplasm repository to be managed by the Secretary of Agriculture.
+(B)
+Before any samples are collected under the program, the Secretary, in coordination with the Secretary of Agriculture and the Director of the National Museum of Natural History of the Smithsonian Institution, shallâ
+(i)
+evaluate the species to be sampled to identify which species need to be collected for long-term storage;
+(ii)
+from among the species identified under clause (i), identify which species should be considered to be high-priority species;
+(iii)
+ensure that all samples proposed for collection and long-term storage under the program are evaluated in accordance with appropriate standards identified by the Secretary to minimize the risk of collecting or storing disease vectors, pathogens, or other harmful biological agents; and
+(iv)
+require that any microbial or pathogen material identified through an evaluation under clause (iii) as requiring enhanced biosafety or biosecurity measures shall beâ
+(I)
+accessioned and stored separately from other program samples in a distinct, access-controlled collection; and
+(II)
+handled and stored only in facilities with containment and operational controls appropriate to the identified risk, consistent with applicable Federal biosafety and biosecurity requirements.
+(C)
+Any samples identified for long-term storage under subparagraph (B)(i) shall beâ
+(i)
+collected and stored under the program; and
+(ii)
+preserved in the natural history collections to be managed by the Director of the National Museum of Natural History of the Smithsonian Institution for the purposes of later research and long-term preservation.
+(D)
+Any high-priority species identified under subparagraph (B)(ii) shall be collected for storage in each ofâ
+(i)
+the natural history collections to be managed by the Director of the National Museum of Natural History of the Smithsonian Institution; and
+(ii)
+the germplasm repository to be managed by the Secretary of Agriculture.
+(E)
+Any physical samples collected under the program shall not be transferred, exported, or loaned outside the United States.
+(F)
+Any physical storage, curation, and laboratory processing of samples collected under the program shall occur within facilities located in the United States.
+(3)
+Sampling and collection procedures
+In carrying out the program, the Secretary shallâ
+(A)
+establish sampling and collection procedures and policies consistent with applicable Department rules and standards, including permitting and consultation requirements under the Endangered Species Act of 1973 (
+16 U.S.C. 1531 et seq.
+), the Migratory Bird Treaty Act (
+16 U.S.C. 703 et seq.
+), section 42 of title 18, United States Code, the Lacey Act Amendments of 1981 (
+16 U.S.C. 3371 et seq.
+), and the Marine Mammal Protection Act of 1972 (
+16 U.S.C. 1361 et seq.
+); and
+(B)
+develop sampling plans that leverage existing research and monitoring programs within the Department.
+(4)
+Sequencing and data processing
+In carrying out the program, the Secretary shallâ
+(A)
+partner with the Secretary of Agriculture, the Director of the National Museum of Natural History of the Smithsonian Institution, and the heads of other applicable Federal agencies to sequence genomic information from samples collected under the program;
+(B)
+develop and use standardized sequencing protocols to ensure consistency and comparability of data; and
+(C)
+incorporate automated data processing and quality checks to ensure the reliability of the data.
+(h)
+Tribal consultation
+In implementing the program, the Secretary shall engage in consultation with Indian Tribes in accordance with section 306108 of title 54, United States Code, Department policies on Tribal consultation, and other applicable law.
+(i)
+Implementation plan
+Not later than 180 days after the date of enactment of this Act, the Secretary shall submit to the appropriate committees of Congress an implementation plan for the program that provides the following:
+(1)
+A description of the expansion of genomic sequencing under the program to additional units of the National Park System under subsection (f)(3), including the consideration of partnerships with companies, contractors, and third parties to assist the office in carrying out the expansion.
+(2)
+An outline of methods in which the program could be expanded to include other federally managed land and Federal programs and facilities that manage biological resources, including land and programs or facilities managed by the Bureau of Land Management, the United States Fish and Wildlife Service, and the Forest Service, including units of the National Wildlife Refuge System and units of the National Fish Hatchery System.
+(3)
+A plan to facilitate, prior to public release, expedited access pathways or other non-public services (including bulk export application programming interfaces and any computer resources supported by the program within the United States) for the development, training, or evaluation of artificial intelligence models, to be limited to entities organized under the laws of the United States that are not owned or controlled, directly or indirectly, by any foreign entity of concern.
+(j)
+Reports
+(1)
+Preliminary report
+(A)
+In general
+Not later than 3 years after the date of enactment of this Act, the Secretary, in consultation with the Secretary of Agriculture, shall submit to the appropriate committees of Congress a methodological review and report of preliminary findings of the program.
+(B)
+Inclusion
+The review and report submitted under subparagraph (A) shall include a plan for the sustainable and long-term funding of the program with recommendations relating toâ
+(i)
+a graduated subscription model developed in coordination with the Director of the National Institute of Standards and Technology and the Director of the National Institutes of Health for the database established under subsection (d)(1), the cost of which shall be based on the size and usage of the accessing organization; and
+(ii)
+potential partnerships with institutions of higher education, philanthropic organizations, and nongovernmental organizations, such as the National Park Foundation, to secure grants and additional funding for the program in accordance with applicable policies of the Department.
+(2)
+Final report
+As soon as practicable after the date on which the program is terminated under subsection (l), the Secretary, in consultation with the Secretary of Agriculture, shall submit to the appropriate committees of Congress a methodological review and report that describes the final findings with respect to the program.
+(k)
+Program funding
+There are authorized to be appropriated to carry out this Actâ
+(1)
+to the Secretary for program oversight and management of the conduct of genome sequencing in selected units of the National Park Systemâ
+(A)
+$16,500,000 for each of fiscal years 2027 and 2028;
+(B)
+$36,000,000 for fiscal year 2029; and
+(C)
+$54,000,000 for each of fiscal years 2030 and 2031;
+(2)
+to the National Museum of Natural History of the Smithsonian Institution for sample storageâ
+(A)
+$3,000,000 for each of fiscal years 2027 and 2028;
+(B)
+$7,000,000 for fiscal year 2029; and
+(C)
+$10,000,000 for each of fiscal years 2030 and 2031;
+(3)
+to the National Center for Agricultural Utilization Research of the Department of Agriculture for sample storageâ
+(A)
+$3,000,000 for each of fiscal years 2027 and 2028;
+(B)
+$6,000,000 for fiscal year 2029; and
+(C)
+$9,000,000 for each of fiscal years 2030 and 2031;
+(4)
+to the National Animal Germplasm Program of the Department of Agriculture for sample storageâ
+(A)
+$1,000,000 for each of fiscal years 2027 and 2028;
+(B)
+$2,000,000 for fiscal year 2029; and
+(C)
+$3,000,000 for each of fiscal years 2030 and 2031; and
+(5)
+to the National Center for Biotechnology Information of the National Institutes of Health for program data storageâ
+(A)
+$5,000,000 for each of fiscal years 2027 and 2028;
+(B)
+$10,000,000 for fiscal year 2029; and
+(C)
+$15,000,000 for each of fiscal years 2030 and 2031.
+(l)
+Termination of authority
+The authority to carry out the program terminates on the date that is 10 years after the date of enactment of this Act.

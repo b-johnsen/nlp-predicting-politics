@@ -1,0 +1,920 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+or the
+CREST Act of 2022
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+TITLE IâCarbon removal research and development
+Subtitle AâBiomass carbon removal
+Sec. 101. Biomass carbon removal programs.
+Sec. 102. Biological carbon dioxide conversion programs.
+Subtitle BâGeological carbon removal
+Sec. 111. Carbon mineralization pilot projects.
+Sec. 112. Carbon mineralization resource assessment.
+Sec. 113. Tailings and waste mineralization program.
+Subtitle CâAquatic carbon removal
+Sec. 121. Ocean carbon removal mission.
+Sec. 122. Direct ocean capture assessment.
+Sec. 123. Offshore carbon storage program and assessment.
+Subtitle DâAtmospheric carbon removal
+Sec. 131. Direct air capture technology manufacturing research program.
+Subtitle EâCarbon removal quantification
+Sec. 141. Carbon removal quantification.
+TITLE IIâCarbon removal purchasing pilot program
+Sec. 201. Carbon removal purchasing pilot program.
+2.
+Definitions
+In this Act:
+(1)
+Carbon removal
+The term
+carbon removal
+means the intentional removal, including by harnessing natural processes, of carbon dioxide directly from the atmosphere or upper hydrosphere and subsequent storage of the carbon dioxide in geological, biobased, or ocean reservoirs or in value-added products that results in a net removal of carbon dioxide from the atmosphere, as measured on a lifecycle basis.
+(2)
+Carbon removal technology or approach
+The term
+carbon removal technology or approach
+includesâ
+(A)
+direct air capture with durable storage;
+(B)
+soil carbon sequestration;
+(C)
+biomass carbon removal and storage;
+(D)
+enhanced mineralization;
+(E)
+ocean-based carbon dioxide removal; and
+(F)
+afforestation or reforestation.
+(3)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+I
+Carbon removal research and development
+A
+Biomass carbon removal
+101.
+Biomass carbon removal programs
+(a)
+Office of science
+Section 306 of the Department of Energy Research and Innovation Act (
+42 U.S.C. 18644
+) is amended by adding at the end the following:
+(e)
+Algal biomass carbon removal
+(1)
+In general
+The Director shall carry out a research and development program to gain understanding of the underlying biology of algal biomass systems and the possible use of algal biomass systems as a means of carbon removal (as defined in section 2 of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+) from the air and aquatic sources.
+(2)
+Requirements
+The program carried out under paragraph (1) shallâ
+(A)
+support efforts to reduce long-term technical barriers for algal biomass with carbon capture; and
+(B)
+coordinate closely with the Bioenergy Technologies Office and the Office of Fossil Energy and Carbon Management.
+.
+(b)
+Office of energy efficiency and renewable energy
+Section 932 of the Energy Policy Act of 2005 (
+42 U.S.C. 16232
+) is amendedâ
+(1)
+in subsection (b)â
+(A)
+in paragraph (5), by striking
+and
+after the semicolon;
+(B)
+in paragraph (6), by striking the period and inserting
+; and
+; and
+(C)
+by adding at the end the following:
+(7)
+biological carbon removal (as defined in section 2 of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+).
+; and
+(2)
+by inserting after subsection (e) the following:
+(f)
+Biological carbon removal
+(1)
+Definition of carbon removal
+In this subsection, the term
+carbon removal
+has the meaning given the term in section 2 of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+.
+(2)
+Goals
+The goals of the biological carbon removal program under subsection (b)(7) shall be to develop and deploy, in partnership with industry and institutions of higher educationâ
+(A)
+improved tools and understanding of feedstocks, supplies, and logistics with respect to carbon removal using biomass sources;
+(B)
+technologies for the optimized conversion of aquatic and terrestrial biomass for carbon removal;
+(C)
+cost-competitive carbon capture technologies applied to bioenergy, includingâ
+(i)
+algal, terrestrial, and marine biomass;
+(ii)
+biofuels; and
+(iii)
+bioproducts; and
+(D)
+applied research on best practices in macroalgae cultivation and phenotype selection, including by carrying out aquatic pilot projects.
+(3)
+Coordination
+Activities conducted under this subsection shall be coordinated with the relevant programs of the Office of Science, the Office of Fossil Energy and Carbon Management, and the Department of Agriculture.
+.
+(c)
+Office of fossil energy and carbon management
+Section 962(b) of the Energy Policy Act of 2005 (
+42 U.S.C. 16292(b)
+) is amendedâ
+(1)
+in paragraph (1), by striking
+performance of
+and all that follows through the period at the end and inserting the following: âperformance ofâ
+(A)
+coal and natural gas use;
+(B)
+biomass with carbon capture for utilization or permanent storage; and
+(C)
+manufacturing and industrial facilities.
+; and
+(2)
+in paragraph (3)â
+(A)
+in subparagraph (A)â
+(i)
+in clause (v), by striking
+and
+after the semicolon;
+(ii)
+in clause (vi), by striking the period at the end and inserting
+; and
+; and
+(iii)
+by adding at the end the following:
+(vii)
+developing advanced boilers to enable net-negative lifecycle carbon emissions through co-firing with biomass.
+; and
+(B)
+by adding at the end the following:
+(G)
+Developing carbon capture technologies applied to bioenergy systems that result in net-negative lifecycle carbon emissions, includingâ
+(i)
+biofuels production;
+(ii)
+bioproducts;
+(iii)
+biomass used in power systems and industrial applications; and
+(iv)
+fossil fuel power systems and industrial systems co-fired with biomass.
+.
+(d)
+Office of energy efficiency and renewable energy
+(1)
+In general
+The Energy Independence and Security Act of 2007 (
+42 U.S.C. 17001 et seq.
+) is amended by striking section 228 (121 Stat. 1535) and inserting the following:
+228.
+Aquatic biomass
+(a)
+In general
+The Director of the Bioenergy Technologies Office shall carry out applied research onâ
+(1)
+microalgae and macroalgae cultivation and phenotype selection; and
+(2)
+optimization of aquatic biomass conversion pathways.
+(b)
+Requirements
+The research carried out under subsection (a) shall support effortsâ
+(1)
+to develop best practices in microalgae and macroalgae cultivation and phenotype selection, including by carrying out aquatic pilot projectsâ
+(A)
+on microalgae and macroalgae; and
+(B)
+in freshwater and seawater; and
+(2)
+to optimize aquatic biomass conversion pathways that result in carbon removal (as defined in section 2 of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+) for biopower, biofuels, and other uses.
+(c)
+Funding
+There are authorized to be appropriated to the Secretary to carry out this sectionâ
+(1)
+$3,000,000 for fiscal year 2023;
+(2)
+$8,000,000 for fiscal year 2024; and
+(3)
+$20,000,000 for each of fiscal years 2025 through 2027.
+.
+(2)
+Clerical amendment
+The table of contents for the Energy Independence and Security Act of 2007 (
+Public Law 110â140
+; 121 Stat. 1493) is amended by striking the item relating to section 228 and inserting the following:
+Sec. 228. Aquatic biomass.
+.
+102.
+Biological carbon dioxide conversion programs
+(a)
+In general
+The Energy Policy Act of 2005 is amended by inserting after section 977 (
+42 U.S.C. 16317
+) the following:
+977A.
+Biological carbon dioxide conversion programs
+(a)
+Genetic modeling and tools; bioprospecting
+(1)
+In general
+The Director of the Office of Science shall establish a program to improve genetic modeling and manipulation for carbon dioxide conversion.
+(2)
+Methodology
+The program established under paragraph (1) shallâ
+(A)
+support efforts to improve carbon dioxide uptake and conversion through genetic manipulation of crops and trees, includingâ
+(i)
+soil enhancements;
+(ii)
+enhanced photosynthesis, including microbial soil amendments and perennialization; and
+(iii)
+root growth; and
+(B)
+support efforts to bioprospect using tools and high-throughput screening methods for organisms with unique attributes related to carbon dioxide conversion.
+(3)
+Coordination
+In carrying out the program established under paragraph (1), the Director of the Office of Science shall coordinate with the National Science Foundation and the Agricultural Research Service.
+(b)
+New materials development and application
+(1)
+Definition of carbon removal
+In this subsection, the term
+carbon removal
+has the meaning given the term in section 2 of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+.
+(2)
+Program
+The Assistant Secretary for Energy Efficiency and Renewable Energy, in consultation with the Secretary of Agriculture, shall establish a program to develop new biologically based carbon dioxide utilization products and coproducts that result in carbon removal.
+(3)
+Methodology
+The program established under paragraph (2) shallâ
+(A)
+support efforts to develop new carbon dioxide utilization products that result in carbon removal;
+(B)
+prioritize products that have the potential to be deployed at a large scale; and
+(C)
+support efforts to develop valorization of coproducts forâ
+(i)
+feed;
+(ii)
+fuel; and
+(iii)
+other uses.
+.
+(b)
+Clerical amendment
+The table of contents for the Energy Policy Act of 2005 (
+Public Law 109â58
+; 119 Stat. 600) is amended by inserting after the item relating to section 977 the following:
+Sec. 977A. Biological carbon dioxide conversion programs.
+.
+B
+Geological carbon removal
+111.
+Carbon mineralization pilot projects
+(a)
+In general
+The Energy Policy Act of 2005 is amended by inserting after section 963 (
+42 U.S.C. 16293
+) the following:
+963A.
+Carbon mineralization pilot projects
+(a)
+In general
+The Secretary, in consultation with the Administrator of the National Oceanic and Atmospheric Administration and the Director of the United States Geological Survey, shall conduct field experiments of ex situ and in situ carbon mineralization approaches for the purposes of advancing carbon removal technologies or approaches (as defined in section 2 of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+).
+(b)
+Activities
+In carrying out subsection (a), the Secretary shallâ
+(1)
+conduct field experiments of ex situ carbon mineralizationâ
+(A)
+using desalination brine treatment; and
+(B)
+through the broadcast of reactive minerals onâ
+(i)
+soils;
+(ii)
+beaches; and
+(iii)
+shallow oceans; and
+(2)
+conduct field experiments of in situ carbon mineralization, including through drilling and injection in reactive formations forâ
+(A)
+mantle peridotite;
+(B)
+basalt; and
+(C)
+other relevant formations.
+(c)
+Field experiment goals and objectives
+The Secretary shall develop goals and objectives for field experiments carried out under this section to decrease the energy requirements and costs to produce the resulting mineralized carbon.
+(d)
+Environmental impact
+In carrying out field experiments under this section, the Secretary shall comply with all applicable environmental laws and regulations.
+(e)
+Funding
+There are authorized to be appropriated to the Secretary to carry out this sectionâ
+(1)
+$4,000,000 for fiscal year 2023;
+(2)
+$9,000,000 for fiscal year 2024;
+(3)
+$18,000,000 for fiscal year 2025; and
+(4)
+$30,000,000 for each of fiscal years 2026 and 2027.
+.
+(b)
+Clerical amendment
+The table of contents for the Energy Policy Act of 2005 (
+Public Law 109â58
+; 119 Stat. 600) is amended by inserting after the item relating to section 963 the following:
+Sec. 963A. Carbon mineralization pilot projects.
+.
+112.
+Carbon mineralization resource assessment
+(a)
+In general
+The Secretary of the Interior (referred to in this section as the
+Secretary
+) shall complete a national assessment of the potential for using carbon mineralization for carbon removal, in accordance with the methodology developed under subsection (b).
+(b)
+Methodology
+Not later than 2 years after the date of enactment of this Act, the Secretary, acting through the Director of the United States Geological Survey, shall develop a methodology to assess geological resources, mine tailings, and other alkaline industrial wastes to identify sustainable sources of reactive minerals suitable for carbon mineralization, while taking into consideration minerals and mineral classes with high reactivity and fast kinetics.
+(c)
+Coordination
+(1)
+Federal coordination
+To ensure the maximum usefulness and success of the assessment under subsection (a), the Secretary shallâ
+(A)
+consult with the Secretary of Energy and the Administrator of the Environmental Protection Agency on the format and content of the assessment; and
+(B)
+share relevant data with the Department of Energy and the Environmental Protection Agency.
+(2)
+State coordination
+The Secretary shall consult with State geological surveys and other relevant entities to ensure, to the maximum extent practicable, the usefulness and success of the assessment under subsection (a).
+(d)
+Report
+(1)
+In general
+Not later than 180 days after the date on which the assessment under subsection (a) is completed, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the findings under the assessment, including the locations and available quantities of suitable reactive minerals.
+(2)
+Public availability
+Not later than 30 days after the date on which the Secretary submits the report under paragraph (1), the Secretary shall make the report publicly available.
+113.
+Tailings and waste mineralization program
+(a)
+Tailings and waste mineralization program
+(1)
+In general
+The Secretary shall conduct field experiments to examine the use of mine tailings and industrial wastes for the purpose of carbon mineralization.
+(2)
+Activities
+The field experiments using mine tailings and industrial wastes conducted under paragraph (1) shall assessâ
+(A)
+the reusing of industrial slags and mine tailings in manufacturing; and
+(B)
+other industrial wastes that may have carbon mineralization properties.
+(b)
+Study on environmental impacts of mineralization products
+(1)
+In general
+Not later than 3 years after the date of enactment of this Act, the Secretary shall conduct, and submit to Congress a report that describes the results of, a study on the environmental impacts ofâ
+(A)
+broadcasting materials and distributing piles of mine tailings at various scales for the purposes of enhanced carbon mineralization; and
+(B)
+additional mining for the purposes of carbon mineralization.
+(2)
+Requirements
+The study under paragraph (1) shall include an analysis ofâ
+(A)
+the relative carbon removal potential associated with various scales of carbon mineralization;
+(B)
+the cost of environmental mitigation of the environmental impacts identified under the study; and
+(C)
+opportunitiesâ
+(i)
+for remediation;
+(ii)
+to co-extract reactive minerals with conventional mining operations; and
+(iii)
+for the use of reactive minerals in mining remediation.
+C
+Aquatic carbon removal
+121.
+Ocean carbon removal mission
+Section 969D of the Energy Policy Act of 2005 (
+42 U.S.C. 16298d
+) is amendedâ
+(1)
+in subsection (a) by inserting
+and aquatic sources
+after
+atmosphere
+; and
+(2)
+in subsection (c)â
+(A)
+in paragraph (5), by striking
+and
+after the semicolon;
+(B)
+in paragraph (6), by striking the period at the end and inserting a semicolon; and
+(C)
+by adding at the end the following:
+(7)
+ocean carbon removal and strategies, such asâ
+(A)
+blue carbon, which is the management of vegetated coastal habitats (including mangroves, tidal marshes, seagrasses, kelp forests, and other tidal, freshwater, or saltwater wetlands) that sequester carbon (including autochthonous carbon and allochthonous carbon) from the atmosphere, accumulate carbon in biomass, and store the carbon in soils;
+(B)
+direct ocean capture (as described in section 122(a) of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+);
+(C)
+microalgae and macroalgae cultivation forâ
+(i)
+biofuels;
+(ii)
+bioproducts; and
+(iii)
+carbon storage; and
+(D)
+ocean alkalinity enhancement; and
+(8)
+any combination of activities described in paragraphs (1) through (7) that have the potential for significant carbon removal (as defined in section 2 of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+).
+.
+122.
+Direct ocean capture assessment
+(a)
+In general
+The Secretary shall conduct a comprehensive assessment of the potential for removing carbon dioxide directly from the oceans.
+(b)
+Methodology
+In conducting the assessment under subsection (a), the Secretary shall consider the potential and relative merits ofâ
+(1)
+pathways, methods, and technologies that are able to directly remove carbon dioxide from the oceans through engineered or inorganic processes; and
+(2)
+technologies such as filters, membranes, phase change systems, chemical conversion, or other technological pathways.
+(c)
+Inclusion
+In conducting the assessment under subsection (a), the Secretary shall incorporate any information on the results of activities conducted under section 223 of the National Defense Authorization Act for Fiscal Year 2020 (
+10 U.S.C. 4001
+note;
+Public Law 116â92
+).
+(d)
+Report
+Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with the Administrator of the National Oceanic and Atmospheric Administration, shall submit to the Committees on Energy and Natural Resources and Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the results of the assessment under subsection (a).
+(e)
+Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out this sectionâ
+(1)
+$2,000,000 for fiscal year 2023;
+(2)
+$4,000,000 for fiscal year 2024; and
+(3)
+$8,000,000 for each of fiscal years 2025 through 2027.
+123.
+Offshore carbon storage program and assessment
+(a)
+Carbon dioxide impacts and fate in the ocean
+(1)
+In general
+The Department of Energy Carbon Capture and Sequestration Research, Development, and Demonstration Act of 2007 (
+Public Law 110â140
+; 121 Stat. 1704) is amended by adding at the end the following:
+709.
+Carbon dioxide impacts and fate in the ocean
+(a)
+In general
+The Secretary shall establish a program to monitor, research, and model the ecological impacts of ocean carbon dioxide removal and storage techniques.
+(b)
+Coordination
+In carrying out the program established under subsection (a), the Secretary shall coordinate with the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the National Aeronautics and Space Administration.
+(c)
+Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out this sectionâ
+(1)
+$2,000,000 for fiscal year 2023; and
+(2)
+$5,000,000 for each of fiscal years 2024 through 2027.
+.
+(2)
+Clerical amendment
+The table of contents for the Energy Independence and Security Act of 2007 (
+Public Law 110â140
+; 121 Stat. 1496) is amended by inserting after the item relating to section 708 the following:
+Sec. 709. Carbon dioxide impacts and fate in the ocean.
+.
+(b)
+Outer continental shelf resource assessment
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, the Secretary shallâ
+(A)
+expand the CarbonSAFE Initiative of the Department of Energy to complete a national carbon mineralization assessment that examines the full range of carbon mineralization storage potential for the outer Continental Shelf region; and
+(B)
+submit to the Committees on Energy and Natural Resources and Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the results of the assessment.
+(2)
+Authorization of appropriations
+There is authorized to be appropriated to the Secretary to carry out this subsection $5,000,000 for each of fiscal years 2023 through 2027.
+(c)
+Assessment To determine the potential for offshore carbon storage
+(1)
+In general
+The Secretary, in consultation with the Secretary of the Interior, the Administrator of the Environmental Protection Agency, and the Administrator of the National Oceanic and Atmospheric Administration, shall conduct a comprehensive assessment of the potential for offshore carbon storage, including an assessment ofâ
+(A)
+the potential for offshore carbon storageâ
+(i)
+in deep offshore sub-seabed locations, such as in geological formations;
+(ii)
+at the seabed, such as through biomass sinking; and
+(iii)
+within the oceans, such as liquid carbon dioxide storage; and
+(B)
+other relevant methods of offshore carbon storage.
+(2)
+Inclusion
+The assessment under paragraph (1) shall include recommendations of measures that the Department of Energy may take to improve the ease, safety, and security of offshore carbon dioxide storage.
+(3)
+Reporting
+Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committees on Energy and Natural Resources and Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the results of the assessment under paragraph (1).
+D
+Atmospheric carbon removal
+131.
+Direct air capture technology manufacturing research program
+(a)
+Initiative
+(1)
+In general
+The Secretary shall establish a program for the research, development, and demonstration of manufacturing techniques for direct air capture technologies (referred to in this section as the
+program
+).
+(2)
+Coordination
+In carrying out the program, the Secretary shall leverage expertise and resources fromâ
+(A)
+the Office of Science;
+(B)
+the Office of Energy Efficiency and Renewable Energy; and
+(C)
+the Office of Fossil Energy and Carbon Management.
+(b)
+Contactor design
+(1)
+In general
+In carrying out the program, the Secretary shall conduct research on applied technology development of air contactor design.
+(2)
+Requirements
+The research under paragraph (1) shall support efforts to improve air contactors withâ
+(A)
+low pressure drop;
+(B)
+high surface area; and
+(C)
+high longevity.
+(c)
+Manufacturing improvement
+(1)
+In general
+In carrying out the program, the Secretary shall conduct research scaling-up manufacturing of direct air capture components.
+(2)
+Requirements
+The research under paragraph (1) shallâ
+(A)
+support efforts to improve techniques for low-cost manufacturing of direct air capture components and materials; and
+(B)
+be coordinated with private industry and universities.
+(d)
+Authorization of appropriations
+There are authorized to be appropriated to the Secretaryâ
+(1)
+to carry out subsection (b)â
+(A)
+$3,000,000 for fiscal year 2023;
+(B)
+$7,000,000 for fiscal year 2024; and
+(C)
+$10,000,000 for each of fiscal years 2025 through 2027; and
+(2)
+to carry out subsection (c)â
+(A)
+$2,000,000 for fiscal year 2023;
+(B)
+$5,000,000 for fiscal year 2024; and
+(C)
+$10,000,000 for each of fiscal years 2025 through 2027.
+E
+Carbon removal quantification
+141.
+Carbon removal quantification
+(a)
+In general
+Title V of the Energy Act of 2020 (
+42 U.S.C. 16298e et seq.
+) is amended by adding at the end the following:
+5003.
+Quantifying the benefits of carbon removal
+(a)
+Purposes
+The purposes of this section areâ
+(1)
+to quantify the net carbon removed through atmospheric and aquatic carbon removal pathways;
+(2)
+to determine the current and projected carbon removal capacity of atmospheric and aquatic carbon removal pathways;
+(3)
+to determine the current and likely future technical readiness of carbon removal technologies or approaches for large-scale carbon removal deployment; and
+(4)
+to aid in the commercialization of carbon removal technologies or approaches.
+(b)
+Definitions
+In this section:
+(1)
+Carbon removal; carbon removal technology or approach
+The terms
+carbon removal
+and
+carbon removal technology or approach
+have the meanings given the terms in section 2 of the
+Carbon Removal and Emissions Storage Technologies Act of 2022
+.
+(2)
+Eligible entity
+The term
+eligible entity
+means any of the following entities:
+(A)
+An institution of higher education.
+(B)
+A National Laboratory.
+(C)
+A Federal research agency.
+(D)
+A State research agency.
+(E)
+A nonprofit research organization.
+(F)
+An industrial entity.
+(G)
+A consortium of 2 or more entities described in subparagraphs (A) through (F).
+(3)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(c)
+Carbon removal footprint program
+(1)
+Establishment
+Not later than 1 year after the date of enactment of this section, the Secretary shall establish a program to carry out the purposes described in subsection (a), including by providing financial assistance to eligible entities to examine the technological, economic, and environmental impacts of carbon removal pathways and technologies.
+(2)
+Eligible activities
+Activities eligible to receive financial assistance under this section includeâ
+(A)
+assessments of technological or economic barriers to the widescale deployment of carbon removal pathways and technologies; and
+(B)
+lifecycle assessments for carbon removal pathways and technologies, including gathering data in partnership with a direct air capture test center authorized under section 969D(f)(1) of the Energy Policy Act of 2005 (
+42 U.S.C. 16298d(f)(1)
+).
+(3)
+Applications
+An eligible entity seeking financial assistance under this section shall submit to the Secretary an application that includes a description ofâ
+(A)
+the applicable project;
+(B)
+the software programs, consultants, and general methodologies to be used to conduct the assessment;
+(C)
+the location of any applicable facility or project;
+(D)
+expected feedstocks and other inputs; and
+(E)
+the expected use of carbon removed.
+(4)
+Priority
+In selecting eligible entities to receive financial assistance under this section, the Secretary shall give priority to eligible entities thatâ
+(A)
+make the assessment publicly available, with confidential business information redacted or removed; and
+(B)
+have not previously received financial assistance under this section.
+.
+(b)
+Clerical amendment
+The table of contents for the Energy Act of 2020 (
+Public Law 116â260
+; 134 Stat. 2419) is amended by inserting after the item relating to section 5002 the following:
+Sec. 5003. Quantifying the benefits of carbon removal.
+.
+II
+Carbon removal purchasing pilot program
+201.
+Carbon removal purchasing pilot program
+(a)
+In general
+Subtitle F of title IX of the Energy Policy Act of 2005 (
+42 U.S.C. 16291 et seq.
+) is amended by adding at the end the following:
+969E.
+Carbon removal purchasing pilot program
+(a)
+Purposes
+The purposes of this section areâ
+(1)
+to accelerate the deployment and commercialization of carbon removal pathways and technologies;
+(2)
+to stimulate the development and commercialization of low-carbon products made with carbon dioxide removed from the atmosphere or oceans; and
+(3)
+to support the development of technologies relating to carbon removal.
+(b)
+Definitions
+In this section:
+(1)
+Additional
+The term
+additional
+, with respect to carbon dioxide removed from the atmosphere or upper hydrosphere, means that carbon dioxide was removed pursuant to an intentional carbon removal activity that delivers a net removal of carbon dioxide from the atmosphere, measured on a lifecycle basis, that would not have occurred without the carbon removal activity.
+(2)
+All-in cost
+The term
+all-in cost
+means the total cost ofâ
+(A)
+the capture, transport, and storage of carbon dioxide; and
+(B)
+the measurement, reporting, and verification of carbon dioxide removed on a net ton carbon dioxide equivalent basis.
+(3)
+Eligible entity
+The term
+eligible entity
+means a carbon removal facility thatâ
+(A)
+is located in the United States;
+(B)
+meets all applicable Federal and State permitting requirements; and
+(C)
+meets financial and technical criteria established by the Secretary.
+(4)
+Removal
+The term
+removal
+meansâ
+(A)
+the capture of carbon dioxide from the atmosphere or upper hydrosphere through a chemical, physical, or other process; and
+(B)
+the subsequent permanent storage or use of the carbon dioxide in a manner that ensures that the carbon dioxide does not reenter the atmosphere or upper hydrosphere.
+(5)
+Upper hydrosphere
+The term
+upper hydrosphere
+means the total liquid water existing on the surface level of the earth, includingâ
+(A)
+oceans;
+(B)
+lakes;
+(C)
+rivers; and
+(D)
+other surface bodies of water.
+(c)
+Program
+(1)
+Establishment
+The Secretary shall establish a competitive purchasing pilot program under which the Secretary shall purchase from eligible entities carbon dioxide removed from the atmosphere or upper hydrosphere.
+(2)
+Purchase
+In carrying out the pilot program under paragraph (1), the Secretary shall purchase, subject to the availability of appropriations, removed carbon dioxide from eligible entitiesâ
+(A)
+until the date on which the first reverse auction is held under paragraph (3), by making a payment per net ton carbon equivalent basis to account for lifecycle greenhouse gas inputs to carbon removal in an amount determined by the Secretary; and
+(B)
+beginning with the first reverse auction held under paragraph (3), in accordance with the reverse auction procedures described in that paragraph.
+(3)
+Reverse auction procedures
+(A)
+In general
+Not later than 2 years after the date of enactment of this section, and annually thereafter, the Secretary shall conduct a reverse auction under whichâ
+(i)
+the Secretary shall solicit bids from eligible entities in each tier described in subparagraph (B)(ii) (referred to in this section as a
+permanence tier
+); and
+(ii)
+eligible entities shall submit to the Secretary sealed bids describingâ
+(I)
+a desired price for the removed carbon dioxide on a per net ton carbon dioxide equivalent basis;
+(II)
+the estimated net ton carbon dioxide equivalent removed by the eligible entity annually that the eligible entity desires the Secretary to purchase at the desired price;
+(III)
+details of the permanence of the removed carbon dioxide;
+(IV)
+details on the purity, location, and transportation options for the removed carbon dioxide to be purchased by the Secretary for purposes of the all-in costs;
+(V)
+a lifecycle assessment of the operation to quantify the net carbon dioxide removed, while accounting for greenhouse gas emissions associated with the production of the inputs necessary for the carbon dioxide removal and storage processes; and
+(VI)
+any other details the Secretary may require.
+(B)
+Selection
+(i)
+In general
+The Secretary shallâ
+(I)
+examine the bids submitted under subparagraph (A)(ii) to determine which bids are acceptable under the criteria established by the Secretary for the applicable permanence tier; and
+(II)
+of the bids determined to be acceptable under subclause (I), select the bids containing the lowest desired price for carbon dioxide until the amount of funds available for the applicable permanence tier of the reverse auction is obligated.
+(ii)
+Permanence tiers
+In selecting bids under clause (i), the Secretary shall group the permanence of each carbon removal bid into 1 of the following 2 tiers:
+(I)
+Medium-term tier for bids providing for the removal of carbon dioxide for at least 100 years, but fewer than 1,000 years.
+(II)
+Long-term tier for bids providing for the removal of carbon dioxide for 1,000 years or more.
+(iii)
+Priority
+In any case in which the desired price in 2 or more bids submitted under subparagraph (A)(ii) for an applicable permanence tier is equal, the Secretary shall give priority to eligible entities that demonstrate outstanding potential for local and regional economic development in carrying out projects to remove carbon dioxide from ambient air or aquatic sources.
+(4)
+Cost cap
+(A)
+In general
+Subject to subparagraph (B), for purposes of a reverse auction under paragraph (3), the Secretary shallâ
+(i)
+determine the current average market price per net ton carbon dioxide equivalent basis to account for lifecycle greenhouse gas inputs of removed carbon within each permanence tier; and
+(ii)
+set that price as the maximum price per ton to be paid under the reverse auction within each permanence tier.
+(B)
+Increased cap
+In the case of an eligible entity that uses a technology that has the potential to eventually remove carbon dioxide at an all-in cost of less than $100 per net ton carbon dioxide equivalent, the Secretary shall double the maximum price per net ton carbon dioxide equivalent established under subparagraph (A)(ii) with respect to the eligible entity.
+(5)
+Requirement
+In purchasing removed carbon dioxide under the program under paragraph (1), the Secretary shall determine that the carbon dioxideâ
+(A)
+is additional;
+(B)
+shall be delivered not later than 5 years after the date of the purchase;
+(C)
+shall have a monitoring, reporting, and verification plan approved by the Department of Energy; and
+(D)
+has not less than a 99 percent likelihood of being stored for not fewer than 100 years.
+(d)
+Use of carbon dioxide
+Carbon dioxide purchased under the pilot program under subsection (c), at the discretion of the Secretary, may be used or stored in any manner that ensures that the carbon dioxide does not reenter the atmosphere or upper hydrosphere during the time period associated with the applicable permanence tier.
+(e)
+Pilot program coordination
+Amounts made available under this section may be made available to carry out pilot and demonstration projects described in section 969D(f)(2)(B) and section 969D(g).
+(f)
+Confidentiality
+The Secretary shall establish procedures to ensure that any confidential, private, proprietary, or privileged information that is included in a sealed bid submitted under this section is not publicly disclosed or otherwise improperly used.
+(g)
+Authorization of appropriations
+(1)
+In general
+There are authorized to be appropriated to the Secretary to carry out this sectionâ
+(A)
+$20,000,000 for fiscal year 2023;
+(B)
+$30,000,000 for fiscal year 2024; and
+(C)
+$60,000,000 for each of fiscal years 2025 through 2027.
+(2)
+Allocation
+Amounts made available under paragraph (1) for each fiscal year shall be allocated between the permanence tiers as follows:
+(A)
+70 percent shall be allocated for the permanence tier described in subsection (c)(3)(B)(ii)(II).
+(B)
+30 percent shall be allocated for the permanence tier described in subsection (c)(3)(B)(ii)(I).
+.
+(b)
+Clerical amendment
+The table of contents for the Energy Policy Act of 2005 (
+Public Law 109â59
+; 119 Stat. 600; 134 Stat. 2550) is amended by adding at the end of the items relating to subtitle F of title IX the following:
+Sec. 969E. Carbon removal purchasing pilot program.
+.

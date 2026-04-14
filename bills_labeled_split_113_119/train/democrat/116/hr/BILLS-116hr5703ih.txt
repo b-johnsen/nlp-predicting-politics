@@ -1,0 +1,646 @@
+1.
+Short title; table of contents
+This Act may be cited as the
+Protecting the Information of our Vulnerable Children and Youth Act
+or the
+PRIVCY ACT
+.
+2.
+Definitions
+Section 1302 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6501
+) is amendedâ
+(1)
+in paragraph (1)â
+(A)
+by inserting
+or
+children
+after
+child
+; and
+(B)
+by inserting
+or individuals, respectively,
+after
+individual
+;
+(2)
+by striking paragraph (10);
+(3)
+by redesignating paragraphs (2) through (9) as paragraphs (3) through (10), respectively;
+(4)
+inserting after paragraph (1) the following:
+(2)
+Young consumer
+The term
+young consumer
+means an individual over the age of 12 and under the age of 18.
+;
+(5)
+by amending paragraph (3) (as so redesignated) to read as follows:
+(3)
+Covered entity
+The term
+covered entity
+meansâ
+(A)
+any organization, corporation, trust, partnership, sole proprietorship, unincorporated association, or venture over which the Commission has authority pursuant to section 5(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(2)
+);
+(B)
+notwithstanding section 5(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(2)
+), common carriers; and
+(C)
+notwithstanding sections 4 and 5(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 44
+and 45(a)(2)), any nonprofit organization, including any organization described in
+section 501(c)
+of the Internal Revenue Code of 1986 that is exempt from taxation under
+section 501(a)
+of the Internal Revenue Code of 1986.
+;
+(6)
+by amending paragraph (5) (as so redesignated) to read as follows:
+(5)
+Disclose
+The term
+disclose
+means to intentionally or unintentionally release, transfer, sell, disseminate, share, publish, lease, license, make available, allow access to, fail to restrict access to, or otherwise communicate covered information.
+;
+(7)
+by amending paragraph (9) (as so redesignated) to read as follows:
+(9)
+Covered information
+The term
+covered information
+â
+(A)
+means any information, linked or reasonably linkable to a specific young consumer or child, or consumer device of a young consumer or child;
+(B)
+may includeâ
+(i)
+a name, alias, home or other physical address, online identifier, Internet Protocol address, email address, account name, Social Security number, physical characteristics or description, telephone number, State identification card number, driverâs license number, where applicable, passport number, or other similar identifier;
+(ii)
+race, religion, sex, sexual orientation, sexual behavior, familial status, gender identity, disability, age, political affiliation, or national origin;
+(iii)
+commercial information, including records relating to personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies;
+(iv)
+biometric information;
+(v)
+Internet or other electronic network activity information, including browsing history, search history, and information regarding a young consumerâs or childâs interaction with an Internet website, application, or advertisement;
+(vi)
+geolocation information;
+(vii)
+audio, electronic, visual, thermal, olfactory, or similar information;
+(viii)
+education information;
+(ix)
+health information;
+(x)
+facial recognition information;
+(xi)
+contents of and parties to information, including with respect to electronic mail, text messages, picture messages, voicemails, audio conversations, and video conversations;
+(xii)
+financial information, including bank account numbers, credit card numbers, debit card numbers, or insurance policy numbers, where applicable;
+(xiii)
+inferences drawn from any of the information described in this paragraph to create a profile about a young consumer or child reflecting the young consumerâs or childâs preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes; and
+(C)
+does not includeâ
+(i)
+information that is processed solely for the purpose of employment of a young consumer;
+(ii)
+de-identified information.
+;
+(8)
+by amending paragraph (10) (as so redesignated) to read as follows:
+(10)
+Verifiable consent
+The term
+verifiable consent
+means express, affirmative consent freely given by a young consumer, or by the parent of a child, to the processing of covered information of that young consumer or child, respectivelyâ
+(A)
+that is specific, informed, and unambiguous;
+(B)
+that is given separately for each process of specific types of covered information;
+(C)
+where the young consumer or parent of a child, as applicable, has not received any financial or other incentive in exchange for such consent; and
+(D)
+that is given before any processing occurs, at a time and in a context in which the young consumer or parent of a child, as applicable, would reasonably expect to make choices concerning such processing.
+;
+(9)
+by redesignating paragraphs (11) and (12) as paragraphs (12) and (13), respectively; and
+(10)
+by adding at the end the following:
+(14)
+Process
+The term
+process
+means any operation or set of operations which is performed on covered information, whether or not by automated means, including collecting, creating, acquiring, disclosing, recording, deriving, inferring, obtaining, assembling, organizing, structuring, storing, retaining, adapting or altering, using, or retrieving covered information.
+(15)
+De-identified information and related terms
+(A)
+The term
+de-identified information
+means information that has been de-identified by a covered entity, where the covered entity publicly discloses the methods it uses to de-identify information.
+(B)
+The term
+de-identify
+means the removal of identifying information from information such that the information is not reasonably linkable to a specific young consumer or child or consumer device of a young consumer or child.
+(C)
+The term
+re-identify
+means to link information that has been de-identified to a specific young consumer or child or consumer device of a young consumer or child.
+(16)
+State
+The term
+State
+means each of the several States, the District of Columbia, each territory of the United States, and each federally recognized Indian Tribe.
+(17)
+Service provider
+The term
+service provider
+means a covered entity that processes covered information at the direction of, and for the sole benefit of, another covered entity, andâ
+(A)
+is contractually or legally prohibited from processing such covered information for any other purpose; and
+(B)
+complies with all of the requirements of this Act.
+.
+3.
+Unfair or deceptive acts or practices
+Section 1303 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6502
+) is amendedâ
+(1)
+in the section heading, by striking
+collection and use of personal information from and about children on the internet
+and inserting
+processing of covered information from and about young consumers or children
+;
+(2)
+by amending subsection (a) to read as follows:
+(a)
+Acts prohibited
+It is unlawful for a covered entity that has actual or constructive knowledge that such covered entity is processing covered information about a young consumer or child to process such information in a manner that violates the regulations prescribed under subsection (b).
+;
+(3)
+by amending subsection (b) to read as follows:
+(b)
+In general
+Not later than 1 year after the date of enactment of the
+Protecting the Information of our Vulnerable Children and Youth Act
+, the Commission shall, under section 553 of title 5, United States Code, revise regulations issued under this Act prior to such date of enactment and issue additional regulations as necessary that implement the requirements and prohibitions set forth in paragraphs (1) through (7). The Commission shall have the authority to revise such regulations every 7 years or as it determines necessary due to changes in or emerging technology.
+(1)
+Transparency
+Such regulations shall require a covered entity to develop and make publicly available at all times and in a machine-readable format, a privacy policy, in a manner that is clear, easily understood, and written in plain and concise language, that includesâ
+(A)
+the categories of covered information that the covered entity processes about young consumers and children;
+(B)
+how and under what circumstances covered information is collected directly from a young consumer or child;
+(C)
+the categories and the sources of any covered information processed by a covered entity that is not collected directly from a young consumer or child;
+(D)
+a description of the purposes for which the covered entity processes covered information, includingâ
+(i)
+a description of whether and how the covered entity customizes products or services, or adjusts the prices of products or services for young consumers or children or based in any part on processing of covered information;
+(ii)
+a description of whether and how the covered entity, or the covered entityâs affiliates or service providers, de-identifies information, including the methods used to de-identify such information; and
+(iii)
+a description of whether and how the covered entity, or the covered entityâs affiliates or service providers, generates or uses any consumer score to make decisions concerning a young consumer or child, and the source or sources of any such consumer score;
+(E)
+a description of how long and the circumstances under which the covered entity retains covered information;
+(F)
+a description of all of the purposes for which the covered entity discloses covered information with service providers and, on a biennial basis, the categories of service providers;
+(G)
+a description of whether and for what purposes the covered entity discloses information to third parties;
+(H)
+whether a covered entity sells or otherwise shares covered information with data brokers or processes covered information for targeted advertising;
+(I)
+whether a covered entity collects covered information about young consumers or children over time and across different websites or mobile applications when a young consumer or child uses the covered entityâs website or mobile application;
+(J)
+how a young consumer or a parent of a child can exercise their rights to access, correct, and delete such young consumerâs or childâs covered information as set forth under paragraph (5);
+(K)
+how a young consumer or a parent of a child can grant, withhold, or withdraw the consent required under paragraph (2), including how to modify consent for the processing of covered information, and the consequences of withholding, withdrawing, or modifying such consent;
+(L)
+the effective date of the notice; and
+(M)
+how the covered entity will communicate material changes of the privacy policy to the young consumer or the parent of a child.
+(2)
+Consent required
+(A)
+In general
+Such regulations shall require a covered entity that has actual or constructive knowledge that such covered entity is processing covered information about a young consumer or childâ
+(i)
+to provide clear and concise notice to a young consumer or the parent of a child of the items of covered information about such young consumer or child, respectively, that is processed by such covered entity and how such covered entity processes such covered information and obtain verifiable consent for such processing; and
+(ii)
+if such covered entity determines, including through constructive knowledge, that such covered entity has not obtained verifiable consent for the processing of covered information about a young consumer or child, to, not later than 48 hours after such determinationâ
+(I)
+obtain verifiable consent; or
+(II)
+delete all covered information about such young consumer or child.
+(B)
+When consent not required
+Such regulations shall provide that verifiable consent under this paragraph is not required in the case ofâ
+(i)
+online contact information collected from a young consumer or child thatâ
+(I)
+is used only to respond directly on a one-time basis to a specific request from the young consumer or child;
+(II)
+is not used to re-contact the young consumer or child; and
+(III)
+is not retained by the covered entity after responding as described in subclause (I);
+(ii)
+a request for the name or online contact information of a young consumer or the parent of a child that is used for the sole purpose of obtaining verifiable consent or providing notice under subparagraph (A)(i) and where such information is not retained by the covered entity if verifiable consent is not obtained within 48 hours; or
+(iii)
+the processing of such information by the covered entity is necessaryâ
+(I)
+to respond to judicial process; or
+(II)
+to the extent permitted under other provisions of law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety.
+(C)
+Withdrawal of consent
+Such regulations shall further provide a young consumer or the parent of a child, as applicable, a mechanism to withdraw his or her consent at any time in a manner that is as easy as the mechanism to give consent. Such withdrawal of consent shall not be construed to affect the lawfulness of any processing based on verifiable consent before such withdrawal.
+(D)
+Prohibition on limiting or discontinuing service
+Such regulations shall prohibit a covered entity from refusing to provide a service, or discontinuing a service provided, to a young consumer or child, if the young consumer or parent of the child, as applicable, refuses to consent, or withdraws consent, to the processing of any covered information not essential to the covered entity to provide such service.
+(3)
+Retention of data
+(A)
+Retention Limitations
+Subject to the exceptions provided in subparagraph (B), such regulations shall prohibit a covered entity from keeping, retaining, or otherwise storing covered information for longer than is reasonably necessary for the purposes for which the covered information is processed.
+(B)
+Exceptions
+Further retention of covered information shall not be considered to be incompatible with the purposes of processing described in subparagraph (A) if such processing is necessary and done solely for the purposes ofâ
+(i)
+compliance with laws, regulations, or other legal obligations;
+(ii)
+preventing risks to the health or safety of a child or young adults or groups of children or young adults; or
+(iii)
+repairing errors that impair existing functionality.
+(4)
+Limitation on disclosing covered information to third parties
+(A)
+Disclosures
+Such regulations shall prohibit a covered entity from disclosing covered information to a third party unless the covered entity has a written agreement with such third party thatâ
+(i)
+specifies all of the purposes for which the third party may process the covered information for which the covered entity has verifiable consent;
+(ii)
+prohibits the third party from processing covered information for any purpose other than the purposes specified under clause (i); and
+(iii)
+requires the third party to provide at least the same privacy and security protections as the covered entity; or
+(B)
+Responsibilities of covered entities regarding third parties
+Such regulations shall require a covered entityâ
+(i)
+to perform reasonable due diligence in selecting any third party to enter into an agreement under subparagraph (A) and to exercise reasonable oversight over all such third parties to assure compliance with the requirements of this Act; and
+(ii)
+if the covered entity has actual or constructive knowledge that a third party has violated the agreement described in subparagraph (A) toâ
+(I)
+to the extent practicable, promptly take steps to ensure compliance with such agreement; and
+(II)
+promptly report to the Commission that such a violation occurred.
+(5)
+Right to access, correct, and delete covered information
+(A)
+Access
+Such regulations shall require a covered entity, upon request of a young consumer or the parent of a child and after proper identification of such young consumer or parent, to promptly provide to such young consumer or parent, as applicableâ
+(i)
+access to all covered information pertaining to such young consumer or child including a description ofâ
+(I)
+each type of covered information processed by the covered entity pertaining to the young consumer or child, as applicable;
+(II)
+each purpose for which the covered entity processes each category of covered information pertaining to the young consumer or child, as applicable;
+(III)
+the names of each third party to which the covered entity disclosed the covered information;
+(IV)
+each source other than the young consumer or child, as applicable, from which the covered entity obtained covered information pertaining to that young consumer or child, as applicable;
+(V)
+how long the covered information will be retained or stored by the covered entity and, if not known, the criteria the covered entity uses to determine how long the covered information will be retained or stored by the covered entity; and
+(VI)
+with respect to any consumer score of the young consumer or child, as applicable, processed by the covered entity, ofâ
+(aa)
+how such consumer score is used by the covered entity to make decisions with respect to that young consumer or child, as applicable; and
+(bb)
+the source that created the consumer score if not created by the covered entity; and
+(ii)
+a simple and reasonable mechanism by which a young consumer or parent of a child may request access to the information described under clause (i), as applicable.
+(B)
+Deletion
+Such regulations shall require a covered entity, subject to the exceptions established under subparagraph (D)â
+(i)
+to establish a simple and reasonable mechanism by which a young consumer or parent of a child with respect to whom the covered entity processes covered information may request the covered entity to delete any covered information (or any component thereof); and
+(ii)
+to delete such covered information not later than 45 days after receiving such request.
+(C)
+Correction
+Such regulations shall require a covered entity, subject to the exceptions established under subparagraph (D)â
+(i)
+to provide each young consumer or parent of a child with respect to whom the covered entity processes covered information, as applicable, a simple and reasonable mechanism by which that young consumer or parent may submit a request to the entityâ
+(I)
+to dispute the accuracy or completeness of that covered information, or part or component thereof; and
+(II)
+to request that such covered information, or part or component thereof, be corrected for accuracy or completeness; and
+(ii)
+not later than 45 days after receiving a request under clause (i)â
+(I)
+to determine whether the covered information disputed or requested to be corrected is inaccurate or incomplete; and
+(II)
+to correct the accuracy or completeness of any covered information determined by the covered entity to be inaccurate or incomplete.
+(D)
+Exceptions
+Such regulations shall permit a covered entity to deny a request made under subparagraphs (A), (B), or (C) ifâ
+(i)
+the covered entity is unable to verify the identity of the young consumer or parent of a child making the request after making a reasonable effort to verify the identity of such young consumer or parent; or
+(ii)
+with respect to the request made, the covered entity determines thatâ
+(I)
+the entity is limited from doing so by law, legally recognized privilege, or other legal obligation; or
+(II)
+fulfilling the request would create a legitimate risk to the privacy, security, or safety of someone other than the young consumer or child, as applicable; or
+(iii)
+with respect to a request to correct covered information made under subparagraph (C) or a request to delete covered information made under subparagraph (D), the covered entity determines that the retention of the covered information is necessary toâ
+(I)
+complete the transaction with the young consumer or child, as applicable, for which the covered information was collected;
+(II)
+provide a product or service affirmatively requested by the young consumer or parent of a child, as applicable;
+(III)
+perform a contract with the young consumer or a parent of a child, as applicable, including a contract for billing, financial reporting, or accounting;
+(IV)
+to keep a record of the covered information for law enforcement purposes; or
+(V)
+identify and repair errors that impair the functionality of the Internet website or online service; or
+(iv)
+the covered information is used in public or peer-reviewed scientific, medical, or statistical research in the public interest that adheres to commonly accepted ethical standards or laws, with informed consent consistent with section 50.20 of title 21, Code of Federal Regulations, provided that the research must already be in progress at the time of request to access, correct, or delete is made under subparagraphs (A), (B), or (C).
+(E)
+Prohibition on limiting or discontinuing service
+Such regulations shall prohibit a covered entity from refusing to provide a service, or discontinuing a service provided, to a young consumer or child, if the young consumer or parent of the child, as applicable, exercises any of the rights set forth in regulations under this paragraph.
+(6)
+Additional prohibited practices with respect to young consumers and children
+(A)
+In general
+Such regulations shall prohibit a covered entity fromâ
+(i)
+processing any covered information in a manner that is inconsistent with what a reasonable young consumer or parent of a child would expect in the context of a particular transaction or the young consumerâs or parentâs relationship with such covered entity or seeking to obtain verifiable consent for such processing;
+(ii)
+providing targeting advertisements or engaging in other marketing to a specific child, based on that childâs covered information or behavior, or based on the covered information or behavior of children who are similar to that child in gender, income level, age, race, or ethnicity; and
+(iii)
+conditioning the participation of a child in a game, sweepstakes, or other contest on consenting to the processing of more covered information than is necessary for such child to participate.
+(B)
+Exceptions
+Nothing in subparagraph (A) shall prohibit a covered entity from processing covered information if necessary solely for purposes ofâ
+(i)
+detecting and preventing security incidents;
+(ii)
+preventing imminent danger to the personal safety of an individual or group of individuals;
+(iii)
+identifying and repairing errors that impair the functionality of the Internet website or online service; or
+(iv)
+complying with any Federal, State, or local law, rule, regulation, or other legal obligation, including civil, criminal, or regulatory inquiries, investigations, subpoenas, disclosures of information required by a court order or other properly executed compulsory process.
+(C)
+De-identified information
+Such regulations shall prohibit a covered entity that de-identifies information, and any third party with which the covered entity discloses such de-identified information, from re-identifying, or attempting to re-identify, any information that the covered entity has de-identified. Such regulations shall also require a covered entity to contractually prohibit any third party with which the covered entity discloses such de-identified information from re-identifying or attempting to re-identify such information.
+(7)
+Security Requirements
+(A)
+In general
+Such regulations shall require a covered entity to establish and implement reasonable security policies, practices, and procedures for the treatment and protection of covered information, taking into considerationâ
+(i)
+the size, nature, scope, and complexity of the activities engaged in by such covered entity;
+(ii)
+the sensitivity of any covered information at issue;
+(iii)
+the state of the art in administrative, technical, and physical safeguards for protecting such information; and
+(iv)
+the cost of implementing such policies, practices, and procedures.
+(B)
+Specific requirements
+Such regulations shall require the policies, practices, and procedures established pursuant to regulations issued under subparagraph (A) to include the following:
+(i)
+A written security policy with respect to the processing of such covered information.
+(ii)
+The identification of an officer or other individual as the point of contact with responsibility for the management of information security.
+(iii)
+A process for identifying and assessing any reasonably foreseeable vulnerabilities in the system or systems maintained by such covered entity that contains such covered information, including regular monitoring for a breach of security of such system or systems.
+(iv)
+A process for taking preventive and corrective action to mitigate against any vulnerabilities identified in the process required by clause (iii), which may includeâ
+(I)
+implementing any changes to the security practices, architecture, installation, or implementation of network or operating software; and
+(II)
+regular testing or otherwise monitoring the effectiveness of the safeguards.
+(v)
+A process for determining if the covered information is no longer needed and deleting such covered information by shredding, permanently erasing, or otherwise modifying the covered information contained in such data to make such covered information permanently unreadable or indecipherable.
+(vi)
+A process for overseeing persons who have access to covered information, including through Internet-connected devices, byâ
+(I)
+taking reasonable steps to select and retain persons that are capable of maintaining appropriate safeguards for the covered information or Internet-connected devices at issue; and
+(II)
+requiring all such persons to implement and maintain such security measures.
+(vii)
+A process for employee training and supervision for implementation of the policies, practices, and procedures required by this subsection.
+(viii)
+A written plan or protocol for internal and public response in the event of a breach of security.
+(C)
+Periodic assessment and consume privacy and data security modernization
+Such regulations shall require a covered entity, not less frequently than every 12 months, to monitor, evaluate, and adjust, as appropriate, the policies, practices, and procedures of such covered entity in light of any relevant changes inâ
+(i)
+technology;
+(ii)
+internal or external threats and vulnerabilities to covered information; and
+(iii)
+the changing business arrangements of the covered entity.
+(D)
+Submission of policies to the FTC
+Such regulations shall require a covered entity to submit the policies, practices, and procedures of the covered entity to the Commission in conjunction with a notification of a breach of security required by any Federal or State statute or regulation or upon request of the Commission.
+; and
+(4)
+in subsection (c)â
+(A)
+by inserting
+subsection (a)(2) or
+after
+violation of
+; and
+(B)
+by striking
+under subsection (a)
+and inserting
+under subsection (b)
+.
+4.
+Repeal of safe harbors provision and conforming amendments
+(a)
+In general
+Section 1304 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6503
+) is repealed.
+(b)
+Conforming amendments
+The Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6501
+et seq.) is amendedâ
+(1)
+by striking
+operator
+each place it appears and inserting
+covered entity
+;
+(2)
+in section 1303(c), by striking
+sections 1304 and 1306
+and inserting
+section 1306
+; and
+(3)
+in section 1305(b), by striking paragraph (3).
+5.
+Administration and applicability of Act
+(a)
+Enforcement by Federal Trade Commission
+Section 1306(d) of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6505(d)
+) is amendedâ
+(1)
+in the first sentence, by striking
+this title. Any entity
+and inserting
+this title, and any entity
+;
+(2)
+by striking
+The Commission shall prevent
+and inserting the following:
+(1)
+In general
+Except as provided in paragraphs (2) through (4), the Commission shall prevent
+; and
+(3)
+by adding at the end the following:
+(2)
+Increased civil penalty amount
+In the case of a civil penalty under subsection (l) or (m) of section 5 of the Federal Trade Commission Act (
+15 U.S.C. 45
+) relating to acts or practices in violation of any provision of this title or a regulation prescribed under this title, the maximum dollar amount per violation shall be $63,795.
+(3)
+Nature of relief available
+In any action commenced by the Commission under section 19(a) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)
+) to enforce this title, the Commission shall seek all appropriate relief described in subsection (b) of such section, and may, notwithstanding such subsection, seek any exemplary or punitive damages.
+.
+(b)
+Enforcement by certain other agencies
+Section 1306 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6505
+) is further amendedâ
+(1)
+in subsection (b)â
+(A)
+in paragraph (1), by striking
+, in the case of
+and all that follows and inserting the following:
+by the appropriate Federal banking agency, with respect to any insured depository institution (as those terms are defined in section 3 of that Act (
+12 U.S.C. 1813
+));
+;
+(B)
+in paragraph (6), by striking
+Federal land bank, Federal land bank association, Federal intermediate credit bank, or production credit association
+and inserting
+Farm Credit Bank, Agricultural Credit Bank (to the extent exercising the authorities of a Farm Credit Bank), Federal Land Credit Association, or agricultural credit association
+; and
+(C)
+by striking paragraph (2) and redesignating paragraphs (3) through (6) as paragraphs (2) through (5), respectively; and
+(2)
+in subsection (c), by striking
+subsection (a)
+each place it appears and inserting
+subsection (b)
+.
+6.
+Review
+Section 1307 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6506
+) is amendedâ
+(1)
+in the matter preceding paragraph (1), by striking
+the regulations initially issued under section 1303
+and inserting
+the regulations issued under section 1303 for the initial implementation of the amendments made by the
+Protecting the Information of our Vulnerable Children and Youth Act
+; and
+(2)
+by amending paragraph (1) to read as follows:
+(1)
+review the implementation of this title, including the effect of the implementation of this title on practices relating to the processing of covered information about young consumers or children and young consumerâs and childrenâs ability to obtain access to information of their choice online; and
+.
+7.
+Private right of action
+The Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6501
+et seq.) is amendedâ
+(1)
+by redesignating sections 1307 and 1308 as sections 1308 and 1309, respectively; and
+(2)
+by inserting after section 1306 the following:
+1307.
+Private right of action
+(a)
+Right of action
+Any parent of a young consumer or parent of a child alleging a violation of this title or a regulation prescribed under this title with respect to the covered information of such young consumer or child may bring a civil action in any court of competent jurisdiction.
+(b)
+Injury in fact
+A violation of this Act or a regulation promulgated under this Act with respect to the covered information of a young consumer or child constitutes an injury in fact to that young consumer or child.
+(c)
+Relief
+In a civil action brought under subsection (a) in which the plaintiff prevails, the court may awardâ
+(1)
+injunctive relief;
+(2)
+actual damages;
+(3)
+punitive damages;
+(4)
+reasonable attorneyâs fees and costs; and
+(5)
+any other relief that the court determines appropriate.
+(d)
+Pre-Dispute arbitration agreements
+(1)
+In general
+No pre-dispute arbitration agreement or pre-dispute joint-action waiver shall be valid or enforceable with respect to any claim arising out of this Act or the regulations issued under this Act.
+(2)
+Determination
+A determination as to whether and how this Act applies to an arbitration agreement shall be determined under Federal law by the court, rather than the arbitrator, irrespective of whether the party opposing arbitration challenges such agreement specifically or in conjunction with any other term of the contract containing such agreement.
+(3)
+Definitions
+As used in this subsectionâ
+(A)
+the term
+pre-dispute arbitration agreement
+means any agreement to arbitrate a dispute that has not arisen at the time of the making of the agreement; and
+(B)
+the term
+pre-dispute joint-action waiver
+means an agreement, whether or not part of a pre-dispute arbitration agreement, that would prohibit, or waive the right of, one of the parties to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.
+(e)
+Non-Waiveability
+The rights and remedies provided under this Act may not be waived or limited by contract or otherwise.
+.
+8.
+Relationship to other law
+Section 1306 of the Childrenâs Online Privacy Protection Act of 1998 (
+15 U.S.C. 6505
+) is further amended by adding at the end the following:
+(f)
+Relationship to other law
+Nothing in this Act may be construed to modify, limit, or supersede the operation of any privacy or security provision in any other Federal statute or regulation.
+.
+9.
+Additional conforming amendment
+The heading of title XIII of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (
+Public Law 105â277
+; 112 Stat. 2681â728) is amended by inserting
+and Young Consumerâs
+after
+Childrenâs
+.

@@ -1,0 +1,88 @@
+1.
+Short title
+This Act may be cited as the
+Aviation Automation and Human Factors Safety Act of 2019
+.
+2.
+Enhancing pilot recognition of, and response to, failure conditions
+(a)
+In general
+As recommended by the National Transportation Safety Board in Aviation Safety Recommendation Report ASRâ19â01 issued on September 19, 2019, and titled
+Assumptions Used in the Safety Assessment Process and the Effects of Multiple Alerts and Indications on Pilot Performance
+, the Administrator of the Federal Aviation Administration (in this Act referred to as the
+Administrator
+), shall do the following:
+(1)
+737 MAX
+Require, with respect to 737 MAX aircraft, the manufacturer of such aircraft to demonstrate to the satisfaction of the Administrator thatâ
+(A)
+system safety assessments for such aircraft, including those in which immediate and appropriate pilot corrective actions are assumed in response to uncommanded flight control inputs from systems such as the Maneuvering Characteristics Augmentation System, consider the effect of all possible flight deck alerts and indications on pilot recognition and response; and
+(B)
+design enhancements (including flight deck alerts and indications), pilot procedures, and training requirements, are incorporated into such aircraft where needed, to minimize the potential for, and safety impact of, pilot actions that are inconsistent with manufacturer assumptions.
+(2)
+Other aircraft
+Require that manufacturers of all United States type-certificated transport-category aircraft (other than 737 MAX aircraft) demonstrate to the satisfaction of the Administrator thatâ
+(A)
+system safety assessments for such aircraft, including those in which immediate and appropriate pilot corrective actions are assumed in response to uncommanded flight control inputs consider the effect of all possible flight deck alerts and indications on pilot recognition and response; and
+(B)
+design enhancements (including flight deck alerts and indications), pilot procedures, and training requirements, are incorporated into such aircraft where needed, to minimize the potential for, and safety impact of, pilot actions that are inconsistent with manufacturer assumptions.
+(3)
+International regulators
+Notify international regulators that certify transport-category aircraft type designs (such as the European Union Aviation Safety Agency, Transport Canada, the National Civil Aviation Agency-Brazil, the Civil Aviation Administration of China, and the Russian Federal Air Transport Agency) of the requirements under subparagraphs (A) and (B) of paragraph (2) and encourage such regulators to evaluate the relevance of such requirements to their processes and address any changes, if applicable.
+(4)
+Development of tools and methods for validating assumptions
+(A)
+Development
+Develop robust tools and methods, with the input of industry and human factors experts, for use in validating assumptions about pilot recognition and response to safety-significant failure conditions as part of the aircraft design certification process.
+(B)
+Revision of regulations and guidance
+After the tools and methods have been developed as recommended under subparagraph (A), revise existing Federal Aviation Administration regulations and guidance to incorporate the use of such tools and methods and require documentation as part of the aircraft design certification process, including re-examining the validity of pilot recognition and response assumptions permitted in existing Federal Aviation Administration guidance.
+(5)
+Development and implementation of diagnostic tools
+(A)
+Development
+Develop design standards, with the input of industry and human factors experts, for aircraft system diagnostic tools that improve the prioritization and clarity of failure indications (direct and indirect) presented to pilots to improve the timeliness and effectiveness of their response.
+(B)
+Implementation
+After the design standards have been developed under subparagraph (A), require implementation of system diagnostic tools on transport-category aircraft to improve the timeliness and effectiveness of pilotsâ response when multiple flight deck alerts and indications are present.
+(b)
+Annual report on progress
+Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Administrator shall submit to Congress a report on the progress of the Administrator in carrying out the requirements under subsection (a). Such report shall also include recommendations for such legislation and administrative action as the Administrator determines appropriate.
+3.
+Enhancing the ability of the FAA to ensure that air carriers sufficiently address pilot
+monitoring and manual flying skills
+As recommended by the Inspector General of the Department of Transportation in audit report AVâ2016â013 issued on January 7, 2016, and titled
+Enhanced FAA Oversight Could Reduce Hazards Associated With Increased Use of Flight Deck Automation
+, the Administrator, in order to enhance the ability of the Federal Aviation Administration to ensure that air carriers sufficiently address pilot monitoring and manual flying skills, shall, not later than 1 year after the date of enactment of this Actâ
+(1)
+issue guidance defining pilot monitoring metrics that air carriers may use to train and evaluate pilots, including metrics or measurable tasks that air carriers can use to evaluate pilot monitoring proficiency; and
+(2)
+establish and disseminate standards to determine whether pilots receive sufficient training opportunities to develop, maintain, and demonstrate manual flying skills necessary to ensure pilots can recover from an unexpected event or failures with highly automated cockpit systems.
+4.
+Requirement that design and production organizations have in place a safety management system
+(a)
+Rulemaking
+The Administrator shall conduct a rulemaking proceeding to require that design and production approval holders for aviation products have in place a safety management system (SMS) that is consistent with the standards established by the International Civil Aviation Organization for such systems.
+(b)
+Final rule
+Not later than 1 year after the date of enactment of this Act, the Administrator shall issue a final rule pursuant to the rulemaking conducted under subsection (a).
+(c)
+Surveillance and audit requirement
+Under the final rule issued pursuant to subsection (b), the Administrator shall implement documented surveillance processes by defining and planning inspections, audits, and monitoring activities on a continuous basis, to ensure that design and production approval holders for aviation products continue to meet the established requirements under the rule.
+5.
+FAA Center for Excellence for flight automation and human factors in commercial aircraft
+(a)
+Center
+(1)
+In general
+The Administrator shall develop a Center for Excellence focused on flight automation and human factors in commercial aircraft.
+(2)
+Duties
+The Center for Excellence shallâ
+(A)
+promote and facilitate collaboration among academia, the Federal Aviation Administration, and the commercial aircraft and airline industries, including aircraft manufacturers, commercial air carriers, and representatives of the airline pilot community; and
+(B)
+establish goals for research and continuing education in areas of study relevant to advancing technology, improving engineering practices, and facilitating better understanding of human factors concepts in the context of the growing development and reliance on automation in commercial aircraft.
+(b)
+Authorization of appropriations
+There is authorized to be appropriated to the Administrator such sums as may be necessary to carry out this section.

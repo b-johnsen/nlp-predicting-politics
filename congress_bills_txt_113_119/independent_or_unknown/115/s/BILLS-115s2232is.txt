@@ -1,0 +1,407 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Next Generation Grid Resources and Infrastructure Development Act
+or the
+Next Generation GRID Act
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. General right of interconnection.
+Sec. 3. Electricity distribution resource planning.
+Sec. 4. Non-wires alternatives.
+Sec. 5. Distribution system operator pilot program.
+Sec. 6. Consideration of performance-based incentive rates.
+2.
+General right of interconnection
+The Public Utility Regulatory Policies Act of 1978 is amended by inserting after section 4 (
+16 U.S.C. 2603
+) the following:
+5.
+General right of interconnection
+(a)
+Definition of distributed energy resource
+In this section, the term
+distributed energy resource
+means a resource, technology, or combination of resources and technologies interconnected to the electricity distribution system that generates, manages, or reduces energy use.
+(b)
+Right of interconnection
+Distributed energy resources shall have a general right of interconnection under this Act.
+(c)
+Analysis of interconnection requests
+The methods used to calculate the impacts of proposed interconnections under this Act shall be transparent, repeatable, consistent, clearly established, and agreed to by the appropriate State regulatory authority.
+(d)
+Rates and fees
+As the State or appropriate State regulatory authority determines to be appropriate, each electric utility shall adopt standards, conditions, and requirements for rates and fees for the interconnection of distributed energy resources under this Act, thatâ
+(1)
+reflect the 2-way costs and benefits for the distributed energy resource and the electricity grid;
+(2)
+provide fair credit for energy exported to the electricity grid;
+(3)
+are transparently derived and consistently applied; and
+(4)
+are not punitive.
+(e)
+Timeframes
+(1)
+In general
+Timeframes for the interconnection of distributed energy resources under this Act shall be well-defined, expeditious, and not unduly protracted, as determined by the appropriate State regulatory authority.
+(2)
+Delays or denial
+An interconnection of distributed energy resources under this Act shall not be delayed or denied unless the electric utility demonstrates thatâ
+(A)
+the interconnection is unsafe or impracticable; and
+(B)
+any safety or impracticability issue demonstrated under subparagraph (A) cannot be mitigated.
+.
+3.
+Electricity distribution resource planning
+(a)
+Development of electricity distribution resource plans
+Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2621(d)
+) is amended by adding at the end the following:
+(20)
+Electricity distribution resource planning
+(A)
+Definitions
+In this paragraph:
+(i)
+Distributed energy resource
+The term
+distributed energy resource
+has the meaning given the term in section 5(a).
+(ii)
+Microgrid
+The term
+microgrid
+means a group of interconnected loads and distributed energy resources within clearly defined electrical boundaries thatâ
+(I)
+acts as a single controllable entity with respect to the electricity grid; and
+(II)
+can connect and disconnect from the electricity grid to operate in grid-connected mode and island mode.
+(B)
+Requirement
+Each electric utility shall develop an electricity distribution resource plan on a regular basis, as determined by the appropriate State regulatory authority.
+(C)
+Components of electricity distribution resource plan
+An electricity distribution resource plan developed under subparagraph (B) shall identifyâ
+(i)
+the future electricity demand and distribution system requirements of the electric utility;
+(ii)
+projections for the deployment of distributed energy resources within the utility service territory during the period covered by the plan by size, type, and location;
+(iii)
+any locational benefits and costs of distributed energy resources to the distribution system of the electric utility and ratepayers, includingâ
+(I)
+benefits to grid resiliency and reliability;
+(II)
+avoided or incurred investments in distribution or transmission infrastructure;
+(III)
+avoided or incurred investments in generation capacity;
+(IV)
+any environmental benefits; and
+(V)
+any other costs or benefits to the electricity grid or to ratepayers;
+(iv)
+any temporal benefits or costs of distributed energy resources to the distribution system of the electric utility, includingâ
+(I)
+any changes in peak demand; and
+(II)
+any changes in the distribution load curve;
+(v)
+any investments needed to improve the integration, management, or deployment of distributed energy resources in the distribution system of the electric utility;
+(vi)
+any barriers to the integration of distributed energy resources in the distribution system of the electric utility, including limitations to system capacity that would require upgrades to integrate distributed energy resources;
+(vii)
+any locations on the distribution system of the electric utility suitable for microgrid development based on geographic, resiliency, reliability, or cost factors; and
+(viii)
+any physical and cybersecurity needs and vulnerabilities of the distribution system of the electric utility.
+(D)
+Designation of participants
+For each electric utility for which the State or State regulatory authority has ratemaking authority, the State or State regulatory authority, as applicable, may designate participants to assist in developing an electricity distribution resource plan under subparagraph (B), including, as the State or State regulatory authority determines to be appropriateâ
+(i)
+any nonprofit or for-profit entity with experience in planning, designing, or operating distributed energy resources or systems;
+(ii)
+a regional regulatory authority or other regional entity;
+(iii)
+an institution of higher education;
+(iv)
+a National Laboratory (as defined in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+));
+(v)
+a ratepayer or advocate of ratepayers; and
+(vi)
+any other appropriate entity.
+(E)
+Access to data
+In developing an electricity distribution resource plan under subparagraph (B), the electric utility shall provide to any participants designated under subparagraph (D) access to relevant data regarding the operation and performance of the electricity grid, subject to any qualifications and confidentiality requirements that the State regulatory authority determines to be appropriate.
+.
+(b)
+Technical and financial assistance for the development of electricity distribution resource plans
+(1)
+Definitions
+In this subsection:
+(A)
+Eligible entity
+The term
+eligible entity
+means a State, State regulatory authority, electric utility, or any other entity designated by a State or State regulatory authority as a participant in the development of a plan under paragraph (20)(D) of section 111(d) of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2621(d)
+) (as added by subsection (a)).
+(B)
+Plan
+The term
+plan
+means an electricity distribution resource plan developed under paragraph (20)(B) of section 111(d) of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2621(d)
+) (as added by subsection (a)).
+(C)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(D)
+State regulatory authority
+The term
+State regulatory authority
+has the meaning given the term in section 3 of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2602
+).
+(2)
+Technical and financial assistance
+At the request of a State or State regulatory authority, the Secretary shall provideâ
+(A)
+technical assistance to eligible entities to assist in the development of a plan; and
+(B)
+grants to eligible entities to contract for qualified technical assistance to assist in the development of a plan.
+(3)
+Authorization of appropriations
+There is authorized to be appropriated to the Secretary to carry out this subsection $200,000,000, to remain available until expended.
+4.
+Non-wires alternatives
+(a)
+Definition of non-Wires alternative
+Section 3 of the Federal Power Act (
+16 U.S.C. 796
+) is amended by adding at the end the following:
+(30)
+Non-wires alternative
+The term
+non-wires alternative
+means an electricity grid investment or project that uses one or more nontraditional solutions, including distributed generation, energy storage, energy efficiency, demand response, microgrids, or grid software and controls, to defer or replace the need for specific equipment upgrades or new infrastructure, such as transmission or distribution lines or transformers, at a substation or circuit level.
+.
+(b)
+Consideration of non-Wires alternatives in regional transmission plans
+Section 202 of the Federal Power Act (
+16 U.S.C. 824a
+) is amended by adding at the end the following:
+(h)
+Issuance of rule relating to consideration of non-Wires alternatives in regional transmission
+plans
+As soon as practicable after the date of enactment of this subsection, the Commission shall issue a final rule thatâ
+(1)
+requires public utility transmission providersâ
+(A)
+to solicit non-wires alternatives in the development of regional transmission plans; and
+(B)
+to identify opportunities for non-wires alternatives;
+(2)
+requires Transmission Organizations to develop procedures to control or manage non-wires alternatives providing transmission services; and
+(3)
+authorizes Transmission Organizations to allocate and recover costs of non-wires alternatives providing transmission services that are demonstrated to be a cost-effective alternative to an upgrade to, or the construction of new, transmission infrastructure in the same manner as the upgrade to, or construction of new, transmission infrastructure would have been allocated and recovered.
+.
+(c)
+Consideration of non-Wires alternatives by State regulatory authorities
+Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2621(d)
+) (as amended by section 3(a)) is amended by adding at the end the following:
+(21)
+Non-wires alternatives
+(A)
+In general
+To the extent a State regulatory authority has the authority to allow electric utilities to recover costs associated with electricity transmission and distribution projects, each State regulatory authority shall consider non-wires alternatives (as defined in section 3 of the Federal Power Act (
+16 U.S.C. 796
+)) in instances in which an entity proposes transmission or distribution projects seeking cost-of-service rate recovery.
+(B)
+Cost recovery
+To reduce the costs to ratepayers associated with potential upgrades to transmission or distribution infrastructure, the cost of a non-wires alternative considered under subparagraph (A) shall be recovered from ratepayers in the same manner as an upgrade to transmission or distribution infrastructure would have been.
+.
+5.
+Distribution system operator pilot program
+(a)
+Definitions
+In this section:
+(1)
+Distribution system operator
+The term
+distribution system operator
+means an entity, independent of the normal operations of an electric utility, thatâ
+(A)
+plans for, integrates, and manages distributed energy resources within the service territory of an electric utility;
+(B)
+implements reliability standards for distributed energy resources within the service territory of an electric utility; and
+(C)
+aggregates the economic attributes of distributed energy resources within the service territory of an electric utility for sale into a wholesale energy or other market.
+(2)
+Electric utility
+The term
+electric utility
+has the meaning given the term in section 3 of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2602
+).
+(3)
+National Laboratory
+The term
+National Laboratory
+has the meaning given the term in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+).
+(4)
+Pilot program
+The term
+pilot program
+means the pilot program established under subsection (b).
+(5)
+Regional Transmission Organization
+The term
+Regional Transmission Organization
+has the meaning given the term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).
+(6)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(b)
+Pilot program
+Not later than 1 year after the date of enactment of this Act, the Secretary shall establish a pilot program within the National Laboratoriesâ
+(1)
+to research, develop, and test technology platforms and operational procedures for a distribution system operator;
+(2)
+to evaluate best practices in designating the roles and responsibilities of a distribution system operator relative to other entities, including the relevant electric utility and Regional Transmission Organization; and
+(3)
+to simulate the functions of a distribution system operator in a range of grid conditions.
+(c)
+Working group
+(1)
+In general
+The Secretary shall establish a working group to participate in the design and operation of the pilot program.
+(2)
+Membership
+The working group established under paragraph (1) shall be composed of members, to be appointed by the Secretary, at least one of which shall represent each of the following:
+(A)
+The Department of Energy.
+(B)
+The National Laboratories.
+(C)
+An electric utility.
+(D)
+The North American Electric Reliability Corporation.
+(E)
+A Regional Transmission Organization.
+(F)
+A State or regional energy agency.
+(G)
+A national research body or institution of higher education.
+(d)
+Report to Congress
+Not later than 2 years after the date on which funds are first made available to the pilot program, the Secretary shall submit to Congress a report thatâ
+(1)
+describes the results of the pilot program; and
+(2)
+provides an analysis of the feasibility of implementing a distribution system operator.
+(e)
+Authorization of appropriations
+There is authorized to be appropriated to carry out the pilot program $20,000,000, to remain available until expended.
+6.
+Consideration of performance-based incentive
+rates
+(a)
+In general
+Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2621(d)
+) (as amended by section 4(c)) is amended by adding at the end the following:
+(22)
+Performance-based incentive mechanisms
+(A)
+In general
+Each State regulatory authority, with respect to each electric utility for which the State regulatory authority has ratemaking authority, shall consider the use of performance-based incentive mechanisms to achieve public interest goals established by the State or State regulatory authority in accordance with subparagraphs (B) and (C).
+(B)
+Considerations for establishment of public interest goals
+In establishing public interest goals under subparagraph (A), the State or State regulatory authority, as applicable, shall considerâ
+(i)
+overall system efficiency, including reductions in peak demand;
+(ii)
+the integration and adoption of distributed energy resources;
+(iii)
+process improvements, such as predictable and timely interconnection processes;
+(iv)
+the resiliency and reliability of the electricity grid;
+(v)
+customer engagement and satisfaction;
+(vi)
+environmental benefits, including reductions in particulate and greenhouse gas emissions; and
+(vii)
+any other factor determined to be appropriate by the State or State regulatory authority.
+(C)
+Metrics
+In establishing public interest goals under subparagraph (A), the State or State regulatory authority, as applicable, shall specify quantifiable metrics with respect to the public interest goals that can be measured and verified.
+.
+(b)
+Compliance
+(1)
+Obligations to consider and determine; prior State actions
+Section 112 of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2622
+) is amendedâ
+(A)
+in subsection (b), by adding at the end the following:
+(7)
+(A)
+Not later than 1 year after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) shall, with respect to the standards established by paragraphs (20) through (22) of section 111(d)â
+(i)
+commence the consideration referred to in section 111; or
+(ii)
+set a hearing date for the consideration.
+(B)
+Not later than 2 years after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) shallâ
+(i)
+complete the consideration required under subparagraph (A); and
+(ii)
+make the determination referred to in section 111 with respect to the standards established by paragraphs (20) through (22) of section 111(d).
+;
+(B)
+in subsection (c), by adding at the end the following:
+In the case of the standards established by paragraphs (20) through (22) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of those paragraphs.
+;
+(C)
+in subsection (d), in the matter preceding paragraph (1), by striking
+(19)
+and inserting
+(22)
+; and
+(D)
+by adding at the end the following:
+(g)
+Prior state actions
+Subsections (b) and (c) shall not apply to the standard established by paragraphs (20) through (22) of section 111(d) in the case of any electric utility in a State if, before the date of enactment of this subsectionâ
+(1)
+the State has implemented for the electric utility the standard (or a comparable standard);
+(2)
+the State regulatory authority for the State or the relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or
+(3)
+the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility.
+.
+(2)
+Prior and pending proceedings
+Section 124 of the Public Utility Regulatory Policy Act of 1978 (
+16 U.S.C. 2634
+) is amended by adding at the end the following:
+In the case of the standards established by paragraphs (20) through (22) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of those paragraphs.
+.

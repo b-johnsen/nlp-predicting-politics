@@ -1,0 +1,1139 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Flexible Grid Infrastructure Act of 2017
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Analysis of distributed energy resources, the value of grid services, and advanced transmission assets.
+Sec. 4. Electrification of vehicles and heating.
+Sec. 5. Privacy, security, and resilience.
+Sec. 6. Workforce development.
+Sec. 7. Flexible Grid Challenge 2022.
+2.
+Definitions
+In this Act:
+(1)
+Administrator
+The term
+Administrator
+means the Administrator of the Energy Information Administration.
+(2)
+Commission
+The term
+Commission
+means the Federal Energy Regulatory Commission.
+(3)
+Distributed energy resource
+(A)
+In general
+The term
+distributed energy resource
+means an electric device that can produce or consume energy that is locatedâ
+(i)
+on the distribution system or any subsystem of the distribution system; or
+(ii)
+behind a customer meter.
+(B)
+Inclusions
+The term
+distributed energy resource
+includesâ
+(i)
+an energy storage resource;
+(ii)
+an energy generation technology;
+(iii)
+a demand response resource;
+(iv)
+an energy efficiency resource;
+(v)
+an electric vehicle and associated supply equipment and systems; and
+(vi)
+aggregations and integrated control systems, including virtual power plants, microgrids, and networks of microgrid cells.
+(4)
+Electric consumer; electric utility; rate
+The terms
+electric consumer
+,
+electric utility
+, and
+rate
+have the meanings given the terms in section 3 of the Public Utility Regulatory Policies Act of 1978 (
+16 U.S.C. 2602
+).
+(5)
+Electric Reliability Organization
+The term
+Electric Reliability Organization
+has the meaning given the term in section 215(a) of the Federal Power Act (
+16 U.S.C. 824o(a)
+).
+(6)
+Energy storage
+The term
+energy storage
+means equipment or facilities capable of absorbing energy, storing energy for a period of time, and dispatching the stored energy, thatâ
+(A)
+uses mechanical, electrochemical, hydroelectric, or thermal processes, as a single facility or as an aggregation of units, throughout the electric grid, including behind the meter to store energy generated at one time for use at a later time;
+(B)
+uses mechanical, electrochemical, hydroelectric, or thermal processes, as a single facility or as an aggregation of units, throughout the electric grid, including behind the meter to store energy generated from mechanical processes that would otherwise be wasted for delivery at a later time; or
+(C)
+stores thermal energy for direct use for heating or cooling at a later time in a manner that avoids the need to use electricity at that later time.
+(7)
+Granular
+The term
+granular
+, with respect to a rate or other price for electricity, means that the rate or price is established based on precise accounting of the value, as determined by the time and location of the production or consumption of the electricity and the unique type of energy services being provided, of electrical energy, capacity, and ancillary services, includingâ
+(A)
+time-of-use rates;
+(B)
+peak-time rebates;
+(C)
+critical peak pricing;
+(D)
+real-time pricing;
+(E)
+transactive energy approaches;
+(F)
+inverted time-of-use rates;
+(G)
+forward-looking charges;
+(H)
+peak-coincident capacity network charges; and
+(I)
+3-part rates.
+(8)
+Light-duty consumer vehicle
+The term
+light-duty consumer vehicle
+has the meaning given the term
+light-duty vehicle
+in section 1037.801 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+(9)
+Locational value
+The term
+locational value
+, with respect to an electric grid service, means value that is contingent on the physical location where the electric grid service is delivered.
+(10)
+Microgrid
+The term
+microgrid
+means a localized grid that can disconnect from the traditional grid to operate autonomously and help mitigate grid disturbances to strengthen grid resilience.
+(11)
+National
+Laboratory
+The term
+National Laboratory
+has the meaning given the term in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+).
+(12)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(13)
+State energy office
+The term
+State energy office
+has the meaning given the term in section 124(a) of the Energy Policy Act of 2005 (
+42 U.S.C. 15821(a)
+).
+(14)
+Temporal value
+The term
+temporal value
+, with respect to an electric grid service, means value that is contingent on the time when the electric grid service is delivered.
+(15)
+Transit agency
+The term
+transit agency
+has the meaning given the term in section 630.3 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+(16)
+Transit vehicle
+The term
+transit vehicle
+has the meaning given the term
+bus
+in section 1192.3 of title 36, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+3.
+Analysis of distributed energy resources, the value of grid services, and advanced transmission
+assets
+(a)
+Data and analysis for promoting grid flexibility and optimizing distributed energy resources
+Section 921 of the Energy Policy Act of 2005 (
+42 U.S.C. 16211
+) is amendedâ
+(1)
+by redesignating subsections (c) and (d) as paragraphs (3) and (4), respectively, of subsection (b) and indenting the paragraphs appropriately;
+(2)
+in subsection (b)â
+(A)
+in paragraph (1), in the matter preceding subparagraph (A), by inserting
+resource
+after
+carry out distributed energy
+;
+(B)
+in paragraph (2), by striking
+subsection
+and inserting
+section
+; and
+(C)
+in paragraphs (3) and (4) (as redesignated by paragraph (1)), by striking
+subsection (b)
+each place it appears and inserting
+this subsection
+;
+(3)
+by redesignating subsection (b) as subsection (h);
+(4)
+in subsection (a), by striking the subsection designation and heading and all that follows through
+The Secretary
+in the first sentence and inserting the following:
+(a)
+Definitions
+In this section:
+(1)
+Commission
+The term
+Commission
+means the Federal Energy Regulatory Commission.
+(2)
+Distributed energy resource
+The term
+distributed energy resource
+has the meaning given the term in section 2 of the
+Flexible Grid Infrastructure Act of 2017
+.
+(3)
+Grid flexibility
+The term
+grid flexibility
+means the ability of a power systemâ
+(A)
+from an operational perspective, to respond to changes in supply and demand, such as abrupt changes in load conditions or sharp ramps in generation; and
+(B)
+from a long-term planning and investment perspective, to respond to changes in technology, markets and policy, without incurring stranded assets.
+(b)
+Research, development, demonstration, and commercial application
+(1)
+In general
+The Secretary
+;
+(5)
+in subsection (b) (as so redesignated), in the second sentence, by striking
+The programs
+and inserting the following:
+(2)
+Requirement
+The programs under this subsection
+; and
+(6)
+by inserting after subsection (b) (as so redesignated) the following:
+(c)
+National assessment of the potential of distributed energy resources
+(1)
+Assessments
+(A)
+In general
+Not later than 1 year after the date of enactment of the
+Flexible Grid Infrastructure Act of 2017
+, and not less frequently than once every 3 years thereafter, the Commission and the Secretary shall conduct a national assessment of the technical and economic potential of distributed energy resources to provide electric grid services, including services that enhance grid flexibility and the reliability, resilience, affordability, efficiency, and security of the electric grid.
+(B)
+Requirements
+In conducting an assessment under subparagraph (A), the Commission and the Secretary shallâ
+(i)
+consider locational characteristics, such as load pockets and electric grid congestion;
+(ii)
+consider temporal characteristics, such as hourly and subhourly electricity generation costs and electricity network costs;
+(iii)
+consider the specific electric grid services identified by the study under section 3(b) of the
+Flexible Grid Infrastructure Act of 2017
+;
+(iv)
+consider unique State regulatory and market characteristics and regional electric grid characteristics;
+(v)
+incorporate a range of scenarios, including scenarios that assumeâ
+(I)
+the existence of granular retail electricity rates, including transactive energy approaches;
+(II)
+no granular retail electricity rates;
+(III)
+the existence of electricity market products that remunerate the electric grid services provided by distributed energy resources, incorporating the results of the most recent study under section 3(b) of the
+Flexible Grid Infrastructure Act of 2017
+;
+(IV)
+no electricity market products that remunerate the electric grid services provided by distributed energy resources, incorporating the results of the most recent study under section 3(b) of the
+Flexible Grid Infrastructure Act of 2017
+;
+(V)
+various levels of renewable energy generation penetration;
+(VI)
+various levels of distributed energy resource penetration, including electric vehicles;
+(VII)
+the implementation of transactive energy approaches as a means of coordinating at scale large numbers of distributed energy resources; and
+(VIII)
+different deployment scenarios, such as individual technology applications, combination technology applications, and integrated control system applications;
+(vi)
+includeâ
+(I)
+an analysis of the use of a comprehensive suite of distributed energy resources; and
+(II)
+an assessment of the competitive markets for each distributed energy resource;
+(vii)
+consider various electric grid architecture concepts and tools, including the development of local energy networks interconnected with the electric grid;
+(viii)
+include an analysis of the ways in which the different scenarios incorporated under clause (v) may impact the broader energy system, such as the bulk power system, the transmission network, and natural gas infrastructure;
+(ix)
+assess any barriers to the ability of distributed energy resources to provide the identified electric grid services;
+(x)
+to the maximum extent practicableâ
+(I)
+seek to use any relevant preexisting research and ongoing work; and
+(II)
+avoid duplication of effort; and
+(xi)
+conduct estimates for the 5-, 10-, and 15-year periods beginning on the date of enactment of the
+Flexible Grid Infrastructure Act of 2017
+.
+(2)
+Reports
+Not later than 18 months after the date of enactment of the
+Flexible Grid Infrastructure Act of 2017
+, and not less frequently than once every 3 years thereafter, the Commission and the Secretary shall submit to Congress a report describing the results of the most recent assessment under paragraph (1) that includesâ
+(A)
+a description of the details required under clauses (i) through (xi) of paragraph (1)(B);
+(B)
+data reported and analyzedâ
+(i)
+on a nationwide basis;
+(ii)
+on a State basis, for each of the several States of the United States;
+(iii)
+by sector;
+(iv)
+by balancing authority; and
+(v)
+to reflectâ
+(I)
+granular locational characteristics, such as load pockets and grid congestion;
+(II)
+granular temporal characteristics, such as hourly and subhourly electricity generation costs and electricity network costs; and
+(III)
+the specific electric grid services identified by the study under section 3(b) of the
+Flexible Grid Infrastructure Act of 2017
+;
+(C)
+macroeconomic data, including an analysis of any effects on job creation, economywide costs and benefits, energy productivity, retail rate impacts, and gross domestic product;
+(D)
+a description of the methodology used to conduct the assessment described in paragraph (1); and
+(E)
+policy recommendationsâ
+(i)
+to achieve the estimated potential identified by the assessment under paragraph (1)(A);
+(ii)
+to promote the development of competitive markets for distributed energy resources assessed under paragraph (1)(B)(vi)(II); and
+(iii)
+to address the barriers described in paragraph (1)(B)(ix).
+(3)
+Reducing duplication of effort
+In conducting the assessment under paragraph (1), the Commission and the Secretary shall use, to the maximum extent practicable, data and studies in existence as of the date of the assessment in an effort to reduce the potential for duplication of effort.
+(d)
+Technical assistance
+The Secretary shall provide technical assistance to energy distribution utilities, State energy regulators, State energy offices, third-party energy service providers, wholesale market operators, and other interested parties relating toâ
+(1)
+use of the data and modeling tools provided under this section; and
+(2)
+the general planning and market analysis required for cost-effective deployment of distributed energy resources and grid flexibility assets.
+(e)
+Voluntary National action plan on distributed energy resources
+(1)
+In general
+Not later than 1 year after the date of submission of the initial report required under subsection (c)(2), the Secretary, in consultation with the Commission, shall develop a voluntary national action plan to unlock the potential of distributed energy resources to provide electric grid services, which shall be based on the assessments required under subsection (c)(1).
+(2)
+Requirements
+In developing the voluntary national action plan under this subsection, to the maximum extent practicable, the Secretary shallâ
+(A)
+use relevant information contained in the National Action Plan on Demand Response prepared by the Commission, Docket No. AD09â10, dated June 17, 2010; and
+(B)
+solicit participation, and take into consideration comments, from other Federal agencies, the National Laboratories, the National Academy of Sciences, State and local governments, industry, research institutions, nonprofit organizations, consumer advocates, and other interested parties.
+(3)
+Inclusions
+The voluntary national action plan developed under this subsection shall include provisions forâ
+(A)
+the identification of requirements for technical assistance to States to allow States to maximize distributed energy resource potential that can be developed and deployed cost-effectively;
+(B)
+the design of a national communications program that includes broad-based customer education and support; and
+(C)
+the identification or development of analytical tools, information, model regulatory provisions, model contracts, and other support materials for use by customers, States, utilities, and demand response providers.
+.
+(b)
+Study on valuation of electric grid services
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, and not less frequently than once every 3 years thereafter, the Secretary and the Commission shall conduct a comprehensive study thatâ
+(A)
+incorporates the assessment required under subsection (c)(1) of section 921 of the Energy Policy Act of 2005 (
+42 U.S.C. 16211
+);
+(B)
+identifies and analyzesâ
+(i)
+all electric grid services that can be provided, includingâ
+(I)
+emerging electric grid service needs; and
+(II)
+electric grid services that can be provided byâ
+(aa)
+conventional energy technologies, such as centralized thermal generation units and electricity transmission infrastructure;
+(bb)
+utility-scale renewable energy generation technologies; and
+(cc)
+emerging energy technologies, such as grid-scale energy storage and distributed energy resources;
+(ii)
+(I)
+the specific electric grid services, the value of which is conditioned by locational value and temporal value; and
+(II)
+the degree of effect of location and time on the value of the electric grid services identified under subclause (I);
+(iii)
+for each electric grid service identified under clauses (i) and (ii), the specific technologies (including the technologies identified under clause (i)(II)) that have the capacity to provide the electric grid service, including an analysis of the extent to which a given technology can provide a given electric grid service; and
+(iv)
+the effect of integrated energy control systems (such as microgrids) on the value of grid services;
+(C)
+quantifies the estimated value of those electric grid services, taking into consideration input from relevant industry stakeholders and unique regulatory and regional electricity system characteristics; and
+(D)
+identifiesâ
+(i)
+any barriers to wholesale market participation for distributed energy resources; and
+(ii)
+the most effective mechanisms for opening electricity markets to increased competition, consumer choice, and innovation.
+(2)
+Public comment
+In conducting the study under paragraph (1), the Secretary and the Commission shall solicit relevant public comments.
+(3)
+Consultation
+As soon as practicable after the date of enactment of this Act, in conducting the study under paragraph (1), the Secretary and the Commission shall engage a broad set of experts from other Federal agencies, the National Laboratories, the National Academy of Sciences, States, Tribal governments, units of local government, industry, research institutions, nonprofit organizations, consumer advocates, and other interested parties.
+(4)
+Reports
+Not later than 18 months after the date of enactment of this Act, and not less frequently than once every 3 years thereafter, the Secretary and the Commission shall submit to Congress a report describing the results of the most recent study conducted under paragraph (1).
+(c)
+Modeling
+(1)
+In general
+The Secretary, in consultation with the Administrator, shall expand modeling capabilities for the electric power sector to more accurately reflect the role of distributed energy resources in current and future energy consumption and in the optimization of the electric grid.
+(2)
+Grid optimization in the context of DER and storage
+Not later than 1 year after the date of submission of the initial report required under subsection (c)(2) of section 921 of the Energy Policy Act of 2005 (
+42 U.S.C. 16211
+), the Secretary, in consultation with the Administrator and the Commission, shall provide modeling tools to assist energy distribution utilities, State regulatory authorities, State energy offices, third-party energy service providers, and wholesale market operators in the planning and market analysis required for cost-effective optimization of the electric grid and deployment of distributed energy resources and grid-scale energy storage, including modeling tools for assessing individual technologies, combinations of technologies, or integrated control system applications.
+(3)
+Data and methodologies
+The modeling tools provided under paragraph (2) shall incorporate the data and methodologies used to produce the reports required under subsection (c)(2) of section 921 of the Energy Policy Act of 2005 (
+42 U.S.C. 16211
+).
+(4)
+National Energy Modeling Systems (NEMS) Development
+The Administrator shall continue to evaluate options for expanding the capability of the National Energy Modeling Systems Electricity Market Module to accurately represent the complexity of the electric power sector, including byâ
+(A)
+incorporating hourly and subhourly electric power sector data; and
+(B)
+including the services provided by distributed energy resources and energy storage.
+(d)
+Study of barriers to advanced transmission technologies
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, to enable deployment of technologies that cost-effectively increase existing transmission capacity use, the Secretary, in consultation with relevant stakeholders, shall conduct a study to identify, analyze, and develop recommendations for removing barriers to the valuation and deployment of advanced materials and technologies for new and existing transmission, such as advanced technologies that enhance reliability, security, efficiency, capacity, and affordability through visibility, analytics, and controls.
+(2)
+Consultation
+As soon as practicable after the date of enactment of this Act, in conducting the study under paragraph (1), the Secretary shall engage stakeholders and experts from other Federal agencies, the National Laboratories, States, Tribal governments, units of local government, industry, research institutions, nonprofit organizations, and other interested parties.
+(3)
+Reports
+Not later than 18 months after the date of enactment of this Act, the Secretary shall submit to Congress a report describingâ
+(A)
+the recommendations developed under the study conducted under paragraph (1);
+(B)
+a framework for future research into removing the barriers identified and analyzed under the study, based onâ
+(i)
+the recommendations developed under the study; and
+(ii)
+research on transmission capacity use, performance from synchrophasor information, advanced conductors, advanced transmission tower designs, dynamic line rating, advanced power flow control, and energy storage; and
+(C)
+the methodology used in the study, including the methodology used to produce the recommendations developed under the study.
+(e)
+DER data clearinghouse
+Not later than 180 days after the date of submission of the initial report required under subsection (c)(2) of section 921 of the Energy Policy Act of 2005 (
+42 U.S.C. 16211
+), the Secretary and the Commission shall establish on the Internet a clearinghouse of nonpersonally identifiable data relating to distributed energy resources, including the data used to conduct the assessment and report under paragraphs (1) and (2), respectively, of subsection (c) of section 921 of the Energy Policy Act of 2005 (
+42 U.S.C. 16211
+), expressedâ
+(1)
+on a nationwide basis;
+(2)
+on a State basis, for each of the several States of the United States;
+(3)
+by sector; and
+(4)
+to reflectâ
+(A)
+granular locational characteristics, such as load pockets and electric grid congestion;
+(B)
+granular temporal characteristics, such as hourly and subhourly electricity generation costs and electricity network costs; and
+(C)
+the specific electric grid services identified by the study under section 3(b).
+(f)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section (including the amendments made by this section) $50,000,000, to remain available for a period of 10 years following the fiscal year for which the amounts were appropriated.
+4.
+Electrification of vehicles and heating
+(a)
+Research, development, and demonstration activities
+(1)
+In general
+In accordance with paragraphs (2) and (3), the Secretary shall conduct a program of research, development, and demonstration activities to advance the electrification of transportation, heating (including water heating and space heating), and other technologies, including by identifying ways to increase the resilience, efficiency, and environmental performance of the electric grid.
+(2)
+Heating research, development, and demonstration activities
+(A)
+In general
+Not later than 180 days after the date of enactment of this Act, the Secretary shall initiate research, development, and demonstration activitiesâ
+(i)
+to develop the ability of electric heating technologies (including water heating and space heating) to provide value to electricity systems, including by operating as an energy storage resource used on a regular basis as part of grid operation to improve the operational efficiency of the electric grid;
+(ii)
+to advance the technical understanding ofâ
+(I)
+the manner in which electric heating technologies are controlled and optimized, including by advancing telemetry and embedded metrology; and
+(II)
+the practices of transmitting secure data over the Internet, a utility system, or other mechanism, with a means for implementation, such as a standard;
+(iii)
+to optimize electric heating technologies forâ
+(I)
+the integration of renewable energy technologies; and
+(II)
+the reduction of greenhouse gases and other pollutants;
+(iv)
+to investigate the technical, economic, and legal details of using electric heating technologies for a range of electric grid services, includingâ
+(I)
+energy storage;
+(II)
+demand response; and
+(III)
+frequency regulation and other ancillary services;
+(v)
+to diminish the market barriers to the broad adoption of heating technologies with digital control and communication technologies that enable grid interoperability and integration;
+(vi)
+to address nonrecurring engineering costs associated with the development of interoperable electric heating technologies;
+(vii)
+to investigate and implement approaches to the aggregation, wholesale electricity marketing, and, to the maximum extent practicable, retail electricity marketing of electric grid services provided by electric heating, including research into the use of transactive energy systems as a means of enabling efficient operations;
+(viii)
+to investigate and implement programs to improve the access to, and affordability of, electric heating technologies for low-income populations;
+(ix)
+to implement innovative consumer marketing and contracting models, including pricing approaches (including consumer access to wholesale market pricing signals), that co-optimize customer benefits and electric grid benefits;
+(x)
+to demonstrate best practices forâ
+(I)
+customer participation and satisfaction; and
+(II)
+maximizing customer benefits;
+(xi)
+to investigate and implement user-friendly equipment financing models linked to the marketing of electric grid services, including the means by which the electric grid services provided by electric heating technologies can help finance the cost of the electric heating technology; and
+(xii)
+to develop a methodology for modeling load increases expected from the deployment of electric heating technologies.
+(B)
+Consultation
+As soon as practicable after the date of enactment of this Act, in carrying out the activities under subparagraph (A), the Secretary shall consult with stakeholders, includingâ
+(i)
+other Federal agencies;
+(ii)
+the National Laboratories;
+(iii)
+States;
+(iv)
+Tribal governments;
+(v)
+units of local government;
+(vi)
+electric utilities, such as investor-owned electric utilities, publicly owned electric utilities, and electric cooperatives;
+(vii)
+private companies, including energy technology manufacturers;
+(viii)
+third-party energy service providers;
+(ix)
+institutions of higher education; and
+(x)
+nonprofit organizations.
+(3)
+Electric vehicle research, development, and demonstration activities
+(A)
+In general
+Not later than 180 days after the date of enactment of this Act, the Secretary, in collaboration with the Secretary of Transportation, shall initiate research, development, and demonstration activitiesâ
+(i)
+to advance the co-optimization of electrified transportation and electricity systems, including by identifying ways to increase the resilience, efficiency, and environmental performance of the electric grid and the transportation system;
+(ii)
+to advance the technical understanding ofâ
+(I)
+the manner in which vehicle charging systems are controlled and optimized, including by advancing vehicle and charging station telemetry and embedded metrology; and
+(II)
+the practices of transmitting secure data over the Internet, a utility system, or other mechanism, with a means for implementation, such as a standard;
+(iii)
+to optimize electric vehicles for the integration of renewable energy technologies and the reduction of greenhouse gases and other pollutants;
+(iv)
+to investigate the technical, economic, and legal details of using fleet, transit, and municipal vehicle batteries for a range of electric grid services, includingâ
+(I)
+demand response;
+(II)
+frequency regulation and other ancillary services; and
+(III)
+energy output, or full-scale vehicle-to-electric grid, operations;
+(v)
+to investigate the co-optimization of the electrification of transportation with advancements in autonomous vehicles and the use of vehicles for ride sharing, including byâ
+(I)
+studying consumer participation and other behavioral challenges, including incentives that promote co-optimization; and
+(II)
+researching challenges and opportunities relating to the optimization of electric grid operations in the context of autonomous vehicle and ride-sharing usage patterns, including the use of energy storage in charging systems;
+(vi)
+to investigate, in collaboration with the Commission, approaches to the aggregation, wholesale electricity marketing, and, to the maximum extent practicable, retail electricity marketing of electric grid services provided by electric vehicles, including research into the use of transactive energy systems as a means of enabling vehicle-electric grid integration;
+(vii)
+to implement innovative consumer marketing and contracting models, including pricing approaches (including consumer access to wholesale market pricing signals), that co-optimize transportation benefits and electric grid benefits, including by maximizing the value of the vehicle services to the electric grid while also maximizing value to the consumer (including by maximizing the flexibility of use of the vehicle to the driver or rider);
+(viii)
+to investigate and implement user-friendly electric vehicle and related equipment financing models linked to the marketing of electric grid services, including the means by which the electric grid services provided by an electric vehicle can help finance the cost of the vehicle;
+(ix)
+to investigate and implement programs to improve the access to, and affordability of, electric vehicles for low-income populations;
+(x)
+(I)
+to advance best practices for manufacturers of electric vehicles, charging equipment, and systems; and
+(II)
+to embed those practices in programs and grant opportunities of the Department of Energy to leverage competitive market electric vehicle products and incentivize more rapid and widespread adoption;
+(xi)
+to assist electric utilities and transit agencies in collaboratively planning an electrified fleet;
+(xii)
+to investigate the use of fleet, transit, and municipal vehicle batteries as power sources for community shelter facilities during emergencies;
+(xiii)
+to develop analytical tools and financial models to assist electric utilities and transit agencies in assessing electric utility and infrastructure requirements to support selected transit vehicle technologies and charging profiles, including analytic toolsâ
+(I)
+to optimize the total cost of ownership;
+(II)
+to develop electrification route maps and transition plans, with quantitative estimates of the population-weighted reductions in pollutant exposure from electrification of specific routes, including criteria pollutants and new pollutants of concern; and
+(III)
+to articulate the strategy and timelines for transitioning to zero-emission vehicles;
+(xiv)
+to investigate scenarios for the sharing of battery assets for the purpose of maximizing cost-performance and battery use, includingâ
+(I)
+scenarios that optimize shared usage between transit agencies and electric utilities over the lifecycle of the battery;
+(II)
+incentives for an entity (such as an electric utility) to provide funding to reduce initial premium costs byâ
+(aa)
+owning the battery of a transit agency transit vehicle; and
+(bb)
+charging the battery using smart charging; and
+(III)
+enabling the entity to reposition the battery into stationary use after the battery has served the expected life of the battery in mobility use;
+(xv)
+to develop a methodology for modeling load increases expected from electrifying the transportation sector; and
+(xvi)
+to investigate the deployment of electric vehicle technologies and charging infrastructure within scalable and integrated energy management systems as part of community energy infrastructure development.
+(B)
+Consultation
+As soon as practicable after the date of enactment of this Act, in carrying out the activities under subparagraph (A), the Secretary shall consult with stakeholders, includingâ
+(i)
+vehicle manufacturers, includingâ
+(I)
+manufacturers of light-, medium-, and heavy-duty vehicles; and
+(II)
+transit vehicle manufacturers;
+(ii)
+electric utilities, such as investor-owned electric utilities, publicly owned electric utilities, and electric cooperatives;
+(iii)
+third-party energy service providers;
+(iv)
+transit agencies;
+(v)
+fleet operators;
+(vi)
+private companies, including energy technology manufacturers and battery manufacturers;
+(vii)
+other Federal agencies;
+(viii)
+the National Laboratories;
+(ix)
+States;
+(x)
+Tribal governments;
+(xi)
+units of local government;
+(xii)
+nonprofit organizations;
+(xiii)
+institutions of higher education;
+(xiv)
+electric vehicle supply equipment and charging infrastructure manufacturers; and
+(xv)
+battery manufacturers.
+(b)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section $100,000,000, to remain available for a period of 10 years following the fiscal year for which the amounts were appropriated.
+5.
+Privacy, security, and resilience
+(a)
+Protecting privacy and security
+In carrying out this Act, the Secretary, the Administrator, and the Secretary of Homeland Security shall identify, incorporate, and follow best practices for protecting the privacy of individuals and businesses and the respective sensitive data of the individuals and businesses, including by managing privacy risk and implementing the Fair Information Practice Principles of the Federal Trade Commission for the collection, use, disclosure, and retention of individual electric consumer information in accordance with the Office of Management and Budget Circular Aâ130 (or successor circulars).
+(b)
+Personal protections for sensitive personal data
+No Federal entity shall request the creation, recording, or collection of data identified to an individual person as a result of this Act.
+(c)
+Law enforcement requirements
+(1)
+Definitions
+In this subsection:
+(A)
+Governmental entity
+The term
+governmental entity
+has the meaning given that term in section 2711 of title 18, United States Code.
+(B)
+Judge of competent jurisdiction; State
+The terms
+judge of competent jurisdiction
+and
+State
+have the meanings given such terms in section 2510 of title 18, United States Code.
+(2)
+Consumer information
+A governmental entity may obtain from an electric utility, third-party aggregator, or other nongovernmental entity under an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena theâ
+(A)
+name of an electric consumer;
+(B)
+address of an electric consumer;
+(C)
+length of service (including start date) of, and types of service used by, an electric consumer; and
+(D)
+means and source of payment for such service (including any credit card or bank account number) of an electric consumer.
+(3)
+Electric usage information
+A governmental entity may only require the disclosure by an electric utility, third-party aggregator, or other nongovernmental entity of information regarding the use of electricity by an electric consumer (including monthly usage data, data at a greater level of detail or specificity, and information about electric use by specific appliances) pursuant to a warrant issued based on probable cause, using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction.
+(4)
+Notice
+(A)
+In general
+Not later than 30 days after obtaining a warrant for electric usage information described in paragraph (3), a governmental entity shall notify each electric consumer whose information was obtained.
+(B)
+Delay of notice
+(i)
+In general
+Upon application by a governmental entity, a judge of competent jurisdiction may issue an order authorizing the governmental entity to delay notice under subparagraph (A) for a period of not more than 180 days if the judge finds reason to believe notifying the electric consumer of the order will result inâ
+(I)
+endangering the life or physical safety of an individual;
+(II)
+flight from prosecution;
+(III)
+destroying of or tampering with evidence;
+(IV)
+intimidation of potential witnesses; or
+(V)
+otherwise seriously jeopardizing an investigation or unduly delaying a trial.
+(ii)
+Unlimited renewals
+Upon application by a governmental entity, a judge of competent jurisdiction may renew an order delaying notice under clause (i) for additional periods of not longer than 180 days if the judge makes a finding described in clause (i).
+(5)
+Suppression
+Any electric usage information described in paragraph (3), or evidence directly or indirectly derived from such information, may not be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof if the obtaining of the information was not conducted in accordance with this subsection.
+(6)
+Reporting
+(A)
+By governmental entities
+In January of each year, each governmental entity shall submit to the Administrative Office of the United States Courts information regarding any warrant described in paragraph (3) that was sought or obtained by the governmental entity during the previous year, includingâ
+(i)
+the number of warrants described in paragraph (3) sought by the governmental entity;
+(ii)
+the number of warrants described in paragraph (3) obtained by the governmental entity; and
+(iii)
+for each warrant described in paragraph (3) sought or obtained by the governmental entityâ
+(I)
+the offense specified in the application; and
+(II)
+the identity of the officer applying for the warrant.
+(B)
+Report to Congress
+As part of the report submitted under section 2519(3) of title 18, United States Code, the Administrative Office of the United States Courts shall provide to Congress, with respect to the previous yearâ
+(i)
+the number of warrants described in paragraph (3) sought by governmental entities;
+(ii)
+the number of warrants described in paragraph (3) obtained by governmental entities; and
+(iii)
+a summary and analysis of the data required to be filed with the Administrative Office under subparagraph (A).
+(d)
+Managing emerging threats to the electric grid
+(1)
+Model standards for the distribution grid
+(A)
+In general
+Not later than 1 year after the date of enactment of this Act, the Secretary shall develop model standards to assist States, electric cooperatives, and publicly owned electric utilities in the voluntary updating of standards for resource planning, energy assurance planning, ensuring distribution-grid reliability from natural disasters, and improving security with respect to cyber and physical threats, taking into considerationâ
+(i)
+the increased use of smart grid technologies, variable energy generation, energy storage, and distributed energy resources;
+(ii)
+standards for critical infrastructure; and
+(iii)
+emerging and rapidly evolving hazards.
+(B)
+Consultation
+As soon as practicable after the date of enactment of this Act, in developing the model standards under subparagraph (A), the Secretary shall consult withâ
+(i)
+States;
+(ii)
+utilities, such as investor-owned electric utilities, publicly owned utilities, and electric cooperatives;
+(iii)
+third-party energy service providers;
+(iv)
+other Federal agencies;
+(v)
+the Electric Reliability Organization;
+(vi)
+private companies, including energy technology manufacturers;
+(vii)
+the National Laboratories;
+(viii)
+nonprofit organizations; and
+(ix)
+institutions of higher education.
+(2)
+Equipment standards and testing procedures
+Not later than 3 years after the date of enactment of this Act, the Secretary, in collaboration with the Secretary of Commerce (acting through the Director of the National Institute of Standards and Technology), electric utilities, States, and standard-making organizations, shallâ
+(A)
+evaluate whether new performance standards and testing procedures are needed to ensure electrical equipment resilience in the face of emerging and rapidly evolving hazards (like cyber and physical threats and natural disasters) taking into consideration the increased use of smart grid technologies, variable energy generation, energy storage, distributed energy resources, and capabilities for autonomous energy systems integration and management (such as islandable microgrids); and
+(B)
+develop and submit to Congress a set of recommendations for distribution equipment manufacturers to voluntarilyâ
+(i)
+minimize disruptions of interconnected distributed energy resources and associated data feeds, especially during critical peak demand; and
+(ii)
+support the reliability and resilience of the distribution grid.
+(e)
+Development of uniform cost-Benefit analysis methods for security and resilience
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, the Secretary shall develop and submit to Congress a set of methods and guidelines for calculating the costs and benefits of investments in resilience and security solutions for the electric grid, includingâ
+(A)
+the development of uniform and technology-neutral methods for valuing electric grid reliability and security, taking into consideration the results of the study conducted under section 3(b);
+(B)
+guidelines for valuing the management of risks associated with high-impact events, such as threats related to cyber or physical attacks, natural disasters, or combined threats, including the value of State and local energy assurance planning and investment; and
+(C)
+methods on how to quantify the security and resilience benefits that are unique to distributed energy resources and grid-scale energy storage.
+(2)
+Consultation
+As soon as practicable after the date of enactment of this Act, in developing the methods and guidelines under paragraph (1), the Secretary shall consult with industry and government stakeholders, including the stakeholders described in subsection (d)(1)(B).
+6.
+Workforce development
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, the Secretary, in collaboration with the Secretary of Labor and the Secretary of Commerce, shall enhance and align current electricity sector workforce development and training programs to satisfy training requirements relating to the increasing complexity of the electric grid, including developing the abilitiesâ
+(1)
+to manage the smart grid and the increased digitization and connectivity of consumer devices and the energy system, including managing cybersecurity risks; and
+(2)
+to optimize the electric grid in the context of the increasing penetration of distributed energy resources, energy storage, variable renewable energy generation, electric vehicles, and new information, communication, and control capabilities involved in energy systems management.
+(b)
+Initiatives
+In carrying out subsection (a), the Secretary shallâ
+(1)
+in collaboration with electric utilities, technology providers to the utility industry, academic institutions, nonprofit organizations, and Federal agencies (such as the Department of Labor, the National Science Foundation, the Department of Commerce, the Department of Education, and the Department of Defense), coordinate Federal initiatives on electricity sector education and training, including byâ
+(A)
+establishing programs to facilitate national training credentials in new electricity technologies;
+(B)
+developing appropriate curricula for community colleges; and
+(C)
+fostering lifelong learning relating to new electricity technologies;
+(2)
+expand existing Department of Energy training programs to increase the number of internships, fellowships, traineeships, and registered apprenticeships;
+(3)
+in collaboration with the Secretary of Labor, develop workforce training curricula;
+(4)
+in collaboration with the Secretary of Labor, improve labor market information on the changing requirements for skilled technical workers to better align workforce development with advances in science and technology;
+(5)
+in collaboration with the Secretary of Labor, the Secretary of Defense, and the Secretary of Veterans Affairs, create workforce opportunities for veterans;
+(6)
+in collaboration with the Secretary of Labor, create workforce opportunities thatâ
+(A)
+expand workforce diversity; and
+(B)
+provide to low- and moderate-income individuals job training that is aligned with in-demand jobs; and
+(C)
+make use of partnerships between management and labor;
+(7)
+in collaboration with the Secretary of Labor, the Secretary of Defense, and other relevant agencies, develop a single resource web portal to inform industry and potential employees about the Federal agency workforce development initiatives and resources;
+(8)
+develop workforce assessment tools to complement training programs; and
+(9)
+support and facilitate regional approaches to workforce development, including workforce efforts of States and units of local government (such as workforce investment boards).
+(c)
+Department of Labor leadership
+In collaborating with the Secretary to carry out subsection (a), the Secretary of Labor shall collaborate with the Secretary to expand Department of Labor preapprenticeship programs in the electricity industry, with priority given to developing preapprenticeship programs that align with the training initiatives described in subsection (b).
+(d)
+Community-Centered programs
+(1)
+In general
+The Secretary, in collaboration with the Secretary of Labor, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services, shall develop workforce training programs to reach certain affected populations, includingâ
+(A)
+individuals displaced from declining employment in the coal mining industry;
+(B)
+low-income at-risk youth in urban environments;
+(C)
+low-income and unemployed populations in rural areas;
+(D)
+women;
+(E)
+minorities; and
+(F)
+workers displaced by technological advancements.
+(2)
+Demographic awareness
+In developing the programs under paragraph (1), the Secretary, in collaboration with the Secretary of Labor, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services, shall take into consideration unique cultural, demographic, historical, and economic factorsâ
+(A)
+to ensure that the programs are appropriate for the populations described in subparagraphs (A) through (F) of paragraph (1); and
+(B)
+to maximize the success of the programs.
+(3)
+Metrics
+(A)
+In general
+In developing the programs under paragraph (1), the Secretary, in collaboration with the Secretary of Labor, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services, shall develop metrics for measuring the success of the programs developed under that paragraph, taking into consideration public health and mental health factors, employment and earnings data, and community economic development factors.
+(B)
+Collection of certain data
+For the purposes of collecting employment and earnings data for consideration under subparagraph (A), the data shall be collected through means other than survey data or self-reported data, such as through agreements with Federal or State agencies.
+(e)
+Analysis
+Not later than 1 year after the date of enactment of this Act and every 3 years thereafter, the Secretary, in collaboration with the Secretary of Labor, shall conduct an analysis of employment within the energy sector, including a detailed analysis of the skill level and ability of the electricity sector workforce to manage the complexity and changes of the electricity system.
+(f)
+Consultation
+In carrying out this section, the Secretary, in collaboration with the Secretary of Labor, the Secretary of Commerce, the Secretary of Defense, and the Secretary of Veterans Affairs, shall consult with industry and government stakeholder, includingâ
+(1)
+States;
+(2)
+units of local government;
+(3)
+electric utilities;
+(4)
+third-party energy service providers;
+(5)
+private companies, including energy technology manufacturers;
+(6)
+institutions of higher education; and
+(7)
+nonprofit organizations.
+(g)
+Reports
+Not later than 2 years after the date of enactment of this Act and every 3 years thereafter, the Secretary shall submit to Congress a report describingâ
+(1)
+the quantitative impact of programs carried out under this section;
+(2)
+the results of the analysis conducted under subsection (e);
+(3)
+a summary of benefits gained and barriers faced by individuals participating in programs under this section, including a description ofâ
+(A)
+job opportunities created by the programs; and
+(B)
+skills gained by individuals participating in the programs;
+(4)
+national and regional observations and recommendations to improve workforce development, including feedback from participants; and
+(5)
+the administrative costs of the programs affected by this section.
+7.
+Flexible Grid Challenge 2022
+(a)
+Establishment
+Not later than 180 days after the date of enactment of this Act, the Secretary shall establish a competitive program, pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3719
+), to be known as the
+Flexible Grid Challenge 2022
+(referred to in this section as the
+program
+), to award grants to States to enhance the peak load management and flexibility of the electric grid.
+(b)
+Consultation
+Pursuant to section 24(d) of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3719(d)
+), the program shall seek to engage a broad set of experts, including fromâ
+(1)
+electric utilities;
+(2)
+institutions of higher education;
+(3)
+other Federal agencies;
+(4)
+private companies, including energy technology manufacturers;
+(5)
+States;
+(6)
+units of local government;
+(7)
+nonprofit organizations; and
+(8)
+the National Laboratories.
+(c)
+Goals
+The goals of the program shall beâ
+(1)
+to optimizeâ
+(A)
+future electric infrastructure, including generation, delivery, consumption, and control methods;
+(B)
+electric grid design solutions to ensure electric grid reliability and resilience; and
+(C)
+retail electricity pricing and wholesale market valuation of electric grid services, taking into consideration consumer protection constraints;
+(2)
+to reliably, cost-effectively, safely, and securely integrate and manage variable and distributed energy resources, includingâ
+(A)
+distributed generation;
+(B)
+combined heat and power;
+(C)
+energy storage;
+(D)
+electric vehicles;
+(E)
+energy efficiency;
+(F)
+demand response;
+(G)
+smart technologies that can enable integrated systems control of distributed energy resources; and
+(H)
+other technologies;
+(3)
+to improve the integration and interoperability of telecommunications, information technology, operational technologies, or other systems and technologies with the electric grid;
+(4)
+to help States overcome any technological, regulatory, business model, and market barriers;
+(5)
+to increase electricity reliability levels from levels available as of the date of enactment of this Act to levels sufficient to provide critical load;
+(6)
+to define the role of the electric utility of the future as compared to products provided by market-driven entities;
+(7)
+to mitigate specific challenges that are unique to the region where the project is located, including reliability and resilience concerns;
+(8)
+to address the problems faced by the research community at the time of the award; and
+(9)
+to achieve the goals described in paragraphs (1) through (8) by 2022.
+(d)
+Criteria
+(1)
+Award criteria development
+Subject to paragraphs (2) and (3), not later than 180 days after the date of enactment of this Act, the Secretary shall develop simple, ambitious, quantifiable, and achievable performance criteria that shall be the basis on which one or more winners will be selected and publish a notice pursuant to section 24(f) of the Stevenson-Wydler Technology Innovation Act of 1980 (
+15 U.S.C. 3719(f)
+).
+(2)
+Considerations
+In developing the criteria under paragraph (1), the Secretary shall consider criteria that achieve the goals described in subsection (c).
+(3)
+Consultation
+Before establishing the criteria under paragraph (1), the Secretary shall consult with a broad set of experts, including experts from entities described in subsection (b).
+(e)
+Awards to States
+(1)
+In general
+Not later than 5 years after the selection of States participating in the program under subsection (f)(3), the Secretary shallâ
+(A)
+select not more than 3 States as winners of the program; and
+(B)
+provide to each winner an award of not more than $50,000,000.
+(2)
+Basis of selection
+In selecting the winners of the program under paragraph (1)(A), the Secretary shall use the criteria developed and published under subsection (d)(1).
+(3)
+No requirement to receive technical or support grants
+The receipt or lack of receipt of technical assistance under subsection (g)(1) or a support grant under subsection (g)(2) shall not affect the eligibility of a State to be selected as a winner of the program under paragraph (1).
+(f)
+Program eligibility
+(1)
+Applications
+Not later than 1 year after the date of enactment of this Act, the Secretary shall invite States to submit applications to participate in the program.
+(2)
+Application process
+A State seeking to participate in the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including evidence that the Stateâ
+(A)
+has partnered with, at a minimumâ
+(i)
+an electric utility;
+(ii)
+an energy technology manufacturer; and
+(iii)
+a National Laboratory or institution of higher education; and
+(B)
+has established a plan for appropriate use of any funds made available under the program.
+(3)
+Determination by Secretary
+(A)
+In general
+Not later than 90 days after the date on which an application is submitted under paragraph (2), the Secretary shall determine whether the applicant State may participate in the program.
+(B)
+Basis of determination
+In selecting States under subparagraph (A), the Secretary shall ensure that the application of a selected State demonstrates an ability to achieve one or more of the goals described in subsection (c).
+(g)
+Technical assistance and grants
+(1)
+Technical assistance
+The Secretary shall provide to participant States selected under subsection (f)(3) technical assistance in the form of individual consultations, tools, and other resources, on an as-needed basis.
+(2)
+Support grants
+(A)
+In general
+The Secretary shall provide support grants to participant States selected under subparagraph (E).
+(B)
+Application process
+A participant State seeking a support grant shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a plan describing the proposed use of funds.
+(C)
+Eligibility
+In determining the eligibility of a participant State for a support grant under subparagraph (A), the Secretary shall consider whether the plan of the participant State described in subparagraph (B) includes methods for achieving one or more of the goals described in subsection (c).
+(D)
+Amount of support grant
+The amount of a support grant awarded to a participant State selected under subparagraph (E) shall be not less than $500,000 and not greater than $10,000,000.
+(E)
+Determination by Secretary
+(i)
+In general
+Not later than 90 days after the date on which an application is submitted under subparagraph (B), the Secretary shall determineâ
+(I)
+whether the applicant State shall receive a support grant; and
+(II)
+if so, the amount of the support grant.
+(ii)
+Basis of determination
+In making a determination under clause (i), the Secretary shall ensure that the application of a selected State demonstrates an ability to achieve improvement in flexible peak load management one or more of the goals described in subsection (c).
+(F)
+Requirement
+As a condition of receiving financial assistance under this subsection, a State receiving a support grant shall provide to the Secretary such information, at such time, and in such manner as the Secretary may require, to be made publicly available by the Secretary subject to applicable Federal privacy laws.
+(G)
+Reporting by participants
+Not later than 1 year after the date on which a State initially receives a support grant, and each year thereafter for the duration of the grant period, a State that receives a support grant shall submit to the Secretary a written report thatâ
+(i)
+summarizes the benefits gained throughout the duration of the program;
+(ii)
+describes barriers overcome during the program;
+(iii)
+outlines a continuation plan in the event the State is not selected as a winner of the program under subsection (e); and
+(iv)
+provides feedback on the program, including proposed modifications to the program.
+(h)
+Reports
+Not later than 3 years after the date on which amounts are first distributed under this section, and not later than the date that is 3 years thereafter, the Secretary shall submit to Congress reports describingâ
+(1)
+the number, type, and details of projects proposed and projects undertaken under the program;
+(2)
+a summary of benefits gained and barriers faced by participant States in the competition;
+(3)
+a summary of continuation plans collected from the participant States;
+(4)
+national and regional observations and recommendations to improve peak load management and flexibility, including feedback from participant States;
+(5)
+the administrative costs of the program; and
+(6)
+the total amount of funds distributed under the program, including the amount awarded to each participant State.
+(i)
+Authorization of appropriations
+(1)
+In general
+Subject to paragraph (2), there is authorized to be appropriated to carry out this section $150,000,000, of which $15,000,000 is authorized for use by the Department of Energy to administer the prize.
+(2)
+Availability
+The amounts authorized under paragraph (1) shall remain available until expended.

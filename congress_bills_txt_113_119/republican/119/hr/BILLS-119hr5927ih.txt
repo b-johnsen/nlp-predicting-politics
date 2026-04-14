@@ -1,0 +1,202 @@
+1.
+Short title
+This Act may be cited as the
+Securing Reliable Power for Advanced Technologies Act
+.
+2.
+Acceleration of designated critical artificial intelligence infrastructure projects
+(a)
+In general
+Title III of the Defense Production Act of 1950 (
+50 U.S.C. 4531 et seq.
+) is amended by adding at the end the following:
+306.
+Acceleration of designated critical artificial intelligence infrastructure projects
+(a)
+Definitions
+In this section:
+(1)
+Covered project
+The term
+covered project
+means a project to construct, expand, repower, or reopen critical artificial intelligence infrastructure.
+(2)
+Critical artificial intelligence infrastructure
+The term
+critical artificial intelligence infrastructure
+meansâ
+(A)
+one or more data centers or high-performance computing facilities with a total connected electrical load of not less than 50 megawatts that is primarily dedicated to the training, development, or inference of artificial intelligence or other machine learning models;
+(B)
+any dispatchable baseload electric generation facilityâ
+(i)
+with a nameplate capacity of not less than 100 megawatts;
+(ii)
+capable, without regard to restrictions on use imposed solely for reasons other than engineering design or physical capability, of providing firm, dispatchable capacity and continuous electric service for not less than 85 percent of the hours in a typical calendar year;
+(iii)
+that does not derive its primary energy input from intermittent renewable sources, with or without energy storage; and
+(iv)
+is contractually committed, in whole or material part, to provide firm, dispatchable electric supply to facilities described in subparagraph (A), through the applicable retail electric utility or cooperative serving such facilities, consistent with State service laws;
+(C)
+associated high-voltage electric transmission facilities, including any network transmission upgrades necessary to reliably serve the facilities, essential to interconnect facilities described in subparagraph (A) or (B); or
+(D)
+fuel supply infrastructure essential to the operation of facilities described in subparagraph (B), includingâ
+(i)
+coal mines and coal preparation facilities, as defined in section 701 of the Surface Mining Control and Reclamation Act of 1977 (
+30 U.S.C. 1291
+);
+(ii)
+natural gas gathering, processing, storage, and transportation facilities subject to the Natural Gas Act (
+15 U.S.C. 717 et seq.
+);
+(iii)
+oil and gas wells and wellhead production facilities (as defined in section 3(4) of the Federal Oil and Gas Royalty Management Act of 1982 (
+30 U.S.C. 1702(4)
+)), together with oil or petroleum product pipelines and related terminals (as such term relates to hazardous liquid pipeline facilities under section 60101(a)(22) of title 49, United States Code); and
+(iv)
+rail, barge, or other transportation infrastructure (as such terms are used in sections 13102(27) of title 49 and 2101(3) of title 46, United States Code) materially dedicated to the delivery of fuel to such facilities.
+(3)
+Federal authorization
+The term
+Federal authorization
+means any permit, license, approval, or other administrative decision required under Federal law to site, construct, expand, operate, or maintain a covered project.
+(b)
+Presidential designation
+The President may designate one or more covered projects as priority national defense projects and publish such designation in the Federal Register.
+(c)
+Concurrent permitting
+(1)
+Coordination
+For any covered project designated under subsection (a), the President shall require each head of a Federal agency with responsibility for issuing permits, licenses, or approvals toâ
+(A)
+conduct reviews concurrently to the maximum extent practicable and consistent with applicable law; and
+(B)
+adhere to a consolidated schedule established by the President in accordance with paragraph (2).
+(2)
+Schedule
+The President shall ensure that a consolidated schedule described in paragraph (1)â
+(A)
+establishes interim milestones and deadlines for action by the head of a Federal agency described in paragraph (1) with respect to the designated covered project; and
+(B)
+requires completion of all necessary Federal authorizations not later than 2 years after receipt of a complete application from the owner of the covered project, unless the President determines that additional time is required due to extraordinary circumstances.
+(3)
+Consultation
+The President may consult with State, Tribal, or local permitting authorities in developing the consolidated schedule described in paragraph (2).
+(4)
+Enforcement
+Failure by a Federal agency to adhere to the consolidated schedule established for a designated covered project unless approved by the President shall be treated as a failure to act under section 706(1) of title 5, United States Code.
+(5)
+Dispute resolution
+(A)
+In general
+The President or a designee described in subparagraph (B) shall have exclusive authority to resolve disputes among Federal agencies regarding the scope, schedule, or terms of Federal authorizations.
+(B)
+Designee described
+The President may, for a covered project, assign a designee as follows:
+(i)
+The Secretary of Defense.
+(ii)
+After publication in the Federal Register, the head of another Federal agency.
+(d)
+Environmental review
+The President shall designate a single Federal agency to serve as the lead agency responsible for preparing all environmental reviews and related documents for a designated covered project, which shall be deemed sufficient for such reviews required for relevant Federal authorizations.
+(e)
+Judicial review
+(1)
+Venue; limitation
+A civil action seeking review of a designation under subsection (b) shall be brought only in the District of Columbia Circuit. A civil action seeking review of a Federal authorization under subsection (c) shall be brought in the United States Court of Appeals for the circuit in which the covered project is principally located.
+(2)
+Timing of civil actions
+A civil action described in paragraph (1) may only be brought during the 60-day period following the date on which the applicable designation or authorization is made.
+(3)
+Expedited consideration
+The United States Court of Appeals for the District of Columbia Circuit shall provide expedited consideration for a civil action described in paragraph (1), and shall issue a final decision on the merits not later than 60 days after date of filing of the complaint. Such decision may only be appealed to the Supreme Court of the United States.
+(4)
+Injunctive relief
+The United States Court of Appeals for the District of Columbia Circuit may not issue a preliminary injunction for a civil action described in paragraph (1) unless the court finds a designation or an authorization that is the subject of the civil action is arbitrary, capricious, or contrary to law. Any injunctive relief shall be narrowly tailored to remedy such defect.
+(5)
+Remedies
+The United States Court of Appeals for the District of Columbia Circuit may not vacate a designation or authorization unless the court finds by clear and convincing evidence that the designation or authorization is unlawful. Relief shall be limited to the covered project that is the subject of the civil action.
+(f)
+National defense exemption
+The President may, by executive order, exempt a covered project designated under this section from the application of new emissions limitations or operational requirements promulgated under Federal law after the date of designation, if the President determines and publishes in the Federal Register thatâ
+(1)
+the continued operation of such project is necessary for national defense (as defined in section 702 of this Act); and
+(2)
+application of such new requirements would materially impair the ability of the project to provide critical capacity in support of national defense.
+(g)
+Compensation for Federal Regulatory Impairment
+(1)
+Right to compensation
+If, after a project or facility is designated under subsection (b), any change in Federal statute, regulation, agency order, or permit condition imposed by a Federal agency prohibits or materially impairs the operation of a facility described in subsection (a)(2) for a continuous period of not less than 180 daysâdespite the facilityâs compliance with all previously applicable Federal requirementsâthe United States shall pay monetary compensation to the owner or operator for the resulting loss in value and revenue, as determined under paragraph (2).
+(2)
+Determination of compensation amount
+The amount of compensation shall equal the diminution in fair market value of the facility and the reasonably foreseeable loss of net revenue directly caused by the Federal action, as determined by an independent appraisal using generally accepted valuation methodologies that exclude unrelated market fluctuations or voluntary retirements.
+(3)
+Procedure
+A claim shall be filed with the lead agency designated under subsection (d) within 270 days after the impairment period described in paragraph (1) is satisfied. The lead agency shall issue a final written determination within 180 days after a complete claim is filed. Failure to act within that period shall constitute final agency action for purposes of subsection (e).
+(4)
+Source of funds
+Compensation under this subsection shall be paid from the Defense Production Act Fund established under section 304 of this Act, subject to the availability of appropriations. The head of the lead agency may enter into binding settlement agreements to satisfy liability under this subsection.
+(5)
+Limitations and exclusions
+No compensation shall be paid for losses attributable toâ
+(A)
+gross negligence, willful misconduct, or knowing violation of law by the claimant;
+(B)
+voluntary retirement, decommissioning, or mothballing decisions not compelled by the Federal action;
+(C)
+non-Federal actions or orders;
+(D)
+routine permitting delays or conditions not rising to a material impairment; or
+(E)
+costs or losses already recovered from ratepayers or third parties, or that would result in double recovery.
+The claimant shall have a duty to mitigate losses reasonably.
+(6)
+Remedies and sovereign immunity
+The United States waives sovereign immunity for monetary relief under this subsection, but not for punitive, exemplary, incidental, or consequential damages, and not for attorneysâ fees except as expressly provided by law. Venue, timing, expedited consideration, and standards of review shall be as set forth in subsection (e). Relief shall be limited to payment of the compensation amount.
+(7)
+Subrogation
+Upon payment, the United States shall be subrogated to the claimantâs rights against any third party with respect to the impairment to the extent of such payment.
+(h)
+Title III financial assistance for dispatchable baseload facilities serving designated projects
+(1)
+Eligibility
+A facility described in subsection (a)(2), including a coal-fueled facility meeting subsection (a)(2)(A)â(C) and contractually dedicated under subsection (a)(2)(D), shall be eligible to receive financial assistance under sections 302 and 303 of this title, including loans and loan guarantees, purchase commitments, and other instruments to expand or preserve productive capacity necessary to serve critical artificial intelligence infrastructure.
+(2)
+Administration
+The President may carry out this subsection directly or through delegation to the Secretary of Defense, the Secretary of Energy, or another appropriate officer. Electric cooperatives and their subsidiaries shall be eligible recipients on the same terms as investor-owned or municipal utilities.
+(3)
+Terms
+Subject to sections 302 and 303, assistance may cover up to 90 percent of reasonable project costs, with a maximum maturity of 30 years or 90 percent of the reasonably expected economic life of the financed assets, whichever is shorter. The President may require collateral, seniority, covenants, or credit support as necessary to protect the interests of the United States.
+(4)
+Priority
+In making awards, the President shall give priority to facilities thatâ
+(A)
+directly supply one or more projects designated under subsection (b);
+(B)
+can commence commercial operation or repower within 36 months; and
+(C)
+materially improve regional reliability margins as determined by the applicable reliability entity.
+(5)
+Use of funds
+Amounts made available to carry out title III may be used to provide assistance under this subsection, including for pre-construction activities, long-lead equipment, environmental controls, and interconnection or network upgrades essential to serve designated projects.
+(6)
+Guidance
+Not later than 180 days after the date of enactment of this section, the President (or designee) shall issue guidance establishing application procedures and standard terms for assistance under this subsection.
+(i)
+Funding
+Amounts made available under this title may be used to carry out the consolidated schedule described in subsection (c)(2), including for staff, technical reviews, or contracting necessary to meet the requirements of such consolidated schedule.
+(j)
+Access to funding
+In carrying out this section, the President shall ensure that rural electric cooperatives that are eligible for financing, loans, and loan guarantees available through the Rural Utilities Service of the Department of Agriculture can be designated as a covered project, including such cooperatives involved in the generation, transmission, or interconnection of facilities that support critical artificial intelligence infrastructure.
+.
+(b)
+Conforming amendment
+Section 702(14) of the Defense Production Act of 1950 (
+50 U.S.C. 4552(14)
+) is amended by inserting
+(including critical artificial intelligence infrastructure designated under section 306)
+after
+critical infrastructure protection and restoration
+.

@@ -1,0 +1,281 @@
+1.
+Short title
+This Act may be cited as the
+Advancing Grid Storage Act of 2017
+.
+2.
+Definitions
+In this Act:
+(1)
+Energy storage system
+The term
+energy storage system
+means equipment or facilities capable of absorbing energy, storing the energy for a period of time, and dispatching the energy, thatâ
+(A)
+use mechanical, electrochemical, or thermal processes to store energy that was generated at an earlier time for use at a later time;
+(B)
+use mechanical, electrochemical, or thermal processes to store energy generated from mechanical processes that would otherwise be wasted for delivery at a later time; or
+(C)
+store thermal energy for direct use for heating or cooling at a later time in a manner that avoids the need to use electricity at that later time, as is offered by grid-enabled water heaters.
+(2)
+Islanding
+The term
+islanding
+means a distributed generator or energy storage device continuing to power a location in the absence of electric power from the primary source.
+(3)
+Microgrid
+The term
+microgrid
+means an integrated energy system consisting of interconnected loads and distributed energy resources, including generators and energy storage devices, within clearly defined electrical boundaries thatâ
+(A)
+acts as a single controllable entity with respect to the grid; and
+(B)
+can connect and disconnect from the grid to operate in both grid-connected mode and island mode.
+(4)
+Renewable energy source
+The term
+renewable energy source
+includesâ
+(A)
+biomass;
+(B)
+geothermal energy;
+(C)
+hydropower;
+(D)
+landfill gas;
+(E)
+municipal solid waste;
+(F)
+ocean (including tidal, wave, current, and thermal) energy;
+(G)
+organic waste;
+(H)
+photosynthetic processes;
+(I)
+photovoltaic energy;
+(J)
+solar energy; and
+(K)
+wind.
+(5)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+3.
+Energy storage research program
+(a)
+In general
+There is established within the Advanced Research Projects AgencyâEnergy established by section 5012(b) of the America COMPETES Act (
+42 U.S.C. 16538(b)
+) a program for the research of energy storage systems, components, and materials.
+(b)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section $50,000,000 for the period of fiscal years 2018 through 2022.
+4.
+Technical assistance and grant program
+(a)
+Establishment
+(1)
+In general
+The Secretary, in consultation with the Assistant Secretary for Electricity Delivery and Energy Reliability, shall establish a technical assistance and grant program (referred to in this section as the
+program
+)â
+(A)
+to disseminate information and provide technical assistance directly to eligible entities so the eligible entities can identify, evaluate, plan, design, and develop processes to procure energy storage systems; and
+(B)
+to make grants to eligible entities so that the eligible entities may contract to obtain technical assistance to identify, evaluate, plan, design, and develop processes to procure energy storage systems.
+(2)
+Technical assistance
+(A)
+In general
+The technical assistance described in paragraph (1) shall include assistance with one or more of the following activities relating to energy storage systems:
+(i)
+Identification of opportunities to use energy storage systems.
+(ii)
+Assessment of technical and economic characteristics.
+(iii)
+Utility interconnection.
+(iv)
+Permitting and siting issues.
+(v)
+Business planning and financial analysis.
+(vi)
+Engineering design.
+(B)
+Exclusion
+The technical assistance described in paragraph (1) shall not include assistance relating to modification of Federal, State, or local regulations or policies relating to energy storage systems.
+(3)
+Information dissemination
+The information disseminated under paragraph (1)(A) shall includeâ
+(A)
+information relating to the topics described in paragraph (2), including case studies of successful examples;
+(B)
+computer software for assessment, design, and operation and maintenance of energy storage systems; and
+(C)
+public databases that track the operation and deployment of existing and planned energy storage systems.
+(b)
+Eligibility
+Any nonprofit or for-profit entity shall be eligible to receive technical assistance and grants under the program.
+(c)
+Applications
+(1)
+In general
+An eligible entity desiring technical assistance or grants under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+(2)
+Application process
+The Secretary shall seek applications for technical assistance and grants under the programâ
+(A)
+on a competitive basis; and
+(B)
+on a periodic basis, but not less frequently than once every 12 months.
+(3)
+Priorities
+In selecting eligible entities for technical assistance and grants under the program, the Secretary shall give priority to eligible entities with projects that have the greatest potential forâ
+(A)
+strengthening the reliability and resiliency of energy infrastructure to the impact of extreme weather events, power grid failures, and interruptions in supply of fossil fuels;
+(B)
+improving the feasibility of microgrids or islanding, particularly in rural areas, including high energy cost rural areas;
+(C)
+facilitating the use of renewable energy resources;
+(D)
+minimizing environmental impact, including regulated air pollutants and greenhouse gas emissions; and
+(E)
+maximizing local job creation.
+(d)
+Grants
+On application by an eligible entity, the Secretary may award grants to the eligible entity to provide funds to cover not more thanâ
+(1)
+100 percent of the costs of the initial assessment to identify system benefits of deploying energy storage systems;
+(2)
+75 percent of the cost of guidance relating to methods to assess energy storage in long-term resource planning and resource procurement;
+(3)
+60 percent of the cost of studies to assess the cost-benefit ratio of energy storage systems; and
+(4)
+50 percent of the cost of guidance on complying with State and local regulatory technical standards, including siting and permitting standards.
+(e)
+Rules and procedures
+(1)
+Rules
+Not later than 180 days after the date of enactment of this Act, the Secretary shall adopt rules and procedures for carrying out the program.
+(2)
+Grants
+Not later than 120 days after the date of issuance of the rules and procedures for the program, the Secretary shall issue grants under this section.
+(f)
+Reports
+The Secretary shall submit to Congress and make available to the publicâ
+(1)
+not less frequently than once every 2 years, a report describing the performance of the program under this section, including a synthesis and analysis of any information the Secretary requires grant recipients to provide to the Secretary as a condition of receiving a grant; and
+(2)
+on termination of the program under this section, an assessment of the success of, and education provided by, the measures carried out by eligible entities under the program.
+(g)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section $100,000,000 for the period of fiscal years 2018 through 2022, to remain available until expended.
+5.
+Energy storage system demonstration and deployment program
+(a)
+Energy storage grant program
+(1)
+Establishment
+The Secretary shall establish a competitive grant program for pilot energy storage systems, as identified by the Secretary, that use eitherâ
+(A)
+a single system; or
+(B)
+aggregations of multiple systems.
+(2)
+Eligibility
+Entities eligible to receive a grant under paragraph (1) includeâ
+(A)
+a State, territory, or possession of the United States;
+(B)
+a State energy office;
+(C)
+a tribal organization (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 5304
+));
+(D)
+an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (
+20 U.S.C. 1001
+)); and
+(E)
+an electric utility, includingâ
+(i)
+a rural electric cooperative;
+(ii)
+a municipally owned electric utility; and
+(iii)
+an investor-owned utility.
+(3)
+Selection requirements
+In selecting eligible entities to receive a grant under this section, the Secretary shall, to the maximum extent practicableâ
+(A)
+ensure regional diversity among eligible entities that receive the grants, including participation by rural States and small States;
+(B)
+ensure that specific projects selected for grantsâ
+(i)
+expand on the existing technology demonstration and deployment programs of the Department of Energy; and
+(ii)
+are designed to achieve one or more of the objectives described in paragraph (4); and
+(C)
+prioritize projects from eligible entities that do not have an energy storage system.
+(4)
+Objectives
+Each demonstration and deployment project selected for a grant under paragraph (1) shall include one or more of the following objectives:
+(A)
+To improve the security of critical infrastructure and emergency response systems.
+(B)
+To improve the reliability of the transmission and distribution system, particularly in rural areas, including high energy cost rural areas.
+(C)
+To optimize transmission or distribution system operation and power quality to defer or avoid costs of replacing or upgrading electric grid infrastructure, including transformers and substations.
+(D)
+To supply energy at peak periods of demand on the electric grid or during periods of significant variation of electric grid supply.
+(E)
+To reduce peak loads of homes and businesses, particularly to defer or avoid investments in new electric grid capacity.
+(F)
+To advance power conversion systems to make the systems smarter, more efficient, able to communicate with other inverters, and able to control voltage.
+(G)
+To provide ancillary services for grid stability and management.
+(H)
+To meet electricity demand during nonpeak generation periods to make better use of existing grid assets.
+(I)
+To integrate a renewable energy resource production source at the source or away from the source.
+(J)
+To increase the feasibility of microgrids or islanding.
+(5)
+Restriction on use of funds
+Any eligible entity that receives a grant under paragraph (1) may only use the grant to fund programs relating to the demonstration and deployment of energy storage systems in households, businesses, and communities.
+(6)
+Funding limitations
+(A)
+Federal cost share
+The Federal cost share of a project carried out with a grant under paragraph (1) shall be not more than 50 percent of the total costs incurred in connection with the development, construction, acquisition of components for, or engineering of a demonstration project.
+(B)
+Maximum grant
+The maximum amount of a grant awarded under paragraph (1) shall be $5,000,000.
+(7)
+No ownership interest
+The United States shall hold no equity or other ownership interest in an energy storage system for which a grant is provided under paragraph (1).
+(8)
+Comparable wage rates
+Each laborer and mechanic employed by a contractor or subcontractor in performance of construction work financed, in whole or in part, by the grant shall be paid wages at rates not less than the rates prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with subchapter IV of
+chapter 31
+of title 40, United States Code.
+(b)
+Rules and procedures; awarding of grants
+(1)
+Rules and procedures
+Not later than 180 days after the date of enactment of this Act, the Secretary shall adopt rules and procedures for carrying out the grant program under subsection (a).
+(2)
+Awarding of grants
+Not later than 1 year after the date on which the rules and procedures under paragraph (1) are established, the Secretary shall award the initial grants provided under this section.
+(c)
+Reports
+The Secretary shall submit to Congress and make publicly availableâ
+(1)
+not less frequently than once every 2 years for the duration of the grant program under subsection (a), a report describing the performance of the grant program, including a synthesis and analysis of any information the Secretary requires grant recipients to provide to the Secretary as a condition of receiving a grant; and
+(2)
+on termination of the grant program under subsection (a), an assessment of the success of, and education provided by, the measures carried out by grant recipients under the grant program.
+(d)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section $150,000,000 for the period of fiscal years 2018 through 2022, to remain available until expended.

@@ -1,0 +1,448 @@
+1.
+Short title
+This Act may be cited as the
+Connecting Hard-to-reach Areas with Renewably Generated Energy Act of 2022
+or the
+CHARGE Act of 2022
+.
+2.
+Findings
+Congress finds thatâ
+(1)
+current transmission planning is fractured across many jurisdictions, prioritizes incumbent entities and highly localized transmission, and fails to identify cost-effective solutions for 21st century needs;
+(2)
+the historical structure, regulations, and incentives of the electric power system lead to under-planning and under-investment in the regional and interregional transmission lines that are needed for a reliable and resilient grid;
+(3)
+much of the existing transmission infrastructure of the United States is in need of significant upgrade or replacement;
+(4)
+the energy sector of the United States is at a critical juncture, with a rapidly changing power generation mix and new public policy mandates;
+(5)
+it is imperative to proactively plan for electricity transmission in the future, including by taking into account long-term changes to demand and load growth;
+(6)
+renewable energy resources must be incorporated into the grid efficiently in order to meet State and Federal decarbonization goals;
+(7)
+the public desires, and has a right to, electricity data that is transparent, organized, and accessible;
+(8)
+having reliable and diverse sources of electricity generation is a foundational need for the entire economy;
+(9)
+climate change has increased the frequency and intensity of severe weather events that affect the grid;
+(10)
+it is in the national interest to implement policies that provide effective electric infrastructure to save consumers money, avoid preventable damage, ensure energy reliability, and save lives;
+(11)
+the Federal Government has a responsibility to combat rising transmission costs and ensure customers receive just and reasonable rates for electricity; and
+(12)
+industry experience, scientific studies, and modern examples of reformed electricity transmission provide confidence that new public policies and regulatory guidance will achieve more efficient and beneficial planning than the status quo.
+3.
+Definitions
+In this Act:
+(1)
+Commission
+The term
+Commission
+means the Federal Energy Regulatory Commission.
+(2)
+Independent System Operator
+The term
+Independent System Operator
+has the meaning given the term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).
+(3)
+Interconnection customer
+The term
+interconnection customer
+means an individual or entity that has submitted to the owner or operator of a transmission facility or transmission system a request to interconnect a generation project or energy storage project that is subject to the jurisdiction of the Commission.
+(4)
+Interregional transmission planning process
+The term
+interregional transmission planning process
+means a joint process by transmission providers in 2 or more adjacent transmission planning regions to evaluate electric energy transmission needs.
+(5)
+Load-serving entity
+The term
+load-serving entity
+has the meaning given the term in section 217(a) of the Federal Power Act (
+16 U.S.C. 824q(a)
+).
+(6)
+Pricing node
+The term
+pricing node
+means a specific electrical bus location on the grid where an injection or withdrawal of power is modeled.
+(7)
+Regional Transmission Organization
+The term
+Regional Transmission Organization
+has the meaning given the term in section 3 of the Federal Power Act (
+16 U.S.C. 796
+).
+(8)
+Transmission facility
+The term
+transmission facility
+means a facility that is used for the transmission of electric energy in interstate commerce.
+(9)
+Transmission planning region
+The term
+transmission planning region
+means a region for which electric energy transmission planning is appropriate, as determined by the Commission, such as a region established pursuant to the guidance in the final rule of the Commission entitled
+Transmission Planning and Cost Allocation by Transmission Owning and Operating Public Utilities
+(76 Fed. Reg. 49842 (August 11, 2011)).
+(10)
+Transmission provider
+The term
+transmission provider
+means a public utility (as defined in section 201(e) of the Federal Power Act (
+16 U.S.C. 824(e)
+)) that owns, operates, or controls 1 or more transmission facilities.
+4.
+Transmission planning and cost allocation
+(a)
+Rulemaking
+Not later than 18 months after the date of enactment of this Act, the Commission shall promulgate a final rule that establishes transmission planning processes and cost-allocation processes thatâ
+(1)
+ensure that transmission providersâ
+(A)
+engage in formalized interregional transmission planning processes and interconnection-wide transmission planning processes, in conjunction with transmission planning processes within transmission planning regions;
+(B)
+harmonize interregional transmission planning processes and interconnection-wide transmission planning processes with other transmission planning regions, such as by using a joint model on a consistent timeline with a unified set of minimum requirements regarding needs, input assumptions, and benefit metrics;
+(C)
+include as part of planning and cost-allocation processes the use of grid-enhancing transmission technologies and nontransmission alternatives that increase delivery of power over transmission networks, including, at a minimumâ
+(i)
+dynamic line ratings;
+(ii)
+topology optimization;
+(iii)
+power flow control;
+(iv)
+advanced conductors; and
+(v)
+storage-as-transmission;
+(D)
+conduct interregional and interconnection-wide planning regularly and not less frequently than once every 3 years;
+(E)
+conduct system-wide planning based on a range of possible future load and generation scenarios; and
+(F)
+are required to incorporate in a transmission planning process the full scope of benefits of transmission investment, including, at a minimumâ
+(i)
+reduced costs of electric energy to customers, including reduced costs associated with lower quantities of necessary capacity, ancillary services, and reserve margins;
+(ii)
+access to resources in neighboring transmission planning regions;
+(iii)
+the transmission of renewable energy or the ability of renewable energy to connect to the grid;
+(iv)
+improvements in reliability, resilience, and flexibility of the grid, including, at a minimumâ
+(I)
+reduced loss of load probability;
+(II)
+increased resource diversity;
+(III)
+increased climate hardening; and
+(IV)
+increased ability to maintain functionality during regionally appropriate weather conditions and severe weather scenarios;
+(v)
+leveraging resources across climatological patterns or time zones to account for resource availability and weather patterns;
+(vi)
+avoidance, to the maximum extent practicable, of sensitive environmental areas and cultural heritage sites;
+(vii)
+reasonable and economical use of existing rights-of-way;
+(viii)
+market facilitation benefits, including, at a minimum, increased competitiveness, liquidity, and integrity of broader geographic markets;
+(ix)
+avoided costs and deferred cost savings, including reduced generation costs and reduced future transmission investment costs;
+(x)
+the integration of grid-enhancing technologies;
+(xi)
+meeting local, State, and Federal policy goals, including goals established in decarbonization, climate, and clean energy laws (including regulations);
+(xii)
+protections to maintain just and reasonable rates for customers; and
+(xiii)
+any other production costs savings or other economic benefits from proposed transmission projects;
+(2)
+require that regional and interregional cost-allocation methodologies allocate costs on the basis of the multiple benefits described in clauses (i) through (xiii) of paragraph (1)(F);
+(3)
+incorporate a 10- to 20-year future resource mix for each load-serving entity and State, which may require a load-serving entity to make publicly available the resource plans of the load-serving entity if, in the determination of the Commission, those plans are not adequately described in publicly stated plans in Securities and Exchange Commission filings, State agency filings, and power purchase contracts;
+(4)
+prioritize interregional cost-benefit considerations over regional cost-benefit considerations;
+(5)
+require transmission providers to maximize the use of portfolio-based cost allocations;
+(6)
+in cases in which costs and benefits are difficult to quantify, may allocate transmission investment costs among transmission system customers in proportion toâ
+(A)
+in the case of regional projects, the share of electricity of each customer in the region; or
+(B)
+in the case of interregional projects, the share of electricity of each customer in each applicable region; and
+(7)
+to the extent practicable, prevent transmission providers from using cost-allocation methodologies thatâ
+(A)
+discourage distributed generation, energy efficiency, demand response, or storage if more economic than transmission;
+(B)
+are constrained by consideration only of benefits that are easy to allocate; or
+(C)
+undermine previous cost-allocation agreements for projects already in operation.
+(b)
+Technical conference
+(1)
+In general
+As part of the rulemaking process under subsection (a), the Commission may convene a technical conference to consider implementation details, as the Commission determines to be appropriate.
+(2)
+Participation
+(A)
+Leadership
+A technical conference convened under paragraph (1) may be led by the members of the Commission.
+(B)
+Participation
+The Commission may invite to participate in a technical conference convened under paragraph (1) representatives of residential ratepayers, transmission providers, environmental justice and equity groups, Tribal communities, Independent System Operators, Regional Transmission Organizations, consumer protection groups, renewable energy advocates, State utility commission and energy offices, and such other entities as the Commission determines appropriate.
+(C)
+Timeline
+The Commission may establish and enforce a timeline for a technical conference convened under paragraph (1) that discourages actions by participants that may unnecessarily delay the conference.
+(3)
+Public comment
+The Commission may provide an opportunity for public comment on the topics considered by a technical conference convened under paragraph (1).
+(c)
+Office of Public Participation
+The Commission shall consult the Office of Public Participation during the rulemaking process under subsection (a), including with respect toâ
+(1)
+guidance on public participation requirements;
+(2)
+communications with the public concerning transmission planning that may impact local communities and land owners, including Tribal, indigenous, and environmental justice communities; and
+(3)
+minimum data transparency and access requirements.
+(d)
+Joint Federal-State Task Force on Electric Transmission
+The Commission may consult the Joint Federal-State Task Force on Electric Transmission in any actions thatâ
+(1)
+involve shared Federal and State regulatory authority and processes; or
+(2)
+would benefit from a combined Federal and State perspective.
+5.
+Interregional minimum transfer requirements
+(a)
+Electric reliability
+Section 215(i)(2) of the Federal Power Act (
+16 U.S.C. 824o(i)(2)
+) is amended by striking
+or transmission
+.
+(b)
+Rulemaking
+Not later than 18 months after the date of enactment of this Act, the Commission shall promulgate a final rule that establishes a minimum transfer capability thatâ
+(1)
+shall govern minimum transfer requirements between transmission planning regions;
+(2)
+achieves reliability and resilience standards during plausible extreme weather scenarios;
+(3)
+optimizes efficiency of delivering renewable energy to demand centers; and
+(4)
+incorporates the best available science relating to energy transmission, climatological patterns, climate change causes and impacts, grid reliability, and grid resiliency, including study results from the Department of Energy or National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+)).
+6.
+Data transparency
+Part II of the Federal Power Act (
+16 U.S.C. 824 et seq.
+) is amended by adding at the end the following:
+224.
+Data transparency
+(a)
+In general
+The Commission shall require all public utilities and other entities subject to the jurisdiction of the Commission to make hourly operating data transparent and accessible to the public, includingâ
+(1)
+as original source data posted in a timely manner; and
+(2)
+through coordination with an online database operated by the Administrator of the Energy Information Administration.
+(b)
+Data
+Data made publicly available under subsection (a) shallâ
+(1)
+be organized and easy to understand;
+(2)
+be centralized and provided in usable formats, including an application programming interface;
+(3)
+be available free of charge or at-cost;
+(4)
+be published in a timely manner;
+(5)
+include generation by fuel type; and
+(6)
+include average and hourly, or more frequent if technologically feasible, marginal greenhouse gas emissions per megawatt hour of electricity generated within the metered boundaries of each entity and for each pricing node.
+(c)
+Commercial products
+The Commission may identify and reduce regulatory barriers to the development of commercial products that use the data made publicly available under subsection (a) in order to provide verifiable emissions reductions, including short- and long-term nodal congestion products.
+(d)
+Appropriation
+In addition to amounts otherwise made available to the Administrator of the Energy Information Administration, there is appropriated to the Administrator of the Energy Information Administration for fiscal year 2023, out of any funds in the Treasury not otherwise appropriated, $10,000,000 to develop and operate the database described in subsection (a)(2), to remain available until expended.
+.
+7.
+Promoting competition for generation
+Part II of the Federal Power Act (
+16 U.S.C. 824 et seq.
+) (as amended by section 6) is amended by adding at the end the following:
+225.
+Due regard for fair competition
+(a)
+In general
+In order to effectively protect against the exercise of market power through affiliate abuse, the Commission shall require that any new generation described in subsection (b) is procured through a competitive process and without any right of first refusal for an incumbent utility, subject to subsection (c).
+(b)
+New generation described
+The new generation referred to in subsection (a) is new generation that isâ
+(1)
+above a Commission-determined size threshold;
+(2)
+above a Commission-determined cost materiality threshold; and
+(3)
+ultimately used to sell power in interstate commerce.
+(c)
+Exemption
+New generation that is procured through a process administered by a Regional Transmission Organization or an Independent System Operator is exempted from the requirements of subsection (a).
+.
+8.
+State subsidies
+Part II of the Federal Power Act (
+16 U.S.C. 824 et seq.
+) (as amended by section 7) is amended by adding at the end the following:
+226.
+State subsidies
+In order to promote competition in wholesale markets, reliability, and affordability, the Commission shall not use price mitigation methods to counteract the effects of State subsidies for renewable energy resources.
+.
+9.
+Office of Transmission
+Part III of the Federal Power Act is amended by inserting after section 317 (
+16 U.S.C. 825p
+) the following:
+318.
+Office of Transmission
+(a)
+Establishment
+There shall be established in the Commission an office, to be known as the
+Office of Transmission
+(referred to in this section as the
+Office
+).
+(b)
+Director
+The Office shall be administered by a Director, who shall be appointed by the Chairman of the Commission.
+(c)
+Duties
+The Director of the Office shallâ
+(1)
+review transmission plans submitted by public utilities in accordance with the regional and interregional transmission planning processes, including the processes established pursuant to section 206;
+(2)
+coordinate transmission-related matters of the Commission, as the Commission determines appropriate;
+(3)
+carry out the responsibilities of the Commission under section 216, in coordination with the Office of Energy Projects of the Commission;
+(4)
+review opportunities for innovation in transmission planning and operation, including deployment of grid-enhancing technologies, advanced conductors, and other approaches; and
+(5)
+provide oversight of interregional transmission planning activities.
+.
+10.
+Interconnection
+Not later than 1 year after the date of enactment of this Act, the Commission shall promulgate regulations, or revise existing regulationsâ
+(1)
+to prohibit a public utility from requiring an interconnection customer to exclusively or disproportionately fund, without reimbursement, the costs of any network upgrade identified as necessary for the interconnect request of the interconnection customer;
+(2)
+to encourage cost-sharing models that reflect the broad set of benefits and beneficiaries for any network upgrades identified as needed in an interconnection or affected system study, subject to the requirement that the model adheres to any requirements established under paragraph (1); and
+(3)
+to alleviate interconnection backlogs and reduce informational and procedural barriers in interconnection, which may includeâ
+(A)
+the establishment of an interconnection analysis center within the Office of Transmission established under section 318 of the Federal Power Act; and
+(B)
+consultation with staff and the use of other resources of the Department of Energy.
+11.
+Independent transmission monitor
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, for the purpose of monitoring the planning and operation of transmission facilities in transmission planning regions, the Commission shallâ
+(1)
+(A)
+require each transmission planning region to establish an independent entity to monitor the planning and operation of transmission facilities in the transmission planning region; and
+(B)
+establish a council, to be known as the
+Council of Transmission Monitors
+â
+(i)
+to provide oversight of each independent entity established pursuant to subparagraph (A); and
+(ii)
+to ensure interregional collaboration and consistency; or
+(2)
+establish an independent entity to monitor the planning and operation of transmission facilities in all transmission planning regions.
+(b)
+Role of transmission monitor
+An independent entity described in paragraph (1)(A) or (2) of subsection (a) shall, as applicableâ
+(1)
+review the operation of applicable transmission planning regions for inefficiency and practices that may lead to unjust and unreasonable rates;
+(2)
+review transmission planning processes;
+(3)
+review costs of transmission facilities, including identifying inefficiencies among local, regional, and interregional planning;
+(4)
+provide examples and advice to transmission providers on appropriate regional transmission operations, planning, and cost-allocation processes; and
+(5)
+identify situations in which, with respect to a transmission planning processâ
+(A)
+nonwire alternatives may be more cost-effective than transmission;
+(B)
+grid-enhancing technologies may be appropriate; or
+(C)
+high-capacity, interregional lines may beâ
+(i)
+more cost-effective; or
+(ii)
+a more appropriate reliability and resilience alternative.
+12.
+Advisory committee
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, the Commission shall establish an advisory committee (referred to in this section as the
+committee
+) to make recommendations onâ
+(1)
+oversight and governance of Independent System Operators or Regional Transmission Organizations;
+(2)
+stakeholder participation best practicesâ
+(A)
+that ensure transparency, accountability, independence, oversight, and fair representation; and
+(B)
+the purpose of which are to promote competition, reliability, and affordability in all transmission planning regions;
+(3)
+enhancing transparency and open decisionmaking in regions not classified as Independent System Operators or Regional Transmission Organizations; and
+(4)
+the requirements of governing boards within Independent System Operators or Regional Transmission Organizations.
+(b)
+Representation
+The committee shall be composed of not more than 30 members, includingâ
+(1)
+at least 2 representatives of end-use customers;
+(2)
+at least 1 representative of transmission providers;
+(3)
+at least 2 representatives of environmental justice and equity groups;
+(4)
+at least 1 representative of Tribal communities;
+(5)
+at least 1 representative of Independent System Operators;
+(6)
+at least 1 representative of Regional Transmission Organizations;
+(7)
+at least 1 representative of consumer protection groups;
+(8)
+at least 2 representatives of renewable energy advocates;
+(9)
+at least 1 representative of State commissions;
+(10)
+at least 1 representative of public power entities;
+(11)
+at least 1 representative of marketers; and
+(12)
+at least 1 representative of generators.
+(c)
+FACA applicability
+The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the committee.
+13.
+Appropriations
+In addition to amounts otherwise available, there is appropriated to the Commission for fiscal year 2023, out of any funds in the Treasury not otherwise appropriated, $200,000,000, to remain available until expended, to carry outâ
+(1)
+sections 4, 5, and 10; and
+(2)
+the amendment made by section 9.

@@ -1,0 +1,438 @@
+1.
+Short title
+This Act may be cited as
+Sammyâs Law
+.
+2.
+Definitions
+In this Act:
+(1)
+Child
+The term
+child
+means any individual whoâ
+(A)
+has not attained 17 years of age; and
+(B)
+has registered an account with a large social media platform.
+(2)
+Commerce
+The term
+commerce
+has the meaning given such term in section 4 of the Federal Trade Commission Act (
+15 U.S.C. 44
+).
+(3)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(4)
+Covered nation
+The term
+covered nation
+has the meaning given such term in section 4872(f) of title 10, United States Code.
+(5)
+Large social media platform
+The term
+large social media platform
+â
+(A)
+means a serviceâ
+(i)
+provided through an internet website or a mobile application;
+(ii)
+the terms of service of which do not prohibit the use of the service by a child;
+(iii)
+with any feature that enables a child to share images, text, or video through the internet with other users of the service whom such child has met, identified, or become aware of solely through the use of the service; and
+(iv)
+that has more than 100,000,000 monthly global active users or generates more than $1,000,000,000 in gross revenue per year, adjusted yearly for inflation; and
+(B)
+does not includeâ
+(i)
+a service that primarily servesâ
+(I)
+to facilitateâ
+(aa)
+the sale or provision of a professional service; or
+(bb)
+the sale of a commercial product; or
+(II)
+to provide news or information in a manner in which a user of the service may not send any content directly to a child through such service; or
+(ii)
+a service thatâ
+(I)
+has a feature that enables a user who communicates directly with a child through a message (including images, text, audio, or video messages) to add to such message other users that such child may have met, identified, or become aware of solely through the use of the service; and
+(II)
+does not have any feature described in subparagraph (A)(iii).
+(6)
+Large social media platform provider
+The term
+large social media platform provider
+means any person who, for commercial purposes in or affecting commerce, provides, manages, operates, owns, or controls a large social media platform.
+(7)
+Parent
+The term
+parent
+means, with respect to a child, the parent or legal guardian of such child.
+(8)
+Sale
+The term
+sale
+, with respect to user dataâ
+(A)
+means the exchange of user data for monetary consideration; and
+(B)
+does not include the disclosure of user data by a third-party safety software provider to a processor or service provider that processes user data on behalf of the third-party safety software provider.
+(9)
+State
+The term
+State
+means each of the 50 States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.
+(10)
+Third-party safety software provider
+The term
+third-party safety software provider
+means any person who, for commercial purposes in or affecting commerceâ
+(A)
+is authorized to interact with a relevant large social media platform to manage the online interactions, content, or account settings of a child for the sole purpose of protecting the child from harm, including physical or emotional harm; and
+(B)
+has received such authorization from the child, or in the case of a child who has not attained 13 years of age, the parent of such child.
+(11)
+User data
+The term
+user data
+means any information reasonably necessary for a user to have a profile or submit content on a large social media platform (including any image, text, audio, or video) that is created by or sent to a child through the account of the child on such platform, but onlyâ
+(A)
+if the information or content is created by or sent to the child while a delegation under section 3(a)(1)(A) is in effect with respect to the account; and
+(B)
+during a 30-day period beginning on the date on which the information or content is created by or sent to such child.
+3.
+Providing access to third-party safety software providers
+(a)
+Obligations of large social media platform providers
+(1)
+Availability of application programming interfaces
+(A)
+In general
+Not later than the date described in subparagraph (B), a large social media platform provider shall create, maintain, and make available to a third-party safety software provider registered with the Commission under subsection (b)(3) a set of third-party-accessible real-time application programming interfaces, including any information necessary to use such interfaces, by which a child (or, in the case of a child who has not attained 13 years of age, a parent of the child) may delegate permission to the third-party safety software provider toâ
+(i)
+manage any online interaction with or content created by or sent to the child, as well as the account settings of the child on the large social media platform in the same manner as is available to the child; and
+(ii)
+initiate a secure transfer of user data from the large social media platform in a commonly used and machine-readable format to the third-party safety software provider, where the frequency of such transfers may not be limited by the large social media platform provider to less than once per hour.
+(B)
+Date described
+For purposes of subparagraph (A), the date described in this subparagraph isâ
+(i)
+in the case of a service that is a large social media platform on the date of enactment of this Act, 180 days after such date; or
+(ii)
+in the case of a service that becomes a large social media platform after such date of enactment, not later than 30 days after the date on which such service becomes a large social media platform.
+(2)
+Revocation
+Once a child or parent makes a delegation under paragraph (1)(A), the large social media platform provider shall make the application programming interfaces and information described in such paragraph available to the relevant third-party safety software provider on an ongoing basis untilâ
+(A)
+the child or a parent, as applicable, revokes the delegation;
+(B)
+the child or a parent, as applicable, revokes or disables the registration of the account of such child with the large social media platform;
+(C)
+the third-party safety software providerâ
+(i)
+rejects the delegation;
+(ii)
+receives notice thatâ
+(I)
+the parent of such child who made the delegation no longer has legal parental rights over such child; or
+(II)
+a temporary arrangement has been put in place by a court or legal authority regarding the custody of such child; or
+(iii)
+is deregistered by the Commission; or
+(D)
+the child attains the age of 17 years old.
+(3)
+Data security
+(A)
+In general
+A large social media platform provider shall establish, implement, and maintain reasonable policies, practices, and procedures to protectâ
+(i)
+the confidentiality, integrity, and accessibility of user data transferred from the large social media platform provider to a third-party safety software provider pursuant to a delegation under paragraph (1)(A); and
+(ii)
+any such user data against unauthorized access.
+(B)
+Scope
+The policies, practices, and procedures required by subparagraph (A) shall beâ
+(i)
+consistent with state-of-the-art administrative, technical, and physical safeguards for protecting transferred user data; and
+(ii)
+appropriate to the nature, scope, and volume of such user data.
+(4)
+Disclosure
+In the case of a delegation made by a child or a parent, as applicable, under paragraph (1)(A), with respect to the account of such child with a large social media platform, the large social media platform provider shallâ
+(A)
+disclose to such child or parent, as applicable, such delegation;
+(B)
+provide to such child or parent, as applicable, a summary of any user data transferred to a third-party safety software provider; and
+(C)
+update such summary as necessary to reflect any change to such user data.
+(5)
+Limitation
+Any management by a third-party safety software provider pursuant to paragraph (1)(A)(i) shall be limited to such management that protects a child from harm, including any such management related to the optimization of any privacy setting on an account of the child, stated user age, and marketing settings for the account.
+(6)
+User control
+(A)
+In general
+If a large social media platform uses a messaging feature or service that provides security features that give a user control over access to the content of any communication of the user in a manner that renders the access of the large social media platform to such content technically infeasible without overriding such control, then the following shall apply:
+(i)
+The large social media platform may not be required to grant a third-party safety software provider access to such content through a set of third-party-accessible real-time application programming interfaces under paragraph (1)(A).
+(ii)
+The large social media platform, upon a delegation under paragraph (1)(A), shallâ
+(I)
+make available and maintain a technical interface that enables contemporaneous transmission of such communication to a third-party safety software providerâ
+(aa)
+registered under subsection (b)(3); and
+(bb)
+selected by the child or parent, as applicable, as a user-designated recipient;
+(II)
+maintain such security features without altering, bypassing, or overriding such features;
+(III)
+permit the communicating users (and any user-designated recipient) to access the content through such interface; and
+(IV)
+not gain access to the content of such communication.
+(B)
+Rule of construction
+Nothing in this paragraph may be construed to limit the obligations of a large social media platform under this Act with respect to user data other than the content of communications described in this paragraph.
+(b)
+Third-Party safety software providers
+(1)
+Protection of user data
+A third-party safety software provider shallâ
+(A)
+limit any collection, maintenance, and processing of user data the third-party safety software provider obtains pursuant to this Act to what is adequate, relevant, and reasonably necessary for the purposes for which the user data is collected, maintained, or processed, or disclosed to a parent under subsection (d)(1)(C);
+(B)
+establish, implement, and maintain reasonable policies, practices, and procedures (that are consistent with state-of-the-art administrative, technical, and physical safeguards related to protecting transferred user data and appropriate to the nature, scope, and volume of such user data) to protectâ
+(i)
+the confidentiality, integrity, and accessibility of the user data received from a large social media platform pursuant to this Act; and
+(ii)
+the user data received from a large social media platform pursuant to this Act against unauthorized access; and
+(C)
+upon any revocation described in subsection (a)(2), delete the user data of the child within 5 days.
+(2)
+Prohibition on sale
+A third-party safety software provider may not sell any user data collected, maintained, or processed pursuant to this Act.
+(3)
+Registration with the Commission
+A third-party safety software provider shall register with the Commission as a condition of accessing an application programming interface and any information under subsection (a). In order to complete such registration, the third-party safety software provider shall demonstrate the following to the satisfaction of the Commission:
+(A)
+The third-party safety software provider is not operated, directly or indirectly (including through a parent company, subsidiary, or affiliate), by a company operated or controlled by a covered nation.
+(B)
+Such software provider will collect, process, maintain, or otherwise use any user data obtained under subsection (a) for the sole purpose of protecting a child from harm in accordance with any applicable terms of service and the provisions of this Act.
+(C)
+Such software provider will only disclose user data obtained under subsection (a) as permitted by subsection (d).
+(D)
+Such software provider will not sell, disclose, process, store, transfer, or otherwise make available user data obtained under this Act to a government of a covered nation or to a company operated or controlled by a covered nation.
+(E)
+(i)
+Such software provider will delete any user data obtained under this Act as soon as possibleâ
+(I)
+but not later than 5 days after receiving such data from a large social media platform; and
+(II)
+not including any data the software provider discloses under subsection (d).
+(ii)
+For any data disclosed under subsection (d)(1)(C), such software provider will maintain such data untilâ
+(I)
+the child or parent who made a delegation under subsection (a)(1)(A), and whose data is at issue, requests that the third-party safety software provider delete such data;
+(II)
+the child attains 17 years of age; or
+(III)
+the third-party safety software provider is deregistered by the Commission.
+(iii)
+In the event that the child or parent who made a delegation under subsection (a)(1)(A) revokes the delegation, such software provider will delete all applicable user data not later than 15 days after the date of such revocation.
+(F)
+Such software provider will disclose, in an easy-to-understand, human-readable format, to each child with respect to whose account with a large social media platform the service of the third-party safety software provider is operating and (if a parent made the delegation under subsection (a)(1)(A) with respect to the account) to the parent, sufficient information detailing the operation of the service and what information the software provider is collecting to enable such child or parent, as applicable, to make informed decisions regarding the use of the service.
+(G)
+Such software provider will disclose, in an easy-to-understand format to each child or parent who made a delegation under subsection (a)(1)(A) notice of any material changes in how the third-party safety software provider provides services.
+(H)
+Such software provider is able to provide services in accordance with any applicable terms of service and any relevant disclosures made to any consumer, including by ensuring such terms and disclosures are clear and conspicuous and are written in plain and easy-to-understand English.
+(I)
+Such software provider has established, implemented, and maintained reasonable policies, practices, and procedures to protect the confidentiality, integrity, and accessibility of any user data collected or processed pursuant to this Act and that the policies, practices, and procedures are appropriate to ensure a level of security appropriate to the risk to such user data, the cost of implementing such policies, practices, and procedures, and the nature, scope, and volume of such user data.
+(J)
+Such software provider assesses compliance with applicable Federal law, including the requirements of this Act.
+(K)
+Such software provider is in compliance with the requirements of this Act.
+(4)
+Annual audit
+(A)
+Audit process; audit report
+For each year or partial year during which a third-party safety software provider is registered with the Commission under paragraph (3), the third-party safety software provider shall retain the services of a qualified independent auditing firm to complete an annual audit and write an audit report (which shall be exempt from disclosure under section 552(b)(3) of title 5, United States Code) that includesâ
+(i)
+a review and assessment of such registration and any subsequent written reports, including whether the third-party safety software provider has remained in compliance with the conditions described in paragraph (3); and
+(ii)
+an identification of whether the third-party safety software provider has made any material changes in how the third-party safety software provider provides services, and in the event of any such material changesâ
+(I)
+an explanation as to how such changes have impacted users; and
+(II)
+any information relating to whether such users were notified of the material change at the time the material change was implemented.
+(B)
+Submission to the Commission
+Not later than 30 days after the date on which an audit report is written under subparagraph (A), a third-party safety software provider shall submit to the Commissionâ
+(i)
+a full copy of such audit report; and
+(ii)
+a summary of such audit report that may contain redactions to protect the confidential business information and trade secrets of the third-party safety software provider.
+(C)
+Audit review by the Commission
+The Commission shallâ
+(i)
+review each audit report submitted by a third-party safety software provider under subparagraph (B)(i) to verify compliance with the requirements of this Act;
+(ii)
+make a copy of the summary of such audit report submitted under subparagraph (B)(ii) available to the public; and
+(iii)
+in the event an audit required under subparagraph (A) detects an unusual finding, and prior to any adverse action taken by the Commission under paragraph (5), direct a third-party safety software provider to promptly investigate and resolve the matter.
+(5)
+Additional oversight of third-party safety software providers
+In addition to the jurisdiction, powers, and duties of the Commission otherwise provided under this Act and any other provision of law, the Commission may take an adverse action against a third-party safety software provider, including byâ
+(A)
+denying registration of the third-party safety software provider under paragraph (3);
+(B)
+permanently deregistering the third-party safety software provider; and
+(C)
+suspending the registration of the third-party safety software provider due to a finding by the Commission of a material risk to the security of the data or safety of the public, including forâ
+(i)
+willful misconduct or gross negligence by the third-party safety software provider;
+(ii)
+a material misrepresentation made by a third-party safety software provider to the Commission or to any consumer;
+(iii)
+failure by the third-party safety software provider to comply with any requirements of this Act or failure to operate in accordance with the affirmations, assertions, representations, or terms of any security review, audit, terms of services, or consumer disclosures; or
+(iv)
+failure by the third-party safety software provider to respond to an unusual finding in an annual audit completed under paragraph (4).
+(6)
+Rights of third-party safety software providers
+(A)
+In general
+In the event the Commission takes an adverse action against a third-party safety software provider under paragraph (5), the Commission shall give the third-party safety software provider the opportunity toâ
+(i)
+appeal such adverse action; and
+(ii)
+remediate any deficiency described in an annual audit completed under paragraph (4) within 45 days (if the third-party safety software provider demonstrates the third-party safety software provider has remediated any such deficiency and has taken satisfactory action to ensure such deficiency shall not reoccur), except in the case of a finding ofâ
+(I)
+willful misconduct;
+(II)
+gross negligence; or
+(III)
+a demonstrated history of multiple failures in relation to the types of material risk described in paragraph (5)(C).
+(B)
+Exception
+The rights described in subparagraph (A) shall not prevent the Commission from suspending the registration of a third-party safety software provider to protect the public from ongoing material risk for the period during which the third-party safety software provider is in the process of exercising such rights.
+(c)
+Indemnification
+In any civil action in Federal or State court (other than an action brought by the Commission), a large social media platform provider may not be held liable for damages arising from transferring user data to a third-party safety software provider under subsection (a) if the large social media platform provider has complied with the requirements of this Act in good faith.
+(d)
+User data disclosure
+(1)
+Permitted disclosures
+A third-party safety software provider may not disclose any user data obtained under subsection (a) to any other person, exceptâ
+(A)
+pursuant to a lawful request from a government body, including for law enforcement purposes or for judicial or administrative proceedings, by means of a court order or a court-ordered warrant, a subpoena or summons issued by a judicial officer, or a grand jury subpoena;
+(B)
+to the extent that such disclosure is required by law and such disclosure complies with and is limited to the relevant requirements of such law;
+(C)
+to a child who made a delegation under subsection (a)(1)(A) and whose data is at issue, the parent of such child, or to a parent who made such a delegation and whose child's data is at issue, with such third-party safety software provider making a good faith effort to ensure that such disclosure includes only the user data necessary for a reasonable parent to understand that such child is experiencing (or is at foreseeable risk to experience)â
+(i)
+suicide;
+(ii)
+anxiety;
+(iii)
+depression;
+(iv)
+an eating disorder;
+(v)
+violence, including being the victim of or planning to commit or facilitate assault;
+(vi)
+substance abuse;
+(vii)
+fraud;
+(viii)
+severe forms of trafficking in persons (as defined in section 103 of the Trafficking Victims Protection Act of 2000 (
+22 U.S.C. 7102
+));
+(ix)
+sexual abuse;
+(x)
+physical injury;
+(xi)
+harassment;
+(xii)
+sexually explicit conduct or child pornography (as such terms are defined in section 2256 of title 18, United States Code);
+(xiii)
+terrorism (as defined in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (
+22 U.S.C. 2656f(d)
+)), including communications with or in support of a foreign terrorist organization (as designated by the Secretary of State under section 219(a) of the Immigration and Nationality Act (
+8 U.S.C. 1189(a)
+)); or
+(xiv)
+the sharing of personal information, limited toâ
+(I)
+home address;
+(II)
+phone number;
+(III)
+social security number; and
+(IV)
+personal banking information;
+(D)
+in the case of a good faith determination that disclosure is necessary to prevent or lessen a reasonably foreseeable serious and imminent threat to the health or safety of any individual, if the disclosure is made to a person reasonably able to prevent or lessen the threat; or
+(E)
+to a public health authority or other appropriate government authority authorized by law to receive reports of child abuse or neglect.
+(2)
+Disclosure reporting
+A third-party safety software provider that makes a disclosure permitted by subparagraphs (A), (B), (D), or (E) of paragraph (1) shall promptly inform the child or parent who made a delegation under subsection (a)(1)(A) that such a disclosure has been or will be made, except if the third-party safety software providerâ
+(A)
+in the exercise of professional judgment, determines informing such child or parent would place such child at risk of serious harm; or
+(B)
+is prohibited by law (including through a valid order by a court or administrative body) from informing such child or parent.
+(3)
+Child exploitation
+Nothing in this Act shall be construed to relieve a third-party safety software provider or a large social media platform from their duty to report pursuant to section 2258A of title 18, United States Code.
+4.
+Implementation and enforcement
+(a)
+Enforcement
+(1)
+Unfair or deceptive acts or practices
+A violation of this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(2)
+Powers of the Commission
+(A)
+In general
+The Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+) were incorporated into and made a part of this Act.
+(B)
+Privileges and immunities
+Any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+).
+(3)
+Preservation of authority
+Nothing in this Act may be construed to limit the authority of the Commission under any other provision of law.
+(b)
+Compliance assessment
+The Commission, on a biannual basis, shall assess compliance by large social media platform providers with the provisions of this Act.
+(c)
+Complaints
+Not later than 180 days after the date of enactment of this Act, the Commission shall establish procedures under which a child (or the parent of such child), a large social media platform provider, or a third-party safety software provider may file a complaint alleging that a large social media platform provider or a third-party safety software provider has violated this Act.
+5.
+One national standard
+(a)
+In general
+No State or political subdivision of a State may maintain, enforce, prescribe, or continue in effect any law, rule, regulation, requirement, standard, or other provision having the force and effect of law of the State, or political subdivision of a State, related to requiring large social media platform providers to create, maintain, and make available to third-party safety software providers a set of real-time application programming interfaces for the purposes of child online safety, through which a child or a parent of a child may delegate permission to a third-party safety software provider to manage the online interactions, content, and account settings of such child on a large social media platform in the same manner as is available to the child.
+(b)
+Rule of construction
+This section may not be construed toâ
+(1)
+limit the enforcement of any consumer protection law of general applicability of a State or political subdivision of a State;
+(2)
+preempt the applicability of State trespass, contract, or tort law; or
+(3)
+preempt the applicability of any State law to the extent that the law relates to acts of fraud, unauthorized access to personal information, or notification of unauthorized access to personal information.

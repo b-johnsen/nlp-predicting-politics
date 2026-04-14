@@ -1,0 +1,21 @@
+1.
+Briefing on Department of Defense plan to transition away from Joint Regional Security Stacks
+(a)
+Findings
+Congress makes the following findings:
+(1)
+the Department of Defense faces aggressive timelines to meet zero trust goals by 2027 that align to its Zero Trust Strategy; and
+(2)
+a central part of this evolution will be the migration away from the legacy Joint Regional Security Stacks.
+(b)
+Sense of Congress
+It is the sense of Congress thatâ
+(1)
+it is paramount that the successor to the Joint Regional Security Stacks incorporates least privilege access, continuous trust verification, and continuous security inspection while protecting all data and securing all applications regardless of user location or device;
+(2)
+in order to achieve goals within the specified timelines of the Department of Defense, the military departments, combatant commands, and other components of the Department should leverage scalable, ILâ5 certified solutions that went through an open vendor selection process and comprehensive prototyping before production; and
+(3)
+if such components instead pursue their own bespoke solutions to this common need, they must plan to navigate the transition from the Joint Regional Security Stacks and certification timeline constraints without negatively affecting the resilience of the Department of Defense information networks.
+(c)
+Briefing
+Not later than 120 days after the date of the enactment of this Act, the Chief Information Officer of the Department of Defense and the Director of the Defense Information Systems Agency, shall jointly provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on the plan of the Department of Defense to transition away from the Joint Regional Security Stacks, with a focus on how legacy seats will gain access to zero trust-aligned continuous trust verification and security inspection regardless of user location or device.

@@ -1,0 +1,1223 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Support Technology and Research for Our Nationâs Growth and Economic Resilience Patents Act of 2018
+or the
+STRONGER Patents Act of 2018
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+TITLE IâSTRONGER Patents Act
+Sec. 101. Findings.
+Sec. 102. Inter partes review.
+Sec. 103. Post-grant review.
+Sec. 104. Composition of post-grant review and inter partes review panels.
+Sec. 105. Reexamination of patents.
+Sec. 106. Restoration of patents as property rights.
+Sec. 107. Elimination of USPTO fee diversion.
+Sec. 108. Infringement of patent.
+Sec. 109. Institutions of higher education.
+Sec. 110. Assisting small businesses in the U.S. patent system.
+TITLE IIâTargeting Rogue and Opaque Letters
+Sec. 201. Definitions.
+Sec. 202. Unfair or deceptive acts or practices in connection with the assertion of a United States
+patent.
+Sec. 203. Enforcement by Federal Trade Commission.
+Sec. 204. Preemption of State laws on patent demand letters and enforcement by State attorneys
+general.
+I
+STRONGER Patents Act
+101.
+Findings
+Congress finds thatâ
+(1)
+the patent property rights enshrined in the Constitution of the United States provide the foundation for the exceptional innovation environment in the United States;
+(2)
+strong patent rights encourage United States inventors to invest their resources in creating new inventions;
+(3)
+patent protection has led to patient cures, positive changes to the standard of living for all people in the United States, and improvements to the agricultural, telecommunications, and electronics industries, among others;
+(4)
+the United States patent system is an essential part of the country's economic success;
+(5)
+strong patent protection improves the chances of success for small companies and increases their chances of securing financing from investors;
+(6)
+intellectual property-intensive industries in the United States generate tens of millions of jobs for individuals in the United States;
+(7)
+intellectual property-intensive industries in the United States account for more than one-third of the country's gross domestic product;
+(8)
+in the highly competitive global economy, the United States needs to uphold strong patent protections to maintain its position as the worldâs premier innovative country;
+(9)
+Congress last enacted comprehensive reforms of the patent system just recently, in 2011;
+(10)
+unintended consequences of the comprehensive 2011 reform of patent laws are continuing to become evident, including the strategic filing of post-grant review proceedings to depress stock prices and extort settlements, the filing of repetitive petitions for inter partes and post-grant reviews that have the effect of harassing patent owners, and the unnecessary duplication of work by the district courts of the United States and the Patent Trial and Appeal Board;
+(11)
+the Judicial Conference of the United States has made significant revisions to rules governing pleadings and discovery in the Federal Rules of Civil Procedure, which took effect in December 2015;
+(12)
+the Supreme Court recently issued rulings in Octane Fitness, LLC v. Icon Health & Fitness, Inc., 134 S.Ct. 1749 (2014) and Highmark Inc. v. Allcare Health Management System, Inc., 134 S.Ct. 1744 (2014) that significantly reduced the burden on an alleged infringer to recover attorney fees from the patent owner, and increased the incidence of fees shifted to the losing party; and
+(13)
+efforts by Congress to reform the patent system without careful scrutiny create a serious risk of making it more costly and difficult for legitimate innovators to protect their patents from infringement, thereby weakening United States companies and the United States economy.
+102.
+Inter partes review
+(a)
+Claim construction
+Section 316(a) of title 35, United States Code, is amendedâ
+(1)
+in paragraph (9), by inserting after
+substitute claims,
+the following:
+including the standard for how substitute claims should be construed,
+;
+(2)
+in paragraph (12), by striking
+; and
+and inserting a semicolon;
+(3)
+in paragraph (13), by striking the period at the end and inserting
+; and
+; and
+(4)
+by adding at the end the following new paragraph:
+(14)
+providing that for all purposes under this chapterâ
+(A)
+each challenged claim of a patent shall be construed as the claim would be construed under section 282(b) in an action to invalidate a patent, including by construing each challenged claim of the patent in accordance withâ
+(i)
+the ordinary and customary meaning of the claim as understood by a person having ordinary skill in the art to which the claimed invention pertains; and
+(ii)
+the prosecution history pertaining to the patent; and
+(B)
+if a court has previously construed a challenged claim of a patent or a challenged claim term in a civil action to which the patent owner was a party, the Office shall consider that claim construction.
+.
+(b)
+Burden of proof
+Section 316(e) of title 35, United States Code, is amended to read as follows:
+(e)
+Evidentiary standards
+(1)
+Presumption of validity
+The presumption of validity under section 282(a) shall apply to a previously issued claim that is challenged during an inter partes review under this chapter.
+(2)
+Burden of proof
+In an inter partes review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability of a previously issued claim by clear and convincing evidence.
+.
+(c)
+Standing
+Section 311 of title 35, United States Code, is amended by adding at the end the following new subsection:
+(d)
+Persons that may petition
+(1)
+Definition
+In this subsection, the term
+charged with infringement
+means a real and substantial controversy regarding infringement of a patent exists such that the petitioner would have standing to bring a declaratory judgment action in Federal court.
+(2)
+Necessary conditions
+A person may not file with the Office a petition to institute an inter partes review of a patent unless the person, or a real party in interest or privy of the person, has beenâ
+(A)
+sued for infringement of the patent; or
+(B)
+charged with infringement under the patent.
+.
+(d)
+Limitation on reviews
+Section 314(a) of title 35, United States Code, is amended to read as follows:
+(a)
+Threshold
+(1)
+Likelihood of prevailing
+Subject to paragraph (2), the Director may not authorize an inter partes review to be instituted unless the Director determines that the information presented in the petition filed under section 311 and any response filed under section 313 shows that there is a reasonable likelihood that the petitioner would prevail with respect to at least one of the claims challenged in the petition.
+(2)
+Previous institution
+The Director may not authorize an inter partes review to be instituted on a claim challenged in a petition if the Director has previously instituted an inter partes review or post-grant review with respect to that claim.
+.
+(e)
+Appeals from institution decisions
+Section 314 of title 35, United States Code, is amended by striking subsection (d) and inserting the following:
+(d)
+No appeal
+A determination by the Director not to institute an inter partes review under this section shall be final and nonappealable.
+(e)
+Interlocutory appeal
+(1)
+Right of appeal
+A determination by the Director to institute an inter partes review under this section may be appealed to the United States Court of Appeals for the Federal Circuit.
+(2)
+Timing
+A party shall file a notice of interlocutory appeal under paragraph (1) not later than 7 days after the date on which the Director enters the institution decision.
+(3)
+Limitation
+An interlocutory appeal filed under paragraph (1) may challenge the institution decision on any basis except for the determination made under section 314(a)(1).
+(4)
+Effect on proceedings
+An interlocutory appeal filed under paragraph (1) shall not stay proceedings in the inter partes review unless the Director or the United States Court of Appeals for the Federal Circuit so orders.
+(5)
+Decision
+An interlocutory appeal filed under paragraph (1) may be granted by the United States Court of Appeals for the Federal Circuit, which may include consideration of whetherâ
+(A)
+the institution decision appears to be in error and mere institution of the inter partes review presents a risk of immediate, irreparable injury to the patent owner;
+(B)
+the institution decision presents an unsettled and fundamental issue of law, important both to the specific proceeding and generally, that is likely to evade end-of-the-proceeding review; or
+(C)
+the institution decision is manifestly erroneous.
+.
+(f)
+Eliminating repetitive proceedings
+Section 315(e) of title 35, United States Code, is amended to read as follows:
+(e)
+Estoppel
+(1)
+Proceedings before the office
+A person petitioning for an inter partes review of a claim in a patent under this chapter, or the real party in interest or privy of the petitioner, may not petition for a subsequent inter partes review before the Office with respect to that patent on any ground that the petitioner raised or reasonably could have raised in the initial petition, unless, after the filing of the initial petition, the petitioner, or the real party in interest or privy of the petitioner, is charged with infringement of additional claims of the patent.
+(2)
+Civil actions and other proceedings
+A person petitioning for an inter partes review of a claim in a patent under this chapter that results in an institution decision under section 314, or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 (
+19 U.S.C. 1337
+) that the claim is invalid based on section 102 or 103 of this title, unless the invalidity argument is based on allegations that the claimed invention was in public use, on sale, or otherwise available to the public before the effective filing date of the claimed invention.
+.
+(g)
+Real party in interest
+(1)
+Clarification of definition
+Section 315 of title 35, United States Code, is amended by adding at the end the following new subsection:
+(f)
+Petitioner
+For purposes of this chapter, a person that directly or through an affiliate, subsidiary, or proxy, makes a financial contribution to the preparation for, or conduct during, an inter partes review on behalf of the petitioner shall be considered a real party in interest of the petitioner.
+.
+(2)
+Discovery of real party in interest
+Section 316(a)(5) of title 35, United States Code, is amended to read as follows:
+(5)
+setting forth standards and procedures for discovery of relevant evidence, including that such discovery shall be limited toâ
+(A)
+the deposition of witnesses submitting affidavits or declarations;
+(B)
+evidence identifying the petitioner's real parties in interest; and
+(C)
+what is otherwise necessary in the interest of justice;
+.
+(h)
+Priority of Federal court validity determinations
+(1)
+In general
+Section 315 of title 35, United States Code, as amended by subsections (f) and (g), is further amendedâ
+(A)
+by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; and
+(B)
+by inserting after subsection (b) the following new subsection:
+(c)
+Federal court validity determinations
+(1)
+Institution barred
+An inter partes review of a patent claim may not be instituted if, in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 (
+19 U.S.C. 1337
+), a court has entered a final judgmentâ
+(A)
+that decides the validity of the patent claim with respect to section 102 or 103; and
+(B)
+from which an appeal under section 1295 of title 28 may be taken, or from which an appeal under section 1295 of title 28 was previously available but is no longer available.
+(2)
+Stay of proceedings
+(A)
+In general
+If, in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 (
+19 U.S.C. 1337
+), a court has entered a final judgment that decides the validity of a patent claim with respect to section 102 or 103 and from which an appeal under section 1295 of title 28 may be taken, the Patent Trial and Appeal Board shall stay any ongoing inter partes review of that patent claim pending a final decision of the court or Commission, as applicable.
+(B)
+Termination
+If the validity of a patent claim described in subparagraph (A) is finally upheld by a court or the International Trade Commission, as applicable, the Patent Trial and Appeal Board shall terminate the inter partes review.
+.
+(2)
+Technical and conforming amendments
+Chapter 31
+of title 35, United States Code, is amendedâ
+(A)
+in section 315(b), by striking
+subsection (c)
+and inserting
+subsection (d)
+;
+(B)
+in section 316(a)â
+(i)
+in paragraph (11), by striking
+section 315(c)
+and inserting
+section 315(d)
+; and
+(ii)
+in paragraph (12), by striking
+section 315(c)
+and inserting
+section 315(d)
+; and
+(C)
+in section 317(a), by striking
+section 315(e)
+and inserting
+section 315(f)
+.
+(i)
+Amendment of claims
+(1)
+Inter partes review amendment practice
+Chapter 31
+of title 35, United States Code, is amended by inserting after
+section 316
+the following new section:
+316A.
+Inter partes review amendment practice
+(a)
+Actions permitted
+During an inter partes review instituted under this chapter, the patent owner may move to take one or more of the following actions with respect to any challenged patent claim being reviewed:
+(1)
+Cancel the claim.
+(2)
+Propose a reasonable number of substitute claims whose patentability will be adjudicated by the Patent Trial and Appeal Board in accordance with subsection (c).
+(3)
+Propose a reasonable number of substitute claims to be examined in an expedited inter partes review (in this section referred to as
+expedited IPR
+) reexamination in accordance with subsection (d).
+(b)
+Scope of claims
+An amendment to a patent under this section may not enlarge the scope of the claims of the patent or introduce new matter.
+(c)
+Amendment practice before the Patent Trial and Appeal Board
+(1)
+Patent ownerâs initial motion
+For each challenged claim for which the patent owner seeks to propose a reasonable number of substitute claims, the patent owner shall be required to make a prima facie showing that each substitute claimâ
+(A)
+responds to each ground of unpatentability on which the inter partes review was instituted;
+(B)
+meets the written description requirement under section 112(a); and
+(C)
+meets the requirement under subsection (b) of this section.
+(2)
+New evidence
+(A)
+Petitioner
+The petitioner may respond to the patent ownerâs initial motion under paragraph (1) by presenting new evidence.
+(B)
+Patent owner
+The patent owner shall have not less than 1 opportunity to respond to any new evidence presented under subparagraph (A).
+(3)
+Expedited patentability report
+(A)
+In general
+Upon the filing of a motion under paragraph (1), the Patent Trial and Appeal Board may order an expedited patentability report from a patent examiner on a substitute claim.
+(B)
+Contents of report
+In ordering an expedited patentability report, the Patent Trial and Appeal Board mayâ
+(i)
+order examination of any ground of patentability that is assessed by a patent examiner under chapter 12; and
+(ii)
+request a non-binding recommendation as to the patentability of a substitute claim.
+(C)
+Right of reply
+Any party to the inter partes review may file supplemental briefing, including new evidence, addressing the expedited patentability report.
+(D)
+Timing
+The production of the expedited patentability report shall be expedited.
+(E)
+Good cause
+The ordering of an expedited patentability report shall constitute good cause, for purposes of section 316(a)(11), to extend the 1-year period for the inter partes review.
+(4)
+Adjudication of patentability
+(A)
+No rebuttal
+A patent owner shall be entitled to a substitute claim if the prima facie showing required under paragraph (1) is not rebutted.
+(B)
+Additional evidence
+If additional evidence of record is presented, the patent owner shall be entitled to a substitute claim unless a preponderance of that evidence proves that the patent owner is not so entitled.
+(5)
+Patent Trial and Appeal Boardâs discretion to order expedited IPR reexamination
+Upon issuing a final written decision with respect to each challenged claim, the Patent Trial and Appeal Board may order an expedited IPR reexamination to be conducted under subsection (d)(2) to consider a substitute claim in lieu of issuing a final written decision on that claim.
+(6)
+Amendments to advance settlement
+The Patent Trial and Appeal Board may consider additional motions to amend upon the joint request of the petitioner and the patent owner to materially advance the settlement of a proceeding under section 317 if the patent owner makes the prima facie showing required under paragraph (1).
+(d)
+Amendment practice before a patent examiner
+(1)
+Motion to convert to expedited IPR examination
+(A)
+In general
+If the Director determines to institute an inter partes review on a challenged claim under section 314, a patent owner may, before any further substantive briefing on the patentability of an instituted claim, move to terminate the inter partes review in favor of an expedited IPR reexamination under paragraph (2) of this subsection.
+(B)
+Contents of motion
+A patent owner shall be required to show good cause for why an expedited IPR reexamination would further the goals of the patent system, including consideration of whether there are substantialâ
+(i)
+investments in research directly related to the claimed invention;
+(ii)
+secondary indicia of non-obviousness, such as commercial success, long-felt but unsolved needs, or failures of persons skilled in the art to develop the claimed invention; or
+(iii)
+changes in case law governing relevant substantive patentability requirements since the patent was issued.
+(C)
+New evidence allowed
+The opening motion and opposition briefs under this paragraph may include new evidence, and further rebuttal evidence may be allowed by the Patent Trial and Appeal Board.
+(2)
+Conduct of expedited IPR examination
+(A)
+In general
+If the Patent Trial and Appeal Board grants a motion filed under paragraph (1), the patent owner shall cancel each instituted claim and submit a reasonable number of substitute claims for consideration by the patent examiner in an expedited IPR examination under this paragraph.
+(B)
+Timing
+A patent examiner shall complete an expedited IPR examination, excluding any time for appeals, within 18 months after the date on which any substitute claim is submitted under subparagraph (A).
+(C)
+Procedures
+Consideration of the substitute claims in an expedited IPR examination shall follow the procedures established for initial examination under sections 132 and 133, subject to subsection (b) of this section and modified as necessary to ensure that the procedures are expedited.
+(D)
+Appeal
+(i)
+Patent examiner decision
+If the final decision of a patent examiner in an expedited IPR examination is adverse to the patentability of a substitute claim, the patent owner may appeal the decision to the Patent Trial and Appeal Board under section 134(c).
+(ii)
+Patent Trial and Appeal Board decision
+If the final decision in an appeal of an expedited IPR reexamination to the Patent Trial and Appeal Board under section 134(c) is adverse to the patentability of a substitute claim, the patent owner may appeal the decision to the United States Court of Appeals for the Federal Circuit in accordance with sections 141 through 144.
+(E)
+Certificate
+If the patent examiner determines in an expedited IPR examination that a substitute claim is patentable, and the time for appeal has expired or any appeal proceeding has terminated, the Director shall issue and publish a certificate incorporating in the patent the substitute claim.
+(F)
+Intervening rights
+Any substitute claim determined to be patentable and incorporated into a patent following an expedited IPR examination shall have the same effect as that specified in section 252 for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by the substitute claim, or who made substantial preparation therefor, prior to issuance of a certificate under subparagraph (E).
+.
+(2)
+Technical and conforming amendments
+(A)
+Expedited IPR examination appeals
+(i)
+Appeals to Patent Trial and Appeal Board
+Section 134 of title 35, United States Code, is amended by adding at the end the following new subsection:
+(c)
+Patent owner in expedited IPR examination
+A patent owner may appeal from the final rejection of any substitute claim by the primary examiner in an expedited IPR examination under section 316A(d) to the Patent Trial and Appeal Board, having once paid the fee for such appeal.
+.
+(ii)
+Appeals to Federal Circuit
+Section 141 of title 35, United States Code, is amendedâ
+(I)
+by redesignating subsections (c) and (d) as subsections (d) and (e); and
+(II)
+by inserting after subsection (b) the following new subsection:
+(c)
+Expedited IPR examinations
+A patent owner who is dissatisfied with the final decision in an appeal to the Patent Trial and Appeal Board under section 134(c) of an expedited IPR examination may appeal the Boardâs decision to the United States Court of Appeals for the Federal Circuit.
+.
+(B)
+Conduct of inter partes review
+Section 316 of title 35, United States Code, is amendedâ
+(i)
+in subsection (a)(9), by striking
+subsection (d)
+each place that term appears and inserting
+section 316A
+;
+(ii)
+by striking subsection (d); and
+(iii)
+by redesignating subsection (e) as subsection (d).
+(C)
+Decision of the Board
+Section 318(a) of title 35, United States Code, is amendedâ
+(i)
+by striking
+If
+and inserting
+Except as provided in section 316A(c)(5), if
+; and
+(ii)
+by striking
+section 316(d)
+and inserting
+section 316A
+.
+(D)
+Table of sections
+The table of sections for
+chapter 31
+of title 35, United States Code, is amended by inserting after the item relating to
+section 316
+the following new item:
+316A. Inter partes review amendment practice.
+.
+103.
+Post-grant review
+(a)
+Claim construction
+Section 326(a) of title 35, United States Code, is amendedâ
+(1)
+in paragraph (9), by inserting after
+substitute claims,
+the following:
+including the standard for how substitute claims should be construed,
+;
+(2)
+in paragraph (11), by striking
+; and
+and inserting a semicolon;
+(3)
+in paragraph (12), by striking the period at the end and inserting
+; and
+; and
+(4)
+by adding at the end the following new paragraph:
+(13)
+providing that for all purposes under this chapterâ
+(A)
+each challenged claim of a patent shall be construed as the claim would be construed under section 282(b) in an action to invalidate a patent, including by construing each challenged claim of the patent in accordance withâ
+(i)
+the ordinary and customary meaning of the claim as understood by a person having ordinary skill in the art to which the claimed invention pertains; and
+(ii)
+the prosecution history pertaining to the patent; and
+(B)
+if a court has previously construed a challenged claim of a patent or a challenged claim term in a civil action to which the patent owner was a party, the Office shall consider that claim construction.
+.
+(b)
+Burden of proof
+Section 326(e) of title 35, United States Code, is amended to read as follows:
+(e)
+Evidentiary standards
+(1)
+Presumption of validity
+The presumption of validity under section 282(a) shall apply to a previously issued claim that is challenged during a proceeding under this chapter.
+(2)
+Burden of proof
+In a post-grant review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability of a previously issued claim by clear and convincing evidence.
+.
+(c)
+Standing
+Section 321 of title 35, United States Code, is amended by adding at the end the following new subsection:
+(d)
+Persons that may petition
+(1)
+Definition
+In this subsection, the term
+charged with infringement
+means a real and substantial controversy regarding infringement of a patent exists such that the petitioner would have standing to bring a declaratory judgment action in Federal court.
+(2)
+Necessary conditions
+A person may not file with the Office a petition to institute a post-grant review of the patent unless the person, or a real party in interest or privy of the person, demonstratesâ
+(A)
+a reasonable possibility of beingâ
+(i)
+sued for infringement of the patent; or
+(ii)
+charged with infringement under the patent; or
+(B)
+a competitive harm related to the validity of the patent.
+.
+(d)
+Limitation on reviews
+Section 324(a) of title 35, United States Code, is amended to read as follows:
+(a)
+Threshold
+(1)
+Likelihood of prevailing
+Subject to paragraph (2), the Director may not authorize a post-grant review to be instituted unless the Director determines that the information presented in the petition filed under section 321, if such information is not rebutted, would demonstrate that it is more likely than not that at least one of the claims challenged in the petition is unpatentable.
+(2)
+Previous institution
+The Director may not authorize a post-grant review to be instituted on a claim challenged in a petition if the Director has previously instituted an inter partes or post-grant review with respect to that claim.
+.
+(e)
+Appeals from institution decisions
+Section 324 of title 35, United States Code, is amended by striking subsection (e) and inserting the following:
+(e)
+No appeal
+A determination by the Director not to institute a post-grant review under this section shall be final and nonappealable.
+(f)
+Interlocutory appeal
+(1)
+Right of appeal
+A determination by the Director to institute a post-grant review under this section may be appealed to the United States Court of Appeals for the Federal Circuit.
+(2)
+Timing
+A party shall file a notice of interlocutory appeal under paragraph (1) not later than 7 days after the date on which the Director enters the institution decision.
+(3)
+Limitation
+An interlocutory appeal filed under paragraph (1) may challenge the institution decision on any basis except for the determination made under section 324(a)(1).
+(4)
+Effect on proceedings
+An interlocutory appeal filed under paragraph (1) shall not stay proceedings in the post-grant review unless the Director or the United States Court of Appeals for the Federal Circuit so orders.
+(5)
+Decision
+An interlocutory appeal filed under paragraph (1) may be granted by the United States Court of Appeals for the Federal Circuit, which may include consideration of whetherâ
+(A)
+the institution decision appears to be in error and mere institution presents a risk of immediate, irreparable injury to the patent owner;
+(B)
+the institution decision presents an unsettled and fundamental issue of law, important both to the specific proceeding and generally, that is likely to evade end-of-the-proceeding review; or
+(C)
+the institution decision is manifestly erroneous.
+.
+(f)
+Eliminating repetitive proceedings
+Section 325(e)(1) of title 35, United States Code, is amended to read as follows:
+(1)
+Proceedings before the Office
+A person petitioning for a post-grant review of a claim in a patent under this chapter, or the real party in interest or privy of the petitioner, may not petition for a subsequent post-grant review before the Office with respect to that patent on any ground that the petitioner raised or reasonably could have raised in the initial petition, unless, after the filing of the initial petition, the petitioner, or the real party in interest or privy of the petitioner, is charged with infringement of additional claims of the patent.
+.
+(g)
+Real party in interest
+(1)
+Clarification of definition
+Section 325 of title 35, United States Code, is amended by adding at the end the following new subsection:
+(g)
+Real party in interest
+For purposes of this chapter, a person that directly or through an affiliate, subsidiary, or proxy, makes a financial contribution to the preparation for, or conduct during, a post-grant review on behalf of the petitioner shall be considered a real party in interest of the petitioner.
+.
+(2)
+Discovery of real party in interest
+Section 326(a)(5) of title 35, United States Code, is amended to read as follows:
+(5)
+setting forth standards and procedures for discovery of relevant evidence, including that such discovery shall be limited toâ
+(A)
+the deposition of witnesses submitting affidavits or declarations;
+(B)
+evidence identifying the petitionerâs real parties in interest; and
+(C)
+what is otherwise necessary in the interest of justice;
+.
+(h)
+Priority of Federal court validity determinations
+(1)
+In general
+Section 325 of title 35, United States Code, as amended by subsections (f) and (g), is further amendedâ
+(A)
+by redesignating subsections (c) through (g) as subsections (d) through (h), respectively; and
+(B)
+by inserting after subsection (b) the following new subsection:
+(c)
+Federal court validity determinations
+(1)
+Institution barred
+A post-grant review of a patent claim may not be instituted if, in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 (
+19 U.S.C. 1337
+), a court has entered a final judgmentâ
+(A)
+that decides the validity of the patent claim with respect to section 102 or 103; and
+(B)
+from which an appeal under section 1295 of title 28 may be taken, or from which an appeal under section 1295 of title 28 was previously available but is no longer available.
+(2)
+Stay of proceedings
+(A)
+In general
+If, in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 (
+19 U.S.C. 1337
+), a court has entered a final judgment that decides the validity of a patent claim with respect to section 102 or 103 and from which an appeal under section 1295 of title 28 may be taken, the Patent Trial and Appeal Board shall stay any ongoing post-grant review of that patent claim pending a final decision of the court or Commission, as applicable.
+(B)
+Termination
+If the validity of a patent claim described in subparagraph (A) is finally upheld by a court or the International Trade Commission, as applicable, the Patent Trial and Appeal Board shall terminate the post-grant review.
+.
+(2)
+Technical and conforming amendments
+Chapter 32
+of title 35, United States Code, is amendedâ
+(A)
+in section 326(a)(11), by striking
+section 325(c)
+and inserting
+section 325(d)
+; and
+(B)
+in section 327(a), by striking
+section 325(e)
+and inserting
+section 325(f)
+.
+(i)
+Amendment of claims
+(1)
+Post-grant review amendment practice
+Chapter 32
+of title 35, United States Code, is amended by inserting after
+section 326
+the following new section:
+326A.
+Post-grant review amendment practice
+(a)
+Actions permitted
+During a post-grant review instituted under this chapter, the patent owner may move to take one or more of the following actions with respect to any challenged patent claim being reviewed:
+(1)
+Cancel the claim.
+(2)
+Propose a reasonable number of substitute claims whose patentability will be adjudicated by the Patent Trial and Appeal Board in accordance with subsection (c).
+(3)
+Propose a reasonable number of substitute claims to be examined in an expedited PGR (in this section referred to as
+expedited PGR
+) reexamination in accordance with subsection (d).
+(b)
+Scope of claims
+An amendment to a patent under this section may not enlarge the scope of the claims of the patent or introduce new matter.
+(c)
+Amendment practice before the Patent Trial and Appeal Board
+(1)
+Patent ownerâs initial motion
+For each challenged claim for which the patent owner seeks to propose a reasonable number of substitute claims, the patent owner shall be required to make a prima facie showing that each substitute claimâ
+(A)
+responds to each ground of unpatentability on which the post-grant review was instituted;
+(B)
+meets the written description requirement under section 112(a); and
+(C)
+meets the requirement under subsection (b) of this section.
+(2)
+New evidence
+(A)
+Petitioner
+The petitioner may respond to the patent ownerâs initial motion under paragraph (1) by presenting new evidence.
+(B)
+Patent owner
+The patent owner shall have at least 1 opportunity to respond to any new evidence presented under subparagraph (A).
+(3)
+Expedited patentability report
+(A)
+In general
+Upon the filing of a motion under paragraph (1), the Patent Trial and Appeal Board may order an expedited patentability report from a patent examiner on a substitute claim.
+(B)
+Contents of report
+In ordering an expedited patentability report, the Patent Trial and Appeal Board mayâ
+(i)
+order examination of any ground of patentability that is assessed by a patent examiner under chapter 12; and
+(ii)
+request a non-binding recommendation as to the patentability of a substitute claim.
+(C)
+Right of reply
+Any party to the post-grant review may file supplemental briefing, including new evidence, addressing the expedited patentability report.
+(D)
+Timing
+The production of the expedited patentability report shall be expedited.
+(E)
+Good cause
+The ordering of an expedited patentability report shall constitute good cause, for purposes of section 326(a)(11), to extend the 1-year period for the post-grant review.
+(4)
+Adjudication of patentability
+(A)
+No rebuttal
+A patent owner shall be entitled to a substitute claim if the prima facie showing required under paragraph (1) is not rebutted.
+(B)
+Additional evidence
+If additional evidence of record is presented, the patent owner shall be entitled to a substitute claim unless a preponderance of that evidence proves that the patent owner is not so entitled.
+(5)
+Patent Trial and Appeal Boardâs discretion to order expedited PGR reexamination
+Upon issuing a final written decision with respect to each challenged claim, the Patent Trial and Appeal Board may order an expedited PGR reexamination to be conducted under section (d)(2) to consider a substitute claim in lieu of issuing a final written decision on that claim.
+(6)
+Amendments to advance settlement
+The Patent Trial and Appeal Board may consider additional motions to amend upon the joint request of the petitioner and the patent owner to materially advance the settlement of a proceeding under section 327 if the patent owner makes the prima facie showing required under paragraph (1).
+(d)
+Amendment practice before a patent examiner
+(1)
+Motion to convert to expedited PGR examination
+(A)
+In general
+If the Director determines to institute a post-grant review on a challenged claim under section 324, a patent owner may, before any further substantive briefing on the patentability of an instituted claim, move to terminate the post-grant review in favor of an expedited PGR reexamination under paragraph (2) of this subsection.
+(B)
+Contents of motion
+A patent owner shall be required to show good cause for why an expedited PGR reexamination would further the goals of the patent system, including consideration of whether there are substantialâ
+(i)
+investments in research directly related to the claimed invention;
+(ii)
+secondary indicia of non-obviousness, such as commercial success, long-felt but unsolved needs, or failures of persons skilled in the art to develop the claimed invention; or
+(iii)
+changes in case law governing relevant substantive patentability requirements since the patent was issued.
+(C)
+New evidence allowed
+The opening motion and opposition briefs under this paragraph may include new evidence, and further rebuttal evidence may be allowed by the Patent Trial and Appeal Board.
+(2)
+Conduct of expedited PGR examination
+(A)
+In general
+If the Patent Trial and Appeal Board grants a motion filed under paragraph (1), the patent owner shall cancel each instituted claim and submit a reasonable number of substitute claims for consideration by the patent examiner in an expedited PGR examination under this paragraph.
+(B)
+Timing
+A patent examiner shall complete an expedited PGR examination, excluding any time for appeals, within 18 months after the date on which any substitute claim is submitted under subparagraph (A).
+(C)
+Procedures
+Consideration of the substitute claims in an expedited PGR examination shall follow the procedures established for initial examination under sections 132 and 133, subject to subsection (b) of this section and modified as necessary to ensure that the procedures are expedited.
+(D)
+Appeal
+(i)
+Patent examiner decision
+If the final decision of a patent examiner in an expedited PGR examination is adverse to the patentability of a substitute claim, the patent owner may appeal the decision to the Patent Trial and Appeal Board under section 134(c).
+(ii)
+Patent Trial and Appeal Board decision
+If the final decision in an appeal of an expedited PGR reexamination to the Patent Trial and Appeal Board under section 134(c) is adverse to the patentability of a substitute claim, the patent owner may appeal the decision to the United States Court of Appeals for the Federal Circuit in accordance with sections 141 through 144.
+(E)
+Certificate
+If the patent examiner determines in an expedited PGR examination that a substitute claim is patentable, and the time for appeal has expired or any appeal proceeding has terminated, the Director shall issue and publish a certificate incorporating in the patent the substitute claim.
+(F)
+Intervening rights
+Any substitute claim determined to be patentable and incorporated into a patent following an expedited PGR examination shall have the same effect as that specified in section 252 for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by the substitute claim, or who made substantial preparation therefor, prior to issuance of a certificate under subparagraph (E).
+.
+(2)
+Technical and conforming amendments
+(A)
+Expedited PGR examination appeals
+(i)
+Appeals to Patent Trial and Appeal Board
+Section 134 of title 35, United States Code, as amended by section 102(i)(2), is further amended by adding at the end the following new subsection:
+(d)
+Patent owner in expedited PGR examination
+A patent owner may appeal from the final rejection of any substitute claim by the primary examiner in an expedited PGR examination under section 326A(d) to the Patent Trial and Appeal Board, having once paid the fee for such appeal.
+.
+(ii)
+Appeals to Federal Circuit
+Section 141 of title 35, United States Code, as amended by section 102(i)(2), is further amendedâ
+(I)
+by redesignating subsections (d) and (e) as subsections (e) and (f); and
+(II)
+by inserting after subsection (c) the following new subsection:
+(d)
+Expedited PGR examinations
+A patent owner who is dissatisfied with the final decision in an appeal to the Patent Trial and Appeal Board under section 134(c) of an expedited PGR examination may appeal the Boardâs decision to the United States Court of Appeals for the Federal Circuit.
+.
+(B)
+Conduct of post-grant review
+Section 326 of title 35, United States Code, is amendedâ
+(i)
+in subsection (a)(9), by striking
+subsection (d)
+each place that term appears and inserting
+section 326A
+;
+(ii)
+by striking subsection (d); and
+(iii)
+by redesignating subsection (e) as subsection (d).
+(C)
+Decision of the Board
+Section 328(a) of title 35, United States Code, is amendedâ
+(i)
+by striking
+If
+and inserting
+Except as provided in section 326A(c)(5), if
+; and
+(ii)
+by striking
+section 326(d)
+and inserting
+section 326A
+.
+(D)
+Table of sections
+The table of sections for
+chapter 32
+of title 35, United States Code, is amended by inserting after the item relating to
+section 326
+the following new item:
+326A. Post-grant review amendment practice.
+.
+104.
+Composition of post-grant review and inter partes review panels
+Section 6(c) of title 35, United States Code, is amended to read as follows:
+(c)
+3-Member panels
+(1)
+In general
+Each appeal, derivation proceeding, post-grant review, and inter partes review shall be heard by at least 3 members of the Patent Trial and Appeal Board, who shall be designated by the Director.
+(2)
+Ineligibility to hear review
+A member of the Patent Trial and Appeal Board who participates in the decision to institute a post-grant review or an inter partes review of a patent shall be ineligible to hear the review.
+(3)
+Rehearings
+Only the Patent Trial and Appeal Board may grant rehearings.
+.
+105.
+Reexamination of patents
+(a)
+Request for reexamination
+Section 302 of title 35, United States Code, is amended to read as follows:
+302.
+Request for reexamination
+Any person at any time may file a request for reexamination by the Office of any claim of a patent on the basis of any prior art cited under the provisions of section 301. The request must be in writing and must be accompanied by payment of a reexamination fee established by the Director pursuant to the provisions of section 41. The request must identify all real parties in interest and certify that reexamination is not barred under section 303(d). The request must set forth the pertinency and manner of applying cited prior art to every claim for which reexamination is requested. Unless the requesting person is the owner of the patent, the Director promptly will send a copy of the request to the owner of record of the patent.
+.
+(b)
+Reexamination barred by civil action
+Section 303 of title 35, United States Code, is amended by adding at the end the following new subsection:
+(d)
+An ex parte reexamination may not be instituted if the request for reexamination is filed more than 1 year after the date on which the requester or a real party in interest or privy of the requester is served with a complaint alleging infringement of the patent.
+.
+106.
+Restoration of patents as property rights
+Section 283 of title 35, United States Code, is amendedâ
+(1)
+by striking
+The several courts
+and inserting the following:
+(a)
+In general
+The several courts
+; and
+(2)
+by adding at the end the following:
+(b)
+Injunction
+Upon a finding by a court of infringement of a patent not proven invalid or unenforceable, the court shall presume thatâ
+(1)
+further infringement of the patent would cause irreparable injury; and
+(2)
+remedies available at law are inadequate to compensate for that injury.
+.
+107.
+Elimination of USPTO fee diversion
+(a)
+Funding
+Section 42 of title 35, United States Code, is amendedâ
+(1)
+in subsection (a), by striking
+All fees
+and inserting
+Fees for service by PTO
+.âAll fees
+;
+(2)
+in subsection (b)â
+(A)
+by striking
+All fees
+and inserting
+Innovation promotion fund
+.âAll fees
+; and
+(B)
+by striking
+Patent and Trademark Office Appropriation Account
+and inserting
+United States Patent and Trademark Office Innovation Promotion Fund
+;
+(3)
+in subsection (c)â
+(A)
+by striking
+(c)
+and inserting
+(c) Collection of funds for PTO activities.
+(B)
+in paragraph (1)â
+(i)
+by striking
+To the extent
+and all that follows through
+fees
+and inserting
+Fees
+; and
+(ii)
+by striking
+shall be collected by and shall, subject to paragraph (2), be available to the Director
+and inserting
+shall be collected by the Director and shall be available to the Director until expended
+;
+(C)
+by striking paragraph (2); and
+(D)
+by redesignating paragraph (3) as paragraph (2);
+(4)
+by redesignating subsections (d) and (e) as subsections (e) and (f), respectively;
+(5)
+by inserting after subsection (c) the following new subsection:
+(d)
+Revolving fund
+(1)
+Definitions
+In this subsectionâ
+(A)
+the term
+Fund
+means the United States Patent and Trademark Office Innovation Promotion Fund established under paragraph (2); and
+(B)
+the term
+Trademark Act of 1946
+means the Act entitled
+An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes
+, approved July 5, 1946 (
+15 U.S.C. 1051
+et seq.) (commonly referred to as the
+Trademark Act of 1946
+or the
+Lanham Act
+).
+(2)
+Establishment
+There is established in the Treasury a revolving fund to be known as the
+United States Patent and Trademark Office Innovation Promotion Fund
+.
+(3)
+Derivation of resources
+There shall be deposited into the Fund any fees collected underâ
+(A)
+this title; or
+(B)
+the Trademark Act of 1946.
+(4)
+Expenses
+Amounts deposited into the Fund under paragraph (3) shall be available, without fiscal year limitation, to coverâ
+(A)
+all expenses to the extent consistent with the limitation on the use of fees set forth in subsection (c), including all administrative and operating expenses, determined in the discretion of the Director to be ordinary and reasonable, incurred by the Director for the continued operation of all services, programs, activities, and duties of the Office relating to patents and trademarks, as such services, programs, activities, and duties are described underâ
+(i)
+this title; and
+(ii)
+the Trademark Act of 1946; and
+(B)
+all expenses incurred pursuant to any obligation, representation, or other commitment of the Office.
+;
+(6)
+in subsection (e), as redesignated, by striking
+The Director
+and inserting
+Refunds
+.âThe Director
+; and
+(7)
+in subsection (f), as redesignated, by striking
+The Secretary
+and inserting
+Report
+.âThe Secretary
+.
+(b)
+Effective date; transfer from and termination of obsolete funds
+(1)
+Effective date
+The amendments made by subsection (a) shall take effect on the first day of the first fiscal year that begins on or after the date of the enactment of this Act.
+(2)
+Remaining balances
+There shall be deposited in the Fund, on the effective date described in paragraph (1), any available unobligated balances remaining in the Patent and Trademark Office Appropriation Account, and in the Patent and Trademark Fee Reserve Fund established under section 42(c)(2) of title 35, United States Code, as in effect on the date before the effective date.
+(3)
+Termination of Reserve Fund
+Upon the payment of all obligated amounts in the Patent and Trademark Fee Reserve Fund under paragraph (2), the Patent and Trademark Fee Reserve Fund shall be terminated.
+108.
+Infringement of patent
+Section 271 of title 35, United States Code, is amendedâ
+(1)
+by striking subsection (b) and inserting the following:
+(b)
+Whoever actively induces infringement of a patent shall be liable as an infringer upon a showing that the accused infringer intended to cause the acts that constitute infringement, without regard to whether the accused infringer knew of the patent.
+;
+(2)
+in subsection (f), by adding at the end the following new paragraph:
+(3)
+(A)
+Whoever, without authority, supplies or causes to be supplied in or from the United States a design for a product embodying a patented invention in such manner as to actively induce the making of that product outside the United States in a manner that would infringe the patent if made in the United States, shall be liable as an infringer.
+(B)
+Whoever, without authority, supplies or causes to be supplied in or from the United States a specification for performing a patented process or method in such manner as to actively induce the performance of that process or method outside the United States in a manner that would infringe the patent if performed in the United States, shall be liable as an infringer.
+; and
+(3)
+by adding at the end the following:
+(j)
+For a finding of liability for actively inducing infringement of a process patent under subsection (b), or for contributory infringement of a process patent under subsection (c), it shall not be a requirement that the steps of the patented process be practiced by a single entity.
+.
+109.
+Institutions of higher education
+Section 123(d) of title 35, United States Code, is amended to read as follows:
+(d)
+Institutions of higher education
+For purposes of this section, a micro entity shall include an applicant who certifies thatâ
+(1)
+the applicantâs employer, from which the applicant obtains the majority of the applicantâs income, is an institution of higher education as defined in section 101(a) of the Higher Education Act of 1965 (
+20 U.S.C. 1001(a)
+);
+(2)
+the applicant has assigned, granted, conveyed, or is under an obligation by contract or law, to assign, grant, or convey, a license or other ownership interest in the particular applications to such an institution of higher education;
+(3)
+the applicant is such an institution of higher education; or
+(4)
+the applicant is an organization described in
+section 501(c)(3)
+of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code that holds title to patents and patent applications on behalf of such an institution of higher education for the purpose of facilitating commercialization of the technologies of the patents and patent applications.
+.
+110.
+Assisting small businesses in the U.S. patent system
+(a)
+Definition
+In this section, the term
+small business concern
+has the meaning given the term in section 3 of the Small Business Act (
+15 U.S.C. 632
+).
+(b)
+Small Business Administration report
+Not later than 1 year after the date of enactment of this Act, the Small Business Administration, using existing resources, shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report analyzing the impact ofâ
+(1)
+patent ownership by small business concerns; and
+(2)
+civil actions against small business concerns arising under title 35, United States Code, relating to patent infringement.
+(c)
+Expansion of patent pilot program in certain district courts
+(1)
+In general
+Not later than 180 days after the date of the enactment of this Act, the Director of the Administrative Office of the United States Courts shall designate not fewer than 6 of the district courts of the United States that are participating in the patent cases pilot program established under section 1 of
+Public Law 111â349
+(
+28 U.S.C. 137
+note) for the purpose of expanding that program to address special issues raised in patent infringement suits against individuals or small business concerns.
+(2)
+Procedures for small businesses
+Not later than 2 years after the date of the enactment of this Act, each district court designated under paragraph (1) shall develop procedures for expediting cases in which an individual or small business concern is accused of patent infringement.
+(3)
+Participating judges
+(A)
+In general
+In each district court designated under paragraph (1), each district court judge participating in the patent cases pilot program established under section 1 of
+Public Law 111â349
+may appoint 1 additional law clerk or secretary in excess of any other limitation on the number of such employees.
+(B)
+Education and training
+The Federal Judicial Center, using existing resources, shall prepare educational and training materials to assist district court judges described in subparagraph (A) in developing expertise in patent and plant variety protection cases.
+(4)
+Funds
+There are authorized to be appropriated such sums as may be necessary to carry out paragraph (3)(A).
+(d)
+Free online availability of public search facility materials
+Section 41(i) of title 35, United States Code, is amended by adding at the end the following new paragraph:
+(5)
+Free online availability of public search facility materials
+The Director shall make available online and at no charge all patent and trademark information that is available at the Public Search Facility of the Office located in Alexandria, Virginia, including, except to the extent that licenses with third-party contractors would make such provision financially unviableâ
+(A)
+search tools and databases;
+(B)
+informational materials; and
+(C)
+training classes and materials.
+.
+II
+Targeting Rogue and Opaque Letters
+201.
+Definitions
+In this title:
+(1)
+Bad faith
+The term
+bad faith
+means, with respect to section 202(a), that the senderâ
+(A)
+made knowingly false or knowingly misleading statements, representations, or omissions;
+(B)
+made statements, representations, or omissions with reckless indifference as to the false or misleading nature of such statements, representations, or omissions; or
+(C)
+made statements, representations, or omissions with awareness of the high probability of the statements, representations, or omissions to deceive and the sender intentionally avoided the truth.
+(2)
+Commission
+The term
+Commission
+means the Federal Trade Commission.
+(3)
+Final determination
+The term
+final determination
+means, with respect to the invalidity or unenforceability of a patent, that the invalidity or unenforceability has been determined by a court of the United States or the United States Patent and Trademark Office in a final decision that is unappealable or for which any opportunity for appeal is no longer available.
+202.
+Unfair or deceptive acts or practices in connection with the assertion of a United States patent
+(a)
+In general
+It shall be an unfair or deceptive act or practice within the meaning of section 5(a)(1) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(1)
+) for a person, in connection with the assertion of a United States patent, to engage in a pattern or practice of sending written communications that state or represent that the recipients are or may be infringing, or have or may have infringed, the patent and bear liability or owe compensation to another, ifâ
+(1)
+the sender of the communications, in bad faith, states or represents in the communications thatâ
+(A)
+the sender is a person with the right to license or enforce the patent at the time the communications are sent, and the sender is not a person with such a right;
+(B)
+a civil action asserting a claim of infringement of the patent has been filed against the recipient;
+(C)
+a civil action asserting a claim of infringement of the patent has been filed against other persons;
+(D)
+legal action for infringement of the patent will be taken against the recipient;
+(E)
+the sender is the exclusive licensee of the patent asserted in the communications;
+(F)
+persons other than the recipient purchased a license for the patent asserted in the communications;
+(G)
+persons other than the recipient purchased a license, and the sender does not disclose that such license is unrelated to the alleged infringement or the patent asserted in the communications;
+(H)
+an investigation of the recipientâs alleged infringement occurred; or
+(I)
+the sender or an affiliate of the sender previously filed a civil action asserting a claim of infringement of the patent based on the activity that is the subject of the written communication when the sender knew such activity was held, in a final determination, not to infringe the patent;
+(2)
+the sender of the communications, in bad faith, seeks compensation forâ
+(A)
+a patent claim that has been held to be unenforceable due to inequitable conduct, invalid, or otherwise unenforceable against the recipient, in a final determination;
+(B)
+activities undertaken by the recipient after expiration of the patent asserted in the communications; or
+(C)
+activity of the recipient that the sender knew was authorized, with respect to the patent claim or claims that are the subject of the communications, by a person with the right to license the patent; or
+(3)
+the sender of the communications, in bad faith, fails to includeâ
+(A)
+the identity of the person asserting a right to license the patent to, or enforce the patent against, the recipient, including the identity of any parent entity and the ultimate parent entity of such person, unless such person is a public company and the name of the public company is identified;
+(B)
+an identification of at least one patent issued by the United States Patent and Trademark Office alleged to have been infringed;
+(C)
+an identification, to the extent reasonable under the circumstances, of at least one product, service, or other activity of the recipient that is alleged to infringe the identified patent;
+(D)
+a description, to the extent reasonable under the circumstances, of how the product, service, or other activity of the recipient infringes an identified patent and patent claim; or
+(E)
+a name and contact information for a person the recipient may contact about the assertions or claims relating to the patent contained in the communications.
+(b)
+Affirmative defense
+With respect to subsection (a), there shall be an affirmative defense that statements, representations, or omissions were not made in bad faith (as defined in subparagraphs (B) and (C) of section 201(1)) if the sender can demonstrate that such statements, representations, or omissions were mistakes made in good faith. Evidence that the sender in the usual course of business sends written communications that do not violate the provisions of this title shall be sufficient to demonstrate good faith. Good faith may also be demonstrated by other evidence.
+(c)
+Rule of construction
+For purposes of sections 203 and 204, the commission of an act or practice that is declared under this section to be an unfair or deceptive act or practice within the meaning of section 5(a)(1) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(1)
+) shall be considered to be a violation of this section.
+203.
+Enforcement by Federal Trade Commission
+(a)
+Violation of rule
+A violation of section 202 shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(b)
+Powers of Commission
+The Commission shall enforce this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of this title. Any person who violates section 202 shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
+(c)
+Effect on other laws
+Nothing in this title shall be construed in any way to limit or affect the authority of the Commission under any other provision of law.
+204.
+Preemption of State laws on patent demand letters and enforcement by State attorneys general
+(a)
+Preemption
+(1)
+In general
+This title preempts any law, rule, regulation, requirement, standard, or other provision having the force and effect of law of any State, or political subdivision of a State, expressly relating to the transmission or contents of communications relating to the assertion of patent rights.
+(2)
+Effect on other State laws
+Except as provided in paragraph (1), this title shall not be construed to preempt or limit any provision of any State law, including any State consumer protection law, any State law relating to acts of fraud or deception, and any State trespass, contract, or tort law.
+(b)
+Enforcement by State attorneys general
+(1)
+In general
+In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been adversely affected by any person who violates section 202, the attorney general of the State, may bring a civil action on behalf of such residents of the State in a district court of the United States of appropriate jurisdictionâ
+(A)
+to enjoin further such violation by the defendant; or
+(B)
+to obtain civil penalties on behalf of recipients who suffered actual damages as a result of such violation.
+(2)
+Maximum civil penalty
+Notwithstanding the number of actions which may be brought against a person under this subsection, a person may not be liable for a total of more than $5,000,000 for a series of related violations of section 202.
+(3)
+Intervention by the FTC
+(A)
+Notice and intervention
+The attorney general of a State shall provide prior written notice of any action under paragraph (1) to the Commission and provide the Commission with a copy of the complaint in the action, except in any case in which such prior notice is not feasible, in which case the attorney general shall serve such notice immediately upon instituting such action. The Commission shall have the rightâ
+(i)
+to intervene in the action;
+(ii)
+upon so intervening, to be heard on all matters arising therein; and
+(iii)
+to file petitions for appeal.
+(B)
+Limitation on State action while Federal action is pending
+If the Commission has instituted a civil action for violation of section 202, no State attorney general may bring an action under this subsection during the pendency of that action against any defendant named in the complaint of the Commission for any violation of such section alleged in the complaint.
+(4)
+Construction
+For purposes of bringing any civil action under paragraph (1), nothing in this title shall be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State toâ
+(A)
+conduct investigations;
+(B)
+administer oaths or affirmations; or
+(C)
+compel the attendance of witnesses or the production of documentary and other evidence.

@@ -1,0 +1,215 @@
+1.
+Short title
+This Act may be cited as the
+COVID Research Act of 2020
+or the
+Computing Opportunities to Vanquish Infectious Diseases Research Act of 2020
+.
+2.
+Definitions
+(a)
+Definitions
+In this Act:
+(1)
+Department
+The term
+Department
+means the Department of Energy.
+(2)
+National laboratory
+The term
+National Laboratory
+has the meaning given that term in section 2 of the Energy Policy Act of 2005 (
+42 U.S.C. 15801
+).
+(3)
+National academies
+The term
+National Academies
+means the National Academies of Sciences, Engineering, and Medicine.
+(4)
+Secretary
+The term
+Secretary
+means the Secretary of Energy.
+(5)
+Qualifying entity
+The term
+Qualifying entity
+meansâ
+(A)
+an institution of higher education;
+(B)
+an appropriate State or Federal entity, including a federally funded research and development center of the Department;
+(C)
+a nonprofit research institution;
+(D)
+a multi-institutional collaboration; or
+(E)
+any other relevant entity the Secretary determines appropriate.
+3.
+Emerging infectious disease prediction and forecasting science and technology interagency working group
+(a)
+Interagency committee
+The Director of the Office of Science and Technology Policy, acting through the National Science and Technology Council, shall establish or designate an interagency working group to coordinate Federal programs and activities for emerging infectious disease data acquisition, analysis, situational awareness, prediction and forecasting, and other related activities.
+(b)
+Co-Chairs
+The interagency working group shall be co-chaired by the Director of the Office of Science and Technology Policy and, on an annual rotating basis, a representative from the participants of the interagency working group, as selected by the Director of the Office of Science and Technology Policy.
+(c)
+Agency participation
+The Committee shall include representatives fromâ
+(1)
+the Department of Health and Human Services;
+(2)
+the Department of Homeland Security;
+(3)
+the Department of Agriculture;
+(4)
+the Department of Commerce;
+(5)
+the Department of Energy;
+(6)
+the Department of the Interior;
+(7)
+the Department of Defense;
+(8)
+the National Science Foundation;
+(9)
+the Centers for Disease Control and Prevention;
+(10)
+the National Institutes of Health;
+(11)
+the Department of State;
+(12)
+the Department of Veterans Affairs;
+(13)
+the Environmental Protection Agency;
+(14)
+the Federal Emergency Management Agency;
+(15)
+the United States Agency for International Development;
+(16)
+the Smithsonian Institution; and
+(17)
+any other Federal agency as considered appropriate by the Director of the Office of Science and Technology Policy.
+(d)
+Responsibilities
+The Interagency working group shallâ
+(1)
+provide for interagency coordination of Federal research, technological development, and operational practice in the prediction of infectious disease outbreaks in humans, animals, or plants to minimize their adverse health, economic, and security impact;
+(2)
+identify challenges in outbreak prediction and modeling and develop a national strategic plan for Federal actions to advance the development and effective application of outbreak prediction capabilities;
+(3)
+hold workshops and seminars to engage researchers and stakeholders from universities, industry, public health organizations, and non-profit organization; and
+(4)
+engage with international partners and strategic allies to share best practices and coordinate prediction and modeling of infectious disease.
+(e)
+Coordination with national academies standing committee on emerging infectious disease and 21st century health threats
+The Director of the Office of Science and Technology Policy shall coordinate with the National Academies to ensure that at least one member of the interagency working group is also a member of the committee under section 4.
+(f)
+Biennial reporting
+One years after the date of enactment of this Act, and at least every 2 years thereafter, the Director of the Office of Science and Technology Policy shall provide a summary report to Congress on the activities of the working group.
+4.
+National Academies Standing Committee on Emerging Infectious Disease and 21st Century Health Threats
+(a)
+In general
+The Office of Science and Technology Policy, and other agencies as determined by the Director of the Office of Science and Technology Policy, shall enter into an agreement with the National Academies to create a
+Standing Committee on Emerging Infectious Disease and 21st Century Health Threats
+(hereinafter in this section referred to as the
+Standing Committee
+).
+(b)
+Participants
+The Standing Committee shall include members with expertise in emerging infectious diseases, public health, public health preparedness and response, biological sciences, clinical care and crisis standards of care, risk communication, and regulatory issues.
+(c)
+Purpose
+The purpose of the Standing Committee is to facilitate the exchange of ideas among Federal agencies, the private sector, and the academic community, as well as other relevant stakeholders, includingâ
+(1)
+responding on short notice to requests from the Federal Government to assess and consider the science and policy implications of an emerging infectious disease or significant public health threat;
+(2)
+providing a venue to enable science and policy discussions relevant to the Federal Government on emerging issues, research, and activities through in-depth knowledge of the sponsorâs programs, goals, and objectives;
+(3)
+identifying opportunities to integrate science into national preparedness and response decision making;
+(4)
+exploring lessons learned and best practices from previous preparedness and response efforts, and identify opportunities to disseminate that information to a variety of stakeholders;
+(5)
+serving as a forum for national policy discussions by experts and other leaders in the field;
+(6)
+identifying and discussing strategies for addressing misinformation; and
+(7)
+responding to the needs of the Working Group established under section 3 for continuing dialog related to strategic planning and program development to address emerging infectious diseases, biosecurity, and public health and medical preparedness.
+(d)
+Report and briefing
+The agreement under subsection (a) shall specify thatâ
+(1)
+the standing committee shall periodically organize workshops and issue publicly available reports on the topics described in subsection (c) and the activities of the Standing Committee; and
+(2)
+not later than one year after the date of enactment of this Act, the Academies shall provide a briefing to relevant Committees of the House of Representatives and Senate on the progress and activities of the Standing Committee.
+5.
+Department of Energy emerging infectious disease research program
+(a)
+In general
+The Secretary, in coordination with the Director of the National Science Foundation and the Director of the National Aeronautics and Space Administration, shall carry out a research program to leverage the Federal Governmentâs innovative analytical tools and advanced computational and networking capabilities in order to prevent, prepare for, and respond to emerging infectious diseases, including COVIDâ19. The Secretary shall carry out this program through a competitive, merit-reviewed process, and consider applications from National Laboratories, institutions of higher education, multi-institutional collaborations, industry partners and other appropriate entities.
+(b)
+Program components
+In carrying out the program established under subsection (a), Secretary shall coordinate with relevant Federal agencies to determine a comprehensive set of technical milestones for these research activities and prioritize the following objectivesâ
+(1)
+supporting fundamental research and development in advanced analytics and high-performance computing technologies needed to characterize, model, simulate, and predict complex phenomena related to emerging infectious diseases, including COVIDâ19 mitigation challenges, including a focus on bioinformatics, epidemiology, and molecular modeling;
+(2)
+using expertise from the private sector and institutions of higher education, and the National Laboratories to develop computational software and capabilities that prospective users may accelerate emerging infectious diseases research and development;
+(3)
+increasing the utility of the research infrastructure of the Department, including scientific computing user facilities and light source user facilities, by coordinating with the Advanced Scientific Computing Research and Basic Energy Sciences programs within the Office of Science;
+(4)
+leveraging experience from existing modeling and simulation research and work sponsored by the Department and promoting collaboration and data sharing between National Laboratories, research entities, and user facilities of the Department by providing the necessary access and secure data transfer capabilities; and
+(5)
+ensuring that new experimental and computational tools are accessible to relevant research communities, including private sector entities engaged in technology development to address emerging infectious diseases, including COVIDâ19 challenges.
+(c)
+Coordination
+In carrying out these programs, the Secretary shall ensure coordination and consultation with member of the working group established in section 3. The Secretary shall ensure, to the maximum extent practicable, coordination of these activities with the Department of Energy National Laboratories, institutes of higher education, and the private sector.
+(d)
+Emerging infectious diseases high performance computing research consortium
+(1)
+In general
+The Secretary in coordination with the Director of the National Science Foundation and the Director of the Office of Science and Technology Policy shall establish and operate an Emerging Infectious Diseases High Performance Computing Research Consortium (referred to in this section as the
+Consortium
+), in order to support the program under subsection (a) by providing, to the extent practicable, a centralized location for multidisciplinary, collaborative, emerging infectious disease research and development through high performance computing and advanced data analytics technologies and processes.
+(2)
+Membership
+The members of such consortium shall be representatives from relevant Federal agencies, the private sector, institutes of higher education, which can each contribute relevant compute time, capabilities, or other resources.
+(3)
+Activities
+The Consortium shallâ
+(A)
+match applicants with available Federal and private sector computing resources;
+(B)
+consider supplemental awards for computing partnerships with Consortium members to qualifying entities on a competitive merit-review basis;
+(C)
+encourage collaboration and communication among member representatives of the consortium and awardees;
+(D)
+make available the high-performance computing capabilities, expertise, and user facilities of the Department and the National Laboratories; and
+(E)
+submit an annual report to the Secretary summarizing the activities of the Consortium, includingâ
+(i)
+describing each project undertaken by the Consortium;
+(ii)
+detailing organizational expenditures; and
+(iii)
+evaluating contribution to the achievement of technical milestones as determined in subsection (a).
+(4)
+Coordination
+The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of the Consortium with the activities of other research entities of the Department, institutions of higher education and the private sector.
+(e)
+Report
+Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Science, Space, and Technology of the House, and the Committee on Energy and Natural Resources of the Senate, and the Committee on Commerce, Science, and Transportation of the Senate a report detailing the effectiveness ofâ
+(1)
+the interagency coordination between each Federal agency involved in the research program carried out under this section;
+(2)
+the collaborative research achievements of the program, including the achievement of the technical milestones determined under subsection (a); and
+(3)
+potential opportunities to expand the technical capabilities of the Department.
+(f)
+Prohibition
+No funds allocated to the program described in subsection (a) may be obligated or expended for commercial application of technology.
+(g)
+Funding
+From within funds authorized to be appropriated for the Departmentâs Office of Science, there shall be made available to the Secretary to carry out the activities under this section, $50,000,000 for fiscal years 2021 and 2022.

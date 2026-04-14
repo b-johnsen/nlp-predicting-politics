@@ -1,0 +1,218 @@
+1.
+Short title
+This Act may be cited as the
+Biosecurity Modernization and Innovation Act of 2026
+.
+2.
+Definitions
+In this Act:
+(1)
+Covered provider
+The term
+covered provider
+means a person whoâ
+(A)
+synthesizes and sells synthetic nucleic acids to persons in the United States; or
+(B)
+produces and distributes or sells, including resellers, equipment for synthesizing nucleic acids, including benchtop synthesizers, to persons in the United States.
+(2)
+Director
+The term
+Director
+means the Director of the Office of Science and Technology Policy.
+(3)
+Secretary
+The term
+Secretary
+means the Secretary of Commerce.
+(4)
+Under Secretary
+The term
+Under Secretary
+means the Under Secretary of Commerce for Standards and Technology.
+3.
+Sense of Congress
+It is the Sense of Congress thatâ
+(1)
+the field of biotechnology is accelerating and the United States is at risk of losing its biotechnology leadership to foreign adversaries;
+(2)
+this acceleration of the field brings the United States into a period of both great opportunity and risk;
+(3)
+policymaking for biosecurity, biosafety, and responsible innovation needs to be flexible to keep pace with advances in the biotechnology and ensure an environment that allows biotechnology research and industry to flourish;
+(4)
+the current landscape of biosecurity and biosafety authorities is spread among multiple agencies, contributing to slow policymaking, which, coupled with the rapid advancement of biotechnology, becomes outdated quickly;
+(5)
+previous studies conducted by the Government Accountability Office, the National Security Commission for Emerging Biotechnology, and several presidential administrations have already identified gaps in the Federal Governmentâs oversight of biosecurity and biosafety risks;
+(6)
+the United States Government needs to streamline biosecurity and biosafety authorities to ensure efficiency and clarity;
+(7)
+gene synthesis technology is becoming increasingly sophisticated and accessible, along with the ability to design novel nucleic acid sequences;
+(8)
+both of these factors described in paragraph (7) may increase the risk of the development and deployment of new pathogens by bad actors; and
+(9)
+gene synthesis screening of orders and customers is immediately needed to mitigate risk in the short-term, which will act as a stopgap while the United States Government develops a comprehensive biosecurity and biosafety strategy that is appropriate for the dynamic and rapidly advancing field of biotechnology.
+4.
+Nucleic acid synthesis security
+(a)
+Regulations required
+Not later than 1 year after the date of the enactment of this Act, the Secretary shall, in coordination with the Under Secretary and the heads of such other agencies as the Secretary considers appropriate, establish and maintain by regulation the following:
+(1)
+A requirement for covered providers to implement screening protocols for all sequences of concern included in the list established and maintained under paragraph (3). Such protocols shallâ
+(A)
+include the ability for privacy-preserving submission of information regarding orders for potential sequences of concern to a mechanism, which may be maintained by the Secretary or an independent organization designated by the Secretary, for facilitating effective split order detection across covered providers, utilizing the list established and maintained under paragraph (3); and
+(B)
+prioritize the mitigation of misuse of sequences capable of creating pathogens with pandemic potential.
+(2)
+A requirement for covered providers to implement screening protocols to verify the identity and legitimacy of customers.
+(3)
+A list of sequences of concern, which shall be determined by the Secretary in consultation with such heads of Federal departments and agencies, industry experts, academics, and researchers as the Secretary considers appropriate.
+(4)
+A system for reviewing and updating on a regular basis the list of sequences of concern established and maintained under paragraph (3) thatâ
+(A)
+uses a docket to allow for privacy-preserving submissions from the public on recommendations for the list of sequences of concern;
+(B)
+includes an expedited procedure to rapidly add sequences of concern to the list on a provisional basis, which may include, as far as technically feasible, automatic procedures such as algorithmic literature scanning, industry self-reporting, or inter-agency submissions; and
+(C)
+incorporates strong data security and confidentiality standards.
+(5)
+A conformity assessment system to verify that covered providers are adhering to the requirements established and maintained under paragraphs (1) and (2), which will includeâ
+(A)
+an auditing process to ensure orders and customers have been scrutinized appropriately, including procedures to conduct adversarial testing (sometimes referred to as
+red-teaming
+) at random intervals to ensure compliance; and
+(B)
+a process to revoke conformity status of covered providers that fail to maintain compliance with the requirements established and maintained under paragraphs (1) and (2), including the establishment of a grace period for covered providers who have failed auditing or adversarial testing under subparagraph (B) to demonstrate compliance or mitigation steps.
+(6)
+Safeguards to ensure regulations promulgated under this subsection avoid unnecessary burden on innovation and industry byâ
+(A)
+allowing covered providers to offer an expedited review process for institutional customers, including accredited institutions of higher education, with demonstrated records of legitimacy;
+(B)
+providing exemptions from customer screening requirements for sequences or products that are clearly non-hazardous and pose no credible threat to public health and safety based on scientific literature and industry best practices for biosecurity screening; and
+(C)
+conducting regular consultations with relevant experts to determine exempted sequences and minimize regulatory burden while maintaining security effectiveness.
+(7)
+A requirement that any person who receives Federal funds can only purchase nucleic acid synthesis products from a covered provider in compliance with the requirements in paragraphs (1) and (2).
+(8)
+A program to provide technical assistance upon request of a covered provider, including assistance with orders whose screening results are ambiguous, subject to determination by the Secretary, in consultation with the heads of such other Federal departments and agencies as the Secretary considers appropriate.
+(b)
+National Institute of Standards and Technology requirements
+The Under Secretary shall develop best practices, technical standards, and other tools needed to support the administration of subsection (a), including the following:
+(1)
+Testing and evaluation of customer and order screening protocols to improve accuracy, efficacy, and reliability, and to support the conformity assessment system under of subsection (a)(5).
+(2)
+Evaluation of the sequences recommended for the list established and updated under paragraphs (3) and (4) of subsection (a), including by developing best practices and guidelines for determining if a novel sequence is a sequence of concern.
+(3)
+Research and prototype sequence-to-function models to supplement the system established and maintained under subsection (a)(4).
+(c)
+Updates
+As frequently as the Secretary considers appropriate to account for technological advances, but not less frequently than once every 2 years, the Secretary shall review and update the regulations promulgated under subsection (a).
+(d)
+Protection of customer information
+Any information about a customer included in a submission under paragraph (1)(A) or (4)(A) of subsection (a) shall, if applicable, be exempt from records access under section 552(b)(4) of title 5, United States Code.
+(e)
+Relationship with other Federal guidelines and recommendations
+The regulations established and maintained under paragraphs (1) and (2) of subsection (a) shall supplant any Federal guidelines or recommendations relating to nucleic acid synthesis screening thatâ
+(1)
+were in effect before the date of the enactment of this Act; and
+(2)
+are voluntary.
+(f)
+Civil enforcement
+(1)
+Civil action
+The Attorney General may bring a civil action in a court of competent jurisdiction against any person who violates a requirement promulgated under paragraph (1) or (2) of subsection (a), including through providing false or misleading information or engaging in other deceptive practices, or does not demonstrate compliance within the grace period set forth by subsection (a)(5)(C).
+(2)
+Powers of the court
+In an action brought under paragraph (1), the court mayâ
+(A)
+enjoin a violation described in paragraph (1); or
+(B)
+award damages under paragraph (3).
+(3)
+Award of damages
+A person who violates a requirement as described in paragraph (1) is liable for statutory damagesâ
+(A)
+in the case of an individual, in the sum of not more than $500,000, adjusted from time to time under paragraph (4); and
+(B)
+in the case of a person who is not an individual, in the sum of not more than $750,000, adjusted from time to time under paragraph (4).
+(4)
+Adjustments for inflation
+Effective on October 1 of each year (beginning in the first fiscal year after the date of the enactment of this Act), the dollar amounts in effect under paragraph (3) shall be increased by a percentage equal to the percentage by which the Consumer Price Index for all urban consumers (U.S. city average) increased during the 12-month period ending with the last month for which Consumer Price Index data is available. In the event that such Consumer Price Index does not increase during such period, the dollar amount in effect under such paragraph during the previous fiscal year shall be maintained.
+(g)
+Reports to Congress
+Not less frequently than once each year, the Secretary shall submit to Congress a report on the administration of this section. Each such report shall include an overview of how many covered providers have been verified by the conformity assessment system established and maintained under subsection (a)(5).
+5.
+Establishment of biotechnology governance sandbox
+(a)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Under Secretary shall, in collaboration with the heads of such Federal agencies as the Under Secretary considers relevant and with such persons in the private sector, academia, and civil society as the Under Secretary considers appropriate, establish a biotechnology governance sandbox environment.
+(b)
+Responsibilities
+Through the governance sandbox developed under subsection (a), the Under Secretary shallâ
+(1)
+provide secure testing of innovations or tools developed to advance the science of biosecurity, biosafety, and responsible biotechnology innovation;
+(2)
+foster participation of nongovernmental experts in the development and testing of appropriate levels and methods of governance, to achieve the goals ofâ
+(A)
+ensuring the continued global competitiveness of biotechnology innovations in the United States;
+(B)
+bolstering the national security posture of the United States; and
+(C)
+strengthening the ability of the United States to robustly analyze emerging threats, anticipate concerns, and govern proactively in the biotechnology space;
+(3)
+carry out biological measurement research to support the development and improvement of technical standards for biosecurity, biosafety, and responsible biotechnology innovation; and
+(4)
+report annually to the Secretary of Commerce on the administration of paragraph (2) and whether any promising governance strategies have resulted from the development and testing.
+(c)
+Access to environments
+The Under Secretary may contract with the private sector or coordinate with other Federal agencies to access environments necessary to provide testing under subsection (b)(1).
+6.
+Streamlining biosecurity and biosafety authorities across the Federal Government
+(a)
+Assessment and plan required
+Not later than 90 days after the date of the enactment of this Act, the Director shall, in collaboration with the heads of such Federal agencies as the Director considers relevantâ
+(1)
+assess the current state of biosecurity and biosafety oversight by the Federal Government; and
+(2)
+develop, based on the findings of the Director with respect to the assessment conducted under paragraph (1), an implementation plan to make oversight of biosecurity and biosafety by the Federal Government more effective and efficient.
+(b)
+Elements of assessment
+The assessment required by subsection (a)(1) shall include the following:
+(1)
+A full accounting of Federal biosecurity and biosafety authorities and programs, including which agencies hold these authorities, whether these authorities are exercised effectively, and where there are overlaps or redundancies, real or perceived, in regulatory and enforcement authorities.
+(2)
+Engagement with industry stakeholders and academia to understand where there are challenges with compliance, communication, and information sharing.
+(3)
+Identification of gaps in funding or other Government support for the development of research, innovation, and tools that advance the science of applied biosecurity, biosafety, and responsible biotechnology innovation.
+(4)
+Identification of gaps in current Federal biosecurity and biosafety authorities and whether these gaps are hindering effective and efficient governance and assessment of emerging risks and opportunities in biotechnology.
+(5)
+An evaluation of how consolidation of biosecurity and biosafety guidelines, authorities, and regulations across Federal agencies, including the regulations established and maintained under section 4(a), should be implemented to make oversight more effective and efficient and to address the gaps in such guidelines, authorities, and regulations, including those identified under paragraphs (3) and (4).
+(c)
+Report to Congress
+(1)
+In general
+Not later than 90 days after the date on which the Director completes the assessment required by paragraph (1) of subsection (a) and the implementation plan required by paragraph (2) of such subsection, the Director shall submit to Congressâ
+(A)
+a report on the findings of the Director with respect to the assessment; and
+(B)
+a copy of the implementation plan.
+(2)
+Contents
+The report submitted pursuant to paragraph (1)(A) shall include the following:
+(A)
+The findings of the Director with respect to the assessment conducted pursuant to subsection (a)(1).
+(B)
+Recommendations for legislative or administrative action to support the implementation plan developed under subsection (a)(2), according toâ
+(i)
+what, if any, new biosecurity and biosafety authorities are needed; and
+(ii)
+where the Federal Government can consolidate biosecurity and biosafety authorities, including which, if any, should be reside under a common government entity, and whether this necessitates establishing a new government entity.
+(d)
+Implementation
+(1)
+In general
+Not later than 90 days after the date on which the Director completes the implementation plan required by subsection (a)(2), the Director shall commence implementing the plan through administrative action in accordance with applicable provisions of law.
+(2)
+Governance strategies
+In carrying out the implementation plan developed under subsection (a)(2), the Director shall consider which, if any, of the governance strategies reported under section 5(b)(4) should be included in the plan.

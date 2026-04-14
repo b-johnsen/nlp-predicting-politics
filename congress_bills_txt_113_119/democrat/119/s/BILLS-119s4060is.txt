@@ -1,0 +1,942 @@
+1.
+Short title
+This Act may be cited as the
+Prediction Markets Security and Integrity Act of 2026
+.
+2.
+Congressional findings
+Congress finds thatâ
+(1)
+online prediction markets offer services that are substantially the same as betting, wagering, gambling, and sports gambling;
+(2)
+foreign online prediction markets have offered to individuals in the United States unregulated gambling services that violate Federal and State laws;
+(3)
+State regulators have historically been understood to regulate gambling as a matter of consumer protection and public health;
+(4)
+State regulators were never intended to be precluded from enforcing State gambling laws against online prediction markets; and
+(5)
+in the absence of State regulations concerning online prediction markets, several harms have resulted, includingâ
+(A)
+fixing of wagers based on insider information or manipulation of outcomes, such as proposition bets in sports;
+(B)
+the mishandling or misuse of sensitive corporate and Government information, such as bets placed on the downfall of Venezuelan President Nicolas Maduro prior to his capture by the United States or military action against Iran;
+(C)
+harm to bettors' well-being as a result of addictive features, such as bonus funds, and a lack of safeguards, such as age restrictions; and
+(D)
+the availability of gambling activities to people as young as 18 years of age in violation of laws of the various States.
+3.
+Definitions
+In this Act:
+(1)
+Amateur athletic competition
+The term
+amateur athletic competition
+has the meaning given the term in section 220501 of title 36, United States Code.
+(2)
+Anonymized wagering data
+With respect to a wager accepted by an online prediction market, the term
+anonymized wagering data
+meansâ
+(A)
+a unique identifier for the transaction and, if available, the individual who placed the wager, except that such identifier shall not include any personally identifiable information of the individual;
+(B)
+the amount, topic, and type of wager;
+(C)
+the date and time at which the wager was accepted;
+(D)
+the location at which the wager was placed, including the internet protocol address, if applicable; and
+(E)
+the outcome of the wager.
+(3)
+Gambling disorder
+The term
+gambling disorder
+meansâ
+(A)
+gambling disorder, as the term is used by the American Psychiatric Association in the publication entitled
+Diagnostic and Statistical Manual of Mental Disorders, 5th Edition
+(or a successor edition);
+(B)
+pathological gambling;
+(C)
+gambling addiction; and
+(D)
+compulsive gambling.
+(4)
+Governmental entity
+The term
+governmental entity
+meansâ
+(A)
+a State;
+(B)
+a political subdivision of a State; and
+(C)
+an entity or organization, including an Indian Tribe, that has governmental authority within the territorial boundaries of the United States, including Indian lands.
+(5)
+Indian lands
+The term
+Indian lands
+has the meaning given the term in section 4 of the Indian Gaming Regulatory Act (
+25 U.S.C. 2703
+).
+(6)
+Indian Tribe
+The term
+Indian Tribe
+has the meaning given the term
+Indian tribe
+in section 4 of the Indian Gaming Regulatory Act (
+25 U.S.C. 2703
+).
+(7)
+Interstate wagering compact
+The term
+interstate wagering compact
+means a compact to offer wagering in accordance with this Act betweenâ
+(A)
+2 or more States with a State wagering program;
+(B)
+1 or more States with a State wagering program and 1 or more Indian Tribes; or
+(C)
+2 or more Indian Tribes.
+(8)
+Listing
+The term
+listing
+means the listing on an online prediction market of an event that may be the subject of a wager.
+(9)
+Microbet
+The term
+microbet
+means a wager placed on an outcome or occurrence within an event that may or may not be related to the ultimate result of the event.
+(10)
+National self-exclusion list
+The term
+national self-exclusion list
+means the list maintained under section 554 of the Public Health Service Act, as added by section 8 of this Act, in cooperation with State regulatory entities, under section 7(b)(6)(A)(ii) of this Act.
+(11)
+Official
+The term
+official
+means a referee, umpire, judge, reviewer, or any other individual authorized to administer the rules of a sporting event.
+(12)
+Online prediction market
+The term
+online prediction market
+means an online platform that allows agreements, contracts, transactions, or swaps between users over the outcome of non-financial events, such as sports and elections.
+(13)
+Proposition bet
+The term
+proposition bet
+means a side wager on a part of an event that does not concern the final outcome of the event.
+(14)
+Reasonable lender standard
+The term
+reasonable lender standard
+means application of underwriting criteria that would be applied by a lender that is an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+)) for an unsecured loan extended to a consumer.
+(15)
+Sporting event
+The term
+sporting event
+means any athletic competition.
+(16)
+Sports organization
+The term
+sports organization
+meansâ
+(A)
+a person or governmental entity thatâ
+(i)
+sponsors, organizes, schedules, or conducts a sporting event; and
+(ii)
+with respect to the sporting event and the participants in the sporting eventâ
+(I)
+prescribes final rules; and
+(II)
+enforces a code of conduct; and
+(B)
+a league or association of 1 or more persons or governmental entities described in subparagraph (A).
+(17)
+State
+The term
+State
+meansâ
+(A)
+a State;
+(B)
+the District of Columbia; and
+(C)
+any commonwealth, territory, or possession of the United States.
+(18)
+State regulatory entity
+The term
+State regulatory entity
+means the governmental entityâ
+(A)
+established or designated by a wagering opt-in State under section 6(a)(2)(A)(ii); and
+(B)
+responsible, solely or in coordination with 1 or more other governmental entities, for the regulation of wagering in the applicable wagering opt-in State.
+(19)
+State wagering program
+The term
+State wagering program
+means a program administered and overseen by a State pursuant to an application approved by the Attorney General under subsection (b) or (e) of section 6.
+(20)
+Suspicious transaction
+The term
+suspicious transaction
+means a transaction or an arrangement that an operator of an online prediction market knows or has reason to know, as determined by a director, officer, employee, or agent of the online prediction market, is or would be if completedâ
+(A)
+a violation of, or part of a plan to violate or evade, any Federal, State, or local law (including any regulation); or
+(B)
+wagering by or on behalf of an individual described in subparagraph (C), (D), or (E) of section 7(b)(4).
+(21)
+Suspicious transaction report
+The term
+suspicious transaction report
+means a report submitted to a State regulatory entity or a sports organization under section 7(b)(13).
+(22)
+Wager
+(A)
+In general
+Except as provided in subparagraph (C), the term
+wager
+means the staking or risking by any person of something of value upon the outcome of an event, including the outcome of any portion or aspect thereof, upon an agreement or understanding that the person or another person will receive something of value in the event of a certain outcome.
+(B)
+Inclusion
+With respect to an event, the term
+wager
+includesâ
+(i)
+a straight bet;
+(ii)
+a teaser;
+(iii)
+a variation of a teaser;
+(iv)
+a parlay;
+(v)
+a total or over-under;
+(vi)
+a moneyline;
+(vii)
+a betting pool;
+(viii)
+exchange wagering;
+(ix)
+in-game wagering, including in-game wagering onâ
+(I)
+a final or interim game score;
+(II)
+statistics; or
+(III)
+a discrete in-game event;
+(x)
+a sports lottery; and
+(xi)
+a proposition bet.
+(C)
+Exceptions
+The term
+wager
+does not includeâ
+(i)
+any activity excluded from the definition of the term
+bet or wager
+under section 5362 of title 31, United States Code; or
+(ii)
+any activity that does not violate a provision of the Interstate Horseracing Act of 1978 (
+15 U.S.C. 3001 et seq.
+).
+(23)
+Wagering
+The term
+wagering
+means the acceptance of a wager by an online prediction market.
+(24)
+Wagering opt-in State
+The term
+wagering opt-in State
+means a State that administers a State wagering program.
+4.
+Protecting consumers from fraud and manipulation
+(a)
+Prevention of insider trading and conflicts of interest
+An individual or operator of an online prediction market shall notâ
+(1)
+use material, nonpublic information for private gain in wagering on an online prediction market; or
+(2)
+create or participate in listings or wagers on an online prediction market that would present a conflict of interest.
+(b)
+Prevention of manipulation
+An individual or operator of an online prediction market shall not engage in manipulation and deceptive practices that predetermine the outcome or otherwise materially interfere with the integrity and execution of listings on an online prediction market.
+(c)
+Restricting fraudulent listings
+An operator of an online prediction market shall not offer listings thatâ
+(1)
+are susceptible to manipulation or fraudulent activities;
+(2)
+relate to war, military action, or death;
+(3)
+violate State or Federal law; or
+(4)
+relate to other matters that are contrary to the public interest as determined by the Attorney General and established under the rules issued pursuant to subsection (e).
+(d)
+Ensuring clear resolution of wagers
+Each operator of an online prediction market shallâ
+(1)
+ensure all listings clearly and conspicuously state the conditions under which the resolution of any wager will be decided;
+(2)
+be responsible for determining when a listing has been resolved; and
+(3)
+promptly remove listings that violate the provisions of this section.
+(e)
+Required rules of online prediction markets
+Each operator of an online prediction market shallâ
+(1)
+develop and publish rules for use of the online prediction market that prohibit any use of the online prediction marketâ
+(A)
+in violation of subsections (a) and (b); or
+(B)
+that would otherwise constitute a prohibited transaction described in section 4c of the Commodity Exchange Act (
+7 U.S.C. 6c
+); and
+(2)
+enforce the rules developed under paragraph (1) of this subsection with respect to the users of the online prediction market.
+(f)
+Rulemaking
+Not later than 180 days after the date of enactment of this Act, the Attorney General shall issue rules to implement the provisions of this section, including defining the term
+material, nonpublic information
+for purposes of subsection (a)(1).
+5.
+Consumer safeguards and stopping predatory tactics
+An online prediction market may not operate in a State unless expressly authorized under a State wagering program that has been approved by the Attorney General under section 6(b)(1).
+6.
+State wagering program
+(a)
+Initial Application
+(1)
+In general
+To request approval to administer a State wagering program, a State shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may require.
+(2)
+Contents
+An application under paragraph (1) shall includeâ
+(A)
+a full and complete description of the State wagering program the State proposes to administer under State law, includingâ
+(i)
+each applicable State law relating to wagering; and
+(ii)
+an identification of the State regulatory entity; and
+(B)
+an assurance from the attorney general or chief legal officer of the State that the laws of the State provide adequate authority to carry out the proposed State wagering program.
+(b)
+Approval by Attorney General
+(1)
+In general
+Not later than 180 days after the date on which the Attorney General receives a complete application under this section, the Attorney General shall approve the application unless the Attorney General determines that the proposed State wagering program does not meet the standards set forth in section 7.
+(2)
+Denial of application
+A decision of the Attorney General to deny an application submitted under this section shallâ
+(A)
+be made in writing; and
+(B)
+specify the 1 or more standards under section 7 that are not satisfied by the proposed State wagering program.
+(c)
+Notice of material changes
+In the case of a material change to a State law relating to wagering, the State regulatory entity, or other information included in an application submitted pursuant to subsection (a) or (e), not later than 30 days after the date on which the change is made, the State shall submit to the Attorney General a notice of such change.
+(d)
+Duration
+A State wagering program shall be valid for a fixed 3-year period beginning on the date on which the Attorney General approves the application of the applicable State under subsection (a) or (e).
+(e)
+Renewal application and approval
+Not later than the date on which the 3-year period referred to in subsection (d) ends, a State seeking to renew the approval of the State wagering program may submit to the Attorney General a renewal application thatâ
+(1)
+includes the information described in subsection (a); and
+(2)
+shall be subject to the approval process under subsection (b).
+(f)
+Revocation and review
+(1)
+Emergency revocation of approval
+The Attorney General shall promulgate regulations that provide procedures by which the Attorney General may revoke the approval of a State to administer a State wagering program before the date on which the 3-year term described in subsection (d) expires if the Attorney General finds that the wagering program does not meet 1 or more standards set forth in section 7.
+(2)
+Administrative review
+The Attorney General shall promulgate regulations that provide procedures by which a State may seek administrative review of any decision by the Attorney Generalâ
+(A)
+to deny an application under subsection (b)(2);
+(B)
+to deny a renewal application under subsection (e); or
+(C)
+to revoke an approval under paragraph (1) of this subsection.
+7.
+State wagering program standards
+(a)
+In general
+The Attorney General shall approve an application under section 6 unless the Attorney General determines that the proposed State wagering program does not meet the standards set forth in subsection (b) of this section.
+(b)
+Standards for State wagering programs
+A State wagering program shall meet each of the following standards:
+(1)
+State regulatory entity
+Establish or designate a public entity in the applicable State as the State regulatory entity for the purposes of regulating online prediction markets and enforcing wagering laws in the State.
+(2)
+Permissible wagering
+(A)
+Online prediction market wagering
+(i)
+In general
+With respect to any authorization of wagering on an online prediction market, provide that such wagering, as available, is available only toâ
+(I)
+individuals located in the State; or
+(II)
+in the case of an interstate wagering compact approved by the Attorney General, individuals located in States and on Indian lands of Indian Tribes that are party to the compact.
+(ii)
+Location verification
+Include location verification requirements reasonably designed to prevent an individual from placing a wager on an online prediction market from a location other than a location described in clause (i).
+(B)
+Wager approval
+(i)
+In general
+Provide that an operator of an online prediction market shall not accept a wager unless such wager or class of wagers is expressly approved by the State regulatory entity.
+(ii)
+Approval criteria
+Direct the State regulatory entity to establish criteria for decisions with respect to the approval of a wager or a class of wagers, such as whether the outcome of the event or contingency on which the wager is placed isâ
+(I)
+verifiable;
+(II)
+generated by a reliable and independent process; and
+(III)
+unlikely to be affected by any wager placed.
+(C)
+Prohibition on amateur or intercollegiate proposition bets
+Prohibit the State regulatory entity from approving, or an operator of an online prediction market from accepting, a proposition bet onâ
+(i)
+any amateur athletic competition; or
+(ii)
+any intercollegiate sport (as defined in section 2 of the Sports Agent Responsibility and Trust Act (
+15 U.S.C. 7801
+)).
+(D)
+Prohibition of wagering on sporting events that have commenced
+Prohibit the State regulatory entity from approving, or an operator of an online prediction market from accepting, a wager on any sporting event once such event has commenced.
+(E)
+Prohibition on reload bonuses
+Prohibit the State regulatory entity from approving, or an operator of an online prediction market from encouraging, customers to make deposits by offering financial incentives, including bonus funds or gambling credits when the account of a customer approaches or reaches a zero balance.
+(F)
+Prohibition on tier programs
+Prohibit the State regulatory entity from approving, or an operator of an online prediction market from providing, anything of value that is greater than $5 as a form of reward or incentive linked to the level, amount, frequency, scope, pace, duration, or rate or gambling activity of a customer.
+(G)
+Prohibition on VIP programs
+Prohibit the State regulatory entity from approving, or an operator of an online prediction market from providingâ
+(i)
+compensation in any form that is directly or indirectly connected to the deposits, gambling activity, gambling wins, gambling losses, or the level, amount, frequency, scope, pace, duration, or rate of gambling activity of a customer; or
+(ii)
+cash, gambling credit, prizes, gifts, merchandise, event tickets or passes, or property (real or personal) connected to the deposits, gambling activity, gambling wins, gambling losses, or level, amount, frequency, scope, pace, duration, or rate of gambling activity of a customer.
+(3)
+Restrictions on wagering to protect contest integrity
+(A)
+Definition of necessary to maintain contest integrity
+In this paragraph, the term
+necessary to maintain contest integrity
+means that, in the absence of a restriction, there is a reasonably foreseeable risk that the outcome of the event or contingency on which the wager is placed would be affected by the wager.
+(B)
+Contest integrity
+Prohibit an online prediction market from accepting a wager in violation of a notice of restriction received by the online prediction market under subparagraph (E)(i).
+(C)
+Request to restrict wagering
+(i)
+In general
+With respect to an event sponsored, organized, or conducted by any person, permit the person to submit to the State regulatory entity a request to restrict, limit, or exclude wagers on 1 or more events if the applicable person determines that such restriction is necessary to maintain contest integrity.
+(ii)
+Deadlines for submission
+Provide that the State regulatory entity shall establish reasonable deadlines for the submission of a request under clause (i) in advance of the applicable event.
+(D)
+Determination by the State regulatory entity
+Provide that the State regulatory entity shall promptlyâ
+(i)
+approve a request described in subparagraph (C)(i) unless the State regulatory entity determines, considering any information provided by the person that submitted the request and any other relevant information, that a restriction is not necessary to maintain contest integrity;
+(ii)
+provide a written explanation of a determination under clause (i) to approve or deny a request;
+(iii)
+make such written explanation available to the public; and
+(iv)
+provide a process by which the person that submitted the request may seek review of such determination.
+(E)
+Notice of restriction
+Provide that the State regulatory entity shall establish a process toâ
+(i)
+provide to operators of online prediction markets prompt notice of any restriction approved by the State regulatory entity; and
+(ii)
+make such notice publicly available.
+(4)
+Prevention of wagering by prohibited individuals
+Prohibit an online prediction market from accepting wagers from anyâ
+(A)
+individual younger than 21 years of age;
+(B)
+individual on the national self-exclusion list;
+(C)
+athlete, coach, official, or employee of a sports organization or any club or team of a sports organization, with respect to a sporting event sponsored, organized, or conducted by the sports organization;
+(D)
+employee of a player or an official union of a sports organization, with respect to a sporting event sponsored, organized, or conducted by the sports organization;
+(E)
+individual who, with respect to a sporting event sponsored, organized, or conducted by a sports organization, isâ
+(i)
+credentialed or accredited by the sports organization; and
+(ii)
+prohibited from placing a wager by the terms of such credential or accreditation; or
+(F)
+individual convicted of an offense under subsection (a) of section 224 of title 18, United States Code.
+(5)
+Authorized data
+(A)
+Result of a wager
+Provide that an operator of an online prediction market shall determine the result of a wager only with data that is obtained from a source that the State regulatory entity hasâ
+(i)
+found to provideâ
+(I)
+substantial speed, accuracy, and consistency; and
+(II)
+only data that isâ
+(aa)
+legally obtained; and
+(bb)
+in full compliance with the terms of any applicable contract or license;
+(ii)
+expressly authorized to provide such data to online prediction markets; and
+(iii)
+identified in the application of the State regulatory entity under section 6.
+(B)
+Other purposes
+Provide that the statistics, result, outcome, or other data used by an operator of an online prediction market for a purpose other than to determine the result of a wager shall be in the public domain or otherwise legally obtained.
+(6)
+Consumer protections
+(A)
+Self-exclusion
+(i)
+State self-exclusion list
+Provide a process by which an individual may restrict himself or herself from placing a wager with an operator of an online prediction market located in the State, including by imposing wager limits.
+(ii)
+National self-exclusion list
+Provide, through the State regulatory entity acting in cooperation with the Assistant Secretary for Mental Health and Substance Use, a process by which an individual may restrict himself or herself from placing a wager with an operator of an online prediction market located in any wagering opt-in State, including by imposing wager limits and placing himself or herself on the national self-exclusion list.
+(iii)
+Reasonable steps required
+Provide that an operator of an online prediction market may not accept a wager by an individual who isâ
+(I)
+described in clause (i); or
+(II)
+included on the national self-exclusion list.
+(B)
+Withdrawal restrictions
+Prohibit an operator of an online prediction market fromâ
+(i)
+requiring an individual engaged in wagering to participate in a publicity or an advertising activity of the online prediction market as a condition of withdrawal of the winnings of the individual; and
+(ii)
+imposing on any individual engaged in wageringâ
+(I)
+a minimum or maximum withdrawal limit for the account of the individual;
+(II)
+any restriction on the right of the individual to make a withdrawal from the account of the individual based on the extent of the wagering by the individual;
+(III)
+an unreasonable deadline for the provision of information relating to the identity of the individual as a condition of withdrawal from the account of the individual; or
+(IV)
+a dormancy charge for an account of the individual that is not used to place a wager.
+(C)
+Disclosure
+(i)
+Restrictions or conditions
+Provide that an operator of an online prediction market shall provide an individual with adequate and clear information relating to any applicable restriction or condition before the individual opens an account with the online prediction market.
+(ii)
+Bonuses offered
+Provide that an operator of an online prediction market shall provide to an individual engaged in wagering clear, concise, and unambiguous information relating to any bonus offered, includingâ
+(I)
+the terms and conditions for awarding, receiving, or withdrawal of the bonus; and
+(II)
+a description of any and all wagering requirements.
+(iii)
+Public availability
+Provide that the information described in clauses (i) and (ii) be available to the public.
+(iv)
+Actual odds
+Provide that an operator of an online prediction market shallâ
+(I)
+before accepting a wager, provide an individual with adequate and clear information on the actual odds of winning a wager, as calculated by the operator of the online prediction market; and
+(II)
+provide an individual placing a wager with an opportunity to cancel the wager without any cost or penalty, and provide information to the individual regarding such opportunity.
+(D)
+Treatment and education funding
+Provide that an operator of an online prediction market shall allocate an appropriate percentage of the revenue from wagering toâ
+(i)
+treatment for gambling disorder; and
+(ii)
+education on responsible gaming.
+(E)
+Reserve requirement
+Provide that an operator of an online prediction market shall maintain a reserve in an amount not less than the sum ofâ
+(i)
+the amounts held by the operator of the online prediction market for the account of patrons;
+(ii)
+the amounts accepted by the operator of the online prediction market as wagers on contingencies the outcomes of which have not been determined; and
+(iii)
+the amounts owed but unpaid by the operator of the online prediction market on winning wagers during the period for honoring winning wagers established by State law or the operator of the online prediction market.
+(F)
+Affordability protections
+Provide that an operator of an online prediction marketâ
+(i)
+may not accept more than 5 deposits from an individual during a 24-hour period;
+(ii)
+may not accept deposits made using a credit card; and
+(iii)
+shall be required, before accepting wagers from an individual in an amount that is more than $1,000 during a 24-hour period or $10,000 during a 30-day period, to conduct an affordability check which shall be satisfied by 1 or both of the following ways:
+(I)
+Verification that the proposed deposit is not greater than 30 percent of the monthly income of the individual.
+(II)
+Verification through a reasonable lender standard based on issuance of an unsecured loan for the proposed deposit through methods normally used by consumer lenders.
+(G)
+Artificial intelligence restriction
+Provide that an operator of an online prediction market may not use artificial intelligence toâ
+(i)
+track the wagers of an individual;
+(ii)
+create an offer or promotion targeting a specific individual; or
+(iii)
+create a gambling product, such as a proposition bet or a microbet.
+(7)
+Advertising
+Provide that advertisements for an online prediction marketâ
+(A)
+shallâ
+(i)
+disclose the identity of the online prediction market; and
+(ii)
+provide information about how to access resources relating to gambling addiction;
+(B)
+shall not recklessly or purposefully targetâ
+(i)
+problem gamblers;
+(ii)
+individuals suffering from gambling disorder or individuals who have placed themselves on a self-exclusion list; or
+(iii)
+individuals who are ineligible to place a wager, including individuals younger than 21 years of age (including through the placement of advertisements in locations where underage users are most prominent);
+(C)
+may not be broadcastâ
+(i)
+between the hours of 8:00 a.m. and 10:00 p.m. local time; or
+(ii)
+during a live broadcast of a sporting event; and
+(D)
+may not includeâ
+(i)
+odds boosts or similar offers, including advertising that contains the phrase
+bonus
+,
+no sweat
+,
+bonus bet
+, or any other similar term; or
+(ii)
+any information on how to place a wager or how wagers work.
+(8)
+Licensing requirement
+(A)
+In general
+Provide that an operator of an online prediction market located in the State shall be licensed by the State regulatory entity.
+(B)
+Suitability for licensing
+(i)
+In general
+Provide that before granting a license to an online prediction market, the State regulatory entity shall make a determination, based on a completed background check and investigation, with respect to whether the prospective online prediction market and any person considered to be in control of the prospective online prediction market is suitable for license in accordance with suitability standards established by the State regulatory entity.
+(ii)
+Associates of applicants
+Provide that if a prospective online prediction market is a corporation, partnership, or other business entity, a background check and investigation shall occur with respect toâ
+(I)
+the president or other chief executive of the corporation, partnership, or other business entity; and
+(II)
+any other partner or senior executive and director of the corporation, partnership, or other business entity, as determined by the State regulatory entity.
+(iii)
+Background check and investigation
+Establish standards and procedures for conducting the background checks and investigations described in this subparagraph.
+(C)
+Unsuitability for licensing
+With respect to the suitability standards under subparagraph (B)(i), provide that a prospective online prediction market shall not be determined to be suitable for licensing as an online prediction market if the operator of the prospective online prediction marketâ
+(i)
+has failed to provide information and documentary material for a determination of suitability for licensing as an online prediction market;
+(ii)
+has supplied information which is untrue or misleading as to a material fact pertaining to any such determination;
+(iii)
+has been convicted of an offense punishable by imprisonment of more than 1 year;
+(iv)
+is delinquent inâ
+(I)
+filing any applicable Federal or State tax returns; or
+(II)
+the payment of any taxes, penalties, additions to tax, or interest owed to the United States or a State;
+(v)
+on or after October 13, 2006â
+(I)
+has knowingly participated in, or should have known the operator of the prospective online prediction market was participating in, an illegal internet gambling activity, includingâ
+(aa)
+taking an illegal internet wager;
+(bb)
+payment of winnings on an illegal internet wager;
+(cc)
+promotion through advertising of an illegal internet gambling website or service; or
+(dd)
+collection of any payment on behalf of an entity operating an illegal internet gambling website; or
+(II)
+has knowingly been owned, operated, managed, or employed by, or should have known the prospective online prediction market was owned, operated, managed, or employed by, any person who was knowingly participating in, or should have known the person was participating in, an illegal internet gambling activity, including an activity described in items (aa) through (dd) of subclause (I);
+(vi)
+hasâ
+(I)
+received any assistance, financial or otherwise, from a person who has, before the date of enactment of this Act, knowingly accepted wagers from any other person who is physically present in the United States in violation of Federal or State law; or
+(II)
+provided any assistance, financial or otherwise, to a person who has, before the date of enactment of this Act, knowingly accepted wagers from any other person who is physically present in the United States in violation of Federal or State law;
+(vii)
+with respect to any other entity that has accepted a wager from any individual in violation of United States law, has purchased or otherwise obtainedâ
+(I)
+such entity;
+(II)
+a list of the customers of such entity; or
+(III)
+any other part of the equipment or operations of such entity;
+(viii)
+fails to certify in writing, under penalty of perjury, that the applicant or other such person, and all affiliated business entities (including all entities under common control), during the entire history of such applicant or other such person and all affiliated business entitiesâ
+(I)
+have not committed an intentional felony violation of Federal or State wagering law; and
+(II)
+have used diligence to prevent any United States person from placing a wager on an internet site in violation of Federal or State wagering laws; or
+(ix)
+operates an online prediction market or other wagering service outside the United States that has failed to prevent any United States person from placing a wager that does not comply with Federal or State wagering laws.
+(D)
+Revocation and suspension
+Establish standards and procedures for suspending or revoking the license of an operator of an online prediction market.
+(9)
+Employee background checks
+Provide that an operator of an online prediction marketâ
+(A)
+shall ensure that each existing and newly hired employee or contractor of the online prediction market undergo an annual criminal history background check; and
+(B)
+shall not employ or enter into a contract with any individual who has been convicted of a Federal or State crime relating to wagering.
+(10)
+Recordkeeping requirements
+(A)
+In general
+With respect to each wager accepted by an operator of an online prediction market or attempted to be placed by an individual with an operator of an online prediction market, provide that the operator of the online prediction market shall secure and maintain a record of the following:
+(i)
+The name, permanent address, date of birth, and social security number or passport number of the individual who placed, or attempted to place, the wager, which the operator of the online prediction market shall verify in accordance with the requirements for verification of identity in parts 1010.312 and 1021.312 of title 31, Code of Federal Regulations (or any successor regulation).
+(ii)
+The amount and type of the wager.
+(iii)
+The date and time at which the wager was placed or attempted to be placed.
+(iv)
+The location at which the wager was placed or attempted to be placed, including the internet protocol address, if applicable.
+(v)
+The outcome of the wager.
+(B)
+Records relating to suspicious transactions
+Provide that, in addition to the records required to be maintained pursuant paragraph (A), an operator of an online prediction market shall be required to maintain any other records relating to a suspicious transaction, including video recordings, in the possession, custody, or control of the operator of the online prediction market.
+(C)
+Duration of recordkeeping obligation
+Provide that an operator of an online prediction market shall be required to maintain each record required under this paragraph for not fewer than 6 years after the date on which the record is created.
+(11)
+Data security
+Provide that an operator of an online prediction market and the State regulatory entity shall take reasonable steps to prevent unauthorized access to, or dissemination of, wagering and customer data.
+(12)
+Real-time information sharing
+Provide that an operator of an online prediction market shall provide to the State regulatory entity and the Attorney General anonymized wagering data in real-time or as soon as practicable, but not later than 24 hours, after the time at which a wager is accepted by the operator of the online prediction market.
+(13)
+Suspicious transaction reporting
+(A)
+Reporting to State regulatory entity
+Provide that each operator of an online prediction market located in the State shall promptly report the information described in paragraph (10)(A) for any suspicious transaction to the State regulatory entity, in such manner and accompanied by such additional information as the State regulatory entity may require.
+(B)
+Reporting to sports organizations
+(i)
+In general
+Subject to clause (ii), provide that an operator of an online prediction market shall simultaneously transmit to any applicable sports organization, and any component of the Department of Justice or other Federal law enforcement entity designated by the Attorney General to receive such reports, any suspicious transaction report submitted to a State regulatory entity under subparagraph (A).
+(ii)
+Personally identifiable information
+(I)
+In general
+Except as provided in subclause (II), a suspicious transaction report submitted to a sports organization shall not contain any personally identifiable information relating to any individual who placed, or attempted to place, a wager.
+(II)
+Exception
+A suspicious transaction report submitted to a sports organization shall include any available personally identifiable information relating to an individual described in subparagraph (C), (D), or (E) of paragraph (4).
+(14)
+Monitoring and enforcement
+(A)
+In general
+Provide that the State regulatory entity, in consultation with law enforcement, shall develop and implement a strategy to enforce the wagering laws of the State.
+(B)
+Authority to monitor and enforcement
+Provide adequate authority to the State regulatory entity and law enforcement, as appropriate, to monitor compliance with and enforce the wagering laws of the State, includingâ
+(i)
+the authority and responsibility to conduct periodic audits and inspect the books and records of each online prediction market located or operating in the State; and
+(ii)
+a requirement that the State regulatory entity shall refer evidence of potential criminal violations to the appropriate law enforcement entity.
+(15)
+Cooperation with investigations
+(A)
+Online prediction markets
+Provide that any operator of an online prediction market located or operating in the State shall cooperate with any lawful investigation conducted byâ
+(i)
+the State regulatory entity;
+(ii)
+Federal or State law enforcement; or
+(iii)
+a sports organization, with respect to a wagerâ
+(I)
+on a sporting event sponsored, organized, or conducted by the sports organization;
+(II)
+placed by or on behalf of an individual described in subparagraph (C), (D), or (E) of paragraph (4); and
+(III)
+accepted by the operator of the online prediction market.
+(B)
+State regulatory entity
+Provide that the State regulatory entity shall cooperate with any lawful investigation conducted byâ
+(i)
+Federal or State law enforcement; or
+(ii)
+a sports organization, with respect to a wagerâ
+(I)
+on a sporting event sponsored, organized, or conducted by the sports organization; and
+(II)
+accepted by an online prediction market located or operating in the State.
+(16)
+Internal controls
+(A)
+In general
+Provide that each operator of an online prediction market shall devise and maintain a system of internal controls sufficient to provide reasonable assurances that wagers are accepted in accordance with all applicable laws, regulations, and policies.
+(B)
+Minimum standards
+Provide that the State regulatory entity shall adopt and publish minimum standards for internal control procedures.
+(C)
+Report
+Provide that each operator of an online prediction market shall submit to the State regulatory entity not less frequently than annually the written system of internal controls of the online prediction market.
+(D)
+Audit
+Provide that system of internal controls of an online prediction market shall be evaluated on a periodic basis, but not less frequently than every 3 years, by the State regulatory entity or an independent third-party auditor.
+8.
+National self-exclusion list
+Part D of title V of the Public Health Service Act (
+42 U.S.C. 290dd et seq.
+) is amended by adding at the end the following:
+554.
+National self-exclusion list
+(a)
+In general
+In cooperation with State regulatory entities, the Secretary shall maintain and administerâ
+(1)
+a list (to be known as the
+national self-exclusion list
+) of individuals who, by placing themselves on the list, restrict themselves from placing a wager with an operator of an online prediction market located in any wagering opt-in State, including by imposing wager limits; and
+(2)
+a process by which an individual may add or remove himself or herself from the national self-exclusion list.
+(b)
+Definitions
+In this section, the terms
+online prediction market
+,
+wager
+, and
+wagering opt-in State
+have the meanings given to such terms in section 3 of the
+Prediction Markets Security and Integrity Act of 2026
+.
+.
+9.
+Preventing minors from gambling and ensuring compliance
+(a)
+Prohibition
+An operator of an online prediction market may not allow any individual younger than 21 years of age to register to use the online prediction market or engage in any wager using the online prediction market.
+(b)
+Age, identity, and location verification
+Each operator of an online prediction market shallâ
+(1)
+establish and maintain a program to identify the full name and location and establish the age of each user of the online prediction market;
+(2)
+ensure thatâ
+(A)
+each new account on the online prediction market is verified under the program established under paragraph (1); and
+(B)
+each existing account on the online prediction market may not be used until verified under the program established under paragraph (1);
+(3)
+ensure that individuals who attempt to register for an online prediction market are not otherwise restricted from placing wagers, such as due to economic sanctions, self-exclusion lists, or conflict of interest rules promulgated by the Department of Justice; and
+(4)
+ensure that, in the event that a user of the online prediction market changes locations to a different State, the operator of the online prediction market complies with the regulations of the State the user is located in.
+(c)
+Ban on advertising to individuals younger than 21 years of age
+An operator of an online prediction market may notâ
+(1)
+advertise to any individual younger than 21 years of age;
+(2)
+use branding that would target any individual younger than 21 years of age; or
+(3)
+place ads in online or physical locations where the majority of viewers or participants would be presumed to be younger than 21 years of age.
+10.
+Enforcement
+(a)
+Powers of the Attorney General
+(1)
+Civil action
+The Attorney General may bring a civil action for injunctive relief in an appropriate district court of the United States against any person who violates this Act or any regulation promulgated under this Act.
+(2)
+Criminal penalty
+Any person who violates this Act or any regulation promulgated under this Act shall be fined not less than $50,000 per violation, imprisoned for not more than 2 years, or both.
+(3)
+Authority preserved
+Nothing in this section shall be construed to limit the authority of the Attorney General under any other provision of law.
+(b)
+Enforcement by State attorneys general
+(1)
+Civil action
+In any case in which an attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the violation of this Act or any regulation promulgated under this Act by any operator of an online prediction market, the attorney general of the State may, as parens patriae, bring a civil action on behalf of the residents of the State in an appropriate district court of the United States to enjoin such violation.
+(2)
+Rights of the Attorney General
+(A)
+Notice to Attorney General
+(i)
+In general
+Except as provided in clause (iii), the attorney general of a State shall notify the Attorney General in writing that the attorney general of the State intends to bring a civil action under paragraph (1) not later than 10 days before initiating the civil action.
+(ii)
+Contents
+The notification required under clause (i) with respect to a civil action shall include a copy of the complaint to be filed to initiate the civil action.
+(iii)
+Exception
+If it is not feasible for the attorney general of a State to provide the notification required by clause (i) before initiating an action under paragraph (1), the attorney general of the State shall notify the Attorney General immediately upon instituting the civil action.
+(B)
+Intervention by the Attorney General
+The Attorney General mayâ
+(i)
+intervene in any action brought by the attorney general of a State under paragraph (1); and
+(ii)
+upon intervening under clause (i), be heard on all matters arising in the civil action and file petitions for appeal of a decision in the action.
+(c)
+Limitation on State action while Federal action is pending
+If the Attorney General institutes an action under subsection (a) with respect to a violation of this Act or any regulation promulgated under this Act, a State may not, during the pendency of that action, institute an action under subsection (b) against any defendant named in the complaint in the action instituted by the Attorney General based on the same set of facts giving rise to the violation with respect to which the Attorney General instituted the action.
+11.
+Preserving State regulations and consumer protections
+(a)
+Prohibition relating to event contracts under the Commodity Exchange Act
+Section 5c of the Commodity Exchange Act (
+7 U.S.C. 7aâ2
+) is amended by inserting after subsection (c) the following:
+(d)
+Prohibition on online prediction markets listing event contracts
+An agreement, contract, transaction, or swap in an excluded commodity that is based upon an occurrence, extent of an occurrence, or contingency shall not be listed or made available for clearing or trading on or through an online prediction market (as defined in section 3 of the
+Prediction Markets Security and Integrity Act of 2026
+).
+.
+(b)
+No preemption
+Nothing in this Act preempts or limits the authority of a State or an Indian Tribe to enact, adopt, promulgate, or enforce any law, rule, regulation, or other measure with respect to online prediction markets that is in addition to, or more stringent than, the requirements of this Act, including a law, rule, regulation, or other measure that prohibits an online prediction market from operating in the State or Tribal jurisdiction.
+12.
+Severability
+If a provision of this Act, an amendment made by this Act, a regulation promulgated under this Act or under an amendment made by this Act, or the application of any such provision, amendment, or regulation to any person or circumstance, is held to be invalid, the remaining provisions of this Act, amendments made by this Act, regulations promulgated under this Act or under an amendment made by this Act, or the application of such provisions, amendments, and regulations to any person or circumstanceâ
+(1)
+shall not be affected by the invalidity; and
+(2)
+shall continue to be enforced to the maximum extent practicable.

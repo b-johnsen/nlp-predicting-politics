@@ -1,0 +1,74 @@
+1.
+Short title
+This Act may be cited as the
+Health Misinformation Act of 2021
+.
+2.
+Findings
+Congress finds the following:
+(1)
+Access to accurate and reliable information is crucial for public health and safety during a national emergency or crisis, such as the COVIDâ19 pandemic.
+(2)
+On January 27, 2020, the Secretary of Health and Human Services determined that a public health emergency existed under section 319 of the Public Health Service Act (
+42 U.S.C. 247d
+), as a result of confirmed cases of COVIDâ19 in the United States.
+(3)
+As of the date of enactment of this Act, in the United States, there have been more than 34,000,000 cases of COVIDâ19 and more than 600,000 deaths resulting from COVIDâ19.
+(4)
+Since the declaration of the public health emergency described in paragraph (2), misinformation and disinformation relating to COVIDâ19 have spread at an alarming rate, which hasâ
+(A)
+hindered the public response efforts of Federal, State, local, and indigenous leaders; and
+(B)
+endangered lives.
+(5)
+The COVIDâ19 pandemic is the first pandemic in human history during whichâ
+(A)
+the internet is being used to keep individuals informed and connected; and
+(B)
+misinformation and disinformation about the disease, and about treatments and preventative measures with respect to the disease, including vaccines, have proliferated on the internet and through the use of social media.
+(6)
+Features that are built into technology platforms have contributed to the spread of misinformation and disinformation, with social media platforms incentivizing individuals to share content to get likes, comments, and other positive signals of engagement, which rewards engagement rather than accuracy.
+(7)
+Social media companies use algorithms that determine what material users see online, and those algorithms often prioritize content based on the popularity of the content, or similarity to previously seen content, which means that a user exposed to information once could see more of that kind of information over time, furthering the effects of misinformation and disinformation.
+(8)
+One study has found that as much as 65 percent of misinformation and disinformation on the internet and social media relating to the COVIDâ19 vaccines can be traced back to 12 individuals and another study has found that even brief exposure to misinformation relating to the COVIDâ19 vaccines makes individuals less likely to want to receive one of those vaccines.
+(9)
+The COVIDâ19 pandemic remains an ongoing threat and there is a need to ensure that social media platforms do their part in promoting accurate scientific information to users of those platforms.
+3.
+Treatment of publisher or speaker
+(a)
+In general
+Section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+), is amendedâ
+(1)
+in subsection (c)(1)â
+(A)
+by striking
+No provider
+and inserting the following:
+(A)
+In general
+Except as provided in subparagraph (B), no provider
+; and
+(B)
+by adding at the end the following:
+(B)
+Exception
+A provider of an interactive computer service shall be treated as the publisher or speaker of health misinformation that is created or developed through the interactive computer service during a covered period if the provider promotes that health misinformation through an algorithm used by the provider (or similar software functionality), except that this subparagraph shall not apply if that promotion occurs through a neutral mechanism, such as through the use of chronological functionality.
+; and
+(2)
+in subsection (f), by adding at the end the following:
+(5)
+Covered period
+The term
+covered period
+means a period during which a public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (
+42 U.S.C. 247d
+), including a renewal of any such declaration, is in effect.
+.
+(b)
+Guidance
+Not later than 30 days after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with the heads of other relevant Federal agencies and outside experts determined appropriate by the Secretary, shall issue guidance regarding what constitutes health misinformation for the purposes of subparagraph (B) of section 230(c)(1) of the Communications Act of 1934 (
+47 U.S.C. 230(c)(1)
+), as added by subsection (a) of this section.

@@ -1,0 +1,177 @@
+1.
+Short title
+This Act may be cited as the
+Spectrum IT Modernization Act of 2020
+.
+2.
+Modernization effort
+(a)
+Definitions
+In this sectionâ
+(1)
+the term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information;
+(2)
+the term
+covered agency
+â
+(A)
+means any Federal entity that the Assistant Secretary determines is appropriate; and
+(B)
+includes the Department of Defense;
+(3)
+the term
+Federal entity
+has the meaning given the term in section 113(l) of the National Telecommunications and Information Administration Organization Act (
+47 U.S.C. 923(l)
+);
+(4)
+the term
+Federal spectrum
+means frequencies assigned on a primary basis to a covered agency;
+(5)
+the term
+infrastructure
+means information technology systems and information technologies, tools, and databases; and
+(6)
+the term
+NTIA
+means the National Telecommunications and Information Administration.
+(b)
+Initial interagency spectrum information technology coordination
+Not later than 90 days after the date of enactment of this Act, the Assistant Secretary, in consultation with the Policy and Plans Steering Group, shall identify a process to establish goals, including parameters to measure the achievement of those goals, for the modernization of the infrastructure of covered agencies relating to managing the use of Federal spectrum by those agencies, which shall includeâ
+(1)
+the standardization of data inputs, modeling algorithms, modeling and simulation processes, analysis tools with respect to Federal spectrum, assumptions, and any other tool to ensure interoperability and functionality with respect to that infrastructure;
+(2)
+other potential innovative technological capabilities with respect to that infrastructure, including cloud-based databases, artificial intelligence technologies, automation, and improved modeling and simulation capabilities;
+(3)
+ways to improve the management of covered agenciesâ use of Federal spectrum through that infrastructure, including byâ
+(A)
+increasing the efficiency of that infrastructure;
+(B)
+addressing validation of usage with respect to that infrastructure;
+(C)
+increasing the accuracy of that infrastructure;
+(D)
+validating models used by that infrastructure; and
+(E)
+monitoring and enforcing requirements that are imposed on covered agencies with respect to the use of Federal spectrum by covered agencies;
+(4)
+ways to improve the ability of covered agencies to meet mission requirements in congested environments with respect to Federal spectrum, including as part of automated adjustments to operations based on changing conditions in those environments;
+(5)
+the creation of a time-based automated mechanismâ
+(A)
+to share Federal spectrum between covered agencies to collaboratively and dynamically increase access to Federal spectrum by those agencies; and
+(B)
+that could be scaled across Federal spectrum; and
+(6)
+the collaboration between covered agencies necessary to ensure the interoperability of Federal spectrum.
+(c)
+Spectrum information technology modernization
+(1)
+In general
+Not later than 240 days after the date of enactment of this Act, the Assistant Secretary shall submit to Congress a report that contains the plan of the NTIA to modernize and automate the infrastructure of the NTIA relating to managing the use of Federal spectrum by covered agencies so as to more efficiently manage that use.
+(2)
+Contents
+The report required under paragraph (1) shall includeâ
+(A)
+an assessment of the current, as of the date on which the report is submitted, infrastructure of the NTIA described in that paragraph;
+(B)
+an acquisition strategy for the modernized infrastructure of the NTIA described in that paragraph, including how that modernized infrastructure will enable covered agencies to be more efficient and effective in the use of Federal spectrum;
+(C)
+a timeline for the implementation of the modernization efforts described in that paragraph;
+(D)
+plans detailing how the modernized infrastructure of the NTIA described in that paragraph willâ
+(i)
+enhance the security and reliability of that infrastructure so that such infrastructure satisfies the requirements of the Federal Information Security Management Act of 2002 (
+Public Law 107â296
+; 116 Stat. 2135);
+(ii)
+improve data models and analysis tools to increase the efficiency of the spectrum use described in that paragraph;
+(iii)
+enhance automation and workflows, and reduce the scope and level of manual effort, in order toâ
+(I)
+administer the management of the spectrum use described in that paragraph; and
+(II)
+improve data quality and processing time; and
+(iv)
+improve the timeliness of spectrum analyses and requests for information, including requests submitted pursuant to section 552 of title 5, United States Code;
+(E)
+an operations and maintenance plan with respect to the modernized infrastructure of the NTIA described in that paragraph;
+(F)
+a strategy for coordination between the covered agencies within the Policy and Plans Steering Group, which shall includeâ
+(i)
+a description ofâ
+(I)
+those coordination efforts, as in effect on the date on which the report is submitted; and
+(II)
+a plan for coordination of those efforts after the date on which the report is submitted, including with respect to the efforts described in subsection (d);
+(ii)
+a plan for standardizingâ
+(I)
+electromagnetic spectrum analysis tools;
+(II)
+modeling and simulation processes and technologies; and
+(III)
+databases to provide technical interference assessments that are usable across the Federal Government as part of a common spectrum management infrastructure for covered agencies; and
+(iii)
+a plan for each covered agency to implement a modernization plan described in subsection (d)(1) that is tailored to the particular timeline of the agency;
+(G)
+identification of manually intensive processes involved in managing Federal spectrum and proposed enhancements to those processes;
+(H)
+metrics to evaluate the success of the modernization efforts described in that paragraph and any similar future efforts; and
+(I)
+an estimate of the cost of the modernization efforts described in that paragraph and any future maintenance with respect to the modernized infrastructure of the NTIA described in that paragraph, including the cost of any personnel and equipment relating to that maintenance.
+(d)
+Interagency inputs
+(1)
+In general
+Not later than 1 year after the date of enactment of this Act, the head of each covered agency shall submit to the Assistant Secretary and the Policy and Plans Steering Group a report that describes the plan of the agency to modernize the infrastructure of the agency with respect to the use of Federal spectrum by the agency so that such modernized infrastructure of the agency is interoperable with the modernized infrastructure of the NTIA, as described in subsection (c).
+(2)
+Contents
+Each report submitted by the head of a covered agency under paragraph (1) shallâ
+(A)
+includeâ
+(i)
+an assessment of the current, as of the date on which the report is submitted, management capabilities of the agency with respect to the use of frequencies that are assigned to the agency, which shall include a description of any challenges faced by the agency with respect to that management;
+(ii)
+a timeline for completion of the modernization efforts described in that paragraph;
+(iii)
+a description of potential innovative technological capabilities for the management of frequencies that are assigned to the agency, as determined under subsection (b);
+(iv)
+identification of agency-specific requirements or constraints relating to the infrastructure of the agency;
+(v)
+identification of any existing, as of the date on which the report is submitted, systems of the agency that are duplicative of the modernized infrastructure of the NTIA, as proposed under subsection (c); and
+(vi)
+with respect to the report submitted by the Secretary of Defenseâ
+(I)
+a strategy for the integration of systems or the flow of data among the Armed Forces, the military departments, the Defense Agencies and Department of Defense Field Activities, and other components of the Department of Defense;
+(II)
+a plan for the implementation of solutions to the use of Federal spectrum by the Department of Defense involving information at multiple levels of classification; and
+(III)
+a strategy for addressing, within the modernized infrastructure of the Department of Defense described in that paragraph, the exchange of information between the Department of Defense and the NTIA in order to accomplish required processing of all Department of Defense domestic spectrum coordination and management activities; and
+(B)
+be submitted in an unclassified format, with a classified annex, as appropriate.
+(3)
+Notification of Congress
+Upon submission of the report required under paragraph (1), the head of each covered agency shall notify Congress that the head of the covered agency has submitted the report.
+(e)
+GAO oversight
+The Comptroller General of the United States shallâ
+(1)
+not later than 90 days after the date of enactment of this Act, conduct a review of the infrastructure of covered agencies, as that infrastructure exists on the date of enactment of this Act;
+(2)
+after all of the reports required under subsection (d) have been submitted, conduct oversight of the implementation of the modernization plans submitted by the NTIA and covered agencies under subsections (c) and (d), respectively;
+(3)
+not later than 1 year after the date on which the Comptroller General begins conducting oversight under paragraph (2), and annually thereafter, submit a report regarding that oversight toâ
+(A)
+with respect to the implementation of the modernization plan of the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and
+(B)
+with respect to the implementation of the modernization plans of all covered agencies, including the Department of Defense, the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives; and
+(4)
+provide regular briefings toâ
+(A)
+with respect to the application of this section to the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and
+(B)
+with respect to the application of this section to all covered agencies, including the Department of Defense, the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.

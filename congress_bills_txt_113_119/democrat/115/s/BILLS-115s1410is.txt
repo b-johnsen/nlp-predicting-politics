@@ -1,0 +1,428 @@
+1.
+Short title
+This Act may be cited as the
+Safe Development, Research, and Opportunities Needed for Entrepreneurship Act of 2017
+or the
+Safe DRONE Act of 2017
+.
+2.
+Definitions
+Except as otherwise specifically provided, in this Act, the terms
+unmanned aircraft
+,
+unmanned aircraft system
+, and
+small unmanned aircraft
+have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (
+Public Law 112â95
+;
+49 U.S.C. 40101
+note).
+3.
+Sense of Congress on emergency exemption process
+It is the sense of Congress that the Administrator of the Federal Aviation Administration should comply as soon as possible, and not later than 60 days after the date of the enactment of this Act, with the requirement under section 2207 of the FAA Extension, Safety, and Security Act of 2016 (
+Public Law 114â190
+;
+49 U.S.C. 40101
+note) to publish guidance for applications for, and procedures for the processing of, on an emergency basis, exemptions or certificates of authorization or waiver for the use of unmanned aircraft systems by or on behalf of civil or public operators in response to a catastrophe, disaster, or other emergency to facilitate emergency response operations, such as firefighting, search and rescue, post-catastrophic response operations, such as utility and infrastructure restoration efforts, and the safe and prompt processing, adjustment, and payment of insurance claims.
+4.
+Plan for full operational capability of unmanned aircraft systems traffic management
+(a)
+In general
+The Secretary of Transportation, in coordination with the Administrator of the National Aeronautics and Space Administration and industry stakeholders, shall develop an implementation plan to achieve full operational capability of unmanned aircraft systems traffic management (in this section referred to as
+UTM
+) and ensure the safety and security of all aircraft.
+(b)
+Requirements
+In developing the plan required by subsection (a), the Secretary shallâ
+(1)
+establish a timeline for certifying an operational capability of UTM as safe and approved for use;
+(2)
+establish criteria to be used to certify a UTM system under paragraph (1), including the demonstration and validation of such a system at the test ranges designated under section 332(c) of the FAA Modernization and Reform Act of 2012 (
+Public Law 112â95
+;
+49 U.S.C. 40101
+note); and
+(3)
+outline the roles of industry and government in establishing an operational UTM.
+(c)
+Assessments
+The plan required by subsection (a) shall include an assessment of various components necessary for and possible with the full operational capability of UTM, includingâ
+(1)
+identification of unmanned aircraft systems in the national airspace system;
+(2)
+deconfliction of unmanned aircraft systems in the national airspace system;
+(3)
+mitigation of effects of unmanned aircraft systems in the national airspace system;
+(4)
+the extent that UTM may rely on or use resources of the Federal Government;
+(5)
+the need for additional detect-and-avoid technologies to detect cooperative and noncooperative aircraft;
+(6)
+interoperability with traditional air traffic management services and technology;
+(7)
+the potential for UTM to manage higher altitude operations of unmanned aircraft systems and unmanned aircraft systems weighing more than 55 pounds; and
+(8)
+cybersecurity protections and national security benefits.
+(d)
+Deadline
+Not later than one year after the date of the enactment of this Act, the Secretary shallâ
+(1)
+complete the plan required by subsection (a);
+(2)
+submit the plan toâ
+(A)
+the Committee on Commerce, Science, and Transportation of the Senate; and
+(B)
+the Committee on Science, Space, and Technology and the Committee on Transportation and Infrastructure of the House of Representatives; and
+(3)
+publish the plan on a publicly accessible Internet website of the Federal Aviation Administration.
+5.
+Community and technical college centers of excellence in small unmanned aircraft system technology training
+(a)
+Designation
+Not later than 120 days after the date of the enactment of this Act, the Secretary of Transportation, in consultation with the Secretary of Education and the Secretary of Labor, shall, subject to paragraph (2), designate consortia of public, 2-year institutions of higher education as Community and Technical College Centers of Excellence in Small Unmanned Aircraft System Technology Training (in this section referred to as the
+Centers of Excellence
+).
+(b)
+Functions
+The Centers of Excellence shall seek to expand their capacity to train students for career opportunities in industry and government service related to the use of small unmanned aircraft systems, including byâ
+(1)
+admitting more students;
+(2)
+training faculty;
+(3)
+expanding facilities;
+(4)
+establishing new career pathways from secondary school to associate degree and baccalaureate degree programs; and
+(5)
+awarding credit for prior learning experience, including military service.
+(c)
+Education and training requirements
+The Centers of Excellence shall address education and training requirements associated with various types of small unmanned aircraft systems, components, and related equipment, including with respect toâ
+(1)
+multi-rotor and fixed-wing small unmanned aircraft;
+(2)
+flight systems, radio controllers, components, and characteristics of such aircraft;
+(3)
+routine maintenance, uses and applications, privacy concerns, safety, and insurance for such aircraft;
+(4)
+hands-on flight practice using small model quadcopters and computer simulator training;
+(5)
+use of small unmanned aircraft in various industry applications and local, State, and Federal Government programs and services, including in agriculture, law enforcement, monitoring oil and gas pipelines, natural disaster response and recovery, fire and emergency services, and other emerging areas;
+(6)
+Federal policies concerning small unmanned aircraft;
+(7)
+dual credit programs to deliver small unmanned aircraft training opportunities to secondary school students; and
+(8)
+training with respect to sensors and the processing, analyzing, and visualizing of data collected by small unmanned aircraft.
+(d)
+Collaboration
+The Centers of Excellence shall seek to collaborate with institutions participating in the Alliance for System Safety of UAS through Research Excellence of the Federal Aviation Administration and with the test ranges designated under section 332(c) of the FAA Modernization and Reform Act of 2012 (
+Public Law 112â95
+;
+49 U.S.C. 40101
+note).
+(e)
+Authorization of appropriations
+There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of the fiscal years 2018 through 2023 to carry out this section.
+(f)
+Institution of higher education
+In this section, the term
+institution of higher education
+has the meaning given the term in section 101 of the Higher Education Act of 1965 (
+20 U.S.C. 1001
+).
+6.
+Interagency working group on coordinated Federal policy for communications among unmanned
+aircraft systems
+(a)
+Sense of Congress
+It is the sense of Congress thatâ
+(1)
+a Federal policy for communications among unmanned aircraft systems, which may include communications through spectrum, wireless, or broadcast networks, or other means, requires coordination among Federal agencies in order to facilitate the safe integration of unmanned aircraft systems into the national airspace system; and
+(2)
+a policy described in paragraph (1) should ensure safety, promote investment, and foster innovation to benefit all unmanned aircraft systems stakeholders, including manufacturers, operators, and consumers.
+(b)
+Establishment of working group
+Not later than 60 days after the date of the enactment of this Act, the Assistant Secretary and the Chairman shall establish a working group to make recommendations with respect to the coordination of Federal policy for communications among unmanned aircraft systems to facilitate the safe integration of unmanned aircraft systems into the national airspace system.
+(c)
+Membership
+(1)
+In general
+The working group established under subsection (b) shall be composed of Federal stakeholders described in paragraph (2) and non-Federal stakeholders described in paragraph (3).
+(2)
+Federal stakeholders
+The Federal stakeholders described in this paragraph are representatives ofâ
+(A)
+the National Telecommunications and Information Administration;
+(B)
+the Federal Communications Commission;
+(C)
+the Federal Aviation Administration;
+(D)
+the National Aeronautics and Space Administration;
+(E)
+the Department of Defense;
+(F)
+the Department of Homeland Security;
+(G)
+the Department of Justice; and
+(H)
+any other Federal agency the Assistant Secretary considers appropriate.
+(3)
+Non-federal stakeholders
+The non-Federal stakeholders described in this paragraph are representatives ofâ
+(A)
+unmanned aircraft systems manufacturers;
+(B)
+unmanned aircraft systems operators;
+(C)
+customers or end users of data collected by unmanned aircraft systems operators;
+(D)
+unmanned aircraft systems technology providers;
+(E)
+commercial radio spectrum license holders;
+(F)
+operators of commercial services in unlicensed spectrum allocations;
+(G)
+commercial radio equipment manufacturers;
+(H)
+appropriate standards-setting organizations; and
+(I)
+the test ranges designated under section 332(c) of the FAA Modernization and Reform Act of 2012 (
+Public Law 112â95
+;
+49 U.S.C. 40101
+note).
+(d)
+Considerations
+In making recommendations under subsection (b), the working group established under that subsection shall consider current and anticipated communications needs for unmanned aircraft systems, including the development ofâ
+(1)
+sense-and-avoid and detect-and-avoid technology;
+(2)
+payload data transmissions;
+(3)
+communications link integration in unmanned aircraft systems;
+(4)
+appropriate standards for communications links for various altitudes, aircraft, and operations;
+(5)
+traditional and unmanned aircraft system air traffic management technology;
+(6)
+command and control at high altitudes;
+(7)
+shared spectrum access and management technologies, including dynamic spectrum-sharing schemes, contention-based protocols, and cognitive radio capabilities;
+(8)
+internationally harmonized communications standards; and
+(9)
+radio-frequency communications security standards.
+(e)
+Report to congress
+Not later than one year after the date of the enactment of this Act, and annually thereafter through January 1, 2023, the Assistant Secretary shall submit to Congress a report on the status of the development of a Federal policy for communications among unmanned aircraft systems, includingâ
+(1)
+a summary of considerations under subsection (d); and
+(2)
+recommendations for legislative or regulatory action related to that policy that is necessary to facilitate the safe integration of unmanned aircraft systems into the national airspace system.
+(f)
+Definitions
+In this section:
+(1)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(2)
+Chairman
+The term
+Chairman
+means the Chairman of the Federal Communications Commission.
+7.
+Interagency working group on enhanced safety and security for small unmanned aircraft systems
+(a)
+In general
+Not later than 90 days after the date of the enactment of this Act, the Administrator of the Federal Aviation Administration, in coordination with the Secretary of Homeland Security, shall establish an interagency working groupâ
+(1)
+to examine methods and structures to enhance the safety and security of expanded operations by small unmanned aircraft that involve operations beyond the visual line of sight of the operator and over people; and
+(2)
+to clearly delineate roles and responsibilities among agencies participating in the working group in determining proper safety and security-related obligations and oversight.
+(b)
+Membership
+The interagency working group established under subsection (a) shall, in addition to the Administrator of the Federal Aviation Administration and the Secretary of Homeland Security, be composed of the following:
+(1)
+The Secretary of Defense.
+(2)
+The Attorney General.
+(3)
+The Director of the Federal Bureau of Investigation.
+(4)
+The heads of such other Federal agencies as the Administrator of the Federal Aviation Administration considers appropriate.
+(c)
+Consultations
+The interagency working group established under subsection (a) shall regularly consult with representatives ofâ
+(1)
+unmanned aircraft systems industry organizations and stakeholders; and
+(2)
+the test ranges designated under section 332(c) of the FAA Modernization and Reform Act of 2012 (
+Public Law 112â95
+;
+49 U.S.C. 40101
+note).
+(d)
+Report
+Not later than 180 days after the date of the enactment of this Act, the interagency working group established under subsection (a) shallâ
+(1)
+develop conclusions and recommendations with respect to the matters specified in that subsection; and
+(2)
+submit to Congress a report on such conclusions and recommendations.
+(e)
+Rulemaking
+Not later than 270 days after the date of the enactment of this Act, the Administrator of the Federal Aviation Administration shall release for public comment a notice of proposed rulemaking to modify part 107 of title 14, Code of Federal Regulations, to allow for operations by small unmanned aircraft, including operations over people, operations beyond the visual line of sight of the operator, operations at night, and operations of multiple unmanned aircraft systems by a single remote pilot.
+8.
+Extension of pilot program for integration unmanned aircraft systems into the national airspace
+system
+(a)
+In general
+Section 332(c)(1) of the FAA Modernization and Reform Act of 2012 (
+Public Law 112â95
+;
+49 U.S.C. 40101
+note) is amended by striking
+September 30, 2019
+and inserting
+September 30, 2024
+.
+(b)
+Authorization of appropriations
+There are authorized to be appropriated to the Administrator of the Federal Aviation Administration $14,000,000 for each of fiscal years 2018 through 2024 to carry out the pilot program under section 332(c) of the FAA Modernization and Reform Act of 2012 (
+Public Law 112â95
+;
+49 U.S.C. 40101
+note), to be distributed among the test ranges designated under that section for further research and development on the safe integration of unmanned aircraft systems into the national airspace system.
+9.
+Exception for hobbyist-operated small unmanned aircraft
+(a)
+In general
+Notwithstanding any other provision of law, a person may operate an unmanned aircraft without specific operating authority from the Federal Aviation Administration ifâ
+(1)
+the aircraft is flown strictly for hobby or recreational use;
+(2)
+the aircraft is operated in accordance with the safety guidelines of a community-based organization that have been published in a publically accessible format by the Federal Aviation Administration;
+(3)
+the aircraft is not flown beyond visual line of sight of the person operating the aircraft or persons colocated with and in direct communication with the person operating the aircraft;
+(4)
+the aircraft is operated in a manner that does not interfere with and gives way to any manned aircraft and does not pose undue hazard to any other aircraft, obstacle, or person;
+(5)
+(A)
+the operatorâ
+(i)
+obtains prior authorization from air traffic control before operating in Class B, Class C, or Class D airspace or within the lateral boundaries of the surface area of Class E airspace designated for an airport; and
+(ii)
+complies with all temporary and permanent airspace restrictions in place for the furtherance of security and law enforcement interests; or
+(B)
+in the case of an operator conducting operations from a permanent location within such airspace or a community-based organization conducting a sanctioned event at a fixed site within such airspace, establishes a mutually agreed upon operating procedure with the airport operator and the airport air traffic control tower (when an air traffic facility is located at the airport);
+(6)
+the aircraft is flown from the surface to not more than 400 feet above ground level, except under special conditions and programs established by a community-based organization;
+(7)
+the aircraft is registered and marked in accordance with
+chapter 441
+of title 49, United States Code, and proof of registration is made available to the Administrator or a law enforcement agency upon request; and
+(8)
+the operator has completed an online safety course administered by the Federal Aviation Administration for the operation of unmanned aircraft systems under this section, and proof of completion of the safety course is made available to the Administrator or a law enforcement agency upon request.
+(b)
+Updates
+(1)
+In general
+The Administrator, in collaboration with government and industry stakeholders, including community-based organizations, shall initiate a process to periodically update the operational parameters under subsection (a), as appropriate.
+(2)
+Considerations
+In updating an operational parameter under paragraph (1), the Administrator shall considerâ
+(A)
+appropriate operational limitations to mitigate aviation safety risk and risk to the uninvolved public;
+(B)
+operations outside the membership, guidelines, and programming of a community-based organization;
+(C)
+physical characteristics, technical standards, and classes of aircraft operating under this section;
+(D)
+trends in use, enforcement, or incidents involving unmanned aircraft systems;
+(E)
+ensuring, to the greatest extent practicable, that updates to the operational parameters correspond to, and leverage, advances in technology; and
+(F)
+equipage requirements that facilitate operations and further integrate all unmanned aircraft systems into the national airspace system, such as through unmanned aircraft system traffic management and remote identification and tracking.
+(3)
+Rulemaking
+The Administrator may prescribe regulations for hobbyist-operated small unmanned aircraft based on the process established under paragraph (1).
+(c)
+Rules of construction
+Nothing in this section shall be construedâ
+(1)
+to expand the authority of the Administrator to require operators of small unmanned aircraft operating under an exemption under subsection (a) to be required to seek authorization from the Administrator before conducting an operation in the national airspace system other than as required by subsection (a); or
+(2)
+to limit the authority of the Administrator to pursue an enforcement action against persons operating small unmanned aircraft in violation of this section or any other provision of law.
+(d)
+List of community-Based organizations
+(1)
+In general
+The Administrator shall maintain on a publicly available Internet website of the Federal Aviation Administration a list of community-based organizations under which small unmanned aircraft may be operated in accordance with subsection (a).
+(2)
+Inclusion of organizations
+The Administrator may include a community-based organization on the list required by paragraph (1) if the organization submits to the Federal Aviation Administrationâ
+(A)
+a statement that the organization meets the definition of
+community-based organization
+under subsection (e); and
+(B)
+the safety guidelines of the organization.
+(3)
+Removal
+The Administrator may remove a community-based organization from the list required by paragraph (1).
+(4)
+Guidance
+The Administrator shall publish guidance on the process for including community-based organizations on, and removing such organizations, from the list required by paragraph (1).
+(e)
+Definitions
+In this section:
+(1)
+Community-based organization
+The term
+community-based organization
+means an organization thatâ
+(A)
+represents the aeromodeling and hobby and recreational unmanned aircraft community within the United States;
+(B)
+provides its members a comprehensive set of safety guidelines that underscore safe operations of unmanned aircraft within the national airspace system and the protection and safety of the general public on the ground;
+(C)
+develops and maintains mutually supportive programming with educational institutions, government entities, and other aviation associations; and
+(D)
+acts as a liaison with government agencies as an advocate for its members.
+(2)
+Small unmanned aircraft
+The term
+small unmanned aircraft
+means an unmanned aircraft thatâ
+(A)
+is capable of sustained flight in the atmosphere; and
+(B)
+weighs less than 55 pounds, including the weight of anything attached to or carried by the aircraft, unless otherwise approved through a design, construction, inspection, flight test, and operational safety program administered by a community-based organization.
+(f)
+Conforming repeal
+Section 336 of the FAA Modernization and Reform Act of 2012 (
+Public Law 112â95
+;
+49 U.S.C. 40101
+note) and the item relating to that section in the table of contents for that Act are repealed.
+10.
+Ensuring continued development of unmanned aircraft system industry
+Not later than 30 days after the date of the enactment of this Act, the Director of the Office of Management and Budget, consistent with section 4(c) of Executive Order 13771 (82 Fed. Reg. 9339; relating to reducing regulation and controlling regulatory costs), shall exempt from the definitions of
+regulation
+and
+rule
+for the purposes of that Executive order any final action taken by the Secretary of Transportation or the Administrator of the Federal Aviation Administration on or after January 30, 2017, primarily related to unmanned aircraft systems.
+11.
+Government Accountability Office report on cybersecurity and operational concerns
+Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a reportâ
+(1)
+describing developments and protections relating to cybersecurity and operational control concerns with respect to unmanned aircraft systems;
+(2)
+making recommendations for developments and protections described in paragraph (1) that could better address such concerns; and
+(3)
+making recommendations for clearly defining Federal jurisdiction and oversight of unmanned aircraft system security matters.

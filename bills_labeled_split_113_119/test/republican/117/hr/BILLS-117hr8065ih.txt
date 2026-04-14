@@ -1,0 +1,263 @@
+1.
+Short title
+This Act may be cited as the
+National R & D Strategy for Distributed Ledger Technology Act of 2022
+.
+2.
+Definitions
+In this Act:
+(1)
+Director
+Except as otherwise expressly provided, the term
+Director
+means the Director of the Office of Science and Technology Policy.
+(2)
+Distributed ledger
+The term
+distributed ledger
+means a ledger thatâ
+(A)
+is shared across a set of distributed nodes, which are devices or processes, that participate in a network and store a complete or partial replica of the ledger;
+(B)
+is synchronized between the nodes;
+(C)
+has data appended to it by following the ledgerâs specified consensus mechanism;
+(D)
+may be accessible to anyone (public) or restricted to a subset of participants (private); and
+(E)
+may require participants to have authorization to perform certain actions (permissioned) or require no authorization (permissionless).
+(3)
+Distributed ledger technology
+The term
+distributed ledger technology
+means technology that enables the operation and use of distributed ledgers.
+(4)
+Institution of higher education
+The term
+institution of higher education
+has the meaning given the term in section 101 of the Higher Education Act of 1965 (
+20 U.S.C. 1001
+).
+(5)
+Relevant congressional committees
+The term
+relevant congressional committees
+meansâ
+(A)
+the Committee on Commerce, Science, and Transportation of the Senate; and
+(B)
+the Committee on Science, Space, and Technology of the House of Representatives.
+(6)
+Smart contract
+The term
+smart contract
+means a computer program stored in a distributed ledger system that is executed when certain predefined conditions are satisfied and wherein the outcome of any execution of the program may be recorded on the distributed ledger.
+3.
+National distributed ledger technology R&D strategy
+(a)
+In general
+The Director, or a designee of the Director, shall, in coordination with the National Science and Technology Council, and the heads of such other relevant Federal agencies and entities as the Director considers appropriate, which may include the National Academies, and in consultation with such nongovernmental entities as the Director considers appropriate, develop a national strategy for the research and development of distributed ledger technologies and their applications, including applications of public and permissionless distributed ledgers. In developing the national strategy, the Director shall consider the following:
+(1)
+Current efforts and coordination by Federal agencies to invest in the research and development of distributed ledger technologies and their applications, including through programs like the Small Business Innovation Research program, the Small Business Technology Transfer program, and the National Science Foundation's Innovation Corps programs.
+(2)
+(A)
+The potential benefits and risks of applications of distributed ledger technologies across different industry sectors, including their potential toâ
+(i)
+lower transactions costs and facilitate new types of commercial transactions;
+(ii)
+protect privacy and increase individualsâ data sovereignty;
+(iii)
+reduce friction to the interoperability of digital systems;
+(iv)
+increase the accessibility, auditability, security, efficiency, and transparency of digital services;
+(v)
+increase market competition in the provision of digital services;
+(vi)
+enable dynamic contracting and contract execution through smart contracts;
+(vii)
+enable participants to collaborate in trustless and disintermediated environments;
+(viii)
+enable the operations and governance of distributed organizations;
+(ix)
+create new ownership models for digital items; and
+(x)
+increase participation of populations historically underrepresented in the technology, business, and financial sectors.
+(B)
+In consideration of the potential risks of applications of distributed ledger technologies under subparagraph (A), the Director shall take into account, where applicableâ
+(i)
+additional risks that may emerge from distributed ledger technologies, as identified in reports submitted to the President pursuant to Executive Order 14067, that may be addressed by research and development;
+(ii)
+software vulnerabilities in distributed ledger technologies and smart contracts;
+(iii)
+limited consumer literacy on engaging with applications of distributed ledger technologies in a secure way;
+(iv)
+the use of distributed ledger technologies in illicit finance and their use in combating illicit finance;
+(v)
+manipulative, deceptive, and fraudulent practices that harm consumers engaging with applications of distributed ledger technologies;
+(vi)
+the implications of different consensus mechanisms for digital ledgers and governance and accountability mechanisms for applications of distributed ledger technologies, which may include decentralized networks;
+(vii)
+foreign activities in the development and deployment of distributed ledger technologies and their associated tools and infrastructure; and
+(viii)
+environmental, sustainability, and economic impacts of the computational resources required for distributed ledger technologies.
+(3)
+Potential uses for distributed ledger technologies that could improve the operations and delivery of services by Federal agencies, taking into account the potential of digital ledger technologies toâ
+(A)
+improve the efficiency and effectiveness of privacy-preserving data sharing among Federal agencies and with State, local, territorial, and Tribal governments;
+(B)
+promote government transparency by improving data sharing with the public;
+(C)
+introduce or mitigate risks that may threaten individualsâ rights or broad access to Federal services;
+(D)
+automate and modernize processes for assessing and ensuring regulatory compliance; and
+(E)
+facilitate broad access to financial services for underserved and underbanked populations.
+(4)
+Ways to support public and private sector dialogue on areas of research that could enhance the efficiency, scalability, interoperability, security, and privacy of applications using distributed ledger technologies.
+(5)
+The need for increased coordination of the public and private sectors on the development of voluntary standards in order to promote research and development, including standards regarding security, smart contracts, cryptographic protocols, virtual routing and forwarding, interoperability, zero-knowledge proofs, and privacy, for distributed ledger technologies and their applications.
+(6)
+Applications of distributed ledger technologies that could positively benefit society but that receive relatively little private sector investment.
+(7)
+The United States position in global leadership and competitiveness across research, development, and deployment of distributed ledger technologies.
+(b)
+Consultation
+(1)
+In general
+In carrying out the Director's duties under this section, the Director shall consult with the following:
+(A)
+Private industry.
+(B)
+Institutions of higher education, including minority-serving institutions.
+(C)
+Nonprofit organizations, including foundations dedicated to supporting distributed ledger technologies and their applications.
+(D)
+State governments.
+(E)
+Such other persons as the Director considers appropriate.
+(2)
+Representation
+The Director shall ensure consultations with the following:
+(A)
+Rural and urban stakeholders from across the Nation.
+(B)
+Small, medium, and large businesses.
+(C)
+Subject matter experts representing multiple industrial sectors.
+(D)
+A demographically diverse set of stakeholders.
+(c)
+Coordination
+In carrying out this section, the Director shall, for purposes of avoiding duplication of activities, consult, cooperate, and coordinate with the programs and policies of other relevant Federal agencies, including the interagency process outlined in section 3 of Executive Order 14067 (87 Fed. Reg. 14143; relating ensuring responsible development of digital assets).
+(d)
+National strategy
+Not later than 1 year after the date of enactment of this Act, the Director shall submit to the relevant congressional committees and the President a national strategy that includes the following:
+(1)
+Priorities for the research and development of distributed ledger technologies and their applications.
+(2)
+Plans to support public and private sector investment and partnerships in research and technology development for societally beneficial applications of distributed ledger technologies.
+(3)
+Plans to mitigate the risks of distributed ledger technologies and their applications.
+(4)
+An identification of additional resources, administrative action, or legislative action recommended to assist with the implementation of such strategy.
+(e)
+Research and development funding
+The Director shall, as the Director considers necessary, consult with the Director of the Office of Management and Budget and with the heads of such other elements of the Executive Office of the President as the Director considers appropriate, to ensure that the recommendations and priorities with respect to research and development funding, as expressed in the national strategy developed under this section, are incorporated in the development of annual budget requests for Federal research agencies.
+4.
+Distributed ledger technology research
+(a)
+In general
+The Director of the National Science Foundation shall make awards, on a competitive basis, to institutions of higher education, including minority-serving institutions, or nonprofit organizations (or consortia of such institutions or organizations) to support research, including interdisciplinary research, on distributed ledger technologies, their applications, and other issues that impact or are caused by distributed ledger technologies, which may include research onâ
+(1)
+the implications on trust, transparency, privacy, accessibility, accountability, and energy consumption of different consensus mechanisms and hardware choices, and approaches for addressing these implications;
+(2)
+approaches for improving the security, privacy, resiliency, interoperability, performance, and scalability of distributed ledger technologies and their applications, which may include decentralized networks;
+(3)
+approaches for identifying and addressing vulnerabilities and improving the performance and expressive power of smart contracts;
+(4)
+the implications of quantum computing on applications of distributed ledger technologies, including long-term protection of sensitive information (such as medical or digital property), and techniques to address them;
+(5)
+game theory, mechanism design, and economics underpinning and facilitating the operations and governance of decentralized networks enabled by distributed ledger technologies;
+(6)
+the social behaviors of participants in decentralized networks enabled by distributed ledger technologies;
+(7)
+human-centric design approaches to make distributed ledger technologies and their applications more usable and accessible;
+(8)
+use cases for distributed ledger technologies across various industry sectors and government, including applications pertaining toâ
+(A)
+digital identity, including trusted identity and identity management;
+(B)
+digital property rights;
+(C)
+delivery of public services;
+(D)
+supply chain transparency;
+(E)
+medical information management;
+(F)
+inclusive financial services;
+(G)
+community governance;
+(H)
+charitable giving;
+(I)
+public goods funding;
+(J)
+digital credentials;
+(K)
+regulatory compliance;
+(L)
+infrastructure resilience, including against natural disasters; and
+(M)
+peer-to-peer transactions; and
+(9)
+the social, behavioral, and economic implications associated with the growth of applications of distributed ledger technologies, including decentralization in business, financial, and economic systems.
+(b)
+Accelerating innovation
+The Director of the National Science Foundation shall consider continuing to support startups that are in need of funding, would develop in and contribute to the economy of the United States, leverage distributed ledger technologies, have the potential to positively benefit society, and have the potential for commercial viability, through programs like the Small Business Innovation Research program, the Small Business Technology Transfer program, and, as appropriate, other programs that promote broad and diverse participation.
+(c)
+Consideration of national distributed ledger technology research and development strategy
+In making awards under subsection (a), the Director of the National Science Foundation shall take into account the national strategy, as described in section 3(d).
+(d)
+Fundamental research
+The Director of the National Science Foundation shall consider continuing to make awards supporting fundamental research in areas related to distributed ledger technologies and their applications, such as applied cryptography and distributed systems.
+5.
+Distributed ledger technology applied research project
+(a)
+Applied research project
+Subject to the availability of appropriations, the Director of the National Institute of Standards and Technology may carry out an applied research project to study and demonstrate the potential benefits and unique capabilities of distributed ledger technologies.
+(b)
+Activities
+In carrying out the applied research project, the Director of the National Institute of Standards and Technology shallâ
+(1)
+identify potential applications of distributed ledger technologies, including those that could benefit activities at the Department of Commerce or at other Federal agencies, considering applications that couldâ
+(A)
+improve the privacy and interoperability of digital identity and access management solutions;
+(B)
+increase the integrity and transparency of supply chains through the secure and limited sharing of relevant supplier information;
+(C)
+facilitate increased interoperability across healthcare information systems and consumer control over the movement of their medical data;
+(D)
+facilitate broader participation in distributed ledger technologies of populations historically underrepresented in technology, business, and financial sectors; or
+(E)
+be of benefit to the public or private sectors, as determined by the Director in consultation with relevant stakeholders;
+(2)
+solicit and provide the opportunity for public comment relevant to potential projects;
+(3)
+consider, in the selection of a project, whether the project addresses a pressing need not already addressed by another organization or Federal agency;
+(4)
+establish plans to mitigate potential risks, including those outlined in section 3(a)(2)(B), if applicable, of potential projects;
+(5)
+produce an example solution leveraging distributed ledger technologies for 1 of the applications identified in paragraph (1);
+(6)
+hold a competitive process to select private sector partners, if they are engaged, to support the implementation of the example solution;
+(7)
+consider hosting the project at the National Cybersecurity Center of Excellence; and
+(8)
+ensure that cybersecurity best practices consistent with the Cybersecurity Framework of the National Institute of Standards and Technology are demonstrated in the project.
+(c)
+Briefings to Congress
+Not later than 1 year after the date of enactment of this Act, the Director of the National Institute of Standards and Technology shall offer a briefing to the relevant congressional committees on the progress and current findings from the project under this section.
+(d)
+Public report
+Not later than 12 months after the completion of the project under this section, the Director of the National Institute of Standards and Technology shall make public a report on the results and findings from the project.

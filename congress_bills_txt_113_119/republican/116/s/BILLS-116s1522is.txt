@@ -1,0 +1,273 @@
+1.
+Short title
+This Act may be cited as the
+Broadband Data Improvement Act of 2019
+.
+2.
+Definitions
+In this Act:
+(1)
+Broadband internet access service
+The term
+broadband internet access service
+has the meaning given the term in section 8.1 of title 47, Code of Federal Regulations, or any successor regulation.
+(2)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(3)
+Federal agency
+The term
+Federal agency
+meansâ
+(A)
+the Commission;
+(B)
+the Department of Agriculture;
+(C)
+the Department of Commerce;
+(D)
+the Department of the Interior;
+(E)
+the Federal Trade Commission;
+(F)
+the National Economic Council; and
+(G)
+the Office of Science and Technology Policy.
+(4)
+Form 477
+The term
+Form 477
+means Form 477 of the Commission relating to local telephone competition and broadband reporting.
+(5)
+National broadband map
+The term
+National Broadband Map
+means the map developed and maintained by the Commission with respect to the availability of broadband internet access service.
+(6)
+Propagation model
+The term
+propagation model
+means an empirical mathematical formulation for the characterization of radio wave propagation as a function of frequency, distance, and other conditions.
+(7)
+Provider
+The term
+provider
+means a provider of broadband internet access service.
+(8)
+Shapefile
+The term
+shapefile
+means a digital storage format containing geospatial or location-based data and attribute informationâ
+(A)
+regarding the availability of broadband internet access service; and
+(B)
+that can be viewed, edited, and mapped in geographic information system software.
+(9)
+Standard broadband installation
+The term
+standard broadband installation
+â
+(A)
+means the initiation of new wireline broadband internet access service with no charges or delays attributable to the extension of the network of the provider; and
+(B)
+includes the initiation of service that requires only routine installation that can be completed not later than 10 business days after the date on which the service request is submitted.
+(10)
+State
+The term
+State
+has the meaning given the term in section 3 of the Communications Act of 1934 (
+47 U.S.C. 153
+).
+3.
+New data submission and public feedback processes
+(a)
+In general
+Not later than 180 days after the date of enactment of this Act, the Commission shall issue a rule to establishâ
+(1)
+a reporting requirement under which each provider shall, not less frequently than biannually, submit to the Commission accurate and granular information regarding the geographic availability of broadband internet access service provided by the provider; and
+(2)
+a framework for an ongoing challenge process through which a provider or a member of the public may submit information challenging the accuracy of the information reflected on the National Broadband Map.
+(b)
+Reporting requirement conditions
+The reporting requirement established by the Commission under subsection (a)(1) shallâ
+(1)
+require information regarding the service area of each provider to beâ
+(A)
+submitted in shapefile format, or another geospatial format as the Commission may prescribe, to achieve the level of reporting specificity required under paragraph (2) of this subsection; and
+(B)
+before making each submission required under subsection (a)(1), certifiedâ
+(i)
+as adhering to such reporting standards as the Commission may prescribe;
+(ii)
+on a form to be prescribed by the Commission; and
+(iii)
+by an officer of the provider;
+(2)
+allow for an understanding by the Commission and the general public of speeds and service delivery types of broadband internet access service that are available throughâ
+(A)
+a standard broadband installation for fixed wireline services; and
+(B)
+standardized and tested propagation models with respect toâ
+(i)
+fixed wireless and satellite services; and
+(ii)
+mobile services, with defined factors for signal strength, cell edge probability, and cell loading;
+(3)
+define uniform mandatory standards for the reporting of broadband internet access service coverage for each delivery type with respect to broadband internet access service in order toâ
+(A)
+ensure the accuracy and granularity of the data submitted; and
+(B)
+require each provider to employ consistent reporting methods across all States in which the provider provides service;
+(4)
+update or replace the Form 477 broadband deployment service availability data collection process of the Commission; and
+(5)
+eliminate all duplicative reporting requirements and procedures regarding the availability of broadband internet access service that are in existence as of the date on which the Commission establishes the requirement.
+(c)
+Challenge process conditions
+The framework for the challenge process established by the Commission under subsection (a)(2) shall include an ongoing schedule for the periodicâ
+(1)
+receipt, analysis, and resolution of feedback received through the process; and
+(2)
+updating of the National Broadband Map, which shall be completedâ
+(A)
+in an expeditious manner; and
+(B)
+in response to the feedback described in paragraph (1).
+(d)
+National Broadband Map
+(1)
+In general
+Subject to feedback received through the challenge process, the framework for which is established under subsection (a)(2), a Federal agency shall use the National Broadband Map to determineâ
+(A)
+the extent of the availability of broadband internet access service; and
+(B)
+the areas of the United States that remain unserved by providers.
+(2)
+Challenge notice of opportunity
+Before awarding funding that supports the development of broadband internet access services and that is based on the information reflected on the National Broadband Map, a Federal agency shall provide notice of an opportunity for public feedback to challenge or update the information on the map thatâ
+(A)
+aligns with the schedule established under subsection (c); or
+(B)
+provides a separate public feedback opportunity under rules that may be established by the Federal agency.
+4.
+Data validation and submission assistance
+(a)
+Selected provider
+(1)
+Selection of provider
+(A)
+In general
+The Commission shall use competitive procedures to enter into a contract with an entity to provide the services described in paragraph (2).
+(B)
+Commission discretion
+The Commission mayâ
+(i)
+determineâ
+(I)
+the period in which an entity selected under subparagraph (A) shall serve in that capacity; and
+(II)
+whether to grant an extension with respect to the period described in subclause (i), including the length of that extension; and
+(ii)
+with respect to the contract described in subparagraph (A), includeâ
+(I)
+a provision relating to liquidated damages; and
+(II)
+any other reasonable provision to ensure that the contract is sound and enforceable.
+(2)
+Responsibilities
+Subject to section 106(h)(2) of the Broadband Data Improvement Act (
+47 U.S.C. 1304(h)(2)
+), the entity selected under paragraph (1) shall, in consultation with, and under the supervision of, the Commissionâ
+(A)
+provideâ
+(i)
+geographic information system data processing assistance to providers that require that assistance in order to comply with the reporting requirements established by the Commission under section 3(a)(1);
+(ii)
+support for the facilitation of the challenge process, the framework for which is established by the Commission under section 3(a)(2); and
+(iii)
+independent data validation services, including in-field verification of the availability of broadband internet access service reported by providers, to the Commission to ensure the accuracy and continual refinement of the National Broadband Map;
+(B)
+execute data-sharing agreements, as may be requested, with providers to facilitate the exchange of information needed to create shapefiles, or any other such depiction as the Commission may prescribe, of the availability of broadband internet access service for the purposes of carrying out subsection (d);
+(C)
+analyze the information exchanged under subparagraph (B) to produce depictions of the availability of fixed broadband internet access service and mobile broadband internet access service in compliance with the requirements established under section 3(a)(1), for any providers that are eligible for the assistance described in subparagraph (A)(i);
+(D)
+provide the depictions of service availability under subparagraph (C) to the Commission forâ
+(i)
+the internal use of the Commission; and
+(ii)
+incorporation in the National Broadband Map;
+(E)
+support collaboration between the Commission and other Federal agencies toâ
+(i)
+track, map, and validate how funds made available through Federal grants, loans, or other financial awards or incentives for the development of broadband infrastructure have been expended to improve the availability of broadband internet access service; and
+(ii)
+ensure transparency and accountability with respect to the expenditures described in clause (i), taking into account existing accountability measures, such as requiring the deployment of broadband infrastructure to be reported on a geocoded or other location-specific basis;
+(F)
+develop and implement an online mechanism to be integrated into the National Broadband Map, which shall solicit and collect feedback submitted by the public and providers through the challenge process, the framework for which is established under section 3(a)(2); and
+(G)
+in consultation with the Commission, establish an ongoing data validation and verification process, including selective in-person field validation activities, that shallâ
+(i)
+be guided by intelligence collected through the receipt of public feedback, the acquisition and analysis of third-party datasets, or other methods the entity may develop; and
+(ii)
+advise the Commission regarding the continual refinement of the National Broadband Map.
+(b)
+Public comment required
+With respect to the selection of an entity under subsection (a), the Commission shall seek comment from the public, providers, and other relevant stakeholders regarding the experience and capabilities of organizations that are qualified to be so selected.
+(c)
+Termination for cause; selection of new entity
+(1)
+In general
+The Commission may, by order, terminate for cause an entity selected under subsection (a).
+(2)
+New entity
+If the Commission issues a termination order under paragraph (1)(A), the Commission shall, not later than 120 days after the date on which the Commission issues that order, select a new qualified entity to carry out subsection (a) in the same manner as provided in that subsection, including by seeking comment as provided in subsection (b).
+(d)
+Provider request for assistance
+(1)
+In general
+The Commission shall implement a process through which a provider may request geographic information system data processing assistance from the entity selected under subsection (a).
+(2)
+Conditions for approval
+The entity selected under subsection (a) shall grant a request for assistance submitted by a provider under paragraph (1)â
+(A)
+if the provider has more than 100,000 broadband connectionsâ
+(i)
+upon a demonstration of need by the provider; and
+(ii)
+after review and approval by the Commission; and
+(B)
+if the provider has not more than 100,000 broadband connections, automatically, subject to the availability of funds.
+(e)
+No regulatory authority
+Nothing in this section may be construed to grant an entity selected under subsection (a) any regulatory jurisdiction with respect to, or oversight authority over, providers or information technology.
+5.
+Enforcement
+(a)
+In general
+It shall be unlawful for a person to willfully and knowingly submit information or data under this Act that is inaccurate with respect to the availability of broadband internet access service.
+(b)
+Penalty
+Any person that violates subsection (a) shall be subject to an appropriate penalty, as determined by the Commission, underâ
+(1)
+the Communications Act of 1934 (
+47 U.S.C. 151
+et seq.), including section 501 of that Act (
+47 U.S.C. 501
+); and
+(2)
+the rules of the Commission.
+6.
+Authorization of appropriations
+There is authorized to be appropriated to the Commission to carry out this Act the following amounts:
+(1)
+(A)
+For fiscal year 2020, $55,000,000, not less than $34,500,000 of which shall be made available to carry out section 4.
+(B)
+The amounts made available under subparagraph (A) shall remain available until expended.
+(2)
+(A)
+For each of fiscal years 2021 through 2026, $50,000,000, not less than $29,500,000 of which shall be made available in each such fiscal year to carry out section 4.
+(B)
+The amounts made available under subparagraph (A) shall remain available until expended.

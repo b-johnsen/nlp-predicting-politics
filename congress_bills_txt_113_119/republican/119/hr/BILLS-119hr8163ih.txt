@@ -1,0 +1,140 @@
+1.
+Short title
+This Act may be cited as the
+Provider Reimbursement Stability Act of 2026
+.
+2.
+Updating the budget neutrality threshold
+Section 1848(c)(2)(B)(ii)(II) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)(ii)(II)
+) is amendedâ
+(1)
+by striking
+Subject to
+and inserting the following:
+(aa)
+In general
+Subject to
+;
+(2)
+in item (aa), as inserted by paragraph (1), by striking
+$20,000,000
+and inserting
+the amount specified in item (bb) for such year
+; and
+(3)
+by adding at the end the following new items:
+(bb)
+Amount specified
+For purposes of item (aa), subject to item (cc), the amount specified in this item isâ
+(AA)
+for years before 2027, $20,000,000;
+(BB)
+for 2027, $54,300,000; and
+(CC)
+for 2028 and each subsequent year, the amount specified in this item for the preceding year.
+(cc)
+Indexing limitation on annual adjustments
+For 2032 and every subsequent fifth year, the Secretary shall increase the amount specified in item (bb) for such year by the cumulative percentage increase in the MEI (as defined in section 1842(i)(3)) applicable to physiciansâ services for each year occurring during the 5-year period ending on the last day of the preceding year.
+.
+3.
+Budget neutrality corrections relating to estimated utilization
+(a)
+In general
+Section 1848(c)(2)(B) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)
+) is amended by adding at the end the following new clause:
+(vii)
+Budget neutrality corrections relating to estimated utilization
+(I)
+In general
+In the case of a budget neutrality adjustment applied pursuant to clause (ii)(II) for a year (beginning with 2027) that is determined in part using estimated utilization (as defined in subclause (II)(bb)) with respect to a specified service (as defined in subclause (II)(cc)), the Secretary shall, as part of the final rule establishing the physician fee schedule under this section for the assumption correction period (as defined in subclause (II)(aa)) with respect to such yearâ
+(aa)
+determine the difference between expenditures for such service in such year using estimated utilization and actual utilization for such service (in a manner determined appropriate by the Secretary); and
+(bb)
+in the case that the Secretary determines the difference described in item (aa) is greater than the threshold amount (as defined in subclause (II)(dd)) for such year, adjust the conversion factor under this section for such assumption correction period by such amount to reconcile such difference (which may be positive or negative), as determined by the Secretary.
+(II)
+Definitions
+For purposes of this clause:
+(aa)
+Assumption correction period
+The term
+assumption correction period
+means, with respect to a year, the second year beginning after such year.
+(bb)
+Estimated utilization
+The term
+estimated utilization
+means an estimate of utilization used for purposes of applying clause (ii)(II).
+(cc)
+Specified service
+The term
+specified service
+means, with respect to a year, a serviceâ
+(AA)
+with expected expenditures for such year under this part based on estimated utilization that exceed the threshold amount (as defined in item (dd)) for such year; and
+(BB)
+for which payment had been bundled into payment for another service during the preceding year and for which a separate payment or add-on payment is made during such year.
+(dd)
+Threshold amount
+The term
+threshold amount
+means, with respect to a year, 0.1 percent of the total estimated expenditures under this part for services furnished under this section during such year.
+.
+(b)
+Nonapplication of budget neutrality to reconciliation adjustments
+Section 1848(c)(2)(B) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)
+) is amendedâ
+(1)
+in clause (iv)â
+(A)
+in subclause (V), by striking
+and
+at the end;
+(B)
+in subclause (VI), by striking the period and inserting
+; and
+; and
+(C)
+by adding at the end the following new subclause:
+(VII)
+clause (vii)(I)(bb) for an assumption correction period (as defined in clause (vii)(II)) shall not be taken into account in applying clause (ii)(II) with respect to such period.
+; and
+(2)
+in clause (v), by adding at the end the following new subclause:
+(XII)
+Reductions attributable to an assumption correction
+For an assumption correction period (as defined in clause (vii)(II)), reduced expenditures attributable to application of clause (vii)(I)(bb) with respect to such period.
+.
+4.
+Timely updates to direct costs used to calculate practice expense RVUs
+Section 1848(c)(2)(B) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)
+), as amended by section 3, is further amended by adding at the end the following new clause:
+(viii)
+Timely updates to direct costs used to calculate practice expense relative value units
+(I)
+Simultaneous updates to direct cost inputs at least once every 5 years
+The Secretary shall, not less often than every 5 years, update the prices and rates, as applicable, on a category-wide basis for each of the categories of direct cost inputs described in subclause (II) used in the methodology for calculating the practice expense relative value units under this subsection for physiciansâ services. Updates made pursuant to the previous sentence shall be made in the same year for all categories of direct cost inputs described in such subclause.
+(II)
+Direct cost inputs categories described
+For purposes of this clause, the categories of direct cost inputs described in this subclause are clinical staff wage rates, prices of medical supplies, prices of equipment, and any other category of such inputs used in the methodology described in subclause (I) (as specified by the Secretary).
+(III)
+Consultation
+In making the updates under this clause, the Secretary shall consult with relevant stakeholders, including physician specialty societies.
+.
+5.
+Limitation on year-to-year conversion factor variance
+Section 1848(c)(2)(B) of the Social Security Act (
+42 U.S.C. 1395wâ4(c)(2)(B)
+), as amended by sections 3 and 4, is further amended by adding at the end the following new clause:
+(ix)
+Limitation on conversion factor variance
+(I)
+In general
+Beginning with 2027, the Secretary may not, for purposes of complying with clause (ii)(II), apply a budget neutrality adjustment to a conversion factor established under subsection (d) for such year that would cause such factor, not taking into account any adjustment to such factor for such year provided under such subsection, to vary by more than 2.5 percent compared to such factor so established for the preceding year.
+(II)
+Continued applicability of budget neutrality requirement
+Nothing in subclause (I) may be construed to alter the requirement described in clause (ii)(II).
+.

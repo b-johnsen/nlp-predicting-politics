@@ -1,0 +1,114 @@
+1.
+Short title
+This Act may be cited as the
+Taxpayer Workforce Modernization Act
+.
+2.
+IRS Fellowship Program
+(a)
+Establishment
+Not later than September 30, 2026, the Commissioner of Internal Revenue (hereinafter known as the
+Commissioner
+), after consultation with the Chief Counsel of the Internal Revenue Service (hereinafter known as the
+Chief Counsel
+) and the Chief Data and Analytics Officer of the Internal Revenue Service (hereinafter known as the
+Chief Data Officer
+), shall establish within the Internal Revenue Service a fellowship program (hereinafter known as the
+program
+) to recruit qualified data scientists in the private sector to join the Internal Revenue Service to create and participate in the task force established under subsection (e).
+(b)
+Objective
+The Commissioner, after consultation with the Chief Counsel and Chief Data Officer, shall design the program in a manner such that the programâ
+(1)
+addresses such tax cases handled by the Internal Revenue Service as the Commissioner determinesâ
+(A)
+are the most complex, or
+(B)
+include new and emerging issues, and
+(2)
+recruits and retains outstanding and qualified tax experts.
+(c)
+Advertisement of program
+The Commissioner shall advertise the program in such a way as to attract qualified data scientists and such other tax professionals as the Commissioner determines are appropriately qualified to handle the most complex tax cases.
+(d)
+Structure
+(1)
+In general
+The program shall be staffed by not fewer than 10 fellows at the discretion of the Commissioner based on the needs of the Internal Revenue Service and the availability of qualified candidates.
+(2)
+Term of service
+(A)
+In general
+Each fellow shall be hired for a 2-, 3-, or 4-year term of service.
+(B)
+Extensions
+(i)
+In general
+A fellow may apply for, and the Commissioner may grant, a 1-year extension of the fellowship.
+(ii)
+No limit on number of extensions
+There shall be no limit on the number of extensions under clause (i).
+(3)
+Fellowship vacancies
+The Commissioner, after consultation with the Chief Counsel and Chief Data Officer, shall fill vacant fellowshipsâ
+(A)
+in such a manner as to ensure that the program is staffed with no fewer than 5 fellows, and
+(B)
+as soon as practicable after the vacancy arises.
+(4)
+Hiring authority
+The Commissioner shall have authority to permanently hire a fellow at the end of the term of service for such fellow.
+(e)
+Task force
+Not later than the date on which the first fellowship is awarded under this section, the Commissioner shall establish a task force within the Internal Revenue Service and the office of the Chief Counsel in both national and regional office placements that includes the fellows hired pursuant to subsection (d), the purpose of which is toâ
+(1)
+develop, test, and refine data-driven methodologies to support audit case selection,
+(2)
+educate Internal Revenue Service employees on the use, interpretation, and limitations of data analytics, models, and emerging analytic techniques relevant to tax administration,
+(3)
+support, in coordination with examiners and tax experts, the audit of selected taxpayers through advanced data analysis, transaction-level testing, and quantitative modeling,
+(4)
+support efforts to address offshore tax evasion and issues implicating the Foreign Account Tax Compliance Act through data integration, anomaly detection, and network analysis,
+(5)
+identify, mentor, and train junior employees from the Internal Revenue Service with respect to using data analytics and emerging analytic techniques to identify risk and facilitate task administration improvements,
+(6)
+review existing use cases of artificial intelligence and data analytics with respect to tax administration, provide recommendations to improve on such existing cases, and identify new such cases, and
+(7)
+provide data-driven recommendations for improving audit effectiveness and efficiency and for improving improper tax payments.
+(f)
+Composition
+The task force established under subsection (e) may be composed of bothâ
+(1)
+fellows, and
+(2)
+permanent employees of the Internal Revenue Service.
+(g)
+Pay of fellows
+(1)
+In general
+The Secretary of the Treasury (or the Secretaryâs delegate) shall determine, subject to the provisions of this subsection, the pay of fellows recruited under subsection (a).
+(2)
+Pay scale
+For purposes of paragraph (1), the pay of a fellow shall not be less than the minimum rate payable for GSâ15 of the General Schedule and shall not exceed the amount of annual compensation (excluding expenses) specified in section 102 of title 3, United States Code.
+(h)
+Administration of program
+The Secretary of the Treasury (or the Secretaryâs delegate) may appoint a lead program officer to administer and advertise the program.
+(i)
+Annual review and report
+Not later than 1 year after the date on which the first fellowship is awarded under this section, and annually thereafter, the Commissioner shall submit to Congress a report containingâ
+(1)
+an analysis of the effects of the program,
+(2)
+an analysis of the return on investment of the program, including calculations of all costs incurred and benefits incurred, which may include predicted revenue increases based on task force recommendations; tax revenue and penalties recommended, assessed, or collected due to the work of the task force; and operational improvements in taxpayer service,
+(3)
+a description of the total number of fellows who apply each year, and
+(4)
+recommendations for changes to the program, if any.
+(j)
+Rules and regulations
+The Commissioner, with the approval of the Secretary of the Treasury (or the Secretaryâs delegate, other than the Commissioner), shall promulgate such rules and regulations as may be necessary for the efficient administration of the program.
+(k)
+Qualified data scientist defined
+In this subsection, the term
+qualified data scientist
+means a specialized professional who has demonstrated skills applying advanced analytics, statistical modeling, or machine learning in complex regulatory, financial, or compliance environments while working alongside tax law specialists and other tax subject matter experts.

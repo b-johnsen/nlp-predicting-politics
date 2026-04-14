@@ -1,0 +1,123 @@
+1.
+Short title
+This Act may be cited as the
+Medical Device Recall Improvement Act
+.
+2.
+Regulation of medical device recalls
+Chapter V of the Federal Food, Drug, and Cosmetic Act (
+21 U.S.C. 351 et seq.
+), is amended by inserting after section 518A of such Act the following:
+518B.
+Electronic notification format for device recalls
+(a)
+Electronic notification format for device recalls
+(1)
+In general
+Not later than 2 years after the date of enactment of the
+Medical Device Recall Improvement Act
+, the Secretary shall publish a form and manner for notifications of a recall.
+(2)
+Content
+The form and manner prescribed by the Secretary under paragraph (1) shallâ
+(A)
+be electronic;
+(B)
+include mandatory data elements, includingâ
+(i)
+the name of the manufacturer or importer;
+(ii)
+the contact information and address of the manufacturer or importer;
+(iii)
+the specific reason for the correction or removal from the market of the device;
+(iv)
+the specific device of the manufacturer or importer subject to such recall;
+(v)
+the unique device identifier of the device, including, as applicable, the device identifier and any production identifier;
+(vi)
+information for device user facilities and health professionals with regard to the device and such recall; and
+(vii)
+information for patients with regard to the device and such recall, includingâ
+(I)
+the risk presented by the device; and
+(II)
+any action that may be taken by, or on behalf of, such patients to eliminate or reduce such risk; and
+(C)
+include optional data elements as the Secretary determines to be appropriate.
+(b)
+Notifications
+(1)
+Notifications to the Secretary
+(A)
+In general
+Beginning 180 days after the Secretary establishes the form and manner for recall notifications under subsection (a), a manufacturer or importer of a device shall submit notifications required under section 519(g) to the Secretary through the electronic notification format established under subsection (a).
+(B)
+Review requirement
+(i)
+Initial review
+Not later than 2 business days after receipt of a notification described in subparagraph (A), the Secretary shall conduct an initial review of such notification.
+(ii)
+Response of the Secretary
+Not later than 3 business days after the completion of such review, the Secretary shall inform the manufacturer or importer of the information the Secretary determines, through the initial review under clause (i), should be shared with device user facilities and health professionals.
+(2)
+Notifications to device user facilities and health professionals
+(A)
+Initial notifications
+A manufacturer or importer shall submit notifications to device user facilities and health professionals through the electronic notification format established under subsection (a) after an initial review by the Secretary is completed under paragraph (1)(B)(i).
+(B)
+Subsequent notifications
+A manufacturer or importer shall provide notifications in addition to those described in subparagraph (A), as necessary, to device user facilities or health professionals through the electronic notification format established under subsection (a).
+(c)
+Electronic database
+The Secretary shall maintain an electronic database that is publicly accessible, downloadable, and populated with information regarding device notifications made under this section.
+(d)
+Definitions
+In this section and in section 518Câ
+(1)
+the term
+device user facility
+has the meaning given such term in section 519(b)(6); and
+(2)
+the term
+recall
+has the meaning given such term in section 518A.
+(e)
+Authorization of appropriations
+For purposes of conducting activities under this section and hiring personnel to conduct such activities, there is authorized to be appropriated $6,700,000 for fiscal year 2024, $1,700,000 for fiscal year 2025, and $1,000,000 for each of fiscal years 2026 through 2028, to remain available until expended, without fiscal year limitation.
+518C.
+Patient notification
+(a)
+In general
+The Secretary shall require that any recall strategy under section 519(g) provides for notice to patients whom device user facilities and health professionals treated with the device.
+(b)
+Compliance
+In accordance with subsection (a), the Secretary shall require recall notifications sent from the manufacturer or importer of the device toâ
+(1)
+include information for device user facilities and health professionals about the risks presented by the device to patients whom device user facilities and health professionals treated with the device; and
+(2)
+instruct such device user facilities and health professionals to share information under paragraph (1) with patients whom device user facilities and health professionals treated with the device.
+(c)
+Affected devices
+Subsection (a) shall apply with respect to any class I or class II recall for a class II or class III device that is used outside of device user facilities andâ
+(1)
+implanted in the human body;
+(2)
+life-sustaining;
+(3)
+life-supporting; or
+(4)
+used significantly in pediatric populations.
+(d)
+Rule of construction
+Nothing in this section shall be construed to require device user facilities or health professionals to provide patient information to the manufacturer or importer of the device.
+.
+3.
+Prohibited acts
+Section 301 of the Federal Food, Drug, and Cosmetic Act (
+21 U.S.C. 331
+) is amended by adding at the end the following
+(jjj)
+The refusal or failure to submit notifications in accordance with paragraphs (1) and (2) of section 518B(b).
+(kkk)
+The refusal or failure to provide notice in accordance with section 518C.
+.

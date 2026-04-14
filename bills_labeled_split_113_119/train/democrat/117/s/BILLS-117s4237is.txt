@@ -1,0 +1,895 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Fire Ready Nation Act of 2022
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Establishment of fire weather services program.
+Sec. 4. National Oceanic and Atmospheric Administration data management.
+Sec. 5. Digital fire weather services and data management.
+Sec. 6. High-performance computing.
+Sec. 7. Government Accountability Office report on fire weather services program.
+Sec. 8. Fire weather testbed.
+Sec. 9. Fire weather surveys and assessments.
+Sec. 10. Incident Meteorologist Service.
+Sec. 11. Automated surface observing system.
+Sec. 12. Emergency response activities.
+Sec. 13. Government Accountability Office report on interagency wildfire forecasting, prevention, planning, and management bodies.
+Sec. 14. Amendments to Infrastructure Investment and Jobs Act relating to wildfire mitigation.
+Sec. 15. Wildfire technology modernization amendments.
+Sec. 16. Cooperation; coordination; support to non-Federal entities.
+Sec. 17. International coordination.
+Sec. 18. Submissions to Congress regarding the fire weather services program, incident meteorologist workforce needs, and National Weather Service workforce support.
+Sec. 19. Authorization of appropriations.
+2.
+Definitions
+In this Act:
+(1)
+Administration
+The term
+Administration
+means the National Oceanic and Atmospheric Administration.
+(2)
+Appropriate committees of Congress
+The term
+appropriate committees of Congress
+meansâ
+(A)
+the Committee on Commerce, Science, and Transportation of the Senate; and
+(B)
+the Committee on Science, Space, and Technology of the House of Representatives.
+(3)
+Decadal
+The term
+decadal
+means a time range from multiple years to multiple decades.
+(4)
+Earth system model
+The term
+Earth system model
+means a mathematical model containing all components of the Earth, namely the atmosphere, oceans, land, cryosphere, and biosphere. The Earth system model represents the critical physical, chemical, and biological processes and the interactions among those processes in hydrological and biogeochemical cycles that affect weather and climate.
+(5)
+Fire environment
+The term
+fire environment
+meansâ
+(A)
+the environmental conditions, such as soil moisture, vegetation, topography, snowpack, atmospheric temperature, moisture, and wind, that influenceâ
+(i)
+fuel and fire behavior; and
+(ii)
+smoke dispersion and transport; and
+(B)
+the associated environmental impacts occurring during and after fire events.
+(6)
+Fire weather
+The term
+fire weather
+means any type of weather conditions that influence the start, spread, character, or behavior of wildfire or fires at the wildland-urban interface and all associated meteorological and chemical phenomena, including air quality, smoke, and meteorological parameters such as relative humidity, air temperature, wind speed and direction, and atmospheric composition and chemistry, including emissions and mixing heights.
+(7)
+Impact-based decision support services
+The term
+impact-based decision support services
+means forecast advice and interpretative services the Administration provides to help core partners, such as emergency personnel and public safety officials, make decisions when weather, water, and climate impact the lives and livelihoods of the people of the United States.
+(8)
+Seasonal
+The term
+seasonal
+means a time range between 3 months and 2 years.
+(9)
+Secretary
+The term
+Secretary
+means the Secretary of Commerce.
+(10)
+Smoke
+The term
+smoke
+means emissions, including the gases and particles released into the air as a result of combustion.
+(11)
+State
+The term
+State
+means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the United State Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau.
+(12)
+Subseasonal
+The term
+subseasonal
+means a time range between 2 weeks and 3 months.
+(13)
+Tribal government
+The term
+Tribal government
+means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (
+25 U.S.C. 5131
+).
+(14)
+Under Secretary
+The term
+Under Secretary
+means the Under Secretary of Commerce for Oceans and Atmosphere.
+(15)
+Weather enterprise
+The term
+weather enterprise
+meansâ
+(A)
+individuals, organizations, offices, programs, or any other form of entity from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products; and
+(B)
+primary consumers of those weather forecast products.
+(16)
+Wildfire
+The term
+wildfire
+means any nonstructure fire that occurs in vegetation or natural fuels, originating from an unplanned ignition.
+(17)
+Wildland-urban interface
+The term
+wildland-urban interface
+means the area, zone, or region of transition between unoccupied or undeveloped land and human development where structures and other human development meet or intermingle with undeveloped wildland or vegetative fuels.
+3.
+Establishment of fire weather services program
+(a)
+In general
+The Under Secretary shall establish and maintain a coordinated fire weather services program within the Administration.
+(b)
+Program functions
+The functions of the program established under subsection (a), consistent with the priorities described in section 101 of the Weather Research and Forecasting Innovation Act of 2017 (
+15 U.S.C. 8511
+), shall beâ
+(1)
+to support readiness, responsiveness, understanding, and overall resilience of the United States to wildfires, fire weather, smoke, and other associated conditions, hazards, and impacts in built and natural environments and at the wildland-urban interface;
+(2)
+to collaboratively disseminate accurate, precise, effective, and timely risk communications, forecasts, watches, and warnings relating to wildfires, fire weather, air quality, smoke, and other associated conditions, hazards, and impacts, as applicable, in collaboration with Federal land management agencies;
+(3)
+to partner with and support the public, Federal, State, and Tribal governments, and academic and local partners through the development of capabilities, impact-based decision support services, and overall service delivery and utility;
+(4)
+to conduct and support research and development of new and innovative models, technologies, techniques, products, systems, processes, and procedures to improve understanding of wildfires, fire weather, air quality, the fire environment, including impacts of climate variability and changing climate conditions, smoke, and associated conditions, hazards, and impacts, and to transition such research into effective operations;
+(5)
+to develop strong research-to-operations and operations-to-research transitions, in order to facilitate delivery of products, services, and tools to operational users and platforms; and
+(6)
+to develop, in coordination with Federal land management agencies, impact-based decision support services that operationalize and integrate the functions described in paragraphs (1) through (5) in order to provide comprehensive impact-based decision support services that encompass the fire environment.
+(c)
+Program priorities
+In developing and implementing the program established under subsection (a), the Under Secretary shall prioritizeâ
+(1)
+development of a fire weather-enabled Earth system model and data assimilation systems thatâ
+(A)
+are capable of prediction and forecasting across all timescales;
+(B)
+include variables associated with fire weather, air quality from smoke, and the fire environment, and other variables, as determined by the Under Secretary;
+(C)
+improve understanding of the connections between fire weather and modes of climate variability; and
+(D)
+incorporate emerging techniques such as artificial intelligence, machine learning, and cloud computing;
+(2)
+advancement of observational capabilities, including satellite-, airborne-, air-, and ground-based systems and technologies thatâ
+(A)
+identifyâ
+(i)
+high-risk pre-ignition conditions;
+(ii)
+conditions that influence fire behavior and spread including those conditions that suppress active fire events; and
+(iii)
+fire risk values;
+(B)
+support real-time notification of ignitions;
+(C)
+support observations and data collection of fire weather and fire environment variables for development of the model and systems under paragraph (1); and
+(D)
+support forecasts and advancing understanding and research of the impacts of wildfires on human health, ecosystems, climate, transportation, and economies; and
+(3)
+development and implementation of advanced and user-oriented impact-based decision tools, science, and technologies thatâ
+(A)
+ensure real-time and retrospective data, products, and services are findable, accessible, interoperable, usable, inform further research, and are analysis- and decision-ready;
+(B)
+provide targeted information throughout the fire lifecycle including pre-ignition, detection, forecasting, post-fire, and monitoring phases; and
+(C)
+support early assessment of post-fire hazards, such as air quality, debris flows, mudslides, and flooding.
+(d)
+Program activities
+In developing and implementing the program established under subsection (a), the Under Secretary mayâ
+(1)
+conduct relevant physical and social science research activities in support of the functions described in subsection (b) and the priorities described in subsection (c);
+(2)
+conduct relevant activities, in coordination with Federal land management agencies, to assess fuel characteristics, including moisture, loading, and other parameters used to determine fire risk levels and outlooks;
+(3)
+support and conduct research that assesses impacts to marine, riverine, and other relevant ecosystems, which may include forest and rangeland ecosystems, resulting from activities associated with mitigation of and response to wildfires;
+(4)
+support and conduct attribution science research relating to wildfires, fire weather, fire risk, smoke, and associated conditions, risks, and impacts;
+(5)
+develop smoke and air quality forecasts, forecast guidance, and prescribed burn weather forecasts, and conduct research on the impact of such forecasts on response behavior that minimizes health-related impacts from smoke exposure;
+(6)
+use, in coordination with Federal land management agencies, wildland fire resource intelligence to inform fire environment impact-based decision support products and services for safety;
+(7)
+evaluate and provide data, tools, and services to support determinations for the implementation of mitigation measures such as prescribed burns and selective thinning;
+(8)
+provide comprehensive training to ensure staff of the program established under subsection (a) is properly equipped to deliver the impact-based decision support products and services described in paragraphs (1) through (6); and
+(9)
+acquire through contracted purchase private sector-produced observational data to fill identified gaps, as needed.
+(e)
+Collaboration; agreements
+(1)
+Collaboration
+The Under Secretary shall, as the Under Secretary considers appropriate, collaborate and consult with partners in the weather and climate enterprises, academic institutions, States, Tribal governments, local partners, and Federal agencies, including land and fire management agencies, in the development and implementation of the program established under subsection (a).
+(2)
+Agreements
+The Under Secretary may enter into agreements in support of the functions described in subsection (b), the priorities described in subsection (c), the activities described in subsection (d), and activities carried out under section 8.
+4.
+National Oceanic and Atmospheric Administration data management
+Section 301 of the Weather Research and Forecasting Innovation Act of 2017 (
+15 U.S.C. 8531
+) is amendedâ
+(1)
+by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and
+(2)
+by inserting after subsection (e) the following:
+(f)
+Data availability and management
+(1)
+In general
+The Under Secretary shallâ
+(A)
+make data and metadata generated or collected by the National Oceanic and Administration that the Under Secretary has the legal right to redistribute fully and openly available, in accordance with
+chapter 35
+of title 44, United States Code and the Foundations for Evidence-Based Policymaking Act of 2018 (
+Public Law 115â435
+; 132 Stat. 5529) and the amendments made by that Act, and preserve and curate such data and metadata, in accordance with
+chapter 31
+of title 44, United States Code (commonly known as the
+Federal Records Act of 1950
+), in order to maximize use of such data and metadata; and
+(B)
+manage and steward the access, archival, and retrieval activities for the data and metadata described in subparagraph (A) byâ
+(i)
+usingâ
+(I)
+enterprise-wide infrastructure, emerging technologies, commercial partnerships, and the skilled workforce needed to provide appropriate data management from collection to broad access; and
+(II)
+associated information services; and
+(ii)
+pursuing the maximum interoperability of data and information byâ
+(I)
+leveraging data, information, knowledge, and tools from across the Federal Government to support equitable access, cross-sectoral collaboration and innovation, and local planning and decision-making; and
+(II)
+developing standards and practices for the adoption and citation of digital object identifiers for datasets, models, and analytical tools.
+(2)
+Collaboration
+In carrying out this subsection, the Under Secretary shall collaborate with such Federal partners and stakeholders as the Under Secretary considers relevantâ
+(A)
+to develop standards to pursue maximum interoperability of data, information, knowledge, and tools across the Federal Government, convert historical records into common digital formats, and improve access and usability of data by partners and stakeholders;
+(B)
+to identify and solicit relevant data from Federal and international partners and other relevant stakeholders, as the Under Secretary considers appropriate; and
+(C)
+to develop standards and practices for the adoption and citation of digital object identifiers for datasets, models, and analytical tools.
+.
+5.
+Digital fire weather services and data management
+(a)
+In general
+(1)
+Digital presence
+The Under Secretary shall develop and maintain a comprehensive, centralized, and publicly accessible digital presence designed to promote findability, accessibility, interoperability, usability, and utility of the services, tools, data, and information produced by the program established under section 3(a).
+(2)
+Digital platform and tools
+In carrying out paragraph (1), the Under Secretary shallâ
+(A)
+seek to ensure the digital platform and tools of the Administration integrate geospatial data, decision support tools, training, and best practices to provide real-time fire weather forecasts and address fire-related issues and needs; and
+(B)
+strive to enhance community resilience, ecosystem values, and economic growth and development by helping communities and other users of the digital platform and tools address their issues, needs, and challenges through maximum usability and utility.
+(b)
+Public availability
+The Under Secretary shall make all data, research, reports, findings, surveys, and assessments relevant to the program established under section 3(a), as determined by the Under Secretary, available in a publicly accessible digital format.
+(c)
+Internet-Based tools
+In carrying out subsections (a) and (b), the Under Secretary shall develop and implement internet-based tools, such as webpages and smartphone and other mobile applications, to increase utility and access to services and products for the benefit of users.
+(d)
+Data management
+The Under Secretary shall develop and maintain services that provide public access to digital fire weather data and informationâ
+(1)
+to improve understanding and historical analysis of wildfire and fire weather science, including inventories of fire emissions required for multi-decadal model runs;
+(2)
+to supportâ
+(A)
+the archiving, stewardship, utility, and preservation of wildfire and fire weather data including satellite-, ground-, airborne-, and air-based observations; and
+(B)
+real-time and retrospective model forecasts;
+(3)
+to promote findability, interoperability, analysis- and decision-readiness, and reusability of historical and near real-time data across Federal, State, Tribal, and local users, including ensuring digital access and machine-readability of historical fire weather records; and
+(4)
+to support equitable access, cross-sectoral collaboration and innovation, and local planning and decision making.
+6.
+High-performance computing
+(a)
+In general
+The Under Secretary shall seek to acquire sufficient high-performance computing resources and capacity for research, operations, and data storage in support of the program established under section 3(a).
+(b)
+Considerations
+In acquiring high-performance computing capacity under subsection (a), the Under Secretary shall consider requirements needed forâ
+(1)
+the transition of research and testbed developments into operations; and
+(2)
+skilled workforce development.
+7.
+Government Accountability Office report on fire weather services program
+(a)
+In general
+Not later than 5 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the program established under section 3(a).
+(b)
+Elements
+The report required by subsection (a) shallâ
+(1)
+evaluate the performance of the program by establishing initial baseline capabilities and tracking progress made toward fully operationalizing the functions described in section 3(b);
+(2)
+assess the efficacy of cross-agency collaboration and stakeholder engagement in carrying out the program and provide recommendations to improve such activities;
+(3)
+assess the program for inefficiencies, identify duplicative efforts across Federal efforts, and provide relevant recommendations; and
+(4)
+include such other recommendations as the Comptroller General determines are appropriate to improve the program.
+8.
+Fire weather testbed
+(a)
+Establishment of fire weather testbed
+The Under Secretary shall establish a fire weather testbed that enables engagement across the Federal Government, State and local governments, academia, private and federally funded research laboratories, the private sector, and end-users in order to evaluate the accuracy and usability of technology, models, fire weather products and services, and other research to accelerate the implementation, transition to operations, and use of new capabilities by the Administration, Federal and land management agencies, and other relevant stakeholders.
+(b)
+Uncrewed aircraft systems
+(1)
+In general
+The Under Secretary shallâ
+(A)
+research and assess the role and potential of uncrewed aircraft systems to improve data collection in support of modeling, observations, predictions, forecasts, and impact-based decision support services; and
+(B)
+transition uncrewed aircraft systems technologies from research to operations as the Under Secretary considers appropriate.
+(2)
+Pilot required
+In carrying out paragraph (1), not later than 1 year after the date of the enactment of this Act, the Under Secretary shall conduct at least 1 pilot of uncrewed aircraft systems for fire weather and fire environment observations.
+(3)
+Savings clause
+(A)
+In general
+In carrying out activities under this subsection, the Under Secretary shall ensure that any testing or deployment of uncrewed aircraft systems follow procedures, restrictions, and protocols established by the heads of the Federal agencies with statutory or regulatory jurisdiction over any airspace in which wildfire response activities are conducted during an active wildfire event.
+(B)
+Consultation and coordination
+The Under Secretary shall consult and coordinate with relevant Federal land management agencies and the Federal Aviation Administration to develop processes for the appropriate deployment of the systems described in subparagraph (A).
+9.
+Fire weather surveys and assessments
+(a)
+Annual post-Fire-Weather season survey and assessment
+(1)
+In general
+During the second winter following the enactment of this Act, and each year thereafter, the Under Secretary shall conduct a post-fire-weather season survey and assessment.
+(2)
+Elements
+After conducting a post-fire-weather season survey and assessment under paragraph (1), the Under Secretary shallâ
+(A)
+investigate any gaps in data collected during the assessment;
+(B)
+identify and implement strategies and procedures to improve program services and information dissemination;
+(C)
+update systems, processes, strategies, and procedures to enhance the efficiency and reliability of data obtained from the assessment;
+(D)
+evaluate the accuracy and efficacy of physical fire weather forecasting information for each incident included in the survey and assessment; and
+(E)
+assess and refine performance measures, as needed.
+(b)
+Surveys and assessments following individual wildfire events
+The Under Secretary may conduct surveys and assessments following individual wildfire events as the Under Secretary determines necessary.
+(c)
+Goal
+In carrying out activities under this section, the Under Secretary shall seek to increase the number of post-wildfire community impact studies, including by surveying individual and collective responses and incorporating other applicable topics of social science research.
+(d)
+Annual briefing
+Not less frequently than once each year, the Under Secretary shall provide a briefing to the appropriate committees of Congress that providesâ
+(1)
+an overview of the fire season; and
+(2)
+an outlook for the fire season for the coming year.
+(e)
+Coordination
+In conducting any survey or assessment under this section, the Under Secretary shall coordinate with Federal, State, and local partners, Tribal governments, private entities, and such institutions of higher education as the Under Secretary considers relevant in order toâ
+(1)
+improve operations and collaboration; and
+(2)
+optimize data collection, sharing, integration, assimilation, and dissemination.
+(f)
+Data availability
+The Under Secretary shall make the data and findings obtained from each assessment conducted under this section available to the public in an accessible digital format as soon as practicable after conducting the assessment.
+(g)
+Service improvements
+The Under Secretary shall make best efforts to incorporate the results and recommendations of each assessment conducted under this section into the research and development plan and operations of the Administration.
+10.
+Incident Meteorologist Service
+(a)
+Establishment
+The Under Secretary shall establish and maintain an Incident Meteorologist Service within the National Weather Service (in this section referred to as the
+Service
+).
+(b)
+Inclusion of existing incident meteorologists
+The Service shall includeâ
+(1)
+the incident meteorologists of the Administration as of the date of this enactment of this Act; and
+(2)
+such incident meteorologists of the Administration as may be appointed after such date.
+(c)
+Functions
+The Service shall provideâ
+(1)
+on-site impact-based decision support services to Federal, State, Tribal government, and local government emergency response agencies preceding, during, and following wildland fires or other events that threaten life or property, including high-impact and extreme weather events; and
+(2)
+support to Federal, State, Tribal government, and local government decision makers, partners, and stakeholders for seasonal planning.
+(d)
+Deployment
+The Service shall be deployedâ
+(1)
+as determined by the Under Secretary; or
+(2)
+at the request of the head of another Federal agency.
+(e)
+Staffing and resources
+In establishing and maintaining the Service, the Under Secretary shall identify, acquire, and maintain adequate levels of staffing and resources to meet user needs.
+(f)
+Symbol
+(1)
+In general
+The Under Secretary mayâ
+(A)
+create, adopt, and publish in the Federal Register a symbol for the Service; and
+(B)
+restrict the use of such symbol as appropriate.
+(2)
+Use of symbol
+The Under Secretary may authorize the use of a symbol adopted under this subsection by any individual or entity as the Under Secretary considers appropriate.
+(3)
+Contract authority
+The Under Secretary may award contracts for the creation of symbols under this subsection.
+(4)
+Offense
+It shall be unlawful for any personâ
+(A)
+to represent themselves as an official of the Service absent the designation or approval of the Under Secretary;
+(B)
+to manufacture, reproduce, or otherwise use any symbol adopted by the Under Secretary under this subsection, including to sell any item bearing such a symbol, unless authorized by the Under Secretary; or
+(C)
+to violate any regulation promulgated by the Secretary under this subsection.
+(g)
+Support for incident meteorologists
+The Under Secretary shall provide resources, access to real-time fire weather forecasts, training, administrative and logistical support, and access to professional counseling or other forms of support as the Under Secretary considers appropriate for the betterment of the emotional and mental health and well-being of incident meteorologists and other employees of the Administration involved with response to high-impact and extreme fire weather events.
+11.
+Automated surface observing system
+(a)
+Joint assessment and plan
+(1)
+In general
+The Under Secretary, in collaboration with the Administrator of the Federal Aviation Administration and the Secretary of Defense, shallâ
+(A)
+conduct an assessment of resources, personnel, procedures, and activities necessary to maximize the functionality and utility of the automated surface observing system of the United States that identifiesâ
+(i)
+key system upgrades needed to improve observation quality and utility for weather forecasting, aviation safety, and other users;
+(ii)
+improvements needed in observations within the planetary boundary layer, including mixing height;
+(iii)
+improvements needed in public accessibility of observational data;
+(iv)
+improvements needed to reduce latency in reporting of observational data;
+(v)
+relevant data to be collected for the production of forecasts or forecast guidance relating to atmospheric composition, including particulate and air quality data, and aviation safety;
+(vi)
+areas of concern regarding operational continuity and reliability of the system, which may include needs for on-night staff, particularly in remote and rural areas and areas where system failure would have the greatest negative impact to the community;
+(vii)
+stewardship, data handling, data distribution, and product generation needs arising from upgrading and changing the automated surface observation systems;
+(viii)
+possible solutions for areas of concern identified under clause (vi), including with respect to the potential use of backup systems, power and communication system reliability, staffing needs and personnel location, and the acquisition of critical component backups and proper storage location to ensure rapid system repair necessary to ensure system operational continuity; and
+(ix)
+research, development, and transition to operations needed to develop advanced data collection, quality control, and distribution so that the data are provided to models, users, and decision support systems in a timely manner; and
+(B)
+develop and implement a plan that addresses the findings of the assessment conducted under subparagraph (A), including by seeking and allocating resources necessary to ensure that system upgrades are standardized across the Administration, the Federal Aviation Administration, and the Department of Defense to the extent practicable.
+(2)
+Standardization
+Any system standardization implemented under paragraph (1)(B) shall not impede activities to upgrade or improve individual units of the system.
+(3)
+Remote automatic weather station coordination
+The Under Secretary, in collaboration with relevant Federal agencies and the National Interagency Fire Center, shall assess and develop cooperative agreements to improve coordination, interoperability standards, operations, and placement of remote automatic weather stations for the purpose of improving utility and coverage of remote automatic weather stations, automated surface observation systems, and other similar stations and systems for weather and climate operations.
+(b)
+Report to Congress
+(1)
+In general
+Not later than 2 years after the date of the enactment of this Act, the Under Secretary, in collaboration with the Administrator of the Federal Aviation Administration and the Secretary of Defense, shall submit to the appropriate committees of Congress a report thatâ
+(A)
+details the findings of the assessment required by subparagraph (A) of subsection (a)(1); and
+(B)
+the plan required by subparagraph (B) of such subsection.
+(2)
+Elements
+The report required by paragraph (1) shall include a detailed assessment of appropriations requiredâ
+(A)
+to address the findings of the assessment required by subparagraph (A) of subsection (a)(1); and
+(B)
+to implement the plan required by subparagraph (B) of such subsection.
+(c)
+Government Accountability Office report
+Not later than 4 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report thatâ
+(1)
+evaluates the functionality, utility, reliability, and operational status of the automated surface observing system across the Administration, the Federal Aviation Administration, and the Department of Defense;
+(2)
+evaluates the progress, performance, and implementation of the plan required by subsection (a)(1)(B);
+(3)
+assesses the efficacy of cross-agency collaboration and stakeholder engagement in carrying out the plan and provides recommendations to improve such activities;
+(4)
+evaluates the operational continuity and reliability of the system, particularly in remote and rural areas and areas where system failure would have the greatest negative impact to the community, and provides recommendations to improve such continuity and reliability;
+(5)
+assesses Federal coordination regarding the remote automatic weather station network, air resource advisors, and other Federal observing assets used for weather and climate modeling and response activities, and provides recommendations for improvements; and
+(6)
+includes such other recommendations as the Comptroller General determines are appropriate to improve the system.
+12.
+Emergency response activities
+(a)
+Definitions
+In this section:
+(1)
+Basic pay
+The term
+basic pay
+includes any applicable locality-based comparability payment under section 5304 of title 5, United States Code, any applicable special rate supplement under section 5305 of such title, or any equivalent payment under a similar provision of law.
+(2)
+Covered employee
+The term
+covered employee
+means an employee of the Department of Commerce.
+(3)
+Covered services
+The term
+covered services
+means services performed by a covered employee whileâ
+(A)
+serving as an incident meteorologist accompanying a wildland firefighter crew;
+(B)
+servingâ
+(i)
+on an incident management team;
+(ii)
+as an emergency response specialist;
+(iii)
+at the National Interagency Fire Center;
+(iv)
+at a Geographic Area Coordination Center; or
+(v)
+at an operations center; or
+(C)
+serving in a capacity determined by the Secretary, or the Under Secretary acting on behalf of the Secretary, to be primarily relating to emergency response activities.
+(4)
+Employee
+The term
+employee
+has the meaning given that term in section 2105 of title 5, United States Code.
+(5)
+Premium pay
+The term
+premium pay
+means premium pay for the purposes of section 5547(a) of title 5, United States Code.
+(b)
+Waiver
+(1)
+In general
+Any premium pay received by a covered employee for covered services shall be disregarded in calculating the aggregate of the basic pay and premium pay for the covered employee for purposes of applying the limitation on premium pay under section 5547(a) of title 5, United States Code.
+(2)
+Limitation
+A covered employee may be paid premium pay that is disregarded under paragraph (1) only to the extent that the aggregate of the basic pay and premium pay paid to that covered employee in the applicable calendar year, including premium pay that is disregarded under that paragraph, does not exceed the rate of basic pay for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code, as in effect at the end of that calendar year.
+(c)
+Application
+If the application of subsection (b) results in the payment of additional pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall notâ
+(1)
+be considered to be basic pay of the covered employee for any purpose; or
+(2)
+be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or 5552 of title 5, United States Code.
+(d)
+Amendment
+Section 5542(a)(5) of title 5, United States Code, is amended by inserting
+, the Department of Commerce,
+after
+Interior
+.
+(e)
+Effective date
+This section and the amendment made by this section shall take effect as if enacted on January 1, 2020.
+(f)
+Derivation of funds
+Any amounts used to pay covered employees for covered services shall not be derived from amounts made available to the Administration or amounts saved by reducing the number of full-time-equivalent employees of the Administration.
+(g)
+Policies and procedures for health, safety, and well-Being
+The Under Secretary shall maintain policies and procedures that ensure that the deployment of a covered employee to perform a covered service will not compromise the health, safety, and well-being of the covered employee.
+13.
+Government Accountability Office report on interagency wildfire forecasting, prevention, planning, and management bodies
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report thatâ
+(1)
+identifies all Federal interagency bodies established for the purpose of wildfire forecasting, prevention, planning, and management (such as wildfire councils, commissions, and workgroups), includingâ
+(A)
+the Wildland Fire Leadership Council;
+(B)
+the National Interagency Fire Center;
+(C)
+the Wildland Fire Management Policy Committee;
+(D)
+the Wildland Fire Mitigation and Management Commission;
+(E)
+the National Interagency Fire Center;
+(F)
+the National Interagency Coordination Center;
+(G)
+the National Predictive Services Oversight Group;
+(H)
+the Interagency Council for Advancing Meteorological Services;
+(I)
+the National Wildfire Coordinating Group;
+(J)
+the National Multi-Agency Coordinating Group; and
+(K)
+the Mitigation Framework Leadership Group;
+(2)
+evaluates the roles, functionality, and utility of such interagency bodies;
+(3)
+evaluates the progress, performance, and implementation of such interagency bodies;
+(4)
+assesses efficacy and identifies potential overlap and duplication of such interagency bodies in carrying out interagency collaboration with respect to wildfire prevention, planning, and management; and
+(5)
+includes such other recommendations as the Comptroller General determines are appropriate to streamline and improve wildfire forecasting, prevention, planning, and management, including recommendations regarding the interagency bodies for which the addition of the Administration is necessary to improve wildfire forecasting, prevention, planning, and management.
+14.
+Amendments to Infrastructure Investment and Jobs Act relating to wildfire mitigation
+The Infrastructure Investment and Jobs Act (
+Public Law 117â58
+; 135 Stat. 429) is amendedâ
+(1)
+in section 70202â
+(A)
+in paragraph (1)â
+(i)
+in subparagraph (J), by striking
+; and
+and inserting a semicolon;
+(ii)
+in subparagraph (K), by striking the period at the end and inserting a semicolon; and
+(iii)
+by adding at the end the following:
+(L)
+the Committee on Commerce, Science, and Transportation of the Senate; and
+;
+(M)
+the Committee on Science, Space, and Technology of the House of Representatives.
+; and
+(B)
+in paragraph (6)â
+(i)
+in subparagraph (B), by striking
+; and
+and inserting a semicolon;
+(ii)
+in subparagraph (C), by striking the period at the end and inserting
+; and
+; and
+(iii)
+by adding at the end the following:
+(D)
+The Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere.
+; and
+(2)
+in section 70203(b)(1)(B)â
+(A)
+in the matter preceding clause (i), by striking
+9
+and inserting
+not fewer than 10
+;
+(B)
+in clause (i)â
+(i)
+in subclause (IV), by striking
+; and
+and inserting a semicolon;
+(ii)
+in subclause (V), by adding
+and
+at the end; and
+(iii)
+by adding at the end the following:
+(VI)
+the National Oceanic and Atmospheric Administration.
+;
+(C)
+in clause (iv), by striking
+; and
+and inserting a semicolon; and
+(D)
+by adding at the end the following:
+(vi)
+if the Secretaries determine it to be appropriate, 1 or more representatives from the relevant line offices of the National Oceanic and Atmospheric Administration; and
+.
+15.
+Wildfire technology modernization amendments
+Section 1114 of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (
+43 U.S.C. 1748bâ1
+) is amendedâ
+(1)
+in subsection (c)(3), by inserting
+the National Oceanic and Atmospheric Administration,
+after
+Federal Aviation Administration,
+;
+(2)
+in subsection (e)(2)â
+(A)
+by redesignating subparagraph (B) as subparagraph (C); and
+(B)
+by inserting after subparagraph (A) the following:
+(B)
+Consultation
+(i)
+In general
+In carrying out subparagraph (A), the Secretaries shall consult with the Under Secretary of Commerce for Oceans and Atmosphere regarding any development of impact-based decision support services that relate to wildlife-related activities of the National Oceanic and Atmospheric Administration.
+(ii)
+Definition of impact-based decision support services
+In this subparagraph, the term
+impact-based decision support services
+means forecast advice and interpretative services the National Oceanic and Atmospheric Administration provides to help core partners, such as emergency personnel and public safety officials, make decisions when weather, water, and climate impact the lives and livelihoods of the people of the United States.
+; and
+(3)
+in subsection (f)â
+(A)
+by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and moving such subparagraphs, as so redesignated, 2 ems to the right;
+(B)
+by striking
+The Secretaries
+and inserting the following:
+(1)
+In general
+The Secretaries
+; and
+(C)
+by adding at the end the following:
+(2)
+Collaboration
+In carrying out paragraph (1), the Secretaries shall collaborate with the Under Secretary of Commerce for Oceans and Atmosphere to improve coordination, utility of systems and assets, and interoperability of data for smoke prediction, forecasting, and modeling.
+.
+16.
+Cooperation; coordination; support to non-Federal entities
+(a)
+Cooperation
+Each Federal agency shall cooperate and coordinate with the Under Secretary, as appropriate, in carrying out this Act and the amendments made by this Act.
+(b)
+Coordination
+(1)
+In general
+In meeting the requirements under this Act and the amendments made by this Act, the Under Secretary shall coordinate, and as appropriate, establish agreements with Federal and external partners to fully use and leverage existing assets, systems, networks, technologies, and sources of data.
+(2)
+Inclusions
+Coordination carried out under paragraph (1) shall include coordination withâ
+(A)
+the National Interagency Fire Center, including the Predictive Services Program that provides impact-based decision support services to the wildland fire community at the Geographic Area Coordination Center and the National Interagency Coordination Center;
+(B)
+the National Wildfire Coordinating Group; and
+(C)
+relevant interagency bodies identified in the report required by section 13.
+(3)
+Consultation
+In carrying out this subsection, the Under Secretary shall consult with Federal partners includingâ
+(A)
+the National Aeronautics and Space Administration;
+(B)
+the Department of the Interior;
+(C)
+the Federal Emergency Management Agency;
+(D)
+the National Science Foundation;
+(E)
+the United States Geological Survey;
+(F)
+the Department of Agriculture;
+(G)
+the Environmental Protection Agency;
+(H)
+the Department of Energy;
+(I)
+the Department of Defense;
+(J)
+the National Institute of Standards and Technology; and
+(K)
+such other departments and agencies as the Under Secretary considers relevant.
+(c)
+Coordination with non-Federal entities
+Not later than 540 days after the date of the enactment of this Act, the Under Secretary shall develop and submit to the appropriate committees of Congress a process for annual coordination with Tribal, State, and local governments to assist the development of improved fire weather products and services.
+(d)
+Support to non-Federal entities
+In carrying out the activities under this Act and the amendments made by this Act, the Under Secretary may provide support to non-Federal entities by making funds and resources available throughâ
+(1)
+competitive grants;
+(2)
+contracts under the mobility program under subchapter VI of
+chapter 33
+of title 5, United States Code (commonly referred to as the
+Intergovernmental Personnel Act Mobility Program
+);
+(3)
+cooperative agreements; and
+(4)
+colocation agreements as described in section 502 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2020 (
+33 U.S.C. 851
+note prec.).
+17.
+International coordination
+(a)
+In general
+The Under Secretary may develop collaborative relationships and agreements with foreign partners and counterparts to address transboundary issues pertaining to wildfires, fire weather, smoke, air quality, and associated conditions and hazards or other relevant meteorological phenomena, as appropriate, to facilitate full and open exchange of data and information.
+(b)
+Consultation
+In carrying out activities under this section, the Under Secretary shall consult with the Department of State and such other Federal partners as the Under Secretary considers relevant.
+18.
+Submissions to Congress regarding the fire weather services program, incident meteorologist workforce needs, and National Weather Service workforce support
+(a)
+Report to Congress
+Not later than 540 days after the date of the enactment of this Act, the Under Secretary shall submit to the appropriate committees of Congressâ
+(1)
+the plan described in subsection (b);
+(2)
+the assessment described in subsection (c); and
+(3)
+the assessment described in subsection (d).
+(b)
+Fire weather services program plan
+(1)
+Elements
+The plan submitted under subsection (a)(1) shall detailâ
+(A)
+the observational data, modeling requirements, ongoing computational needs, research, development, and technology transfer activities, data management, skilled-personnel requirements, engagement with relevant Federal emergency and land management agencies and partners, and corresponding resources and timelines necessary to achieve the functions described in subsection (b) of section 3 and the priorities described in subsection (c) of such section; and
+(B)
+plans and needs for all other activities and requirements under this Act and the amendments made by this Act.
+(2)
+Submittal of annual budget for plan
+Following completion of the plan submitted under subsection (a)(1), the Under Secretary shall, not less frequently than once each year concurrent with the submission of the budget by the President to Congress under section 1105 of title 31, submit to Congress a proposed budget corresponding with the elements detailed in the plan.
+(c)
+Incident meteorologist workforce needs assessment
+(1)
+In general
+The Under Secretary shall conduct a workforce needs assessment on the current and future demand for additional incident meteorologists for wildfires and other high-impact fire weather events.
+(2)
+Elements
+The assessment required by paragraph (1) shall include the following:
+(A)
+A description of staffing levels as of the date on which the assessment is submitted under subsection (a)(2) and projected future staffing levels.
+(B)
+An assessment of the state of the infrastructure of the National Weather Service as of the date on which the assessment is submitted and future needs of such infrastructure in order to meet current and future demands, including with respect to information technology support and logistical and administrative operations.
+(3)
+Considerations
+In conducting the assessment required by paragraph (1), the Under Secretary shall consider factors including projected climate conditions, infrastructure, all hazard meteorological response system equipment, user needs, and feedback from relevant stakeholders.
+(d)
+Support services assessment
+(1)
+In general
+The Under Secretary shall conduct a workforce support services assessment with respect to employees of the National Weather Service engaged in emergency response.
+(2)
+Elements
+The assessment required by paragraph (1) shall include the following:
+(A)
+An assessment of need for further support of employees of the National Weather Service engaged in emergency response through services provided by the Public Health Service.
+(B)
+A detailed assessment of appropriations required to secure the level of support services needed as identified in the assessment described in subparagraph (A).
+(3)
+Additional support services
+Following the completion of the assessment required by paragraph (1), the Under Secretary shall seek to acquire additional support services to meet the needs identified in the assessment.
+19.
+Authorization of appropriations
+There is authorized to be appropriated to the Administration to carry out this Act and the amendments made by this Actâ
+(1)
+$55,000,000 for fiscal year 2023;
+(2)
+$125,000,000 for fiscal year 2024;
+(3)
+$135,000,000 for fiscal year 2025;
+(4)
+$150,000,000 for fiscal year 2026; and
+(5)
+$200,000,000 for fiscal year 2027.

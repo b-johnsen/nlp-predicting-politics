@@ -1,0 +1,79 @@
+1.
+Short title
+This Act may be cited as the
+Behavioral Advertising Decisions Are Downgrading Services Act
+or the
+BAD ADS Act
+.
+2.
+Limitation on immunity
+(a)
+In general
+Section 230(c) of the Communications Act of 1934 (
+47 U.S.C. 230(c)
+) is amended by adding at the end the following:
+(3)
+Limitation on protection
+(A)
+Definitions
+In this paragraphâ
+(i)
+the term
+advertisement server
+means a person that serves or delivers advertisements to a user of a website, online service, online application, or mobile application;
+(ii)
+the term
+behavioral advertising
+â
+(I)
+means a form of advertising in which an advertisement is displayed to a user of an interactive computer service based onâ
+(aa)
+the personal traits of the user;
+(bb)
+previous location information with respect to the user;
+(cc)
+personal information from a profile about the user that is created for the purpose of selling advertisements; or
+(dd)
+the previous online or offline behavior of the user; and
+(II)
+does not include contextual advertising, such as advertising that is directed to a user based onâ
+(aa)
+the content of the website, online service, online application, or mobile application to which the user is connected;
+(bb)
+the location of the user, as of the time at which the advertising is directed to the user; or
+(cc)
+the search terms that the user applied to arrive at the website, service, or application to which the user is connected; and
+(iii)
+the term
+covered provider
+â
+(I)
+means an entity thatâ
+(aa)
+provides an interactive computer serviceâ
+(AA)
+through a website, online application, or mobile application (including a single interactive computer service that is provided through more than 1 such website or application);
+(BB)
+through which information provided by another information content provider is distributed; and
+(CC)
+that, in any month during the most recently completed 12-month period, more than 30,000,000 users in the United States (or more than 300,000,000 users worldwide) accessed, without regard to the means by which the users accessed the service; and
+(bb)
+during the most recently completed taxable year, had more than $1,500,000,000 in global revenue; and
+(II)
+does not include an organization described in
+section 501(c)
+of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
+(B)
+Applicability
+The protections provided under paragraphs (1) and (2) shall not apply with respect to a covered provider for any claim arising during the 30-day period beginning on the date on which the covered providerâ
+(i)
+displays behavioral advertising to a user of the interactive computer service described in subparagraph (A)(iii)(I)(aa) provided by the covered provider; or
+(ii)
+provides data regarding a user of the interactive computer service described in clause (i) to another person knowing that the other person will use that data to create or display behavioral advertising.
+(C)
+Liability of advertisement servers in place of covered providers
+An advertisement server shall be held liable for any claim brought against a covered provider because of the application of subparagraph (B) if, after the covered provider directs the advertisement server not to serve or deliver behavioral advertising to users of the interactive computer service described in subparagraph (A)(iii)(I)(aa) provided by the covered provider (or if the advertisement server fails to provide reasonably accessible means to receive that direction from the covered provider), the covered provider unknowingly takes the action described in subparagraph (B)(i) because of an action taken by the advertisement server, including the failure of the advertisement server to provide the covered provider with a conspicuous disclosure regarding the category of advertisements to be displayed.
+.
+(b)
+Effective date
+This section, and the amendments made by this section, shall take effect on the date that is 180 days after the date of enactment of this Act.

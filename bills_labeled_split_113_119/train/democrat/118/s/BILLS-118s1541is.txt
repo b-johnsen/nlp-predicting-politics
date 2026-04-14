@@ -1,0 +1,933 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Classification Reform Act of 2023
+.
+(b)
+Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+TITLE IâGovernance and accountability for reform of the security classification system
+Sec. 101. Executive Agent for Classification and Declassification.
+Sec. 102. Executive Committee on Classification and Declassification Programs and Technology.
+Sec. 103. Advisory bodies for Executive Agent for Classification and Declassification.
+Sec. 104. Information Security Oversight Office.
+TITLE IIâReducing overclassification
+Sec. 201. Classification and declassification of information.
+Sec. 202. Declassification working capital funds.
+Sec. 203. Transparency officers.
+Sec. 204. Continuity of membership of the Public Interest Declassification Board.
+TITLE IIIâPreventing mishandling of classified information
+Sec. 301. Security review of certain records of the President and Vice President.
+Sec. 302. Mandatory counterintelligence risk assessments.
+Sec. 303. Minimum standards for Executive agency insider threat programs.
+TITLE IVâOther matters
+Sec. 401. Prohibitions.
+Sec. 402. Conforming amendment.
+Sec. 403. Clerical amendment.
+2.
+Definitions
+Title VIII of the National Security Act of 1947 (
+50 U.S.C. 3161 et seq.
+) is amendedâ
+(1)
+in the title heading by striking
+Access to classified information procedures
+and inserting
+Protection of national security information
+;
+(2)
+in the matter before section 801, by inserting the following:
+A
+Definitions
+800.
+Definitions
+In this title:
+(1)
+Agency
+The term
+agency
+means any Executive agency as defined in section 105 of title 5, United States Code, any military department as defined in section 102 of such title, and any other entity in the executive branch of the Federal Government that comes into the possession of classified information.
+(2)
+Authorized investigative agency
+The term
+authorized investigative agency
+means an agency authorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
+(3)
+Classify, classified, classification
+The terms
+classify
+,
+classified
+, and
+classification
+refer to the process by which information is determined to require protection from unauthorized disclosure pursuant to this title in order to protect the national security of the United States.
+(4)
+Classified information
+the term
+classified information
+means information that has been classified.
+(5)
+Computer
+The term
+computer
+means any electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device and any data or other information stored or contained in such device.
+(6)
+Consumer reporting agency
+The term
+consumer reporting agency
+has the meaning given such term in section 603 of the Consumer Credit Protection Act (
+15 U.S.C. 1681a
+).
+(7)
+Declassify, declassified, declassification
+The terms
+declassify
+,
+declassified
+, and
+declassification
+refer to the process by which information that has been classified is determined to no longer require protection from unauthorized disclosure pursuant to this title.
+(8)
+Document
+The term
+document
+means any recorded information, regardless of the nature of the medium or the method or circumstances of recording.
+(9)
+Employee
+The term
+employee
+includes any person who receives a salary or compensation of any kind from the United States Government, is a contractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the United States Government, except as otherwise determined by the President.
+(10)
+Executive Agent for Classification and Declassification
+The term
+Executive Agent for Classification and Declassification
+means the Executive Agent for Classification and Declassification established by section 811(a).
+(11)
+Financial agency and holding company
+The terms
+financial agency
+and
+financial institution
+have the meanings given to such terms in section 5312(a) of title 31, United States Code, and the term
+holding company
+has the meaning given to such term in section 1101(6) of the Right to Financial Privacy Act of 1978 (
+12 U.S.C. 3401
+).
+(12)
+Foreign power and agent of a foreign power
+The terms
+foreign power
+and
+agent of a foreign power
+have the meanings given such terms in section 101 of the Foreign Intelligence Surveillance Act of 1978 (
+50 U.S.C. 1801
+).
+(13)
+Information
+The term
+information
+means any knowledge that can be communicated or documentary material, regardless of its physical form or characteristics, that is owned by, is produced by or for, or is under the control of the United States Government.
+(14)
+Information Security Oversight Office
+The term
+Information Security Oversight Office
+means the Information Security Oversight Office established by section 814(a).
+(15)
+Original classification authority
+The term
+original classification authority
+means an individual authorized in writing, either by the President, the Vice President, or by agency heads or other officials designated by the President, to classify information in the first instance.
+(16)
+Records
+The term
+records
+means the records of an agency and Presidential papers or Presidential records, as those terms are defined in title 44, United States Code, including those created or maintained by a government contractor, licensee, certificate holder, or grantee that are subject to the sponsoring agency's control under the terms of the contract, license, certificate, or grant.
+(17)
+State
+The term
+State
+means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States.
+B
+Access to classified information procedures
+;
+and
+(3)
+by striking section 805.
+I
+Governance and accountability for reform of the security classification system
+101.
+Executive Agent for Classification and Declassification
+Title VIII of the National Security Act of 1947 (
+50 U.S.C. 3161 et seq.
+), as amended by section 2, is further amended by adding at the end the following:
+C
+Security classification governance
+811.
+Executive Agent for Classification and Declassification
+(a)
+Establishment
+There is in the executive branch of the Federal Government an Executive Agent for Classification and Declassification who shall be responsible for promoting programs, processes, and systems relating to classification and declassification, including developing technical solutions for automating declassification review, and directing resources for such purposes in the Federal Government.
+(b)
+Designation
+The Director of National Intelligence shall serve as the Executive Agent for Classification and Declassification.
+(c)
+Duties
+The duties of the Executive Agent for Classification and Declassification are as follows:
+(1)
+To promote classification and declassification programs, processes, and systems with the goal of ensuring that declassification activities keep pace with classification activities and that classified information is declassified at such time as it no longer meets the standard for classification.
+(2)
+To promote classification and declassification programs, processes, and systems that ensure secure management of and tracking of classified records.
+(3)
+To promote the establishment of a federated classification and declassification system to streamline, modernize, and oversee declassification across agencies.
+(4)
+To direct resources to develop, coordinate, and implement a federated classification and declassification system that includes technologies that automate declassification review and promote consistency in declassification determinations across the executive branch of the Federal Government.
+(5)
+To work with the Director of the Office of Management and Budget in developing a line item for classification and declassification in each budget of the President that is submitted for a fiscal year under section 1105(a) of title 31, United States Code.
+(6)
+To identify and support the development ofâ
+(A)
+best practices for classification and declassification among agencies; and
+(B)
+goal oriented classification and declassification pilot programs.
+(7)
+To promote and implement technological and automated solutions relating to classification and declassification, with human input as necessary for key policy decisions.
+(8)
+To promote feasible, sustainable, and interoperable programs and processes to facilitate a federated classification and declassification system.
+(9)
+To direct the implementation across agencies of the most effective programs and approaches relating to classification and declassification.
+(10)
+To establish, oversee, and enforce acquisition and contracting policies relating to classification and declassification programs.
+(11)
+In coordination with the Information Security Oversight Officeâ
+(A)
+to issue policies and directives to the heads of agencies relating to directing resources and making technological investments in classification and declassification that include support for a federated system;
+(B)
+to ensure implementation of the policies and directives issued under subparagraph (A);
+(C)
+to collect information on classification and declassification practices and policies across agencies, including challenges to effective declassification, training, accounting, and costs associated with classification and declassification;
+(D)
+to develop policies for ensuring the accuracy of information obtained from Federal agencies; and
+(E)
+to develop accurate and relevant metrics for judging the success of classification and declassification policies and directives.
+(12)
+To work with appropriate agencies to oversee the implementation of policies, procedures, and processes governing the submission of materials for prepublication review by persons obligated to submit materials for such review by the terms of a nondisclosure agreement signed in accordance with Executive Order 12968 (
+50 U.S.C. 3161
+note; relating to access to classified information), or successor order, and to ensure such policies, procedures, and processesâ
+(A)
+include clear and consistent guidance on materials that must be submitted and the mechanisms for making such submissions;
+(B)
+produce timely and consistent determinations across agencies; and
+(C)
+incorporate mechanisms for the timely appeal of such determinations.
+(d)
+Consultation with Executive Committee on Classification and Declassification Programs and Technology
+In making decisions under this section, the Executive Agent for Classification and Declassification shall consult with the Executive Committee on Classification and Declassification Programs and Technology established under section 102(a).
+(e)
+Coordination with the National Declassification Center
+In implementing a federated classification and declassification system, the Executive Agent for Classification and Declassification shall act in coordination with the National Declassification Center established by section 3.7(a) of Executive Order 13526 (
+50 U.S.C. 3161
+note; relating to classified national security information), or successor order.
+(f)
+Standards and directives of the Information Security Oversight Office
+The programs, policies, and systems promoted by the Executive Agent for Classification and Declassification shall be consistent with the standards and directives established by the Information Security Oversight Office.
+(g)
+Annual report
+(1)
+In general
+Not later than the end of the first full fiscal year beginning after the date of the enactment of the
+Classification Reform Act of 2023
+and not less frequently than once each fiscal year thereafter, the Executive Agent for Classification and Declassification shall submit to Congress and make available to the public a report on the implementation of classification and declassification programs and processes in the most recently completed fiscal year.
+(2)
+Coordination
+Each report submitted and made available under paragraph (1) shall be coordinated with the annual report of the Information Security Oversight Office issued pursuant to section 814(d).
+(3)
+Contents
+Each report submitted and made available under subsection (a) shall include, for the period covered by the report, the following:
+(A)
+The costs incurred by the Federal Government for classification and declassification.
+(B)
+A description of information systems of the Federal Government and technology programs, processes, and systems of agencies related to classification and declassification.
+(C)
+A description of the policies and directives issued by the Executive Agent for Classification and Declassification and other activities of the Executive Agent for Classification and Declassification.
+(D)
+A description of the challenges posed to agencies in implementing the policies and directives of the Executive Agent for Classification and Declassification as well as relevant implementing policies of the agencies.
+(E)
+A description of pilot programs and new investments in programs, processes, and systems relating to classification and declassification and metrics of effectiveness for such programs, processes, and systems.
+(F)
+A description of progress and challenges in achieving the goal described in (c)(1).
+(h)
+Funding
+(1)
+Authorization of appropriations
+There are authorized to be appropriated to carry out this section amounts as follows:
+(A)
+$5,000,000 for fiscal year 2024.
+(B)
+For fiscal year 2025 and each fiscal year thereafter, such sums as may be necessary to carry out this section.
+(2)
+Budget estimates
+In each budget that the President submits to Congress for a fiscal year under section 1105(a) of title 31, United States Code, the President shall include an estimate of the amounts required to carry out this section in that fiscal year.
+.
+102.
+Executive Committee on Classification and Declassification Programs and Technology
+Subtitle C of title VIII of the National Security Act of 1947 (
+50 U.S.C. 3161 et seq.
+), as added by section 101, is further amended by adding at the end the following:
+812.
+Executive Committee on Classification and Declassification Programs and Technology
+(a)
+Establishment
+There is established a committee to provide direction, advice, and guidance to the Executive Agent for Classification and Declassification on matters relating to classification and declassification programs and technology.
+(b)
+Designation
+The committee established by subsection (a) shall be known as the
+Executive Committee on Classification and Declassification Programs and Technology
+(in this section referred to as the
+Committee
+).
+(c)
+Membership
+(1)
+Composition
+The Committee shall be composed of the following:
+(A)
+The Director of National Intelligence.
+(B)
+The Under Secretary of Defense for Intelligence.
+(C)
+The Secretary of Energy.
+(D)
+The Secretary of State.
+(E)
+The Director of the National Declassification Center.
+(F)
+The Director of the Information Security Oversight Board.
+(G)
+The Director of the Office of Management and Budget.
+(H)
+Such other members as the Executive Agent for Classification and Declassification considers appropriate.
+(2)
+Chairperson
+The President shall appoint the chairperson of the Committee.
+.
+103.
+Advisory bodies for Executive Agent for Classification and Declassification
+Subtitle C of title VIII of the National Security Act of 1947 (
+50 U.S.C. 3161 et seq.
+), as added by section 101 and amended by section 102, is further amended by adding at the end the following:
+813.
+Advisory bodies for Executive Agent for Classification and Declassification
+The following are hereby advisory bodies for the Executive Agent for Classification and Declassification:
+(1)
+The Public Interest Declassification Board established by section 703(a) of the Public Interest Declassification Act of 2000 (
+Public Law 106â567
+).
+(2)
+The Office of the Historian of the Department of State.
+(3)
+The Historical Office of the Secretary of Defense.
+(4)
+The Office of the Chief Historian of the Central Intelligence Agency.
+.
+104.
+Information Security Oversight Office
+Subtitle C of title VIII of the National Security Act of 1947 (
+50 U.S.C. 3161 et seq.
+), as added by section 101 and amended by sections 102 and 103, is further amended by adding at the end the following:
+814.
+Information Security Oversight Office
+(a)
+Establishment
+(1)
+In general
+There is hereby established in the executive branch of the Federal Government an office to ensure the Government protects and provides proper access to information to advance the national and public interest by standardizing and assessing the management of classified and controlled unclassified information through oversight, policy development, guidance, education, and reporting.
+(2)
+Designation
+The office established by paragraph (1) shall be known as the
+Information Security Oversight Office
+(in this section referred to as the
+Office
+).
+(b)
+Director
+There is in the Office a director who shall be the head of the Office and who shall be appointed by the President.
+(c)
+Duties
+The duties of the director of the Office, which the director shall carry out in coordination with the Executive Agent for Classification and Declassification, are as follows:
+(1)
+To develop directives to implement a uniform system across the United States Government for classifying, safeguarding, declassifying, and downgrading of national security information.
+(2)
+To oversee implementation of such directives by agencies through establishment of strategic goals and objectives and periodic assessment of agency performance vis-Ã -vis such goals and objectives.
+(d)
+Annual report
+Each fiscal year, the director of the Office shall submit to Congress a report on the execution of the duties of the director under subsection (c).
+(e)
+Funding
+(1)
+Authorization of appropriations
+There are authorized to be appropriated to carry out this section amounts as follows:
+(A)
+$5,000,000 for fiscal year 2024.
+(B)
+For fiscal year 2025 and each fiscal year thereafter, such sums as may be necessary to carry out this section.
+(2)
+Budget estimates
+In each budget that the President submits to Congress for a fiscal year under section 1105(a) of title 31, United States Code, the President shall include an estimate of the amounts required to carry out this section in that fiscal year.
+.
+II
+Reducing overclassification
+201.
+Classification and declassification of information
+(a)
+In general
+Title VIII of the National Security Act of 1947, as amended by title I of this Act, is further amended by adding at the end the following:
+D
+Classification and declassification
+821.
+Classification and declassification of information
+(a)
+In general
+The President may, in accordance with this title, protect from unauthorized disclosure any information owned by, produced by or for, or under the control of the executive branch when there is a demonstrable need to do so in order to protect the national security of the United States.
+(b)
+Establishment of standards and procedures for classification and declassification
+(1)
+Governmentwide procedures
+(A)
+Classification
+The President shall, to the extent necessary, establish categories of information that may be classified and procedures for classifying information under subsection (a).
+(B)
+Declassification
+At the same time the President establishes categories and procedures under subparagraph (A), the President shall establish procedures for declassifying information that was previously classified.
+(C)
+Minimum requirements
+The procedures established pursuant to subparagraphs (A) and (B) shallâ
+(i)
+permit the classification of information only in cases in which the information meets the standard set forth in subsection (c) and require the declassification of information that does not meet such standard;
+(ii)
+provide for no more than two levels of classification;
+(iii)
+provide for the declassification of information classified under this title in accordance with subsection (d);
+(iv)
+provide for the automatic declassification of classified records with permanent historical value in accordance with subsection (e); and
+(v)
+provide for the timely review of materials submitted for prepublication review in accordance with subsection (g).
+(2)
+Notice and comment
+(A)
+Notice
+The President shall publish in the Federal Register notice regarding the categories and procedures proposed to be established under paragraph (1).
+(B)
+Comment
+The President shall provide an opportunity for interested persons to submit comments on the categories and procedures covered by subparagraph (A).
+(C)
+Deadline
+The President shall complete the establishment of categories and procedures under this subsection not later than 60 days after publishing notice in the Federal Register under subparagraph (A). Upon completion of the establishment of such categories and procedures, the President shall publish in the Federal Register notice regarding such categories and procedures.
+(3)
+Modification
+In the event the President determines to modify any categories or procedures established under paragraph (1), subparagraphs (A) and (B) of paragraph (2) shall apply to the modification of such categories or procedures.
+(4)
+Agency standards and procedures
+(A)
+In general
+The head of each agency shall establish a single set of consolidated standards and procedures to permit such agency to classify and declassify information created by such agency in accordance with the categories and procedures established by the President under this section and otherwise to carry out this title.
+(B)
+Deadline
+Each agency head shall establish the standards and procedures under subparagraph (A) not later than 60 days after the date on which the President publishes notice under paragraph (2)(C) of the categories and standards established by the President under this subsection.
+(C)
+Submittal to Congress
+Each agency head shall submit to Congress the standards and procedures established by such agency head under this paragraph.
+(c)
+Standard for classification and declassification
+(1)
+In general
+Subject to paragraphs (2) and (3), information may be classified under this title, and classified information under review for declassification under this title may remain classified, only if the harm to national security that might reasonably be expected from disclosure of such information outweighs the public interest in disclosure of such information.
+(2)
+Default rules
+(A)
+Default with respect to classification
+In the event of significant doubt whether the harm to national security that might reasonably be expected from the disclosure of information would outweigh the public interest in the disclosure of such information, such information shall not be classified.
+(B)
+Default with respect to declassification
+In the event of significant doubt whether the harm to national security that might reasonably be expected from the disclosure of information previously classified under this title would outweigh the public interest in the disclosure of such information, such information shall be declassified.
+(3)
+Criteria
+For purposes of this subsection, in determining the harm to national security that might reasonably be expected from disclosure of information, and the public interest in the disclosure of information, the official making the determination shall consider the following:
+(A)
+With regard to the harm to national security that might reasonably be expected from disclosure of information, whether or not disclosure of the information wouldâ
+(i)
+reveal the identity of a confidential human source, or reveal information about the application of an intelligence source or method, or reveal the identity of a human intelligence source when the unauthorized disclosure of that source would clearly and demonstrably damage the national security interests of the United States;
+(ii)
+reveal information that would assist in the development or use of weapons of mass destruction;
+(iii)
+reveal information that would impair United States cryptologic systems or activities;
+(iv)
+reveal information that would impair the application of state of the art technology within a United States weapons system;
+(v)
+reveal actual United States military war plans that remain in effect;
+(vi)
+reveal information that would seriously and demonstrably impair relations between the United States and a foreign government, or seriously and demonstrably undermine ongoing diplomatic activities of the United States;
+(vii)
+reveal information that would clearly and demonstrably impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whom protection services, in the interest of national security, are authorized;
+(viii)
+reveal information that would seriously and demonstrably impair current national security emergency preparedness plans; or
+(ix)
+violate a statute, treaty, or international agreement.
+(B)
+With regard to the public interest in disclosure of informationâ
+(i)
+whether or not disclosure of the information would better enable United States citizens to hold Government officials accountable for their actions and policies;
+(ii)
+whether or not disclosure of the information would assist the United States criminal justice system in holding persons responsible for criminal acts or acts contrary to the Constitution;
+(iii)
+whether or not disclosure of the information would assist Congress, or any committee or subcommittee thereof, in carrying out its oversight responsibilities with regard to the executive branch or in adequately informing itself of executive branch policies and activities in order to carry out its legislative responsibilities;
+(iv)
+whether the disclosure of the information would assist Congress or the public in understanding the interpretation of the Federal Government of a provision of law, including Federal regulations, presidential directives, statutes, case law, and the Constitution of the United States; or
+(v)
+whether or not disclosure of the information would bring about any other significant benefit, including an increase in public awareness or understanding of Government activities or an enhancement of Government efficiency.
+(4)
+Written justification for classification
+(A)
+Original classification
+Each agency official who makes a decision to classify information not previously classified shall, at the time of the classification decisionâ
+(i)
+identify himself or herself; and
+(ii)
+provide in writing a detailed justification of that decision.
+(B)
+Derivative classification
+In any case in which an agency official or contractor employee classifies a document on the basis of information previously classified that is included or referenced in the document, the official or employee, as the case may be, shallâ
+(i)
+identify himself or herself in that document; and
+(ii)
+use a concise notation, or similar means, to document the basis for that decision.
+(5)
+Classification prohibitions and limitations
+(A)
+In general
+In no case shall information be classified, continue to be maintained as classified, or fail to be declassified in orderâ
+(i)
+to conceal violations of law, inefficiency, or administrative error;
+(ii)
+to prevent embarrassment to a person, organization, or agency;
+(iii)
+to restrain competition; or
+(iv)
+to prevent or delay the release of information that does not require protection in the interest of the national security.
+(B)
+Basic scientific research
+Basic scientific research information not clearly related to the national security shall not be classified.
+(C)
+Reclassification
+Information may not be reclassified after being declassified and release to the public under proper authority unless personally approved by the President based on a determination that such reclassification is required to prevent significant and demonstrable damage to the national security.
+(d)
+Declassification of information classified under Act
+(1)
+In general
+No information may remain classified indefinitely.
+(2)
+Maximum period of classification
+Except as provided in paragraphs (3), (4), and (5), information may not remain classified under this title after the date that is 25 years after the date of the original classification of the information.
+(3)
+Earlier declassification
+When classifying information under this title, an agency official may provide for the declassification of the information as of a date or event that is earlier than the date otherwise provided for under paragraph (2).
+(4)
+Later declassification
+When classifying information under this title, an agency official may provide for the declassification of the information on the date that is 50 years after the date of the classification if the head of the agencyâ
+(A)
+determines that there is no likely set of circumstances under which declassification would occur within the time otherwise provided for under paragraph (2);
+(B)
+(i)
+obtains the concurrence of the director of the Information Security Oversight Office in the determination; or
+(ii)
+if the agency head seeks but is unable to obtain concurrence under clause (i), obtains the concurrence of the President; and
+(C)
+submits to the President a certification of the determination.
+(5)
+Postponement of declassification
+(A)
+In general
+The declassification of any information or category of information that would otherwise be declassified under paragraph (2) or (4) may be postponed, but only with the personal approval of the President based on a determination that such postponement is required to prevent significant and demonstrable damage to the national security of the United States.
+(B)
+General duration of postponement
+Information the declassification of which is postponed under this paragraph may remain classified not longer than 10 years after the date of the postponement, unless such classification is renewed by the President.
+(C)
+Congressional notification
+Within 30 days of any postponement or renewal of a postponement under this paragraph, the President shall provide written notification to Congress of such postponement or renewal that describes the significant and demonstrable damage to the national security of the United States that justifies such postponement or renewal.
+(6)
+Basis for determinations
+An agency official making a determination under this subsection with respect to the duration of classification of information, or the declassification of information, shall make the determination required under subsection (c) with respect to classification or declassification in accordance with an assessment of the criteria specified in paragraph (3) of such subsection (c) that is current as of the determination.
+(e)
+Automatic declassification of classified records
+(1)
+In general
+Except as provided in paragraph (2), all classified records that are more than 50 years old and have been determined to have permanent historical value under title 44, United States Code, shall be automatically declassified on December 31 of the year that is 50 years after the date on which the records were created, whether or not the records have been reviewed.
+(2)
+Postponement
+(A)
+Agency Postponement
+The head of an agency may postpone automatic declassification under paragraph (1) of specific records or information, or renew a period of postponed automatic declassification, if the agency head determines that disclosure of the records or information would clearly and demonstrably be expectedâ
+(i)
+to reveal the identity of a confidential human source or a human intelligence source; or
+(ii)
+to reveal information that would assist in the development, production, or use of weapons of mass destruction.
+(B)
+Presidential Postponement
+The President may postpone automatic declassification under paragraph (1) of specific records or information if the President determines that such postponement is required to prevent significant and demonstrable damage to the national security of the United States.
+(C)
+General duration of postponement
+A period of postponement automatic declassification under this paragraph shall not exceed 10 years after the date of the postponement, unless renewed by the agency head who postponed the automatic declassification or the President.
+(D)
+Congressional notification
+Within 30 days of any postponement or renewal of a postponement under this paragraph, the agency head or President responsible for the postponement shall provide written notification to Congress of such postponement or renewal that describes the justification for such postponement or renewal.
+(f)
+Declassification of current classified information
+(1)
+Procedures
+The President shall establish procedures for declassifying information that was classified before the date of the enactment of the
+Classification Reform Act of 2023
+. Such procedures shall, to the maximum extent practicable, be consistent with the provisions of this section.
+(2)
+Automatic declassification
+The procedures established under paragraph (1) shall include procedures for the automatic declassification of information referred to in paragraph (1) that has remained classified for more than 25 years as of such date.
+(3)
+Notice and comment
+(A)
+Notice
+The President shall publish notice in the Federal Register of the procedures proposed to be established under this subsection.
+(B)
+Comment
+The President shall provide an opportunity for interested persons to submit comments on the procedures covered by subparagraph (A).
+(C)
+Deadline
+The President shall complete the establishment of procedures under this subsection not later than 60 days after publishing notice in the Federal Register under subparagraph (A). Upon completion of the establishment of such procedures, the President shall publish in the Federal Register notice regarding such procedures.
+(g)
+Prepublication review
+(1)
+In general
+The head of each agency that requires personnel to sign a nondisclosure agreement in accordance with Executive Order 12968 (
+50 U.S.C. 3161
+note; relating to access to classified information), or successor order, providing for the submittal of materials for prepublication review, shall establish a process for the timely review of such materials consistent with the requirements of this title.
+(2)
+Requirements
+Each process established under paragraph (1) shall include the following:
+(A)
+Clear guidance on materials required to be submitted and the means of submission.
+(B)
+Mechanisms for ensuring consistent decisionmaking across multiple agencies.
+(C)
+Mechanisms for appeal of decisions made in the course of the review process.
+(3)
+Centralized appeal
+The President shall establish a mechanism for centralized appeal of agency decisions made pursuant to this subsection.
+.
+(b)
+Conforming amendment to FOIA
+Section 552(b)(1) of title 5, United States Code, is amended to read as follows:
+(1)
+(A)
+specifically authorized to be classified under the
+Classification Reform Act of 2023
+, or specifically authorized under criteria established by an Executive order to be kept secret in the interest of national security; and
+(B)
+are in fact properly classified pursuant to that Act or Executive order;
+.
+(c)
+Effective date
+(1)
+In general
+Section 821 of the National Security Act of 1947, as added by subsection (a), and the amendment made by subsection (b), shall take effect on the date that is 180 days after the date of the enactment of this Act.
+(2)
+Relation to Presidential directives
+Presidential directives regarding classifying, safeguarding, and declassifying national security information, including Executive Order 13526 (
+50 U.S.C. 3161
+note; relating to classified national security information), or successor order, in effect on the day before the date of the enactment of this Act, as well as procedures issued pursuant to such Presidential directives, shall remain in effect until supersede by procedures issues pursuant to section 821 of the National Security Act of 1947, as added by subsection (a).
+202.
+Declassification working capital funds
+Subtitle D of title VIII of the National Security Act of 1947, as added by section 201, is further amended by adding at the end the following:
+822.
+Declassification working capital funds
+(a)
+Definition of covered agency
+In this section, the term
+covered agency
+means an agency that has original classification authority.
+(b)
+Programs required
+Not later than 90 days after the date of the enactment of the
+Classification Reform Act of 2023
+, each head of a covered agency shall establish a program for the automatic declassification of classified records that have permanent historical value.
+(c)
+Estimates
+Each head of a covered agency shall ensure that the program established by the head pursuant to subsection (b) includes a mechanism for estimating the number of classified records generated by each subcomponent of the covered agency each fiscal year.
+(d)
+Declassification working capital funds
+(1)
+Establishment
+For each covered agency, there is established in the Treasury of the United States a fund to be known as the
+Declassification Working Capital Fund
+of the respective covered agency.
+(2)
+Contents of funds
+Each fund established under paragraph (1) shall consist of the following:
+(A)
+Amounts transferred to the fund under subsection (e).
+(B)
+Amounts appropriated to the fund.
+(3)
+Availability and use of funds
+Subject to the concurrence of the Executive Agent for Classification and Declassification, amounts in a fund of a covered agency established by paragraph (1) shall be available, without fiscal year limitation, to promote and implement technological and automated solutions that are interoperable across covered agencies to support the programs of covered agencies established pursuant to subsection (b).
+(e)
+Transfers to the funds
+Each head of a covered agency shall issue regulations for the covered agency, subject to review and approval by the Executive Agent for Classification and Declassification, that require each subcomponent of the covered agency to transfer, on a periodic basis, to the fund established for the covered agency under subsection (c)(1), an amount for a period that bears the same ratio to the total of amounts transferred to the fund by all subcomponents of the covered agency for that period as the ratio ofâ
+(1)
+the estimate for the subcomponent pursuant to the mechanism required by subsection (c) for that period; bears to
+(2)
+the aggregate of all of the estimates for all subcomponents of the Executive agency under such mechanism for the same period.
+.
+203.
+Transparency officers
+Section 1062(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (
+42 U.S.C. 2000eeâ1(a)
+) is amendedâ
+(1)
+in paragraph (3), by striking
+; and
+and inserting a semicolon;
+(2)
+in paragraph (4)(C), by striking the period at the end and inserting
+; and
+;
+(3)
+by adding at the end the following:
+(5)
+assist the head of such department, agency, or element and other officials of such department, agency, or element in identifying records of significant public interest and prioritizing appropriate review of such records in order to facilitate the public disclosure of such records in redacted or unredacted form.
+;
+(4)
+in paragraph (4), by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and indenting such clauses 2 ems to the right;
+(5)
+by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and indenting such subparagraphs 2 ems to the right;
+(6)
+in the matter before subparagraph (A), as redesignated by paragraph (5), by striking
+The Attorney General
+and inserting the following:
+(1)
+In general
+The Attorney General
+; and
+(7)
+by adding at the end the following:
+(2)
+Determining public interest in disclosure
+In assisting the head of a department, agency, or element and other officials of such department, agency, or element in identifying records of significant public interest under subparagraph (E) of paragraph (1), a senior officer designated under such paragraph shall considerâ
+(A)
+whether or not disclosure of the information would better enable United States citizens to hold Federal Government officials accountable for their actions and policies;
+(B)
+whether or not disclosure of the information would assist the United States criminal justice system in holding persons responsible for criminal acts or acts contrary to the Constitution;
+(C)
+whether or not disclosure of the information would assist Congress, or any committee or subcommittee thereof, in carrying out its oversight responsibilities with regard to the executive branch or in adequately informing itself of executive branch policies and activities in order to carry out its legislative responsibilities;
+(D)
+whether the disclosure of the information would assist Congress or the public in understanding the interpretation of the Federal Government of a provision of law, including Federal regulations, presidential directives, statutes, case law, and the Constitution of the United States; or
+(E)
+whether or not disclosure of the information would bring about any other significant benefit, including an increase in public awareness or understanding of Government activities or an enhancement of Federal Government efficiency.
+.
+204.
+Continuity of membership of the Public Interest Declassification Board
+(a)
+Continuity of membership
+Subsection (c)(2) of section 703 of the Public Interest Declassification Act of 2000 (
+50 U.S.C. 3355a
+) is amended by adding at the end the following:
+(E)
+Notwithstanding the other provisions of this paragraph, a member whose term has expired may continue to serve until a successor is appointed.
+.
+(b)
+Meetings
+Subsection (e) of such section is amended, in the second sentence, by inserting
+appointed
+before
+members
+.
+III
+Preventing mishandling of classified information
+301.
+Security review of certain records of the President and Vice President
+Title VIII of the National Security Act of 1947, as amended by titles I and II of this Act, is further amended by adding at the end the following:
+E
+Protection of classified information
+831.
+Security review of certain records of the President and Vice President
+(a)
+Definitions
+In this section:
+(1)
+Archivist, documentary material, Presidential records, personal records
+The terms
+Archivist
+,
+documentary material
+,
+Presidential records
+, and
+personal records
+have the meanings given such terms in section 2201 of title 44, United States Code.
+(2)
+Commingled or uncategorized records
+(A)
+In general
+Except as provided in subparagraph (B), the term
+commingled or uncategorized records
+means all documentary materials not categorized as Presidential records or personal records upon their creation or receipt and filed separately pursuant to section 2203(d) of title 44, United States Code.
+(B)
+Exception
+The term
+commingled or uncategorized records
+does not include documentary materials that areâ
+(i)
+official records of an agency (as defined in section 552(f) of title 5, United States Code);
+(ii)
+stocks of publications and stationery; or
+(iii)
+extra copies of documents produced only for convenience of reference, when such copies are clearly so identified.
+(3)
+Official records of an agency
+The term
+official records of an agency
+means official records of an agency within the meaning of such terms in section 552 of title 5, United States.
+(b)
+Presumption of Presidential records
+Commingled or uncategorized records shall be presumed to be Presidential records, unless the President or Vice Presidentâ
+(1)
+categorizes the commingled or uncategorized records as personal records in accordance with subsection (c); or
+(2)
+determines the commingled or uncategorized records areâ
+(A)
+official records of an agency;
+(B)
+stocks of publications and stationery; or
+(C)
+extra copies of documents produced only for convenience of reference, when such copies are clearly so identified.
+(c)
+Categorizing commingled or uncategorized records as personal records
+At any time during the President or Vice Presidentâs term of office, the President or Vice President may categorize commingled or uncategorized records as personal records ifâ
+(1)
+the Archivist performs a security review of the commingled or uncategorized records that is reasonably designed to identify records that contain standard markings indicating that records contain classified information;
+(2)
+the President obtains written confirmation from the Archivist that the review conducted pursuant to paragraph (1) did not identify any records that contain standard markings indicating that records contain classified information or, if such markings were improperly applied, that such markings have been corrected; and
+(3)
+the President obtains written confirmation from the Archivist that the Archivist is not aware of any other requirement that would preclude categorizing the commingled or uncategorized records as personal records.
+(d)
+Review of commingled or uncategorized records of former Presidents and Vice Presidents
+(1)
+Requests for review
+During the 180-day period following the end of the term of office of a former President or Vice Presidentâ
+(A)
+the former President or Vice President may request that the Archivist review the categorization of any commingled or uncategorized records created or received during the term of the former President or Vice-President; and
+(B)
+the Archivist shall perform a security review of the commingled or uncategorized records pursuant to the request.
+(2)
+Actions upon completion of review
+If, pursuant to a review under paragraph (1), the Archivist determines that any commingled or uncategorized records reviewed are improperly categorized, the Archivist shallâ
+(A)
+submit to the President a recommendation to correct the categorization of the records; and
+(B)
+notify the former President or Vice-President of that recommendation.
+.
+302.
+Mandatory counterintelligence risk assessments
+(a)
+In general
+Subtitle E of title VIII of the National Security Act of 1947, as added by section 301, is amended by adding at the end the following:
+832.
+Mandatory counterintelligence risk assessments
+(a)
+Mishandling or unauthorized disclosure of classified information defined
+In this section, the term
+mishandling or unauthorized disclosure of classified information
+means any unauthorized storage, retention, communication, confirmation, acknowledgment, or physical transfer of classified information.
+(b)
+Assessments
+The Director of the National Counterintelligence and Security Center shall prepare a written assessment of the risk to national security from any mishandling or unauthorized disclosure of classified information involving the conduct of the President, Vice President, or an official listed in Level I of the Executive Schedule under section 5312 of title 5, United States Code, within 90 days of the detection of such mishandling or unauthorized disclosure.
+(c)
+Description of risks
+A written assessment prepared pursuant to subsection (b) shall describe the risk to national security if the classified information were to be exposed in public or to a foreign adversary.
+(d)
+Submittal of assessments
+Each written assessment prepared pursuant to subsection (b) shall be submitted to Congress, in classified form, upon completion.
+.
+(b)
+Prospective application
+Section 832 of such Act, as added by subsection (a), shall apply to incidents of mishandling or unauthorized disclosure of classified information (as defined in such section) detected on or after the date of the enactment of this Act.
+303.
+Minimum standards for Executive agency insider threat programs
+(a)
+Definitions
+In this section, the terms
+agency
+and
+classified information
+have the meanings given such terms in section 800 of the National Security Act of 1947, as added by section 2.
+(b)
+Establishment of insider threat programs
+Each head of an agency with access to classified information shall establish an insider threat program to protect classified information from unauthorized disclosure.
+(c)
+Minimum standards
+In carrying out an insider threat program established by the head of an agency pursuant to subsection (b), the head of the agency shallâ
+(1)
+designate a senior official of the agency who shall be responsible for management of the program;
+(2)
+monitor user activity on all classified networks in order to detect activity indicative of insider threat behavior;
+(3)
+build and maintain an insider threat analytic and response capability to review, assess, and respond to information obtained pursuant to paragraph (2); and
+(4)
+provide insider threat awareness training to all cleared employees within 30 days of entry-on-duty or granting of access to classified information and annually thereafter.
+(d)
+Annual reports
+Not less frequently that once each year, the Director of National Intelligence shall, serving as the Security Executive Agent under section 803 of the National Security Act of 1947 (
+50 U.S.C. 3162a
+), submit to Congress an annual report on the compliance of agencies with respect to the requirements of this section.
+IV
+Other matters
+401.
+Prohibitions
+(a)
+Withholding information from congress
+Nothing in this Act or an amendment made by this Act shall be construed to authorize the withholding of information from Congress.
+(b)
+Judicial review
+Except in the case of the amendment to section 552 of title 5, United States Code, made by section 201(b), no person may seek or obtain judicial review of any provision of this Act or any action taken under a provision of this Act.
+402.
+Conforming amendment
+Section 804 of the National Security Act of 1947 (
+50 U.S.C. 3163
+) is amended by striking
+this title
+and inserting
+sections 801 and 802
+.
+403.
+Clerical amendment
+The table of contents for the National Security Act of 1947 is amended by striking the items relating to title VIII and inserting the following:
+Title VIIIâProtection of national security information
+Subtitle AâDefinitions
+Sec. 800. Definitions.
+Subtitle BâAccess to classified information procedures
+Sec. 801. Procedures.
+Sec. 802. Requests by authorized investigative agencies.
+Sec. 803. Security Executive Agent.
+Sec. 804. Exceptions.
+Subtitle CâSecurity classification governance
+Sec. 811. Executive Agent for Classification and Declassification.
+Sec. 812. Executive Committee on Classification and Declassification Programs and Technology.
+Sec. 813. Advisory bodies for Executive Agent for Classification and Declassification.
+Sec. 814. Information Security Oversight Office.
+Subtitle DâClassification and declassification
+Sec. 821. Classification and declassification of information.
+Sec. 822. Declassification working capital funds.
+Subtitle EâProtection of classified information
+Sec. 831. Security review of certain records of the President and Vice President.
+Sec. 832. Mandatory counterintelligence risk assessments.
+.

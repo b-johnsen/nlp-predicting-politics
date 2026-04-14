@@ -1,0 +1,875 @@
+1.
+Short title
+This Act may be cited as the
+Motor Vehicle Modernization Act of 2026
+.
+2.
+Definitions
+(a)
+Applicability of certain definitions
+The definitions in section 30102(a) of title 49, United States Code, apply to this Act.
+(b)
+Other definitions
+In this Act:
+(1)
+Administration
+The term
+Administration
+means the National Highway Traffic Safety Administration.
+(2)
+Administrator
+The term
+Administrator
+means the Administrator of the National Highway Traffic Safety Administration.
+(3)
+ADS-equipped vehicle
+The term
+ADS-equipped vehicle
+means a motor vehicle equipped with an automated driving system.
+(4)
+Automated driving system
+The term
+automated driving system
+â
+(A)
+means hardware and software that are collectively capable of performing the entire dynamic driving task on a sustained basis, regardless of whether such system is limited to a specific operational design domain; and
+(B)
+includes only a system that meets the definition of Level 3, Level 4, or Level 5 automation.
+(5)
+Dynamic driving task
+The term
+dynamic driving task
+â
+(A)
+means each real-time operational and tactical function required to operate a motor vehicle in on-road traffic;
+(B)
+excludes any strategic function, such as trip scheduling and selection of a destination or waypoint; and
+(C)
+includesâ
+(i)
+lateral vehicle motion control through steering;
+(ii)
+longitudinal motion control through acceleration and deceleration;
+(iii)
+monitoring of the driving environment through object and event detection, recognition, classification, and response preparation;
+(iv)
+object and event response execution;
+(v)
+maneuver planning; and
+(vi)
+enhancement of conspicuity through lighting, sounding the horn, signaling, gesturing, or another indicator.
+(6)
+Level 1; Level 2; Level 3; Level 4; Level 5
+The terms
+Level 1
+,
+Level 2
+,
+Level 3
+,
+Level 4
+, and
+Level 5
+have the meaning given those terms in the April 2021 edition of the J3016 recommended practice of SAE International,
+Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles
+.
+(7)
+New Car Assessment Program; NCAP
+The terms
+New Car Assessment Program
+and
+NCAP
+mean the program established by the Secretary pursuant to section 32302 of title 49, United States Code, to develop comparative information on the safety performance of passenger motor vehicle safety technologies to assist consumers with purchasing decisions and encourage manufacturers to improve the safety of passenger motor vehicles.
+(8)
+Passenger motor vehicle
+The term
+passenger motor vehicle
+has the meaning given that term in section 32101 of title 49, United States Code.
+(9)
+Relevant congressional committees
+The term
+relevant congressional committees
+means the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(10)
+Secretary
+The term
+Secretary
+means the Secretary of Transportation.
+3.
+Motor vehicle safety rulemaking and research priority plan
+(a)
+Priority plan requirement
+The Administrator shall develop, and regularly update, a comprehensive motor vehicle safety rulemaking and research priority plan (in this section referred to as the
+priority plan
+).
+(b)
+Priority plan contents
+Each priority plan submitted and published under subsection (c) shall include the following:
+(1)
+A list of each motor vehicle safety rulemaking planned for the 36-month period beginning on the date on which the priority plan is submitted and published under subsection (c), including the following information with respect to each such rulemaking:
+(A)
+Any statutory authority, mandate, or deadline for such rulemaking.
+(B)
+The status of any research required to support such rulemaking and a link to a publicly accessible website that contains such research.
+(C)
+Whether any motor vehicle safety technology relevant to such rulemaking has been included in the NCAP.
+(D)
+Whether manufacturers or other entities with expertise in the engineering and testing of motor vehicles have developed performance test criteria for evaluating any such motor vehicle safety technology and whether such criteria could be used or modified to meet the objectives of such rulemaking.
+(E)
+The timing of expected milestones with respect to such rulemaking, including an advance notice of proposed rulemaking, a notice of proposed rulemaking, and a final rule.
+(2)
+A list of the research priorities that the Administration anticipates working on (without regard to whether a rulemaking is planned or any research has been finalized) during the 36-month period beginning on the date on which the priority plan is submitted and published under subsection (c), including information on the following:
+(A)
+The objectives of such research priorities, including an identification of any rulemaking to be supported by a research priority.
+(B)
+Any information, data, or evidence gathered in the NCAP with respect to such research priorities.
+(C)
+The timing of expected milestones with respect to such research priorities.
+(3)
+Except with respect to the initial priority plan submitted and published under subsection (c), a comparison of the contents of the priority plan to the contents of the previous version of the priority plan submitted and published under subsection (c).
+(4)
+A list of each motor vehicle safety rulemaking required by an Act of Congress but not included in the priority plan and a timeline of when the Administration intends to complete each such rulemaking.
+(c)
+Submission; publication
+Not later than 2 years after the date of the enactment of this Act, and every 2 years thereafter, the Administrator shallâ
+(1)
+submit the priority plan to the relevant congressional committees; and
+(2)
+publish the priority plan on the website of the Administration.
+(d)
+Failure to comply
+If the Administrator fails to submit or publish the priority plan under subsection (c) by a date required under such subsection, the Administrator, not later than 30 days after such date, shall submit to the relevant congressional committees a written report that describes the reasons for such failure and provides an updated timeline and plan for submitting or publishing the priority plan.
+4.
+New Car Assessment Program reform
+(a)
+New Car Assessment Program Office
+(1)
+Establishment
+The Administrator shall establish an office within the Administration to be known as the Office of the New Car Assessment Program (in this section referred to as the
+NCAP Office
+).
+(2)
+Associate Administrator
+The NCAP Office shall be led by an Associate Administrator who is selected by the Administrator and who has expertise in motor vehicle safety.
+(3)
+Duties
+The duties of the Associate Administrator of the NCAP Office shall be the following:
+(A)
+Advise the Administrator on each function of the NCAP.
+(B)
+Administer the NCAP.
+(C)
+Establish roadmaps for the implementation of the NCAP under section 32310 of title 49, United States Code (as amended by paragraph (4) of this subsection).
+(D)
+Establish a process for reporting results of the voluntary performance testing program under paragraph (5) of this subsection.
+(E)
+Conduct consumer education activities under paragraph (6) of this subsection.
+(F)
+Engage with the NCAP Advisory Committee established under subsection (b)(1) of this section, manufacturers, other relevant stakeholders, and the public as the primary representative of the NCAP.
+(G)
+Evaluate and make determinations on including passenger motor vehicle safety technologies in the NCAP, including byâ
+(i)
+evaluating the reported results pursuant to paragraph (5) of this subsection; and
+(ii)
+evaluating recommendations made by the NCAP Advisory Committee pursuant to subsection (b)(6)(D) of this section.
+(H)
+Carry out any other related duties as determined appropriate by the Administrator.
+(4)
+New Car Assessment Program roadmap
+Section 32310 of title 49, United States Code, is amendedâ
+(A)
+in subsection (a)â
+(i)
+by striking
+4
+and inserting
+3
+; and
+(ii)
+by striking
+the Secretary of Transportation (referred to in this section as the
+Secretary
+)
+and inserting
+the Associate Administrator, in consultation with the NCAP Advisory Committee,
+;
+(B)
+in subsection (c)(3)(C), by striking
+Secretary
+and inserting
+Associate Administrator
+;
+(C)
+in subsection (d), by striking
+Secretary
+each place it appears and inserting
+Associate Administrator
+;
+(D)
+in subsection (e), by striking
+Secretary
+each place it appears and inserting
+Associate Administrator
+; and
+(E)
+by adding at the end the following:
+(f)
+Definitions
+In this section:
+(1)
+Associate Administrator
+The term
+Associate Administrator
+means the Associate Administrator selected under section 4(a)(2) of the Motor Vehicle Modernization Act of 2026.
+(2)
+NCAP Advisory Committee
+The term
+NCAP Advisory Committee
+means the NCAP Advisory Committee established under section 4(b)(1) of the Motor Vehicle Modernization Act of 2026.
+.
+(5)
+Voluntary performance testing program
+Not later than 1 year after the date of the enactment of this Act, the Associate Administrator of the NCAP Office shall establish a voluntary process under which a manufacturer may test the performance of passenger motor vehicles of the manufacturer and report the results to the Associate Administrator.
+(6)
+Consumer education activities
+(A)
+Requirement
+The Associate Administrator of the NCAP Office, in coordination with the Associate Administrator for Communications and Consumer Information, shall conduct consumer education activities to promote information developed under the NCAP and increase consumer awareness of passenger motor vehicle safety technologies.
+(B)
+Contents
+Consumer education activities carried out under subparagraph (A) may include the following:
+(i)
+Development and distribution of written educational materials.
+(ii)
+Creation, production, and dissemination of public awareness campaigns, including through print, broadcast, digital, and social media platforms.
+(iii)
+Purchase of advertising time and space in any media, including television, radio, digital, and print.
+(iv)
+Establishment and maintenance of websites, mobile applications, and other online content.
+(v)
+Engagement with community-based and national consumer motor vehicle safety organizations.
+(C)
+Report
+Not later than 2 years after the date of the enactment of this Act, and every 2 years thereafter, the Associate Administrator of the NCAP Office shall submit to the relevant congressional committees a report that details the consumer education activities conducted under this paragraph, including, with respect to such activities, information onâ
+(i)
+expenditures;
+(ii)
+target audiences reached; and
+(iii)
+any performance metrics used to evaluate the efficacy of such activities.
+(b)
+New Car Assessment Program Advisory Committee
+(1)
+Establishment
+Not later than 180 days after the date of the enactment of this Act, the Administrator shall establish the NCAP Advisory Committee (in this subsection referred to as the
+Committee
+) to provide independent advice and recommendations to the Secretary, the Administrator, and the Associate Administrator of the NCAP Office on matters related to the functions of the NCAP Office.
+(2)
+Members
+The Committee shall be composed of 18 members, appointed by the Administrator, as follows:
+(A)
+2 representatives of national consumer motor vehicle safety organizations.
+(B)
+2 representatives of institutions of higher education (as defined in section 102 of the Higher Education Act of 1965 (
+20 U.S.C. 1002
+)) with expertise in motor vehicle safety.
+(C)
+4 representatives of manufacturers of passenger motor vehicles.
+(D)
+2 representatives of manufacturers of motor vehicle equipment.
+(E)
+1 representative of technology providers.
+(F)
+1 representative of the property and casualty insurance industry.
+(G)
+1 representative of State highway safety offices.
+(H)
+2 members with expertise in public health, data science, or human factors.
+(I)
+1 representative of a disability advocacy organization.
+(J)
+2 representatives of families or organizations that advocate on behalf of victims of accidents involving motor vehicles.
+(3)
+Terms
+(A)
+In general
+Each member appointed to the Committeeâ
+(i)
+shall serve an initial term of 4 years (or until the Committee terminates under paragraph (8), if earlier); and
+(ii)
+may be reappointed for 1 subsequent term of 4 years (or until the Committee terminates under paragraph (8), if earlier).
+(B)
+Exception
+Notwithstanding subparagraph (A)(i), with respect to the first 18 members appointed to the Committee, 9 shall be chosen by the Administrator to serve an initial term of 2 years.
+(4)
+Rate of pay
+Each member of the Committee shall serve without pay.
+(5)
+Travel expenses
+Each member of the Committee shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of
+chapter 57
+of title 5, United States Code.
+(6)
+Duties
+The duties of the Committee shall be the following:
+(A)
+Provide recommendations to the Secretary, the Administrator, and the Associate Administrator of the NCAP Office to improve the NCAP.
+(B)
+Review, assess, and evaluate passenger motor vehicle safety technologies with the potential to reduce traffic injuries and fatalities.
+(C)
+Solicit and review information, data, research, and evidence with respect to passenger motor vehicle safety technologies from public and private sources, including industry stakeholders, researchers, national consumer motor vehicle safety organizations, and Federal agencies (as determined appropriate by the Administrator).
+(D)
+Recommend passenger motor vehicle safety technologies to be evaluated by the Associate Administrator of the NCAP Office for inclusion in the NCAP.
+(7)
+Report
+Not later than 4 years after the date of the enactment of this Act, and in consultation with the Administration, manufacturers, national consumer motor vehicle safety organizations, experts in academia, and other relevant stakeholders, the Committee shall submit to the relevant congressional committees a report that assesses the feasibility of establishing a public-private partnership, a nonprofit organization, or any other similar entity to develop, update, and operate the functions of the NCAP, including by assessing the following with respect to such a partnership or entity:
+(A)
+Governance considerations.
+(B)
+Structure.
+(C)
+Efficacy in educating consumers on and encouraging manufacturers to include new safety features in passenger motor vehicles.
+(D)
+Impact on motor vehicle safety.
+(E)
+Passenger motor vehicle safety ratings used internationally that are similar to the NCAP.
+(F)
+Expected cost of such a partnership or entity as compared to the cost of maintaining the NCAP under the Administration.
+(G)
+Sustainable funding mechanisms.
+(H)
+Processes for ensuring the NCAP (or any partnership or entity responsible for developing, updating, and operating the functions of the NCAP) informs the development of motor vehicle safety standards prescribed under
+chapter 301
+of title 49, United States Code.
+(I)
+Monroney label considerations.
+(J)
+Costs associated with participation by manufacturers in the NCAP, including any alternatives for manufacturers to self-report information related to passenger motor vehicle safety ratings from the manufacturers.
+(K)
+Processes for ensuring the independence of the partnership or entity.
+(8)
+Termination
+The Committee shall terminate on the date that is 10 years after the date on which the Committee is established under paragraph (1).
+(9)
+FACA
+Chapter 10
+of title 5, United States Code (commonly referred to as the
+Federal Advisory Committee Act
+), shall not apply to the Committee.
+(c)
+GAO study
+Not later than 3 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the relevant congressional committees a report thatâ
+(1)
+evaluates the implementation of this section, including the amendments made by this section; and
+(2)
+provides recommendations for the Administrator and the relevant congressional committees to improve the implementation of this section, including the amendments made by this section.
+(d)
+Passenger motor vehicle safety rating defined
+In this section, the term
+passenger motor vehicle safety rating
+means a system to evaluate and compare in an objective manner passenger motor vehicle safety technologies using stars, medals, points, or other similar indicators.
+5.
+Review of motor vehicle safety standards
+(a)
+In general
+Not later than 1 year after the date of the enactment of this Act, and every 4 years thereafter, the Administrator shall conduct a review of the motor vehicle safety standards prescribed under
+chapter 301
+of title 49, United States Code, to determine, in accordance with this section, if any such standards should be revised or eliminated.
+(b)
+Determinations
+(1)
+In general
+In making a determination under subsection (a) with respect to whether a motor vehicle safety standard should be revised or eliminated, the Administrator shall consider the following:
+(A)
+The extent to which such standard satisfies the purpose described in section 30101 of title 49, United States Code.
+(B)
+Safety information, data, and evidence related to such standard.
+(C)
+Information on advances in motor vehicle technology related to such standard.
+(D)
+Costs for manufacturers related to such standard.
+(E)
+Changes in technical standards related to such standard.
+(F)
+International policy developments related to such standard.
+(2)
+Public feedback
+In reviewing motor vehicle safety standards under subsection (a), the Administrator shallâ
+(A)
+solicit public feedback through a request for information; and
+(B)
+provide a period for public comment on the responses to such request for information.
+(c)
+Consistency with motor vehicle safety
+The Administrator may only make a determination under this section that a motor vehicle safety standard should be revised or eliminated if the Administrator determines that doing so is consistent with motor vehicle safety.
+(d)
+Reports
+Upon the completion of each review conducted under subsection (a), the Administrator shallâ
+(1)
+submit to the relevant congressional committees a report on the results of such review; and
+(2)
+incorporate, into the first priority plan submitted and published under section 3(c) after the completion of such review, any recommendations of the Administrator with respect to revising or eliminating a motor vehicle safety standard.
+6.
+Rulemaking accountability report
+Section 24210 of the Infrastructure Investment and Jobs Act (
+49 U.S.C. 308
+note) is amendedâ
+(1)
+in subsection (a), by striking paragraph (2) and inserting the following:
+(2)
+is associated with the National Highway Traffic Safety Administration andâ
+(A)
+is carried out pursuant toâ
+(i)
+MAPâ21;
+(ii)
+the FAST Act;
+(iii)
+this Act; or
+(iv)
+the Motor Vehicle Modernization Act of 2026; or
+(B)
+is included in the most recent Unified Agenda of Federal Regulatory and Deregulatory Actions and is required by an Act of Congress.
+; and
+(2)
+in subsection (b)â
+(A)
+in paragraph (1)(A), by striking
+an explanation
+and inserting
+if such deadline has passed, an explanation
+;
+(B)
+in paragraph (1)(B), by striking
+and
+at the end;
+(C)
+in paragraph (2), by striking the period at the end and inserting
+; and
+; and
+(D)
+by adding at the end the following:
+(3)
+a description of substantive activities conducted, including any relevant research conducted, and rulemaking milestones completed with respect to the covered rulemaking.
+.
+7.
+Project schedule management practices
+(a)
+Rulemakings
+The Administrator shall update the procedures associated with rulemakings related to motor vehicle safety to ensureâ
+(1)
+the use of recognized project schedule management practices; and
+(2)
+adherence to applicable Federal standards with respect to such practices.
+(b)
+Reports
+The Administrator shall update the procedures associated with satisfying reporting requirements related to motor vehicle safety to ensureâ
+(1)
+the use of recognized project schedule management practices; and
+(2)
+adherence to applicable Federal standards with respect to such practices.
+(c)
+GAO study
+(1)
+Study
+The Comptroller General of the United States shall conduct a study to assess the implementation of this section by the Administrator.
+(2)
+Report
+Not later than 5 years after the date of the enactment of this Act, the Comptroller General shall submit to the relevant congressional committees a report on the results of the study conducted under paragraph (1).
+8.
+General exemptions
+(a)
+Process guidance
+Not later than 1 year after the date of the enactment of this Act, the Administrator shall issue guidance to establish and make available processes, including performance-based or risk-based assessments, by which a manufacturer may demonstrate an equivalent safety level for purposes of clause (ii) or (iv) of section 30113(b)(3)(B) of title 49, United States Code.
+(b)
+Eligibility
+Section 30113(d) of title 49, United States Code, is amended by striking
+2,500 vehicles
+and inserting
+90,000 vehicles
+.
+(c)
+Maximum period
+Section 30113(e) of title 49, United States Code, is amended to read as follows:
+(e)
+Maximum period
+An exemption or renewal under subsection (b)(3)(B) of this section may be granted for not more than 5 years.
+.
+(d)
+Deadline
+Section 30113 of title 49, United States Code, is amended by adding at the end the following:
+(i)
+Deadline
+(1)
+In general
+The Secretary shall issue a decision with respect to a complete application for an exemption submitted under this section not later than 1 year after the date on which the Secretary receives such application.
+(2)
+Failure to meet deadline
+If the Secretary does not issue a decision with respect to a complete application within the period required under paragraph (1), the application shall be deemed approved unless the Secretary provides to the applicant during such period written justification that identifies the manner in which the application is incomplete.
+.
+9.
+Testing and evaluation of motor vehicle equipment
+Section 30112(b)(10) of title 49, United States Code, is amendedâ
+(1)
+in the matter preceding subparagraph (A), by inserting
+or motor vehicle equipment
+after
+motor vehicle
+each place the term appears; and
+(2)
+in subparagraph (A), by inserting
+or motor vehicle equipment
+after
+motor vehicles
+.
+10.
+Recall rate improvement
+(a)
+Study
+The Administrator shall conduct a study to identify factors that result in a motor vehicle involved in a recall not receiving the service necessary to remedy the issue that is the subject of such recall.
+(b)
+Implementation
+The Administrator, using existing authorities, shall take appropriate actions toâ
+(1)
+address factors identified under subsection (a); and
+(2)
+improve the efforts of the Administration, manufacturers, and third parties with respect to increasing the rate at which motor vehicles involved in a recall receive the service necessary to remedy the issue that is the subject of such recall.
+(c)
+Reports
+(1)
+Initial report
+Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit to the relevant congressional committees a report on the results of the study conducted under subsection (a).
+(2)
+Final report
+Not later than 4 years after the date of the enactment of this Act, the Administrator shall submit to the relevant congressional committees a report on the actions taken by the Administrator under subsection (b).
+11.
+Modern recall notification procedures
+Section 30119(d) of title 49, United States Code, is amendedâ
+(1)
+in paragraph (1)(A), by inserting
+(or other form of contact information)
+after
+address
+; and
+(2)
+by adding at the end the following:
+(5)
+Notification required under section 30118 of this title may be sent by certified mail, electronic mail, or any other manner (including other electronic means) prescribed by the Secretary by regulation, except that, if a registered owner provides a request to a manufacturer through a reasonable means (as determined by the manufacturer) asking that such notification be made by certified mail, such manufacturer shall comply with such request with respect to such registered owner.
+.
+12.
+Clarification with respect to defects and noncompliance
+Section 30118 of title 49, United States Code, is amended by adding at the end the following:
+(g)
+Application
+(1)
+Timing
+The requirement to notify under subsection (c) does not apply to a manufacturer until such time as the manufacturer makes the relevant decision under paragraph (1) or (2) of such subsection.
+(2)
+Supplier notifications
+A notification of defect with respect to original equipment made by the original equipment supplier is not determinative of whether a defect exists in a motor vehicle in which the original equipment was installed at the time of delivery to the first purchaser.
+(3)
+Good faith
+Nothing in this subsection relieves a manufacturer of any obligation under subsection (c) to make a decision in good faith.
+.
+13.
+Consumer education on motor vehicle automation
+(a)
+Establishment of working group
+Not later than 180 days after the date of the enactment of this Act, the Administrator shall establish a working group to facilitate consumer education efforts with respect to automation in motor vehicles.
+(b)
+Duties
+The working group established under subsection (a) shallâ
+(1)
+make recommendations to the Administrator on education and marketing strategies, including strategies that may be voluntarily employed by industry stakeholders, to responsibly inform the public, including vehicle owners and operators, about the differences between motor vehicles equipped with Level 1 or Level 2 systems and ADS-equipped vehicles; and
+(2)
+not later than 3 years after the date on which the working group is established, submit to the relevant congressional committees, and make available to the public, a report containing such recommendations.
+(c)
+Considerations
+In carrying out the duties described in subsection (b), the working group shall consider the following:
+(1)
+The respective capabilities and limitations of motor vehicles equipped with Level 1 or Level 2 systems and ADS-equipped vehicles.
+(2)
+The engagement methods with respect to motor vehicles equipped with Level 1 or Level 2 systems and ADS-equipped vehicles, including disengagement methods with respect to ADS-equipped vehicles.
+(3)
+The human-machine interfaces with respect to motor vehicles equipped with Level 1 or Level 2 systems and ADS-equipped vehicles.
+(4)
+Responses in the event of a crash or system failure, including emergency fallback scenarios, with respect to motor vehicles equipped with Level 1 or Level 2 systems and ADS-equipped vehicles.
+(5)
+The value of consistent nomenclature and taxonomy for technology features and systems.
+(6)
+The role of the New Car Assessment Program in facilitating public understanding of the differences between motor vehicles equipped with Level 1 or Level 2 systems and ADS-equipped vehicles.
+(d)
+Membership
+(1)
+In general
+The Administrator shall appoint, as members of the working group established under subsection (a), individuals with expertise in motor vehicle automation technology, includingâ
+(A)
+representatives ofâ
+(i)
+manufacturers;
+(ii)
+dealers;
+(iii)
+motor vehicle owners and operators, including fleet managers, rental companies, and transportation network companies;
+(iv)
+consumers or consumer advocacy groups;
+(v)
+marketing professionals;
+(vi)
+entities with national experience in consumer education, including driversâ education;
+(vii)
+safety organizations; and
+(viii)
+national disability organizations and national organizations representing older adults; and
+(B)
+any other individuals the Administrator considers appropriate and qualified.
+(2)
+Compensation
+Members of the working group established under subsection (a) shall serve without compensation.
+(e)
+Consultation
+With respect to the working group established under subsection (a), the Administrator shallâ
+(1)
+consult with the Federal Trade Commission, as appropriate; and
+(2)
+ensure public participation, including by soliciting input through requests for information.
+(f)
+Termination
+The working group established under subsection (a) shall terminate on the date on which the working group submits the report required under subsection (b)(2).
+(g)
+FACA
+Chapter 10
+of title 5, United States Code (commonly referred to as the
+Federal Advisory Committee Act
+), shall not apply to the working group established under subsection (a).
+14.
+Study on passenger motor vehicle ownership
+(a)
+In general
+The Administrator shall seek to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine under which the National Academies shall conduct a study on the average age of passenger motor vehicles and passenger motor vehicle ownership costs.
+(b)
+Contents
+The study conducted under subsection (a) shall include an analysis of the following:
+(1)
+Trends with respect to the average age of passenger motor vehicles.
+(2)
+Trends with respect to passenger motor vehicle ownership costs, including trends with respect toâ
+(A)
+total lifecycle costs; and
+(B)
+related factors, includingâ
+(i)
+initial purchase price;
+(ii)
+motor vehicle manufacturing and supply chain matters;
+(iii)
+financing;
+(iv)
+insurance;
+(v)
+subscriptions;
+(vi)
+power requirements, such as with respect to electricity, gasoline, and other fuels;
+(vii)
+repair and maintenance;
+(viii)
+depreciation;
+(ix)
+optional safety features; and
+(x)
+optional convenience features.
+(3)
+Legal, policy, economic, and regulatory factors that affect the average age of passenger motor vehicles, passenger motor vehicle ownership costs, and consumer understanding of such costs.
+(c)
+Report
+Not later than 3 years after the date of the enactment of this Act, the Administrator shall submit to the relevant congressional committees a report on the results of the study conducted under subsection (a).
+15.
+Automated wheelchair securement systems
+(a)
+Study
+The Administrator shall conduct a study on the feasibility of incorporating, into motor vehicles, automated wheelchair securement systems to increase the safety of wheelchair users in motor vehicles.
+(b)
+Coordination with university transportation centers
+In conducting the study under subsection (a), the Administrator shall consult with university transportation centers established and operated under section 5505 of title 49, United States Code.
+(c)
+Report
+Not later than 3 years after the date of the enactment of this Act, the Administrator shall submit to the relevant congressional committees and make publicly available a report on the findings of the study conducted under subsection (a) that includes an analysis of the feasibility of incorporating, into motor vehicles, automated wheelchair securement systems.
+(d)
+Automated wheelchair securement system defined
+In this section, the term
+automated wheelchair securement system
+means an automated system that, using a universal docking interface geometry standard, secures a wheelchair within a motor vehicle utilizing a deployable anchor.
+16.
+Study on modernizing vehicle identification numbers
+(a)
+In general
+The Administrator shall conduct a study on modernizing the VIN system.
+(b)
+Contents
+The study required by subsection (a) shall analyze the following:
+(1)
+How the VIN system is used by the following:
+(A)
+The Administrator.
+(B)
+Heads of other relevant Federal agencies (as determined by the Administrator).
+(C)
+State and local governments.
+(D)
+Manufacturers.
+(E)
+Law enforcement.
+(F)
+The property and casualty insurance industry.
+(G)
+Any other user the Administrator determines appropriate.
+(2)
+Any limitations of the VIN system, including with respect to motor vehicle safety and regulatory compliance.
+(3)
+Recommendations for Congress and the Administration to improve the VIN system, including with respect to motor vehicle attributes.
+(c)
+Consultation
+In conducting the study required by subsection (a), the Administrator shall consult with the following:
+(1)
+State motor vehicle agencies that are responsible for the registration and titling of motor vehicles.
+(2)
+State and local law enforcement agencies.
+(3)
+Emergency responders.
+(4)
+Roadway safety organizations.
+(5)
+Consumer motor vehicle safety organizations.
+(6)
+International standards organizations.
+(7)
+Manufacturers.
+(8)
+Dealers.
+(9)
+The property and casualty insurance industry.
+(10)
+Any other stakeholder the Administrator determines appropriate.
+(d)
+Report
+Not later than 2 years after the date of the enactment of this Act, the Administrator shall submit to the relevant congressional committees a report on the results of the study required by subsection (a).
+(e)
+Definitions
+In this section:
+(1)
+Motor vehicle attributes
+The term
+motor vehicle attributes
+means the following:
+(A)
+Means of propulsion.
+(B)
+Level 1, Level 2, Level 3, Level 4, and Level 5 automation.
+(C)
+Driver assistance technology.
+(D)
+Electrification specification, including with respect to battery capacity and charging capability.
+(E)
+Connectivity requirements.
+(F)
+Over-the-air update capability.
+(2)
+VIN
+The term
+VIN
+has the meaning given such term in section 565.12(b) of title 49, Code of Federal Regulations.
+17.
+Motor Vehicle Fire Rescue Working Group
+(a)
+Establishment
+Not later than 180 days after the date of the enactment of this Act, the Administrator shall establish the Motor Vehicle Fire Rescue Working Group (in this section referred to as the
+Working Group
+) to provide independent advice and recommendations to the Secretary and the Administrator on matters related to ensuring the safe and efficient extraction of occupants of motor vehicles post-crash.
+(b)
+Members
+The Working Group shall be composed of 15 members, appointed by the Administrator, as follows:
+(1)
+4 representatives of manufacturers of passenger motor vehicles.
+(2)
+2 representatives of national consumer motor vehicle safety organizations.
+(3)
+4 representatives of organizations that represent first responders, including firefighters.
+(4)
+2 representatives of institutions of higher education (as defined as section 102 of the Higher Education Act of 1965 (
+20 U.S.C. 1002
+)) with expertise in motor vehicle and motor vehicle battery safety.
+(5)
+2 representatives of manufacturers of motor vehicle batteries.
+(6)
+1 representative of manufacturers of fire rescue tools.
+(c)
+Terms
+(1)
+In general
+Each member appointed to the Working Groupâ
+(A)
+shall serve an initial term of 4 years (or until the Working Group terminates under subsection (h), if earlier); and
+(B)
+may be reappointed for 1 subsequent term of 4 years (or until the Working Group terminates under subsection (h), if earlier).
+(2)
+Exception
+Notwithstanding paragraph (1), with respect to the first 15 members appointed to the Working Group, 7 shall be chosen by the Administrator to serve an initial term of 2 years.
+(d)
+Rate of pay
+Each member of the Working Group shall serve without pay.
+(e)
+Travel expenses
+Each member of the Working Group shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of
+chapter 57
+of title 5, United States Code.
+(f)
+Duties
+The duties of the Working Group shall be the following:
+(1)
+Review, assess, and evaluate factors to facilitate the safe and efficient post-crash access of first responders to motor vehicles, including the following:
+(A)
+Post-crash fire rescue tools.
+(B)
+Modifications to the design, construction, and performance of motor vehicles to improve access points for first responders.
+(C)
+Standardized motor vehicle fuel type labeling.
+(D)
+Fire suppression methods appropriate for motor vehicle batteries.
+(E)
+Any design or engineering of motor vehicle batteries that minimizes thermal runaway incidents.
+(F)
+Any other relevant factor reviewed, assessed, and evaluated by the Working Group.
+(2)
+Provide recommendations to the Secretary and the Administrator about the factors reviewed, assessed, and evaluated under subsection (a).
+(g)
+Report
+Not later than 3 years after the date of the enactment of this Act, the Working Group shall submit to the relevant congressional committees a report about the work the Working Group has done pursuant to subsection (f), including any recommendations provided pursuant to subsection (f)(2).
+(h)
+Termination
+The Working Group shall terminate on the date that is 60 days after the date on which the report is submitted pursuant to subsection (g).
+(i)
+FACA
+Chapter 10
+of title 5, United States Code (commonly referred to as the
+Federal Advisory Committee Act
+), shall not apply to the Working Group.
+18.
+Paperwork Reduction Act exemption
+(a)
+Research efficiency
+Research performed by the Administrator pursuant to sections 30181, 30182, 30183, and 32502(g) of title 49, United States Code, is exempt from subchapter I of
+chapter 35
+of title 44, United States Code (commonly known as the Paperwork Reduction Act).
+(b)
+Committee efficiency
+â
+(1)
+In general
+Solicitation of information, data, research, and evidence by the Committee pursuant to sections 30181, 30182, 30183, and 32502(g) of title 49, United States Code, is exempt from subchapter I of
+chapter 35
+of title 44, United States Code (commonly known as the Paperwork Reduction Act).
+(2)
+Committee defined
+In this subsection, the term
+Committee
+means the NCAP Advisory Committee established under section 4(b)(1) of this Act.

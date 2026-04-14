@@ -1,0 +1,231 @@
+1.
+Short title
+This Act may be cited as the
+Advancing Artificial Intelligence Research Act of 2020
+.
+2.
+Standard development for artificial intelligence at the National Institute of Standards and Technology
+The National Institute of Standards and Technology Act (
+15 U.S.C. 271
+et seq.) is amended by inserting after section 22 the following:
+22A.
+Standards for artificial intelligence
+(a)
+Mission
+The Institute shallâ
+(1)
+have the mission of advancing frameworks, standards, guidelines, and associated methods and techniques for artificial intelligence;
+(2)
+support the development of a risk-mitigation framework for deploying artificial intelligence;
+(3)
+support the development of technical standards and guidelines that promote reliable, robust, and trustworthy artificial intelligence; and
+(4)
+support the development of technical standards and guidelines by which to test for bias in artificial intelligence training data and applications.
+(b)
+Participation in standard setting organizations
+(1)
+Requirement
+The Institute shall participate in the development of standards and specifications for artificial intelligence.
+(2)
+Purpose
+The purpose of participation of the Institute under paragraph (1) shall be to ensureâ
+(A)
+that standards promote artificial intelligence that is reliable, robust, and trustworthy; and
+(B)
+that standards relating to artificial intelligence reflect the state of technology and are fit-for-purpose and developed in the transparent and consensus-based processes that are open to all stakeholders.
+.
+3.
+Establishment of National Program to Advance Artificial Intelligence Research
+The National Institute of Standards and Technology Act (
+15 U.S.C. 271
+et seq.), as amended by section 2, is further amended by inserting after section 22A the following:
+22B.
+National Program to Advance Artificial Intelligence Research
+(a)
+Establishment
+(1)
+In general
+The Director shall establish a research program with a national scope to advance use-inspired artificial intelligence research and its use in a manner that serves the needs of the United States, the Institute, industry, the academic community, and such other entities as the Director considers appropriate.
+(2)
+Designation
+The research program established under paragraph (1) shall be known as the
+National Program to Advance Artificial Intelligence Research
+(in this section referred to as the
+Program
+).
+(b)
+Activities
+The activities of the Program shall include the following:
+(1)
+Supporting research necessary to opÂ­erÂ­aÂ­tionÂ­alÂ­ize the goals of reliable, robust, and trustworthy artificial intelligence.
+(2)
+Supporting research necessary to develop and operationalize technical standards and guidelines that promote reliable, robust, and trustworthy artificial intelligence.
+(3)
+Fostering development of artificial intelligence applications that would enhance the public good.
+(4)
+Supporting research necessary to advance human-centered artificial intelligence and examining societal, ethical, safety, security, and privacy effects of artificial intelligence development and deployment.
+(5)
+Creating and developing processes for the purpose of advancing use-inspired artificial intelligence research and its use.
+(6)
+Promoting exchange of personnel among industry, academic, and the government entities.
+(7)
+Establishing and operating at least one test bed to support the outside entities testing the degree to which artificial intelligence applications and training data are reliable, robust, and trustworthy.
+(c)
+Geographic distribution
+In establishing the Program, the Director may establish multiple physical campuses and a national network of participants to avoid undue geographic concentration of the activities of the Program.
+(d)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2021 through 2025.
+.
+4.
+Establishment of National Artificial Intelligence Research Institutes
+(a)
+Establishment
+(1)
+In general
+The Director of the National Science Foundation shall establish at least 6 research institutes to serve the needs of the United States, industry, the academic community, and such other entities as the Director considers appropriate byâ
+(A)
+conducting research on longer-time-horizon challenges in artificial intelligence research; and
+(B)
+creating and developing processes for the purpose of advancing use-inspired artificial intelligence research and its deployment.
+(2)
+Designation
+Each research institute established under paragraph (1) shall be known as a
+National Artificial Intelligence Research Institute
+.
+(b)
+Grants
+(1)
+In general
+The Director shall establish the research institutes under subsection (a) through the award of grants to eligible entities using a competitive, merit-reviewed process.
+(2)
+Eligible entities
+For purposes of this section, an eligible entity isâ
+(A)
+an institution of higher education;
+(B)
+a nonprofit research center;
+(C)
+such other type of entity as the Director considers appropriate; or
+(D)
+a collaboration of any combination of entities described in subparagraphs (A) through (C).
+(3)
+Duration
+(A)
+In general
+Each grant awarded under paragraph (1) shall be for a period of 5 years.
+(B)
+Reapplication
+The Director may approve or disapprove reapplications from grant recipients for additional grants.
+(C)
+Termination
+The Director may terminate a grant awarded under paragraph (1) for an underperforming research institute, for cause, during the performance period of the grant.
+(c)
+Applications
+An eligible entity seeking a grant under paragraph (1) to establish a research institute under this section shall submit to the Director an application therefor at such time, in such manner, and containing such information as the Director determines appropriate.
+(d)
+Community facility
+The Director shall ensure that at least 1 research institute established under this section operates an artificial-intelligence community computing facility that is available for use by entities other than research institutes established under this section.
+(e)
+Funding
+(1)
+In general
+Subject to the availability of appropriations, the Director may, in each of fiscal years 2021 through 2025, obligate to carry out this section an amount that is less than or equal to $50,000,000 multiplied by the number of research institutes established under this section.
+(2)
+Derivation of funds
+Amounts obligated to carry out this section shall be derived from amounts appropriated to the Foundation.
+5.
+National Science Foundation traineeship program grants
+(a)
+Program required
+(1)
+In general
+The Director of the National Science Foundation shall carry out a program to award grants to eligible entities to establish trainÂ­eeship programs and support trainees in topics selected by the Director under subsection (c).
+(2)
+Purpose
+The purpose of the program established by the Director under paragraph (1) shall be to increase the number of individuals with advanced degrees through both direct support and programmatic support.
+(b)
+Eligible entities
+For purposes of this section, an eligible entity isâ
+(1)
+an institution of higher education; or
+(2)
+a consortia of institutions of higher education or nonprofit organizations.
+(c)
+Topics of national importance
+(1)
+In general
+Subject to paragraph (2), the Director shall select a topic for the award of grants under subsection (a) based onâ
+(A)
+the potential of a traineeship program in the topic or support of trainees in the topic to affect society positively;
+(B)
+the importance of the topic to the economy and security of the United States;
+(C)
+the career opportunities for the graduates; and
+(D)
+the need for workers in the topic with advanced degrees.
+(2)
+Initial topic selection
+The Director shall select artificial intelligence as the initial topic for the award of grants under subsection (a).
+(d)
+Components
+A grant awarded under this section may include support forâ
+(1)
+the recipient of the grant to develop and distribute model curriculum that may be used by other graduate programs to educate students in the topic selected under subsection (c);
+(2)
+mentors to provide guidance for students within the topic area; and
+(3)
+tuition and stipend for students pursuing a masters or doctoral degree.
+6.
+National Science Foundation pilot program on grants for research in rapidly evolving, high priority topics
+(a)
+Pilot program required
+The Director of the National Science Foundation shall establish a pilot program to assess the feasibility and advisability of awarding grants for the conduct of research in rapidly evolving, high priority topics.
+(b)
+Duration
+(1)
+In general
+The Director shall carry out the pilot program required by subsection (a) during the 5-year period beginning on the date of the enactment of this Act.
+(2)
+Assessment and continuation authority
+After the period set forth in paragraph (1)â
+(A)
+the Director shall assess the pilot program; and
+(B)
+if the Director determines that it is both feasible and advisable to do so, the Director may continue the pilot program.
+(c)
+Grants
+In carrying out the pilot program, the Director shall award grants for the conduct of research in topics selected by the Director in accordance with subsection (d).
+(d)
+Topic selection
+The Director shall select topics for research under the pilot program in accordance with the following:
+(1)
+The Director shall select artificial intelligence as the initial topic for the pilot program.
+(2)
+The Director may select additional topics that the Director determines areâ
+(A)
+rapidly evolving; or
+(B)
+of high importance to the economy and security of the United States.
+(e)
+Applications
+(1)
+In general
+Subject to paragraph (2), a person seeking a grant under the pilot program shall submit to the Director an application therefor at such time, in such manner, and containing such information as the Director may specify.
+(2)
+Contents
+Each application submitted under paragraph (1) shall include the following:
+(A)
+A brief description of the research the applicant proposes to carry out with a grant awarded under the pilot program.
+(B)
+A brief description of how the research is of an urgent nature.
+(C)
+The general goals of the research.
+(D)
+Such other information as the Director may specify.
+(f)
+Use of funds
+A recipient of a grant under the pilot program shall use the amount of the grant to conduct the research for which the grant was awarded.
+(g)
+Summaries of research findings
+A recipient of a grant under the pilot program shall submit to the Director, at such intervals as the Director determines appropriate, a summary of the findings of the recipient with respect to the research conducted with the grant amount.

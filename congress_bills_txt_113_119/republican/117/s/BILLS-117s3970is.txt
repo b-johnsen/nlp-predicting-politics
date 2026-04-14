@@ -1,0 +1,36 @@
+1.
+Short title
+This Act may be cited as the
+Stablecoin Transparency Act
+.
+2.
+Stablecoin issuer requirements
+(a)
+Definitions
+In this section:
+(1)
+Fiat currency-backed stablecoin
+The term
+fiat currency-backed stablecoin
+means a fiat currency-backed digital assetâ
+(A)
+that maintains price stability by backing the value of the digital asset to a nondigital currency that is denominated in the same currency in which the digital asset is issued; and
+(B)
+is redeemable on a one-to-one basis in the denominated currency to which the digital asset is backed.
+(2)
+Stablecoin issuer
+The term
+stablecoin issuer
+means a person that issues a fiat currency-backed stablecoin.
+(b)
+Reserves
+Each stablecoin issuer shall hold all reserves associated with each fiat currency-backed stablecoin issued by such stablecoin issuer inâ
+(1)
+government securities that have maturities of not longer than 12 months;
+(2)
+fully collateralized security repurchase agreements; or
+(3)
+United States dollars or any other nondigital currency.
+(c)
+Reserve reports
+Not later than 30 days after the date of enactment of this Act and every 30 days thereafter, each stablecoin issuer shall publish on the website of the stablecoin issuer a report on the reserves held by the stablecoin issuer that has been audited by a third-party auditor.

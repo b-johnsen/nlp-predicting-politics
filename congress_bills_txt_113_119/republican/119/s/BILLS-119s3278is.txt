@@ -1,0 +1,239 @@
+1.
+Short title
+This Act may be cited as the
+Streamlining Modeling for Advanced, Rapid Transportation Infrastructure Act of 2025
+or the
+SMART Infrastructure Act of 2025
+.
+2.
+Findings
+Congress finds thatâ
+(1)
+Federal permitting processes for infrastructure projects are often delayed due to inefficient coordination, imperfect communication of complex information, manual data handling, and lack of transparency;
+(2)
+2-dimensional paper- and PDF-based project designs impede the effective communication of complex, integrated engineering-based project information to government agencies, project stakeholders, laypersons, and local communities, causing delays in permitting and project delivery;
+(3)
+digital twin technology enables real-time, high quality, high resolution, data-driven modeling of infrastructure projects that improves planning, environmental review, and stakeholder collaboration;
+(4)
+digital twin technology is widely available on the commercial market from a variety of vendors;
+(5)
+digital twins of infrastructure projects include and preserve detailed information about the project, acting as a single source of truth for all participants in the development of the project, which improves quality, reduces project risk, and accelerates delivery;
+(6)
+technological progress in the planning, permitting, design, construction, delivery, operation, and management of infrastructure is best achieved when design models are developed and transmitted in interoperable, digital, high-fidelity, 3-dimensional formats;
+(7)
+an electronic NEPA portal can centralize permitting data, streamline reviews, reduce environmental review timelines, and enhance public access to environmental documents; and
+(8)
+modernizing permitting processes will accelerate critical infrastructure development, support economic growth, and ensure environmental protections.
+3.
+Definitions
+In this Act:
+(1)
+Appropriate committees of Congress
+The term
+appropriate committees of Congress
+meansâ
+(A)
+the Committee on Commerce, Science, and Transportation of the Senate; and
+(B)
+the Committee on Transportation and Infrastructure of the House of Representatives.
+(2)
+Covered infrastructure project
+The term
+covered infrastructure project
+means any infrastructure project under Title 49 for which the Department of Transportation is the lead agency.
+(3)
+Digital twin
+The term
+digital twin
+, with respect to an infrastructure project or infrastructure asset, means a high-fidelity, digital model of the infrastructure project or infrastructure asset thatâ
+(A)
+integrates real-time data from design, construction, operation, maintenance, and environmental factors to simulate the performance and impacts of the infrastructure project or infrastructure asset; and
+(B)
+is used to ensure greater accuracy, efficiency, and seamless integration of elements throughout the infrastructure project or infrastructure asset lifecycle.
+(4)
+Eligible project
+The term
+eligible project
+means a covered infrastructure project for which each of the following are used:
+(A)
+1 or more digital twins.
+(B)
+The e-NEPA portal developed under section 5(a).
+(5)
+e-NEPA document
+The term
+e-NEPA document
+means an electronic environmental document or other NEPA-related document, including a permitting document, that is developed, submitted, reviewed, or tracked through the use of an e-NEPA portal.
+(6)
+e-NEPA portal
+The term
+e-NEPA portal
+means a centralized, web-based platformâ
+(A)
+for managing, submitting, and tracking documents and processes relating to NEPA compliance; and
+(B)
+through which e-NEPA documents are developed with interactive, digital technologies and systems to streamlineâ
+(i)
+document development; and
+(ii)
+communications between project sponsors, government agencies, and community stakeholders with respect to the documents and processes required under NEPA.
+(7)
+Environmental document
+The term
+environmental document
+has the meaning given the term in section 111 of NEPA (
+42 U.S.C. 4336e
+).
+(8)
+Infrastructure
+The term
+infrastructure
+means physical infrastructure.
+(9)
+Lead agency
+The term
+lead agency
+has the meaning given the term in section 111 of NEPA (
+42 U.S.C. 4336e
+).
+(10)
+NEPA
+The term
+NEPA
+means the
+National Environmental Policy Act of 1969
+(
+42 U.S.C. 4321 et seq.
+).
+(11)
+Open application programming interface
+The term
+open application programming interface
+mean an open source, machine-readable specification format that facilitates the integration of different systems from a variety of vendors, allowing the free exchange of data between engineering software tools, and enabling clear documentation and communication, without users needing access to the source code.
+(12)
+Secretary
+The term
+Secretary
+means the Secretary of Transportation.
+4.
+Digital twin implementation in permitting
+(a)
+Guidelines for adoption of digital twin technology
+(1)
+In general
+Not later than 18 months after the date of enactment of this Act, the Secretary, in coordination with the Council on Environmental Quality and relevant Federal agencies, shall establish guidelines for integrating digital twin technology into the permitting process for covered infrastructure projects.
+(2)
+Requirements
+(A)
+In general
+The guidelines established under paragraph (1) shall includeâ
+(i)
+standards for creating and maintaining digital twins to model project impacts, including environmental, economic, and operational factors;
+(ii)
+requirements for interoperability with existing Federal permitting systems; and
+(iii)
+protocols for real-time data integration from environmental sensors, geographic information systems, and stakeholder inputs.
+(B)
+Open application programming interfaces
+The standards described in subparagraph (A)(i) shall include recommendations that digital twins be developed with open application programming interfaces.
+(b)
+Pilot program
+(1)
+In general
+Not later than 120 days after the date of enactment of this Act, the Secretary shall establish a pilot program to test digital twin applications in not less than 10 covered infrastructure projects across diverse sectors.
+(2)
+Requirements
+The pilot program established under paragraph (1) shall evaluateâ
+(A)
+the extent of anyâ
+(i)
+reductions in permitting timelines;
+(ii)
+improvements in environmental impact assessments;
+(iii)
+cost savings; and
+(iv)
+stakeholder collaboration outcomes; and
+(B)
+the importance of early public stakeholder engagement.
+(3)
+Report
+Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report on the findings of the pilot program.
+5.
+Establishment of e-NEPA portal
+(a)
+Development
+(1)
+In general
+Not later than 2 years after the date of enactment of this Act, the Secretary, in coordination with the Council on Environmental Quality, the Administrator of the Environmental Protection Agency, and the Secretary of Commerce, shall develop an e-NEPA portal for covered infrastructure projects.
+(2)
+Requirements
+The e-NEPA portal developed under paragraph (1) shallâ
+(A)
+serve as a centralized platform for submitting, reviewing, and tracking e-NEPA documents;
+(B)
+integrate with digital twin models to provide real-time visualization of the impacts of covered infrastructure projects;
+(C)
+provide public access toâ
+(i)
+nonsensitive e-NEPA documents; and
+(ii)
+comment periods; and
+(D)
+include secure data storage compliant with Federal cybersecurity standards.
+(b)
+Agency coordination
+(1)
+Requirement
+Beginning not later than January 1, 2028, all Federal agencies involved in an environmental review under NEPA for a covered infrastructure project shall use the e-NEPA portal developed under subsection (a) for all permitting relating to that covered infrastructure project.
+(2)
+Role of the Secretary
+For each covered infrastructure project for which the e-NEPA portal developed under subsection (a) is used, the Secretary shallâ
+(A)
+oversee portal-based coordination; and
+(B)
+ensure compliance with statutory deadlines.
+(c)
+Public interface
+The e-NEPA portal developed under subsection (a) shall include a public interface allowing stakeholders and members of the public, including communitiesâ
+(1)
+to access, for covered infrastructure projectsâ
+(A)
+project timelines;
+(B)
+nonsensitive e-NEPA documents; and
+(C)
+information relating to the status of permitting for the covered infrastructure project; and
+(2)
+to submit comments on a digital platform or website during NEPA public comment periods.
+6.
+Accelerated permitting timelines
+(a)
+Streamlined Reviews
+(1)
+In general
+The Secretary shall use all available existing authorities to reduce NEPA environmental review timelines for eligible projects by not less than 25 percent compared to existing averages.
+(2)
+Implementation
+Not later than 1 year after the date of enactment of this Act, the Secretary shall promulgate guidance or regulations, as necessary, to implement the requirements of paragraph (1).
+(b)
+Interagency coordination
+(1)
+In general
+The Secretary shall use the e-NEPA portal developed under section 5(a) to coordinate with other Federal, State, and local agencies to accelerate reviews for covered infrastructure projects.
+(2)
+Single environmental document
+A single environmental document shall be used across agencies for each covered infrastructure project.
+7.
+Annual report
+The Secretary shall submit to the appropriate committees of Congress an annual report that describesâ
+(1)
+any progress made with respect toâ
+(A)
+the integration of digital twin technology into the permitting process for covered infrastructure projects; and
+(B)
+the development and use of an e-NEPA portal for covered infrastructure projects;
+(2)
+any reductions in permitting timelines and costs for covered infrastructure projects; and
+(3)
+any environmental, public stakeholder, or community outcomes from the use of digital twins or the e-NEPA portal developed under section 5(a).

@@ -1,0 +1,134 @@
+1.
+Short title
+This Act may be cited as the
+Protecting Americansâ Social Security Data Act
+.
+2.
+Access by political appointees and special government employees
+Section 1106 of the Social Security Act (
+42 U.S.C. 1306
+) is amended by adding after subsection (g) the following:
+(h)
+Access by political appointees and special government employees
+(1)
+In general
+Notwithstanding any other subsection of this section, an individual who is a political appointee (as that term is defined in section 4(a) of the Edward âTedâ Kaufman and Michael Leavitt Presidential Transitions Improvements Act of 2015 (
+5 U.S.C. 3101
+note)) or a special government employee (as that term is defined in section 202(a) of title 18, United States Code) may not access a beneficiary data system.
+(2)
+Beneficiary data system defined
+In this section, the term
+beneficiary data system
+means a system that is maintained by the Social Security Administration for the purposes of administering this Act thatâ
+(A)
+issues or records social security account numbers;
+(B)
+is used to determine eligibility for benefits under this Act;
+(C)
+to pay benefits under this Act; or
+(D)
+otherwise contains personally identifiable information about individuals receiving or applying for a benefit under this Act, includingâ
+(i)
+the Master Files of Social Security Number Holders and SSN Applications (Numident);
+(ii)
+the Master Beneficiary Record;
+(iii)
+the Supplemental Security Income Record and Special Veterans Benefits;
+(iv)
+the National Disability Determination Services File;
+(v)
+the Earnings Recording and Self-Employment Income System; and
+(vi)
+any other system accessible through the Enterprise Data Warehouse.
+.
+3.
+Civil damages for unauthorized access or disclosure of certain information
+Section 1106 of the Social Security Act (
+42 U.S.C. 1301
+) is further amended by adding after subsection (h), as added by section 2, the following:
+(i)
+Civil penalties
+(1)
+In general
+(A)
+Disclosure or access by employee of United States
+If any officer or employee of the United States negligently discloses or accesses any information that pertains to an individual in violation of any provision of subsection (a) or (h), such individual may bring a civil action for damages against the United States in a district court of the United States.
+(B)
+Disclosure or access by a person who is not an employee of United States
+If any person who is not an officer or employee of the United States negligently discloses or accesses any information that pertains to an individual in violation of any provision of subsection (a) or (h), such individual may bring a civil action for damages against such person in a district court of the United States.
+(2)
+Exceptions
+No liability shall arise under this section with respect to any disclosure or accessâ
+(A)
+which results from a good faith, but erroneous, interpretation of subsection (a) or (h); or
+(B)
+which is requested by the individual.
+(3)
+Damages
+In any action brought under paragraph (1), upon a finding of liability on the part of the defendant, the defendant shall be liable to the plaintiff in an amount equal to the sum ofâ
+(A)
+the greater ofâ
+(i)
+$5,000 for each act of unauthorized access or disclosure with respect to which such defendant is found liable; or
+(ii)
+the sum ofâ
+(I)
+the actual damages sustained by the plaintiff as a result of such unauthorized access or disclosure, plus
+(II)
+in the case of a willful access or disclosure or an access or disclosure which is the result of gross negligence, punitive damages, plus
+(B)
+the costs of the action, plus
+(C)
+reasonable attorneys fees, except that if the defendant is the United States, reasonable attorneys fees may be awarded only if the plaintiff is the prevailing party.
+(4)
+Period for bringing action
+Notwithstanding any other provision of law, an action to enforce any liability created under this section may be brought, without regard to the amount in controversy, at any time within 2 years after the date of discovery by the plaintiff of the unauthorized disclosure or access.
+(5)
+Notification of unlawful disclosure or access
+If any person is criminally charged by indictment or information with disclosing or accessing any information that pertains to an individual in violation of subsection (a) or (h), the Commissioner of Social Security shall notify such individual as soon as practicable of such disclosure or access. The Commissioner shall also notify such individual if a Federal or State agency (upon notice to the Commissioner by such Federal or State agency) proposes an administrative determination as to disciplinary or adverse action against an employee arising from the employeeâs unauthorized disclosure or access of the individualâs information. The notice described in this subsection shall include the date of the unauthorized disclosure or access and the rights of the individual under such administrative determination.
+.
+4.
+Investigations
+Section 1106 of the Social Security Act (
+42 U.S.C. 1301
+) is further amended by adding after subsection (i), as added by section 3, the following:
+(j)
+Investigation and report
+(1)
+Investigation
+The Inspector General of the Social Security Administration shall investigate each disclosure in violation of subsection (a) and each access of a beneficiary data system in violation of subsection (h).
+(2)
+Treatment of disclosure or access
+For the purposes of this subsection, the Inspector General may, if the Inspector General determines appropriate, treat a series of violations of subsection (a) or (h) as a single violation.
+(3)
+Report
+Not later than 30 days after the Inspector General becomes aware of a violation of subsection (a) or (h), the Inspector General shall submit to Congress a report on such violation, which shall includeâ
+(A)
+a detailed description of the violation;
+(B)
+a risk assessment of any threat to the privacy of any individual whose information was disclosed or accessed, national security, cybersecurity, or the integrity of the applicable beneficiary data system as a result of the violation; and
+(C)
+a detailed description of any stopped payment during the unauthorized use or access.
+.
+5.
+Privacy regulations
+Notwithstanding this Act and the amendments made by this Act, part 401 of title 20 of the Code of Federal Regulations, as in effect on January 19, 2025, shall have the force and effect of law.
+6.
+GAO study and interim reports
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, the Comptroller of the United States shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report including the following information:
+(1)
+The results of a study on the effects of the changes made to section 1106 of the Social Security Act by this Act, and by any subsequent Acts.
+(2)
+A summary of any investigations conducted under section 1106(i).
+(3)
+Any convictions under section 1106(a).
+(4)
+Any civil actions brought under section 1106(j), including the results of such civil action.
+(b)
+Interim reports
+Not later than 1 month after the date of enactment of this Act, and monthly thereafter until such time as the report required under subsection (a) is submitted, the Comptroller of the United States shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an interim report on the information required under subsection (a), including the status of the study described in paragraph (1) of such subsection.
+7.
+Effective date
+The amendments made by sections 2, 3, and 4 of this Act shall apply to violations of section 1106 of the Social Security Act occurring on or after the date of enactment of this Act.

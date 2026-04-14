@@ -1,0 +1,200 @@
+1.
+Short title
+This Act may be cited as the
+Protecting Critical Boards and Electronics Through Transparency and Enduring Reinvestment Act of 2021
+or the
+PCBETTER Act of 2021
+.
+2.
+Establishment of Electronics Supply Chain Fund and assistance and incentives for domestic manufacturing of printed circuit boards
+(a)
+Establishment of Electronics Supply Chain Fund
+There is established in the Treasury of the United States a trust fund to be known as the
+Electronics Supply Chain Fund
+(in this section the
+Fund
+).
+(b)
+Contents of Fund
+(1)
+In general
+The Fund shall consists of such amounts as may be appropriated for deposit in the Fund.
+(2)
+Availability
+(A)
+In general
+Amounts deposited in the Fund shall remain available through the end of the tenth fiscal year beginning after the date on which funds are first appropriated to the Fund.
+(B)
+Remainder to treasury
+Any amounts remaining in the Fund after the date specified in subparagraph (A) shall be deposited in the general fund of the Treasury.
+(c)
+Use of fund
+Amounts deposited in the Fund shall be available to the Secretary of Defenseâ
+(1)
+to fund the construction, expansion, or modernization of facilities to develop or manufacture semiconductors, microelectronics, advanced electronic packaging, and printed circuit boards;
+(2)
+to carry out subsection (d); and
+(3)
+to carry out section 4(a).
+(d)
+Specific activities required
+Using amounts from the Fund, the Secretary of Defense, in consultation with the Secretary of Commerce, the Secretary of Homeland Security, the Director of National Intelligence, and such other officials as the Secretary of Defense considers appropriate, shallâ
+(1)
+promote and deploy technology, including microelectronics, printed circuit boards, semiconductors, and related technologies so as to create a commercially competitive electronics industry in the United States capable of meeting United States national security needs;
+(2)
+establish production and manufacturing sites for the technologies described in paragraph (1); and
+(3)
+establish security standards necessary for the implementation ofâ
+(A)
+this Act;
+(B)
+section 889 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (
+Public Law 115â232
+; 132 Stat. 1917);
+(C)
+section 224 of the National Defense Authorization Act for Fiscal Year 2020 (
+Public Law 116â92
+;
+10 U.S.C. 2302
+note); and
+(D)
+section 841 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (
+Public Law 116â283
+).
+(e)
+Printed circuit board manufacturing as qualifying capability
+The Secretary of Defense shall consider printed circuit board manufacturing as a qualifying capability when making funds available for the construction, expansion, or modernization of domestic development or manufacturing capabilities for semiconductors or electronic packaging.
+3.
+Requirement that certain providers of systems to Department of Defense disclose the source of printed circuit boards when sourced from certain countries
+(a)
+Disclosure
+The Secretary of Defense shall require any provider of a covered system to provide to the Department of Defense, along with delivery of the covered system, a list of the printed circuit boards in the covered system that includes, for each printed circuit board, an attestation of whetherâ
+(1)
+the printed circuit board was partially or fully manufactured and assembled in a covered nation;
+(2)
+the printed circuit board was fully manufactured and assembled outside of a covered nation; or
+(3)
+the provider cannot determine where the printed circuit board was manufactured and assembled.
+(b)
+Regulations
+Not later than 90 days after the date of the enactment of this Act, the Secretary shall promulgate such regulations as are necessary to carry out this section.
+(c)
+Definitions
+In this section:
+(1)
+The term
+covered nation
+includes the following:
+(A)
+The People's Republic of China.
+(B)
+The Russian Federation.
+(C)
+The Democratic People's Republic of North Korea.
+(D)
+The Islamic Republic of Iran.
+(2)
+The term
+covered system
+means any item, including commercial items and commercially available off-the-shelf items, notwithstanding section 3452 of title 10, United States Code, as redesignated by section 1821(a)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (
+Public Law 116â283
+), or sections 1906 and 1907 of title 41, United States Code, thatâ
+(A)
+has an electronic component;
+(B)
+is provided to the Department of Defense under a contract that exceeds the simplified acquisition threshold; and
+(C)
+transmits or stores information includingâ
+(i)
+telecommunications;
+(ii)
+data communications and storage, including servers, switches, and networking systems, but excluding personal data storage devices, personal computers, desktop computers, tablets, and handheld equipment;
+(iii)
+information technology security systems; and
+(iv)
+any other system that the Secretary determines should be covered.
+(3)
+The term
+manufactured and assembled
+, with respect to a printed circuit board, includes all actions from the printing of the printed circuit board from raw materials to the integration of the completed printed circuit board in an end item or component of an end item.
+4.
+Department of Defense testing of vulnerability of systems with printed circuit boards from certain countries and remediation and prevention of such vulnerabilities
+(a)
+Testing
+(1)
+Program establishment required
+Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall establish a program to test systems owned or operated by the Department of Defense for vulnerabilities to foreign interference, sabotage, espionage, and attack.
+(2)
+Required testing for certain systems
+Through the program established under paragraph (1), the Secretary shall test each system of the Department that contains at least one printed circuit board for which a disclosure was made pursuant to section 3(a) and an attestation was made with respect to paragraph (1) or (3) of such section.
+(3)
+Methods
+The Secretary shall ensure that the program established under paragraph (1) uses, to the maximum extent practicable, best-in-breed testing and detection methods used by commercial industry, includingâ
+(A)
+penetration testing;
+(B)
+red teaming; and
+(C)
+inventory auditing.
+(b)
+Remediation
+(1)
+Designation
+Whenever informed of a vulnerability in a system under the program established under subsection (a)(1), the Secretary shall designate a senior official of the Department to remediate the vulnerability as soon as practicable.
+(2)
+Requirements
+Remediation under paragraph (1) shall include those measures that the designated official determines necessary to lower the risk to acceptable levels, includingâ
+(A)
+adding hardware or software to isolate and contain any malicious printed circuit board;
+(B)
+destruction, deactivation, or replacement of the system containing the vulnerability; or
+(C)
+physical modification of the system containing the vulnerability through the insertion of a trusted printed circuit board or other hardware that does not contain known vulnerabilities.
+(3)
+Assignment of costs
+(A)
+Determination
+Whenever a vulnerability is found in a system from a contractor through the program established under subsection (a)(1), the Secretary of Defense shall determine whether the contractor should reasonably have discovered the vulnerability prior to delivery of the system to the Department.
+(B)
+Payment by contractor
+If, pursuant to subparagraph (A), the Secretary determines that a contractor should reasonably have discovered the vulnerability prior to delivery to the Department, the Secretary may withhold future payments to the contractor in an amount not to exceed the amount expended by the Department on remediation of the affected system.
+(C)
+Presumption
+(i)
+In general
+If the Secretary determines that a vulnerability identified through the program established under subsection (a)(1) is the result of any printed circuit board that the contractor imported from the Peopleâs Republic of China after December 31, 2021, the Secretary shall presume that the contractor reasonably should have discovered the vulnerability prior to delivery to the Department.
+(ii)
+Rebuttal allowed
+The contractor may rebut a presumption under clause (i) with a showing of technical impossibility.
+(c)
+Prevention
+Not later than one year after the date of the enactment of this Act, the Secretary shall promulgate such regulations as the Secretary considers necessary to require contractors selling goods or services to the Department that include printed circuit boards to undertake such due diligence as the Secretary considers appropriate to prevent the occurrence of vulnerabilities in such goods and services, includingâ
+(1)
+certification of the ownership, management, and security of subcontractors;
+(2)
+conducting penetration testing, red teaming exercises, and other simulated attacks against the good or service; and
+(3)
+compliance with the Cybersecurity Maturity Model Certification, or successor model certification.
+(d)
+Annual reports
+(1)
+In general
+Not later than December 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the activities carried out under this section during the preceding fiscal year.
+(2)
+Contents
+Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
+(A)
+The number of systems tested for vulnerabilities.
+(B)
+The number of systems identified as having a vulnerability.
+(C)
+The number of systems that the Department has yet to test under this section.
+(D)
+The identity of any contractors that have been identified as failing to reasonably discover a vulnerability in a good or service provided to the Department of Defense.
+(E)
+Such other information as the Secretary considers appropriate.
+(e)
+Congressional defense committees defined
+In this section, the term
+congressional defense committees
+has the meaning given that term in section 101(a) of title 10, United States Code.

@@ -1,0 +1,188 @@
+1.
+Short title
+This Act may be cited as the
+Safeguarding American Genetic Data Act of 2023
+.
+2.
+Prohibition on contracting with certain biotechnology providers
+(a)
+Designation of Federal entity
+Not later than 30 days after the date of the enactment of this Act, the President shall designate a Federal entity (in this section referred to as the
+Federal entity
+) to establish guidance to ensure that Executive agencies do not directly procure or obtain any covered biotechnology equipment or service. The Federal entity, the head of which shall be the Director of the Office of Management and Budget, shall include the Secretary of Defense, the Attorney General, the Secretary of Health and Human Services, the Secretary of Commerce, the Director of National Intelligence, the Secretary of Homeland Security, the Secretary of State, and the heads of other appropriate Federal agencies as identified by the President.
+(b)
+Policy, guidance, and regulations
+(1)
+Recommendations
+Not later than one year after the date of the enactment of this Act, the Federal entity, in coordination with the Federal Acquisition Regulatory Council and other heads of Executive agencies as determined appropriate by the President, shall issue guidance and recommend the establishment of policy and regulations, as necessary, to implement the requirements of this section.
+(2)
+OMB policy
+Not later than 180 days after the date of issuance of recommendations under paragraph (1), the Director of the Office of Management and Budget shall issue any policy necessary to effectuate the recommendations.
+(3)
+Federal acquisition regulation
+Not later than one year after the date of issuance of recommendations under paragraph (1), the Federal Acquisition Regulatory Council shall revise the Federal Acquisition Regulation as necessary to implement the requirements of this section.
+(4)
+Effective date
+Any prohibition included in the guidance established by the Federal entity in accordance with paragraph (1) shall take effect not later than one year after the establishment of such guidance.
+(c)
+Rule of construction
+Nothing in this section shall be construedâ
+(1)
+to require any covered biotechnology equipment or service in use or resident in equipment, systems, or services as of the day before the applicable effective date specified in subsection (b)(4) to be removed or replaced; or
+(2)
+to prohibit or limit the utilization of such covered biotechnology equipment or service throughout the lifecycle of such existing equipment.
+(d)
+Exceptions
+Any prohibition included in the guidance established by the Federal entity under subsection (b) shall not apply toâ
+(1)
+any activity subject to the reporting requirements under title V of the National Security Act of 1947 (
+50 U.S.C. 3091 et seq.
+) or any authorized defense or intelligence activities of the United States Government;
+(2)
+health care services and related equipment and supplies forâ
+(A)
+employees of the United States Government, including members of the uniformed services (as that term is defined in section 101(a) of title 10, United States Code), whose official duty stations are located overseas or are on permissive temporary duty travel outside of the continental United States; or
+(B)
+employees of contractors or subcontractors of the United Statesâ
+(i)
+who are performing under a contract that directly supports the missions or activities of individuals described in subparagraph (A); and
+(ii)
+whose official duty stations are located overseas or are on permissive temporary duty travel outside of the continental United States.
+(3)
+the acquisition, use, or distribution of multiomic data, however compiled, that is commercially or publicly available.
+(e)
+Waiver authorities
+(1)
+In general
+The policy, guidance, and regulations established under subsection (b) shall allow the head of an Executive agency to waive any prohibition implemented in connection with such guidance on a case-by-case basis after consultation with the Federal entity.
+(2)
+Duration
+(A)
+In general
+Except as provided in subparagraph (B), a waiver granted under paragraph (1) shall last for a period of not more than one year.
+(B)
+Extension
+The head of an Executive agency may extend a waiver granted to an Executive agency under paragraph (1) one time, for a period up to 180 days after the date on which the waiver would otherwise expire, if such an extension is in the national security interests of the United States and the Executive agency submits to the appropriate congressional committees a notification of such waiver not later than 30 days after granting the waiver.
+(f)
+Determination of certain biotechnology entities
+(1)
+In general
+Not later than 180 days after the date of the enactment of this Act, the Federal entity shall develop a list of entities determined to be a biotechnology company of concern. The Federal entity shall define a biotechnology company of concern as any entity thatâ
+(A)
+is subject to the jurisdiction, direction, control, or operates on behalf of the government of a foreign adversary;
+(B)
+is to any extent involved in the manufacturing, distribution, provision, or procurement of biotechnology equipment or services; and
+(C)
+poses a risk to the national security of the United States based onâ
+(i)
+engaging in joint research with, being supported by, or being affiliated with a foreign adversaryâs military, internal security forces, or intelligence agencies;
+(ii)
+providing multiomic data obtained via biotechnology equipment or services to the government of a foreign adversary; or
+(iii)
+obtaining human multiomic data via biotechnology equipment or services without expressed and informed consent.
+(2)
+Updates
+The Federal entity shall periodically, but not less than annually, review and, as appropriate, modify the list of biotechnology companies of concern.
+(g)
+Evaluation of certain biotechnology entities
+Not later than 180 days after the date of the enactment of this Act, the Federal entity shall determine whether BGI, MGI, Complete Genomics, and any subsidiary, affiliate, or successor of such entities, are biotechnology companies of concern. If any such entities, subsidiaries, affiliates, or successors are identified as biotechnology companies of concern, no Executive agency shall directly procure or obtain any biotechnology equipment or services from such entities, subsidiaries, affiliates, or successors. The Director of the Office of Management and Budget shall issue such policy, and the Federal Acquisition Regulatory Council shall promulgate such regulations, as may be necessary to effectuate this prohibition.
+(h)
+Analysis, assessment, and strategy
+Not later than 180 days after developing the list of entities under subsection (f)(1) and the determination of entities under subsection (g), the Federal entity, to the greatest extent practicable, leveraging relevant previous analyses and assessments, shallâ
+(1)
+conduct an analysis of the list of entities identified under subsections (f)(1) and (g), includingâ
+(A)
+active Federal grants to or contracts with private companies, academic institutions, and public sector entities, includingâ
+(i)
+the number and type of covered biotechnology equipment or services already or expected to be procured;
+(ii)
+the anticipated lifespan of covered biotechnology equipment or services already or expected to be procured;
+(iii)
+the estimated costs and timeline to replace covered biotechnology equipment or services already procured; and
+(B)
+the domestic and international market share;
+(2)
+assess risks to national security posed by the entities identified under subsections (f)(1) and (g), obtaining active and future Federal grants to or contracts with private companies, academic institutions, and public sector entities;
+(3)
+develop a strategy toâ
+(A)
+mitigate the risks to national security identified in the assessment conducted under paragraph (2); and
+(B)
+support private companies, academic institutions, and public sector entities seeking to acquire covered biotechnology equipment or services from alternative entities; and
+(4)
+provide the results of the analysis, assessment, and strategy developed under this subsection to the Federal Acquisition Regulatory Council and the appropriate congressional committees.
+(i)
+Report requirement
+(1)
+In general
+Not later than 180 days after the date of the enactment of this Act, the Federal entity shall submit to the Federal Acquisition Regulatory Council and the appropriate congressional committees a report including the following:
+(A)
+The name of and justification for each entity meeting the criteria for a biotechnology company of concern under subsections (f)(1) and (g).
+(B)
+A catalog of all active or planned grants or contracts any Executive agency has with any entity determined to be a biotechnology company of concern related to biotechnology equipment or services.
+(C)
+Recommendations, as applicable, on alternative entities to a biotechnology company of concern capable of providing the Federal Government with required biotechnology equipment or services.
+(D)
+Recommendations, as applicable, on the feasibility of implementing prohibitions implemented in connection with the guidance established under subsection (b) or exercising waiver authorities under subsection (e), to ensure uninterrupted Federal Government access to required biotechnology equipment and services, and any further changes to legislation needed to mitigate supply chain risks or increase availability and enhance capabilities of biotechnology equipment and services.
+(2)
+Form
+The report required under paragraph (1) shall be in unclassified form accompanied by a classified annex.
+(j)
+Definitions
+In this section:
+(1)
+Appropriate congressional committees
+The term
+appropriate congressional committees
+meansâ
+(A)
+the Committee on Armed Services, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Health, Education, Labor, and Pensions, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+(B)
+the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Oversight and Accountability, the Committee on Energy and Commerce, and the Select Committee on Strategic Competition between the United States and the Chinese Communist Party of the House of Representatives.
+(2)
+Biotechnology equipment or service
+The term
+biotechnology equipment or service
+meansâ
+(A)
+equipment, including genetic sequencers, mass spectrometers, polymerase chain reaction machines, or any other instrument, apparatus, machine, or device, including components and accessories thereof, that is designed for use in the research, development, production, or analysis of biological materials, as well as any software, firmware, or other digital components that are specifically designed for use in, and necessary for the operation of, such equipment;
+(B)
+any service for the research, development, production, analysis, detection, or provision of information, including data storage and transmission, related to biological materials, includingâ
+(i)
+advising, consulting, or support services provided by a biotechnology company of concern with respect to the use or implementation of an instrument, apparatus, machine, or device described in subparagraph (A); or
+(ii)
+disease detection, genealogical information, and related services; and
+(C)
+any other service, instrument, apparatus, machine, component, accessory, device, software, or firmware that the Federal entity determines appropriate.
+(3)
+Control
+The term
+control
+has the meaning given the term in section 800.208 of title 31, Code of Federal Regulations, or any successor regulations.
+(4)
+Covered biotechnology equipment or service
+The term
+covered biotechnology equipment or service
+means a biotechnology equipment or service produced or provided by a biotechnology company of concern.
+(5)
+Executive agency
+The term
+Executive agency
+has the meaning given the term in section 105 of title 5, United States Code.
+(6)
+Foreign adversary
+The term
+foreign adversary
+has the meaning given the term
+covered nation
+in section 4872(d) of title 10, United States Code.
+(7)
+Multiomic
+The term
+multiomic
+means data types that include genomics, epigenomics, transcriptomics, proteomics, and metabolomics.
+(8)
+Overseas
+The term
+overseas
+means any area outside of the United States, the Commonwealth of Puerto Rico, or a territory or possession of the United States.

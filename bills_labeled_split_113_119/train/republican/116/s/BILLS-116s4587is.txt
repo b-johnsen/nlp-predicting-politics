@@ -1,0 +1,422 @@
+1.
+Short title
+This Act may be cited as the
+State Funding for Internet Expansion Act of 2020
+or the
+State Fix Act of 2020
+.
+2.
+Expansion of broadband access
+Title I of the Communications Act of 1934 (
+47 U.S.C. 151
+et seq.) is amended by adding at the end the following:
+14.
+Expansion of broadband access
+(a)
+Definitions
+In this section:
+(1)
+Anchor institution
+The term
+anchor institution
+meansâ
+(A)
+a public or private elementary school or secondary school, as those terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 7801
+);
+(B)
+a library;
+(C)
+a medical or healthcare provider;
+(D)
+a museum;
+(E)
+a public safety entity;
+(F)
+public housing;
+(G)
+an institution of higher education, as that term is defined in section 101 of the Higher Education Act of 1965 (
+20 U.S.C. 1001
+), including a community college; or
+(H)
+any other community support organization or agency.
+(2)
+Area
+The term
+area
+means the geographic unit of measurement with the greatest level of granularity that is reasonably feasible for the Commission to use in making eligibility determinations under this section and in meeting the requirements and deadlines under this section.
+(3)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(4)
+Broadband
+The term
+broadband
+â
+(A)
+has the meaning given the term
+broadband internet access service
+in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation;
+(B)
+includes any service that is the functional equivalent of the service described in subparagraph (A); and
+(C)
+does not include dial-up internet access service.
+(5)
+Covered entity
+The term
+covered entity
+â
+(A)
+means an entity thatâ
+(i)
+is owned by, controlled by, affiliated with, or acting at the direction of an entity that is organized under the laws of, or otherwise subject to the jurisdiction of, a country, the government of which is on the priority watch list established by the United States Trade Representative pursuant to section 182(a) of the Trade Act of 1974 (
+19 U.S.C. 2242(a)
+); and
+(ii)
+has engaged in an action that is prohibited underâ
+(I)
+section 1(a) of Executive Order 13873 (84 Fed. Reg. 22689; relating to securing the information and communications technology and services supply chain); or
+(II)
+any regulations issued in response to the Executive Order described in subclause (I); and
+(B)
+includes any subsidiary, affiliate, employee, or representative of, and any related party with respect to, an entity described in subparagraph (A), without regard to the location or jurisdiction of incorporation of that subsidiary, affiliate, employee, representative, or party, as applicable.
+(6)
+Funding recipient
+The term
+funding recipient
+means an entity that receives funding for a project under this section.
+(7)
+Program
+Unless otherwise expressly indicated, the term
+program
+means the program established under subsection (b).
+(8)
+Project
+The term
+project
+means a project that uses funding made available under this section to construct and deploy infrastructure for the provision of broadband.
+(9)
+Public housing
+The term
+public housing
+â
+(A)
+has the meaning given the term in section 3(b) of the United States Housing Act of 1937 (
+42 U.S.C. 1437a(b)
+); and
+(B)
+includes housing receiving tenant-based rental assistance provided under section 8(o) of the United States Housing Act of 1937 (
+42 U.S.C. 1437f(o)
+).
+(10)
+Reverse auction
+The term
+reverse auction
+means an auction in whichâ
+(A)
+bids are submitted for a project by the entities that would construct or deploy infrastructure for the provision of broadband under the project; and
+(B)
+the winning bid is the bid that proposes serving an area for the lowest cost, taking into consideration the preferences under subsection (d)(2).
+(11)
+Underserved area
+The term
+underserved area
+means an area in which more than 10 percent, but not more than 50 percent, of the population of the area has access to broadbandâ
+(A)
+with a download speed of at least 25 megabits per second and not more than 50 megabits per second; and
+(B)
+with an upload speed of at least 3 megabits per second.
+(12)
+Unserved anchor institution
+The term
+unserved anchor institution
+means an anchor institution that does not have access to broadband offeredâ
+(A)
+with a download speed of at least 100 megabits per second; and
+(B)
+with an upload speed of at least 10 megabits per second.
+(13)
+Unserved area
+The term
+unserved area
+means an area in which not more than 10 percent of the population of the area has access to broadbandâ
+(A)
+with a download speed of at least 25 megabits per second; and
+(B)
+with an upload speed of at least 3 megabits per second.
+(b)
+Program established
+Not later than 270 days after the date of enactment of this section, the Commission, in consultation with the Assistant Secretary, shall establish a programâ
+(1)
+to expand access to broadband in unserved areas and underserved areas, and for unserved anchor institutions, in accordance with the requirements of this section; and
+(2)
+thatâ
+(A)
+is separate from any universal service program established under section 254; and
+(B)
+does not require a funding recipient to be designated as an eligible telecommunications carrier under section 214(e).
+(c)
+Use of program funds
+(1)
+Public notice
+(A)
+In general
+Not later than 270 days after the date of enactment of this section, the Commission shall publish in the Federal Register a notice informing each State and the public that amounts made available to carry out this section shall be distributed under this subsection.
+(B)
+Contents
+The notice published under subparagraph (A) shall includeâ
+(i)
+the manner in which a State shall inform the Commission of the acceptance by that State, in whole or in part, of the amounts to be distributed to the State under this subsection;
+(ii)
+a notification that the acceptance described in clause (i) shall be due on the date that is 45 days after the date on which the Commission issues the public notice; and
+(iii)
+the requirements with respect to the use of the distributed amounts under this section and under any further requirements that the Commission may prescribe.
+(2)
+Acceptance by States
+Not later than 45 days after the date on which the Commission publishes the notice required under paragraph (1), each State accepting amounts to be distributed under this subsection shall inform the Commission of the acceptance, in whole or in part, by the State of those amounts in the manner described by the Commission in the notice.
+(3)
+Expanding access to broadband through States
+(A)
+In general
+Not later than 1 year after the date of enactment of this section, the Commission shall distribute amounts made available to carry out this section among the States that have agreed to accept the funds.
+(B)
+Formulas
+The amount that a State receives under subparagraph (A) shall be the sum ofâ
+(i)
+the amount obtained byâ
+(I)
+dividing the number of individuals living in unserved areas in the State by the total number of individuals living in unserved areas in the United States; and
+(II)
+multiplying 80 percent of the amount made available to carry out this section by the quotient obtained under subclause (I); and
+(ii)
+the amount obtained byâ
+(I)
+dividing the number of individuals living in underserved areas in the State by the total number of individuals living in underserved areas in the United States; and
+(II)
+multiplying 20 percent of the amount made available to carry out this section by the quotient obtained under subclause (I).
+(4)
+Requirements for State receipt of amounts distributed
+Each State accepting amounts distributed under this subsectionâ
+(A)
+may allocate those amounts only through a statewide reverse auction or auctions, in the manner prescribed by the State, subject to the requirements of this section (including the rules promulgated under subsection (g)) and any further requirements that the Commission may prescribe;
+(B)
+may make an allocation under subparagraph (A) onlyâ
+(i)
+to a funding recipient to expand access to broadband in unserved areas within the State;
+(ii)
+to a funding recipient to expand access to broadband for unserved anchor institutions located in the State; or
+(iii)
+if a State does not have, or no longer has, an unserved area within the State, to a funding recipient to expand access to broadband in underserved areas in the State;
+(C)
+shallâ
+(i)
+not later than 10 years after the date of enactment of this section, return to the Commission any unused portion of those amounts; and
+(ii)
+before accepting those amounts, submit to the Commission a certification that the State will comply with clause (i); and
+(D)
+may not use more than 5 percent of those amounts to administer a reverse auction that complies with the requirements of this section.
+(5)
+Distribution of remaining funds
+In the case of any amounts remaining after the amounts made available to carry out this section are distributed under this subsection, the Commission shall transfer those amounts to the general fund of the Treasury, where those transferred amounts shall be dedicated for the sole purpose of deficit reduction.
+(d)
+Program requirements
+(1)
+Technology neutrality required
+A State administering a reverse auction to make awards under subsection (c) may not favor a project using any particular technology.
+(2)
+Bidding preference
+Consistent with the program, there shall be a preference, as determined by the entity administering a reverse auction, for a bidder in the reverse auction that proposes a project that is described by any of the following:
+(A)
+Not less than 20 percent of the funds provided by the bidder with respect to the project are matched from private sources.
+(B)
+The project would expand access to broadband on tribal lands, as that term is defined by the Commission.
+(C)
+The project would provide broadband that hasâ
+(i)
+latency of not more than 50 milliseconds; and
+(ii)
+(I)
+a download speed that is greater than 100 megabits per second or an upload speed of at least 20 megabits per second; or
+(II)
+a download speed of at least 1 gigabit per second or an upload speed of at least 100 megabits per second.
+(D)
+The project would expand access to broadband in advance of the time specified in subsection (g)(1)(D).
+(E)
+The project would expand access to broadband to areas in which the median household income is below 150 percent of the poverty threshold, as defined by the Bureau of the Census.
+(F)
+The project would provide affordable payment options to subscribers in locations served.
+(3)
+Notice, transparency, accountability, and oversight required
+The program shall contain sufficient notice, transparency, accountability, and oversight measures toâ
+(A)
+provide the public with notice regarding the assistance provided under this section; and
+(B)
+deter waste, fraud, and abuse with respect to program funds.
+(4)
+Competence
+The program shall contain sufficient processes and requirements, as established by each State participating in the program, to ensure that each entity participating in a reverse auction conducted by the Stateâ
+(A)
+is capable of carrying out the applicable project in a manner that is competent and that complies with all applicable Federal, State, and local laws;
+(B)
+has the financial capacity toâ
+(i)
+meet the buildout obligations of the applicable project; and
+(ii)
+satisfy the requirements of this section and any other further requirements that the Commission may prescribe in carrying out this section; and
+(C)
+has the technical and operational capacity to provide broadband in the manner contemplated by any bid placed by the entity during the reverse auction, which shall include a detailed consideration ofâ
+(i)
+the prior performance of the entity in constructing broadband infrastructure in rural areas; and
+(ii)
+the capability of the proposed infrastructure to be constructed and deployed by the entity to provide the proposed broadband services in the area that the infrastructure would serve.
+(e)
+Project requirements
+Any project funded through the program shall satisfy the following requirements:
+(1)
+The project shall adhere to quality-of-service standards established by the Commission.
+(2)
+The projectâ
+(A)
+shall offer broadband that, at a minimum, providesâ
+(i)
+a download speed of at least the greater ofâ
+(I)
+50 megabits per second; or
+(II)
+the download speed required for an internet service to qualify as an advanced telecommunications capability, as defined in section 706(d) of the Telecommunications Act of 1996 (
+47 U.S.C. 1302(d)
+);
+(ii)
+an upload speed of at least the greater ofâ
+(I)
+10 megabits per second; or
+(II)
+the upload speed required for an internet service to qualify as an advanced telecommunications capability, as defined in section 706(d) of the Telecommunications Act of 1996 (
+47 U.S.C. 1302(d)
+); and
+(iii)
+a latency of not more than 100 milliseconds; and
+(B)
+may offer broadband that, at a minimum, provides a download speed of at least 25 megabits per second, an upload speed of at least 3 megabits per second, and latency of not more than 100 milliseconds, if the project is also in compliance with subparagraph (A).
+(3)
+The project shall incorporate prudent cybersecurity and supply chain risk management practices, as specified by the Commission in the rules promulgated under subsection (g), after consultation with the Director of the National Institute of Standards and Technology and the Assistant Secretary.
+(4)
+(A)
+Any laborer or mechanic employed by any contractor or subcontractor in the performance of work on the project shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under subchapter IV of
+chapter 31
+of title 40, United States Code (commonly referred to as the
+Davis-Bacon Act
+).
+(B)
+With respect to the labor standards specified in subparagraph (A), the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40, United States Code.
+(5)
+The funding recipient may not purchase any materials, products, or services from a covered entity.
+(f)
+Determinations regarding unserved and underserved areas
+(1)
+Initial determination
+(A)
+In general
+Not later than 120 days after the date of enactment of this section, the Commission shall, for the purposes of any reverse auction conducted under this section, make an initial determination as to whether an area is an unserved area or an underserved area and whether an anchor institution is an unserved anchor institution.
+(B)
+Resources
+In making a determination under subparagraph (A), the Commission shallâ
+(i)
+to the extent practicable, use the National Broadband Availability Map;
+(ii)
+to the extent practicable, use data from the Broadband Serviceable Location Fabric established under section 802(b)(1)(B);
+(iii)
+consider other data obtained or purchased by the Commission that relates to access to broadband;
+(iv)
+consider other publicly available data or information regarding access to broadband; and
+(v)
+consider other publicly available data or information on State broadband deployment programs and any additional information States have on their constituentsâ broadband access.
+(2)
+Challenge process
+The Commission shall provide for a processâ
+(A)
+for challenging any initial determination under paragraph (1);
+(B)
+that, at a minimum, provides not less than 45 days for a person to voluntarily submit information concerningâ
+(i)
+the broadband offered in the applicable area; or
+(ii)
+the broadband offered to an anchor institution, if applicable; and
+(C)
+that is sufficiently streamlined such that a reasonably prudent person that submits verified data, or meets other requirements imposed by the Commission, may easily challenge an initial determination made under paragraph (1) with little burden on that person.
+(3)
+Final determinations
+Not later than 225 days after the date of enactment of this section, and after taking into consideration the challenges brought under paragraph (2), the Commission shall make a final determination of the areas that are unserved areas or underserved areas and which anchor institutions are unserved anchor institutions.
+(g)
+Rulemaking, distribution, and award of funds
+(1)
+In general
+Not later than 225 days after the date of enactment of this section, the Commission, in consultation with the Assistant Secretary, shall promulgate rules that accomplish the following:
+(A)
+Implement the requirements of this section.
+(B)
+Establish the design of, and requirements for, a reverse auction conducted by a State under this section.
+(C)
+Establish notice requirements for all reverse auctions conducted under this section that, at a minimum, and in accordance with the determinations made under subsection (f), provide the public with notice ofâ
+(i)
+the initial determination of which areas are unserved areas or underserved areas under paragraph (1) of that subsection;
+(ii)
+the final determination of which areas are unserved areas or underserved areas under paragraph (3) of that subsection, after the process for challenging the initial determination has concluded; and
+(iii)
+with respect to a particular reverse auction, which entities have applied to bid for funding.
+(D)
+With respect to a funding recipient that receives funding under this section for a project, provide that, not later than 6 years after the date on which the funding recipient receives the funding, the funding recipient shall provide service to not less than 80 percent of the areas proposed to be served by the project.
+(E)
+Establish broadband buildout milestones and periodic certification by funding recipients to ensure compliance with the broadband buildout milestones.
+(F)
+Establish periodic reporting requirements for funding recipients that require those funding recipients to identify, at a minimum, with respect to the project to which the funding relates, the technology used, the level of service offered, and the percentage of the applicable area served.
+(G)
+Establish mechanisms to reduce waste, fraud, and abuse within the program with respect to any reverse auction conducted under this section.
+(H)
+Establish processes toâ
+(i)
+assist States in conducting statewide reverse auctions;
+(ii)
+coordinate with States to ensure that funds disbursed by the Commission and program funds awarded by the States are not used to expand access to broadband in the same unserved areas;
+(iii)
+coordinate with other Federal programs that expand access to broadband, such as the program set forth under subpart D of part 54 of title 47, Code of Federal Regulations (or any successor regulations), the program set forth under subpart J of part 54 of title 47, Code of Federal Regulations (or any successor regulations), and the broadband loan and grant pilot program authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (
+Public Law 115â141
+; 132 Stat. 399), to ensure the efficient use of program funds; and
+(iv)
+ensure that each participating State conducts a reverse auction in a manner thatâ
+(I)
+achieves the goals of this section; and
+(II)
+does not conflict with the rules of, or reverse auctions conducted by, the Commission.
+(2)
+Sense of Congress
+It is the sense of Congress that, in conducting the rulemaking under paragraph (1), the Commission should consider using milestones for completion under the program that are similar to those with respect to the program set forth under subpart J of part 54 of title 47, Code of Federal Regulations (or any successor regulations).
+(3)
+State rulemaking requirements
+A State that accepts funding under the program shall promulgate rules that establishâ
+(A)
+standard penalties for any funding recipient or project that does not comply with this section or with any additional requirements imposed by the State with respect to a reverse auction conducted by the State; and
+(B)
+procedures for the recovery of funds, in whole or in part, from a funding recipient if the funding recipient, or the project carried out by the funding recipient, fails to comply with the requirements of this section or with any additional requirements imposed by the State with respect to a reverse auction conducted by the State.
+(h)
+Reports required
+(1)
+Inspector General and Comptroller General annual reports
+Not later than 1 year after the date on which funds are first awarded under the program, and annually thereafter through fiscal year 2029, the Inspector General of the Commission and the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report thatâ
+(A)
+reviews the program for the year covered by the report; and
+(B)
+includes any recommendations to address waste, fraud, and abuse with respect to the program.
+(2)
+State reports
+A State that, in a year, receives funds under the program shall submit to the Commissionâ
+(A)
+a report regarding how those funds were spent during the applicable year; and
+(B)
+a certification that the State, for that year, has complied with the requirements of this section and with any further requirements prescribed by the Commission in carrying out this section, including a description of services provided with those funds and the number of locations to which broadband service was provided with those funds.
+(i)
+Authorization of appropriations
+There is authorized to be appropriated to the Commission $20,000,000,000 for fiscal year 2020 to carry out the program, which shall remain available through fiscal year 2029.
+.

@@ -1,0 +1,818 @@
+1.
+Short title
+This Act may be cited as the
+Broadband Reform and Investment to Drive Growth in the Economy Act of 2021
+or the
+BRIDGE Act
+.
+2.
+Findings
+Congress finds the following:
+(1)
+Access to affordable, reliable, and high-speed broadband is essential to full participation in modern life in the United States.
+(2)
+The persistent
+digital divide
+in the United States is a barrier to the economic competitiveness of the United States and equitable distribution of essential public services, including health care and education.
+(3)
+The digital divide disproportionately affects communities of color, lower-income areas, and rural areas.
+(4)
+In many communities across the country, increased competition among broadband providers has the potential to offer consumers more affordable, high-quality options for broadband service.
+(5)
+The 2019 novel coronavirus pandemic has underscored the critical importance of affordable, high-speed broadband for individuals, families, and communities to be able to work, learn, and connect remotely while supporting social distancing.
+3.
+Grants for broadband deployment
+(a)
+Definitions
+(1)
+Areas lacking broadband access
+In this sectionâ
+(A)
+the term
+unserved area
+means an area that lacks access to broadband service with a speed greater thanâ
+(i)
+25 megabits per second for downloads; and
+(ii)
+3 megabits per second for uploads;
+(B)
+the term
+underserved area
+means an area thatâ
+(i)
+is not an unserved area; and
+(ii)
+lacks access to broadband service with a speed of not less thanâ
+(I)
+100 megabits per second for downloads; and
+(II)
+25 megabits per second for uploads;
+(C)
+the term
+other qualifying area
+means an area thatâ
+(i)
+is not an unserved area or underserved area; and
+(ii)
+lacks access to gigabit-level broadband service; and
+(D)
+the term
+eligible area
+means an unserved area, underserved area, or other qualifying area.
+(2)
+Other definitions
+In this sectionâ
+(A)
+the term
+affordable broadband service plan
+means a plan under which broadband service is provided at a rate that is determined by the Commission, in coordination with the Assistant Secretary, to be affordable for a 4-person household thatâ
+(i)
+includes 2 dependents under the age of 18; and
+(ii)
+has an income of 136 percent of the poverty line applicable to a family of the size involved (as determined under section 673(2) of the Community Services Block Grant Act (
+42 U.S.C. 9902(2)
+));
+(B)
+the term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information;
+(C)
+the term
+broadband
+or
+broadband service
+has the meaning given the term
+broadband internet access service
+in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation;
+(D)
+the term
+Commission
+means the Federal Communications Commission;
+(E)
+the term
+community anchor institution
+means an entity such as a school, library, health clinic, hospital or other medical provider, public safety entity, institution of higher education, public housing organization, or community support organization that facilitates greater use of broadband service by vulnerable populations, including low-income individuals, unemployed individuals, and aged individuals;
+(F)
+the term
+digital equity
+means the condition in which all individuals and communities have the information technology capacity needed for full participation in the society and economy of the United States;
+(G)
+the term
+digital inclusion
+â
+(i)
+means the activities that are necessary to ensure that all individuals in the United States have access to, and the use of, affordable information and communications technologies, such as reliable fixed and wireless broadband service, internet-enabled devices that meet the needs of the user, applications and online content designed to enable and encourage self-sufficiency, participation, and collaboration; and
+(ii)
+includes obtaining access to digital literacy training, the provision of quality technical support, and obtaining basic awareness of measures to ensure online privacy and cybersecurity;
+(H)
+the term
+digital literacy
+means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information;
+(I)
+the term
+eligible community anchor institution
+means a community anchor institution that lacks access to gigabit-level broadband service;
+(J)
+the term
+eligible entity
+means a State, a territory, the District of Columbia, or an eligible Tribal entity;
+(K)
+the term
+eligible Tribal entity
+meansâ
+(i)
+a Tribal government;
+(ii)
+a Tribal College or University (as defined in section 316(b) of the Higher Education Act of 1965 (
+20 U.S.C. 1059c(b)
+));
+(iii)
+the Department of Hawaiian Home Lands on behalf of the Native Hawaiian Community, including Native Hawaiian Education Programs;
+(iv)
+a Tribal organization; or
+(v)
+a Native Corporation;
+(L)
+the term
+Fund
+means the Broadband Access Fund established under subsection (b);
+(M)
+the term
+gigabit-level broadband service
+means broadband service with a speed of not less thanâ
+(i)
+1 gigabit per second for downloads; and
+(ii)
+1 gigabit per second for uploads;
+(N)
+the term
+high-cost area
+means an unserved area in which the Assistant Secretary determines that the cost of deploying broadband service is higher than the average cost of deploying broadband service in the United States because ofâ
+(i)
+the remote location of the area;
+(ii)
+the population density of the area;
+(iii)
+the unique topography of the area;
+(iv)
+a high rate of poverty in the area; or
+(v)
+any other factor that contributes to the cost of deploying broadband service;
+(O)
+the term
+Native Corporation
+has the meaning given the term in section 3 of the Alaska Native Claims Settlement Act (
+43 U.S.C. 1602
+);
+(P)
+the term
+Native Hawaiian
+has the meaning given the term in section 801 of the Native American Housing Assistance and Self-Determination Act of 1996 (
+25 U.S.C. 4221
+);
+(Q)
+the term
+State
+means any of the 50 States;
+(R)
+the term
+subgrantee
+means an entity that receives grant funds from an eligible entity to carry out activities under subsection (g);
+(S)
+the term
+territory
+means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau; and
+(T)
+the term
+Tribal government
+means the governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, individually recognized (including parenthetically) in the list published most recently as of the date of enactment of this Act pursuant to section 4104 of the Federally Recognized Indian Tribe List Act of 1994 (
+25 U.S.C. 5131
+).
+(b)
+Broadband Access Fund
+(1)
+Establishment
+There is established in the Treasury of the United States a fund to be known as the
+Broadband Access Fund
+.
+(2)
+Direct appropriation to fund
+There is appropriated to the Fund, out of amounts in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2021, $40,000,000,000, to remain available until expended.
+(3)
+Availability of fund
+Amounts in the Fund shall be available to the Assistant Secretary to make grants to eligible entities toâ
+(A)
+deploy broadband; and
+(B)
+fund efforts that bridge the digital divide, increase the adoption of broadband, and facilitate affordable access to broadband.
+(c)
+Grants
+From the amounts appropriated under subsection (b), the Assistant Secretary shall award a grant to each eligible entity that submits an initial proposal or final proposal that the Assistant Secretary approves.
+(d)
+Allocation
+(1)
+Minimum amounts
+Of the amounts appropriated under subsection (b)â
+(A)
+$100,000,000 shall be made available to each State;
+(B)
+$75,000,000 shall be made available to each of the Commonwealth of Puerto Rico and the District of Columbia;
+(C)
+$100,000,000 shall be made available to, and divided equally among, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau; and
+(D)
+not less than 5 percent shall be made available to eligible Tribal entitiesâ
+(i)
+on an equitable basis; and
+(ii)
+of which not less than 3 percent shall be made available for the benefit of Native Hawaiians.
+(2)
+Remaining amounts
+(A)
+In general
+Amounts remaining after the allocations under paragraph (1) shall be allocated to States based on population in accordance with subparagraph (B) of this paragraph.
+(B)
+Allocations
+Of the amounts allocated under subparagraph (A)â
+(i)
+50 percent shall be allocated among the States based on the proportion that the population of each State bears to the population of all States;
+(ii)
+25 percent shall be allocated among the States based on the proportion that the number of individuals living in rural areas in each State, as determined by the Bureau of the Census, bears to the number of individuals living in rural area in all States, as determined by the Bureau of the Census; and
+(iii)
+25 percent shall be allocated among the States based on the proportion that the number of individuals with a household income that is below 150 percent of the poverty line applicable to a family of the size involved (as determined under section 673(2) of the Community Services Block Grant Act (
+42 U.S.C. 9902(2)
+) in each State bears to the number of such individuals in all States.
+(C)
+Population determination
+For purposes of subparagraph (B), the population of a State or a category of residents of a State shall be determined based on the most recent year for which data are available from the Bureau of the Census.
+(3)
+Reallocation
+(A)
+Failure to submit initial proposal
+If an eligible entity does not submit an initial proposal under subsection (f)(2) for amounts allocated to the eligible entity under this subsection by the applicable date under subparagraph (A) of that subsection, the Assistant Secretary shall reallocate the amounts on a competitive basis toâ
+(i)
+in the case of an eligible entity described in subparagraph (A), (B), or (C) of paragraph (1) of this subsection, other eligible entities described in those subparagraphs that have submitted an initial proposal under subsection (f)(2) as of that date; or
+(ii)
+in the case of an eligible entity described in subparagraph (D) of paragraph (1) of this subsection, other eligible entities described in that subparagraph that have submitted an initial proposal under subsection (f)(2) as of that date.
+(B)
+Failure to submit final proposal
+If an eligible entity does not submit a final proposal under subsection (f)(3) for the remainder of the amounts allocated to the eligible entity under this subsection by the applicable date under subparagraph (A) of that subsection, the Assistant Secretary shall reallocate the amounts on a competitive basis toâ
+(i)
+in the case of an eligible entity described in subparagraph (A), (B), or (C) of paragraph (1) of this subsection, other eligible entities described in those subparagraphs that have submitted a final proposal under subsection (f)(3) as of that date; or
+(ii)
+in the case of an eligible entity described in subparagraph (D) of paragraph (1) of this subsection, other eligible entities described in that subparagraph that have submitted a final proposal under subsection (f)(3) as of that date.
+(e)
+Administrative expenses
+(1)
+Assistant Secretary
+The Assistant Secretary may use not more than 2 percent of amounts appropriated under subsection (b) for administrative purposes, including the provision of technical assistance to eligible Tribal entities.
+(2)
+Eligible entities
+An eligible entity may use not more than 2 percent of grant funds received under this section for expenses relating (directly or indirectly) to administration of the grant.
+(f)
+Implementation
+(1)
+Requirements; outreach
+Not later than 120 days after the date of enactment of this Act, the Assistant Secretary shallâ
+(A)
+issue a notice to each eligible entity thatâ
+(i)
+contains the estimated amount available to the eligible entity under this section; and
+(ii)
+invites the eligible entity to submit an initial proposal and final proposal for a grant under this section, in accordance with paragraphs (2) and (3);
+(B)
+develop and make public a standard, online application form that an eligible entity may use to submit an initial proposal and final proposal for the grant amounts made available to the eligible entity under this section;
+(C)
+outlineâ
+(i)
+the requirements for initial proposals and final proposals for grants under this section; and
+(ii)
+the allowed uses of grant funds awarded under this section, as provided in subsection (g); and
+(D)
+publish a modelâ
+(i)
+initial proposal that complies with paragraph (2)(A), including the certification requirements under clause (i)(VI) of that paragraph; and
+(ii)
+final proposal that complies with paragraph (3)(A).
+(2)
+Initial proposal
+(A)
+Submission
+(i)
+In general
+During the 90-day period beginning on the date on which the Assistant Secretary issues the notice under paragraph (1), an eligible entity that wishes to receive a grant under this section shall submit an initial proposal for a grant, using the online application form developed by the Assistant Secretary under subparagraph (B) of that paragraph, thatâ
+(I)
+outlines long-term objectives for deploying broadband and closing the digital divide;
+(II)
+(aa)
+identifies, and outlines steps to support, local and regional broadband planning processes or ongoing efforts to deploy broadband or close the digital divide; and
+(bb)
+describes coordination with local governments, along with local and regional broadband planning processes;
+(III)
+identifies existing efforts funded by the Federal government or a State within the jurisdiction of the eligible entity to deploy broadband and close the digital divide;
+(IV)
+includes a plan to competitively award subgrants;
+(V)
+identifies, using data drawn from sources including the map created by the Commission under section 802(c)(1)(A) of the Communications Act of 1934 (
+47 U.S.C. 642(c)(1)(A)
+), another broadband map of the Commission that is in effect, the National Broadband Availability Map created by the Assistant Secretary, or State-level broadband dataâ
+(aa)
+each unserved area, underserved area, or other qualifying area under the jurisdiction of the eligible entity; and
+(bb)
+each community anchor institution under the jurisdiction of the eligible entity that is an eligible community anchor institution;
+(VI)
+certifies the intent of the eligible entity to comply with all applicable requirements under this section, including the reporting requirements under subsection (j)(1); and
+(VII)
+includes a description of the challenge process for classification of eligible areas and institutions required under subsection (i)(2) that the eligible entity will use.
+(ii)
+Eligible Tribal entities
+In the case of an eligible Tribal entity, clause (i) shall be applied by substituting
+120-day period
+for
+90-day period
+.
+(iii)
+Local coordination
+To the greatest extent practicable, a State shall coordinate with units of local government within the State in submitting an initial proposal under clause (i).
+(B)
+Single initial proposal
+An eligible entity may submit only 1 initial proposal under this paragraph.
+(C)
+Corrections to initial proposal
+The Assistant Secretary may accept corrections to the initial proposal of an eligible entity after the initial proposal has been submitted.
+(D)
+Consideration of initial proposal
+Not later than 90 days after receipt of an initial proposal for a grant under this paragraph, the Assistant Secretary shallâ
+(i)
+acknowledge receipt;
+(ii)
+evaluate whether the use of funds proposed in the initial proposal complies with subsection (g);
+(iii)
+if the initial proposal is completeâ
+(I)
+disburse to the eligible entity 20 percent of the grant funds that were allocated to the eligible entity under subsection (d); or
+(II)
+at the discretion of the Assistant Secretary, disburse to the eligible entity a higher percentage of the grant funds that were allocated to the eligible entity under subsection (d); and
+(iv)
+if the initial proposal is incomplete, notify the eligible entity and provide the eligible entity with 30 days to resubmit the initial proposal.
+(E)
+Consideration of resubmitted initial proposal
+Not later than 14 days after receipt of a resubmitted initial proposal for a grant under this paragraph, the Secretary shallâ
+(i)
+acknowledge receipt;
+(ii)
+if the initial proposal is completeâ
+(I)
+disburse to the eligible entity 20 percent of the grant funds that were allocated to the eligible entity under subsection (d); or
+(II)
+at the discretion of the Assistant Secretary, disburse to the eligible entity a higher percentage of the grant funds that were allocated to the eligible entity under subsection (d); and
+(iii)
+if the initial proposal is incomplete, notify the eligible entity and provide the eligible entity with 30 days to resubmit the initial proposal.
+(3)
+Final proposal
+(A)
+Submission
+(i)
+In general
+During the 120-day period beginning on the date on which the Assistant Secretary disburses grant funds to an eligible entity under subparagraph (D) or (E) of paragraph (2), the eligible entity may submit a final proposal for the remainder of the grant, using the online application form developed by the Assistant Secretary under paragraph (1)(B), that includesâ
+(I)
+spending priorities consistent with the long-term objectives outlined in paragraph (2)(A)(i)(I);
+(II)
+a preliminary budget;
+(III)
+a detailed plan that specifies how the eligible entity willâ
+(aa)
+allocate not less than 50 percent of the total grant funds allocated to the eligible entity under subsection (d) to the deployment of broadband networks to unserved areas, including high-cost areas (if applicable), or to other eligible uses in areas with above-average poverty, as required under subsection (h)(1); and
+(bb)
+align the grant funds allocated to the eligible entity under subsection (d), where practicable, with the use of other funds or other assistance that the eligible entity has received to deploy broadband infrastructure from the Federal Government, a State, or a private entity;
+(IV)
+a timeline for implementation;
+(V)
+processes for oversight and accountability to ensure the proper use of the grant funds allocated to the eligible entity under subsection (d);
+(VI)
+a description of coordination with local governments, along with local and regional broadband planning processes; and
+(VII)
+a description of efforts to prohibit waste, fraud, and abuse throughâ
+(aa)
+the challenge process for classification of eligible areas and institutions required under subsection (i)(2); and
+(bb)
+coordination with other Federal and State broadband programs.
+(ii)
+Eligible Tribal entities
+In the case of an eligible Tribal entity, clause (i) shall be applied by substituting
+150-day period
+for
+120-day period
+.
+(iii)
+Local coordination
+To the greatest extent practicable, a State shall coordinate with units of local government within the State in submitting a final proposal under clause (i).
+(iv)
+Federal coordination
+To ensure efficient and effective use of taxpayer funds, an eligible entity shall, to the greatest extent practicable, align the use of grant funds proposed in the final proposal under clause (i) with funds available from other Federal programs that support broadband deployment and access.
+(B)
+Single final proposal
+An eligible entity may submit only 1 final proposal under this paragraph.
+(C)
+Corrections to final proposal
+The Assistant Secretary may accept corrections to the final proposal of an eligible entity after the final proposal has been submitted.
+(D)
+Consideration of final proposal
+Not later than 90 days after receipt of a final proposal for a grant under this paragraph, the Assistant Secretary shallâ
+(i)
+acknowledge receipt;
+(ii)
+evaluate whether the use of funds proposed in the final proposal complies with subsection (g);
+(iii)
+if the final proposal is complete, disburse to the eligible entity the remainder of the grant funds allocated to the eligible entity under subsection (d); and
+(iv)
+if the final proposal is incomplete, notify the eligible entity and provide the eligible entity with 30 days to resubmit the final proposal.
+(E)
+Consideration of resubmitted final proposal
+Not later than 14 days after receipt of a resubmitted final proposal for a grant under this paragraph, the Secretary shallâ
+(i)
+acknowledge receipt;
+(ii)
+if the final proposal is complete, disburse to the eligible entity the remainder of the grant funds allocated to the eligible entity under subsection (d); and
+(iii)
+if the final proposal is incomplete, notify the eligible entity and provide the eligible entity with 30 days to resubmit the final proposal.
+(4)
+Extension
+The Assistant Secretary may grant an extension of a deadline under paragraph (2) or (3).
+(5)
+Exemption from service standards
+In submitting an initial proposal or final proposal under paragraph (2) or (3), respectively, an eligible entity may request an exemption from the service standards under subsection (i)(4)(A)(i)(I) for the deployment of a broadband network in an area if meeting the standards in that area would be technologically or financially infeasible.
+(g)
+Use of funds
+An eligible entity may use grant funds received under this section toâ
+(1)
+competitively award subgrants forâ
+(A)
+the deployment of broadband networks to eligible areas;
+(B)
+connecting eligible community anchor institutions;
+(C)
+broadband mapping and planning;
+(D)
+distance learning, including partnering with service providers in existence when the subgrant is awarded, or purchasing and installing equipment, to extend broadband service from the campus of a school, library, or other community anchor institution to unserved households;
+(E)
+telehealth;
+(F)
+installing internet and Wi-Fi infrastructure or providing free or reduced-cost broadband within a multi-family residential building, with a priority given to a residential building thatâ
+(i)
+has a substantial share of unserved households; or
+(ii)
+is in an area in which the percentage of individuals with a household income that is at or below 136 percent of the poverty line applicable to a family of the size involved (as determined under section 673(2) of the Community Services Block Grant Act (
+42 U.S.C. 9902(2)
+) is higher than the national percentage of such individuals;
+(G)
+affordable broadband programs, including providing free or reduced-cost broadband service, thatâ
+(i)
+subject to clause (ii), provide broadband service at a speed greater thanâ
+(I)
+50 megabits per second for downloads; and
+(II)
+10 megabits per second for uploads; and
+(ii)
+make every reasonable effort to prioritize broadband service at faster speeds than the speeds required under clause (i);
+(H)
+digital inclusion, such as digital literacy and digital equity programs, including programs to provide affordable internet-capable devices;
+(I)
+broadband adoption;
+(J)
+initiatives to develop a skilled telecommunications workforce necessary for the deployment of high-speed broadband; or
+(K)
+accelerating the completion of a project, or enabling a public-private partnership, to deploy a broadband network to an eligible area that was ongoing as of the date of the award, if the network meets the requirements under subsection (i)(4); and
+(2)
+provide technical assistance to local, regional, private, or nonprofit entities to carry out existing efforts toâ
+(A)
+deploy broadband or close the digital divide; or
+(B)
+implement the subgrants awarded under paragraph (1).
+(h)
+General subgrant requirements
+(1)
+Minimum allocation for unserved areas or areas with substantial poverty
+An eligible entity, in awarding subgrants using grant funds received under this section, shall allocate not less than 50 percent of the grant funds received by the eligible entity toâ
+(A)
+the deployment of broadband networks to unserved areas, including high-cost areas (if applicable); or
+(B)
+other eligible uses in areas in which the percentage of individuals with a household income that is at or below 136 percent of the poverty line applicable to a family of the size involved (as determined under section 673(2) of the Community Services Block Grant Act (
+42 U.S.C. 9902(2)
+) is higher than the national percentage of such individuals.
+(2)
+Nonperformance stipulations
+An eligible entity shall stipulate, in any contract with a subgrantee for the use of grant funds received under this section, reasonable provisions for recovery of funds for nonperformance.
+(i)
+Broadband network deployment
+(1)
+Order of awards; priority
+An eligible entity, in awarding subgrants for the deployment of a broadband network using grant funds received under this section, as authorized under subsection (g)(1)(A)â
+(A)
+shall award funding in a manner thatâ
+(i)
+first provides funding for deployment of broadband infrastructure to unserved areas;
+(ii)
+after providing funding for deployment of broadband infrastructure to areas described in clause (i), provides funding for deployment of broadband infrastructure to underserved areas and eligible community anchor institutions; and
+(iii)
+after providing funding for deployment of broadband infrastructure to areas and institutions described in clause (ii), provides funding to other eligible areas;
+(B)
+may not exclude cooperatives, nonprofit organizations, public-private partnerships, private companies, public or private utilities, Tribally owned entities, or local governments from eligibility for such grant funds; and
+(C)
+shall give priority to an entity thatâ
+(i)
+will provide not less than 1 tier of gigabit-level broadband service;
+(ii)
+will, subject to a waiver from the Assistant Secretary due to unforeseeable, extenuating circumstancesâ
+(I)
+begin construction of the broadband network not later than 1 year after being awarded the subgrant; and
+(II)
+deploy the broadband network and begin providing broadband service to each customer that desires broadband service by a date that is earlier than the deadline under paragraph (4)(B); and
+(iii)
+in the case of a subgrant awarded by a State or territory, has a letter of endorsement for the project from the local government for each community that the project will serve.
+(2)
+Challenge process for classification of eligible areas and institutions
+(A)
+Challenge process
+After submitting an initial proposal under subsection (f)(2) and before allocating grant funds received under this section for the deployment of broadband networks, an eligible entity shall ensure a transparent, evidence-based, and expeditious challenge process under which a unit of local government, nonprofit organization, or other broadband service provider can challenge a determination made by the eligible entity in the initial proposal as to whether a particular area or community anchor institution within the jurisdiction of the eligible entity is eligible for the grant funds, including whether a particular area is an unserved area, underserved area, or other qualifying area.
+(B)
+Final identification; notification of funding eligibility
+After resolving each challenge under subparagraph (A), and not later than 30 days before allocating grant funds received under this section for the deployment of broadband networks, an eligible entity shall provide public notice of the final classification of each eligible area and eligible community anchor institution within the jurisdiction of the eligible entity.
+(C)
+Consultation with NTIA
+An eligible entity shall notify the Assistant Secretary of any modification to the initial proposal of the eligible entity submitted under subsection (f)(2) that is necessitated by a successful challenge under subparagraph (A) of this paragraph.
+(3)
+Subgrantee non-Federal share of broadband infrastructure deployment costs
+(A)
+In general
+(i)
+Matching requirement
+In allocating grant funds received under this section for deployment of broadband networks, an eligible entity other than an eligible Tribal entity shall require a subgrantee to provide a contribution, derived from non-Federal funds (or funds from a Federal regional commission or authority), of not less than 20 percent of project costs.
+(ii)
+Waiver
+The Assistant Secretary may reduce or waive the required matching contribution under clause (i).
+(B)
+Source of match
+A matching contribution under subparagraph (A)â
+(i)
+may be provided by an eligible entity, a unit of local government, a utility company, a cooperative, a nonprofit organization, a for-profit company, regional planning or governmental organization, or a Federal regional commission or authority; and
+(ii)
+may include in-kind contributions.
+(C)
+Definition
+For purposes of this paragraph, the term
+Federal regional commission or authority
+meansâ
+(i)
+the Appalachian Regional Commission;
+(ii)
+the Delta Regional Authority; and
+(iii)
+the Northern Border Regional Commission.
+(4)
+Deployment and provision of service requirements
+An entity that receives a subgrant under subsection (g)(1)(A) for the deployment of a broadband network shallâ
+(A)
+in providing broadband service using the networkâ
+(i)
+provide broadband serviceâ
+(I)
+except as provided in subclause (II)â
+(aa)
+at a speed of not less than 100 megabits per second for downloads and 100 megabits per second for uploads;
+(bb)
+with a latency that is sufficiently low to allow reasonably foreseeable, real-time, interactive applications; and
+(cc)
+with network outages that do not exceed, on average, 48 hours over any 365-day period; or
+(II)
+at a speed of not less than 100 megabits per second for downloads and 25 megabits per second for uploads, if the eligible entity that awarded the subgrant has received an exemption from the Assistant Secretary under subsection (f)(5);
+(ii)
+provide access to broadband service to each customer that desires broadband service in the area to which the subgrant applies; and
+(iii)
+to an eligible area, offer not less than 1 affordable broadband service plan for customers;
+(B)
+deploy the broadband network and begin providing broadband service to each customer that desires broadband serviceâ
+(i)
+except as provided in clause (ii), not later than 3 years after the date on which the entity receives the subgrant; or
+(ii)
+in the case ofâ
+(I)
+a subgrant awarded by an eligible Tribal entity, if exigencies require additional time, by a date specified by the eligible Tribal entity thatâ
+(aa)
+is later than the date required under clause (i); and
+(bb)
+may not be later than 5 years after the date on which the entity receives the subgrant; or
+(II)
+a subgrant awarded by an eligible entity other than an eligible Tribal entity, if a delay in receiving a Federal, State, or local permit, or a delay due to supply chain constraints, that is outside the control of the subgrantee makes compliance with the deadline under clause (i) impossible, by a date specified by the eligible entity thatâ
+(aa)
+is later than the date required under clause (i); and
+(bb)
+may not be later than 4 years after the date on which the entity receives the subgrant;
+(C)
+if laying middle-mile fiber or conduit underground or along a roadway, include interspersed access points at regular intervals;
+(D)
+once the network has been deployed, provide public notice, online and through other means, of that fact to the area in which broadband service has been provided and share the public notice with the eligible entity that awarded the subgrant; and
+(E)
+if the entity is no longer able to provide broadband service to the area covered by the subgrant at any time, sell the network capacity at a reasonable, wholesale rate on a nondiscriminatory basis to other broadband service providers or public sector entities.
+(5)
+Return of funds
+An entity that receives a subgrant from an eligible entity under subsection (g)(1)(A) and fails to comply with any requirement under this subsection shall return up to the entire amount of the subgrant to the eligible entity, at the discretion of the eligible entity.
+(6)
+Reasonable permitting fees
+If an entity that receives a subgrant under subsection (g)(1)(A) requires access to a right-of-way, including for a pole attachment, from the Federal Government or a State or local government in order to deploy the broadband network, the Federal Government or State or local government may only charge the entity a reasonable fee in an amount that is consistent with the amount of the fee that the Federal Government or State or local government charges for utility permits.
+(7)
+Additional requirements imposed by eligible entity
+Nothing in this subsection shall be construed to prohibit an eligible entity from imposing additional requirements relating to the use of a subgrant awarded under subsection (g)(1)(A) if the requirements do not conflict with this subsection, including byâ
+(A)
+increasing the minimum speed of broadband service that must be provided; or
+(B)
+imposing penalties on noncompliant subgrantees in addition to the penalty under paragraph (5).
+(8)
+Bankruptcy contingency
+An eligible entity that awards a subgrant to an entity under subsection (g)(1)(A) for the deployment of a broadband network shall enter into an agreement with the subgrantee that requires the subgrantee, in the case of bankruptcy, to commit to repay the full amount of the subgrant before fulfilling any other financial obligations, except for salaries, compensation, and severance payments for non-executive positions.
+(9)
+Standards
+An eligible entity may not award a subgrant to an entity under subsection (g)(1)(A) for the deployment of a broadband network unless the eligible entity has confirmed that the subgrantee has the financial, operational, and technical capacity to meet the buildout obligations of the project.
+(j)
+Reporting
+(1)
+Eligible entities
+(A)
+Initial report
+Not later than 180 days after receiving grant funds under this section, for the sole purposes of providing transparency and providing information to inform future Federal broadband planning, an eligible entity shall submit to the Assistant Secretary a report describingâ
+(i)
+the planned use of funds;
+(ii)
+the process of subgranting; and
+(iii)
+the establishment of appropriate mechanisms by the eligible entity to ensure compliance with the eligible uses prescribed under subsection (g).
+(B)
+Semiannual report
+Not later than 1 year after receiving grant funds under this section, and semiannually thereafter until the funds have been expended, an eligible entity shall submit to the Assistant Secretary a report, with respect to the 6-month period immediately preceding the report date, thatâ
+(i)
+describes how the eligible entity expended the funds; and
+(ii)
+certifies that the eligible entity complied with the requirements of this section and with any additional reporting requirements prescribed by the Assistant Secretary, includingâ
+(I)
+a description of each service provided with the grant funds; and
+(II)
+the number of locations at which broadband service was provided using the grant funds.
+(C)
+Final report
+Not later than 1 year after an eligible entity has expended all grant funds received under this section, the eligible entity shall submit to the Assistant Secretary a report thatâ
+(i)
+describes how the eligible entity expended the funds;
+(ii)
+includes each report that the eligible entity received from a subgrantee under paragraph (2); and
+(iii)
+certifies that the eligible entity complied with the requirements of this section and with any additional reporting requirements prescribed by the Assistant Secretary, includingâ
+(I)
+a description of each service provided with the grant funds; and
+(II)
+the number of locations at which, and residents for whom, broadband service was provided using the grant funds.
+(D)
+Provision to FCC and USDA
+Subject to the sole purposes described in subparagraph (A)(i), and subject to subsection (l), the Assistant Secretary shall enter into a memorandum of understanding with the Commission and the Department of Agriculture under which the Assistant Secretary provides the final reports received under subparagraph (C) to the Commission and the Department of Agriculture to be used when determining whether to award funds for the deployment of broadband under any program administered by those agencies.
+(2)
+Subgrantees
+(A)
+Semiannual report
+The recipient of a subgrant from an eligible entity under this section shall submit to the eligible entity a semiannual report for the duration of the subgrant to track the effectiveness of the use of funds provided.
+(B)
+Contents
+Each report submitted under subparagraph (A) shallâ
+(i)
+describe each type of project carried out using the subgrant and the duration of the subgrant;
+(ii)
+in the case of a broadband infrastructure projectâ
+(I)
+include a list of addresses or locations that constitute the service area that will be served by the broadband infrastructure to be constructed;
+(II)
+identify whether each address or location described in subclause (I) is residential, commercial, or a community anchor institution;
+(III)
+describe the types of facilities that have been constructed and installed;
+(IV)
+describe the peak and off-peak actual speeds of the broadband service being offered;
+(V)
+describe the maximum advertised speed of the broadband service being offered;
+(VI)
+describe the non-promotional prices, including any associated fees, charged for different tiers of broadband service being offered;
+(VII)
+include any other data that would be required to comply with the data and mapping collection standards of the Commission under section 1.7004 of title 47, Code of Federal Regulations, or any successor regulation, for broadband infrastructure projects; and
+(VIII)
+comply with any other reasonable reporting requirements determined by the eligible entity; and
+(iii)
+certify that the information in the report is accurate.
+(3)
+Standardization and coordination
+The Assistant Secretary and the Commission shall collaborate toâ
+(A)
+standardize and coordinate reporting of locations at which broadband service was provided using grant funds received under this section in accordance with title VIII of the Communications Act of 1934 (
+47 U.S.C. 641 et seq.
+); and
+(B)
+provide a standardized methodology to recipients of grants and subgrantees under this section for reporting the information described in subparagraph (A).
+(k)
+Technical assistance to eligible entities
+Upon request by an eligible entity, the Assistant Secretary shall provide technical assistance to support identification of eligible areas, submission of the initial proposal or final proposal, competitive awarding of subgrants, and oversight of subgrants under this section to ensure the efficient and effective use of funds.
+(l)
+Relation to other public funding
+Notwithstanding any other provision of lawâ
+(1)
+an entity that has received amounts from the Federal Government or a State or local government for the purpose of expanding access to broadband service may receive a subgrant under subsection (g) in accordance with this section; and
+(2)
+the receipt of a subgrant under subsection (g) by an entity described in paragraph (1) of this subsection shall not affect the eligibility of the entity to receive the amounts from the Federal Government or a State or local government described in that paragraph.
+(m)
+Supplement not supplant
+Grant funds awarded to an eligible entity under this section shall be used to supplement, and not supplant, the amounts that the eligible entity would otherwise make available for the purposes for which the grant funds may be used.
+(n)
+Sense of Congress regarding Federal agency coordination
+It is the sense of Congress that Federal agencies responsible for supporting broadband deployment, including the Commission, the Department of Commerce, and the Department of Agriculture, to the extent possible, should align the goals, application and reporting processes, and project requirements with respect to broadband deployment supported by those agencies.
+4.
+Preemption of State and local restrictions on municipal broadband
+Title I of the Communications Act of 1934 (
+47 U.S.C. 151 et seq.
+) is amended by adding at the end the following:
+14.
+Preemption of State and local restrictions on municipal broadband
+(a)
+Definitions
+In this sectionâ
+(1)
+the term
+advanced telecommunications capability
+has the meaning given the term in section 706(d) of the Telecommunications Act of 1996 (
+47 U.S.C. 1302(d)
+);
+(2)
+the term
+advanced telecommunications capability or services
+meansâ
+(A)
+advanced telecommunications capability; or
+(B)
+services using advanced telecommunications capability;
+(3)
+the term
+Indian Tribe
+has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 5304
+); and
+(4)
+the term
+public provider
+meansâ
+(A)
+a State or political subdivision thereof;
+(B)
+any agency, authority, or instrumentality of a State or political subdivision thereof, including an intergovernmental agency, authority, or instrumentality;
+(C)
+an Indian Tribe; or
+(D)
+any entity that is owned by, controlled by, or otherwise affiliated withâ
+(i)
+a State or political subdivision thereof;
+(ii)
+an agency, authority, or instrumentality of a State or political subdivision thereof, including an intergovernmental agency, authority, or instrumentality; or
+(iii)
+an Indian Tribe.
+(b)
+Preemption
+No statute, regulation, or other legal requirement of a State or political subdivision thereof may prohibit, or have the effect of prohibiting or substantially inhibiting, any public provider fromâ
+(1)
+providing telecommunications services or advanced telecommunications capability or services to any person or any public or private entity; or
+(2)
+deploying a network and infrastructure used to provide services, or capability and services, described in paragraph (1).
+.
+5.
+Report on future of Universal Service Fund
+(a)
+Definitions
+In this sectionâ
+(1)
+the term
+Commission
+means the Federal Communications Commission; and
+(2)
+the term
+universal service goals for broadband
+means the statutorily mandated goals of universal service for advanced telecommunications capability under section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+).
+(b)
+Evaluation
+Not later than 30 days after the date of enactment of this Act, the Commission shall commence a proceeding to evaluate the implications of this Act and the amendments made by this Act on how the Commission should achieve the universal service goals for broadband.
+(c)
+Report
+(1)
+In general
+Not later than 270 days after the date of enactment of this Act, the Commission shall submit to Congress a report on the options of the Commission for improving its effectiveness in achieving the universal service goals for broadband in light of this Act and the amendments made by this Act, and other legislation that addresses those goals.
+(2)
+Recommendations
+In the report submitted under paragraph (1), the Commission may make recommendations for Congress on further actions the Commission and Congress could take to improve the ability of the Commission to achieve the universal service goals for broadband.
+(3)
+Scope of universal service
+In submitting the report under paragraph (1), the Commissionâ
+(A)
+may not in any way reduce the congressional mandate to achieve the universal service goals for broadband; and
+(B)
+may provide recommendations for Congress to expand the universal service goals for broadband, if the Commission believes such an expansion is in the public interest.

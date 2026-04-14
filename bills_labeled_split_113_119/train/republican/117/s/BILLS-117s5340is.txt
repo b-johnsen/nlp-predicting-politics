@@ -1,0 +1,392 @@
+1.
+Short title
+This Act may be cited as the
+Stablecoin Transparency of Reserves and Uniform Safe Transactions Act of 2022
+or the
+Stablecoin TRUST Act of 2022
+.
+2.
+Definitions
+In this Act:
+(1)
+Appropriate Federal banking agency
+The term
+appropriate Federal banking agency
+â
+(A)
+has the meaning given the term in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+); and
+(B)
+includes the National Credit Union Administration.
+(2)
+Deposit
+The term
+deposit
+has the meaning given the term in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+).
+(3)
+Digital asset
+The term
+digital asset
+means any digital representation of value that is recorded on a cryptographically secured distributed ledger.
+(4)
+Insured depository institution
+The term
+insured depository institution
+has the meaning given the term in section 3 of the Federal Deposit Insurance Act (
+12 U.S.C. 1813
+).
+(5)
+Level 1 high-quality liquid asset
+The term
+level 1 high-quality liquid asset
+means an asset described in section 249.20(a) of title 12, Code of Federal Regulations.
+(6)
+Money transmitting business
+The term
+money transmitting business
+has the meaning given the term in section 5330 of title 31, United States Code.
+(7)
+National limited payment stablecoin issuer
+The term
+national limited payment stablecoin issuer
+means a person thatâ
+(A)
+issues payment stablecoins; and
+(B)
+receives a license from, and becomes subject to the regulatory standards established by, the Office of the Comptroller of the Currency under section 5244A of the Revised Statutes, as added by section 6 of this Act.
+(8)
+Non-depository trust company
+The term
+non-depository trust company
+means a trust company that does not receive deposits other than trust funds.
+(9)
+Payment stablecoin
+The term
+payment stablecoin
+means a digital asset thatâ
+(A)
+is designed to maintain a stable value relative to a fiat currency or currencies;
+(B)
+is convertible directly to fiat currency by the issuer;
+(C)
+is designed to be widely used as a medium of exchange;
+(D)
+is issued by a centralized entity;
+(E)
+does not inherently pay interest to the holder; and
+(F)
+is recorded on a public distributed ledger.
+(10)
+Payment stablecoin issuer
+The term
+payment stablecoin issuer
+means a person that issues a payment stablecoin under section 3(b) of this Act.
+(11)
+Registered public accounting firm
+The term
+registered public accounting firm
+has the meaning given the term in section 2(a) of the Sarbanes-Oxley Act of 2002 (
+15 U.S.C. 7201(a)
+).
+(12)
+State banking supervisor
+The term
+State banking supervisor
+means the commissioner, superintendent, or similar official of a State who is responsible for the chartering, regulation, and examination of depository institutions, trust companies, money transmitting businesses, and similar entities within the State.
+3.
+Issuance of payment stablecoins
+(a)
+In general
+Except as provided in subsection (b), it shall be unlawful for any person to issue a payment stablecoin.
+(b)
+Exceptions
+Subsection (a) shall not apply toâ
+(1)
+a money transmitting business, a non-depository trust company, or any other person that is authorized by a State banking supervisor to issue payment stablecoins;
+(2)
+a national limited payment stablecoin issuer;
+(3)
+a depository institution, as defined in section 19(b)(1) of the Federal Reserve Act (12 U.S.C 461(b)(1)); or
+(4)
+a national trust bank.
+(c)
+Joint supervision
+(1)
+In general
+If a person is authorized by the appropriate Federal banking agency and the applicable State banking supervisor to issue payment stablecoins, the person shall be jointly supervised by the appropriate Federal banking agency and the State banking supervisor.
+(2)
+Depository institutions
+A depository institution described in subsection (b)(3)â
+(A)
+may become a member bank of the Federal Reserve System or obtain deposit or share insurance; and
+(B)
+shall not be required to satisfy subparagraph (A) as a condition to operate.
+(d)
+Injunctive relief
+The Comptroller of the Currency may bring an action in the appropriate district court of the United States or the court of any territory of the United States for the enforcement of this section and such courts shall have jurisdiction and power to order and require compliance herewith, including through injunctive relief.
+(e)
+Federal reserve accounts and services
+Each Federal Reserve bank shall, upon application from a national limited payment stablecoin issuer or a payment stablecoin issuer that only engages in the business of issuing and redeeming payment stablecoins and engaging in activities incidental to such issuance or redemptionâ
+(1)
+establish and maintain an account for the payment stablecoin issuer; and
+(2)
+provide to the payment stablecoin issuerâ
+(A)
+the services listed in section 11A(b) of the Federal Reserve Act (
+12 U.S.C. 248a(b)
+); and
+(B)
+a deposit account in accordance with the first undesignated paragraph of section 13 of the Federal Reserve Act (
+12 U.S.C. 342
+).
+4.
+Disclosures, redemption policies, attestations, and permissible assets for payment stablecoin issuers
+(a)
+In general
+Any person described in section 3(b) that issues a payment stablecoin shallâ
+(1)
+publicly disclose the assets backing the payment stablecoin on a monthly basis;
+(2)
+adopt and publicly disclose policies for redeeming the payment stablecoin, including whether redemption requests will be met on demand or with a time lag;
+(3)
+undergo quarterly attestations by a registered public accounting firm and publicly disclose the results; and
+(4)
+attest that the assets backing the payment stablecoin do not materially diverge from those disclosed.
+(b)
+Filing of disclosures
+Disclosures described in subsection (a) shallâ
+(1)
+be filed with the Secretary of the Treasury; and
+(2)
+made publicly available on a Department of the Treasury website on a form which shall include an executive summary not longer than 1 page in length.
+(c)
+Rulemaking
+The Secretary of the Treasury may promulgate regulations under section 553 of title 5, United States Code, to develop a template form for ensuring that the disclosures described in subsection (a) are complete, clear, and understandable.
+(d)
+Permissible assets
+Payment stablecoins issued by a payment stablecoin issuer shall be backed by assetsâ
+(1)
+with a market value equal to not less than 100 percent of the par value of the payment stablecoins outstanding; and
+(2)
+that areâ
+(A)
+level 1 high-quality liquid assets, denominated in United States dollars;
+(B)
+United States coins and currency, as described in section 5103 of title 31, United States Code; and
+(C)
+any deposit with an insured depository institution.
+5.
+Equal treatment for depository institutions
+(a)
+National banking associations
+Section 5136 of the Revised Statutes (
+12 U.S.C. 24
+) is amended by adding at the end the following:
+Twelfth. To issue payment stablecoins.
+.
+(b)
+Segregation
+A depository institution, as defined in section 19(b)(1) of the Federal Reserve Act (
+12 U.S.C. 461(b)(1)
+)â
+(1)
+may segregate into a separate legal entity the issuance of payment stablecoins and management of such payment stablecoin reserve assets from other activities; and
+(2)
+that elects to segregate under paragraph (1), or which only issues payment stablecoins or manages payment stablecoin reserve assetsâ
+(A)
+shall be subject to the same tailored regulatory standards as a national limited payment stablecoin issuer for that activity; and
+(B)
+shall remain subject to regulation, examination, and supervision by the same regulator as the depository institution.
+6.
+National limited payment stablecoin issuers
+The Revised Statutes are amended by inserting after section 5244 (
+12 U.S.C. 43
+) the following:
+5244A.
+National limited payment stablecoin issuers
+(a)
+Application
+An entity may submit to the Comptroller of the Currency an application for a national limited payment stablecoin issuer license.
+(b)
+Authority
+A license for a national limited payment stablecoin issuer shall authorize the national limited payment stablecoin issuer to issue and redeem payment stablecoins and engage in any activities incidental to such issuance or redemption, including making a market in such payment stablecoin and holding and managing the reserve assets of such payment stablecoins.
+(c)
+Limitation on other activities
+A national limited payment stablecoin issuer shall not engage in any activities, such as making loans or other extensions of credit, other than those authorized by subsection (b).
+(d)
+Review
+(1)
+In general
+Except as provided in paragraph (2), the Comptroller of the Currency shall grant applications for national limited payment stablecoin issuer licenses not later than 90 days after the date on which the application is submitted.
+(2)
+Considerations
+(A)
+In general
+The Comptroller of the Currency may deny an application for a license under this subsection only if the Comptroller determines that the activities of the applicant would be unsafe or unsound based on the factors described in subparagraph (B).
+(B)
+Factors
+The factors described in this subparagraph are as follows:
+(i)
+The financial condition and business plan of the applicant.
+(ii)
+The general character and fitness of the management of the applicant.
+(iii)
+The risks presented and the potential benefits that could be delivered to consumers.
+(3)
+Default
+If the Comptroller of the Currency fails to approve or deny an application before the expiration of the 90-day period under paragraph (1), the application shall be deemed to have been approved.
+(4)
+Response
+If the Comptroller of the Currency denies an application under this section, the Comptroller shall respond to the applicant with a detailed written explanation for such denial.
+(e)
+Corporate governance
+A national limited payment stablecoin issuer may elect, by designating in the bylaws of the issuer, to follow the corporate governance provisions ofâ
+(1)
+the law of the State in which the issuer is incorporated;
+(2)
+the law of the State in which the main office of the issuer is located;
+(3)
+chapter 1
+of title 8 of the Delaware Code; or
+(4)
+the Model Business Corporation Act.
+(f)
+Supervision
+A license for a national limited payment stablecoin issuer shall permit supervision, examination, and regulation by the Comptroller of the Currency of only the legal entity that issues payment stablecoins.
+(g)
+Regulations
+The Office of the Comptroller of the Currency may establish only the following regulations, in accordance with section 553 of title 5, United States Code, for national limited payment stablecoin issuers:
+(1)
+Capital requirements which shall not exceed 6 months of operating expenses.
+(2)
+Liquidity requirements.
+(3)
+Governance and risk-management requirements tailored to the business model and risk profile of national limited payment stablecoin issuers.
+(h)
+Enforcement
+If the Comptroller of the Currency determines that a national limited payment stablecoin issuer has violated the requirements of this subsection or any other applicable law (including regulations), the Comptroller of the Currency may issue a temporary order requiring the national limited payment stablecoin issuers toâ
+(1)
+cease and desist from any such violation; and
+(2)
+take affirmative action to prevent or remedy such violation.
+.
+7.
+Exemption from securities requirements
+(a)
+Securities
+(1)
+Securities act of 1933
+Section 2(a)(1) of the Securities Act of 1933 (
+15 U.S.C. 77b(a)(1)
+) is amended by adding at the end the following:
+The term
+security
+does not include a payment stablecoin, as that term is defined in section 2 of the
+Stablecoin TRUST Act of 2022
+.
+.
+(2)
+Securities exchange act of 1934
+Section 3(a)(10) of the Securities Exchange Act of 1934 (
+15 U.S.C. 78c(a)(10)
+) is amended by adding before the period at the end the following:
+, and shall also not include a payment stablecoin, as that term is defined in section 2 of the
+Stablecoin TRUST Act of 2022
+.
+(3)
+Investment company act of 1940
+Section 2(a)(36) of the Investment Company Act of 1940 (
+15 U.S.C. 80aâ2(a)(36)
+) is amended by adding at the end the following:
+The term
+security
+does not include a payment stablecoin, as that term is defined in section 2 of the
+Stablecoin TRUST Act of 2022
+.
+.
+(4)
+Investment advisers act of 1940
+Section 202(a)(18) of the Investment Advisers Act of 1940 (
+15 U.S.C. 80bâ2(a)(18)
+) is amended by adding at the end the following:
+The term
+security
+does not include a payment stablecoin, as that term is defined in section 2 of the
+Stablecoin TRUST Act of 2022
+.
+.
+(b)
+Investment company
+Section 3(c) of the Investment Company Act of 1940 (
+15 U.S.C. 80aâ3(c)
+) is amended by adding at the end the following:
+(15)
+Any payment stablecoin issuer, as that term is defined in section 2 of the
+Stablecoin TRUST Act of 2022
+.
+.
+(c)
+Investment adviser
+Section 202(a)(11) of the Investment Advisers Act of 1940 (
+15 U.S.C. 80bâ2(a)(11)
+) is amendedâ
+(1)
+by striking
+;; (G)
+and inserting
+; (G)
+;
+(2)
+by striking
+or (H)
+and inserting
+(H)
+; and
+(3)
+by inserting
+; or (I) any payment stablecoin issuer, defined in section 2 of the
+Stablecoin TRUST Act of 2022
+before the period at the end.
+8.
+Privacy protections for digital assets and payment stablecoin users
+(a)
+Exemption from reporting requirements
+The Secretary of the Treasury may not collect or mandate the collection of nonpublic information about digital asset transactions unless the information isâ
+(1)
+particularly described in a search warrant granted by a judge upon a finding of probable cause that 1 or more of the participants to the transaction committed or is committing a crime; or
+(2)
+voluntarily provided by a customer of a financial institution, business, or other third party and held for a legitimate business purpose by that financial institution, business, or third party.
+(b)
+Applicability of other laws
+A national limited payment stablecoin issuer shall be subject to title V of the Gramm-Leach-Bliley Act (
+15 U.S.C. 6801 et seq.
+).
+(c)
+Rule of construction
+Nothing in this section may be construed to limitâ
+(1)
+any duty to report taxable income;
+(2)
+any duty to disclose foreign account ownership; or
+(3)
+the ability of the Internal Revenue Service to conduct investigations pursuant to a warrant or other regular legal process.
+9.
+Treatment of insolvent payment stablecoin issuers
+In any insolvency proceeding, including any proceeding under title 11, United States Code, or any insolvency proceeding by an appropriate Federal banking agency or a State banking supervisor with respect to a payment stablecoin issuer, a claim of a person holding payment stablecoins issued by the payment stablecoin issuer shall have priority over all other claims against the payment stablecoin issuer.
+10.
+Rules of construction
+(a)
+Applicability to other instruments
+Nothing in sections 2 through 6 may be construed as restricting activities involving instruments other than payment stablecoins.
+(b)
+Relation to State and Federal authority
+Nothing in this Act may be construed asâ
+(1)
+preventing a State banking supervisor from imposing additional or stricter regulatory standards on a person licensed by the State banking supervisor to issue payment stablecoins;
+(2)
+superseding any requirement of State law relating to money transmitting businesses operating in that State, other than for payment stablecoin issuers; or
+(3)
+limiting the authority of an insured depository institution to engage in activities permissible pursuant to applicable State and Federal law, including accepting or receiving deposits and issuing digital assets that represent deposits.

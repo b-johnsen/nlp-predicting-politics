@@ -1,0 +1,84 @@
+1.
+Protection of 2020 recovery rebates
+(a)
+In general
+Subsection (d) of section 2201 of the CARES Act (
+Public Law 116â136
+) is amendedâ
+(1)
+by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), and by moving such subparagraphs 2 ems to the right,
+(2)
+by striking
+reduction or offset
+.âAny credit
+and inserting â
+reduction, offset, garnishment, etc
+.â
+(1)
+In general
+Any credit
+, and
+(3)
+by adding at the end the following new paragraphs:
+(2)
+Assignment of benefits
+(A)
+In general
+The right of any person to any applicable payment shall not be transferable or assignable, at law or in equity, and no applicable payment shall be subject to, execution, levy, attachment, garnishment, or other legal process, or the operation of any bankruptcy or insolvency law.
+(B)
+Encoding of payments
+As soon as practicable, but not earlier than 10 days after the date of the enactment of this paragraph, in the case of an applicable payment that is paid electronically by direct deposit through the Automated Clearing House (ACH) network, the Secretary of the Treasury (or the Secretary's delegate) shallâ
+(i)
+issue the payment using a unique identifier that is reasonably sufficient to allow a financial institution to identify the payment as an applicable payment, and
+(ii)
+further encode the payment pursuant to the same specifications as required for a benefit payment defined in section 212.3 of title 31, Code of Federal Regulations.
+(C)
+Garnishment
+(i)
+Encoded payments
+In the case of a garnishment order received after the date that is 10 days after the date of the enactment of this paragraph and that applies to an account that has received an applicable payment that is encoded as provided in subparagraph (B), a financial institution shall follow the requirements and procedures set forth in part 212 of title 31, Code of Federal Regulations, except a financial institution shall not, with regard to any applicable payment, be required to provide the notice referenced in sections 212.6 and 212.7 of title 31, Code of Federal Regulations. This paragraph shall not alter the status of applicable payments as tax refunds or other nonbenefit payments for purpose of any reclamation rights of the Department of Treasury or the Internal Revenue Service as per part 210 of title 31 of the Code of Federal Regulations.
+(ii)
+Other payments
+If a financial institution receives a garnishment order, other than an order that has been served by the United States or an order that has been served by a Federal, State, or local child support enforcement agency, that has been received by a financial institution after the date that is 10 days after the date of the enactment of this paragraph and that applies to an account into which an applicable payment that has not been encoded as provided in subparagraph (B) has been deposited electronically or by an applicable payment that has been deposited by check on any date in the lookback period, the financial institution, upon the request of the account holder, shall treat the amount of the funds in the account at the time of the request, up to the amount of the applicable payment (in addition to any amounts otherwise protected under part 212 of title 31, Code of Federal Regulations), as exempt from a garnishment order without requiring the consent of the party serving the garnishment order or the judgment creditor.
+(iii)
+Liability
+A financial institution that acts in good faith in reliance on clauses (i) or (ii) shall not be subject to liability or regulatory action under any Federal or State law, regulation, court or other order, or regulatory interpretation for actions concerning any applicable payments.
+(D)
+Definitions
+For purposes of this paragraphâ
+(i)
+Account holder
+The term
+account holder
+means a natural person whose name appears in a financial institutionâs records as the direct or beneficial owner of an account.
+(ii)
+Account review
+The term
+account review
+means the process of examining deposits in an account to determine if an applicable payment has been deposited into the account during the lookback period. The financial institution shall perform the account review following the procedures outlined in section 212.5 of title 31, Code of Federal Regulations and in accordance with the requirements of section 212.6 of title 31, Code of Federal Regulations.
+(iii)
+Applicable payment
+The term
+applicable payment
+means any payment of credit or refund by reason of
+section 6428
+of the Internal Revenue Code of 1986 (as so added) or by reason of subsection (c) of this section.
+(iv)
+Garnishment
+The term
+garnishment
+means execution, levy, attachment, garnishment, or other legal process.
+(v)
+Garnishment order
+The term
+garnishment order
+means a writ, order, notice, summons, judgment, levy, or similar written instruction issued by a court, a State or State agency, a municipality or municipal corporation, or a State child support enforcement agency, including a lien arising by operation of law for overdue child support or an order to freeze the assets in an account, to effect a garnishment against a debtor.
+(vi)
+Lookback period
+The term
+lookback period
+means the two month period that begins on the date preceding the date of account review and ends on the corresponding date of the month two months earlier, or on the last date of the month two months earlier if the corresponding date does not exist.
+.
+(b)
+Effective date
+The amendments made by this section shall take effect on the date of the enactment of this Act.

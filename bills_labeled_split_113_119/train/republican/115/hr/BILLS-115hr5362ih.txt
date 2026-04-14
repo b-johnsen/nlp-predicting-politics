@@ -1,0 +1,96 @@
+1.
+Short title
+This Act may be cited as the
+IRS Information Technology Accountability Act
+.
+2.
+Management of Internal Revenue Service information technology
+(a)
+Duties and responsibilities of Internal Revenue Service Chief Information Officer
+Section 7803
+of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+(e)
+Internal Revenue Service Chief Information Officer
+(1)
+In general
+There shall be in the Internal Revenue Service an Internal Revenue Service Chief Information Officer (hereafter referred to in this subsection as the
+IRS CIO
+) who shall be appointed by the Commissioner of Internal Revenue after consultation with the Chief Information Officer of the Department of the Treasury.
+(2)
+Centralized responsibility for Internal Revenue Service information technology
+The Commissioner of Internal Revenue (and the Secretary) shall act through the IRS CIO with respect to all development, implementation, and maintenance of information technology for the Internal Revenue Service. Any reference in this subsection to the IRS CIO which directs the IRS CIO to take any action, or to assume any responsibility, shall be treated as a reference to the Commissioner of Internal Revenue acting through the IRS CIO.
+(3)
+General duties and responsibilities
+The IRS CIO shallâ
+(A)
+be responsible for the development, implementation, and maintenance of information technology for the Internal Revenue Service,
+(B)
+ensure that the information technology of the Internal Revenue Service is secure and integrated,
+(C)
+maintain operational control of all information technology for the Internal Revenue Service,
+(D)
+be the principal advocate for the information technology needs of the Internal Revenue Service, and
+(E)
+consult with the Chief Procurement Officer of the Internal Revenue Service to ensure that the information technology acquired for the Internal Revenue Service is consistent withâ
+(i)
+the goals and requirements specified in subparagraphs (A) through (D), and
+(ii)
+the strategic plan developed under paragraph (4).
+(4)
+Strategic plan
+(A)
+In general
+The IRS CIO shall develop and implement a multiyear strategic plan for the information technology needs of the Internal Revenue Service. Such plan shallâ
+(i)
+include performance measurements of such technology and of the implementation of such plan,
+(ii)
+include a plan for an integrated enterprise architecture of the information technology of the Internal Revenue Service,
+(iii)
+include and take into account the resources needed to accomplish such plan, and
+(iv)
+align with the needs and strategic plan of the Internal Revenue Service.
+(B)
+Plan updates
+The IRS CIO shall, not less frequently than annually, review and update the strategic plan under subparagraph (A) (including the plan for an integrated enterprise architecture described in subparagraph (A)(ii)) to take into account the development of new information technology and the needs of the Internal Revenue Service.
+(5)
+Scope of authority
+(A)
+Information technology
+For purposes of this subsection, the term
+information technology
+has the meaning given such term by section 11101 of title 40, United States Code.
+(B)
+Internal Revenue Service
+Any reference in this subsection to the Internal Revenue Service includes a reference to all components of the Internal Revenue Service, includingâ
+(i)
+the Office of the Taxpayer Advocate, and
+(ii)
+except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
+.
+(b)
+Independent verification and validation of the Customer Account Data Engine 2 and Enterprise Case
+Management System
+The Commissioner of Internal Revenue shall enter into a contract with an independent reviewer to verify and validate the implementation plans (including the performance milestones and cost estimates included in such plans) developed for the Customer Account Data Engine 2 and the Enterprise Case Management System. Such contract shall require that such verification and validation be completed not later than the date which is 1 year after the date of the enactment of this Act.
+(c)
+Coordination of IRS CIO and Chief Procurement Officer of the Internal Revenue Service
+(1)
+In general
+The Chief Procurement Officer of the Internal Revenue Service shallâ
+(A)
+identify all significant IRS information technology acquisitions and provide written notification to the Internal Revenue Service Chief Information Officer of each such acquisition in advance of such acquisition, and
+(B)
+regularly consult with the Internal Revenue Service Chief Information Officer regarding acquisitions of information technology for the Internal Revenue Service, including meeting with the Internal Revenue Service Chief Information Officer regarding such acquisitions upon request.
+(2)
+Significant IRS information technology acquisitions
+For purposes of this subsection, the term
+significant IRS information technology acquisitions
+meansâ
+(A)
+any acquisition of information technology for the Internal Revenue Service in excess of $1,000,000, and
+(B)
+such other acquisitions of information technology for the Internal Revenue Service (or categories of such acquisitions) as the Internal Revenue Service Chief Information Officer, in consultation with the Chief Procurement Officer of the Internal Revenue Service, may identify.
+(3)
+Scope
+Terms used in this subsection which are also used in
+section 7803(e)
+of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall have the same meaning as when used in such section.

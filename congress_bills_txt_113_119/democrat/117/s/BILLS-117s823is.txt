@@ -1,0 +1,95 @@
+1.
+Protection of 2021 recovery rebates
+(a)
+In general
+Subsection (c) of section 9601 of the American Rescue Plan Act of 2021 (
+Public Law 117â2
+) is amendedâ
+(1)
+in paragraph (2), by striking subparagraphs (A) and (B) and inserting the following:
+(A)
+subject to reduction or offset pursuant to section 3716 or 3720A of title 31, United States Code, or similar authority permitting offset,
+(B)
+subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of
+section 6402
+of the Internal Revenue Code of 1986, or
+(C)
+reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.
+, and
+(2)
+by adding at the end the following new paragraph:
+(4)
+Assignment of benefits
+(A)
+In general
+The right of any person to any applicable payment shall not be transferable or assignable, at law or in equity, and no applicable payment shall be subject to, execution, levy, attachment, garnishment, or other legal process, or the operation of any bankruptcy or insolvency law.
+(B)
+Encoding of payments
+In the case of an applicable payment described in subparagraph (E)(iii)(I) that is certified for payment after the date of the enactment of this paragraph under section 3528 of title 31, United States Code, and that is paid electronically by direct deposit through the Automated Clearing House (ACH) network, the Secretary of the Treasury (or the Secretary's delegate) shallâ
+(i)
+issue the payment using a unique identifier that is reasonably sufficient to allow a financial institution to identify the payment as an applicable payment, and
+(ii)
+further encode the payment pursuant to the same specifications as required for a benefit payment defined in section 212.3 of title 31, Code of Federal Regulations.
+(C)
+Garnishment
+(i)
+Encoded payments
+In the case of a garnishment order that applies to an account that has received an applicable payment that is encoded as provided in subparagraph (B), a financial institution shall follow the requirements and procedures set forth in part 212 of title 31, Code of Federal Regulations, exceptâ
+(I)
+notwithstanding section 212.4 of title 31, Code of Federal Regulations (and except as provided in subclause (II)), a financial institution shall not fail to follow the procedures of sections 212.5 and 212.6 of such title with respect to a garnishment order merely because such order has attached, or includes, a notice of right to garnish Federal benefits issued by a State child support enforcement agency, and
+(II)
+a financial institution shall not, with regard to any applicable payment, be required to provide the notice referenced in sections 212.6 and 212.7 of title 31, Code of Federal Regulations.
+(ii)
+Other payments
+In the case of a garnishment order (other than an order that has been served by the United States) that has been received by a financial institution and that applies to an account into which an applicable payment that has not been encoded as provided in subparagraph (B) has been deposited electronically on any date during the lookback period or into which an applicable payment that has been deposited by check on any date in the lookback period, the financial institution, upon the request of the account holder, shall treat the amount of the funds in the account at the time of the request, up to the amount of the applicable payment (in addition to any amounts otherwise protected under part 212 of title 31, Code of Federal Regulations), as exempt from a garnishment order without requiring the consent of the party serving the garnishment order or the judgment creditor.
+(iii)
+Liability
+A financial institution that acts in good faith in reliance on clauses (i) or (ii) shall not be subject to liability or regulatory action under any Federal or State law, regulation, court or other order, or regulatory interpretation for actions concerning any applicable payments.
+(D)
+No reclamation rights
+This paragraph shall not alter the status of applicable payments as tax refunds or other nonbenefit payments for purpose of any reclamation rights of the Department of the Treasury or the Internal Revenue Service as per part 210 of title 31, Code of Federal Regulations.
+(E)
+Definitions
+For purposes of this paragraphâ
+(i)
+Account holder
+The term
+account holder
+means a natural person whose name appears in a financial institutionâs records as the direct or beneficial owner of an account.
+(ii)
+Account review
+The term
+account review
+means the process of examining deposits in an account to determine if an applicable payment has been deposited into the account during the lookback period. The financial institution shall perform the account review following the procedures outlined in section 212.5 of title 31, Code of Federal Regulations and in accordance with the requirements of section 212.6 of title 31, Code of Federal Regulations.
+(iii)
+Applicable payment
+The term
+applicable payment
+meansâ
+(I)
+any advance refund amount paid pursuant to
+section 6428B(g)
+of the Internal Revenue Code of 1986,
+(II)
+any payment made by a possession of the United States with a mirror code tax system (as defined in subsection (b) of this section) pursuant to such subsection which corresponds to a payment described in subclause (I), and
+(III)
+any payment made by a possession of the United States without a mirror code tax system (as so defined) pursuant to subsection (b) of this section.
+(iv)
+Garnishment
+The term
+garnishment
+means execution, levy, attachment, garnishment, or other legal process.
+(v)
+Garnishment order
+The term
+garnishment order
+means a writ, order, notice, summons, judgment, levy, or similar written instruction issued by a court, a State or State agency, a municipality or municipal corporation, or a State child support enforcement agency, including a lien arising by operation of law for overdue child support or an order to freeze the assets in an account, to effect a garnishment against a debtor.
+(vi)
+Lookback period
+The term
+lookback period
+means the two-month period that begins on the date preceding the date of account review and ends on the corresponding date of the month two months earlier, or on the last date of the month two months earlier if the corresponding date does not exist.
+.
+(b)
+Effective date
+The amendment made by this section shall take effect on the date of the enactment of this Act.

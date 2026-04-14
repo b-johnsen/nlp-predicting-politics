@@ -1,0 +1,581 @@
+1.
+Short title
+This Act may be cited as the
+American Energy Efficiency Act of 2019
+.
+2.
+Energy efficiency resource standard for retail electricity and natural gas suppliers
+(a)
+In general
+Title VI of the Public Utility Regulatory Policies Act of 1978 is amended by adding after section 609 (
+7 U.S.C. 918c
+) the following:
+610.
+Federal energy efficiency resource standard for retail electricity and natural gas suppliers
+(a)
+Definitions
+In this section:
+(1)
+ASHRAE; ANSI; IESNA
+The terms
+ASHRAE
+,
+ANSI
+, and
+IESNA
+mean the American Society of Heating, Refrigerating and Air-Conditioning Engineers, the American National Standards Institute, and the Illuminating Engineering Society of North America, respectively.
+(2)
+Base quantity
+(A)
+In general
+The term
+base quantity
+, with respect to a retail electricity supplier or retail natural gas supplier, means, for each calendar year for which a performance standard is established under subsection (c), the average annual quantity of electricity or natural gas delivered by the retail electricity supplier or retail natural gas supplier to retail customers during the 3 calendar years immediately preceding the first year that compliance is required under subsection (c)(1).
+(B)
+Exclusion
+The term
+base quantity
+, with respect to a retail natural gas supplier, does not include natural gas delivered for purposes of electricity generation.
+(3)
+CHP Savings
+The term
+CHP savings
+meansâ
+(A)
+CHP system savings from a combined heat and power system that commences operation after the date of enactment of this section; and
+(B)
+the increase in CHP system savings from upgrading or replacing, after the date of enactment of this section, a combined heat and power system that commenced operation on or before the date of enactment of this section.
+(4)
+CHP system savings
+The term
+CHP system savings
+means the electric output, and the electricity saved due to the mechanical output, of a combined heat and power system, adjusted to reflect any increase in fuel consumption by that system as compared to the fuel that would have been required to produce an equivalent useful thermal energy output in a separate thermal-only system, as determined in accordance with regulations promulgated by the Secretary.
+(5)
+Combined heat and power system
+The term
+combined heat and power system
+means a system that uses the same energy source for the generation of electrical or mechanical power and the production of steam or another form of useful thermal energy, ifâ
+(A)
+the system meets all applicable requirements relating to efficiency and other operating characteristics that the Secretary promulgates by regulation; and
+(B)
+the net quantity of electricity sold wholesale by the facility using the system does not exceed 50 percent of the total quantity of electricity generated annually by the system.
+(6)
+Cost-effective
+The term
+cost-effective
+means, with respect to an energy efficiency measure, that the measure achieves, directly to the energy consumer and to the economy, a net present value of economic benefits over the life of the measure that is greater than the net present value of the cost of the measure over the life of the measure, using a societal benefit-cost test calculated using the lower ofâ
+(A)
+a utility weighted average cost of capital; or
+(B)
+a social discount rate of 3 percent.
+(7)
+Customer facility savings
+The term
+customer facility savings
+means a reduction in end-use electricity or natural gas consumption (including waste heat energy savings) at a facility of an end-use consumer of electricity or natural gas served by a retail electricity supplier or natural gas supplier, as compared toâ
+(A)
+in the case of a new facility, consumption at a reference facility of average efficiency;
+(B)
+in the case of an existing facility, consumption at the facility during a base period of not less than 1 year;
+(C)
+in the case of new equipment that replaces existing equipment at the end of the useful life of the existing equipment, consumption by new equipment of average efficiency of the same equipment type, except that customer savings under this subparagraph shall not be counted towards customer savings under subparagraph (A) or (B); and
+(D)
+in the case of new equipment that replaces existing equipment with remaining useful lifeâ
+(i)
+consumption of the existing equipment for the remaining useful life of the equipment; and
+(ii)
+thereafter, consumption of new equipment of average efficiency.
+(8)
+Electricity savings
+The term
+electricity savings
+means reductions in electricity consumption achieved through measures implemented after the date of enactment of this section, as determined in accordance with regulations promulgated by the Secretary, that are limited toâ
+(A)
+customer facility savings of electricity, adjusted to reflect any associated increase in fuel consumption at the facility;
+(B)
+reductions in distribution system losses of electricity achieved by a retail electricity supplier, as compared to losses attributable to new or replacement distribution system equipment of average efficiency, as defined in regulations promulgated by the Secretary;
+(C)
+CHP savings;
+(D)
+State and local codes and standards savings of electricity; and
+(E)
+fuel switching energy savings that results in net savings of source energy, as defined in regulations promulgated by the Secretary.
+(9)
+Fuel switching energy savings
+(A)
+In general
+The term
+fuel-switching energy savings
+means net energy savings, calculated in accordance with subparagraph (B), from end-user switches from 1 energy source to another, as determined in accordance with regulations promulgated by the Secretary.
+(B)
+Calculation
+For purposes of calculating fuel-switching net energy savingsâ
+(i)
+electricity use shall be evaluated based on the average quantity of fuel burned at a new power plant, taking into account existing and planned renewable energy generators to provide each kilowatt hour of electricity;
+(ii)
+electricity and natural gas use shall include losses in the transmission and distribution system; and
+(iii)
+fuel-switching that is not cost-effective to the end-user shall not be counted.
+(10)
+Natural gas savings
+The term
+natural gas savings
+means reductions in natural gas consumption from measures implemented after the date of enactment of this section, as determined in accordance with regulations promulgated by the Secretary, that are limited toâ
+(A)
+customer facility savings of natural gas, adjusted to reflect any associated increase in electricity consumption or consumption of other fuels at the facility;
+(B)
+reductions in leakage, operational losses, and consumption of natural gas fuel to operate a gas distribution system, achieved by a retail natural gas supplier, as compared to similar leakage, losses, and consumption during a base period of not less than 1 year;
+(C)
+State and local codes and standards savings of natural gas; and
+(D)
+fuel switching energy savings that result in net savings of source energy, as defined in regulations promulgated by the Secretary.
+(11)
+Reporting period
+The term
+reporting period
+meansâ
+(A)
+calendar year 2021; and
+(B)
+each successive 2-calendar-year period thereafter.
+(12)
+Retail electricity supplier
+(A)
+In general
+The term
+retail electricity supplier
+means, for any given calendar year, an electric utility that delivers not less than 2,000,000 megawatt hours of electric energy to electric consumers for purposes other than resale during the preceding calendar year.
+(B)
+Inclusions and limitations
+For purposes of determining whether an electric utility qualifies as a retail electricity supplier under subparagraph (A)â
+(i)
+deliveries by any affiliate of an electric utility to electric consumers for purposes other than resale shall be considered to be deliveries by the electric utility; and
+(ii)
+deliveries by any electric utility to a lessee, tenant, or affiliate of the electric utility shall not be considered to be deliveries to electric consumers.
+(13)
+Retail natural gas supplier
+(A)
+In general
+The term
+retail natural gas supplier
+means, for any given calendar year, a local distribution company (as defined in section 2 of the Natural Gas Policy Act of 1978 (
+15 U.S.C. 3301
+)), that delivered to natural gas consumers more than 5,000,000,000 cubic feet of natural gas for purposes other than resale during the preceding calendar year.
+(B)
+Inclusions and limitations
+For purposes of determining whether a person qualifies as a retail natural gas supplier under subparagraph (A)â
+(i)
+deliveries of natural gas by any affiliate of a local distribution company to consumers for purposes other than resale shall be considered to be deliveries by the local distribution company; and
+(ii)
+deliveries of natural gas to a lessee, tenant, or affiliate of a local distribution company shall not be considered to be deliveries to natural gas consumers.
+(14)
+State and local codes and standards savings
+(A)
+In general
+The term
+State and local codes and standards savings
+means a reduction, due to the adoption and implementation, after the date of enactment of this section, of new or revised appliance and equipment efficiency standards or building energy codes, inâ
+(i)
+end-use electricity consumption for a retail electricity supplier; or
+(ii)
+natural gas consumption in the service territory of a retail natural gas supplier.
+(B)
+Baselines
+In calculating State and local codes and standards savings under subparagraph (A)â
+(i)
+the baseline for calculating savings from a new or revised building code shall be the more stringent ofâ
+(I)
+(aa)
+the 2015 International Energy Conservation Code for residential buildings; or
+(bb)
+the ASHRAE/ANSI/IESNA Standard 90.1â2013 for commercial buildings; or
+(II)
+the applicable State building code in effect on the date of enactment of this section; and
+(ii)
+the baseline for calculating savings from a new or revised appliance standard shall be the estimated average efficiency of new appliances in the applicable 1 or more categories during the 1-year period preceding the date on which the new or revised standard is adopted.
+(15)
+Third-party efficiency provider
+The term
+third-party efficiency provider
+means any retailer, building owner, energy service company, financial institution, or other commercial, industrial, or nonprofit entity that is capable of providing electricity savings or natural gas savings in accordance with any procedures, standards, and rules established by the Secretary under subsections (b)(1)(D) and (d).
+(16)
+Waste heat energy savings
+The term
+waste heat energy savings
+means the mechanical or thermal energy used at a facility or the electric output of a facility, adjusted to reflect any associated increase in fuel consumption, that results from a modification of an industrial, commercial, or institutional system that commenced operation before the date of enactment of this section, in order to recapture mechanical or thermal energy that would otherwise be wasted, as determined in accordance with regulations promulgated by the Secretary.
+(b)
+Establishment of program
+(1)
+Regulations
+Not later than 1 year after the date of enactment of this section, the Secretary shall, by regulation, establish a program to implement and enforce the requirements of this section, includingâ
+(A)
+by establishing evaluation, measurement, and verification procedures and standards under subsection (d);
+(B)
+by establishing requirements under which retail electricity suppliers and retail natural gas suppliers shallâ
+(i)
+demonstrate, document, and report the compliance of the retail electricity suppliers and retail natural gas suppliers with the performance standards under subsection (c); and
+(ii)
+estimate the impact of the standards on current and future electricity and natural gas use in the service territories of the suppliers;
+(C)
+by establishing requirements governing applications for, and implementation of, delegated State administration under subsection (f); and
+(D)
+by establishing rules to govern transfers of electricity or natural gas savingsâ
+(i)
+between suppliers and third-party efficiency providers serving the same State; and
+(ii)
+between suppliers and third-party efficiency providers serving different States.
+(2)
+National Academy of Sciences study
+In establishing and implementing this section, the Secretary shall take into consideration a report published under subsection (d)(2)(C).
+(3)
+Coordination with State programs
+In establishing and implementing this section, the Secretary shall, to the maximum extent practicable, preserve the integrity and incorporate best practices of existing State energy efficiency programs.
+(4)
+Savings programs for low-income customers
+In implementing this section, the Secretary shall encourage retail electricity suppliers and retail natural gas suppliers to ensure that a portion of the customer facility savings achieved for a calendar year shall result from programs that target households that are at or below 200 percent of the poverty line (as defined in section 673 of the Community Services Block Grant Act (
+42 U.S.C. 9902
+)).
+(c)
+Performance standards
+(1)
+Compliance obligation
+Not later than May 1 of the calendar year immediately following each reporting periodâ
+(A)
+each retail electricity supplier shall submit to the Secretary a report, in accordance with regulations promulgated by the Secretary, demonstrating that the retail electricity supplier has achieved cumulative consistent electricity savings (adjusted to account for any attrition of savings measures implemented in prior years) in each calendar year that are equal to the applicable percentage of the base quantity of the retail electricity supplier; and
+(B)
+each retail natural gas supplier shall submit to the Secretary a report, in accordance with regulations promulgated by the Secretary, demonstrating that it has achieved cumulative consistent natural gas savings (adjusted to account for any attrition of savings measures implemented in prior years) in each calendar year that are equal to the applicable percentage of the base quantity of such retail natural gas supplier.
+(2)
+Standards for 2021 through 2035
+For each of calendar years 2021 through 2035, the applicable percentages are as follows:
+Calendar Year
+Cumulative Electricity
+Savings Percentage
+Cumulative Natural Gas
+Savings Percentage
+2021
+1.00
+0.50
+2022
+2.00
+1.25
+2023
+3.00
+2.00
+2024
+4.25
+3.00
+2025
+5.50
+4.00
+2026
+7.00
+5.00
+2027
+8.50
+6.00
+2028
+10.00
+7.00
+2029
+11.50
+8.00
+2030
+13.00
+9.00
+2031
+14.75
+10.00
+2032
+16.50
+11.00
+2033
+18.25
+12.00
+2034
+20.00
+13.00
+2035
+22.00
+14.00
+(3)
+Subsequent years
+(A)
+Calendar years 2036 through 2045
+Not later than December 31, 2030, the Secretary shall promulgate regulations establishing performance standards (expressed as applicable percentages of base quantity for both cumulative electricity savings and cumulative natural gas savings) for each of calendar years 2036 through 2045.
+(B)
+Requirements
+The Secretary shall establish standards under this paragraph at levels reflecting the maximum achievable level of cost-effective energy efficiency potential, taking into accountâ
+(i)
+cost-effective energy savings achieved by leading retail electricity suppliers and retail natural gas suppliers;
+(ii)
+opportunities for new State and local codes and standards savings;
+(iii)
+technology improvements; and
+(iv)
+other indicators of cost-effective energy efficiency potential including differences between States.
+(C)
+Minimum percentage
+In no case shall the applicable percentages for any calendar year be less than the applicable percentages for calendar year 2035.
+(4)
+Delay of submission for first reporting period
+(A)
+In general
+Notwithstanding paragraphs (1) and (2), for the 2021 reporting period, the Secretary may accept a request from a retail electricity supplier or a retail natural gas supplier to delay the required submission of documentation of all or part of the required savings for up to 2 years.
+(B)
+Plan for compliance
+The request for delay under subparagraph (A) shall include a plan for coming into full compliance by the end of the 2022â2023 reporting period.
+(5)
+Applying unused savings to future years
+If savings achieved in a year exceed the performance standards specified in this subsection, any savings in excess of the performance standards may be applied toward performance standards specified for the first 3 years following the year in which the excess savings are achieved.
+(d)
+Evaluation, measurement, and verification of savings
+(1)
+Regulations
+The regulations promulgated pursuant to subsection (b) shallâ
+(A)
+be based onâ
+(i)
+the Uniform Methods Project of the Department of Energy;
+(ii)
+the National Standard Practice Manual for Assessing the Cost-Effectiveness of Energy Efficiency Resources, developed by the National Efficiency Screening Project; and
+(iii)
+other best practices recognized in the energy efficiency industry; and
+(B)
+includeâ
+(i)
+procedures and standards for evaluating, measuring, and verifying electricity savings and natural gas savings that count towards the performance standards established under subsection (c) thatâ
+(I)
+specify the types of energy efficiency and energy conservation measures that may be counted;
+(II)
+require that energy consumption estimates for customer facilities or portions of facilities in the applicable base and current years be adjusted, as appropriate, to account for changes in weather, level of production, and building area;
+(III)
+do not prevent overall load growth due to beneficial electrification;
+(IV)
+account for the useful life of energy efficiency and energy conservation measures;
+(V)
+allow for savings from a program to be estimated based on extrapolation from a representative sample of participating customers;
+(VI)
+include procedures for calculating and documenting CHP savings, fuel-switching energy savings, and waste heat energy savings;
+(VII)
+establish methods for calculating codes and standards energy savings, including the use of verified compliance rates;
+(VIII)
+include procedures for calculating and documentingâ
+(aa)
+customer facility savings and reductions in distribution system losses of electricity and natural gas that are achieved as a result of smart grid deployment, as described in section 1301 of the Energy Independence and Security Act of 2007 (
+42 U.S.C. 17381
+); and
+(bb)
+reductions in natural gas distribution system losses attributable to pipeline repair and replacement programs;
+(IX)
+count only measures and savings that are additional to business-as-usual customer purchase practices;
+(X)
+ensure that the retail electricity supplier or retail natural gas supplier claiming the electricity savings or natural gas savings, including State and local codes and standards savings, has played a significant role in achieving the savings (including through the activities of a designated agent of the supplier or through the purchase of transferred electricity savings or natural gas savings);
+(XI)
+avoid double-counting of savings used for compliance with this section, including transferred savings;
+(XII)
+include electricity savings or natural gas savings from programs administered by retail electricity suppliers or natural gas suppliers that are funded by Federal, State, or other sources;
+(XIII)
+credit large customer self-directed electricity savings or natural gas savings to the retail electricity supplier or retail natural gas supplier if the large customer receives incentives or rate reductions from the retail electricity supplier or retail natural gas supplier for self-directed energy efficiency improvements;
+(XIV)
+include guidance, as appropriate, for additional alternative approaches to evaluate electricity savings and natural gas savings for large commercial and industrial customers in energy-intensive industries that are subject to international competition;
+(XV)
+include procedures for counting electricity savings and natural gas savings achieved by solar heating and cooling technologies, solar light pipe technology, geothermal heat pumps, and other technologies utilizing renewable resources that do not produce electricity or gaseous fuel and reduce on-site energy use;
+(XVI)
+include procedures for counting electricity savings and natural gas savings achieved by weatherization measures, such as installing mechanical insulation, repairing or replacing heating and cooling systems, repairing or replacing windows and doors, performing air sealing, and replacing lights and appliances with more energy efficient models;
+(XVII)
+include procedures for counting electricity savings and natural gas savings achieved from increased utilization of mechanical insulation for new, retrofit, and maintenance construction for commercial, industrial, public, and nonprofit buildings and facilities;
+(XVIII)
+in any State in which the State regulatory authority has designated 1 or more entities to administer electric ratepayer-funded efficiency programs approved by the State regulatory authority, provide that electricity savings and natural gas savings achieved through those programs shall be distributed proportionally among retail electricity suppliers and retail natural gas suppliers;
+(XIX)
+include guidance for retail electricity suppliers and retail natural gas suppliers to calculate and document business-as-usual consumption projections;
+(XX)
+include guidance for estimating savings using information from the database established under paragraph (3) based on similar measures and programs in other settings with appropriate adjustments, as necessary; and
+(XXI)
+incorporate advances in the science of policy evaluation, such as the use ofâ
+(aa)
+randomized control trials;
+(bb)
+other experimental and quasi-experimental approaches; and
+(cc)
+large data sets and machine learning techniques; and
+(ii)
+procedures and standards for third-party verification of reported electricity savings or natural gas savings.
+(2)
+National Academy of Sciences study
+Not later than 180 days after the date of enactment of this section, the Secretary shall offer to enter into an agreement with the National Academy of Sciences, under which the Academy shallâ
+(A)
+evaluate existing state-of-the-art methods for evaluating energy efficiency policies and measures;
+(B)
+identify approaches in program evaluation literature that may be brought into the energy efficiency domain, includingâ
+(i)
+randomized control trials and other experimental or quasi-experimental approaches;
+(ii)
+control of confounding factors;
+(iii)
+longitudinal studies;
+(iv)
+assessments by neutral arbiters; and
+(v)
+disclosure of data for replication; and
+(C)
+not later than 18 months after the date of enactment of this section, publish a report that includesâ
+(i)
+a description of the evaluation under subparagraph (A);
+(ii)
+a description of the approaches identified under subparagraph (B); and
+(iii)
+recommendations for advancing and adopting rigorous state-of-the-art methods for evaluating energy efficiency policies and measures.
+(3)
+Energy efficiency program evaluation database
+(A)
+In general
+The Secretary shall establish and maintain a searchable public database, accessible on the website of the Department of Energy, that contains a list of randomized control trials and other experimental or quasi-experimental evaluations of energy efficiency programs.
+(B)
+Requirements
+Each trial or evaluation on the list described in subparagraph (A) shall include, at a minimumâ
+(i)
+the State in which the trial or evaluation was conducted;
+(ii)
+the type of trial or evaluation conducted;
+(iii)
+the type of program evaluated;
+(iv)
+an abstract or summary of the program evaluated;
+(v)
+a summary of the trial or evaluation methodology;
+(vi)
+the revealed energy savings from the trial or evaluation; and
+(vii)
+to the extent practicable, the underlying data used to conduct the trial or evaluation.
+(e)
+Enforcement and judicial review
+(1)
+Review of retail supplier reports
+(A)
+In general
+The Secretary shall review each report submitted to the Secretary by a retail electricity supplier or retail natural gas supplier under subsection (c) to verify that the applicable performance standards under subsection (c) have been met.
+(B)
+Exclusion
+In determining compliance with the applicable performance standards under subsection (c), the Secretary shall exclude reported electricity savings or natural gas savings that are not adequately demonstrated and documented, in accordance with the regulations promulgated under subsections (b) and (c).
+(2)
+Penalty for failure to document adequate savings
+If a retail electricity supplier or a retail natural gas supplier fails to demonstrate compliance with an applicable performance standard under subsection (c), or to pay to the State an applicable alternative compliance payment under subsection (f)(3), the Secretary shall assess against the retail electricity supplier or retail natural gas supplier a civil penalty for each failure in an amount equal to, as adjusted for inflation in accordance with such regulations as the Secretary may promulgateâ
+(A)
+$100 per megawatt hour of electricity savings or alternative compliance payment that the retail electricity supplier failed to achieve or make, respectively; or
+(B)
+$10 per million Btu of natural gas savings or alternative compliance payment that the retail natural gas supplier failed to achieve or make, respectively.
+(3)
+Offsetting state penalties
+The Secretary shall reduce the amount of any penalty under paragraph (2) by the amount paid by the relevant retail electricity supplier or retail natural gas supplier to a State for failure to comply with the requirements of a State energy efficiency resource standard during the same compliance period.
+(4)
+Use of payments
+(A)
+Definition of covered rate
+In this paragraph, the term
+covered rate
+means the proportion thatâ
+(i)
+the amount of penalty payments made by retail electricity suppliers and natural gas suppliers in a State under paragraph (2); bears to
+(ii)
+the total amount of penalty payments collected by the Secretary under that paragraph.
+(B)
+Use of payments
+Penalty payments collected under paragraph (2) by the Secretary shall beâ
+(i)
+provided to each State at the covered rate for the State; and
+(ii)
+used by the State to implement cost-effective energy efficiency programs thatâ
+(I)
+to the maximum extent practicable, achieve electricity savings and natural gas savings in the State sufficient to make up the deficit associated with the penalty payments; and
+(II)
+can be measured and verified in accordance with the applicable procedures and standards established under subsection (d).
+(5)
+Enforcement procedures
+The Secretary shall assess a civil penalty, as provided under paragraph (2), in accordance with the procedures described in section 333(d) of the Energy Policy and Conservation Act (
+42 U.S.C. 6303(d)
+).
+(f)
+State administration
+(1)
+In general
+On receipt of an application from the Governor of a State (including the Mayor of the District of Columbia), the Secretary may delegate to the State responsibility for administering this section within the territory of the State if the Secretary determines that the State will implement an energy efficiency program that meets or exceeds the requirements of this section.
+(2)
+Secretarial determination
+Not later than 180 days after the date on which a complete application is received by the Secretary, the Secretary shall make a substantive determination approving or disapproving a State application, after public notice and comment.
+(3)
+Alternative compliance payments
+(A)
+In general
+As part of an application submitted under paragraph (1), a State may permit retail electricity suppliers or retail natural gas suppliers to pay to the State, by not later than May 1 of the calendar year immediately following the applicable reporting period, an alternative compliance payment in an amount equal to, as adjusted for inflation in accordance with such regulations as the Secretary may promulgate, not less thanâ
+(i)
+$50 per megawatt hour of electricity savings needed to make up any deficit with regard to a compliance obligation under the applicable performance standard; or
+(ii)
+$5 per million Btu of natural gas savings needed to make up any deficit with regard to a compliance obligation under the applicable performance standard.
+(B)
+Use of payments
+Alternative compliance payments collected by a State under subparagraph (A) shall be used by the State to administer the delegated authority of the State under this section and to implement cost-effective energy efficiency programs thatâ
+(i)
+to the maximum extent practicable, achieve electricity savings and natural gas savings in the State sufficient to make up the deficit associated with the alternative compliance payments; and
+(ii)
+can be measured and verified in accordance with the applicable procedures and standards established under subsection (d).
+(4)
+Review of state implementation
+(A)
+Periodic review
+Every 2 years, the Secretary shall review State implementation of this section for conformance with the requirements of this section in approximately
+1/2
+of the States that have received approval under this subsection to administer the program, so that each State shall be reviewed not less frequently than once every 4 years.
+(B)
+Report
+To facilitate the review under subparagraph (A), the Secretary may require the State to submit a report demonstrating the conformance of the State with the requirements of this section.
+(C)
+Deficiencies
+(i)
+In general
+In completing a review under this paragraph, if the Secretary finds deficiencies, the Secretary shallâ
+(I)
+notify the State of the deficiencies;
+(II)
+direct the State to correct the deficiencies; and
+(III)
+require the State to report to the Secretary on progress made by not later than 180 days after the date on which the State receives notice under subclause (I).
+(ii)
+Substantial deficiencies
+If the deficiencies are substantial, the Secretary shallâ
+(I)
+disallow the reported electricity savings or natural gas savings that the Secretary determines are not credible due to deficiencies;
+(II)
+re-review the State not later than 2 years after the date on which the original review was completed; and
+(III)
+if substantial deficiencies remain uncorrected after the review provided for under subclause (II), revoke the authority of the State to administer the program established under this section.
+(5)
+Cost recovery, fixed cost recovery, and shareholder incentives
+The Secretary shall encourage State utility regulatory commissions to review the rules and regulations of the Commission to ensure that utilities under the jurisdiction of the Commission mayâ
+(A)
+recover the direct costs of energy efficiency programs;
+(B)
+(i)
+fully recover authorized fixed costs from customers, including recovery of revenue associated with fixed costs that was lost due to annual sales that were lower than forecasted; but
+(ii)
+return to customers the revenue associated with fixed costs collected in excess of the authorized amount under clause (i); and
+(C)
+earn a performance-based incentive for shareholders for the achievement of energy efficiency standards.
+(6)
+Evaluation, measurement, and verification incentives
+The Secretary shall encourage States that have delegated authority to administer this section to provide incentives to retail electricity suppliers, retail natural gas suppliers, and third-party efficiency providers to use randomized control trials and other experimental or quasi-experimental approaches to evaluate energy efficiency measures and programs within the State.
+(g)
+Information and reports
+In accordance with section 13 of the Federal Energy Administration Act of 1974 (
+15 U.S.C. 772
+), the Secretary may require any retail electricity supplier, retail natural gas supplier, third-party efficiency provider, or any other entity that the Secretary determines appropriate, to provide any information the Secretary determines appropriate to carry out this section.
+(h)
+State law
+Nothing in this section diminishes or qualifies any authority of a State or political subdivision of a State to adopt or enforce any law or regulation respecting electricity savings or natural gas savings, including any law or regulation establishing energy efficiency requirements that are more stringent than those under this section, except that no State law or regulation shall relieve any person of any requirement otherwise applicable under this section.
+.
+(b)
+Conforming amendment
+The table of contents of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. prec. 2601) is amended by adding at the end of the items relating to title VI the following:
+Sec. 609. Rural and remote communities electrification grants.
+Sec. 610. Federal energy efficiency resource standard for retail electricity and natural gas
+suppliers.
+.

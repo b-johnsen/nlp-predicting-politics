@@ -1,0 +1,140 @@
+1.
+Short title
+This Act may be cited as the
+Patient Access to LTCH Care Act
+.
+2.
+Ensuring adequacy of payments for high-acuity long-term care hospital patients
+(a)
+In general
+Section 1886(m)(7) of the Social Security Act (
+42 U.S.C. 1395ww(m)(7)
+) is amendedâ
+(1)
+in subparagraph (B)â
+(A)
+by striking
+Notwithstanding subparagraph (A)
+and inserting the following:
+(i)
+In general
+Notwithstanding subparagraph (A)
+; and
+(B)
+by adding at the end the following new clause:
+(ii)
+Limitation on increase of fixed loss amount
+Notwithstanding clause (i)â
+(I)
+in the case that application of such clause would result in a fixed loss amount established for fiscal year 2025 or 2026 that is greater than $50,000, the Secretary shall set such fixed loss amount for such fiscal year at $50,000; and
+(II)
+in the case that application of such clause would result in a fixed loss amount established for fiscal year 2027 or a subsequent fiscal year that is greater than 110 percent of the fixed loss amount established for the preceding fiscal year, the Secretary shall set such fixed loss amount for such fiscal year at 110 percent of the fixed loss amount established for the preceding fiscal year.
+; and
+(2)
+in subparagraph (C), by striking
+reduction
+and inserting
+change
+.
+(b)
+Payment adjustment for complex long-Term care hospital patients
+Section 1886(m) of the Social Security Act (
+42 U.S.C. 1395ww(m)
+) is amended by adding at the end the following new paragraph:
+(8)
+Payment adjustment for patients with complications or comorbidities or major complications or comorbidities
+(A)
+In general
+For discharges occurring on or after October 1, 2025, or such earlier date as the Secretary may specify, the Secretary shall increase payment rates under the system described in paragraph (1) in accordance with subparagraph (B) to fully account for the higher costs associated with treating the highest complexity individuals.
+(B)
+Increase
+In calculating payment rates under the system described in paragraph (1) for a discharge of an individual occurring on or after October 1, 2025 (or such earlier date as the Secretary may specify), the Secretary shallâ
+(i)
+in the case such individual had more than 5 major complications or comorbidities and fewer than 6 complications or comorbidities that were not major or had between 3 and 5 major complications and comorbidities and 5 or more complications and comorbidities that were not major (as demonstrated by claims data on the claim form submitted by the long-term care hospital), increase the payment weight for the applicable diagnosis-related group by 5 percent; and
+(ii)
+in the case such individual had more than 5 major complications or comorbidities and more than 5 complications or comorbidities that were not major (as so demonstrated), increase the payment weight for the applicable diagnosis-related group by 10 percent.
+(C)
+Assumptions and adjustments
+(i)
+In general
+The Secretary shall annually determine the impact of ICDâ10 coding changes on aggregate spending as a result of the application of the payment increases under subparagraph (A) with respect to fiscal years 2026 through 2030.
+(ii)
+Permanent adjustments
+The Secretary shall, at a time and in a manner determined appropriate by the Secretary, through notice and comment rulemaking, provide for one or more permanent increases or decreases to the standard prospective payment amount (or amounts) for fiscal years referenced in clause (i), on a prospective basis, to offset for increases or decreases in aggregate expenditures associated with coding changes attributable to the application of the payment increases under subparagraph (A).
+(iii)
+Temporary adjustments for retrospective behavior
+The Secretary shall, at a time and in a manner determined appropriate by the Secretary, through notice and comment rulemaking, provide for one or more temporary increases or decreases to the standard prospective payment amount (or amounts) for fiscal years referenced in clause (i). Such a temporary increase or decrease shall apply only with respect to the fiscal year for which such temporary increase or decrease is made, and the Secretary shall not take into account such a temporary increase or decrease in computing such amount under this subsection for a subsequent fiscal year.
+(D)
+Nonapplication of budget neutrality
+The additional payments resulting from the application of this paragraph shall not be implemented in a budget neutral manner.
+.
+3.
+Safeguarding services for long-term care hospital patients with certain complex conditions
+Section 1886(m)(6) of the Social Security Act (
+42 U.S.C. 1395ww(m)(6)
+) is amendedâ
+(1)
+in subparagraph (A)â
+(A)
+in clause (i), by striking
+and (G)
+and inserting
+(G), and (H)
+;
+(B)
+in clause (iii)(I), by inserting
+or, with respect to discharges from a long-term care hospital occurring on or after October 1, 2023, by a discharge from a stay in a critical access hospital,
+after
+from a subsection (d) hospital
+; and
+(C)
+in clause (iv)(I), by inserting
+for discharges from a long-term care hospital occurring before October 1, 2023,
+before
+the stay in the long-term care hospital
+.
+(2)
+by adding at the end the following new subparagraph:
+(H)
+Additional exception for patients with certain complex conditions
+(i)
+In general
+For a discharge in a cost reporting period beginning on or after October 1, 2023, subparagraph (A)(i) shall not apply (and payment shall be made to a long-term care hospital without regard to this paragraph) if such dischargeâ
+(I)
+meets either of the criteria described in clause (ii); and
+(II)
+does not have a principal diagnosis relating to a psychiatric diagnosis or to rehabilitation.
+(ii)
+Criteria described
+For purposes of clause (i), the criteria described in this clause are, with respect to a discharge of an individual from a long-term care hospital, the following:
+(I)
+The stay in the long-term care hospital ending with such discharge was immediately preceded by a discharge from a stay in a subsection (d) hospital or a critical access hospital andâ
+(aa)
+such individual was treated at the long-term care hospital for a severe wound (as defined in clause (iii));
+(bb)
+such discharge from such long-term care hospital is assigned to Medicare-Severity-Long-Term-Care-Diagnosis-Related-Group (MSâLTCâDRG) 189 relating to pulmonary edema and respiratory failure (or any successor MSâLTCâDRG);
+(cc)
+such discharge from such long-term care hospital is assigned to MSâLTCâDRG 871 relating to septicemia or severe sepsis without mechanical ventilation greater than 96 hours with major complications or comorbidities (or any successor MSâLTCâDRG); or
+(dd)
+such individual was treated at the long-term care hospital for COVIDâ19.
+(II)
+The discharge from such long-term care hospital is assigned to a MSâLTCâDRG with a relative weight that is equal to or greater than the specified amount (as defined in clause (iii)) for the fiscal year in which such discharge occurred.
+(iii)
+Definitions
+In this subparagraph:
+(I)
+Severe wound
+The term
+severe wound
+means a stage 3 wound, stage 4 wound, unstageable wound, non-healing surgical wound, infected wound, fistula, osteomyelitis, or a wound with morbid obesity, as identified by applicable codes on the claim from the long-term care hospital.
+(II)
+Specified amount
+The term
+specified amount
+means, with respect to fiscal year, an amount equal to the 80th percentile of the relative weights for MSâLTCâDRGs that were assigned to primary diagnoses for all discharges occurring in the preceding fiscal year.
+(III)
+Wound
+The term
+wound
+means as an injury involving division of tissue or rupture or the integument or mucous membrane with exposure to the external environment.
+.

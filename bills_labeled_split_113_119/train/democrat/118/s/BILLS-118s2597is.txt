@@ -1,0 +1,3509 @@
+1.
+Short title
+This Act may be cited as the
+Digital Consumer Protection Commission Act of 2023
+.
+I
+Amendments to Clayton Act
+101.
+Establishment of Digital Consumer Protection Commission
+The Clayton Act (
+15 U.S.C. 12 et seq.
+) is amendedâ
+(1)
+by striking
+That (a)
+and inserting the following:
+A
+Original antitrust provisions
+1.
+(a)
+The term
+;
+(2)
+in division A, as so designated, by adding at the end the following:
+29.
+(a)
+Any reference to
+this Act
+in this division shall be deemed to be a reference to this division.
+(b)
+Any reference to the Clayton Act in any other provision of law shall be deemed to be a reference to this division unless the provision specifically references division B of this Act or a provision in division B of this Act.
+; and
+(3)
+by adding at the end the following:
+B
+Digital Consumer Protection Commission
+2001.
+Table of contents
+The table of contents for this division is as follows:
+Sec. 2001. Table of contents.
+Sec. 2002. Definitions.
+TITLE IâEstablishment of Digital Consumer Protection Commission
+Subtitle AâCommission structure, jurisdiction, and powers
+Sec. 2111. Establishment.
+Sec. 2112. Commissioners.
+Sec. 2113. Designation of acting chairperson; sessions; seal.
+Sec. 2114. Commission jurisdiction.
+Sec. 2115. Commission powers.
+Sec. 2116. Rulemaking authority.
+Sec. 2117. Advisory boards.
+Sec. 2118. Complaints.
+Subtitle BâDominant platforms
+Sec. 2121. Dominant platforms.
+TITLE IIâTransparency reform
+Sec. 2201. Transparency practices and appeal rights.
+Sec. 2202. Best practices.
+TITLE IIIâCompetition reform
+Subtitle AâAntitrust review
+Sec. 2311. Abuses of dominance.
+Sec. 2312. Platform conflicts of interest.
+Sec. 2313. Future acquisitions.
+Sec. 2314. Retrospective reviews.
+Sec. 2315. Additional remedies.
+Sec. 2316. Contractual transparency.
+Sec. 2317. Prohibition on abusive acts or practices.
+Sec. 2318. Data brokers.
+Subtitle BâData portability and interoperability.
+Sec. 2321. Data portability and interoperability.
+Subtitle CâMiscellaneous
+Sec. 2331. Rule of construction.
+TITLE IVâPrivacy reform
+Subtitle AâCovered entity duties and requirements.
+Sec. 2411. Duty of loyalty.
+Sec. 2412. Duty of care.
+Sec. 2413. Duty of mitigation.
+Sec. 2414. Duty of confidentiality; data collection and processing.
+Sec. 2415. Limitations on targeted advertising.
+Sec. 2416. Rights of data subjects to access, correction, portability, and deletion.
+Sec. 2417. Right to know.
+Subtitle BâData security reform
+Sec. 2421. Data security safeguards.
+Sec. 2422. Civil penalties and damages for data breaches.
+Subtitle CâMiscellaneous
+Sec. 2431. Authority to propose and establish heightened requirements for dominant platform operators.
+TITLE VâNational Security Reform
+Sec. 2501. Corporate citizenship and ownership.
+Sec. 2502. Limitation of data processing in restricted countries.
+Sec. 2503. Bot and country-of-origin identifications.
+TITLE VIâLicenses for operators of dominant platforms
+Sec. 2601. Licensing office.
+Sec. 2602. Requirement for operators of dominant platforms to obtain licenses.
+Sec. 2603. Revocation of license.
+Sec. 2604. Compliance certification.
+TITLE VIIâEnforcement by other entities
+Sec. 2701. Enforcement by States, private parties, and Federal agencies.
+Sec. 2702. Exclusive jurisdiction.
+TITLE VIIIâMiscellaneous
+Sec. 2801. Funding.
+Sec. 2802. Interagency cooperation.
+Sec. 2803. Effective date.
+Sec. 2804. Rules of construction.
+Sec. 2805. Severability.
+2002.
+Definitions
+In this division:
+(1)
+Algorithm
+(A)
+In general
+The term
+algorithm
+means a computational process derived from machine learning, statistics, or other data processing or artificial intelligence techniques, that processes data for the purpose ofâ
+(i)
+making a decision or facilitating human decision-making;
+(ii)
+generating content;
+(iii)
+the display of search results or rankings; or
+(iv)
+any other method of automated decision-making, content selection, or content amplification.
+(B)
+Temporal scope
+The term
+algorithm
+encompasses a computational process described in subparagraph (A) as it evolves over time, not just at its original point of creation.
+(2)
+Business user
+The term
+business user
+, with respect to a platform, means a person that uses or plans to use the platform for the sale or provision of products or services.
+(3)
+Child
+The term
+child
+means an individual younger than 18 years of age.
+(4)
+Clear and conspicuous
+The term
+clear and conspicuous
+, with respect to a disclosure, means the disclosure is easily noticeable and easily understandable by ordinary consumers, including in each of the following ways:
+(A)
+In any communication that is solely visual or solely audible, the disclosure shall be made through the same means through which the communication is presented.
+(B)
+A visual disclosure, by its size, contrast, location, the length of time it appears, and other characteristics, shall stand out from any accompanying text or other visual elements so that the disclosure is easily noticed, read, and understood.
+(C)
+An audible disclosure, including by telephone or streaming video, shall be delivered in a volume, speed, and cadence sufficient for an ordinary consumer to easily hear and understand the disclosure.
+(D)
+In any communication using an interactive electronic medium, such as the internet or software, the disclosure shall be unavoidable.
+(E)
+The disclosure shallâ
+(i)
+use diction and syntax understandable to ordinary consumers; and
+(ii)
+appear in each language in which the communication in which the disclosure appears is presented.
+(F)
+The disclosure shall comply with the requirements under this paragraph in each medium through which the disclosure appears, including all electronic devices and face-to-face communications.
+(G)
+The disclosure may not be contradicted or mitigated by, or inconsistent with, anything else in the communication.
+(H)
+If the representation or sales practice targets a specific audience, such as children, the elderly, or the terminally ill, the term
+ordinary consumer
+, as used in this paragraph, includes reasonable members of that audience.
+(5)
+Commission
+The term
+Commission
+, except as otherwise provided, means the Digital Consumer Protection Commission established under section 2111.
+(6)
+Control
+The term
+control
+, with respect to a person or platform, meansâ
+(A)
+holding not less than 25 percent of the stock of the person or platform;
+(B)
+having the right to not less than 25 percent of the profits of the person or platform;
+(C)
+having the right to not less than 25 percent of the assets of the person or platform, in the event of the dissolution of the person or platform;
+(D)
+if the person or platform is a corporation, having the power to designate not less than 25 percent of the directors of the person or platform;
+(E)
+if the person or platform is a trust, having the power to designate not less than 25 percent of the trustees; or
+(F)
+otherwise exercising substantial ability to direct the actions of the person or platform.
+(7)
+Covered breach
+The term
+covered breach
+means any instance in which not less than 1 piece of personal data held by a covered entity is exposed, or is reasonably likely to have been exposed, to an unauthorized party.
+(8)
+Covered entity
+(A)
+In general
+Subject to subparagraph (B), the term
+covered entity
+â
+(i)
+means any person that collects, processes, or transfers personal data andâ
+(I)
+is subject to the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+); or
+(II)
+isâ
+(aa)
+a bank, savings and loan institution described in section 18(f)(3) of the Federal Trade Commission Act (
+15 U.S.C. 57a(f)(3)
+), or Federal credit union described in section 18(f)(4) of such Act;
+(bb)
+a common carrier subject to the Acts to regulate commerce (as defined in section 4 of the Federal Trade Commission Act (
+15 U.S.C. 44
+));
+(cc)
+an air carrier or foreign air carrier subject to the Federal Aviation Act of 1958 (49 U.S.C. App. 1301 et seq.); or
+(dd)
+a person, partnership, or corporation subject to the Packers and Stockyards Act, 1921, as amended; and
+(ii)
+includes any person that controls, is controlled by, or is under common control with the covered entity.
+(B)
+Exclusions
+Such term does not includeâ
+(i)
+a Federal, State, Tribal, territorial, or local government entity such as a body, authority, board, bureau, commission, district, agency, or political subdivision of the Federal Government or a State, Tribal, territorial, or local government;
+(ii)
+a person that is collecting, processing, or transferring personal data on behalf of a Federal, State, Tribal, territorial, or local government entity, in so far as such person is acting as a service provider to the government entity; or
+(iii)
+an entity that serves as a congressionally designated nonprofit, national resource center, and clearinghouse to provide assistance to victims, families, child-serving professionals, and the general public on missing and exploited children issues.
+(9)
+Critical trading partner
+The term
+critical trading partner
+means an entity that has the ability to restrict or impede the access of a business user toâ
+(A)
+the users or customers of the business user; or
+(B)
+a tool or service that the business user needs to effectively serve the users or customers of the business user.
+(10)
+Data broker
+The term
+data broker
+means a person that collects, buys, licenses, or infers data about individuals and then sells, licenses, or trades that data in a commercial transaction.
+(11)
+Data processing
+The term
+data processing
+â
+(A)
+means any operation or set of operations that is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, or erasure or destruction; and
+(B)
+includes the sale, resale, licensing, or trading of personal data.
+(12)
+De-identified data
+The term
+de-identified data
+means data, derived from sensitive personal data, that cannot reasonably be used to infer information about, or otherwise be linked to, an identified or identifiable individual or household, or a device linked to such an individual or household.
+(13)
+Dominant platform
+The term
+dominant platform
+has the meaning given the term in section 2121.
+(14)
+Governmental entity
+The term
+governmental entity
+means a department or agency ofâ
+(A)
+the United States;
+(B)
+a State or political subdivision thereof; or
+(C)
+a foreign country or political subdivision thereof.
+(15)
+Operator
+The term
+operator
+, with respect to a platform, means a person that owns or controls the platform.
+(16)
+Personal data
+The term
+personal data
+â
+(A)
+means information collected through activity on a platform that identifies or is linked or reasonably linkable toâ
+(i)
+a user of the platform or any individual; or
+(ii)
+a device routinely used by or associated with a user of the platform or any individual; and
+(B)
+does not includeâ
+(i)
+de-identified data; or
+(ii)
+publicly available information.
+(17)
+Platform
+The term
+platform
+means a website, online or mobile application, operating system, online advertising exchange, digital assistant, or other digital service thatâ
+(A)
+enables a user toâ
+(i)
+generate content that can be viewed by other users on the website, online or mobile application, operating system, online advertising exchange, digital assistant, or other digital service; or
+(ii)
+interact with other content on the website, online or mobile application, operating system, online advertising exchange, digital assistant, or other digital service;
+(B)
+facilitates the offering, sale, purchase, payment, or shipping of products or services, including software applications and online advertising, among consumers or businesses not controlled by the website, online or mobile application, operating system, online advertising exchange, digital assistant, or other digital service; or
+(C)
+enables user searches or queries that access or display a large volume of information.
+(18)
+Platform conflict of interest
+The term
+platform conflict of interest
+means the conflict of interest that arises when a person owns or controls a platform while simultaneouslyâ
+(A)
+owning or controlling a line of business that competes against third parties on that platform, if the person has the ability and incentive to, or doesâ
+(i)
+advantage its own business on the platform over third-party competitors on the platform; or
+(ii)
+disadvantage the business of third-party competitors on the platform; or
+(B)
+representing both buyers and sellers for transactions or business on the platform.
+(19)
+Restricted country
+The term
+restricted country
+means a country for which a prohibition or a policy of denial applies under section 126.1 of title 22, Code of Federal Regulations (or a successor regulation).
+(20)
+Sensitive personal data
+(A)
+In general
+The term
+sensitive personal data
+means any of the following forms of personal data:
+(i)
+A unique, government-issued identifier, such as a Social Security number, passport number, or driverâs license number, that is not required to be displayed to the public.
+(ii)
+Date of birth.
+(iii)
+Cellphone number.
+(iv)
+Any data that describes or revealsâ
+(I)
+the search for, attempt to obtain, or receipt of any health services;
+(II)
+any past, present, or future disability, physical health condition, mental health condition, or health condition of an individual; or
+(III)
+any treatment or diagnosis of a disability or condition described in subclause (II).
+(v)
+A financial account number, debit card number, or credit card number, or any required security or access code, password, or credentials allowing access to a financial account.
+(vi)
+Credit scores related to financial capacity.
+(vii)
+Household or personal income.
+(viii)
+Biometric information.
+(ix)
+A persistent identifier.
+(x)
+Precise geolocation information.
+(xi)
+The contents of a private communication of an individual, such as an email, a text, a direct message, or mail, or the identity of the parties subject to the communication.
+(xii)
+Account log-in credentials, such as a user name or email address, in combination with a password or security question and answer that would permit access to an online account.
+(xiii)
+Data revealing an individualâs racial or ethnic origin or religious beliefs.
+(xiv)
+Data revealing sexual orientation, gender identity, or sex characteristics.
+(xv)
+Data pertaining to an individualâs sex life.
+(xvi)
+Data about online activity that addresses or reveals a category of covered data described in another clause of this subparagraph.
+(xvii)
+Data that is calendar information, address book information, phone or text logs, photos, or videos maintained for private use on an individualâs device.
+(xviii)
+Any data collected or processed by a platform operator from which the platform operator infers data described in another clause of this subparagraph.
+(xix)
+Any other category of data designated by the Commission pursuant to a rulemaking under section 553 of title 5, United States Code.
+(B)
+Biometric information
+For purposes of subparagraph (A), the term
+biometric information
+â
+(i)
+means the physiological or biological characteristics of an individual, including deoxyribonucleic acid; and
+(ii)
+includesâ
+(I)
+imagery of the iris, retina, fingerprint, face, hand, palm, vein patterns, and voice recordings, from which an identifier template, such as a faceprint, a minutiae template, or a voiceprint, can be extracted; and
+(II)
+keystroke patterns or rhythms, gait patterns or rhythms, and sleep, health, or exercise data that contain identifying information.
+(C)
+Persistent identifier
+For purposes of subparagraph (A), the term
+persistent identifier
+means a technologically derived identifier that identifies an individual, or is linked or reasonably linkable to an individual over time and across services and platforms, which may include a customer number held in a cookie, a static internet protocol address, a processor or device serial number, or another unique device identifier.
+(D)
+Precise geolocation information
+For purposes of subparagraph (A), the term
+precise geolocation information
+means data capable of determining the past or present physical location of an individual or an individualâs device, with sufficient precision to identify street-level location information of an individual or device or the location of an individual or device within a range of 5,280 feet or less.
+(21)
+State
+The term
+State
+includes the District of Columbia and any territory or possession of the United States.
+(22)
+Terms of service
+The term
+terms of service
+means any agreement between an operator of a platform and a user of the platform, including terms of service, terms of use, a privacy policy, a use of data policy, a cookies policy, an advertisement policy, a community-standards policy, commercial terms, a safety policy, and a content-moderation policy.
+(23)
+User
+The term
+user
+, with respect to a platformâ
+(A)
+means a person thatâ
+(i)
+engages with the platform; or
+(ii)
+logs into or uses services provided by the platform over the internet or any other digital network; and
+(B)
+includes a business user of the platform.
+I
+Establishment of Digital Consumer Protection Commission
+A
+Commission structure, jurisdiction, and powers
+2111.
+Establishment
+There is established an independent regulatory commission to be known as the
+Digital Consumer Protection Commission
+, which shall be constituted as provided in this division and execute and enforce the provisions of this division.
+2112.
+Commissioners
+(a)
+Number of commissioners; appointment
+The Commission shall be composed of 5 commissioners appointed by the President, by and with the advice and consent of the Senate.
+(b)
+Terms of office
+(1)
+In general
+A commissioner shall be appointed for a term of 5 years and may be removed by the President only for neglect of duty or malfeasance in office.
+(2)
+Initial commissioners
+The commissioners first appointed to the Commission shall continue in office for terms of 1, 2, 3, 4, and 5 years, respectively, from the date of enactment of this division, the term of each to be designated by the President at the time of nomination.
+(c)
+Qualifications
+(1)
+Political parties
+Not more than 3 commissioners may be members of the same political party.
+(2)
+Conflicts of interest
+(A)
+In general
+No commissioner or person employed by the Commission mayâ
+(i)
+be financially interested in any platform operator;
+(ii)
+be financially interested in any company or other entity thatâ
+(I)
+controls any platform operator; or
+(II)
+derives a significant portion of its total income from ownership of stocks, bonds, or other securities of any platform operator; or
+(iii)
+be employed by, hold any official relation to, or own any stocks, bonds, or other securities of, any platform operator.
+(B)
+Waiver
+(i)
+In general
+Subject to section 208 of title 18, United States Code, the Commission may waive, from time to time, the application of the prohibitions under subparagraph (A) to persons employed by the Commission if the Commission determines that the financial interests of a person that are involved in a particular case are minimal.
+(ii)
+No waiver for commissioners
+The waiver authority under clause (i) shall not apply with respect to commissioners.
+(iii)
+Publication
+If the Commission exercises the waiver authority under clause (i), the Commission shall publish notice of that action in the Federal Register.
+(C)
+Exceptions
+(i)
+In general
+Nothing in this paragraph shall be construed to prevent a commissioner or a person employed by the Commission from owning or tradingâ
+(I)
+a widely held investment fund, if the widely held investment fundâ
+(aa)
+does not present a conflict of interest; and
+(bb)
+is diversified;
+(II)
+shares of Settlement Common Stock issued under section 7(g)(1)(A) of the Alaska Native Claims Settlement Act (
+43 U.S.C. 1606(g)(1)(A)
+);
+(III)
+shares of Settlement Common Stock, as defined in section 3 of the Alaska Native Claims Settlement Act (
+43 U.S.C. 1602
+);
+(IV)
+a United States Treasury bill, note, or bond;
+(V)
+an investment fund held in a Federal, State, or local government employee retirement plan;
+(VI)
+an interest in a small business concern, if the small business concern does not present a conflict of interest; or
+(VII)
+any stock, bond, commodity, future, or other form of security, including an interest in a hedge fund, a derivative, option, or other complex investment vehicle received as compensation from the primary occupation of the spouse of the commissioner or person employed by the Commission.
+(ii)
+Definitions
+In this subparagraph:
+(I)
+Commodity
+The term
+commodity
+has the meaning given that term in section 1a of the Commodity Exchange Act (
+7 U.S.C. 1a
+).
+(II)
+Diversified
+The term
+diversified
+, with respect to an investment fund, means that the investment fund does not have a stated policy of overly concentrating its investments.
+(III)
+Security
+The term
+security
+has the meaning given that term in section 3(a) of Securities Exchange Act of 1934 (
+15 U.S.C. 78c(a)
+).
+(IV)
+Small business concern
+The term
+small business concern
+has the meaning given that term under section 3 of the Small Business Act (
+15 U.S.C. 632
+).
+(V)
+Widely held investment fund
+The term
+widely held investment fund
+means a widely held investment fund described in
+section 102(f)(8)
+of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+(d)
+Vacancies
+(1)
+Filling vacancies
+Any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which the predecessor of the commissioner was appointed shall be appointed only for the remainder of that term.
+(2)
+Service after expiration of term
+A commissionerâ
+(A)
+except as provided in subparagraph (B), may continue to serve after the expiration of the term of the commissioner until a successor is appointed and has been confirmed and taken the oath of office; and
+(B)
+may not continue to serve after the end of the session of the Congress during which the term of the commissioner expires.
+(3)
+Acting commissioner
+(A)
+In general
+If a vacancy exists more than 90 days after the date on which the President first submits to the Senate a nomination of a person to fill a vacancy on the Commission, the President may appoint an acting commissioner to serve on the Commission until the vacancy is filled, subject to subparagraph (B).
+(B)
+Maximum term
+An acting commissioner appointed under subparagraph (A) may serve on the Commission for not more than 210 days.
+(e)
+Employment
+A commissioner may not engage in any other business, vocation, or employment while serving on the Commission.
+(f)
+Chairperson
+(1)
+Designation
+The President shall designate 1 commissioner to serve as the chairperson of the Commission.
+(2)
+Duties
+The chairperson of the Commission shall oversee the executive and administrative operations of the Commission, including functions of the Commission with respect toâ
+(A)
+the appointment and employment of hearing examiners in accordance with the provisions of title 5, United States Code;
+(B)
+the selection, appointment, and fixing of the compensation of any personnel that the chairperson determines necessary, including an executive director;
+(C)
+the supervision of personnel employed by or assigned to the Commission, except that each commissioner may select and supervise personnel for the personal staff of that commissioner;
+(D)
+the distribution of business among personnel and among administrative units of the Commission; and
+(E)
+the procurement of services of experts and consultants in accordance with section 3109 of title 5, United States Code.
+(g)
+Salary of Commissioners
+(1)
+In general
+Each Commissioner shall receive an annual salary at the annual rate payable from time to time for grade 16 of the pay scale of the Securities and Exchange Commission, payable in monthly installments.
+(2)
+Chair
+The chairperson of the Commission, during the period of service as chairperson, shall receive an annual salary at the annual rate payable from time to time for grade 17 of the pay scale of the Securities and Exchange Commission.
+(h)
+Employees
+The Commission may, subject to the civil service laws and the Classification Act of 1949, as amended, appoint such officers, engineers, accountants, attorneys, inspectors, examiners, and other employees as are necessary in the exercise of its functions.
+2113.
+Designation of acting chairperson; sessions; seal
+(a)
+Designation of acting chairperson
+The chairperson of the Commission may designate any other commissioner as acting chairperson to act in the place and stead of the chairperson during the chairperson's absence.
+(b)
+Sessions of Commission
+(1)
+Presiding official
+The chairperson (or the acting chairperson in the absence of the chairperson) shall preside at all sessions of the Commission.
+(2)
+Quorum
+Three members of the Commission shall constitute a quorum for the transaction of business.
+(3)
+Vote
+Each commissioner, including the chairperson, shall have 1 vote.
+(4)
+Majority vote
+Actions of the Commission shall be determined by a majority vote of the members present.
+(c)
+Seal
+The Commission shall have an official seal which shall be judicially noticed.
+2114.
+Commission jurisdiction
+(a)
+Functions
+The Commission shallâ
+(1)
+implement and enforce the provisions of this division; and
+(2)
+promote competition, privacy, national security, and transparency on platforms.
+(b)
+Jurisdiction; oversight
+The Commission shall have jurisdiction and oversight overâ
+(1)
+all covered entities, including all platform operators; and
+(2)
+any employee of a covered entity, including a platform operator, who the Commission believesâ
+(A)
+may have violated this division, a rule promulgated under this division, or an administrative order issued under this division; or
+(B)
+may have knowledge regarding a violation of this division, a rule promulgated under this division, or an administrative order issued under this division.
+2115.
+Commission powers
+(a)
+Investigative authority
+(1)
+Scope
+(A)
+In general
+The Commission may investigate any facts, conditions, practices, or matters that the Commission may find necessary or proper toâ
+(i)
+determine whether any covered entity (including any platform operator) or any employee described in section 2114(b)(2) has violated or is about to violate any provision of this division, a rule promulgated under this division, or an administrative order issued under this division; or
+(ii)
+aid inâ
+(I)
+the enforcement of this division;
+(II)
+prescribing rules or regulations under this division; or
+(III)
+obtaining information to serve as a basis for recommending further legislation concerning the matters to which this division relates.
+(B)
+Statements; publication of information
+The Commissionâ
+(i)
+may permit any person, platform, or platform operator to file with the Commission a statement in writing under oath or otherwise, as the Commission shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation; and
+(ii)
+in the discretion of the Commission, may publish information concerning any subject of investigation described in clause (i).
+(2)
+Attendance of witnesses and production of documents
+(A)
+In general
+For the purpose of any investigation or any other proceeding under this division, the Commission, or any officer designated by the Commission, may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records that the Commission finds relevant or material to the inquiry.
+(B)
+Location
+The attendance of witnesses and the production of any records described in subparagraph (A) may be required from any place in the United States at any designated place of hearing.
+(C)
+Witness fees and mileage
+The Commission shall pay witnesses summoned to appear before the Commission the same fees and mileage that are paid witnesses in the courts of the United States.
+(3)
+Resort to courts of United States for failure to obey subpoena; punishment
+(A)
+In general
+In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is carried on, or where the person resides or carries on business, in requiringâ
+(i)
+the attendance and testimony of witnesses; and
+(ii)
+the production of books, papers, correspondence, memoranda, contracts, agreements, and other records.
+(B)
+Court order
+(i)
+In general
+A court of the United States whose aid is invoked under subparagraph (A) may issue an order requiring the applicable person to appear before the Commission or a member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question.
+(ii)
+Contempt
+A court may punish any failure to obey an order of the court issued under clause (i) as a contempt thereof.
+(C)
+Service of process
+All process in any case under this paragraph may be served in the judicial district whereof the applicable person is an inhabitant or wherever the person may be found or may be doing business.
+(D)
+Criminal penalty
+(i)
+Offense
+It shall be unlawful for a person to willfully fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in the power of the person so to do, in obedience to a subpoena of the Commission under this paragraph.
+(ii)
+Penalty
+Any person who violates clause (i) shall be fined not more than $100,000, imprisoned for not more than 1 year, or both.
+(4)
+Testimony by deposition
+(A)
+Instance of party
+The testimony of any witness may be taken, at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition, at any time after the proceeding is at issue.
+(B)
+Commission order
+The Commission may order testimony to be taken by deposition in any proceeding or investigation pending before the Commission, at any stage of the proceeding or investigation.
+(C)
+Person taking deposition
+A deposition under subparagraph (A) or (B) may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation.
+(D)
+Notice
+The party or the party's attorney proposing to take a deposition under subparagraph (A) or (B) shall first give notice in writing to the opposite party or the opposite party's attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of the deposition.
+(E)
+Compulsion to appear, depose, and produce documentary evidence
+Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as provided in paragraphs (2) and (3).
+(F)
+Writing
+Testimony in a deposition under subparagraph (A) or (B) shall be reduced to writing by the person taking the deposition, or under the direction of that person, and shall, after the testimony has been reduced to writing, be signed by the deponent.
+(5)
+Deposition of witness in a foreign country
+(A)
+In general
+If a witness whose testimony may be desired to be taken by deposition is in a foreign country, the deposition may be taken before an officer or person designated by the Commission, or agreed upon by the parties by stipulation in writing to be filed with the Commission.
+(B)
+Filing of depositions
+All depositions taken under subparagraph (A) shall be promptly filed with the Commission.
+(6)
+Deposition fees
+A witness whose deposition is taken as authorized under this subsection, and the person or officer taking the deposition, shall be entitled to the same fees as are paid for like services in the courts of the United States.
+(b)
+Hearings; rules of procedure
+(1)
+Hearings
+(A)
+In general
+Hearings under this division may be held before the Commission or any representative of the Commission designated by the Commission.
+(B)
+Records
+The Commission shall keep appropriate records of any hearing described in subparagraph (A).
+(C)
+Admission of parties
+In any proceeding before it, the Commission, in accordance with any rules that the Commission may prescribe, may admit as a partyâ
+(i)
+any interested State, State commission, or municipality;
+(ii)
+any representative of interested consumers or security holders;
+(iii)
+any competitor of a party to the proceeding; or
+(iv)
+any other person whose participation in the proceeding may be in the public interest, as determined by the Commission.
+(2)
+Rules of procedure
+(A)
+In general
+The Commissionâ
+(i)
+shall adopt rules of practice and procedure that govern each hearing, investigation, or proceeding under this division; and
+(ii)
+need not apply the Federal Rules of Evidence in the conduct of a hearing, investigation, or proceeding under this division.
+(B)
+Effect of informalities
+No informality in any hearing, investigation, or proceeding or in the manner of taking testimony shall invalidate any order, decision, or rule issued under the authority of this division.
+(c)
+Administrative enforcement
+In addition to other orders authorized under this division, the Commission may, after providing notice and an opportunity for a hearingâ
+(1)
+issue an order enjoining a person from engaging in a practice or behavior that violates this division or a rule promulgated under this division;
+(2)
+issue an order imposing a civil penalty on a person for a violation of this division, a rule promulgated under this division, or an administrative order issued under this division, not later than 6 years after the date on which the violation occurs, not to exceed 15 percent of the total annual revenue of the personâs ultimate parent entity during the preceding 12-month period;
+(3)
+for any person against which an administrative or judicial order is entered determining that the person engaged in a violation of this division, a rule promulgated under this division, or an administrative order issued under this division, issue an order debarring the person from participating in Federal contracts for a period of not less than 3 and not more than 7 years;
+(4)
+issue an order barring any individual who has violated this division, a rule promulgated under this division, or an administrative order issued under this division from participating as a stockholder, officer, board member, employee, or consultant of an entity in the same market, as determined by the Commission, in which the individual committed the violation;
+(5)
+issue an order imposing personal liability on an individual who is the chief executive officer, chief financial officer, or chief security officer (or the respective equivalents) of a person that has violated this division, a rule promulgated under this division, or an administrative order issued under this division for payment of damages and penalties relating to the violation by the person;
+(6)
+issue an order requiring disgorgement of all ill-gotten gains made by engaging in a violation of this division, a rule promulgated under this division, or an administrative order issued under this division; and
+(7)
+issue an order requiring restitution to all parties injured by a violation of this division, a rule promulgated under this division, or an administrative order issued under this division.
+(d)
+Review of orders
+(1)
+Administrative review
+(A)
+Application for rehearing
+(i)
+In general
+Not later than 30 days after the Commission issues a final order in a proceeding under this division, any person aggrieved by the order may apply for a rehearing.
+(ii)
+Contents
+An application for rehearing under clause (i) shall set forth specifically each ground upon which the application is based.
+(B)
+Commission action
+(i)
+In general
+Upon application under subparagraph (A), the Commission shallâ
+(I)
+grant or deny rehearing; or
+(II)
+abrogate or modify the order of the Commission without further hearing.
+(ii)
+Application deemed denied
+If the Commission does not act upon an application for rehearing filed under subparagraph (A) during the 30-day period beginning on the date of filing, the application shall be deemed to have been denied for purposes of paragraph (2)(A).
+(C)
+Modification of order
+Until the Commission has filed the record in a proceeding in a court of appeals, as provided in paragraph (2), the Commission may at any time, upon reasonable notice and in such manner as the Commission shall determine proper, modify or set aside, in whole or in part, any finding or order made or issued by the Commission under this division.
+(2)
+Judicial review
+(A)
+Petition for review
+A party to a proceeding under this division aggrieved by a final order issued by the Commission in the proceeding may only obtain a review of the order in the United States Court of Appeals for the District of Columbia Circuit, by filing in that court, not later than 60 days after the date on which the Commission disposes of the application for rehearing under paragraph (1), a written petition praying that the order of the Commission be modified or set aside in whole or in part.
+(B)
+Transmittal to Commission
+Upon the filing of a petition under subparagraph (A), the clerk of the United States Court of Appeals for the District of Columbia Circuit shall forthwith transmit a copy of the petition to the Commission.
+(C)
+Filing of record
+Upon receipt of a copy of a petition under subparagraph (B), the Commission shall file with the court the record upon which the order complained of was entered, as provided in section 2112 of title 28, United States Code.
+(D)
+Jurisdiction of court
+(i)
+Jurisdiction upon filing of petition
+Upon the filing of a petition under subparagraph (A) with respect to an order, the United States Court of Appeals for the District of Columbia Circuit shall have jurisdiction to affirm, modify, or set aside the order in whole or in part.
+(ii)
+Exclusive jurisdiction upon filing of record
+Upon the filing of the record upon which the order complained of was entered under subparagraph (C), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to affirm, modify, or set aside the order in whole or in part.
+(E)
+Failure to object during administrative review
+In a review under this paragraph, the United States Court of Appeals for the District of Columbia Circuit may not consider an objection to an order of the Commission unless the objection was urged before the Commission in the application for rehearing under paragraph (1), unless there is reasonable ground for failure to so object.
+(F)
+Findings of fact
+In a review under this paragraph, the findings of the Commission as to the facts (including definition of relevant markets and market shares), if supported by substantial evidence, shall be conclusive.
+(G)
+Consideration of additional evidence
+(i)
+In general
+If a party applies to the United States Court of Appeals for the District of Columbia Circuit for leave to adduce additional evidence, and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for failure to adduce the evidence in the proceedings before the Commission, the court may order the additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper.
+(ii)
+Commission actions
+The Commissionâ
+(I)
+may modify its findings as to the facts by reason of additional evidence taken under clause (i); and
+(II)
+shall file with the courtâ
+(aa)
+the modified or new findings which, if supported by substantial evidence, shall be conclusive; and
+(bb)
+its recommendation, if any, for the modification or setting aside of the original order.
+(H)
+Judgment and decree of court
+The judgment and decree of the United States Court of Appeals for the District of Columbia Circuit under this paragraph, affirming, modifying, or setting aside, in whole or in part, any order of the Commission, shall be final, subject to review by the Supreme Court of the United States upon writ of certiorari.
+(3)
+Stay of Commissionâs order
+(A)
+Administrative review
+The filing of an application for rehearing under paragraph (1) shall not, unless specifically ordered by the Commission, operate as a stay of the Commissionâs order.
+(B)
+Judicial review
+The commencement of proceedings under paragraph (2) shall not, unless specifically ordered by the United States Court of Appeals for the District of Columbia Circuit, operate as a stay of the Commissionâs order.
+(e)
+Referral of evidence for criminal proceedings
+(1)
+Authority
+(A)
+In general
+If the Commission obtains evidence that any person, either domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal lawâ
+(i)
+the Commission may transmit the evidence to the Attorney General; and
+(ii)
+the Attorney General may institute criminal proceedings under any applicable statute.
+(B)
+Relation to other authorities
+Nothing in subparagraph (A) shall affect any other authority of the Commission to disclose information.
+(2)
+International information
+The Commission shall endeavor to ensure, with respect to memoranda of understanding and international agreements it may conclude, that material it has obtained from foreign law enforcement agencies acting to investigate or pursue the enforcement of foreign criminal laws may be used for the purpose of investigation, prosecution, or prevention of violations of United States criminal laws.
+(f)
+Independent litigation authority
+In addition to the administrative enforcement described in subsection (c), if the Commission has reason to believe that a covered entity, including a platform operator, has engaged in a practice that violates this division, a rule promulgated under this division, or an administrative order issued under this division, the Commission may bring a civil action in an applicable district court of the United States (as provided in section 2702) toâ
+(1)
+enjoin any further such violation by the covered entity;
+(2)
+enforce compliance with this division, the rule promulgated under this division, or the administrative order issued under this division;
+(3)
+obtain a permanent, temporary, or preliminary injunction;
+(4)
+obtain civil penalties not to exceed 15 percent of the total annual revenue of the ultimate parent entity of the covered entity during the preceding 12-month period;
+(5)
+obtain damages (whether actual, punitive, or otherwise), restitution, disgorgement of unjust enrichment, or other compensation on behalf of aggrieved persons; or
+(6)
+obtain any other appropriate equitable relief.
+(g)
+Monitoring
+(1)
+Regulations
+The Commission mayâ
+(A)
+promulgate regulations to facilitate monitoring by the Commission to identify violations of this division, rules promulgated under this division, and administrative orders issued under this division; and
+(B)
+require operators of dominant platforms to prepare plans to prevent or address violations of this division, rules promulgated under this division, and administrative orders issued under this division.
+(2)
+AI techniques
+The regulations described in paragraph (1)(A) may require operators of dominant platforms to file a notice with the Commission regarding computational processes derived from artificial intelligence techniques that are made available to the public.
+(h)
+Reports to Congress
+Not later than 1 year after the date of enactment of this division, and semiannually thereafter, the Director, in coordination with the commissioners, shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that addresses, at a minimumâ
+(1)
+the number of administrative or judicial actions brought by the Commission during the reporting period to enforce this division and the outcome of each such enforcement action;
+(2)
+the number of open investigations or inquiries into potential violations of this division as of the time the report is submitted;
+(3)
+the number and nature of complaints received by the Commission under section 2118 during the reporting period;
+(4)
+an anonymized summary of the complaints received by the Commission under section 2118 for the reporting period;
+(5)
+policy or legislative recommendations to strengthen the enforcement of this division; and
+(6)
+the number of compliance requests and appeals submitted by users to dominant platform operators under subsections (b) and (c), respectively, of section 2201, based on reports received from the dominant platform operators under section 2201(e)(2).
+2116.
+Rulemaking authority
+(a)
+In general
+In accordance with section 553 of title 5, United States Code, the Commission mayâ
+(1)
+promulgate rules to implement any provision of this division; and
+(2)
+issue such procedural and administrative rules as are necessary to the exercise the functions of the Commission.
+(b)
+Initial rules
+Not later than 1 year after the date of enactment of this division, the Commission shall, in accordance with section 553 of title 5, United States Code, promulgate initial rules to implement titles II, III, IV, and V of this division.
+2117.
+Advisory boards
+(a)
+Establishment
+The Commission may establish an advisory board for a particular subject matter for the purpose of recommending rules to implement this division.
+(b)
+Term
+An advisory board established under subsection (a) shall have an initial term of 180 days, which may be extended by the Commission by not more than 90 days, subject to subsection (g).
+(c)
+Membership
+An advisory board established under subsection (a) shall be composed of 15 members approved by the Commission, of whomâ
+(1)
+5 shall be representatives of platforms, not more than 2 of whom shall be representatives of dominant platforms;
+(2)
+5 shall be academics, experts, or public-interest advocates whoâ
+(A)
+are not affiliated with commercial enterprises; and
+(B)
+have expertise in the particular subject matter; and
+(3)
+5 shall be technical experts in engineering, computer science, or another field determined relevant by the Commission.
+(d)
+Selection
+(1)
+Consensus
+Except as provided in paragraph (2), the Commission shall select the members of an advisory board established under subsection (a) by consensus.
+(2)
+Proportional
+If the commissioners are unable to reach consensus regarding the members of an advisory board established under subsection (a), the commissioners shall select the members of the advisory board in proportion to the commissioners' membership in political parties, as follows:
+(A)
+For each political party represented on the Commission, the commissioners who are members of that political party shall jointly select a number of advisory board members that bears the same relationship to the total number of advisory board members as the number of those commissioners bears to the total number of commissioners.
+(B)
+Any commissioners who are not members of a political party shall jointly select a number of advisory board members that bears the same relationship to the total number of advisory board members as the number of those commissioners bears to the total number of commissioners.
+(e)
+Employee status
+A member of an advisory board established under subsection (a) shall not be considered an employee of the Commission.
+(f)
+Non-Binding recommendations
+The recommended rules adopted by an advisory board established under subsection (a) shall not be binding on the Commission.
+(g)
+Meetings
+The Commission shall establish a public schedule for an advisory board established under subsection (a), under which the advisory board shall meet not less frequently than monthly.
+(h)
+Adoption
+The Commission may, by a majority vote of the Commission, adopt any recommended rules adopted by an advisory board established under subsection (a).
+(i)
+Required initial advisory boards
+Not later than 60 days after the date of enactment of this division, the Commission shall establish the following initial advisory boards, the initial terms of which may not be extended beyond 180 days:
+(1)
+A competition advisory board for the purpose of recommending rules to implement title III.
+(2)
+A privacy advisory board for the purpose of recommending rules to implement title IV.
+(3)
+A national security and public safety advisory board for the purpose of recommending rules to implement title V.
+(4)
+An artificial intelligence advisory board for the purpose of recommending rules to implement this division as it relates to artificial intelligence.
+2118.
+Complaints
+(a)
+In general
+(1)
+Establishment of process
+The Commission shall establish a process to receive complaints from the public alleging violations of this division, a rule promulgated under this division, or an administrative order issued under this division.
+(2)
+Management of process
+The Director of the Office of Licensing for Dominant Platforms established under section 2601 (in this section referred to as the
+Director
+) shall manage the complaint process established under paragraph (1).
+(b)
+Collecting and tracking complaints
+The Director shallâ
+(1)
+establish a unit whose functions shall include establishing a single, toll-free telephone number, a website, and a database to facilitate the centralized collection of, monitoring of, and response to complaints described in subsection (a)(1); and
+(2)
+coordinate with the Federal Trade Commission, the Attorney General, and other Federal agencies to route complaints to those agencies, where appropriate.
+(c)
+Confidentiality
+The Director shallâ
+(1)
+subject to paragraph (2), make complaints submitted under this section publicly available; and
+(2)
+ensure that the confidentiality of personally identifiable information in the complaints described in paragraph (1) is protected.
+B
+Dominant platforms
+2121.
+Dominant platforms
+(a)
+Definitions
+In this section:
+(1)
+Consumer Price Index
+The term
+Consumer Price Index
+means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics.
+(2)
+Dominant platform
+(A)
+In general
+The term
+dominant platform
+means a platform thatâ
+(i)
+has been designated as a dominant platform under subsection (c); and
+(ii)
+meets the requirements under subparagraph (B) or (C) of this paragraph.
+(B)
+Platform owned or controlled by publicly traded company
+The requirements under this subparagraph are that the platformâ
+(i)
+is owned or controlled by a person thatâ
+(I)
+is a publicly traded company; and
+(II)
+is a critical trading partner for the sale or provision of any product or service offered on or directly related to the platform; and
+(ii)
+(I)
+at any point during the 12-month period preceding a designation under subsection (c) or the 12-month period preceding an alleged violation of this division, a rule promulgated under this division, or an administrative order issued under this division, had not fewer thanâ
+(aa)
+50,000,000 United States-based monthly active users; or
+(bb)
+100,000 United States-based monthly active business users; and
+(II)
+duringâ
+(aa)
+the 2-year period preceding a designation under subsection (c) or the 2-year period preceding an alleged violation of this division, a rule promulgated under this division, or an administrative order issued under this divisionâ
+(AA)
+at any point, was owned or controlled by a person with United States net annual sales of greater than $550,000,000,000, adjusted for inflation on the basis of the Consumer Price Index; or
+(BB)
+during any 180-day period during the 2-year period, had an average market capitalization greater than $550,000,000,000, adjusted for inflation on the basis of the Consumer Price Index; or
+(bb)
+at any point during the 12-month period preceding a designation under subsection (c) or at any point during the 12-month period preceding an alleged violation of this division, a rule promulgated under this division, or an administrative order issued under this division, had not fewer than 1,000,000,000 worldwide monthly active users.
+(C)
+Platform not owned or controlled by publicly traded company
+The requirements under this subparagraph are that the platformâ
+(i)
+is owned or controlled by a person thatâ
+(I)
+is not a publicly traded company; and
+(II)
+is a critical trading partner for the sale or provision of any product or service offered on or directly related to the platform; and
+(ii)
+(I)
+at any point during the 12-month period preceding a designation under subsection (c) or the 12-month period preceding an alleged violation of this division, a rule promulgated under this division, or an administrative order issued under this division, had not fewer thanâ
+(aa)
+25,000,000 United States-based monthly active users; or
+(bb)
+75,000 United States-based monthly active business users; and
+(II)
+at any pointâ
+(aa)
+during the 2-year period preceding a designation under subsection (c) or the 2-year period preceding an alleged violation of this division, a rule promulgated under this division, or an administrative order issued under this division, was owned or controlled by a person with assets or earnings, before interest, taxes, depreciation, and amortization, in the previous fiscal year of greater than $30,000,000,000, adjusted for inflation on the basis of the Consumer Price Index; or
+(bb)
+during the 12-month period preceding a designation under subsection (c) or the 12-month period preceding an alleged violation of this division, a rule promulgated under this division, or an administrative order issued under this division, had not fewer than 1,000,000,000 worldwide monthly active users.
+(3)
+Publicly traded company
+The term
+publicly traded company
+â
+(A)
+means any company whose principal class of sharesâ
+(i)
+is listed on a stock exchange; and
+(ii)
+can be readily purchased or sold by the public; and
+(B)
+includes all subsidiaries of a company described in subparagraph (A).
+(b)
+Affirmative duty To report
+(1)
+In general
+Not later than December 31st of each calendar year that begins after the date of enactment of this division, a platform operator described in paragraph (2) shall report to the Commission, for each platform that the operator operatesâ
+(A)
+the number of unique monthly visitors based in the United States that visited the platform each month of that calendar year; and
+(B)
+any other information that the Commission may require.
+(2)
+Platform operators required to report
+A platform operator described in this paragraph is a platform operator thatâ
+(A)
+owns or controls a platform that had not fewer than 25,000,000 unique monthly visitors based in the United States for a majority of months during the preceding 6 months; or
+(B)
+has United States net annual sales or a market capitalization greater than $250,000,000,000, adjusted annually for inflation based on the change in the Consumer Price Index.
+(c)
+Designation
+(1)
+Official designation through publication
+Subject to paragraph (3), the Commission shall officially designate a platform that meets the requirements under subparagraph (B) or (C) of subsection (a)(2) as a dominant platform by publishing the designation in the Federal Register.
+(2)
+Duration of designation
+The designation of a platform as a dominant platform under paragraph (1) shall apply indefinitely, regardless of whether there is a change in control or ownership of the platform, unless the Commission removes the designation under subsection (d).
+(3)
+Rules
+The Commission may, as the Commission determines appropriate, promulgate rules toâ
+(A)
+adjust a numeric threshold in subsection (a) or (b), provided that the Commission may not adjust any numeric threshold below the value in the applicable subsection; or
+(B)
+define additional characteristics that a platform must have in order to be designated as a dominant platform under paragraph (1).
+(d)
+Removal of dominant platform designation
+(1)
+Request
+If a platform designated as a dominant platform under subsection (c) ceases to meet the qualifications for such a designation, the operator of the platform may submit to the Commission a request for removal of the designation, along with evidence that the platform no longer so qualifies.
+(2)
+Determination
+(A)
+In general
+Not later than 120 days after receiving a request under paragraph (1), the Commission shall determine whether to grant the request.
+(B)
+Denied requests
+The denial under subparagraph (A) of a request submitted under paragraph (1) shall be treated as an order subject to review under section 2115(d).
+(e)
+Avoidance
+(1)
+In general
+It shall be unlawful for an operator of a platform to take any action to intentionally avoid having the platform meet the qualifications for designation as a dominant platform.
+(2)
+Rules
+The Commission may promulgate rules to clarify actions that constitute a violation of paragraph (1).
+II
+Transparency reform
+2201.
+Transparency practices and appeal rights
+(a)
+Transparency
+(1)
+In general
+With respect to products and services offered through a dominant platform, the operator of the dominant platformâ
+(A)
+shall make publicly available, through clear and conspicuous disclosure, the dominant platformâs terms of service, which shall include the criteria the operator employs in content-moderation practices;
+(B)
+shall implement and maintain reasonable and user-friendly appeals processes for decisions about content restrictions on the dominant platform, in accordance with subsection (c);
+(C)
+if the operator restricts access to content published by a user of the dominant platform (including by blocking, deleting, or restricting access to a post or link, limiting the reach of a post or the user, deplatforming or suspending the user or the posts of the user, or excluding or deprioritizing posts or other materials of the user from search results), shall, except as provided in paragraph (2), provide the user with a notice, as soon as is reasonably practical, and not later than 24 hours after restricting access, thatâ
+(i)
+acknowledges that the action was taken and provides the justification for the action, with reference to the terms of service of the dominant platform; and
+(ii)
+clearly explains the process by which the user may appeal the decision, including the deadline to submit the appeal; and
+(D)
+not later than 7 days after the date on which the operator receives a request from a user under subsection (b) to remove content, if the operator does not remove the content, shall provide the user with a notice thatâ
+(i)
+acknowledges the refusal to remove the content and provides the justification for the refusal; and
+(ii)
+clearly explains the process by which the user may appeal the decision, including the deadline to submit the appeal.
+(2)
+Exceptions to notice requirement
+The requirement to issue a notice under paragraph (1)(C) shall not apply ifâ
+(A)
+that notice would risk imminent harm to others;
+(B)
+the operator reasonably believes that the material relates to terrorism, including domestic terrorism, or other criminal activity, provided that such lack of notice does not discriminate on the basis of a protected class; or
+(C)
+a law enforcement agency requests that the notice not be made and provides a substantive justification for that request.
+(b)
+Compliance requests
+If a user of a dominant platform believes the operator of the dominant platform is in violation of its terms of service, the user may request that the operator comply with the terms of service.
+(c)
+Appeals to operators of dominant platforms
+If an operator of a dominant platform issues a notice required by subparagraph (C) or (D) of subsection (a)(1), the operator shall provide an appeals process that meets the following requirements:
+(1)
+A user may request an appeal through an
+opt-in
+option thatâ
+(A)
+does not require the user to provide additional information; and
+(B)
+is available immediately following issuance of the notice.
+(2)
+Not later than 7 days after the date on which the user requests an appeal as described in paragraph (1), the operator shall provide the user withâ
+(A)
+a statement describing with particularity the reasonable factual basis for the decision that triggered the notice requirement, including by citing each specific provision of the terms of service or other policy upon which the decision was based; and
+(B)
+an opportunity, for a period of not fewer than 30 days beginning immediately after provision of the statement under subparagraph (A), to present reasons for which the operator should reverse its decision.
+(3)
+The operator shall make a final determination on the appeal not later than 7 days after the date on which the user presents reasons under paragraph (2)(B).
+(d)
+Complaints to the Commission
+(1)
+Complaints
+(A)
+In general
+A user who is subject to an adverse final decision from an operator of a dominant platform under subsection (c) may submit a complaint to the Commission regarding a violation of subsection (a) or (c).
+(B)
+Limit
+A user may not submit more than 1 complaint under subparagraph (A) per alleged violation.
+(2)
+Compliance
+The Commission, after providing notice and an opportunity for a hearing to the relevant parties, mayâ
+(A)
+issue an order requiring an operator of a dominant platform in violation of subsection (a) or (c) to comply with the applicable subsection; and
+(B)
+impose a civil penalty on an operator of a dominant platform for a violation described in subparagraph (A), in accordance with section 2115(c)(2).
+(e)
+Record-Keeping; reports to Commission
+(1)
+Records
+(A)
+In general
+An operator of a dominant platform shall keep a record of eachâ
+(i)
+compliance request regarding a violation of terms of service submitted by a user under subsection (b);
+(ii)
+instance in which the operator does not provide a notice under paragraph (1)(C) of subsection (a) in accordance with an exception under paragraph (2) of that subsection, including a specification of the applicable exception; and
+(iii)
+appeal submitted by a user under subsection (c).
+(B)
+Contents
+A record described in subparagraph (A) shallâ
+(i)
+describe the disposition of the compliance request or appeal by an operator of a dominant platform; and
+(ii)
+categorize the subject matter of the compliance request or appeal in accordance with rules developed by the Commission.
+(2)
+Reports to Commission
+In accordance with rules promulgated by the Commission, on a quarterly and annual basis, an operator of a dominant platform shall submit to the Commission a report thatâ
+(A)
+details the number of compliance requests and appeals described in paragraph (1)(A) that were submitted to the operator during the reporting period;
+(B)
+categorizes the nature of each compliance request or appeal described in subparagraph (A);
+(C)
+describes the disposition of each compliance request or appeal described in subparagraph (A); and
+(D)
+provides, for each exception under paragraph (2) of subsection (a), the number of times the operator did not provide a notice under paragraph (1)(C) of that subsection in accordance with that exception.
+2202.
+Best practices
+The Commission shall establish a standardized policy that operators of dominant platforms can adopt regarding content moderation and appeals of content-moderation decisions that complies with subsections (a) and (b) of section 2201.
+III
+Competition reform
+A
+Antitrust review
+2311.
+Abuses of dominance
+(a)
+Definitions
+In this section:
+(1)
+No-poach agreement
+The term
+no-poach agreement
+means any agreement between 2 or more employers, including contractor-subcontractor agreements, whether written, verbal, or inferred, that prohibits or restricts one employer from soliciting or hiring the employees or former employees of another employer.
+(2)
+Noncompete agreement
+The term
+noncompete agreement
+means an agreement, entered into between a person and any individual who performs work for the person that restricts the individual from performing, after the relationship for providing work terminates, any of the following:
+(A)
+Any work for another employer for a specified period of time.
+(B)
+Any work in a specific geographical area.
+(C)
+Any work for another employer that is similar to the work performed by the individual for the person.
+(3)
+Predispute arbitration agreement
+The term
+predispute arbitration agreement
+means an agreement to arbitrate a dispute that has not yet arisen at the time of the making of the agreement.
+(4)
+Predispute class-action waiver
+The term
+predispute class-action waiver
+means an agreement, whether or not part of a predispute arbitration agreement, that would prohibit, or waive the right of, one of the participants to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.
+(5)
+Self-preferencing
+The term
+self-preferencing
+means, with respect to an operator of a dominant platformâ
+(A)
+advantaging the products, services, or lines of business of the operator on the platform over the products, services, or lines of business of another business user;
+(B)
+excluding or disadvantaging the products, services, or lines of business of another business user relative to the products, services, or lines of business of the operator;
+(C)
+interfering with or restricting the ability of any business user of the platform to set prices for its products or services, whether or not those products or services are offered on the platform; or
+(D)
+conditioning access to the platform or preferred status or placement on the platform on the purchase or use of other products or services offered by the covered platform operator.
+(6)
+Tying arrangements
+The term
+tying arrangement
+means any agreement, including an agreement that is written, verbal, or inferred from conduct, through which the seller conditions the sale of 1 product, service, or contract on the agreement of a customer to purchase or obtain another distinct product, service, or contract.
+(7)
+Undue discrimination
+The term
+undue discrimination
+meansâ
+(A)
+making or granting any preference or advantage to any person or subjecting any person to any undue prejudice or disadvantage when compared to similarly situated customers, suppliers, users, or trading partners; or
+(B)
+maintaining any difference in prices, rates, charges, services, facilities, access, terms of service, licenses, contractual terms, or any other aspect among similarly situated customers, suppliers, users, or trading partners.
+(b)
+Prohibition
+It shall be unlawful for any operator of a dominant platform to abuse, or attempt to abuse, its dominance or otherwise engage in conduct that harms competition or creates or helps maintain an unfair method of competition, a monopoly, or a monopsony, regardless of any alleged procompetitive benefits or efficiencies.
+(c)
+Presumptive violations
+The following practices by an operator of a dominant platform shall constitute presumptive violations of subsection (b):
+(1)
+Undue discrimination.
+(2)
+Tying arrangements.
+(3)
+Self-preferencing.
+(4)
+Predispute arbitration agreements or predispute class-action waivers with users, customers, trading partners, or employees.
+(5)
+Noncompete agreements, except in the case of a legitimate acquisition or sale of a business or assets.
+(6)
+No-poach agreements.
+(d)
+Rebuttal
+A defendant may rebut a violation of subsection (b), including the presumptive violations described in subsection (c), with clear and convincing evidence that the alleged practice did not result in any harm to the relevant aggrieved party.
+(e)
+Rulemaking
+The Commission may promulgate rules toâ
+(1)
+further define the presumptive violations listed in subsection (c); or
+(2)
+identify and define additional practices that constitute presumptive violations of subsection (b).
+2312.
+Platform conflicts of interest
+(a)
+Prohibition
+It shall be unlawful for any operator of a dominant platform to maintain, or engage in any action that creates, a platform conflict of interest.
+(b)
+Remedy
+The Commission or a court, as applicable, may issue an order requiring an operator of a dominant platform to eliminate any platform conflict of interest by implementingâ
+(1)
+divestitures, which, to the extent practicable, shall be specified, standalone business units or lines; and
+(2)
+other actions necessary to eliminate the platform conflict of interest.
+(c)
+Rulemaking
+The Commission may promulgate rulesâ
+(1)
+to further define critical trading partners, the prohibition in subsection (a) or the remedy in subsection (b); or
+(2)
+as it determines appropriate to carry out this section.
+2313.
+Future acquisitions
+(a)
+Notification
+Any operator of a dominant platform required to file a notification under section 7A of division A shall simultaneously file that notification with the Commission.
+(b)
+Violation
+(1)
+In general
+Except as provided in paragraph (2), it shall be unlawful for an operator of a dominant platform to acquire, directly or indirectly, the whole or any part of the stock, other share capital, or assets of (or to be acquired by) another person engaged in commerce or in any activity affecting commerce unless the parties to the acquisition demonstrate, by clear and convincing evidence, that the acquisition would serve the public interest.
+(2)
+Exclusion
+Paragraph (1) shall not apply to any acquisition that is not subject to section 7A of division A.
+(c)
+Order
+Not later than the end of the 120-day period beginning on the date on which the notification described in subsection (a) is filed with the Commission, the Commission shall, after providing notice and an opportunity for a hearing to the parties of an acquisition described in subsection (a), issue an order barring the consummation of the acquisition if the Commission determines that the parties to the acquisition failed to demonstrate that the acquisition would serve the public interest.
+(d)
+Standards regarding the public interest
+(1)
+In general
+For the purposes of this section, effects on the public interest include effects onâ
+(A)
+competition;
+(B)
+workers;
+(C)
+consumers;
+(D)
+customer choice;
+(E)
+sellers;
+(F)
+local, rural, or low-income communities;
+(G)
+privacy;
+(H)
+national security or public safety;
+(I)
+quality;
+(J)
+entrepreneurship;
+(K)
+innovation;
+(L)
+price; or
+(M)
+accessibility of goods or services.
+(2)
+Inherent harms
+In addition to other effects that may be assessed when evaluating an acquisition for which any party (or its ultimate parent entity) is the operator of a dominant platform, the acquisition would not serve the public interest ifâ
+(A)
+another party to the acquisition offers overlapping, competing, or functionally equivalent services or products;
+(B)
+another party to the acquisition is a critical trading partner in the supply chains or business ecosystems of the parties; or
+(C)
+the acquisition would create a platform conflict of interest.
+(3)
+Potential harms
+In addition to other effects that may be assessed when evaluating an acquisition for which any party (or its ultimate parent entity) is the operator of a dominant platform, it may be determined that the acquisition would not serve the public interest ifâ
+(A)
+the acquisition would result in a postacquisition market share of greater than 33 percent of any relevant market (including labor markets);
+(B)
+the acquisition wouldâ
+(i)
+result in a Herfindahl-Hirschman Index greater than 1,800 in any relevant market; and
+(ii)
+increase the Herfindahl-Hirschman Index by more than 100 in any relevant market; or
+(C)
+the acquisition would result in an aggregation of data or access to data in a matter that harms the competitive process or creates or helps maintain a monopoly, a monopsony, market power, or unfair methods of competition.
+(e)
+Nonreportable acquisitions
+Nothing in this section shall prevent the Commission from barring the consummation ofâ
+(1)
+any acquisition for which the operator of a dominant platform is not required to file a notification under section 7A of division A if the Commission determines that the acquisition would not serve the public interest; or
+(2)
+any acquisition that would result in a dominant platform if the Commission determines that the acquisition would not serve the public interest.
+2314.
+Retrospective reviews
+(a)
+In general
+The Commission may retrospectively review any acquisitionâ
+(1)
+consummated by the operator of a dominant platform; or
+(2)
+that resulted in a dominant platform.
+(b)
+Material harm to the public interest
+If, after the review under subsection (a), the Commission determines that the acquisition materially harmed the public interest, the Commission, as applicable, may order a remedy to improve the public interest, restore competition, or otherwise address the anticompetitive or harmful impacts of the acquisition, includingâ
+(1)
+unwinding the acquisition; or
+(2)
+requiring that the acquiring person make divestitures, which, to the extent practicable, shall be specified, standalone business units or lines.
+(c)
+Standards regarding material harm to the public interest
+For the purposes of this section, in addition to other effects on the public interest that may be assessed (including those described in section 313), an acquisition described in subsection (a) materially harms the public interest under subsection (b) ifâ
+(1)
+the operator of a dominant platform acquired a critical trading partner;
+(2)
+the acquisition resulted in a postacquisition market share of greater than 50 percent of any relevant market (including labor markets); or
+(3)
+the acquisitionâ
+(A)
+resulted in a Herfindahl-Hirschman Index greater than 2,500 in any relevant market; and
+(B)
+increased the Herfindahl-Hirschman Index by more than 200 in any relevant market.
+2315.
+Additional remedies
+(a)
+In general
+The Commission may investigate any platform operator for violations of this title and order remedies, including structural, behavioral, or other remedies, to restore competition.
+(b)
+Divestitures
+The Commission may order divestitures, which, to the extent practicable, shall be specified, standalone business units or lines, with respect to any previously completed acquisition to which a platform operator was a party.
+(c)
+Divestiture buyers
+The Commission shall approve any proposed divestiture buyer unless the Commission determines thatâ
+(1)
+selling the divested assets to the proposed buyer would harm the public interest;
+(2)
+the proposed buyer does not have a material incentive to use the divested assets to compete in the relevant market; or
+(3)
+the proposed buyer lacks the sufficient acumen, experience, or financial capability to compete in the relevant market over the long term or is otherwise unlikely to do so based on the historical activity of the buyer.
+2316.
+Contractual transparency
+The Commission may promulgate rules that require operators of dominant platforms to file with the Commission or make publicly available, in such forms as the Commission may designate, certain pricing or other contractual terms, including pricing terms for business users of the dominant platform.
+2317.
+Prohibition on abusive acts or practices
+(a)
+Declaration of unlawfulness
+An abusive act or practice committed by a covered entity is unlawful.
+(b)
+Abusive act or practice defined
+(1)
+In general
+For purposes of this section, the term
+abusive act or practice
+means any conduct thatâ
+(A)
+materially interferes with the ability of a user of a platform owned or controlled by a covered entity to understand a term, condition, benefit, or consequence of an agreement between the covered entity and the user; or
+(B)
+takes unreasonable advantage ofâ
+(i)
+a lack of understanding on the part of a user of a platform owned or controlled by a covered entity of the material risks, costs, or conditions of a product or service offered by the covered entity;
+(ii)
+the inability of a user of a platform owned or controlled by a covered entity to protect the interests of the user in selecting or using a product or service of the covered entity; or
+(iii)
+the reasonable reliance by a user of a platform owned or controlled by a covered entity on the representation of the covered entity to act in the best interests of the user.
+(2)
+Commission enforcement
+The Commission may promulgate rules to further define the term
+abusive act or practice
+for purposes of this section.
+2318.
+Data brokers
+An operator of a dominant platform may not, for monetary or other consideration, sell, resell, license, or trade to a data broker personal data, except in accordance with other laws permitting disclosure of personal data and rules promulgated by the Commission to implement this section.
+B
+Data portability and interoperability.
+2321.
+Data portability and interoperability
+(a)
+Data portability
+An operator of a dominant platform, with respect to the dominant platform, shall maintain a set of interfaces that are transparent and accessible to third parties (including application programming interfaces) to provide a user (or a third party authorized by a user), upon the request of the user (or such a third party) and free of charge, with effective portability of data provided by the user or generated through the activity of the user in the context of the use of the relevant core platform service of the dominant platform, including by providing free of charge tools to facilitate the effective exercise of that data portability.
+(b)
+Interoperability
+An operator of a dominant platform, with respect to the dominant platform, shall, free of chargeâ
+(1)
+allow a business user, provider of services, provider of ancillary services, or provider of hardware access to and interoperability with the same hardware features and software features accessed or controlled via an operating system that are available to services on the dominant platform or hardware provided by the operator;
+(2)
+provide a business user (or a third party authorized by a business user), upon the request of the business user (or such a third party), with continuous and real-time access and use of aggregated and non-aggregated data, that is provided for or generated in the context of the use of the relevant core platform services of the dominant platform or ancillary services offered by the dominant platform to the business user and each end user engaging with a product or service provided by the business user; and
+(3)
+provide, at the request of a business user, the possibility and necessary tools to access and analyze data on the dominant platform without a transfer from the dominant platform.
+(c)
+Security measures
+Nothing in subsection (a) or (b) shall be construed to prohibit an operator of a dominant platform from taking indispensable measures, duly justified by the operator, to ensure that data portability and interoperability do notâ
+(1)
+compromise the integrity of the operating system, hardware features, or software features provided by the operator; or
+(2)
+undermine end-user data protection or cyber security.
+C
+Miscellaneous
+2331.
+Rule of construction
+Nothing in this title shall be construed to limit liability under the Federal Trade Commission Act (
+15 U.S.C. 12 et seq.
+) or the antitrust laws, as defined in section 1(a) of division A.
+IV
+Privacy reform
+A
+Covered entity duties and requirements.
+2411.
+Duty of loyalty
+A covered entity may not process personal data or design information technologies in a way that substantially conflicts with the best interests of a person with respect toâ
+(1)
+the experience of the person when using a platform owned or controlled by the covered entity; or
+(2)
+the personal data of the person.
+2412.
+Duty of care
+(a)
+In general
+A covered entity may not design or employ services or algorithms, or process, collect, store, or transfer personal data, in a manner that causes or is likely to cause any of the following:
+(1)
+Physical, economic, relational, or reputational injury to a person.
+(2)
+Psychological injuries that would be highly offensive to a reasonable person.
+(3)
+Discrimination on the basis of a personâs or class of personsâ actual or perceived race, color, ethnicity, sex (including sexual orientation, gender identity, and sex characteristics), religion, national origin, familial status, biometric information, or disability status.
+(4)
+Discrimination regarding a decision that produces a legal effect or similarly significant effect concerning a person.
+(b)
+Definition
+For purposes of subsection (a)(4), the term
+decision that produces a legal effect or similarly significant effect concerning a person
+includes denial or degradation of consequential services or support, such as financial or lending services, housing, insurance, educational enrollment, criminal justice, employment opportunities, health care services, and access to basic necessities, such as food and water.
+(c)
+Exceptions
+Subsection (a) shall not apply toâ
+(1)
+the design or employment of services or algorithms, or the processing, collecting, storing, or transferring of personal data, for the purpose ofâ
+(A)
+a covered entityâs self-testing to prevent or mitigate unlawful discrimination;
+(B)
+diversifying an applicant, participant, or customer pool; or
+(C)
+providing resources for the prevention of harm, consistent with evidence-based medical information; or
+(2)
+any private club or group not open to the public, as described in section 201(e) of the Civil Rights Act of 1964 (
+42 U.S.C. 2000a(e)
+).
+2413.
+Duty of mitigation
+(a)
+In general
+A covered entity shall mitigate the heightened risks of physical, emotional, developmental, or material harms posed by materials on, or engagement with, any platform owned or controlled by the covered entity, includingâ
+(1)
+promotion of self-harm and other matters that pose a risk to physical and mental health consistent with evidence-based medical information;
+(2)
+patterns of use that indicate or encourage addiction-like behaviors;
+(3)
+physical harm, online bullying, and harassment; and
+(4)
+predatory, unfair, or deceptive marketing practices.
+(b)
+Safeguards
+A covered entity shallâ
+(1)
+provide a user of a platform owned or controlled by the covered entity with readily accessible and easy-to-use safeguards to control the experience and personal data of the user, including settings toâ
+(A)
+limit the ability of other persons to contact or find the user;
+(B)
+prevent other persons from viewing the personal data of the user that is collected by the covered entity or shared on the platform, and in particular restrict public access to that personal data;
+(C)
+limit features that increase, sustain, or extend use of the platform, such as automatic playing of media, rewards for time spent on the platform, and notifications;
+(D)
+opt out of algorithmic recommendation systems that use personal data;
+(E)
+delete the userâs account and request removal of personal data;
+(F)
+(i)
+restrict the sharing of the geolocation of the user; and
+(ii)
+provide notice regarding the tracking of the geolocation of the user; and
+(G)
+limit time spent by the user on the platform; and
+(2)
+by default, set the safeguards provided under paragraph (1) at the most protective setting.
+2414.
+Duty of confidentiality; data collection and processing
+(a)
+Requirement for a legitimate basis for processing data
+A covered entity may only process the personal data of a person if 1 or more of the following applies:
+(1)
+Processing is necessaryâ
+(A)
+for the performance of a contract to which the person is party; or
+(B)
+in order to take steps at the request of the person before entering into a contract.
+(2)
+Processing is necessary for compliance with a legal obligation to which the covered entity is subject.
+(3)
+Processing is necessary in order to protect the vital interests of the person or another individual.
+(4)
+Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the covered entity.
+(5)
+Processing is necessary for the purposes of the legitimate interests pursued by the covered entity, unless those interests are overridden by the interests (including constitutional rights, civil rights, and civil liberties) of the person that require protection of personal data, in particular if the person is a child.
+(b)
+Purpose limitation requirement
+A covered entityâ
+(1)
+shall articulate to a person through clear and conspicuous disclosure a specific, explicit, and legitimate purpose for any processing of personal data of the person; and
+(2)
+may not process personal data in a manner that is incompatible with the purpose articulated under paragraph (1).
+(c)
+Data minimization requirement
+A covered entity shall ensure that all personal data that the covered entity collects and processes is adequate, relevant, and limited to what is necessary in relation to the purposes for which the covered entity processes the personal data.
+(d)
+Accuracy requirement
+A covered entity shallâ
+(1)
+ensure that personal data that the covered entity maintains regarding a person is accurate;
+(2)
+where necessary, keep the personal data described in paragraph (1) up-to-date; and
+(3)
+take every reasonable step to erase or rectify without delay any personal data that the covered entity maintains regarding a person that is inaccurate.
+(e)
+Storage limitation requirement
+A covered entity shall ensure that personal data that the covered entity maintains regarding a person is kept in a form that permits identification of data subjects for no longer than is necessary for the purposes for which the data is processed.
+(f)
+Governmental entities
+A covered entity may not transfer to, share with, or otherwise provide or make available to any governmental entity personal data absent a search warrant, except in accordance with rules promulgated by the Commission to implement this section.
+(g)
+Rulemaking
+The Commission shall promulgate rules to implement this section and to protect the confidentiality of personal data.
+2415.
+Limitations on targeted advertising
+(a)
+Prohibited cross-Platform targeted advertising
+A covered entity that is an operator of a platform may not target advertising to a user of the platform based on the userâs personal data obtained from the userâs activity across other, distinctly branded platforms.
+(b)
+Permissible targeted advertising
+A covered entity that is an operator of a platform may target advertising to a user of the platformâ
+(1)
+based on the userâs first-party personal data obtained from the userâs activity on that platform; or
+(2)
+in response to the userâs request for information or feedback.
+2416.
+Rights of data subjects to access, correction, portability, and deletion
+(a)
+Access to and portability of personal data
+A person shall have the right toâ
+(1)
+access all personal data of the person that is processed by a covered entity;
+(2)
+access all information pertaining to the collection and processing of the personal data of the person by a covered entity, includingâ
+(A)
+where, or from whom, the covered entity obtained the personal data, such as whether the personal data was obtainedâ
+(i)
+from the person or a third party; and
+(ii)
+online or offline;
+(B)
+the types of third parties to which the covered entity has disclosed or will disclose the personal data;
+(C)
+the purposes of the processing;
+(D)
+the categories of the personal data;
+(E)
+the names of third parties to which the covered entity has disclosed the personal data and a log showing when the disclosure occurred; and
+(F)
+the period of retention of the personal data;
+(3)
+obtain any personal data of the person that has been processed by a covered entity in a structured, readily usable, portable, and machine-readable format;
+(4)
+with respect to personal data of the person that is stored by a covered entity, transmit or cause the covered entity to transmit the personal data to another covered entity, where technically feasible; and
+(5)
+request that a covered entity stop collecting and processing the personal data of the person.
+(b)
+Correction and deletion of personal data
+A person shall have the right toâ
+(1)
+correct inaccurate personal data of the person that is stored by a covered entity; and
+(2)
+delete all the personal data of the user that is stored by a covered entity.
+(c)
+Exercise of rights
+(1)
+In general
+A covered entity shall provide a person with a reasonable means to exercise the rights provided under subsections (a) and (b) in a request form thatâ
+(A)
+contains a clear and conspicuous disclosure of the rights;
+(B)
+is made available at no additional cost and with no transactional penalty to the person; and
+(C)
+is in English and any other language in which the covered entity communicates with the person, as applicable.
+(2)
+Deadline to comply with request
+The Commission shall promulgate rules to establish deadlines for a covered entity to comply with a request under paragraph (1).
+2417.
+Right to know
+(a)
+In general
+A person shall have the right to know what personal data a covered entity will collect and process about the person (including through a data processor), including the categories and specific pieces of personal data the covered entity processes, before giving consent for the collection and processing of the personal data of the user.
+(b)
+Meaningful notice
+(1)
+In general
+A covered entity shall make publicly availableâ
+(A)
+a current long-form privacy policy;
+(B)
+a current short-form privacy policy; and
+(C)
+all privacy policies that were previously in effect.
+(2)
+Requirements for privacy policies
+(A)
+In general
+A covered entity shall make each current privacy policy of the covered entity persistently and conspicuously available at or prior toâ
+(i)
+the point of sale of, subscription to, or sign up for a product or service; or
+(ii)
+at or prior to the point of creation of an account with a platform owned or controlled by the covered entity.
+(B)
+Short-form privacy policy
+The short-form privacy policy required under paragraph (1) shallâ
+(i)
+use plain language; and
+(ii)
+includeâ
+(I)
+the personal data being processed;
+(II)
+whether personal data will be processed for purposes of targeted advertisements or monetization; and
+(III)
+the period of retention of the personal data expressed in exact dates.
+(3)
+Rulemaking
+The Commission shall promulgate rules specifying requirements for the privacy policies required by this subsection, including rules regarding the online and offline accessibility, time of availability, and contents of the policies.
+(4)
+Standardized short-form privacy policy
+The Commission shall establish a standardized short-form privacy policy that complies with paragraph (2)(B) and any associated rules promulgated by the Commission.
+B
+Data security reform
+2421.
+Data security safeguards
+(a)
+In general
+A covered entity shall ensure appropriate security of personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction, or damage, using reasonable technical, physical, and organizational safeguards and using reasonably designed technological systems to protect persons exposed by their interactions with the covered entity.
+(b)
+Information security program
+(1)
+In general
+As part of the duty to ensure appropriate security of personal data under subsection (a), a covered entity shall establish and implement, and thereafter maintain, a comprehensive information security program (referred to in this subsection as the
+Information Security Program
+) that is designed to protect the security, confidentiality, and integrity of personal data.
+(2)
+Requirements
+To satisfy the requirement under paragraph (1), a covered entity shall, at a minimumâ
+(A)
+document in writing the content, implementation, and maintenance of the Information Security Program;
+(B)
+designate 1 or more qualified employees to coordinate and be responsible for the Information Security Program;
+(C)
+not less frequently than once every 12 months, and promptly following a covered breach, assess and document internal and external risks to the security, confidentiality, or integrity of personal data that could result in the unauthorized disclosure, misuse, loss, alteration, destruction, or other compromise of such personal data;
+(D)
+design, implement, and document safeguards thatâ
+(i)
+address the internal and external risks to the security, confidentiality, or integrity of personal data that the covered entity identifies under subparagraph (C); and
+(ii)
+take into account the sensitivity of the personal data at issue;
+(E)
+not less frequently than once every 12 months, and promptly following a covered breach, assess the sufficiency of any safeguards in place to address the risks to the security, confidentiality, or integrity of personal data, which shall include an evaluation of safeguards in each area of relevant operation, includingâ
+(i)
+employee training and management;
+(ii)
+information systems, such as network and software design, information processing, storage, transmission, and disposal; and
+(iii)
+prevention, detection, and response to attacks, intrusions, or other system failures; and
+(F)
+(i)
+not less frequently than once every 12 months and promptly following a covered breach, test and monitor the effectiveness of the safeguards described in subparagraph (E); and
+(ii)
+modify the Information Security Program based on the results of testing and monitoring under clause (i).
+2422.
+Civil penalties and damages for data breaches
+(a)
+Standard penalty
+(1)
+In general
+The Commission may issue an order toâ
+(A)
+impose on a covered entity a civil penalty of $150 for each covered breach of the personal data of a person held by the covered entity; and
+(B)
+pay $50 of the amount collected for a civil penalty under subparagraph (A) to the affected person.
+(2)
+Cap
+The total amount collected from a covered entity under paragraph (1) in a single administrative action may not exceed 50 percent of the revenue of the ultimate parent entity of the covered entity during the preceding calendar year.
+(b)
+Enhanced penalty
+(1)
+In general
+The Commission may double the amount of a civil penalty imposed under subsection (a)(1)(A) and the corresponding amount paid to an affected person under subsection (a)(1)(B) if the covered entity fails to notify the Commission or the affected person of the covered breach by the date that is 30 days after the date on which the covered entity knew or had reason to know of the covered breach.
+(2)
+Cap
+The total amount collected from a covered entity under paragraph (1) may not exceed 75 percent of the revenue of the ultimate parent entity of the covered entity during the preceding calendar year.
+(c)
+Safe harbor
+Neither the Commission nor any State, person, or other Federal agency may (as applicable) issue an order under subsection (a) or bring an action against a covered entity for a covered breach if the covered entity has complied with section 2421 and any rules promulgated by the Commission to implement that section.
+(d)
+Damages
+In a civil action brought by an affected person under section 2701(b) for a violation of section 2421 that resulted in a covered breach, the court may award damages in an amount that is the greater ofâ
+(1)
+$100 per covered breach; or
+(2)
+actual damages.
+C
+Miscellaneous
+2431.
+Authority to propose and establish heightened requirements for dominant platform operators
+For purposes of this titleâ
+(1)
+an advisory board established under section 2117 may propose heightened requirements for covered entities that are operators of dominant platforms; and
+(2)
+the Commission may promulgate rules under section 2116 with heightened requirements for covered entities that are operators of dominant platforms.
+V
+National Security Reform
+2501.
+Corporate citizenship and ownership
+(a)
+Definition
+In this section, the term
+foreign adversary
+has the meaning given the term in section 8(c) of the Secure and Trusted Communications Networks Act of 2019 (
+47 U.S.C. 1607(c)
+).
+(b)
+Corporate citizenship
+(1)
+In general
+An operator of a dominant platform shallâ
+(A)
+be a citizen of the United States; or
+(B)
+own a subsidiary corporationâ
+(i)
+that is a citizen of the United States; and
+(ii)
+the number of directors of which who are noncitizens is less than half of the number of directors necessary to constitute a quorum.
+(2)
+Directors
+No director of a subsidiary corporation described in paragraph (1)(B) may be a citizen of a foreign adversary.
+(c)
+Ownership
+If more than 10 percent of the owners of an operator of a dominant platform are citizens of a foreign adversary, the operator of the dominant platform shall sequester any back-end data, algorithm, or information about United States users on the dominant platform so that the back-end data, algorithm, or information is inaccessible to any subsidiary, affiliate, director, employee, or agent of the operator of the dominant platform that is based outside of the United States.
+(d)
+Review by Committee on Foreign Investment in the United States
+(1)
+In general
+The Committee on Foreign Investment in the United States shallâ
+(A)
+treat the application of a foreign person (as defined in section 800.224 of title 31, Code of Federal Regulations (or a successor regulation)) for a license under title VI as a covered transaction, as defined in subsection (a) of section 721 of the Defense Production Act of 1950 (
+50 U.S.C. 4565
+); and
+(B)
+review and, as appropriate, investigate the application in accordance with the procedures set forth in such section 721.
+(2)
+Denial of license
+If the Committee determines pursuant to paragraph (1) that providing a license under title VI to a foreign person threatens to impair the national security of the United States, the Office of Licensing for Dominant Platforms shall deny the application for the license.
+(3)
+Consultation with Department of Justice
+The Committee may, in its discretion, consult with the National Security Division of the Department of Justice in making a determination under paragraph (1).
+2502.
+Limitation of data processing in restricted countries
+An operator of a dominant platform may not process the personal data of a United States person in any restricted country.
+2503.
+Bot and country-of-origin identifications
+(a)
+Bots
+An operator of a dominant platform shall identify any post on the dominant platform that is generated by a software program as a post by a non-human user.
+(b)
+Country of origin
+An operator of a dominant platform shall publicly identify the country of origin of any post on the dominant platform.
+(c)
+Scope
+An identification described in subsection (a) or (b) shall publicly accompany the post anywhere that the post appears on the dominant platform.
+VI
+Licenses for operators of dominant platforms
+2601.
+Licensing office
+(a)
+Establishment
+There is established within the Commission the Office of Licensing for Dominant Platforms (referred to in this section as the
+Office
+).
+(b)
+Director
+(1)
+Establishment of position
+There is established the position of Director of the Office, who shall be the head of the Office.
+(2)
+Appointment; term
+(A)
+Appointment
+The Director shall be appointed by the President.
+(B)
+Term
+The Director shall be appointed for a term of 4 years, unless removed before the end of that term by the President for neglect of duty or malfeasance in office.
+(C)
+Vacancy
+A vacancy in the position of Director that occurs before the expiration of the term for which a Director was appointed shall be filled in the manner established under subparagraph (A), and the Director appointed to fill that vacancy shall be appointed only for the remainder of that term.
+(D)
+Service after end of term
+An individual may serve as the Director after the expiration of the term for which the individual was appointed until a successor has been appointed.
+(c)
+Duties
+The Office shallâ
+(1)
+review and grant license applications for operators of dominant platforms;
+(2)
+monitor whether operators of dominant platforms have obtained a license in accordance with this title;
+(3)
+monitor and manage complaints submitted under section 2118;
+(4)
+except as provided in paragraph (5)(B), refer any violation of this title, a rule promulgated to implement this title, or an administrative order issued to enforce this title to the appropriate Federal agency for enforcement; and
+(5)
+when appropriateâ
+(A)
+rescind the license of an operator of a dominant platform under section 2602; or
+(B)
+revoke the license of an operator of a dominant platform under section 2603.
+2602.
+Requirement for operators of dominant platforms to obtain licenses
+(a)
+In general
+The Office shall grant a license to each operator of a platform designated as a dominant platform under section 2121, subject to any subsequent rescission or revocation of the license under this title.
+(b)
+Consequences of failure to obtain license
+An operator of a dominant platform may not operate as a corporation, body corporate, body politic, joint-stock company, or limited liability company, as applicable, for the purposes of Federal law if the operator of the dominant platform does not have a license granted by the Commission under subsection (a).
+(c)
+Rescissions
+The Office shall rescind a license granted to an operator of a platform under subsection (a) if the Commission grants a request to remove the designation of that operatorâs platform as a dominant platform under section 2121(d).
+2603.
+Revocation of license
+(a)
+Filing of revocation petition
+The Office may file a petition with the Commission to revoke the license of an operator of a dominant platform.
+(b)
+Timing of response and decision
+If a revocation petition is filed under subsection (a) with respect to an operator of a dominant platformâ
+(1)
+not later than 180 days after the date on which the petition is filed, the operator may file a response that explains why revoking the license of the operator is not justified in consideration of the factors described in subsection (c)(2); and
+(2)
+the Commission shall issue a ruling with respect to the petition not later than 180 days after the earlier of the date that isâ
+(A)
+180 days after the date on which the petition is filed; or
+(B)
+the date on which the operator files a response under paragraph (1).
+(c)
+Granting revocation petition
+(1)
+In general
+The Commission, after consideration of the factors described in paragraph (2), may grant a revocation petition that is filed under subsection (a).
+(2)
+Factors
+In determining whether to grant a revocation petition under paragraph (1) with respect to an operator of a dominant platform, the Commission shall consider whether the operatorâ
+(A)
+subject to paragraph (4), has engaged in repeated, egregious, and illegal misconduct (including violations of this division, a rule promulgated under this division, or an administrative order issued under this division) that has caused significant harm toâ
+(i)
+users of the dominant platform or employees, shareholders, or business partners of the operator; or
+(ii)
+communities in which the operator does business; and
+(B)
+has not undertaken measures to address the causes of the misconduct described in subparagraph (A), such as terminating the employment of any officer or executive of the operator who oversaw that misconduct.
+(3)
+Review of granting of petition
+A decision by the Commission to grant a revocation petition under this subsection shall be subject to judicial review under section 706 of title 5, United States Code, provided that a complaint is filed in the appropriate court not later than 90 days after the date on which the petition is granted.
+(d)
+Revocation of license
+If the Commission grants a revocation petition under subsection (c) with respect to an operator of a dominant platform, the Office shall revoke the license of that operator on the date that is 1 year after the later ofâ
+(1)
+the date on which the Commission grants the petition; or
+(2)
+the date on which the Commission determines that judicial review under section 706 of title 5, United States Code, as described in subsection (c)(3), will not invalidate the decision by the Commission to grant the revocation.
+(e)
+Effect of revocation
+An operator of a dominant platform whose license is revoked under this sectionâ
+(1)
+shall not be treated as a corporation, body corporate, body politic, joint-stock company, or limited liability company, as applicable, for the purposes of Federal law; and
+(2)
+may not operate in the United States.
+(f)
+Rulemaking
+The Commission may issue any rules as necessary to carry out this section.
+2604.
+Compliance certification
+(a)
+Certification
+On an annual basis, the chief executive officer, the chief financial officer, and the chief information security officer (or the respective equivalents) of an operator of a dominant platform shall jointly certify to the Office, in a manner prescribed by the Commission, that the operator is in compliance with titles II, III, IV, and V of this division, any rules promulgated to implement those titles, and any administrative orders issued to enforce those titles.
+(b)
+False statements
+(1)
+Offense
+It shall be unlawful for an individual certifying compliance under subsection (a) to knowinglyâ
+(A)
+falsify, conceal, or cover up by any trick, scheme, or device a material fact;
+(B)
+make any materially false, fictitious, or fraudulent statement or representation; or
+(C)
+make or use any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry.
+(2)
+Penalty
+Any individual who violates paragraph (1) shall be fined not more than $10,000,000, imprisoned for not more than 5 years, or both.
+(3)
+Rulemaking
+The Commission may promulgate rules for dominant platforms necessary to ensure that an individual who is directed by an operator of a dominant platform to certify compliance under this section is provided sufficient resources to make such determinations.
+VII
+Enforcement by other entities
+2701.
+Enforcement by States, private parties, and Federal agencies
+(a)
+Enforcement by States
+(1)
+In general
+In any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any covered entity, including any platform operator, in a practice that violates title II, III, IV, or V, or a rule promulgated to implement any of those titles, the attorney general of the State may, as parens patriae, bring a civil action on behalf of the residents of the State in an applicable district court of the United States (as provided in section 2702) toâ
+(A)
+enjoin any further such violation by the covered entity;
+(B)
+enforce compliance with the applicable title or rule, including through deletion of the relevant data;
+(C)
+obtain a permanent, temporary, or preliminary injunction;
+(D)
+in an action joined by the Commission, obtain civil penalties not to exceed 15 percent of the total annual revenue of the ultimate parent entity of the covered entity during the preceding 12-month period;
+(E)
+obtain damages (whether actual, punitive, or otherwise), restitution, disgorgement of unjust enrichment, or other compensation on behalf of aggrieved persons; or
+(F)
+obtain any other appropriate equitable relief.
+(2)
+Relationship with State-law claims
+If the attorney general of a State has authority to bring an action under State law directed at acts or practices that also violate a title or rule described in paragraph (1), the attorney general may assert a claim under State law and a claim under that paragraph in the same civil action.
+(3)
+Investigatory powers
+Nothing in this subsection may be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of the State toâ
+(A)
+conduct investigations;
+(B)
+administer oaths or affirmations; or
+(C)
+compel the attendance of witnesses or the production of documentary or other evidence.
+(b)
+Private enforcement
+Any person whose interest has been or is threatened or adversely affected by the engagement of any covered entity, including any platform operator, in a practice that violates title II, IV, or V, section 2311 or 2321, or a rule promulgated to implement any of those titles or sections, may bring a civil action in an applicable district court of the United States (as provided in section 2702) toâ
+(1)
+enjoin any further such violation by the covered entity;
+(2)
+enforce compliance with the applicable title, section, or rule, including through deletion of the relevant data;
+(3)
+obtain a permanent, temporary, or preliminary injunction;
+(4)
+obtain damages (whether actual, statutory (as provided under section 2422), punitive, or otherwise), restitution, or other compensation;
+(5)
+obtain reasonable attorney fees, including litigation expenses, and costs; or
+(6)
+obtain any other appropriate equitable relief.
+(c)
+Federal agencies
+(1)
+Federal Trade Commission
+(A)
+Enforcement authority
+Except as provided in this paragraph and in section 2702, the Federal Trade Commission shall enforce titles III and IV in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms of the Federal Trade Commission Act (
+15 U.S.C. 41 et seq.
+) were incorporated into and made a part of such titles.
+(B)
+Scope of jurisdiction
+Notwithstanding sections 4, 5(a)(2), or 6 of the Federal Trade Commission Act (
+15 U.S.C. 44
+, 45(a)(2), 46), or any jurisdictional limitation of the Federal Trade Commission, the Federal Trade Commission shall also enforce titles III and IV, in the same manner provided in subparagraph (A), with respect to any covered entity, including banks, savings and loan institutions described in section 18(f)(3) of the Federal Trade Commission Act (
+15 U.S.C. 57a(f)(3)
+), Federal credit unions described in section 18(f)(4) of such Act, common carriers subject to the Acts to regulate commerce (as defined in section 4 of the Federal Trade Commission Act (
+15 U.S.C. 44
+)), air carriers and foreign air carriers subject to the Federal Aviation Act of 1958 (49 U.S.C. App. 1301 et seq.), and persons, partnerships, or corporations insofar as they are subject to the Packers and Stockyards Act, 1921, as amended.
+(2)
+Department of Justice
+The Attorney General shall enforce title III in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms of the Sherman Act (
+15 U.S.C. 1 et seq.
+), division A of this Act, and Antitrust Civil Process Act (
+15 U.S.C. 1311 et seq.
+) were incorporated into and made a part of that title.
+(d)
+Considerations for punitive damages
+In assessing the amount of punitive damages to award in an action brought under section 2115(f) or this section, the court shall consider each relevant circumstance presented by a party to the action, includingâ
+(1)
+the nature and seriousness of the misconduct;
+(2)
+the number of violations;
+(3)
+the persistence of the misconduct;
+(4)
+the length of time over which the misconduct occurred;
+(5)
+the willfulness of the defendantâs misconduct; and
+(6)
+the defendantâs assets, liabilities, and net worth.
+2702.
+Exclusive jurisdiction
+(a)
+District courts
+(1)
+State actions
+The district court of the United States for the judicial district in which the capital of the State is located shall have exclusive jurisdiction of an action brought by a State attorney general under section 2701(a).
+(2)
+Private and Federal actions
+The following district courts shall have exclusive jurisdiction of an action brought under section 2115(f) or subsection (b) or (c) of section 2701:
+(A)
+The United States District Court for the District of Columbia.
+(B)
+The district court of the United States for any judicial district in whichâ
+(i)
+the violation took place; or
+(ii)
+any defendant resides or does business.
+(3)
+Other challenges
+The United States District Court for the District of Columbia shall have exclusive jurisdiction of any action challenging the constitutionality of any provision of this division.
+(b)
+Court of appeals
+The United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction of appeals from all decisions in actions described in subsection (a).
+VIII
+Miscellaneous
+2801.
+Funding
+(a)
+Authorizations of appropriations
+There is authorized to be appropriated to the Commission to carry out the functions of the Commission $500,000,000 forâ
+(1)
+fiscal year 2023; and
+(2)
+each fiscal year thereafter.
+(b)
+Penalties
+The Commission may use any amounts collected from civil penalties, damages, and settlements under this division that are not returned to consumers to carry out the functions of the Commission, without further appropriation.
+2802.
+Interagency cooperation
+(a)
+In general
+To facilitate interagency cooperation regarding the execution and enforcement of this division, the Commission may enter into memoranda of understanding with other Federal agencies.
+(b)
+Required cooperation
+Not later than 180 days after the date of enactment of this division, the Commission shall enter into a memorandum of understanding withâ
+(1)
+the Federal Trade Commission, to facilitate cooperation regarding the execution and enforcement of titles III and IV, including enforcement under section 2701(c)(1); and
+(2)
+the Attorney General, to facilitate cooperation regarding any criminal proceedings and the execution and enforcement of title III, including enforcement under section 2701(c)(2).
+2803.
+Effective date
+(a)
+In general
+Except as provided in subsection (b), this division shall take effect on the date that is 1 year after the date of enactment of this division.
+(b)
+Exception
+Subtitle A of title III shall take effect on the date of enactment of this division.
+2804.
+Rules of construction
+(a)
+In general
+Nothing in this division shall be construed toâ
+(1)
+preempt the law of any State that provides greater protections to users of platforms and consumers generally than the protections provided under this division; or
+(2)
+limit the Federal Trade Commission, the Attorney General, or any other Federal agency from taking any action.
+(b)
+Effect of findings, actions, and conclusions
+No finding reached, action taken, or conclusion drawn by the Commission under this division shall limit or impact the enforcement of any other law by the Federal Trade Commission, the Attorney General, or any other Federal agency.
+2805.
+Severability
+If any provision of this division, or the application of such a provision to any person or circumstance, is held to be unconstitutional, the remaining provisions of this division, and the application of the provision to any other person or circumstance, shall not be affected thereby.
+.
+II
+Amendments to other laws
+201.
+Executive accountability for operators of dominant platforms
+(a)
+Criminal liability
+Part I of title 18, United States Code, is amended by inserting after chapter 27 the following:
+28
+Dominant platforms
+Sec.
+571. Negligence of executive officers.
+571.
+Negligence of executive officers
+(a)
+Definitions
+In this sectionâ
+(1)
+the term
+executive officer
+, with respect to a corporation, means an individual whoâ
+(A)
+is described in section 240.3bâ7 of title 17, Code of Federal Regulations, or any successor thereto; and
+(B)
+by reason of the position of the individual in the corporation, has the responsibility and authority to take necessary measures to prevent or remedy violations of law; and
+(2)
+the terms
+dominant platform
+and
+operator
+have the meanings given those terms in section 2002 of the Clayton Act.
+(b)
+Criminal liability
+(1)
+In general
+It shall be unlawful for an executive officer of a corporation that is an operator of a dominant platform to negligently permit or fail to prevent a violation of law described in paragraph (2).
+(2)
+Violations described
+A violation of law described in this paragraph isâ
+(A)
+a criminal violation of Federal or State law for which the operator of a dominant platform is convicted or enters into a deferred prosecution or non-prosecution agreement;
+(B)
+a civil violation of Federal or State lawâ
+(i)
+for which the operator of a dominant platform is found liable or enters into a settlement agreement with any Federal or State agency; and
+(ii)
+that affects the health, safety, finances, or personal data ofâ
+(I)
+not less than 1 percent of the population of the United States; or
+(II)
+not less than 1 percent of the population of a State; or
+(C)
+a criminal or civil violation of Federal or State lawâ
+(i)
+for which the operator of a dominant platform is convicted or found liable, as the case may be; and
+(ii)
+if, during the 5-year period preceding the commission of the violationâ
+(I)
+a court entered a criminal or civil judgment against the operator of the dominant platform relating to a different violation;
+(II)
+the operator of the dominant platform entered into a deferred prosecution agreement or non-prosecution agreement relating to a different violation; or
+(III)
+the operator of the dominant platform entered into a settlement with a Federal or State agency relating to a different violation.
+(c)
+Penalty
+Any executive officer who violates subsection (b) shallâ
+(1)
+for a first offense, be fined under this title, imprisoned for not more than 1 year, or both; and
+(2)
+for a second or subsequent offense, be fined under this title, imprisoned for not more than 3 years, or both.
+.
+(b)
+Technical and conforming amendment
+The tables of chapters in part I of title 18, United States Code, is amended by inserting after the item relating to chapter 27 the following:
+28.
+Dominant platforms
+571
+.
+202.
+Criminal fines under the Sherman Act
+The Sherman Act (
+15 U.S.C. 1 et seq.
+) is amendedâ
+(1)
+in section 1 (
+15 U.S.C. 1
+), in the second sentenceâ
+(A)
+by striking
+$100,000,000
+and inserting
+$500,000,000
+; and
+(B)
+by striking
+$1,000,000
+and inserting
+$2,000,000
+;
+(2)
+in section 2 (
+15 U.S.C. 2
+)â
+(A)
+by striking
+$100,000,000
+and inserting
+$500,000,000
+; and
+(B)
+by striking
+$1,000,000
+and inserting
+$2,000,000
+; and
+(3)
+in section 3 (
+15 U.S.C. 3
+)â
+(A)
+by striking
+$100,000,000
+and inserting
+$500,000,000
+; and
+(B)
+by striking
+$1,000,000
+and inserting
+$2,000,000
+.
+203.
+Criminal fines under the Robinson-Patman Act
+Section 3 of the Act of June 19, 1936 (commonly known as the
+Robinson-Patman Act
+) (
+15 U.S.C. 13a
+), is amended by striking
+$5,000
+and inserting
+10,000
+.
+204.
+Directing the Attorney General to develop victim-centered guidance
+(a)
+Victim-Centered guidance
+(1)
+In general
+Not later than 18 months after the date of enactment of this Act, the Attorney General, in consultation with Federal, State, and local law enforcement agencies and prosecutors, sex trafficking victim advocates, sex trafficking survivors, and pediatric mental health experts, shall develop and publish victim-centered guidance to strengthen protections for child sex trafficking victims testifying against human traffickers, includingâ
+(A)
+practices to minimize the adverse consequences of testifying on child sex trafficking victim witnesses, including the use of closed circuit television testimony or digitally recorded depositions;
+(B)
+safe travel, lodging, and accompaniment for child sex trafficking victim witnesses;
+(C)
+use of child advocacy centers and family justice centers, where appropriate; and
+(D)
+safety planning, including post-trial safety planning.
+(2)
+Training required
+Not later than 180 days after the publication of the guidance required under paragraph (1), the Attorney General shall disseminate and provide training to each office of the United States Attorney on the victim-centered guidance.
+(b)
+Training on victim-Centered protocols
+(1)
+Department of Justice training and policy for law enforcement officers, prosecutors, and judges
+Subsection (c)(1)(A) of the Combat Human Trafficking Act of 2015 (
+34 U.S.C. 20709(c)(1)(A)
+) is amendedâ
+(A)
+in clause (iii), by striking
+and
+at the end;
+(B)
+in clause (iv)(II), by striking the period at the end and inserting
+; and
+; and
+(C)
+by adding at the end the following:
+(v)
+protections for child sex trafficking victims testifying against human traffickers based on the victim-centered guidance published by the Attorney General in accordance with section 204(a)(1) of the
+Digital Consumer Protection Commission Act of 2023
+.
+.
+(2)
+Federal prosecutors
+Subsection (c)(1)(B) of the Combat Human Trafficking Act of 2015 (
+34 U.S.C. 20709(c)(1)(B)
+) is amended to read as follows:
+(B)
+Federal prosecutors
+The Attorney General shall ensure that each anti-human trafficking program operated by the Department of Justice for United States attorneys or other Federal prosecutors includes training onâ
+(i)
+seeking restitution for offenses under
+chapter 77
+of title 18, United States Code, to ensure that each United States attorney or other Federal prosecutor, upon obtaining a conviction for such an offense, requests a specific amount of restitution for each victim of the offense without regard to whether the victim requests restitution; and
+(ii)
+victim-centered guidance to strengthen protections for child sex trafficking victims testifying against human traffickers based on victim-centered guidance published by the Attorney General in accordance with section 204(a)(1) of the
+Digital Consumer Protection Commission Act of 2023
+.
+.
+(c)
+Additional uses for victim-Centered child human trafficking deterrence block grant
+Section 203(b)(1) of the Trafficking Victims Protection Reauthorization Act of 2005 (
+34 U.S.C. 20703(b)(1)
+) is amendedâ
+(1)
+in subparagraph (D), by striking
+and
+at the end;
+(2)
+in subparagraph (E), by adding
+and
+at the end; and
+(3)
+by adding at the end the following:
+(F)
+strengthen protections for child sex trafficking victims testifying against human traffickers based on victim-centered guidance published by the Attorney General in accordance with section 204(a)(1) of the
+Digital Consumer Protection Commission Act of 2023
+.
+.
+205.
+Use of term
+child sexual abuse material
+(a)
+Sense of Congress
+It is the sense of Congress that the term
+child sexual abuse material
+has the same legal meaning as the term
+child pornography
+, as that term was used in Federal statutes and case law before the date of enactment of this Act.
+(b)
+Amendments
+(1)
+Title 5, United States Code
+Chapter 65
+of title 5, United States Code, is amendedâ
+(A)
+in section 6502(a)(2)(B), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(B)
+in section 6504(c)(2)(F), by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(2)
+Homeland Security Act of 2002
+The Homeland Security Act of 2002 (
+6 U.S.C. 101 et seq.
+) is amendedâ
+(A)
+in section 307(b)(3)(D) (
+6 U.S.C. 187(b)(3)(D)
+), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(B)
+in section 890A (
+6 U.S.C. 473
+)â
+(i)
+in subsection (b)(2)(A)(ii), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(ii)
+in subsection (e)(3)(B)(ii), by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(3)
+Immigration and Nationality Act
+Section 101(a)(43)(I) of the Immigration and Nationality Act (
+8 U.S.C. 1101(a)(43)(I)
+) is amended by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(4)
+Small Business Jobs Act of 2010
+Section 3011(c) of the Small Business Jobs Act of 2010 (
+12 U.S.C. 5710(c)
+) is amended by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(5)
+Broadband Data Improvement Act
+Section 214(a)(2) of the Broadband Data Improvement Act (
+15 U.S.C. 6554(a)(2)
+) is amended by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(6)
+CANâSPAM Act of 2003
+Section 4(b)(2)(B) of the CANâSPAM Act of 2003 (
+15 U.S.C. 7703(b)(2)(B)
+) is amended by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(7)
+Title 18, United States Code
+Title 18, United States Code, is amendedâ
+(A)
+in section 1956(c)(7)(D), by striking
+child pornography
+each place the term appears and inserting
+child sexual abuse material
+;
+(B)
+in chapter 110â
+(i)
+in section 2251(e), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(ii)
+in section 2252(b)â
+(I)
+in paragraph (1), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(II)
+in paragraph (2), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(iii)
+in section 2252Aâ
+(I)
+in the section heading, by striking
+material constituting or containing child pornography
+and inserting
+child sexual abuse material
+;
+(II)
+in subsection (a)â
+(aa)
+in paragraph (1), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(bb)
+in paragraph (2)â
+(AA)
+in subparagraph (A), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(BB)
+in subparagraph (B), by striking
+material that contains child pornography
+and inserting
+child sexual abuse material
+;
+(cc)
+in paragraph (3)(A), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(dd)
+in paragraph (4)â
+(AA)
+in subparagraph (A), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(BB)
+in subparagraph (B), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(ee)
+in paragraph (5)â
+(AA)
+in subparagraph (A), by striking
+material that contains an image of child pornography
+and inserting
+item containing child sexual abuse material
+; and
+(BB)
+in subparagraph (B), by striking
+material that contains an image of child pornography
+and inserting
+item containing child sexual abuse material
+; and
+(ff)
+in paragraph (7)â
+(AA)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(BB)
+by striking the period at the end and inserting a comma;
+(III)
+in subsection (b)â
+(aa)
+in paragraph (1), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(bb)
+in paragraph (2), by striking
+child pornography
+each place the term appears and inserting
+child sexual abuse material
+;
+(IV)
+in subsection (c)â
+(aa)
+in paragraph (1)(A), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(bb)
+in paragraph (2), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(cc)
+in the undesignated matter following paragraph (2), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(V)
+in subsection (d)(1), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(VI)
+in subsection (e), by striking
+child pornography
+each place the term appears and inserting
+child sexual abuse material
+;
+(iv)
+in section 2256(8)â
+(I)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(II)
+by striking the period at the end and inserting a semicolon;
+(v)
+in section 2257A(h)â
+(I)
+in paragraph (1)(A)(iii)â
+(aa)
+by inserting a comma after
+marketed
+;
+(bb)
+by striking
+such than
+and inserting
+such that
+; and
+(cc)
+by striking
+a visual depiction that is child pornography
+and inserting
+child sexual abuse material
+; and
+(II)
+in paragraph (2), by striking
+any visual depiction that is child pornography
+and inserting
+child sexual abuse material
+;
+(vi)
+in section 2258Aâ
+(I)
+in subsection (a)(2)â
+(aa)
+in subparagraph (A), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(bb)
+in subparagraph (B), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(II)
+in subsection (b)â
+(aa)
+in paragraph (4)â
+(AA)
+in the paragraph heading, by striking
+Visual depictions of apparent child pornography
+and inserting
+Apparent child sexual abuse material
+; and
+(BB)
+by striking
+visual depiction of apparent child pornography
+and inserting
+apparent child sexual abuse material
+; and
+(bb)
+in paragraph (5), by striking
+visual depiction of apparent child pornography
+and inserting
+apparent child sexual abuse material
+; and
+(III)
+in subsection (g)(2)(B), by striking
+visual depictions of apparent child pornography
+and inserting
+apparent child sexual abuse material
+;
+(vii)
+in section 2258Câ
+(I)
+in the section heading, by striking
+Use to combat child pornography of technical elements relating to reports made to the CyberTipline
+and inserting
+Use of technical elements from reports made to the CyberTipline to combat child sexual abuse material
+;
+(II)
+in subsection (a)â
+(aa)
+in paragraph (2), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(bb)
+in paragraph (3), by striking
+the actual visual depictions of apparent child pornography
+and inserting
+any apparent child sexual abuse material
+;
+(III)
+in subsection (d), by striking
+child pornography visual depiction
+and inserting
+child sexual abuse material visual depiction
+; and
+(IV)
+in subsection (e), by striking
+child pornography visual depiction
+and inserting
+child sexual abuse material visual depiction
+;
+(viii)
+in section 2259â
+(I)
+in paragraph (b)(2)â
+(aa)
+in the paragraph heading, by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(bb)
+in the matter preceding subparagraph (A), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(cc)
+in subparagraph (A), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(II)
+in subsection (c)â
+(aa)
+in paragraph (1)â
+(AA)
+in the paragraph heading, by striking
+Child pornography production
+and inserting
+Production of child sexual abuse material
+;
+(BB)
+by striking
+child pornography production
+and inserting
+production of child sexual abuse material
+; and
+(CC)
+by striking
+production of child pornography
+and inserting
+production of child sexual abuse material
+;
+(bb)
+in paragraph (2), in the matter preceding subparagraph (A), by striking
+trafficking in child pornography offenses
+each place the term appears and inserting
+offenses for trafficking in child sexual abuse material
+; and
+(cc)
+in paragraph (3)â
+(AA)
+in the paragraph heading, by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(BB)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(III)
+in subsection (d)(1)â
+(aa)
+in subparagraph (A)â
+(AA)
+by striking
+child pornography
+each place the term appears and inserting
+child sexual abuse material
+; and
+(BB)
+by striking
+Child Pornography Victims Reserve
+and inserting
+Reserve for Victims of Child Sexual Abuse Material
+;
+(bb)
+in subparagraph (B), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(cc)
+in subparagraph (C)â
+(AA)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(BB)
+by striking
+Child Pornography Victims Reserve
+and inserting
+Reserve for Victims of Child Sexual Abuse Material
+;
+(ix)
+in section 2259Aâ
+(I)
+in the section heading, by striking
+child pornography cases
+and inserting
+cases involving child sexual abuse material
+;
+(II)
+in subsection (a)â
+(aa)
+in paragraph (2), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(bb)
+in paragraph (3), by striking
+a child pornography production offense
+and inserting
+an offense for production of child sexual abuse material
+; and
+(III)
+in subsection (d)(2)(B), by striking
+child pornography production or trafficking offense that the defendant committed
+and inserting
+offense for production of child sexual abuse material or trafficking in child sexual abuse material committed by the defendant
+; and
+(x)
+in section 2259Bâ
+(I)
+in the section heading, by striking
+Child pornography victims reserve
+and inserting
+Reserve for child sexual abuse material
+;
+(II)
+in subsection (a), by striking
+Child Pornography Victims Reserve
+each place the term appears and inserting
+Reserve for Victims of Child Sexual Abuse Material
+;
+(III)
+in subsection (b), by striking
+Child Pornography Victims Reserve
+each place the term appears and inserting
+Reserve for Victims of Child Sexual Abuse Material
+; and
+(IV)
+in subsection (c), by striking
+Child Pornography Victims Reserve
+and inserting
+Reserve for Victims of Child Sexual Abuse Material
+;
+(C)
+in chapter 117â
+(i)
+in section 2423(f)(3), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(ii)
+in section 2427â
+(I)
+in the section heading, by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(II)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(D)
+in section 2516â
+(i)
+in paragraph (1)(c), by striking
+material constituting or containing child pornography
+and inserting
+child sexual abuse material
+; and
+(ii)
+in paragraph (2), by striking
+child pornography production
+and inserting
+production of child sexual abuse material
+;
+(E)
+in section 3014(h)(3), by striking
+child pornography victims
+and inserting
+victims of child sexual abuse material
+;
+(F)
+in section 3509â
+(i)
+in subsection (a)(6), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(ii)
+in subsection (m)â
+(I)
+in the subsection heading, by striking
+Child Pornography
+and inserting
+Child Sexual Abuse Material
+;
+(II)
+in paragraph (1), by striking
+property or material that constitutes child pornography (as defined by section 2256 of this title)
+and inserting
+child sexual abuse material (as defined by section 2256 of this title), or property or items containing such material,
+;
+(III)
+in paragraph (2)â
+(aa)
+in subparagraph (A)â
+(AA)
+by striking
+property or material that constitutes child pornography (as defined by section 2256 of this title)
+and inserting
+child sexual abuse material (as defined by section 2256 of this title), or property or items containing such material,
+; and
+(BB)
+by striking
+the property or material
+and inserting
+the child sexual abuse material, property, or items
+; and
+(bb)
+in subparagraph (B), by striking
+property or material
+each place the term appears and inserting
+child sexual abuse material, property, or items
+; and
+(IV)
+in paragraph (3)â
+(aa)
+by striking
+property or material that constitutes child pornography, as defined under section 2256(8)
+and inserting
+child sexual abuse material (as defined by section 2256 of this title)
+;
+(bb)
+by striking
+such child pornography
+and inserting
+such child sexual abuse material
+; and
+(cc)
+by striking
+Such property or material
+and inserting
+Such child sexual abuse material
+; and
+(G)
+in section 3632(d)(4)(D)(xlii), by striking
+material constituting or containing child pornography
+and inserting
+child sexual abuse material
+.
+(8)
+Tariff Act of 1930
+Section 583(a)(2)(B) of the Tariff Act of 1930 (
+19 U.S.C. 1583(a)(2)(B)
+) is amended by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(9)
+Elementary and Secondary Education Act of 1965
+Section 4121 of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 7131
+) is amendedâ
+(A)
+in subsection (a)â
+(i)
+in paragraph (1)(A)(ii), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(ii)
+in paragraph (2)(A)(ii), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(B)
+in subsection (e)(5)â
+(i)
+in the paragraph heading, by striking
+Child pornography
+and inserting
+Child sexual abuse material
+; and
+(ii)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(10)
+Museum and Library Services Act
+Section 224(f) of the Museum and Library Services Act (
+20 U.S.C. 9134(f)
+) is amendedâ
+(A)
+in paragraph (1)â
+(i)
+in subparagraph (A)(i)(II), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(ii)
+in subparagraph (B)(i)(II), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(B)
+in paragraph (7)(A)â
+(i)
+in the subparagraph heading, by striking
+Child pornography
+and inserting
+Child sexual abuse material
+; and
+(ii)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(11)
+Omnibus Crime Control and Safe Streets Act of 1968
+Section 3031(b)(3) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (
+34 U.S.C. 10721(b)(3)
+) is amended by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(12)
+Juvenile Justice and Delinquency Prevention Act of 1974
+Section 404(b)(1)(K) of the Juvenile Justice and Delinquency Prevention Act of 1974 (
+34 U.S.C. 11293(b)(1)(K)
+) is amendedâ
+(A)
+in clause (i)(I)(aa), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(B)
+in clause (ii), by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(13)
+Victims of Crime Act of 1984
+Section 1402(d)(6)(A) of the Victims of Crime Act of 1984 (
+34 U.S.C. 20101(d)(6)(A)
+) is amended by striking
+Child Pornography Victims Reserve
+and inserting
+Reserve for Victims of Child Sexual Abuse Material
+.
+(14)
+Victims of Child Abuse Act of 1990
+The Victims of Child Abuse Act of 1990 (
+34 U.S.C. 20301 et seq.
+) is amendedâ
+(A)
+in section 212(4) (
+34 U.S.C. 20302(4)
+), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(B)
+in section 214(b) (
+34 U.S.C. 20304(b)
+)â
+(i)
+in the subsection heading, by striking
+Child Pornography
+and inserting
+Child Sexual Abuse Material
+; and
+(ii)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(C)
+in section 226(c)(6) (
+34 U.S.C. 20341(c)(6)
+), by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(15)
+Sex Offender Registration and Notification Act
+Section 111 of the Sex Offender Registration and Notification Act (
+34 U.S.C. 20911
+) is amendedâ
+(A)
+in paragraph (3)(B)(iii), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(B)
+in paragraph (7)(G), by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(16)
+Adam Walsh Child Protection and Safety Act of 2006
+Section 143(b)(3) of the Adam Walsh Child Protection and Safety Act of 2006 (
+34 U.S.C. 20942(b)(3)
+) is amended by striking
+child pornography and enticement cases
+and inserting
+cases involving child sexual abuse material and enticement of children
+.
+(17)
+PROTECT Our Children Act of 2008
+The PROTECT Our Children Act of 2008 (
+34 U.S.C. 21101 et seq.
+) is amendedâ
+(A)
+in section 101(c) (
+34 U.S.C. 21111(c)
+)â
+(i)
+in paragraph (16)â
+(I)
+in the matter preceding subparagraph (A), by striking
+child pornography trafficking
+and inserting
+trafficking in child sexual abuse material
+;
+(II)
+in subparagraph (A), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(III)
+in subparagraph (B), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(IV)
+in subparagraph (C), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(V)
+in subparagraph (D), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(ii)
+in paragraph (17)(A), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(B)
+in section 105(e)(1)(C) (
+34 U.S.C. 21115(e)(1)(C)
+), by striking
+child pornography trafficking
+and inserting
+trafficking in child sexual abuse material
+.
+(18)
+Social Security Act
+Section 471(a)(20)(A)(i) of the Social Security Act (
+42 U.S.C. 671(a)(20)(A)(i)
+) is amended by striking
+child pornography
+and inserting
+offenses involving child sexual abuse material
+.
+(19)
+Privacy Protection Act of 1980
+Section 101 of the Privacy Protection Act of 1980 (
+42 U.S.C. 2000aa
+) is amendedâ
+(A)
+in subsection (a)(1), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(B)
+in subsection (b)(1), by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(20)
+Child Care and Development Block Grant Act of 1990
+Section 658H(c)(1) of the Child Care and Development Block Grant Act of 1990 (
+42 U.S.C. 9858f(c)(1)
+) is amendedâ
+(A)
+in subparagraph (D)(iii), by striking
+child pornography
+and inserting
+offenses relating to child sexual abuse material
+; and
+(B)
+in subparagraph (E), by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(21)
+Communications Act of 1934
+Title II of the Communications Act of 1934 (
+47 U.S.C. 201 et seq.
+) is amendedâ
+(A)
+in section 223 (
+47 U.S.C. 223
+)â
+(i)
+in subsection (a)(1)â
+(I)
+in subparagraph (A), in the undesignated matter following clause (ii), by striking
+child pornography
+and inserting
+which constitutes child sexual abuse material
+; and
+(II)
+in subparagraph (B), in the undesignated matter following clause (ii), by striking
+child pornography
+and inserting
+which constitutes child sexual abuse material
+; and
+(ii)
+in subsection (d)(1), in the undesignated matter following subparagraph (B), by striking
+child pornography
+and inserting
+that constitutes child sexual abuse material
+; and
+(B)
+in section 254(h) (
+47 U.S.C. 254(h)
+)â
+(i)
+in paragraph (5)â
+(I)
+in subparagraph (B)(i)(II), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(II)
+in subparagraph (C)(i)(II), by striking
+child pornography
+and inserting
+child sexual abuse material
+;
+(ii)
+in paragraph (6)â
+(I)
+in subparagraph (B)(i)(II), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(II)
+in subparagraph (C)(i)(II), by striking
+child pornography
+and inserting
+child sexual abuse material
+; and
+(iii)
+in paragraph (7)(F)â
+(I)
+in the subparagraph heading, by striking
+Child pornography
+and inserting
+Child sexual abuse material
+; and
+(II)
+by striking
+child pornography
+and inserting
+child sexual abuse material
+.
+(c)
+Table of sections amendments
+(1)
+Chapter 110 of title 18
+The table of sections for
+chapter 110
+of title 18, United States Code, is amendedâ
+(A)
+by striking the item relating to section 2252A and inserting the following:
+2252A. Certain activities relating to child sexual abuse material.
+;
+(B)
+by striking the item relating to section 2258C and inserting the following:
+2258C. Use of technical elements from reports made to the CyberTipline to combat child sexual abuse material.
+;
+(C)
+by striking the item relating to section 2259A and inserting the following:
+2259A. Assessments in cases involving child sexual abuse material.
+;
+and
+(D)
+by striking the item relating to section 2259B and inserting the following:
+2259B. Reserve for victims of child sexual abuse material.
+.
+(2)
+Chapter 117 of title 18
+The table of sections for
+chapter 117
+of title 18, United States Code, is amended by striking the item relating to section 2427 and inserting the following:
+2427. Inclusion of offenses relating to child sexual abuse material in definition of sexual activity for which any person can be charged with a criminal offense.
+.
+(d)
+Amendment to the Federal sentencing guidelines
+Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall amend the Federal sentencing guidelines, including application notes, to replace the terms
+child pornography
+and
+child pornographic material
+with
+child sexual abuse material
+.
+(e)
+Effective date
+The amendments made by this section to title 18 of the United States Code shall apply to conduct that occurred before, on, or after the date of enactment of this Act.
+206.
+Ineligibility due to disqualifying mental status
+(a)
+Unlawful acts related to firearms
+Section 922 of title 18, United States Code, is amended by striking
+adjudicated as a mental defective
+each place such term appears and inserting
+adjudicated as ineligible due to disqualifying mental status
+.
+(b)
+Possession by restricted persons
+Section 175b(d)(2)(F) of title 18, United States Code, is amended by striking
+adjudicated as a mental defective
+and inserting
+adjudicated as ineligible due to disqualifying mental status
+.
+(c)
+Unlawful acts related to explosives
+Section 842 of title 18, United States Code, is amendedâ
+(1)
+in subsection (d)(6), by striking
+adjudicated a mental defective
+and inserting
+adjudicated as ineligible due to disqualifying mental status
+; and
+(2)
+in subsection (i)(4), by striking
+adjudicated as a mental defective
+and inserting
+adjudicated as ineligible due to disqualifying mental status
+.
+(d)
+NICS Improvement Amendments Act of 2007
+The NICS Improvement Amendments Act of 2007 (
+34 U.S.C. 40902 et seq.
+) is amendedâ
+(1)
+by striking
+adjudicated as a mental defective
+each place such term appears and inserting
+adjudicated as ineligible due to disqualifying mental status
+; and
+(2)
+in section 101(c)(3) (
+34 U.S.C. 40911(c)(3)
+)â
+(A)
+in the matter preceding subparagraph (A), by striking
+adjudicate a person as a mental defective
+and inserting
+adjudicate a person as ineligible due to disqualifying mental status
+; and
+(B)
+in subparagraph (A), by striking
+adjudicate the person as a mental defective
+and inserting
+adjudicate the person as ineligible due to disqualifying mental status
+.

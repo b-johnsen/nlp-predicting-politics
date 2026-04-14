@@ -1,0 +1,231 @@
+1.
+Short title
+This Act may be cited as the
+Promoting Fairness for Medicare Providers Act of 2024
+.
+2.
+Aligning payment under medicare for specified high supply cost surgical procedures furnished in office-based facilities
+(a)
+Coverage of facility services
+Section 1832(a)(2)(F) of the Social Security Act (
+42 U.S.C. 1395k(a)(2)(F)
+) is amendedâ
+(1)
+in the matter preceding clause (i), by striking
+specified by the Secretary
+;
+(2)
+in clause (i)â
+(A)
+by inserting
+specified by the Secretary
+before
+pursuant
+; and
+(B)
+at the end, by striking
+or
+;
+(3)
+in clause (ii)â
+(A)
+by inserting
+specified by the Secretary
+before
+pursuant
+; and
+(B)
+at the end, by striking the semicolon and inserting
+, or
+; and
+(4)
+by adding at the end the following new clause:
+(iii)
+that are specified high supply cost surgical procedures (as defined in section 1834(aa)(4) with respect to a year (beginning with 2025) and furnished during such year in an office-based facility (as defined in section 1834(aa)(5));
+.
+(b)
+Payment rules
+(1)
+Payment for facility services
+Section 1833(a)(1) of the Social Security Act (
+42 U.S.C. 1395l(a)
+) is amendedâ
+(A)
+by striking
+and (HH)
+and inserting
+(HH)
+; and
+(B)
+by inserting before the semicolon at the end the following
+, and (II) with respect to facility services furnished in connection with a specified high supply cost surgical procedure (as defined in section 1834(aa)(4)) with respect to a year (beginning with 2025) furnished to an individual in an office-based facility (as defined in section 1834(aa)(5)) during such year, the amounts paid shall be, subject to section 1834(aa)(3), 80 percent of the payment amount determined under section 1834(aa) for such facility services furnished in connection with such procedure at such office-based facility
+.
+(2)
+Payment determination for specified high supply cost surgical procedures furnished in office-based facilities
+Section 1834 of the Social Security Act (
+42 U.S.C. 1395l(a)
+) is amended by adding at the end the following new subsection:
+(aa)
+Payment for specified high supply cost surgical procedures furnished in office-Based facilities
+(1)
+In general
+In the case of a specified high supply cost surgical procedure furnished in an office-based facility during 2025 or a subsequent year, subject to paragraphs (2) and (3), payment for such procedure shall be determined under this part in the same manner as payment would be determined under this part if such procedure had been furnished in an ambulatory surgical center and not considered office-based under section 1833(i)(1)(B), except that payment for facility services furnished in connection with such procedure shall be equal to 90 percent of the amount that would be payable for facility services furnished in connection with such procedure under section 1833(i) for such year if such procedure had been furnished in an ambulatory surgical center and treated as a service commonly furnished in such a center.
+(2)
+Application in case of device-intensive procedures
+In applying paragraph (1) in the case of a specified high supply cost surgical procedure that is a device-intensive procedure (as described in section 416.171(b)(2) of title 42, Code of Federal Regulations (or any successor regulation)), instead of the payment amount applied under such paragraph, the payment amount for the facility services with respect to such procedure shall be the amount that would be calculated under section 416.172(h)(2)(ii) of title 42, Code of Federal Regulations (or any successor regulation) with respect to a procedure that has been assigned device-intensive status, except that in applying such calculation the non-device portion described in paragraph (B) of such section shall be equal to 90 percent of the amount that would otherwise be calculated for such portion.
+(3)
+Limitation on copayment amount to inpatient hospital deductible amount
+(A)
+In general
+In no case shall the amount of coinsurance for facility services furnished in connection with a specified high supply cost surgical procedure in an office-based facility during a year exceed the amount of the inpatient hospital deductible established under section 1813(b) for that year.
+(B)
+Maintaining payment to provider
+In the case that an individual enrolled under this part would, without application of subparagraph (A), be subject to an amount of coinsurance for facility services furnished in connection with a specified high supply cost surgical procedure in an office-based facility during a year that exceeds the amount of the inpatient hospital deductible established under section 1813(b) for that year, the Secretary shall increase the amount paid to the office-based facility as specified under section 1833(a)(1)(II) for such facility services by the amount by whichâ
+(i)
+the coinsurance payable by the individual for such facility services without application of this paragraph; exceeds
+(ii)
+the coinsurance payable by the individual for such facility services with application of this paragraph.
+(4)
+Specified high supply cost surgical procedure defined
+(A)
+In general
+For purposes of this part, subject to subparagraphs (B) and (C), the term
+specified high supply cost surgical procedure
+means a surgical procedure that as of 2023â
+(i)
+when performed in an ambulatory surgical center, was payable under section 1833(i); and
+(ii)
+when performed in a physicianâs officeâ
+(I)
+was payable under section 1848 at the practice expense relative value unit-based amount for non-facility sites of service; and
+(II)
+included a HCPCS code with a supply item for which the price input for such supply item, used for determining the practice expense relative value units for such code, was greater than $500.
+(B)
+Review and revisions to specified services
+(i)
+In general
+For each year (beginning with 2026), the Secretary shall review the procedures included in the definition of specified high supply cost surgical procedures under this paragraph and, based on such review and through rulemakingâ
+(I)
+shall add a surgical procedure (not described in subparagraph (A)) for inclusion in such definition if the procedure, with respect to such year, satisfies the criteria specified in clause (ii); and
+(II)
+may remove a surgical procedure from inclusion in such definition if the procedure, with respect to such year, satisfies the criteria specified in clause (iii).
+(ii)
+Criteria for required inclusion
+For purposes of clause (i)(I), a surgical procedure satisfies the criteria specified in this clause, with respect to a year, ifâ
+(I)
+when performed in an ambulatory surgical center, the procedure is payable under section 1833(i); and
+(II)
+when performed in a physicianâs office, the procedureâ
+(aa)
+would be, without application of this subsection or section 1833(a)(i)(II), payable under section 1848 at the practice expense relative value unit-based amount for non-facility sites of services; and
+(bb)
+includes a HCPCS code with a supply item for which the price input for such supply item, used for determining the practice expense relative value units for such code, is greater than the threshold specified in clause (iv) for such year.
+(iii)
+Criteria for permissive removal
+For purposes of clause (i)(II), a surgical procedure satisfies the criteria described in this clause, with respect to a year, if, when performed in a physicianâs office, the procedure includes a HCPCS code with a supply item for which the price input for such supply item, used for determining the practice expense relative value units for such code, does not exceed the amount equal to 80 percent of the threshold specified in clause (iv) for such year.
+(iv)
+Dollar amount threshold specified
+For purposes of clauses (ii) and (iii), the threshold specified in this clause isâ
+(I)
+with respect to 2026, the dollar amount specified in subparagraph (A)(ii), increased by the percentage increase in the MEI (as defined in section 1842(i)(3)) over the 3-year period ending with 2026; or
+(II)
+with respect to a subsequent year, the amount specified in this clause for the preceding year increased by the percentage increase in the MEI (as defined in section 1842(i)(3)) for such subsequent year.
+(C)
+Special rule for use of more than one of the same supply item in a procedure
+In the case of a surgical procedure that requires the use of more than one of the same supply item in such procedureâ
+(i)
+in applying subparagraph (A)(ii)(II), if as of 2023 the sum of the price inputs described in such subparagraph of all of such same supply items exceeds the dollar amount specified in such subparagraph, then the procedure shall be treated as satisfying the requirement of such subparagraph; and
+(ii)
+in applying subparagraph (B), with respect to 2026 or a subsequent yearâ
+(I)
+if the sum of the price inputs described in clause (ii)(II)(bb) of such subparagraph of all of such same supply items exceeds the threshold specified in clause (iv) of such subparagraph for such year, then the procedure shall be treated as satisfying the criterion described in such clause (ii)(II)(bb) with respect to such year; and
+(II)
+if the sum of the price inputs described in clause (iii) of such subparagraph of all of such same supply items does not exceed the amount described in such clause for such year, then the procedure shall be treated as satisfying the criteria described in such clause with respect to such year.
+(5)
+Office-based facility defined
+For purposes of this part, the term
+office-based facility
+means a physicianâs office that, with respect to facility services furnished in connection with specified high supply cost surgical proceduresâ
+(A)
+meets health, safety, and other standards specified by the Secretary in regulations; and
+(B)
+has entered into an agreement with the Secretary under which the physicianâs officeâ
+(i)
+accepts the payment amount determined under this subsection as full payment for such facility services;
+(ii)
+accepts an assignment described in section 1842(b)(3)(B)(ii) with respect to payment for all such facility services furnished by the office to individuals enrolled under this part; and
+(iii)
+participates under this part and is paid as an office-based facility with respect to all such procedures.
+.
+(3)
+Conforming amendments
+(A)
+For services furnished in an ambulatory surgical center
+Section 1833(i)(2) of the Social Security Act (
+42 U.S.C. 1395l(i)(2)
+) is amended by adding at the end the following new subparagraph:
+(F)
+For purposes of determining payment under this subsection for a specified high supply cost surgical procedure (as defined in section 1834(aa)(4) with respect to a year (beginning with 2025)) furnished in an ambulatory surgical center during such year, such procedure shall be treated as a service commonly furnished in an ambulatory surgical center.
+.
+(B)
+For services furnished in an off-campus outpatient department of a provider
+Section 1833(t)(21)(C) of the Social Security Act (
+42 U.S.C. 1395l(t)(21)(C)
+) is amended by adding at the end the following new sentence:
+In applying the previous sentence in the case of a specified high supply cost surgical procedure (as defined in section 1834(aa)(4) with respect to a year) furnished by an off-campus outpatient department of a provider, payment shall be determined under section 1834(aa).
+.
+(C)
+For clarification on applicable payment for obf facility services
+Section 1833(a)(4) of the Social Security Act (
+42 U.S.C. 1395l(a)(4)
+) is amended by inserting
+(other than in clause (iii) of such section)
+after
+section 1832(a)(2)(F)
+.
+(c)
+Provider agreement and medicare enrollment
+(1)
+In general
+Section 1866(e) of the Social Security Act (
+42 U.S.C. 1395cc(e)
+) is amendedâ
+(A)
+in paragraph (2), by striking at the end
+and
+;
+(B)
+in paragraph (3), at the end, by striking the period and adding
+; and
+; and
+(C)
+by adding at the end the following new paragraph:
+(4)
+an office-based facility (as defined in paragraph (5) of section 1834(aa)), but only with respect to the furnishing during a year of specified high supply cost surgical procedures (as defined in paragraph (4) of such section with respect to such year).
+.
+(2)
+Consultation with state agencies regarding conditions of participation
+Section 1863 of the Social Security Act (
+42 U.S.C. 1395z
+) is amended by striking
+or by ambulatory surgical centers under section 1832(a)(2)(F)(i)
+and inserting
+by ambulatory surgical centers under section 1832(a)(2)(F)(i), or by office-based facilities (as defined in section 1834(aa)(5)) with respect to furnishing specified high supply cost surgical procedures (as defined in section 1834(aa)(4))
+.
+(3)
+Use of state agencies to determine compliance with conditions of participation
+Section 1864(a) of the Social Security Act (
+42 U.S.C. 1395aa(a)
+) is amendedâ
+(A)
+in the first sentence, by inserting
+or whether a physicianâs office is an office-based facility (as defined in section 1834(aa)(5),
+after
+standards specified under section 1832(a)(2)(F)(i),
+; and
+(B)
+in the fifth sentence, by inserting
+office-based facility (as defined in section 1834(aa)(5)) with respect to furnishing ambulatory high supply cost surgical procedures (as defined in section 1834(aa)(4)),
+after each occurrence of
+ambulatory surgical center,
+.

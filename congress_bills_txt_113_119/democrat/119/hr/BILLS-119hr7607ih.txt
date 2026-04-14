@@ -1,0 +1,106 @@
+1.
+Short title
+This Act may be cited as the
+Modernizing EIA Tracking and Reporting to Increase Consistency Act
+or the
+METRIC Act
+.
+2.
+Purpose and findings
+(a)
+Purpose
+The purpose of this Act is to improve the energy performance, transparency, and decision-making of the United States by modernizing how the United States measures and accounts for gross amount of energy input into the national energy system.
+(b)
+Findings
+Congress finds thatâ
+(1)
+historical measures of primary energy were developed for economies dominated by combustion-based fuels and do not accurately capture the efficiency or system value of noncombustion energy sources;
+(2)
+differences in how primary energy are measured across fuel and renewable systems obscure trends in electrification, decarbonization, and energy productivity, hindering effective policymaking and misinforming researchers, market participants, and the public; and
+(3)
+enhancing national energy accounting through improved data collection, modeling, and transparency will strengthen evidence-based policymaking, support market efficiency, and better align United States statistics with the energy transition.
+3.
+Modernizing energy metrics
+(a)
+Study on primary energy indicators
+(1)
+Required study
+The Secretary of Energy, with support from the Administrator of the Energy Information Administration and relevant offices within the Department of Energy, shall conduct a comprehensive study on the validity, limitations, and potential alternatives to the use of the indicators for primary energy in national energy accounting.
+(2)
+Scope of study
+The study shall includeâ
+(A)
+an evaluation of the conceptual basis and historical rationale for the current indicator for primary energy calculated and reported by the Energy Information Administration;
+(B)
+an assessment of the limitations of primary energy accounting in accurately reflecting energy efficiency, energy transitions, and the value and comparability of combustible and noncombustible energy sources;
+(C)
+an analysis of alternative indicators and their suitability for integration into national energy statistics;
+(D)
+a review of international best practices for energy accounting, including methodologies used by the International Energy Agency and peer nations; and
+(E)
+recommendations for improvements or replacements to the primary energy indicator that better align with national goals for energy efficiency, electrification, decarbonization, and economic productivity.
+(3)
+Report to Congress
+Not later than 18 months after the date of enactment of this Act, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing the findings and recommendations of the study required under paragraph (1).
+(b)
+Complementary incident energy statistics
+Section 205 of the Department of Energy Organization Act (
+42 U.S.C. 7135
+) is amended by adding at the end the following:
+(n)
+Incident energy statistics
+(1)
+Requirement
+The Administrator shall develop, collect, analyze, and report on incident energy.
+(2)
+Measurement and estimation
+(A)
+Data derived from surveys
+To the extent feasible, under paragraph (1), the Administrator shall collect, through surveys, reporting requirements, or other data-collection mechanisms, data representing the amount of incident energy, consistent with the approaches used to evaluate primary energy for thermal energy sources.
+(B)
+Derived estimates
+With respect to energy sources for which it is not feasible to collect data under subparagraph (A), the Administrator shall develop and publish model-based estimates or analytical approximations of the amount of incident energy, updated on an annual basis, based onâ
+(i)
+data collected through new or existing surveys of manufacturers, operators, or users of energy conversion technologies;
+(ii)
+physical models or statistical analyses developed or adopted by the Energy Information Administration; and
+(iii)
+information derived from Federal research institutions, National Laboratories, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, or other appropriate entities using remote sensing, satellite imagery, or comparable observational techniques, as may be necessary.
+(3)
+Integration and publication
+(A)
+In general
+The Administrator shall include the data on the amount of incident energy included in each report required by paragraph (1) in the existing reports or other products published by the Energy Information Administration that include primary energy and final energy statistics in a manner that enables side-by-side comparison of energy-conversion efficiency and system performance.
+(B)
+Public availability
+The Administrator shall make all data, assumptions, and methods used under this subsection for purposes of developing, collecting, analyzing, and reporting on incident energy publicly available in machine-readable formats and shall describe the degree of uncertainty or approximation associated with the estimates and analytical approximations developed and published under paragraph (2)(B).
+(4)
+Relationship to existing statistics
+This subsection shall not be construed to affect how the Energy Information Administration defines or reports primary energy as of the date of enactment of this subsection.
+(5)
+Definitions
+In this subsection:
+(A)
+Energy conversion
+The term
+energy conversion
+means any physical, chemical, or mechanical process by which energy is transformed from one form to another for the purpose of producing electricity, heat, mechanical work, chemical energy, or another usable or storable form of energy.
+(B)
+Final energy
+The term
+final energy
+â
+(i)
+means energy in the form delivered to end users for consumption in buildings, transportation, industrial processes, or other sectors; and
+(ii)
+includes electricity, pipeline gas, gasoline, diesel, hydrogen, and district heat.
+(C)
+Incident energy
+The term
+incident energy
+â
+(i)
+means the total energy entering an energy conversion technology or system from natural or environmental sources, including both thermal and nonthermal forms, before any transformation or conversion losses occur; and
+(ii)
+includes energy from combustible fuels, biomass, nuclear materials, solar radiation, wind, geothermal heat, hydroelectric potential, and other renewable or nonrenewable resources.
+.

@@ -1,0 +1,110 @@
+1.
+Short title
+This Act may be cited as the
+Fentanyl Trafficking Prevention Act
+.
+2.
+Liability for certain Controlled Substances Act violations
+(a)
+In general
+Part D of the Controlled Substances Act (
+21 U.S.C. 841 et seq.
+) is amended by adding at the end the following:
+424.
+Liability of interactive computer service providers
+(a)
+Definition
+In this section, the term
+covered provider
+means a provider of an interactive computer service, as that term is defined in section 230 of the Communications Act of 1934 (
+47 U.S.C. 230
+), that at any point during the 12 months preceding the filing of an indictment or information alleging a violation of subsection (b) or the filing of a complaint in a civil action under subsection (c)â
+(1)
+has not fewer than 50,000,000 United States-based monthly active users; or
+(2)
+has not fewer than 100,000,000 worldwide monthly active users.
+(b)
+Criminal offense
+(1)
+Offense
+It shall be unlawful for a covered provider that operates through the use of any facility or means of interstate or foreign commerce or in or affecting interstate or foreign commerce, through such service to knowingly or intentionally facilitate a violation of section 401(a)(1), 409, 418, or 419 for distributing, dispensing, or possessing with intent to distribute or dispenseâ
+(A)
+an opioid or a synthetic opioid;
+(B)
+cocaine; or
+(C)
+methamphetamine.
+(2)
+Penalty
+A covered provider that violates paragraph (1) shall be fined not more than $10,000,000.
+(c)
+Civil action
+(1)
+In general
+The Attorney General may bring a civil action in an appropriate district court of the United States against any covered provider that operates through the use of any facility or means of interstate or foreign commerce or in or affecting interstate or foreign commerce, and through such service, intentionally, knowingly, or recklessly facilitates a violation of section 401(a)(1), 409, 418, or 419 for distributing, dispensing, or possessing with intent to distribute or dispenseâ
+(A)
+an opioid or a synthetic opioid;
+(B)
+cocaine; or
+(C)
+methamphetamine.
+(2)
+Penalty
+In a civil action brought under paragraph (1), the Attorney General may recover a civil penalty of not more than $5,000,000.
+(d)
+Rules of construction
+(1)
+Applicability to legal process
+Nothing in this section shall be construed to apply to any action by a covered provider that is necessary to comply with a valid court order, subpoena, search warrant, statutory obligation, or preservation request from a law enforcement agency.
+(2)
+Mental state with respect to each item required
+For purposes of subsections (b) and (c), the terms
+intentionally
+,
+knowingly
+, and
+recklessly
+shall be construed to mean intentionality, knowledge, or recklessness, respectively, with respect to the facilitation of each violation described in those subsections.
+(e)
+Encryption technologies
+(1)
+Cybersecurity protections do not give rise to liability
+A criminal prosecution under subsection (b) or a civil action under subsection (c) may not be brought against a covered provider because the covered providerâ
+(A)
+utilizes full end-to-end encrypted messaging services, device encryption, or other encryption services;
+(B)
+does not possess the information necessary to decrypt a communication; or
+(C)
+fails to take an action that would otherwise undermine the ability of the covered provider to offer full end-to-end encrypted messaging services, device encryption, or other encryption services.
+(2)
+Rule of construction
+Nothing in this subsection is intended to undermine the use of encryption technology.
+(f)
+Protection of Privacy
+Nothing in this section shall be construed to require a covered provider toâ
+(1)
+monitor any user, subscriber, or customer of that covered provider;
+(2)
+monitor the content of any communication of any person described in paragraph (1); or
+(3)
+affirmatively search, screen, or scan for violations described in subsection (b)(1) or (c)(1).
+.
+(b)
+Clerical amendment
+The table of contents for the Controlled Substances Act (
+21 U.S.C. 801 et seq.
+) is amended by inserting after the item relating to section 423 the following:
+Sec. 424. Liability of interactive computer service providers.
+.
+3.
+Federal civil liability
+Section 230(e) of the Communications Act of 1934 (
+47 U.S.C. 230(e)
+) is amended by adding at the end the following:
+(6)
+No effect on certain claims or charges pertaining to certain drugs
+Nothing in this section, other than subsection (c)(2)(A), shall be construed to impair or limit any claim in a civil action brought against a provider of an interactive computer service under section 424(c) of the Controlled Substances Act.
+.
+4.
+Severability
+If any provision of this Act or amendment made by this Act, or the application of such a provision or amendment to any person or circumstance, is held to be unconstitutional, the remaining provisions of this Act and amendments made by this Act, and the application of such provision or amendment to any other person or circumstance, shall not be affected thereby.

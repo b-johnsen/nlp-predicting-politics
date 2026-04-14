@@ -1,0 +1,133 @@
+1.
+Short title
+This Act may be cited as the
+Data Breach Accountability and Enforcement Act of 2017
+.
+2.
+Requirement to implement reasonable cybersecurity protections and practices
+(a)
+Requirement
+No covered entity may acquire, maintain, or use personal information in commerce without having in effect reasonable cybersecurity protections and practices.
+(b)
+Enforcement by Federal Trade Commission
+(1)
+Unfair or deceptive acts or practices
+A violation of subsection (a) by a covered entity shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (
+15 U.S.C. 57a(a)(1)(B)
+).
+(2)
+Powers of Commission
+(A)
+In general
+Except as provided in subparagraph (C), the Federal Trade Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.) were incorporated into and made a part of this Act.
+(B)
+Privileges and immunities
+Except as provided in subparagraph (C), any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (
+15 U.S.C. 41
+et seq.).
+(C)
+Applicability to all covered entities
+(i)
+In general
+The Federal Trade Commission shall enforce this section with respect to a person described in clause (ii) as if such person were a person over which the Commission has authority pursuant to section 5(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(2)
+) and, notwithstanding sections 4, 5(a)(2), and 6 of such Act (
+15 U.S.C. 44
+, 45(a)(2), and 46), not jurisdictional limitation of the Commission with respect to a person described in clause (ii) shall apply for purposes of this section.
+(ii)
+Persons described
+A person described in this clause isâ
+(I)
+a bank, a savings and loan institution, a Federal credit union, a common carrier, an air carrier or foreign air carrier, or a person, partnership, or corporation insofar as it is subject to the Packers and Stockyards Act, 1921, as described in section 5(a)(2) of the Federal Trade Commission Act (
+15 U.S.C. 45(a)(2)
+); or
+(II)
+an organization which is not organized to carry on business for its own profit or that of its members.
+(3)
+Regulations
+(A)
+In general
+The Federal Trade Commission shall promulgate, in accordance with section 553 of title 5, United States Code, such regulations as may be necessary to carry out this section.
+(B)
+Minimum standards
+In promulgating any standards for cybersecurity protections and practices to carry out this section, the Commission shall ensure that any such standards that would safeguard customer information do so as well as or better than the standards set forth under part 314 of title 16, Code of Federal Regulations, as in effect on the day before the date of the enactment of this Act.
+(4)
+Civil penalties
+Notwithstanding section 5(m) of the Federal Trade Commission Act (
+15 U.S.C. 45(m)
+), a civil penalty recovered under such section may be in excess of amounts provided for in such section as the court finds appropriate to deter violations of subsection (a) of this section.
+(c)
+Definitions
+In this section:
+(1)
+Breach of security
+(A)
+In general
+The term
+breach of security
+means compromise of the security, confidentiality, or integrity of, or loss of, data in electronic form that results in, or there is a reasonable basis to conclude has resulted in, unauthorized access to or acquisition of personal information from a covered entity.
+(B)
+Exclusions
+The term
+breach of security
+does not includeâ
+(i)
+a good faith acquisition of personal information by a covered entity, or an employee or agent of a covered entity, if the personal information is not subject to further use or unauthorized disclosure;
+(ii)
+any lawfully authorized investigative, protective, or intelligence activity of a law enforcement or an intelligence agency of the United States, a State, or a political subdivision of a State; or
+(iii)
+the release of a public record not otherwise subject to confidentiality or nondisclosure requirements.
+(2)
+Covered
+entity
+The term
+covered entity
+means a sole proprietorship, partnership, corporation, trust, estate, cooperative, association, or other commercial entity, and any charitable, educational, or nonprofit organization, that acquires, maintains, or utilizes personal information.
+(3)
+Data in
+electronic form
+The term
+data in electronic form
+means any data stored electronically or digitally on any computer system or other database, including recordable tapes and other mass storage devices.
+(4)
+Identity
+theft
+The term
+identity theft
+means the unauthorized use of another person's personal information for the purpose of engaging in commercial transactions under the identity of such other person, including any contact that violates section 1028A of title 18, United States Code.
+(5)
+Personal
+information
+(A)
+Definition
+The term
+personal information
+means any information or compilation of information that includesâ
+(i)
+a non-truncated Social Security number;
+(ii)
+a financial account number or credit or debit card number in combination with any security code, access code, or password that is required for an individual to obtain credit, withdraw funds, or engage in a financial transaction; or
+(iii)
+an individualâs first and last name or first initial and last name in combination withâ
+(I)
+a driverâs license number, a passport number, or an alien registration number, or other similar number issued on a government document used to verify identity;
+(II)
+unique biometric data such as a fingerprint, voice print, retina or iris image, or any other unique physical representation;
+(III)
+a unique account identifier, electronic identification number, user name, or routing code in combination with any associated security code, access code, or password that is required for an individual to obtain money, goods, services, or any other thing of value; or
+(IV)
+2 of the following:
+(aa)
+Home address or telephone number.
+(bb)
+Motherâs maiden name, if identified as such.
+(cc)
+Month, day, and year of birth.
+(B)
+Modified
+definition by rulemaking
+If the Federal Trade Commission determines that the definition under subparagraph (A) is not reasonably sufficient to protect individuals from identity theft, fraud, or other unlawful conduct, the Commission by rule promulgated under section 553 of title 5, United States Code, may modify the definition of
+personal information
+under subparagraph (A) to the extent the modification will not unreasonably impede interstate commerce.

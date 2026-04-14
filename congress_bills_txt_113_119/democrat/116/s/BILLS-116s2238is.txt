@@ -1,0 +1,1401 @@
+1.
+Short title; table of contents
+(a)
+Short title
+This Act may be cited as the
+Securing America's Federal Elections Act
+or the
+SAFE Act
+.
+(b)
+Table of contents
+The table of contents of this Act is as follows:
+Sec. 1. Short title; table of contents.
+Title IâFinancial Support for Election Infrastructure
+Subtitle AâVoting System Security Improvement Grants
+Part 1âPromoting Accuracy, Integrity, and Security Through Voter-Verifiable Permanent Paper Ballot
+Sec. 101. Short title.
+Sec. 102. Paper ballot and manual counting requirements.
+Sec. 103. Accessibility and ballot verification for individuals with disabilities.
+Sec. 104. Durability and readability requirements for ballots.
+Sec. 105. Paper ballot printing requirements.
+Sec. 106. Updated study and report on optimal ballot design.
+Sec. 107. Effective date for new requirements.
+Part 2âGrants To Carry Out Improvements
+Sec. 111. Grants for obtaining compliant paper ballot voting systems and carrying out voting system
+security improvements.
+Sec. 112. Grants for accessible ballot marking devices.
+Sec. 113. Grants for ballot design and printing.
+Sec. 114. Coordination of voting system security activities with use of requirements payments and
+election administration requirements under Help America Vote Act of 2002.
+Sec. 115. Incorporation of definitions.
+Subtitle BâRisk-Limiting Audits
+Sec. 121. Risk-limiting audits.
+Sec. 122. Funding for conducting post-election risk-limiting audits.
+Sec. 123. GAO analysis of effects of audits.
+Tite IIâPromoting Cybersecurity Through Improvements in Election Administration
+Sec. 201. Cybersecurity requirements for and testing and certification of voting systems.
+Sec. 202. Voting system cybersecurity requirements.
+Sec. 203. Testing of existing voting systems to ensure compliance with election cybersecurity
+guidelines and other guidelines.
+Sec. 204. Requiring use of software and hardware for which information is disclosed by
+manufacturer.
+Sec. 205. Treatment of electronic poll books as part of voting systems.
+Sec. 206. Pre-election reports on voting system usage.
+Sec. 207. Streamlining collection of election information.
+Title IIIâUse of Voting Machines Manufactured in the United States
+Sec. 301. Use of voting machines manufactured in the United States.
+Title IVâSeverability
+Sec. 401. Severability.
+I
+Financial Support for Election Infrastructure
+A
+Voting System Security Improvement Grants
+1
+Promoting Accuracy, Integrity, and Security Through Voter-VerÂ­iÂ­fiÂ­aÂ­ble Permanent Paper Ballot
+101.
+Short title
+This subtitle may be cited as the
+Voter Confidence and Increased Accessibility Act of 2019
+.
+102.
+Paper ballot and manual counting requirements
+(a)
+In general
+Section 301(a)(2) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)(2)
+) is amended to read as follows:
+(2)
+Paper ballot requirement
+(A)
+Voter-verifiable paper ballots
+(i)
+Paper ballot requirement
+(I)
+In general
+The voting system shall require the use of an individual, durable, voter-verifiable paÂ­per ballot of the voterâs vote selections that shall be marked and made available for inspection and verÂ­iÂ­fiÂ­caÂ­tion by the voter before the voterâs ballot is cast and counted. For purposes of this subclause, the term
+individual, durable, voter-verifiable paper ballot
+means a paper ballot marked by the voter by hand or a paper ballot marked through the use of a nontabulating ballot marking device, so long as the voter shall have the option to mark his or her ballot by hand.
+(II)
+Requirements for ballot marking devices
+Except as required to meet the accessibility requirements under paragraph (3), in the case of a ballot marking deviceâ
+(aa)
+the printed or marked paper ballot shall be presented to the voter for physical inspection and verification before the ballot is counted and preserved in accordance with clause (ii);
+(bb)
+the paper ballot shall be printed or marked in such a way that vote selections, including all vote selections scanned by ballot tabulation devices, can be inspected and verified by the voter without training or instruction or audited by election officials without the aid of any machine or other equipment; and
+(cc)
+the ballot marking device shall be designed and built in a manner in which it is mechanically impossible for the device to add or change the vote selections on a printed or marked ballot at any time after the ballot has been presented to the voter for inspection and verification under item (aa).
+(III)
+Confidentiality
+The voting system shall not preserve or mark the individual, durable, voter-verifiable paper ballots in any manner that makes it possible, at any time after the ballot has been cast, to associate a voter with the record of the voter's vote selections without the voter's consent.
+(ii)
+Preservation as official record
+The individual, durable, voter-verifiable paper ballot used in accordance with clause (i) shall constitute the official ballot and shall be preserved and used as the official ballot for purposes of any recount or audit conducted with respect to any election for Federal office in which the voting system is used.
+(iii)
+Manual counting requirements for recounts
+(I)
+Each paper ballot used pursuant to clause (i) shall be counted by hand in any recount conducted with respect to any election for Federal office.
+(II)
+In the event of any inconsistencies or irregularities between any electronic vote tallies and the vote tallies determined by counting by hand the individual, durable, voter-verifiable paper ballots used pursuant to clause (i), and subject to subparagraph (B), the individual, durable, voter-verifiable paper ballots shall be the true and correct record of the votes cast.
+(iv)
+Application to all ballots
+The requirements of this subparagraph shall apply to all ballots cast in elections for Federal office, including ballots cast by absent uniformed services voters and overseas voters under the Uniformed and Overseas Citizens Absentee Voting Act and other absentee voters.
+(B)
+Special rule for treatment of disputes when paper ballots have been shown to be compromised
+(i)
+In general
+In the event thatâ
+(I)
+there is any inconsistency between any electronic vote tallies and the vote tallies determined by counting by hand the individual, durable, voter-verifiable paper ballots used pursuant to subparagraph (A)(i) with respect to any election for Federal office; and
+(II)
+it is demonstrated by clear and convincing evidence (as determined in accordance with the applicable standards in the jurisdiction involved) in any recount, audit, or contest of the result of the election that the paper ballots have been compromised (by damage or mischief or otherwise) and that a sufficient number of the ballots have been so compromised that the result of the election could be changed,
+the determination of the appropriate remedy with respect to the election shall be made in
+accordance with applicable State and Federal law, except that the
+electronic tally
+shall not be used as the exclusive basis for determining the official
+certified result.
+(ii)
+Rule for consideration of ballots associated with each voting machine
+For purposes of clause (i), only the paper ballots deemed compromised, if any, shall be considered in the calculation of whether or not the result of the election could be changed due to the compromised paper ballots.
+.
+(b)
+Conforming amendment clarifying applicability of alternative language accessibility
+Section 301(a)(4) of such Act (
+52 U.S.C. 21081(a)(4)
+) is amended by inserting
+(including the paper ballots required to be used under paragraph (2))
+after
+voting system
+.
+(c)
+Other conforming amendments
+Section 301(a)(1) of such Act (
+52 U.S.C. 21081(a)(1)
+) is amendedâ
+(1)
+in subparagraph (A)(i), by striking
+counted
+and inserting
+counted, in accordance with paragraphs (2) and (3)
+;
+(2)
+in subparagraph (A)(ii), by striking
+counted
+and inserting
+counted, in accordance with paragraphs (2) and (3)
+;
+(3)
+in subparagraph (A)(iii), by striking
+counted
+each place it appears and inserting
+counted, in accordance with paragraphs (2) and (3)
+; and
+(4)
+in subparagraph (B)(ii), by striking
+counted
+and inserting
+counted, in accordance with paragraphs (2) and (3)
+.
+103.
+Accessibility and ballot verification for individuals with disabilities
+(a)
+In general
+Section 301(a)(3)(B) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)(3)(B)
+) is amended to read as follows:
+(B)
+(i)
+ensure that individuals with disabilities and others are given an equivalent opportunity to vote, including with privacy and independence, in a manner that produces a voter-verifiable paper ballot as for other voters;
+(ii)
+satisfy the requirement of subparagraph (A) through the use of as many ballot marking devices at each polling place as necessary (but not less than 1) to reasonably accommodate the number of voters with accessibility needs expected to vote at the polling place) thatâ
+(I)
+is equipped for individuals with disabilities, including nonvisual and enhanced visual accessibility for the blind and visually impaired and nonmanual and enhanced manual accessibility for the mobility and dexterity impaired;
+(II)
+in the case of any election for Federal office occurring after the date that is 6 years after the date of the enactment of the
+Securing America's Federal Elections Act
+â
+(aa)
+marks ballots that are identical in size, ink, and paper stock to those ballots that would either be marked by hand or be marked by a ballot marking device made generally available to voters; and
+(bb)
+combines ballots produced by any ballot marking devices reserved for individuals with disabilities with ballots that have either been marked by voters by hand or marked by ballot marking devices made generally available to voters, in a way that prevents identification of the ballots that were cast using any ballot marking device that was reserved for individuals with disabilities; and
+(III)
+is made available for use by any voter who requests to use it; and
+(iii)
+in the case of any election for Federal office occurring after the date that is 6 years after the date of the enactment of the
+Securing America's Federal Elections Act
+, meet the requirements of subparagraph (A) and paragraph (2)(A) by using a system thatâ
+(I)
+allows the voter to privately and independently verify the accuracy of the permanent paper ballot through the presentation, in accessible form, of the printed or marked vote selections from the same printed or marked information that would be used for any vote tabulation or auditing; and
+(II)
+allows the voter to privately and independently verify and cast the permanent paper ballot without requiring the voter to manually handle the paper ballot; and
+.
+(b)
+Clarification with respect to application of requirement to ballots marked at home
+Section 301(a)(3) of such Act (
+52 U.S.C. 21081(a)(3)
+) is amended by adding at the end the following new flush sentence:
+Nothing in subparagraph (B) shall be construed to prohibit the use of an accessible ballot that may
+be printed or marked by the voter at home.
+.
+(c)
+Requirement for poll workers To inform votes of accessible voting systems
+(1)
+In general
+Title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21081
+et seq.) is amended by inserting after section 301 the following new section:
+301A.
+Information on accessible voting systems
+(a)
+In general
+Every individual who votes in person in an election for Federal office shall be informed by the individual administering such election ofâ
+(1)
+the availability of accessible voting systems under section 301(a)(3)(B); and
+(2)
+the right of the individual to use such voting systems upon request.
+(b)
+Effective date
+The requirements of this section shall apply to elections for Federal office held in 2020 or any succeeding year.
+.
+(2)
+Clerical Amendment
+The table of contents for such Act is amended by inserting after the item relating to section 301 the following new item:
+Sec. 301A. Information on accessible voting systems.
+.
+(3)
+Conforming amendment relating to enforcement
+Section 401 of such Act (
+52 U.S.C. 21111
+) is amended by striking
+sections 301, 302, and 303
+and inserting
+subtitle A of title III
+.
+(d)
+Specific requirement of study, testing, and development of accessible paper ballot verification mechanisms
+(1)
+Study and reporting
+Subtitle C of title II of such Act (
+52 U.S.C. 21081
+et seq.) is amendedâ
+(A)
+by redesignating section 247 as section 248; and
+(B)
+by inserting after section 246 the following new section:
+247.
+Study and report on accessible paper ballot verification mechanisms
+(a)
+Study and report
+The Director of the National Science Foundation shall make grants to not fewer than three eligible entities to study, test, and develop accessible paper ballot voting, verification, and casting mechanisms and devices and best practices to enhance the accessibility of paper ballot voting and verification mechanisms for individuals with disabilities, for voters whose primary language is not English, and for voters with difficulties in literacy, including best practices for the mechanisms themselves and the processes through which the mechanisms are used.
+(b)
+Eligibility
+An entity is eligible to receive a grant under this part if it submits to the Director (at such time and in such form as the Director may require) an application containingâ
+(1)
+certifications that the entity shall specifically investigate enhanced methods or devices, including non-electronic devices, that will assist such individuals and voters in marking voter-verifiable paper ballots and presenting or transmitting the information printed or marked on such ballots back to such individuals and voters, and casting such ballots;
+(2)
+a certification that the entity shall complete the activities carried out with the grant not later than December 31, 2020; and
+(3)
+such other information and certifications as the Director may require.
+(c)
+Availability of technology
+Any technology developed with the grants made under this section shall be treated as non-proprietary and shall be made available to the public, including to manufacturers of voting systems.
+(d)
+Coordination with grants for technology improvements
+The Director shall carry out this section so that the activities carried out with the grants made under subsection (a) are coordinated with the research conducted under the grant program carried out by the Commission under section 271, to the extent that the Director and Commission determine necessary to provide for the advancement of accessible voting technology.
+(e)
+Authorization of appropriations
+There is authorized to be appropriated to carry out subsection (a) $5,000,000, to remain available until expended.
+.
+(2)
+Clerical amendment
+The table of contents of such Act is amendedâ
+(A)
+by redesignating the item relating to section 247 as relating to section 248; and
+(B)
+by inserting after the item relating to section 246 the following new item:
+Sec. 247. Study and report on accessible paper ballot verification mechanisms.
+.
+(e)
+Clarification of accessibility standards under voluntary voting system guidance
+In adopting any voluntary guidance under subtitle B of title III of the Help America Vote Act with respect to the accessibility of the paper ballot verification requirements for individuals with disabilities, the Election Assistance Commission shall include and apply the same accessibility standards applicable under the voluntary guidance adopted for accessible voting systems under such subtitle.
+(f)
+Permitting use of funds for protection and advocacy systems To support actions To enforce
+election-Related disability access
+Section 292(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21062(a)
+) is amended by striking
+; except that
+and all that follows and inserting a period.
+104.
+Durability and readability requirements for ballots
+Section 301(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)
+) is amended by adding at the end the following new paragraph:
+(7)
+Durability and readability requirements for ballots
+(A)
+Durability requirements for paper ballots
+(i)
+In general
+All voter-verifiable paper ballots required to be used under this Act shall be marked or printed on durable paper.
+(ii)
+Definition
+For purposes of this Act, paper is
+durable
+if it is capable of withstanding multiple counts and recounts by hand without compromising the fundamental integrity of the ballots, and capable of retaining the information marked or printed on them for the full duration of a retention and preservation period of 22 months.
+(B)
+Readability requirements for paper ballots marked by ballot marking device
+All voter-verifiable paper ballots completed by the voter through the use of a ballot marking device shall be clearly readable by the voter without assistance (other than eyeglasses or other personal vision enhancing devices) and by a ballot tabulation device or other device equipped for individuals with disabilities.
+.
+105.
+Paper ballot printing requirements
+(a)
+Requiring paper ballots To be printed on recycled paper manufactured in United States
+Section 301(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)
+), as amended by section 104, is amended by adding at the end the following new paragraph:
+(8)
+Printing requirements for ballots
+(A)
+In general
+All paper ballots used in an election for Federal office shall be printed in the United States on recycled paper manufactured in the United States.
+(B)
+Exception
+If a State or jurisdiction that certifies to the Commission that some or all of the ballot marking devices or ballot tabulation devices used in the State or jurisdiction in Federal elections cannot process or retain ballots printed on recycled paper, subparagraph (A) shall be applied to such State or jurisdiction without regard to whether the ballot is printed on recycled paper for any election for Federal office during the period beginning on the date that is 60 days after such certification is made and ending on the first date on which the State or jurisdiction replaces such ballot marking devices or ballot tabulation devices.
+.
+(b)
+Effective date
+The amendment made by subsection (a) shall apply with respect to elections occurring on or after January 1, 2021.
+106.
+Updated study and report on optimal ballot design
+(a)
+Study
+The Election Assistance Commission shall update any studies conducted on ballot designs under section 241 of the Help America Vote Act of 2002 (
+52 U.S.C. 20981
+). The updated study shall includeâ
+(1)
+designs for paper ballots and electronic or digital ballots, including designs for user interfaces the primary purpose of which is to assist in the casting of electronic or digital ballots; and
+(2)
+designs to minimize confusion and user errors.
+(b)
+Report
+Not later than January 1, 2020, the Commission shall submit the report required to be submitted under section 241(c) of the Help America Vote Act of 2002 (
+52 U.S.C. 20981(c)
+) on the study conducted under subsection (a).
+107.
+Effective date for new requirements
+Section 301(d) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(d)
+) is amended to read as follows:
+(d)
+Effective Date
+(1)
+In general
+Except as provided in paragraph (2), each State and jurisdiction shall be required to comply with the requirements of this section on and after January 1, 2006.
+(2)
+Special rule for certain requirements
+(A)
+In general
+Except as provided in section 105(b) of the
+Securing America's Federal Elections Act
+, clauses (ii)(II) and (iii) of subsection (a)(3)(B), and subparagraphs (B) and (C), the requirements of this section which are first imposed on a State and jurisdiction pursuant to the amendments made by the Voter Confidence and Increased Accessibility Act of 2019 shall apply with respect to voting systems used for any election for Federal office held in 2020 or any succeeding year.
+(B)
+Delay for jurisdictions using certain paper record printers or certain systems using or producing
+voter-verifiable paper records in 2018
+(i)
+Delay
+In the case of a jurisdiction described in clause (ii), subparagraph (A) shall apply to a voting system in the jurisdiction as if the reference in such subparagraph to
+2020
+were a reference to
+2022
+, but only with respect to the following requirements of this section:
+(I)
+Paragraph (2)(A)(i)(I) or (II) of subsection (a) (relating to the use of voter-verifiable paper ballots).
+(II)
+Paragraph (7) of subsection (a) (relating to durability and readability requirements for ballots).
+(ii)
+Jurisdictions described
+A jurisdiction described in this clause is a jurisdictionâ
+(I)
+which used voter-verifiable paper record printers attached to direct recording electronic voting machines, or which used other voting systems that used or produced paper records of the vote selections verifiable by voters but that are not in compliance with paragraphs (2)(A)(i)(I), (2)(A)(i)(II), and (7) of subsection (a) (as amended or added by the Voter Confidence and Increased Accessibility Act of 2019), for the administration of the regularly scheduled general election for Federal office held in November 2018; and
+(II)
+which will continue to use such printers or systems for the administration of elections for Federal office held in years before 2022.
+(iii)
+Mandatory availability of paper ballots at polling places using grandfathered printers and systems
+(I)
+Requiring ballots to be offered and provided
+The appropriate election official at each polling place that uses a printer or system described in clause (ii)(I) for the administration of elections for Federal office shall offer each individual who is eligible to cast a vote in the election at the polling place the opportunity to cast the vote using a blank paper ballot which the individual may mark by hand. The official shall provide the individual with the ballot and the supplies necessary to mark the ballot, and shall ensure (to the greatest extent practicable) that the waiting period for the individual to cast a vote is the lesser of 30 minutes or the average waiting period for an individual who does not agree to cast the vote using such a paper ballot under this clause.
+(II)
+Treatment of ballot
+Any paper ballot which is cast by an individual under this clause shall be counted and otherwise treated as a regular ballot for all purposes (including by incorporating it into the final unofficial vote count (as defined by the State) for the precinct) and not as a provisional ballot, unless the individual casting the ballot would have otherwise been required to cast a provisional ballot.
+(III)
+Posting of notice
+The appropriate election official shall ensure there is prominently displayed at each polling place a notice that describes the obligation of the official to offer individuals the opportunity to cast votes using a blank paper ballot.
+(IV)
+Training of election officials
+The chief State election official shall ensure that election officials at polling places in the State are aware of the requirements of this clause, including the requirement to display a notice under subclause (III), and are aware that it is a violation of the requirements of this title for an election official to fail to offer an individual the opportunity to cast a vote using a blank paper ballot.
+(V)
+Period of applicability
+The requirements of this clause apply only during the period in which the delay is in effect under clause (i).
+.
+2
+Grants To Carry Out Improvements
+111.
+Grants for obtaining compliant paper ballot voting systems and carrying out voting system security
+improvements
+(a)
+Availability of grants
+Subtitle D of title II of the Help America Vote Act of 2002 (
+52 U.S.C. 21001
+et seq.) is amended by adding at the end the following new part:
+7
+Grants for Obtaining Compliant Paper Ballot Voting Systems and Carrying Out Voting System Security
+Improvements
+297.
+Grants for obtaining compliant paper ballot voting systems and carrying out voting system security
+improvements
+(a)
+Availability and use of grant
+The Commission shall make a grant to each eligible Stateâ
+(1)
+to replace a voting systemâ
+(A)
+which does not meet the requirements which are first imposed on the State pursuant to the amendments made by the Voter Confidence and Increased Accessibility Act of 2019 with a voting system which does meet such requirements, for use in the regularly scheduled general elections for Federal office held in November 2020; or
+(B)
+which does meet such requirements but which is not in compliance with the most recent voluntary voting system guidelines issued by the Commission prior to the regularly scheduled general election for Federal office held in November 2020 with another system which does meet such requirements and is in compliance with such guidelines; and
+(2)
+to carry out voting system security improvements described in section 297A with respect to the regularly scheduled general elections for Federal office held in November 2020 and each succeeding election for Federal office.
+(b)
+Amount of grant
+The amount of a grant made to a State under this section shall be such amount as the Commission determines to be appropriate, except that such amount may not be less than the product of $1 and the average of the number of individuals who cast votes in any of the two most recent regularly scheduled general elections for Federal office held in the State.
+(c)
+Pro rata reductions
+If the amount of funds appropriated for grants under this part is insufficient to ensure that each State receives the amount of the grant calculated under subsection (b), the Commission shall make such pro rata reductions in such amounts as may be necessary to ensure that the entire amount appropriated under this part is distributed to the States.
+(d)
+Surplus appropriations
+If the amount of funds appropriated for grants authorized under section 297D(a)(2) exceed the amount necessary to meet the requirements of subsection (b), the Commission shall consider the following in making a determination to award remaining funds to a State:
+(1)
+The record of the State in carrying out the following with respect to the administration of elections for Federal office:
+(A)
+Providing voting machines that are less than 10 years old.
+(B)
+Implementing strong chain of custody procedures for the physical security of voting equipment and paper records at all stages of the process.
+(C)
+Conducting pre-election testing on every voting machine and ensuring that paper ballots are available wherever electronic machines are used.
+(D)
+Maintaining offline backups of voter registration lists.
+(E)
+Providing a secure voter registration database that logs requests submitted to the database.
+(F)
+Publishing and enforcing a policy detailing use limitations and security safeguards to protect the personal information of voters in the voter registration process.
+(G)
+Providing secure processes and procedures for reporting vote tallies.
+(H)
+Providing a secure platform for disseminating vote totals.
+(2)
+Evidence of established conditions of innovation and reform in providing voting system security and the proposed plan of the State for implementing additional conditions.
+(3)
+Evidence of collaboration between relevant stakeholders, including local election officials, in developing the grant implementation plan described in section 297B.
+(4)
+The plan of the State to conduct a rigorous evaluation of the effectiveness of the activities carried out with the grant.
+(e)
+Ability of replacement systems To administer ranked choice elections
+To the greatest extent practicable, an eligible State which receives a grant to replace a voting system under this section shall ensure that the replacement system is capable of administering a system of ranked choice voting under which each voter shall rank the candidates for the office in the order of the voterâs preference.
+297A.
+Voting system security improvements described
+(a)
+Permitted uses
+A voting system security improvement described in this section is any of the following:
+(1)
+The acquisition of goods and services from qualified election infrastructure vendors by purchase, lease, or such other arrangements as may be appropriate.
+(2)
+Cyber and risk mitigation training.
+(3)
+A security risk and vulnerability assessment of the Stateâs election infrastructure which is carried out by a provider of cybersecurity services under a contract entered into between the chief State election official and the provider.
+(4)
+The maintenance of election infrastructure, including addressing risks and vulnerabilities which are identified under either of the security risk and vulnerability assessments described in paragraph (3), except that none of the funds provided under this part may be used to renovate or replace a building or facility which is used primarily for purposes other than the administration of elections for public office.
+(5)
+Providing increased technical support for any information technology infrastructure that the chief State election official deems to be part of the Stateâs election infrastructure or designates as critical to the operation of the Stateâs election infrastructure.
+(6)
+Enhancing the cybersecurity and operations of the information technology infrastructure described in paragraph (4).
+(7)
+Enhancing the cybersecurity of voter registration systems.
+(b)
+Qualified election infrastructure vendors described
+(1)
+In general
+For purposes of this part, a
+qualified election infrastructure vendor
+is any person who provides, supports, or maintains, or who seeks to provide, support, or maintain, election infrastructure on behalf of a State, unit of local government, or election agency, who meets the criteria described in paragraph (2).
+(2)
+Criteria
+The criteria described in this paragraph are such criteria as the Chairman, in coordination with the Secretary of Homeland Security, shall establish and publish, and shall include each of the following requirements:
+(A)
+The vendor must be owned and controlled by a citizen or permanent resident of the United States.
+(B)
+The vendor must disclose to the Chairman and the Secretary, and to the chief State election official of any State to which the vendor provides any goods and services with funds provided under this part, of any sourcing outside the United States for parts of the election infrastructure.
+(C)
+The vendor agrees to ensure that the election infrastructure will be developed and maintained in a manner that is consistent with the cybersecurity best practices issued by the Technical Guidelines Development Committee.
+(D)
+The vendor agrees to maintain its information technology infrastructure in a manner that is consistent with the cybersecurity best practices issued by the Technical Guidelines Development Committee.
+(E)
+The vendor agrees to meet the requirements of paragraph (3) with respect to any known or suspected cybersecurity incidents involving any of the goods and services provided by the vendor pursuant to a grant under this part.
+(F)
+The vendor agrees to permit independent security testing by the Commission (in accordance with section 231(a)) and by the Secretary of the goods and services provided by the vendor pursuant to a grant under this part.
+(3)
+Cybersecurity incident reporting requirements
+(A)
+In general
+A vendor meets the requirements of this paragraph if, upon becoming aware of the possibility that an election cybersecurity incident has occurred involving any of the goods and services provided by the vendor pursuant to a grant under this partâ
+(i)
+the vendor promptly assesses whether or not such an incident occurred, and submits a notification meeting the requirements of subparagraph (B) to the Secretary and the Chairman of the assessment as soon as practicable (but in no case later than 3 days after the vendor first becomes aware of the possibility that the incident occurred);
+(ii)
+if the incident involves goods or services provided to an election agency, the vendor submits a notification meeting the requirements of subparagraph (B) to the agency as soon as practicable (but in no case later than 3 days after the vendor first becomes aware of the possibility that the incident occurred), and cooperates with the agency in providing any other necessary notifications relating to the incident; and
+(iii)
+the vendor provides all necessary updates to any notification submitted under clause (i) or clause (ii).
+(B)
+Contents of notifications
+Each notification submitted under clause (i) or clause (ii) of subparagraph (A) shall contain the following information with respect to any election cybersecurity incident covered by the notification:
+(i)
+The date, time, and time zone when the election cybersecurity incident began, if known.
+(ii)
+The date, time, and time zone when the election cybersecurity incident was detected.
+(iii)
+The date, time, and duration of the election cybersecurity incident.
+(iv)
+The circumstances of the election cybersecurity incident, including the specific election infrastructure systems believed to have been accessed and information acquired, if any.
+(v)
+Any planned and implemented technical measures to respond to and recover from the incident.
+(vi)
+In the case of any notification which is an update to a prior notification, any additional material information relating to the incident, including technical data, as it becomes available.
+297B.
+Eligibility of States
+A State is eligible to receive a grant under this part if the State submits to the Commission, at such time and in such form as the Commission may require, an application containingâ
+(1)
+a description of how the State will use the grant to carry out the activities authorized under this part;
+(2)
+a certification and assurance that, not later than 5 years after receiving the grant, the State will carry out voting system security improvements, as described in section 297A; and
+(3)
+such other information and assurances as the Commission may require.
+297C.
+Reports to Congress
+Not later than 90 days after the end of each fiscal year, the Commission shall submit a report to the appropriate congressional committees, including the Committees on Homeland Security, House Administration, and the Judiciary of the House of Representatives and the Committees on Homeland Security and Governmental Affairs, the Judiciary, and Rules and Administration of the Senate, on the activities carried out with the funds provided under this part.
+297D.
+Authorization of appropriations
+(a)
+Authorization
+There are authorized to be appropriated for grants under this partâ
+(1)
+$600,000,000 for fiscal year 2019; and
+(2)
+$175,000,000 for each of the fiscal years 2020, 2022, 2024, and 2026.
+(b)
+Continuing availability of amounts
+Any amounts appropriated pursuant to the authorization of this section shall remain available until expended.
+.
+(b)
+Clerical amendment
+The table of contents of such Act is amended by adding at the end of the items relating to subtitle D of title II the following:
+Part 7âGrants for Obtaining Compliant Paper Ballot Voting Systems and Carrying Out Voting System
+Security Improvements
+Sec. 297. Grants for obtaining compliant paper ballot voting systems and carrying out voting system
+security improvements.
+Sec. 297A. Voting system security improvements described.
+Sec. 297B. Eligibility of States.
+Sec. 297C. Reports to Congress.
+Sec. 297D. Authorization of appropriations.
+.
+112.
+Grants for accessible ballot marking devices
+(a)
+In general
+Subtitle D of title II of the Help America Vote Act of 2002 (
+52 U.S.C. 21001
+et seq.), as amended by section 111(a), is amended by adding at the end the following new part:
+8
+Funding for accessible ballot marking devices
+298.
+Acquisition of accessible ballot marking devices for voters with disabilities
+(a)
+In general
+The Commission shall pay to States the amount of eligible accessible ballot marking device costs.
+(b)
+Eligible accessible ballot marking device costs
+(1)
+In general
+For purposes of this section, the term
+eligible accessible ballot marking device costs
+means costs paid or incurred by a State or local government to acquire an accessible ballot marking device.
+(2)
+Accessible ballot marking device defined
+For purposes of this section, the term
+accessible ballot marking device
+means a ballot marking device that is used by the State or local government exclusively to comply with the requirements of section 301(a)(3) (as applied to elections for Federal office occurring after the date that is 6 years after the date of the enactment of the
+Securing America's Federal Elections Act
+).
+(c)
+Payments
+(1)
+Limitations
+(A)
+In general
+Except as provided in subparagraph (B), the Commission shall not pay eligible accessible ballot marking device costs with respect to more than 1 accessible ballot marking device in any precinct.
+(B)
+Exception
+The Commission may pay for more than 1 accessible ballot marking device in any precinct if the State demonstrates the need for more accessible ballot marking devices in such precinct due to the number of voters with disabilities voting in such precinct compared to other precincts.
+(2)
+Rules and procedures
+The Commission shall establish rules and procedures for submission of eligible accessible ballot marking device costs for payments under this section.
+(3)
+Insufficient funds
+In any case in which the amounts appropriated under subsection (d) are insufficient to pay all eligible accessible ballot marking device costs submitted by States with respect to any Federal election, the amount of such costs paid under subsection (a) to any State shall be equal to the amount that bears the same ratio to the amount which would be paid to such State (determined without regard to this paragraph) asâ
+(A)
+the number of individuals who voted in such Federal election in such State; bears to
+(B)
+the total number of individuals who voted in such Federal election in all States submitting a claim for eligible accessible ballot marking device costs.
+(d)
+Authorization of appropriations
+(1)
+In general
+There is hereby authorized to be appropriated to the Commission to carry out this section $250,000,000 for fiscal years 2019 through 2025.
+(2)
+Availability
+Any amounts appropriated pursuant to paragraph (1) shall remain available without fiscal year limitation until expended.
+.
+(b)
+Clerical amendment
+The table of contents for the Help America Vote Act of 2002 (
+52 U.S.C. 30101
+et seq.), as amended by section 111(b), is amended by adding at the end of the items relating to subtitle D of title II the following:
+Part 8âFunding for Accessible Ballot Marking Devices
+Sec. 298. Acquisition of accessible ballot marking devices for voters with disabilities.
+.
+113.
+Grants for ballot design and printing
+(a)
+In general
+Subtitle D of title II of the Help America Vote Act of 2002 (
+52 U.S.C. 21001
+et seq.), as amended by sections 111(a) and 112(a), is amended by adding at the end the following new part:
+9
+Funding for ballot design and printing
+299.
+Payments for ballot design and printing
+(a)
+In general
+The Commission shall pay to States the amount of eligible ballot design and printing costs.
+(b)
+Eligible design and printing costs
+For purposes of this section, the term
+eligible ballot design and printing costs
+means, with respect to any State, costs paid or incurred by the State or any local government within the State for the design and printing of any ballot thatâ
+(1)
+is used in an election for Federal office occurring after the date of the enactment of this part; and
+(2)
+meets such minimum standards for usability and accessibility as established by the Commission, in consultation with the Director of the National Institute of Standards and Technology, for purposes of this section.
+(c)
+Special rules
+(1)
+Rules and procedures
+The Commission shall establish rules and procedures for submission of eligible ballot design and printing costs for payments under this section.
+(2)
+Insufficient funds
+In any case in which the amounts appropriated under subsection (d) are insufficient to pay all eligible ballot design and printing costs submitted by States with respect to any Federal election, the amount of such costs paid under subsection (a) to any State shall be equal to the amount that bears the same ratio to the amount which would be paid to such State (determined without regard to this paragraph) asâ
+(A)
+the number of individuals who voted in such Federal election in such State; bears to
+(B)
+the total number of individuals who voted in such Federal election in all States submitting a claim for eligible ballot design and printing costs.
+(d)
+Authorization of appropriations
+(1)
+In general
+There is hereby authorized to be appropriated to the Commission such sums as are necessary to carry out this part.
+(2)
+Availability
+Any amounts appropriated pursuant to paragraph (1) shall remain available without fiscal year limitation until expended.
+.
+(b)
+Clerical amendment
+The table of contents for the Help America Vote Act of 2002 (
+52 U.S.C. 30101
+et seq.), as amended by sections 111(b) and 112(b), is amended by adding at the end of the items relating to subtitle D of title II the following:
+Part 9âFunding for Ballot Design and Printing
+Sec. 299. Payments for ballot design and printing.
+.
+114.
+Coordination of voting system security activities with use of requirements payments and election
+administration requirements under Help America Vote Act of 2002
+(a)
+Duties of Election Assistance Commission
+Section 202 of the Help America Vote Act of 2002 (
+52 U.S.C. 20922
+) is amended in the matter preceding paragraph (1) by striking
+by
+and inserting
+and the security of election infrastructure by
+.
+(b)
+Membership of Secretary of Homeland Security on Board of Advisors of Election Assistance Commission
+Section 214(a) of such Act (
+52 U.S.C. 20944(a)
+) is amendedâ
+(1)
+by striking
+37 members
+and inserting
+38 members
+; and
+(2)
+by adding at the end the following new paragraph:
+(17)
+The Secretary of Homeland Security or the Secretaryâs designee.
+.
+(c)
+Representative of Department of Homeland Security on Technical Guidelines Development Committee
+Section 221(c)(1) of such Act (
+52 U.S.C. 20961(c)(1)
+) is amendedâ
+(1)
+by redesignating subparagraph (E) as subparagraph (F); and
+(2)
+by inserting after subparagraph (D) the following new subparagraph:
+(E)
+A representative of the Department of Homeland Security.
+.
+(d)
+Goals of periodic studies of election administration issues; consultation with Secretary of
+Homeland Security
+Section 241(a) of such Act (
+52 U.S.C. 20981(a)
+) is amendedâ
+(1)
+in the matter preceding paragraph (1), by striking
+the Commission shall
+and inserting
+the Commission, in consultation with the Secretary of Homeland Security (as appropriate), shall
+;
+(2)
+by striking
+and
+at the end of paragraph (3);
+(3)
+by redesignating paragraph (4) as paragraph (5); and
+(4)
+by inserting after paragraph (3) the following new paragraph:
+(4)
+will be secure against attempts to undermine the integrity of election systems by cyber or other means; and
+.
+(e)
+Requirements payments
+(1)
+Use of payments for voting system security improvements
+Section 251(b) of such Act (
+52 U.S.C. 21001(b)
+) is amended by adding at the end the following new paragraph:
+(4)
+Permitting use of payments for voting system security improvements
+A State may use a requirements payment to carry out any of the following activities:
+(A)
+Cyber and risk mitigation training.
+(B)
+Providing increased technical support for any information technology infrastructure that the chief State election official deems to be part of the Stateâs election infrastructure or designates as critical to the operation of the Stateâs election infrastructure.
+(C)
+Enhancing the cybersecurity and operations of the information technology infrastructure described in subparagraph (B).
+(D)
+Enhancing the security of voter registration databases.
+.
+(2)
+Incorporation of election infrastructure protection in State plans for use of payments
+Section 254(a)(1) of such Act (
+52 U.S.C. 21004(a)(1)
+) is amended by striking the period at the end and inserting
+, including the protection of election infrastructure.
+.
+(3)
+Composition of committee responsible for developing State plan for use of payments
+Section 255 of such Act (
+52 U.S.C. 21005
+) is amendedâ
+(A)
+by redesignating subsection (b) as subsection (c); and
+(B)
+by inserting after subsection (a) the following new subsection:
+(b)
+Geographic representation
+The members of the committee shall be a representative group of individuals from the Stateâs counties, cities, towns, and Indian tribes, and shall represent the needs of rural as well as urban areas of the State, as the case may be.
+.
+(f)
+Ensuring protection of computerized Statewide voter registration list
+Section 303(a)(3) of such Act (
+52 U.S.C. 21083(a)(3)
+) is amended by striking the period at the end and inserting
+, as well as other measures to prevent and deter cybersecurity incidents, as identified by the Commission, the Secretary of Homeland Security, and the Technical Guidelines Development Committee.
+.
+115.
+Incorporation of definitions
+(a)
+In general
+Section 901 of the Help America Vote Act of 2002 (
+52 U.S.C. 21141
+) is amended to read as follows:
+901.
+Definitions
+In this Act, the following definitions apply:
+(1)
+The term
+cybersecurity incident
+has the meaning given the term
+incident
+in section 227 of the Homeland Security Act of 2002 (
+6 U.S.C. 659
+).
+(2)
+The term
+election agency
+means any component of a State, or any component of a unit of local government in a State, which is responsible for the administration of elections for Federal office in the State.
+(3)
+The term
+election infrastructure
+means storage facilities, polling places, and centralized vote tabulation locations used to support the administration of elections for public office, as well as related information and communications technology (including the technology used by or on behalf of election officials to produce and distribute voter guides to elections), including voter registration databases, voting machines, electronic mail and other communications systems (including electronic mail and other systems of vendors who have entered into contracts with election agencies to support the administration of elections, manage the election process, and report and display election results), and other systems used to manage the election process and to report and display election results on behalf of an election agency.
+(4)
+The term
+State
+means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+.
+(b)
+Clerical amendment
+The table of contents of such Act is amended by amending the item relating to section 901 to read as follows:
+Sec. 901. Definitions.
+.
+B
+Risk-Limiting Audits
+121.
+Risk-limiting audits
+(a)
+In general
+Title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21081
+et seq.) is amended by inserting after section 303 the following new section:
+303A.
+Risk-limiting audits
+(a)
+Definitions
+In this section:
+(1)
+Risk-limiting audit
+The term
+risk-limiting audit
+means, with respect to any election contest, a post-election process thatâ
+(A)
+has a probability of at least 95 percent of correcting the reported outcome if the reported outcome is not the correct outcome;
+(B)
+will not change the outcome if the reported outcome is the correct outcome; and
+(C)
+involves a manual adjudication of voter intent from some or all of the ballots validly cast in the election contest.
+(2)
+Reported outcome; correct outcome; outcome
+(A)
+Reported outcome
+The term
+reported outcome
+means the outcome of an election contest which is determined according to the canvass and which will become the official, certified outcome unless it is revised by an audit, recount, or other legal process.
+(B)
+Correct outcome
+The term
+correct outcome
+means the outcome that would be determined by a manual adjudication of voter intent for all votes validly cast in the election contest.
+(C)
+Outcome
+The term
+outcome
+means the winner or set of winners of an election contest.
+(3)
+Manual adjudication of voter intent
+The term
+manual adjudication of voter intent
+means direct inspection and determination by humans, without assistance from electronic or mechanical tabulation devices, of the ballot choices marked by voters on each voter-verifiable paper record.
+(4)
+Ballot manifest
+The term
+ballot manifest
+means a record maintained by each jurisdiction thatâ
+(A)
+is created without reliance on any part of the voting system used to tabulate votes;
+(B)
+functions as a sampling frame for conducting a risk-limiting audit; and
+(C)
+accounts for all ballots validly cast regardless of how they were tabulated and includes a precise description of the manner in which the ballots are physically stored, including the total number of physical groups of ballots, the numbering system for each group, a unique label for each group, and the number of ballots in each such group.
+(b)
+Requirements
+(1)
+In general
+(A)
+Audits
+(i)
+In general
+Each State and jurisdiction shall administer risk-limiting audits of the results of all election contests for Federal office held in the State in accordance with the requirements of paragraph (2).
+(ii)
+Exception
+Clause (i) shall not apply to any election contest for which the State or jurisdiction conducts a full recount through a manual adjudication of voter intent.
+(B)
+Full manual tabulation
+If a risk-limiting audit conducted under subparagraph (A) corrects the reported outcome of an election contest, the State or jurisdiction shall use the results of the manual adjudication of voter intent conducted as part of the risk-limiting audit as the official results of the election contest.
+(2)
+Audit requirements
+(A)
+Rules and procedures
+(i)
+In general
+Not later than 1 year after the date of the enactment of this section, the chief State election official of the State shall establish rules and procedures for conducting risk-limiting audits.
+(ii)
+Matters included
+The rules and procedures established under clause (i) shall include the following:
+(I)
+Rules and procedures for ensuring the security of ballots and documenting that prescribed procedures were followed.
+(II)
+Rules and procedures for ensuring the accuracy of ballot manifests produced by jurisdictions.
+(III)
+Rules and procedures for governing the format of ballot manifests and other data involved in risk-limiting audits.
+(IV)
+Methods to ensure that any cast vote records used in a risk-limiting audit are those used by the voting system to tally the results of the election contest sent to the chief State election official of the State and made public.
+(V)
+Rules and procedures for the random selection of ballots to be inspected manually during each audit.
+(VI)
+Rules and procedures for the calculations and other methods to be used in the audit and to determine whether and when the audit of each election contest is complete.
+(VII)
+Rules and procedures for testing any software used to conduct risk-limiting audits.
+(B)
+Public report
+(i)
+In general
+After the completion of the risk-limiting audit and at least 5 days before the election contest is certified by the State, the State shall make public and submit to the Commission a report on the results of the audit, together with such information as necessary to confirm that the audit was conducted properly.
+(ii)
+Format of data
+All data published with the report under clause (i) shall be published in machine-readable, open data formats.
+(iii)
+Protection of anonymity of votes
+Information and data published by the State under this subparagraph shall not compromise the anonymity of votes.
+(iv)
+Report made available by Commission
+After receiving any report submitted under clause (i), the Commission shall make such report available on its website.
+(c)
+Effective date
+(1)
+In general
+Each State and jurisdiction shall be required to comply with the requirements of this section for the first regularly scheduled election for Federal office held more than 1 year after the date of the enactment of the
+Securing America's Federal Elections Act
+and for each subsequent election for Federal office.
+(2)
+Waiver
+If a State or jurisdiction certifies to Commission not later than 1 year after the date of the enactment of the
+Securing America's Federal Elections Act
+that the State or jurisdiction will not meet the deadline described in paragraph (1) for good cause and includes in the certification a reason for the inability to meet such deadline, paragraph (1) shall be applied by as if the reference in such paragraph to
+1 year
+were a reference to
+3 years
+.
+.
+(b)
+Clerical Amendment
+The table of contents for such Act is amended by inserting after the item relating to section 303 the following new item:
+Sec. 303A. Risk-limiting audits.
+.
+122.
+Funding for conducting post-election risk-limiting audits
+(a)
+Payments to States
+Subtitle D of title II of the Help America Vote Act of 2002 (
+52 U.S.C. 21001
+et seq.), as amended by sections 111(a), 112(a), and 113(a), is amended by adding at the end the following new part:
+10
+Funding for Post-Election Risk-Limiting Audits
+299A.
+Payments for post-election risk-limiting audits
+(a)
+In general
+The Commission shall pay to States the amount of eligible post-election audit costs.
+(b)
+Eligible post-Election audit costs
+For purposes of this section, the term
+eligible post-election audit costs
+means, with respect to any State, costs paid or incurred by the State or local government within the State forâ
+(1)
+the conduct of any risk-limiting audit (as defined in section 303A) with respect to an election for Federal office occurring after the date of the enactment of this part; and
+(2)
+any equipment, software, personnel, or services necessary for the conduct of any such risk-limiting audit.
+(c)
+Special rules
+(1)
+Rules and procedures
+The Commission shall establish rules and procedures for submission of eligible post-election audit costs for payments under this section.
+(2)
+Insufficient funds
+In any case in which the amounts appropriated under subsection (d) are insufficient to pay all eligible post-election audit costs submitted by States with respect to any Federal election, the amount of such costs paid under subsection (a) to any State shall be equal to the amount that bears the same ratio to the amount which would be paid to such State (determined without regard to this paragraph) asâ
+(A)
+the number of individuals who voted in such Federal election in such State; bears to
+(B)
+the total number of individuals who voted in such Federal election in all States submitting a claim for eligible post-election audit costs.
+(d)
+Authorization of appropriations
+(1)
+In general
+There is hereby authorized to be appropriated to the Commission such sums as are necessary to carry out this part.
+(2)
+Availability
+Any amounts appropriated pursuant to paragraph (1) shall remain available without fiscal year limitation until expended.
+.
+(b)
+Clerical amendment
+The table of contents of such Act, as amended by sections 111(b), 112(b), and 113(b), is further amended by adding at the end of the items relating to subtitle D of title II the following:
+Part 10âFunding for Post-Election Risk-Limiting Audits
+Sec. 299A. Payments for post-election risk-limiting audits.
+.
+123.
+GAO analysis of effects of audits
+(a)
+Analysis
+Not later than 6 months after the first elections for Federal office is held for which States must conduct risk-limiting audits under section 303A of the Help America Vote Act of 2002 (as added by section 121), the Comptroller General of the United States shall conduct an analysis of the extent to which such audits have improved the administration of such elections and the security of election infrastructure in the States receiving such grants.
+(b)
+Report
+The Comptroller General of the United States shall submit a report on the analysis conducted under subsection (a) to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+II
+Promoting Cybersecurity Through Improvements in Election Administration
+201.
+Cybersecurity requirements for and testing and certification of voting systems
+(a)
+In general
+Subtitle A of title XXII of the Homeland Security Act of 2002 (
+6 U.S.C. 651
+et seq.) is amended by adding at the end the following:
+2215.
+Mandatory cybersecurity requirements for systems used in Federal elections
+Not later than 180 days after the date of enactment of
+Securing America's Federal Elections Act
+, the Secretary, acting through the Director and in consultation with the Director of the National Institute of Standards and Technology and the Technical Guidelines Development Committee established under section 221 of the Help America Vote Act of 2002 (
+52 U.S.C. 20961
+), shall establish mandatory cybersecurity standards for the use in Federal elections of the following:
+(1)
+Ballot tabulation devices (within the meaning of section 301(a)(9) of the Help America Vote Act of 2002).
+(2)
+Ballot marking devices (within the meaning of section 301(a)(12) of such Act).
+(3)
+Election management systems, including those systems usedâ
+(A)
+to configure ballot tabulation devices and ballot marking devices;
+(B)
+to aggregate election results; and
+(C)
+to design paper ballots.
+(4)
+Electronic poll books;
+(5)
+Any government database, website, or associated information system used by voters or government agencies for voter registration (including the management of voter registration status).
+(6)
+Systems used to deliver or publish election results.
+(7)
+Such other components of voting systems (as defined in section 301(b) of such Act) as is determined appropriate by the Director.
+2216.
+Testing and certification of ballot marking and ballot tabulation device cybersecurity
+(a)
+In general
+Any State or jurisdiction which intends to use a ballot marking device or a ballot tabulation device in an election for Federal office may submit an application to the Director for cybersecurity testing and certification of the hardware and software of such device under this section.
+(b)
+Application, assignment, and testing
+(1)
+Assignment
+(A)
+In general
+Upon receipt of an application for testing under this section, the Director, in consultation with the Director of the National Institute of Standards and Technology, shall contract with a qualified laboratory for the testing of whetherâ
+(i)
+in the case of a ballot tabulation device intended to be used by the State or jurisdiction, the device meets the requirements of section 301(a)(9)(B) of the Help America Vote Act of 2002; and
+(ii)
+in the case of a ballot marking device intended to be used by the State or jurisdiction, the device meets the requirements of section 301(a)(12)(A) of such Act.
+(B)
+Optional testing of State requirements
+In the case of a ballot marking device or ballot tabulation device for which the source code has been published under an open source license, the contract under subparagraph (A) shall also include, at the request of any State or jurisdiction, testing of whether such device meets any applicable requirements of the State or jurisdiction.
+(2)
+Requirements for testing
+Any contract described in paragraph (1) shall require the qualified research laboratory toâ
+(A)
+not later than 30 days before testing begins, submit to the Director for approval the protocol for the simulated election scenario used for testing the security of the ballot marking device or ballot tabulation device, as the case may be;
+(B)
+use only protocols approved by the Director in conducting such security testing; and
+(C)
+submit to the Director a report on the results of the security testing.
+(3)
+Qualified research laboratory
+For purposes of this section, the term
+qualified research laboratory
+means a laboratory accredited under this subsection by the Director, in consultation with the Director of the National Institute of Standards and Technology.
+(c)
+Reporting and certification
+The Director shallâ
+(1)
+publish on the website of the Cybersecurity and Infrastructure Security Agency the results of the testing conducted under subsection (b); and
+(2)
+certifyâ
+(A)
+a ballot tabulation device if the ballot tabulation device is determined by the qualified research laboratory to meet the requirements of section 301(a)(9)(B) of the Help America Vote Act of 2002; and
+(B)
+a ballot marking device if the ballot marking device is determined by the qualified research laboratory to meet the requirements of section 301(a)(12)(A) of such Act.
+(d)
+Prohibition on fees
+The Director may not charge any fee to a State or jurisdiction, a developer or manufacturer of a ballot marking device or ballot tabulation device, or any other person in connection with testing and certification under this section (including any testing conducted under subsection (b)(1)(B)).
+.
+(b)
+Conforming amendment
+The table of contents in section 1(b) of the Homeland Security Act of 2002 (
+Public Law 107â296
+; 116 Stat. 2135) is amended by inserting after the item relating to section 2214 the following:
+Sec. 2215. Mandatory cybersecurity requirements for systems used in Federal elections.
+Sec. 2216. Testing and certification of ballot marking and ballot tabulation device cybersecurity.
+.
+202.
+Voting system cybersecurity requirements
+(a)
+Ballot tabulation devices
+Section 301(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)
+), as amended by section 104 and section 105, is further amended by adding at the end the following new paragraph:
+(9)
+Ballot tabulation methods
+(A)
+In general
+The voting system tabulates ballots by hand or through the use of a ballot tabulation device that meets the requirements of subparagraph (B).
+(B)
+Requirements for ballot tabulation devices
+Except as provided in subparagraph (C), the requirements of this subparagraph are as follows:
+(i)
+The device is designed and built in a manner in which it is mechanically impossible for the device to add or change the vote selections on a printed or marked ballot.
+(ii)
+The device is capable of exporting its data (including vote tally data sets and cast vote records) in a machine-readable, open data standard format required by the Commission, in consultation with the Director of the National Institute of Standards and Technology.
+(iii)
+The device consists of hardware thatâ
+(I)
+is certified under section 2216 of the Homeland Security Act; and
+(II)
+demonstrably conforms to a hardware component manifest describing point-of-origin information (including upstream hardware supply chain information for each component) thatâ
+(aa)
+has been provided to the Commission, the Director of Cybersecurity and Infrastructure Security, and the chief State election official for each State in which the device is used; and
+(bb)
+may be shared by any entity to whom it has been provided under item (aa) with independent experts for cybersecurity analysis.
+(iv)
+The device utilizes technology that prevents the operation of the device if any hardware components do not meet the requirements of clause (iii).
+(v)
+The device operates using softwareâ
+(I)
+that is certified under section 2216 of the Homeland Security Act; and
+(II)
+for which the source code, system build tools, and compilation parametersâ
+(aa)
+have been provided to the Commission, the Director of Cybersecurity and Infrastructure Security, and the chief State election official for each State in which the device is used; and
+(bb)
+may be shared by any entity to whom it has been provided under item (aa) with independent experts for cybersecurity analysis.
+(vi)
+The device utilizes technology that prevents the running of software on the device that does not meet the requirements of clause (v).
+(vii)
+The device utilizes technology that enables election officials, cybersecurity researchers, and voters to verify that the software running on the deviceâ
+(I)
+was built from a specific, untampered version of the code that is described in clause (v); and
+(II)
+uses the system build tools and compilation parameters that are described in clause (v).
+(viii)
+The device contains such other security requirements as established by the Director of Cybersecurity and Infrastructure Security, in consultation with the Director of the National Institute of Standards and Technology and the Technical Guidelines Development Committee.
+(C)
+Waiver
+(i)
+In general
+The Director of Cybersecurity and Infrastructure Security, in consultation with the Director of the National Institute of Standards and Technology, may waive one or more of the requirements of subparagraph (B) (other than the requirement of clause (i) thereof) with respect to any device for a period of not to exceed 2 years.
+(ii)
+Publication
+Information relating to any waiver granted under clause (i) shall be made publicly available on the internet.
+(D)
+Effective date
+Each State and jurisdiction shall be required to comply with the requirements of this paragraph for the regularly scheduled election for Federal office in November 2024, and for each subsequent election for Federal office.
+.
+(b)
+Other cybersecurity requirements
+Section 301(a) of such Act (
+52 U.S.C. 21081(a)
+), as amended by section 104, section 105, and subsection (a), is further amended by adding at the end the following new paragraphs:
+(10)
+Prohibition of use of wireless communications devices in systems or devices
+(A)
+In general
+No system or device upon which ballot marking devices or ballot tabulation devices are configured, upon which ballots are marked by voters (except as necessary for individuals with disabilities to use ballot marking devices that meet the accessibility requirements of paragraph (3)), or upon which votes are cast, tabulated, or aggregated shall contain, use, or be accessible by any wireless, power-line, or concealed communication device.
+(B)
+Effective date
+Each State and jurisdiction shall be required to comply with the requirements of this paragraph for the regularly scheduled election for Federal office in November 2020, and for each subsequent election for Federal office.
+(11)
+Prohibiting connection of system to the internet
+(A)
+In general
+No system or device upon which ballot marking devices or ballot tabulation devices are configured, upon which ballots are marked by voters, or upon which votes are cast, tabulated, or aggregated shall be connected to the internet or any non-local computer system via telephone or other communication network at any time.
+(B)
+Effective date
+Each State and jurisdiction shall be required to comply with the requirements of this paragraph for the regularly scheduled election for Federal office in November 2020, and for each subsequent election for Federal office.
+.
+(c)
+Ballot marking devices
+Section 301(a) of such Act (
+52 U.S.C. 21081(a)
+), as amended by section 104, section 105, and subsections (a) and (b), is further amended by adding at the end the following new paragraph:
+(12)
+Ballot marking devices
+(A)
+In general
+In the case of a voting system that uses a ballot marking device, the ballot marking device shall be a device thatâ
+(i)
+is not capable of tabulating votes; and
+(ii)
+is certified under section 2216 of the Homeland Security Act as meeting the requirements of clauses (iii) through (viii) of section 301(a)(9)(B).
+(B)
+Effective date
+Each State and jurisdiction shall be required to comply with the requirements of this paragraph for the regularly scheduled election for Federal office in November 2022, and for each subsequent election for Federal office.
+.
+203.
+Testing of existing voting systems to ensure compliance with election cybersecurity guidelines and
+other guidelines
+(a)
+Requiring testing of existing voting systems
+(1)
+In general
+Section 231(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 20971(a)
+) is amended by adding at the end the following new paragraph:
+(3)
+Testing to ensure compliance with guidelines
+(A)
+Testing
+Not later than 9 months before the date of each regularly scheduled general election for Federal office, the Commission shall provide for the testing by accredited laboratories under this section of the voting system hardware and software which was certified for use in the most recent such election, on the basis of the most recent voting system guidelines applicable to such hardware or software (including election cybersecurity guidelines) issued under this Act.
+(B)
+Decertification of hardware or software failing to meet guidelines
+If, on the basis of the testing described in subparagraph (A), the Commission determines that any voting system hardware or software does not meet the most recent guidelines applicable to such hardware or software issued under this Act, the Commission shall decertify such hardware or software.
+.
+(2)
+Effective date
+The amendment made by paragraph (1) shall apply with respect to the regularly scheduled general election for Federal office held in November 2020 and each succeeding regularly scheduled general election for Federal office.
+(b)
+Issuance of cybersecurity guidelines by Technical Guidelines Development Committee
+Section 221(b) of the Help America Vote Act of 2002 (
+52 U.S.C. 20961(b)
+) is amended by adding at the end the following new paragraph:
+(3)
+Election cybersecurity guidelines
+Not later than 6 months after the date of the enactment of the Securing Americaâs Federal Elections Act, the Development Committee shall issue election cybersecurity guidelines, including standards and best practices for procuring, maintaining, testing, operating, and updating election systems to prevent and deter cybersecurity incidents.
+.
+204.
+Requiring use of software and hardware for which information is disclosed by manufacturer
+(a)
+Requirement
+Section 301(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)
+), as amended by sections 104, 105, 202(a), 202(b), and 202(c), is amended by adding at the end the following new paragraph:
+(13)
+Requiring use of software and hardware for which information is disclosed by manufacturer
+(A)
+Requiring use of software for which source code is disclosed by manufacturer
+(i)
+In general
+In the operation of voting systems in an election for Federal office, a State may only use software for which the manufacturer makes the source code (in the form in which will be used at the time of the election) publicly available online under a license that grants a worldwide, royalty-free, non-exclusive, perpetual, sub-licensable license to all intellectual property rights in such source code, except that the manufacturer may prohibit a person who obtains the software from using the software in a manner that is primarily intended for or directed toward commercial advantage or private monetary compensation that is unrelated to carrying out legitimate research or cybersecurity activity.
+(ii)
+Exceptions
+Clause (i) does not apply with respect toâ
+(I)
+widely used operating system software which is not specific to voting systems and for which the source code or baseline functionality is not altered; or
+(II)
+widely used cybersecurity software which is not specific to voting systems and for which the source code or baseline functionality is not altered.
+(B)
+Requiring use of hardware for which information is disclosed by manufacturer
+(i)
+Requiring disclosure of hardware
+A State may not use a voting system in an election for Federal office unless the manufacturer of the system publicly discloses online the identification of the hardware used to operate the system.
+(ii)
+Additional disclosure requirements for custom or altered hardware
+To the extent that the hardware used to operate a voting system or any component thereof is not widely used, or is widely used but is altered, the State may not use the system in an election for Federal office unlessâ
+(I)
+the manufacturer of the system publicly discloses online the components of the hardware, the design of such components, and how such components are connected in the operation of the system; and
+(II)
+the manufacturer makes the design (in the form which will be used at the time of the election) publicly available online under a license that grants a worldwide, royalty-free, non-exclusive, perpetual, sub-licensable license to all intellectual property rights in the design of the hardware or the component, except that the manufacturer may prohibit a person who obtains the design from using the design in a manner that is primarily intended for or directed toward commercial advantage or private monetary compensation that is unrelated to carrying out legitimate research or cybersecurity activity.
+.
+(b)
+Effective date
+The amendment made by subsection (a) shall apply with respect to elections for Federal office held in 2020 or any succeeding year.
+205.
+Treatment of electronic poll books as part of voting systems
+(a)
+Inclusion in definition of voting system
+Section 301(b) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(b)
+) is amendedâ
+(1)
+in the matter preceding paragraph (1), by striking
+this section
+and inserting
+this Act
+;
+(2)
+by striking
+and
+at the end of paragraph (1);
+(3)
+by redesignating paragraph (2) as paragraph (3); and
+(4)
+by inserting after paragraph (1) the following new paragraph:
+(2)
+any electronic poll book used with respect to the election; and
+.
+(b)
+Definition
+Section 301 of such Act (
+52 U.S.C. 21081
+) is amendedâ
+(1)
+by redesignating subsections (c) and (d) as subsections (d) and (e); and
+(2)
+by inserting after subsection (b) the following new subsection:
+(c)
+Electronic poll book defined
+In this Act, the term
+electronic poll book
+means the total combination of mechanical, electromechanical, or electronic equipment (including the software, firmware, and documentation required to program, control, and support the equipment) that is usedâ
+(1)
+to retain the list of registered voters at a polling location, or vote center, or other location at which voters cast votes in an election for Federal office; and
+(2)
+to identify registered voters who are eligible to vote in an election.
+.
+(c)
+Effective date
+Section 301(e) of such Act (
+52 U.S.C. 21081(e)
+), as amended by section 107 and as redesignated by subsection (b), is amendedâ
+(1)
+in paragraph (1), by striking
+paragraph (2)
+and inserting
+paragraphs (2) and (3)
+; and
+(2)
+by adding at the end the following new paragraph:
+(3)
+Special rule for electronic poll books
+In the case of the requirements of subsection (c) (relating to electronic poll books), each State and jurisdiction shall be required to comply with such requirements on or after January 1, 2020.
+.
+206.
+Pre-election reports on voting system usage
+(a)
+Requiring States To submit reports
+Title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21081
+et seq.), as amended by section 103(c), is amended by inserting after section 301A the following new section:
+301B.
+Pre-election reports on voting system usage
+(a)
+Requiring States To submit reports
+Not later than 120 days before the date of each regularly scheduled general election for Federal office, the chief State election official of a State shall submit a report to the Commission containing a detailed voting system usage plan for each jurisdiction in the State which will administer the election, including a detailed plan for the usage of electronic poll books and other equipment and components of such system.
+(b)
+Effective date
+Subsection (a) shall apply with respect to the regularly scheduled general election for Federal office held in November 2020 and each succeeding regularly scheduled general election for Federal office.
+.
+(b)
+Clerical amendment
+The table of contents of such Act, as amended by section 103(c), is amended by inserting after the item relating to section 301A the following new item:
+Sec. 301B. Pre-election reports on voting system usage.
+.
+207.
+Streamlining collection of election information
+Section 202 of the Help America Vote Act of 2002 (
+52 U.S.C. 20922
+) is amendedâ
+(1)
+by striking
+The Commission
+and inserting
+(a)
+In general
+.âThe Commission
+; and
+(2)
+by adding at the end the following new subsection:
+(b)
+Waiver of certain requirements
+Subchapter I of
+chapter 35
+of title 44, United States Code, shall not apply to the collection of information for purposes of maintaining the clearinghouse described in paragraph (1) of subsection (a).
+.
+III
+Use of Voting Machines Manufactured in the United States
+301.
+Use of voting machines manufactured in the United States
+Section 301(a) of the Help America Vote Act of 2002 (
+52 U.S.C. 21081(a)
+), as amended by sections 104, 105, 202(a), 202(b), 202(c), and 204(a), is further amended by adding at the end the following new paragraph:
+(14)
+Voting machine requirements
+By not later than the date of the regularly scheduled general election for Federal office occurring in November 2022, each State shall seek to ensure that any voting machine used in such election and in any subsequent election for Federal office is manufactured in the United States.
+.
+IV
+Severability
+401.
+Severability
+If any provision of this Act or amendment made by this Act, or the application of a provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person or circumstance, shall not be affected by the holding.

@@ -1,0 +1,143 @@
+1.
+Short title
+This Act may be cited as the
+Protect Our Elections Act
+.
+2.
+Ensuring domestic ownership and control of election systems
+(a)
+In general
+Title III of the Help America Vote Act of 2002 (
+52 U.S.C. 21083 et seq.
+) is amendedâ
+(1)
+by redesignating sections 304 and 305 as sections 305 and 306; and
+(2)
+by inserting after section 303 the following new section:
+304.
+Ensuring domestic ownership and control of election systems
+(a)
+Requiring election service providers To be qualified
+Each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office shall ensure that each election service provider who provides, supports, or maintains any component of an election system used in the administration of the election is a qualified election service provider.
+(b)
+Annual evaluation To ensure compliance
+Each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office shall, not less frequently than once each calendar year, evaluate each election service provider to ensure that the election service provider is a qualified election service provider.
+(c)
+Cybersecurity best practices
+Not later than 90 days after the date of the enactment of this section, the Chair of the Commission and the Secretary of Homeland Security shall establish and publish cybersecurity best practices for election service providers who provide, support, or maintain election systems, and shall establish and publish updates to such best practices at such times as the Chair and the Secretary consider appropriate.
+(d)
+Guidance and technical assistance
+(1)
+In general
+The Chair of the Commission and the Secretary of Homeland Security may provide such guidance and technical assistance as may be appropriate to assist each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office with its obligations under this section.
+(2)
+Database of qualified election service providers
+As part of providing guidance and technical assistance under this subsection, the Commission shall establish and maintain a database in which each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office can verify whether an election service provider is a qualified election service provider.
+(e)
+Election service provider and qualified election service provider defined
+(1)
+Election service provider
+In this section, the term
+election service provider
+means any person providing, supporting, or maintaining an election system on behalf of an election agency, such as a contractor or vendor.
+(2)
+Qualified election service provider
+(A)
+In general
+In this section, the term
+qualified election service provider
+means an election service provider who meets each of the following criteria, as established and published by the Chair of the Commission in coordination with the Secretary of Homeland Security:
+(i)
+Except as provided in subparagraph (C), the election service provider is solely owned and controlled by United States persons or persons described in subparagraph (B).
+(ii)
+The election service provider submits in accordance with section 3(a) of the
+Protect Our Elections Act
+â
+(I)
+notice of any material change in ownership or control of the election service provider; and
+(II)
+any other information required to be reported under that section.
+(iii)
+The election service provider agrees to ensure that the election systems will be developed and maintained in a manner that is consistent with the cybersecurity best practices established under subsection (c).
+(iv)
+The election service provider agrees to maintain its information technology infrastructure in a manner that is consistent with the cybersecurity best practices established under subsection (c).
+(v)
+The election service provider shall report any known or suspected incidents involving election systems to the chief State election official of the State involved or the officialâs designee, the Chair, and the Secretary.
+(B)
+Persons described
+For purposes of subparagraph (A)(i), a person described in this subparagraph is a corporation or business entity that is created or organized under the laws of a country that is party to the UKâUSA Agreement for joint cooperation in signals intelligence, military intelligence, and human intelligence, also known as the
+Five Eyes alliance
+.
+(C)
+Permitting waiver of domestic ownership and control requirement for certain subsidiaries
+The Secretary of Homeland Security may waive the requirement of clause (i) of subparagraph (A) with respect to a person who is a United States subsidiary of a parent company which has implemented a foreign ownership or control mitigation plan that has been approved by the Secretary. Such plan shall ensure that the parent company cannot control, influence, or direct the subsidiary in any manner that would compromise or influence, or give the appearance of compromising or influencing, the independence and integrity of an election.
+(D)
+Incident defined
+For purposes of subparagraph (A)(v), the term
+incident
+has the meaning given that term in section 3552(b)(2) of title 44, United States Code.
+(f)
+Election system defined
+In this section, the term
+election system
+means a voting system, an election management system, a voter registration website or database, an electronic pollbook, a system for tabulating or reporting election results, an election agency communications system, or any other information system (as defined in section 3502 of title 44, United States Code) that the Secretary of Homeland Security, in consultation with the Commission, identifies as central to the management, support, or administration of a Federal election.
+(g)
+Ownership and control defined
+The Commission, in consultation with the Secretary of the Treasury, shall issue regulations defining the terms
+ownership
+and
+control
+for purposes of this section.
+.
+(b)
+Conforming amendment relating to enforcement
+Section 401 of such Act (
+52 U.S.C. 21111
+) is amended by striking
+and 303
+and inserting
+303, and 304
+.
+(c)
+Clerical amendments
+The table of contents of such Act is amendedâ
+(1)
+by redesignating the items relating to sections 304 and 305 as relating to sections 305 and 306; and
+(2)
+by inserting after the item relating to section 303 the following new item:
+Sec. 304. Ensuring domestic ownership and control of election systems.
+.
+(d)
+Effective date
+The amendments made by this section shall apply with respect to the regularly scheduled general election for Federal office held in November 2022 and any succeeding election.
+3.
+Information sharing with respect to ownership of election service providers
+(a)
+In general
+Each election service provider shall submit to the Secretary of Homeland Security, the Election Assistance Commission, and appropriate State or local governmental entities the following:
+(1)
+Not later than the date that is 90 days after the later of the date of the enactment of this section or the date that a person first becomes an election service provider, a report listing the identity of any foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 (
+52 U.S.C. 30121(b)
+)) who directly or indirectly owns or controls such election service provider and the percentage of such ownership, and any other information necessary to determine whether the election service provider is a qualified election service provider.
+(2)
+Not later than 90 days after the date of any material change in ownership or control of such election service provider, a notice of such change and an update of any information previously reported under paragraph (1).
+(b)
+Civil penalty for failure To report
+If an election service provider fails to submit a report required under subsection (a), the Attorney General may, after notice and opportunity for hearing, impose a civil fine of $20,000.
+(c)
+Definitions
+In this section:
+(1)
+Appropriate State or local governmental entity
+The term
+appropriate State or local governmental entity
+means, with respect to an election service provider, any State or local governmental entity that the election service provider seeks to contract with, contracts with, or otherwise provides services to provide, support, or maintain an election system.
+(2)
+Election service provider; election system; qualified election service provider
+The terms
+election service provider
+,
+election system
+, and
+qualified election service provider
+have the meaning given those terms in section 304 of the Help America Vote Act of 2002, as added by section 2.

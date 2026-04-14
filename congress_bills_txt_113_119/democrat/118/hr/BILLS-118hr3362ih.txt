@@ -1,0 +1,35 @@
+1.
+Publication of data from Broadband Equity, Access, and Deployment Program
+(a)
+In general
+Not later than 1 year after the date of the enactment of this Act, and annually thereafter until all amounts made available for the Program have been obligated by the Assistant Secretary, and notwithstanding any other provision of law, the Assistant Secretary shall make publicly available on the website of the National Telecommunications and Information Administration the data collected from grant recipients and subgrantees under the Program that is related to the diversity, equity, inclusion, and accessibility elements of the Program, including data relating toâ
+(1)
+subgrantee ownership demographics and the demographics of the workforce used for activities assisted with Program funding; and
+(2)
+the number and amount of contracts and subcontracts awarded under the Program to minority business enterprises and to womenâs business enterprises.
+(b)
+Accessibility
+The data made publicly available under subsection (a) shall beâ
+(1)
+made available as an open Government data asset (as defined in section 3502 of title 44, United States Code);
+(2)
+freely available for download in bulk;
+(3)
+rendered in a human-readable format; and
+(4)
+accessible via application programming interface where appropriate.
+2.
+Definitions
+In this Act:
+(1)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(2)
+Program
+The term
+Program
+means the Broadband Equity, Access, and Deployment Program established under section 60102(b)(1) of the Infrastructure Investment and Jobs Act (
+47 U.S.C. 1702(b)(1)
+).

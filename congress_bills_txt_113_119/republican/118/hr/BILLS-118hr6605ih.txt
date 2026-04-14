@@ -1,0 +1,87 @@
+1.
+Short title; findings
+(a)
+Short title
+This Act may be cited as the
+Stop Terrorism and Illicit Finance Location Exploitation Act of 2023
+or the
+STIFLE Act of 2023
+.
+(b)
+Findings
+The Congress finds the following:
+(1)
+Financial sanctions are a primary national security tool for the United States.
+(2)
+Financial technology has created both new beneficial financial innovations and emerging illicit finance risks, including the evasion of sanctions.
+(3)
+A financial technology platform must be able to determine the precise location of an active user of the platform to effectively implement location-based access controls for compliance withâ
+(A)
+sanctions programs administered by the Office of Foreign Assets Control;
+(B)
+obligations imposed by the Anti-Money Laundering Act of 2020, the Bank Secrecy Act, and regulations associated with such Acts; and
+(C)
+any other regulatory obligation.
+(4)
+Financial technology platforms generally use an Internet Protocol (in this Act referred to as
+IP
+) address as the primary or sole indicator of their usersâ precise location.
+(5)
+IP addresses were first created in 1974 and standardized in 1983 as unique identification numbers attributed to devices on an interconnected computer network and are the foundation of the modern internet.
+(6)
+IP addresses are assigned by Internet Service Providers (in this Act referred to as
+ISPs
+) and have become a less accurate determinant of precise location as a result of the proliferation of mobile devices, dynamic IP addresses, globalized content delivery networks, and other innovations.
+(7)
+IP addresses can be manipulated through the use of Virtual Private Networks (in this Act referred to as
+VPNs
+), proxy servers, anonymizing darknet website browsers, and other location obfuscation techniques for the purpose ofâ
+(A)
+illicit finance;
+(B)
+evading detection under existing sanctions; and
+(C)
+evading requirements set forth in the Anti-Money Laundering Act of 2020 and the Bank Secrecy Act.
+(8)
+Global System for Mobiles triangulation, Wi-Fi triangulation, and GPS data provide substantially more accurate location information than IP addresses, but are individually susceptible to similar manipulation through device tampering, freely available downloadable software, and other obfuscation techniques.
+(9)
+Technology that combines enhanced data analytics with aggregated authentic sources of location data is widely used to effectively ensure compliance with United States sanctions, the Anti-Money Laundering Act of 2020, the Bank Secrecy Act, and other statutory and regulatory requirements.
+2.
+Report on the threat of digital location obfuscation to national security and financial technology compliance obligations
+(a)
+Study
+The Secretary of the Treasury, acting through the Undersecretary of the Treasury for Terrorism and Financial Intelligence, and in consultation with technology experts, national security experts, and law enforcement, shall conduct a study to assess the following:
+(1)
+The role that location obfuscation techniques, including VPNs, proxy servers, GPS location manipulation applications, and device tampering plays in money laundering, sanctions evasion, and other forms of illicit finance.
+(2)
+The ease with which an illicit actor can manipulate and falsify location data relevant to compliance with sanctions, the Anti-Money Laundering Act of 2020, the Bank Secrecy Act, and any other statutory and regulatory obligation.
+(3)
+The degree to which a financial technology platform relies upon an IP address as the primary or sole indicator of the precise location of a user of the platform.
+(4)
+The ability of a financial technology platform to use multiple aggregated points of location data to indicate the precise location of a user of such platform if an illicit actor manipulates one or more of such data points.
+(b)
+Report
+Not later than 1 year after the date of the enactment of this Act, the Secretary of the Treasury, acting through the Undersecretary of the Treasury for Terrorism and Financial Intelligence, and in consultation with technology experts, national security experts, and law enforcement, shall submit to the Congress a report that contains the following:
+(1)
+Each finding and determination made in the study required under subsection (a).
+(2)
+Any insufficiency in or lack of available data inhibiting any finding and determination made in the study required under subsection (a).
+(3)
+A comprehensive analysis of any cost, benefit, and potential risk associated with the modernization of precise location standards used by a financial technology platform that relies on an IP address as the primary or sole indicator of the precise location of a user of the platform.
+(4)
+A comprehensive analysis of the ways in which technology that combines enhanced data analytics with multiple aggregated and authenticated sources of location data may be used to reduce evasion of United States sanctions, requirements under the Anti-Money Laundering Act of 2020, the Bank Secrecy Act, and any other statutory and regulatory obligation.
+(c)
+Definitions
+In this Act:
+(1)
+Anti-Money Laundering Act of 2020
+The term
+Anti-Money Laundering Act of 2020
+means Division F of the National Defense Authorization Act for Fiscal Year 2021.
+(2)
+Bank Secrecy Act
+The term
+Bank Secrecy Act
+has the meaning given the term under section 6303 of the Anti-Money Laundering Act of 2020 (
+31 U.S.C. 5301
+note).

@@ -1,0 +1,383 @@
+1.
+Short title
+This Act may be cited as the
+Middle Mile Broadband Deployment Act
+.
+2.
+Enabling middle mile broadband infrastructure
+(a)
+Definitions
+In this section:
+(1)
+Anchor institution
+The term
+anchor institution
+means a school, library, medical or healthcare provider, community college or other institution of higher education, or other community support organization or entity.
+(2)
+Assistant Secretary
+The term
+Assistant Secretary
+means the Assistant Secretary of Commerce for Communications and Information.
+(3)
+Commission
+The term
+Commission
+means the Federal Communications Commission.
+(4)
+Eligible entity
+The term
+eligible entity
+meansâ
+(A)
+a State, political subdivision of a State, Tribal government, technology company, electric utility, utility cooperative, public utility district, telecommunications company, telecommunications cooperative, nonprofit foundation, nonprofit corporation, nonprofit institution, nonprofit association, regional planning counsel, Native entity, or economic development authority; or
+(B)
+a partnership of 2 or more entities described in subparagraph (A).
+(5)
+FCC fixed broadband map
+The term
+FCC fixed broadband map
+means the map created by the Commission under section 802(c)(1)(B) of the Communications Act of 1934 (
+47 U.S.C. 642(c)(1)(B)
+).
+(6)
+Indian Tribe
+The term
+Indian Tribe
+has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (
+25 U.S.C. 5304
+).
+(7)
+Interconnect
+The term
+interconnect
+means the physical linking of 2 networks for the mutual exchange of traffic on non-discriminatory terms and conditions.
+(8)
+Internet exchange facility
+The term
+internet exchange facility
+means physical infrastructure through which internet service providers and content delivery networks exchange internet traffic between their networks.
+(9)
+Middle mile infrastructure
+The term
+middle mile infrastructure
+â
+(A)
+means any broadband infrastructure that does not connect directly to an end-user location, including an anchor institution; and
+(B)
+includesâ
+(i)
+leased dark fiber, interoffice transport, backhaul, internet exchange facilities, carrier-neutral submarine cable landing stations, undersea cables, transport connectivity to data centers, special access transport, and other similar services; and
+(ii)
+wired or private wireless broadband infrastructure, including microwave capacity, radio tower access, and other services or infrastructure for a private wireless broadband network, such as towers, fiber, and microwave links.
+(10)
+Middle mile grant
+The term
+middle mile grant
+means a grant awarded under subsection (c).
+(11)
+Native entity
+The term
+Native entity
+meansâ
+(A)
+an Indian Tribe;
+(B)
+an Alaska Native Corporation;
+(C)
+a Native Hawaiian organization (as defined in section 6207 of the Elementary and Secondary Education Act of 1965 (
+20 U.S.C. 7517
+));
+(D)
+the Department of Hawaiian Home Lands; and
+(E)
+the Office of Hawaiian Affairs.
+(12)
+State
+The term
+State
+has the meaning given the term in section 3 of the Communications Act of 1934 (
+47 U.S.C. 153
+).
+(13)
+Submarine cable landing station
+The term
+submarine cable landing station
+means a cable landing station, as that term is used in section 1.767(a)(5) of title 47, Code of Federal Regulations (or any successor regulation), that can be utilized to land a submarine cable by an entity that has obtained a license under the first section of the Act entitled
+An Act relating to the landing and operation of submarine cables in the United States
+, approved May 27, 1921 (
+47 U.S.C. 34
+) (commonly known as the
+Cable Landing Licensing Act
+).
+(14)
+Tribal government
+The term
+Tribal government
+means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (
+25 U.S.C. 5131
+).
+(15)
+Trust land
+The term
+trust land
+has the meaning given the term in section 3765 of title 38, United States Code.
+(16)
+Underserved
+The term
+underserved
+, with respect to an area, means an areaâ
+(A)
+that is designated as a Tribally underserved area through the process described in subsection (g); or
+(B)
+thatâ
+(i)
+is of a standard size not larger than a census block, as established by the Commission;
+(ii)
+is not an unserved area; and
+(iii)
+as determined in accordance with the FCC fixed broadband map, does not have access to broadband service withâ
+(I)
+except as provided in subclause (II)â
+(aa)
+a download speed of not less than 100 megabits per second; and
+(bb)
+an upload speed of not less than 20 megabits per second; or
+(II)
+minimum download and upload speeds established as benchmarks by the Commission for purposes of this Act after the date of enactment of this Act, if those minimum speeds are higher than the minimum speeds required under subclause (I).
+(17)
+Unserved
+The term
+unserved
+, with respect to an area, means an areaâ
+(A)
+that is designated as a Tribally underserved area through the process described in subsection (g); or
+(B)
+thatâ
+(i)
+is of a standard size not larger than a census block, as established by the Commission; and
+(ii)
+as determined in accordance with the FCC fixed broadband map, does not have access to broadband serviceâ
+(I)
+except as provided in subclause (II)â
+(aa)
+a download speed of not less than 25 megabits per second; and
+(bb)
+an upload speed of not less than 3 megabits per second; or
+(II)
+minimum download and upload speeds established as benchmarks by the Commission for purposes of this Act after the date of enactment of this Act, if those minimum speeds are higher than the minimum speeds required under subclause (I).
+(b)
+Purpose; sense of Congress
+(1)
+Purpose
+The purposes of this section areâ
+(A)
+to encourage the expansion and extension of middle mile infrastructure to reduce the cost of connecting unserved and underserved areas to the backbone of the internet (commonly referred to as the
+last mile
+); and
+(B)
+to promote broadband connection resiliency through the creation of alternative network connection paths that can be designed to prevent single points of failure on a broadband network.
+(2)
+Sense of Congress
+It is the sense of Congress thatâ
+(A)
+in awarding middle mile grants, the Assistant Secretary should give priority toâ
+(i)
+projects that leverage existing rights-of-way, assets, and infrastructure to minimize financial, regulatory, and permitting challenges;
+(ii)
+projects in which the eligible entity designs the route of the middle mile infrastructure to enable the connection of unserved anchor institutions, including Tribal anchor institutions; and
+(iii)
+projects thatâ
+(I)
+improve the redundancy and resiliency of existing middle mile infrastructure, including those projects that facilitate interconnection with existing infrastructure, including add/drop capabilities at existing amplification sites and the ability to add splice cases with adequate fiber slack to build laterals that support future carrier-neutral interconnection facilities and connections to anchor institutions; and
+(II)
+reduce regulatory and permitting barriers to promote the construction of new middle mile infrastructure; and
+(B)
+a regulated utility should use funds received from a middle mile grant as a supplement to the core utility capital investment plan of the regulated utility toâ
+(i)
+facilitate increased broadband resiliency or redundancy of existing middle mile infrastructure; or
+(ii)
+provide connectivity to unserved areas and underserved areas within the service territory of the utility and nearby communities.
+(c)
+Middle mile grants
+The Assistant Secretary shall establish a program under which the Assistant Secretary makes grants on a technology-neutral, competitive basis to eligible entities for the construction, improvement, or acquisition of middle mile infrastructure.
+(d)
+Applications for grants
+(1)
+In general
+The Assistant Secretary shall establish an application process for middle mile grants in accordance with this subsection.
+(2)
+Evaluation of applications
+In establishing an application process for middle mile grants under paragraph (1), the Assistant Secretary shall give priority to an application from an eligible entity that satisfies 2 or more of the following conditions:
+(A)
+The eligible entity adopts fiscally sustainable middle mile strategies.
+(B)
+The eligible entity commits to offering non-discriminatory interconnect to terrestrial and wireless last mile broadband providers and any other party making a bona fide request.
+(C)
+The eligible entity identifies specific terrestrial and wireless last mile broadband providers that haveâ
+(i)
+expressed written interest in interconnecting with middle mile infrastructure planned to be deployed by the eligible entity; and
+(ii)
+demonstrated sustainable business plans or adequate funding sources with respect to the interconnect described in clause (i).
+(D)
+The eligible entity has identified supplemental investments or in-kind support (such as waived franchise or permitting fees) that will accelerate the completion of the planned project.
+(E)
+The eligible entity has demonstrated that the middle mile infrastructure will benefit national security interests of the United States and the Department of Defense.
+(3)
+Grant application competence
+The Assistant Secretary shall include in the application process established under paragraph (1) a requirement that an eligible entity provide evidence that the eligible entity is capable of carrying out a proposed project in a competent manner, including by demonstrating that the eligible entity has the financial, technical, and operational capability to carry out the proposed project and operate the resulting middle mile broadband network.
+(e)
+Eligibility
+(1)
+Prioritization
+To be eligible to obtain a middle mile grant, an eligible entity shall agree, in the application submitted through the process established under subsection (d), to prioritizeâ
+(A)
+connecting middle mile infrastructure to last mile networks that provide or plan to provide broadband service to households in unserved areas;
+(B)
+connecting non-contiguous trust lands; or
+(C)
+the offering of wholesale broadband service at reasonable rates on a carrier-neutral basis.
+(2)
+Buildout timeline
+Subject to paragraph (5), to be eligible to obtain a middle mile grant, an eligible entity shall agree, in the application submitted through the process established under subsection (d), to complete buildout of the middle mile infrastructure described in the application by not later than 5 years after the date on which amounts from the grant are made available to the eligible entity.
+(3)
+Project eligibility requirements
+(A)
+Capability to support retail broadband service
+A project shall be eligible for a middle mile grant if, at the time of the application, the Assistant Secretary determines that the proposed middle mile broadband networkâ
+(i)
+will be capable of supporting retail broadband service that meets speed, latency, reliability, consistency in quality of service, and related criteria, as the Assistant Secretary shall determine; and
+(ii)
+will be able to easily scale speeds over time toâ
+(I)
+meet the evolving connectivity needs of households, businesses, and anchor institutions; and
+(II)
+support the deployment of 5G, successor wireless technologies, and other advanced services.
+(B)
+Mapping data
+(i)
+Use of most recent data
+In mapping out gaps in broadband coverage, an eligible entity that uses a middle mile grant to build out terrestrial or fixed wireless middle mile infrastructure shall use the most recent broadband mapping data available from one of the following sources:
+(I)
+The FCC fixed broadband map.
+(II)
+The State in which the area that will be served by the middle mile infrastructure is located, or the Tribal government with jurisdiction over the area that will be served by the middle mile infrastructure (if applicable).
+(III)
+Speed and usage surveys of existing broadband service thatâ
+(aa)
+demonstrate that more than 25 percent of the respondents display a broadband service speed that is slower than the speeds required for an area to qualify as unserved; and
+(bb)
+are conducted byâ
+(AA)
+the eligible entity;
+(BB)
+the State in which the area that will be served by the middle mile infrastructure is located; or
+(CC)
+the Tribal government with jurisdiction over the area that will be served by the middle mile infrastructure (if applicable).
+(ii)
+Sharing facility locations
+(I)
+Definition
+In this clause, the term
+covered recipient
+, with respect to an eligible entity, meansâ
+(aa)
+the Assistant Secretary;
+(bb)
+the Commission;
+(cc)
+the Tribal government with jurisdiction over the area that will be served by the middle mile infrastructure (if applicable); and
+(dd)
+the State broadband office for the State in which the area that will be served by the middle mile infrastructure is located.
+(II)
+Provision of information
+Subject to subclauses (III) and (IV), an eligible entity that constructs, improves, or acquires middle mile infrastructure using a middle mile grant shall share with each covered recipient the location of all the middle mile broadband infrastructure.
+(III)
+Format
+An eligible entity shall provide the information required under subclause (II) to each covered recipient in a uniform format determined by the Assistant Secretary.
+(IV)
+Protection of information
+(aa)
+In general
+The information provided by an eligible entity under subclause (II) may only be used for purposes of carrying out the grant program under subsection (c) and any reporting related thereto.
+(bb)
+Legal defenses
+(AA)
+In general
+A covered recipient may not receive information under subclause (II) unless the covered recipient agrees in writing to assert all available legal defenses to the disclosure of the information if a person or entity seeks disclosure from the covered recipient under any Federal, State, or local public disclosure law.
+(BB)
+Rule of construction
+Nothing in subitem (AA) is intended to be or shall be construed as a waiver of Tribal sovereign immunity.
+(C)
+Connection to anchor institutions
+To the extent feasible, an eligible entity that receives a middle mile grant to build middle mile infrastructure using fiber optic technology shallâ
+(i)
+ensure that the proposed middle mile broadband network will be capable of providing broadband to an anchor institution at a speed of not less thanâ
+(I)
+1 gigabit per second for downloads; and
+(II)
+1 gigabit per second for uploads to an anchor institution; and
+(ii)
+include direct interconnect facilities that will facilitate the provision of broadband service to anchor institutions located within 1,000 feet of the middle mile infrastructure.
+(D)
+Interconnection and nondiscrimination
+(i)
+In general
+An eligible entity that receives a middle mile grant to build a middle mile project using fiber optic technology shall offer interconnection in perpetuity, where technically feasible without exceeding current or reasonably anticipated capacity limitations, on reasonable rates and terms to be negotiated with requesting parties.
+(ii)
+Nature of interconnection
+The interconnection required to be offered under clause (i) includes both the ability to connect to the public internet and physical interconnection for the exchange of traffic.
+(iii)
+Inclusion in application
+An applicant for a middle mile grant shall disclose the applicant's proposed interconnection, nondiscrimination, and network management practices in the application submitted through the process established under subsection (d).
+(4)
+Accountability
+The Assistant Secretary shallâ
+(A)
+establish sufficient transparency, accountability, reporting, and oversight measures for the grant program established under subsection (c) to deter waste, fraud, and abuse of program funds; and
+(B)
+establishâ
+(i)
+buildout requirements for each eligible entity that receives a middle mile grant, which shall require the completion of a certain percentage of project miles by a certain date; and
+(ii)
+penalties, which may include rescission of funds, for grantees that do not meet requirements described in clause (i) or the deadline under paragraph (2).
+(5)
+Extensions
+(A)
+In general
+At the request of an eligible entity, the Assistant Secretary may extend the buildout deadline under paragraph (2) by not more than 1 year if the eligible entity certifies thatâ
+(i)
+the eligible entity has a plan for use of the middle mile grant;
+(ii)
+the project to build out middle mile infrastructure is underway; or
+(iii)
+extenuating circumstances require an extension of time to allow completion of the project to build out middle mile infrastructure.
+(B)
+Effect on interim buildout requirements
+If the Assistant Secretary grants an extension under subparagraph (A), the Assistant Secretary shall modify any buildout requirements established under paragraph (4)(B)(i) as necessary.
+(f)
+Federal share
+The amount of a middle mile grant awarded to an eligible entity may not exceed 70 percent of the total project cost.
+(g)
+Special rules for Tribal governments
+(1)
+Waivers; alternative requirements
+The Assistant Secretary, in consultation with Tribal governments and Native entities, may waive, or specify alternative requirements for, any provision of subsections (c) through (f) if the Assistant Secretary finds that the waiver or alternative requirement is necessaryâ
+(A)
+for the effective delivery and administration of middle mile grants to Tribal governments; or
+(B)
+the construction, improvement, or acquisition of middle mile infrastructure on trust land.
+(2)
+Tribally unserved areas; Tribally underserved areas
+The Assistant Secretary, in consultation with Tribal governments and Native entities, shall develop a process for designating Tribally unserved areas and Tribally underserved areas for purposes of this section.
+(h)
+Maintenance of standards
+Section 602 of the Public Works and Economic Development Act of 1965 (
+42 U.S.C. 3212
+) shall apply to any entity that receives assistance, whether directly or indirectly, under any programâ
+(1)
+that pertains to deploying broadband service; and
+(2)
+for which the Assistant Secretary has administrative responsibility as provided by law or by delegation of authority pursuant to law.
+(i)
+Authorization of appropriations
+There is authorized to be appropriated to carry out this section $2,000,000,000 for fiscal years 2022 through 2026.

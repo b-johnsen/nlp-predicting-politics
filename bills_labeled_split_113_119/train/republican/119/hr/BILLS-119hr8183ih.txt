@@ -1,0 +1,264 @@
+1.
+Short title
+This Act may be cited as the
+Modernizing Access to Talents, Credentials, and Hiring Act of 2026
+or
+MATCH Act of 2026
+.
+2.
+Talent marketplace
+(a)
+Definitions
+Section 3 of the Workforce Innovation and Opportunity Act (
+29 U.S.C. 3102
+) is amended by adding at the end the following:
+(72)
+Talent marketplace
+(A)
+Talent marketplace
+The term
+talent marketplace
+means an array of publicly- and privately-owned platforms supported by interconnected and, where relevant, interoperable and based on open standards, technologies (which may include artificial intelligence) thatâ
+(i)
+is made available to the public;
+(ii)
+is used to match individuals with employment and learning opportunities in a State (or a consortium of States) using information provided by users, includingâ
+(I)
+education and training providers;
+(II)
+employers;
+(III)
+jobseekers;
+(IV)
+students; and
+(V)
+any other individual; and
+(iii)
+incorporates and allows users access toâ
+(I)
+the learning and employment records of users of such marketplace;
+(II)
+a credential registry; and
+(III)
+a skills profile generator.
+(B)
+Credential registry
+The term
+credential registry
+means a process through which a digital portal or repository may be used by education and training providers to make publicly available, and, where relevant, interoperable and based on open standards, a description, using standardized terminology, of the skills, competencies and learning outcomes associated with credentials, including recognized postsecondary credentials.
+(C)
+Learning and employment record
+The term
+learning and employment record
+means a digital, machine-readable record of an individualâs educational and employment history thatâ
+(i)
+contains information that may be self attested and is verified by the employers, persons for whom the individual performed services, and education and training providers of such individual;
+(ii)
+allows the individual to control such information and use any such information for the purpose of matching such individual with employment and learning opportunities as described in
+subparagraph (A)(ii)
+; and
+(iii)
+uses standardized terminology.
+(D)
+Skills profile generator
+The term
+skills profile generator
+means a digital tool that can be used to create a skill profile that, using standardized terminology, describes skills gained through, or necessary forâ
+(i)
+employment;
+(ii)
+hiring; or
+(iii)
+education.
+(E)
+Standardized terminology
+The term
+standardized terminology
+means, in relation to a learning employment record, credential registry, or skills profile generator made available through a talent marketplace, a limited set of terms that is provided through a publicly available, and, where relevant, interoperable and based on open standards, skills framework and used to describe skills, competencies, or learning outcomes in a manner thatâ
+(i)
+provides a definition of such skill, competency, or outcome, and identifies the skills framework used for such definition;
+(ii)
+ensures that identical terms are used to describe substantially similar skills, competencies, or outcomes across such records, registries, and generators in such marketplace; and
+(iii)
+permits such terms to be effectively used for the purpose of matching individuals with employment and learning opportunities as described in
+subparagraph (A)(ii)
+.
+.
+(b)
+Workforce data quality initiative
+(1)
+In general
+Section 169 of the Workforce Innovation and Opportunity Act (
+29 U.S.C. 3224
+) is further amended by adding at the end the following:
+(d)
+Workforce data quality initiative
+(1)
+Grant program
+Of the amount made available pursuant to section 132(a)(2)(A) for any program year, the Secretary shall use not less than 5 percent and not more than 10 percent of such amount, and may also use funds authorized for purposes of carrying out this section, to award grants to eligible entities to create workforce longitudinal data systems, talent marketplaces, and associated resources for the purposes of assisting States toâ
+(A)
+improve program quality;
+(B)
+produce evidence for decision making;
+(C)
+meet performance reporting requirements;
+(D)
+protect the privacy of users; and
+(E)
+improve transparency in relation to labor market trends and changes in job skills needed to obtain employment.
+(2)
+Application
+To be eligible to receive a grant under this subsection, an eligible entity shall submit an application to the Secretary, at such time and in such manner as the Secretary may require, which shall includeâ
+(A)
+a description of the activities the eligible entity is proposing, including a description of the need for such activities and a detailed budget;
+(B)
+a description of the expected outcomes and outputs (such as systems or products) that will result from the proposed activities and the proposed uses of such outputs;
+(C)
+a description of how the proposed activities will support the reporting of performance data for the performance accountability requirements under section 116, including outcomes for eligible training providers;
+(D)
+a description of the methods and procedures the eligible entity will use to ensure the security and privacy of the collection, storage, and use of all data involved in the systems and resources supported through the grant, including compliance with State and Federal privacy and confidentiality law;
+(E)
+a plan for how the eligible entity will continue the activities or sustain the use of the outputs created with the grant funds after the grant period ends; and
+(F)
+a description of how the eligible entity will ensure interoperability and portability between the talent marketplace maintained by the eligible entity and other talent marketplaces through the use of open standards.
+(3)
+Priority
+In awarding grants under the subsection, the Secretary shall give priority to eligible entities thatâ
+(A)
+areâ
+(i)
+State agencies of States that have not previously received a grant from the Secretary for the purposes of this subsection and demonstrate a substantial need to improve its data infrastructure, including for the development of a talent marketplace; or
+(ii)
+consortia of State agencies that are comprised of State agencies from multiple States and include at least one State agency described in
+clause (i)
+and have the capacity to make significant contributions toward building interoperable and portable interstate data infrastructure; and
+(B)
+will use grant funds toâ
+(i)
+expand the adoption and use of linked, publicly available, and interoperable data on knowledge, skills, and abilities represented through credentials, occupational job descriptions, and learning assertions, including through the development of a talent marketplace or other tools and services designed to help learners and workers make informed decisions;
+(ii)
+participate in and contribute data to a multistate data collaborative, including data that provides participating States the ability to better understandâ
+(I)
+earnings and employment outcomes of individuals who work out-of-State; and
+(II)
+interstate earnings and employment trends;
+(iii)
+enhance collaboration with private sector workforce and labor market data entities and the end-users of workforce and labor market data, including individuals, employers, economic development agencies, and workforce development providers; or
+(iv)
+leverage the use of non-Federal contributions to improve workforce data infrastructure, including staff capacity building.
+(4)
+Use of funds
+In addition to the activities described in
+paragraph (3)(B)
+, an eligible entity awarded a grant under this subsection may use funds to carry out any of the following activities:
+(A)
+Developing or enhancing a Stateâs workforce longitudinal data system, including by participating and contributing data to the Stateâs data system, if applicable, that links with elementary and secondary school and postsecondary data.
+(B)
+Accelerating the replication and adoption of data systems, projects, products, or practices already in use in one or more States to other States.
+(C)
+Research and labor market data improvement activities to improve the timeliness, relevance, and accessibility of such data through pilot projects that are developed locally but designed to scale to other regions or States.
+(D)
+Establishing or enhancing a talent marketplace.
+(E)
+Developing policies, guidelines, and security measures for data collection, storing, and sharing to ensure compliance with relevant Federal and State privacy laws and regulations.
+(F)
+Increasing local board access to and integration with the Stateâs workforce longitudinal data system in a secure manner.
+(G)
+Creating or participating in a data exchange for collecting and using standards-based jobs and employment data including, at a minimum, job titles or occupation codes.
+(H)
+Improving State and local staff capacity to understand, use, and analyze data to improve decision-making and improve participant outcomes.
+(5)
+Administration
+(A)
+Duration
+A grant awarded under this subsection may be for a period of up to 3 years.
+(B)
+Supplement, not supplant
+Funds made available under this subsection shall be used to supplement, and not supplant, other Federal, State, or local funds used for development of State data systems.
+(C)
+Report
+Each eligible entity that receives a grant under this subsection shall submit a report to the Secretary not later than 180 days after the conclusion of the grant period on the activities supported through the grant and improvements in the use of workforce and labor market information that have resulted from such activities.
+(6)
+Definition
+In this subsectionâ
+(A)
+Eligible entity
+The term âeligible entityâ means a State agency, including a State workforce agency or a consortium of State agencies, including a multistate data collaborative, that is or includes the State agency responsible forâ
+(i)
+State employer wage records used by the Stateâs unemployment insurance programs in labor market information reporting and analysis and for fulfilling the reporting requirements under section 116(d);
+(ii)
+the production of labor market information; and
+(iii)
+the direct administration of one or more of the core programs.
+(B)
+Multistate data collaborative
+The term
+multistate data collaborative
+means a partnership among two or more States to coordinate the governance and standards for workforce related data maintained by such States in order to facilitate interoperability and the secure exchange of such data between such States.
+.
+(2)
+Conforming amendment
+Section 132(a)(2)(A) of the Workforce Innovation and Opportunity Act (
+29 U.S.C. 3172(a)(2)(A)
+) is amended by inserting after
+projects),
+the following:
+169(d) (relating to workforce data quality initiatives),
+.
+(c)
+List and information To assist participants in choosing providers
+Section 122(d) of the Workforce Innovation and Opportunity Act (29 U.S.C. 12 3152(d)) is amendedâ
+(1)
+by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (6), respectively;
+(2)
+by inserting after paragraph (1) the following:
+(2)
+Talent marketplace
+The Governor may establish (or develop in partnership with other States) a talent marketplace.
+;
+(3)
+by amending paragraph (4) (as so redesignated) to read as follows:
+(4)
+Availability
+The list (including the talent marketplace if one has been established by the State), and the accompanying information shall be made available to such participants and to members of the public through the one-stop delivery system in the Stateâ
+(A)
+on a publicly accessible website thatâ
+(i)
+is consumer-tested; and
+(ii)
+is searchable, easily understandable, and navigable, and allows for the comparison of eligible programs through the use of common, linked, open-data descriptive language, including interoperable skills and competency data; and
+(B)
+in a manner that does not reveal personally identifiable information about an individual participant.
+; and
+(4)
+by inserting before paragraph (6) (as so redesignated), the following:
+(5)
+Website technical assistance
+The Secretary shallâ
+(A)
+upon request, provide technical assistance to a State on establishing a website that meets the requirements of paragraph (4); and
+(B)
+disseminate to each State effective practices or resources from States and private sector entities related to establishing a website that is consumer-tested to ensure that the website is easily understood, searchable, and navigable.
+.
+(d)
+Assistance in developing talent marketplaces
+Section 7(a)(3) of the Wagner-Peyser Act (
+29 U.S.C. 49f(a)(3)
+) is amendedâ
+(1)
+in subparagraph (F), by striking the
+and
+at the end;
+(2)
+by moving subparagraph (G) four ems to the right;
+(3)
+in subparagraph (G), by striking the period at the end and inserting
+; and
+; and
+(4)
+by adding at the end the following:
+(H)
+establishing a talent marketplace (as defined in section 3 of the Workforce Innovation and Opportunity Act (
+29 U.S.C. 3102
+)).
+.

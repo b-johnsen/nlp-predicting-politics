@@ -1,0 +1,177 @@
+1.
+Short title
+This Act may be cited as the
+Small Business Last Mile Act of 2020
+.
+2.
+Grant program to provide high-speed broadband service
+(a)
+Establishment
+Not later than 180 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall establish a program (in this Act referred to as the
+Program
+) to facilitate the provision of high-speed broadband service to rural small business concerns.
+(b)
+Grant authority
+In carrying out the Program, the Administrator shall award a grant to each eligible State that submits an application.
+(c)
+Eligible recipients
+(1)
+Eligible State
+The Administrator shall award a grant under the Program each year to a State that submits an application pursuant to subsection (d).
+(2)
+Eligible subgrant recipient
+(A)
+In general
+An eligible State may award a subgrant under the Program to any entity, or group of entities, determined by the eligible State to have the authority and capability to carry out a project described in subsection (d).
+(B)
+Not required to be eligible telecommunication carrier
+A determination of authority and capability under subparagraph (A) may not require a subgrant recipient to be designated as an eligible telecommunications carrier under section 214(e) of the Communications Act of 1934 (
+47 U.S.C. 214(e)
+).
+(d)
+Application
+To be eligible for a grant under the Program, a State shall submit to the Administrator an application that demonstrates that the Stateâ
+(1)
+prior to the date of application for a grant under the Program, has experience managing a State or Federal grant program to facilitate the provision of high-speed broadband service;
+(2)
+maintains a State broadband plan;
+(3)
+has updated the State broadband plan under paragraph (2) in the five years prior to the date a State submits an application for a grant under the Program;
+(4)
+agrees to subgrant any awarded funds to an eligible subgrant recipient;
+(5)
+agrees to conduct a periodic financial audit of eligible subgrant recipients who have received a subgrant under the Program;
+(6)
+ensures proper disbursement and accounting for Federal funds awarded under the Program, including demonstrating that if awarded a subgrant under the Programâ
+(A)
+such award has been used to assist an eligible project; and
+(B)
+that a State has recovered an award from a subgrant recipient who has not complied with the requirements of the Program; and
+(7)
+possesses any other administrative or technical capacity that the Administrator deems necessary for the success of the Program.
+(e)
+Eligible projects
+(1)
+In general
+Grant funds awarded under the Program may only be used to assist a project that makes available eligible infrastructure necessary to provide high-speed broadband service to a rural small business concern.
+(2)
+Restriction on duplication
+(A)
+In general
+Grant funds awarded under the Program may not be used to assist a project that makes available duplicative eligible infrastructure to a small business concern located in a rural area.
+(B)
+Determination of duplicative infrastructure
+(i)
+In general
+An eligible State shall determine the presence of duplicative eligible infrastructure using broadband infrastructure geolocation data from Federal, State, or commercial sources.
+(ii)
+Process to challenge determination
+(I)
+Publication requirement
+An eligible State shall make available to the public the location of proposed eligible infrastructure for which a subgrant application has been submitted to the eligible State.
+(II)
+Opportunity to challenge determination
+Not later than 15 days prior to the award of a subgrant, an eligible State shall allow a provider of eligible infrastructure the opportunity to submit information regarding the location of such infrastructure so that the eligible State may determine whether a project to be awarded a subgrant will make available duplicative eligible infrastructure.
+(f)
+Priority
+In making a grant under the Program, the Administrator shall give priority to an eligible project based on the number of small business concerns located in a rural area provided high-speed broadband service by the project.
+(g)
+Grant amount awarded
+In making a grant under the Program, the Administrator shall award an eligible State the amount equaling the ratio of the number of individuals in the eligible State who reside in a rural area divided by the number of individuals who reside in a rural area in all eligible States that have been approved under the Program, multiplied by the total amount of funds authorized to be appropriated under subsection (k)(2).
+(h)
+Limitations on a subgrant amount
+The amount of a subgrant under the Programâ
+(1)
+if awarded to an entity providing high-speed broadband service to a single small business concern, may not exceed $15,000; or
+(2)
+if awarded to an entity providing high-speed broadband service to more than one small business concern, may not exceed $35,000.
+(i)
+Federal share
+The Federal share of the cost of a project assisted with a grant under the Program shall not exceed 75 percent.
+(j)
+Evaluation of Program
+(1)
+Report to Administrator
+Not later than 30 months after the date of the enactment of this Act, each eligible State shall submit to the Administrator a report demonstrating the information required pursuant to subsection (d)(6).
+(2)
+Report to Congress
+Not later than three years after the date of the enactment of this Act, the Administrator shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on the Program that includes a description ofâ
+(A)
+the number of grants awarded under the Program;
+(B)
+the total amount of funding expended on eligible infrastructure pursuant to the Program;
+(C)
+the number of small business concerns in rural areas provided eligible infrastructure as a result of the Program during the two-year period beginning on the date on which the Administrator first awards a grant under the Program; and
+(D)
+the number of miles of eligible infrastructure made available pursuant to the Program.
+(k)
+Authorization of appropriations
+(1)
+In general
+There are authorized to be appropriated to carry out the Program $25,000,000 for each of fiscal years 2020 through 2023.
+(2)
+Reservation for grants
+Not less than 97 percent of funds appropriated for the Program shall be reserved for providing grants to eligible States.
+(3)
+Reservation for administration
+Not more than 3 percent of funds appropriated for the Program may be used by the Administrator to administer the Program.
+3.
+Study and report on broadband service speeds and pricing
+(a)
+Study
+The Administrator of the Small Business Administration shall conduct a survey of a representative sample of small business concerns located in rural areas onâ
+(1)
+the speeds of broadband service available to small business concerns located in rural areas;
+(2)
+the prices for broadband service available to small business concerns located in rural areas;
+(3)
+the types of broadband service technology used by small business concerns located in rural areas;
+(4)
+the type of broadband service available to small business concerns located in rural areas, specifically whether it is best-effort service or service with guaranteed quality-of-service benchmarks; and
+(5)
+the primary purposes for which small business concerns located in rural areas use their broadband connections and whether their current broadband service enables them to satisfactorily carry out each of these purposes.
+(b)
+Report
+Not later than three years after the date of the enactment of this Act, the Administrator shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on the results of the study conducted under subsection (a) that includes policy recommendations for improving the access of small business concerns to affordable high-speed broadband service.
+4.
+Definitions
+In this Act:
+(1)
+Eligible infrastructure
+The term
+eligible infrastructure
+means infrastructure of a type with the demonstrated capability to facilitate broadband service for whichâ
+(A)
+95 percent or more of all peak period measurements ofâ
+(i)
+downstream transmission capacity are at or above 50 Mbps;
+(ii)
+upstream transmission capacity are at or above 50 Mbps; and
+(iii)
+network round trip latency are at or below 100 milliseconds; and
+(B)
+an end-userâs monthly data cap is at or above 2 terabytes.
+(2)
+Rural area
+The term
+rural area
+has the meaning given such term under section 601(b)(3) of the Rural Electrification Act of 1936 (
+7 U.S.C. 950bb(b)(3)
+).
+(3)
+Rural small business concern
+The term
+rural small business concern
+means a small business concern that has its principal office located in a rural area.
+(4)
+Small business concern
+The term âsmall business concernâ has the meaning given such term under section 3 of the Small Business Act (
+15 U.S.C. 632
+).
+(5)
+State
+The term
+State
+has the meaning given such term under section 12052 of the Small Business Disaster Response and Loan Improvements Act of 2008 (
+15 U.S.C. 636e
+).

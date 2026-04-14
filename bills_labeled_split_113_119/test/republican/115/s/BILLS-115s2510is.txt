@@ -1,0 +1,85 @@
+1.
+Short title
+This Act may be cited as the
+Open Internet Preservation Act
+.
+2.
+Internet openness
+Title I of the Communications Act of 1934 (
+47 U.S.C. 151
+et seq.) is amended by adding at the end the following:
+13.
+Internet Openness
+(a)
+Obligations of broadband Internet access service providers
+A person engaged in the provision of broadband Internet access service, insofar as such person is so engagedâ
+(1)
+may not block lawful content, applications, services, or non-harmful devices, subject to reasonable network management; and
+(2)
+may not impair or degrade lawful Internet traffic on the basis of Internet content, application, or service, or use of a non-harmful device, subject to reasonable network management.
+(b)
+Commission authority
+(1)
+In general
+The Commission shall enforce the obligations established in subsection (a) and the obligations established in subsection (e)(2) through adjudication of complaints alleging violations of such respective subsection but may not, under any provision of law, whether by rulemaking or otherwiseâ
+(A)
+expand the Internet openness obligations for provision of broadband Internet access service beyond the obligations established in subsection (a); or
+(B)
+expand the Internet openness obligations for the offering or provision of specialized services beyond the obligations established in subsection (e)(2).
+(2)
+Formal complaint procedures
+Not later than 60 days after the date of the enactment of this section, the Commission shall adopt formal complaint procedures to address alleged violations of subsection (a) and alleged violations of subsection (e)(2). Such procedures shall include a deadline (relative to the date of filing of a complaint under such procedures) for the disposition of such complaint.
+(c)
+Preemption of State law
+No State or political subdivision of a State shall adopt, maintain, enforce, or impose or continue in effect any law, rule, regulation, duty, requirement, standard, or other provision having the force and effect of law relating to or with respect to Internet openness obligations for provision of broadband Internet access service.
+(d)
+Other laws and considerations
+Nothing in this sectionâ
+(1)
+supersedes any obligation or authorization a provider of broadband Internet access service may have to address the needs of emergency communications or law enforcement, public safety, or national security authorities, consistent with or as permitted by applicable law, or limits the providerâs ability to do so; or
+(2)
+prohibits reasonable efforts by a provider of broadband Internet access service to address copyright infringement or other unlawful activity.
+(e)
+Specialized services
+(1)
+In general
+Except as provided in paragraph (2), nothing in this section shall be construed to limit the ability of broadband Internet access service providers to offer specialized services.
+(2)
+Prohibition on certain practices
+Specialized services may not be offered or provided in ways that threaten the meaningful availability of broadband Internet access service or that have been devised or promoted in a manner designed to evade the purposes of this section.
+(f)
+Broadband To be considered information service
+Notwithstanding any other provision of law, the provision of broadband Internet access service or any other mass-market retail service providing advanced telecommunications capability (as defined in section 706 of the Telecommunications Act of 1996 (
+47 U.S.C. 1302
+)) shall be considered to be an information service.
+(g)
+Reasonable network management
+For purposes of subsection (a), a network management practice is reasonable if it is primarily used for and tailored to achieving a legitimate network management purpose, taking into account the particular network architecture and technology of the broadband Internet access service.
+(h)
+Definitions
+In this section:
+(1)
+Broadband Internet access service
+(A)
+In general
+The term
+broadband Internet access service
+means a mass-market retail service by wire or radio that provides the capability to transmit data to and receive data from all or substantially all Internet endpoints, including any capabilities that are incidental to and enable the operation of the communications service, but excluding dial-up Internet access service.
+(B)
+Functional equivalent; evasion
+Such term includes any service thatâ
+(i)
+the Commission finds to be providing a functional equivalent of the service described in subparagraph (A); or
+(ii)
+is used to evade the obligations set forth in subsection (a).
+(2)
+Network management practice
+The term
+network management practice
+means a practice that has a primarily technical network management justification. Such term does not include other business practices.
+(3)
+Specialized services
+The term
+specialized services
+means services other than broadÂ­band Internet access service that are offered over the same network as, and that may share network capacity with, broadband Internet access service.
+.

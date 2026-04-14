@@ -1,0 +1,89 @@
+1.
+Short title
+This Act may be cited as the
+Expanding Access to Credit through Consumer-Permissioned Data Act
+.
+2.
+Findings
+The Congress finds the following:
+(1)
+Using alternative data in mortgage lending (either through alternative credit scores or in underwriting) has the potential to increase access to credit for individuals with little or no credit history with the national credit reporting agencies (NCRAs), according to a review of alternative data use in mortgage lending by the Government Accountability Office in December 2021.
+(2)
+Approximately 45 million consumers do not have any credit history with the NCRAs or did not have enough credit history to be scored, according to a 2015 report by the Bureau of Consumer Financial Protection (CFPB), entitled
+Data Point: Credit Invisibles
+. The CFPB also reported that this population disproportionately included low-income consumers, younger consumers, and consumers of color.
+(3)
+The use of alternative data to establish a low- or moderate-income borrowerâs credit history for the purpose of extending mortgage credit can help lenders meet goals of the Community Reinvestment Act.
+(4)
+Mortgage underwriting systems that allow lenders to use consumer-permissioned alternative credit information may help expand access to mortgages for borrowers with lower credit scores and communities of color. On September 21, 2021, Fannie Mae updated its automated underwriting system so that it notifies lenders that a borrower may benefit from the inclusion of consistent rental payment information, and with the consumerâs permission, the underwriting system will automatically identify rental payments within bank statement data and include this in its credit assessment. According to a fair lending and credit risk analysis by Fannie Mae and the Federal Housing Finance Agency, the populations most likely to benefit from this change are applicants with lower credit scores, who are disproportionately consumers of color.
+3.
+Requirement to consider additional credit information when making mortgage loans
+(a)
+In general
+The Equal Credit Opportunity Act (
+15 U.S.C. 1691 et seq.
+) is amended by inserting after section 701 the following:
+701A.
+Requirement to consider additional credit information when making mortgage loans
+(a)
+In general
+A creditor extending a mortgage loan shall, in evaluating the creditworthiness of an applicant, consider credit information not reported through a consumer reporting agency, ifâ
+(1)
+the applicantâ
+(A)
+requests such consideration;
+(B)
+authorizes the provision of the credit information to be considered; and
+(C)
+states that the applicant does not believe that credit information reported through consumer reporting agencies fully or accurately reflects the applicantâs creditworthiness in the absence of such information; and
+(2)
+the credit information relates to the types of information that the creditor would consider if otherwise reported and includes current payment and transaction information, such as bank statement information or rental payment information.
+(b)
+Treatment of additional information
+A creditor shall treat any information provided pursuant to subsection (a) in the same manner and with the same weight as the creditor would treat the same information if it were provided by a consumer reporting agency, as defined through regulations by the Director of the Bureau of Consumer Financial Protection, unless the creditor reasonably determines that the information is the result of a material misrepresentation, according to regulations provided by the Director of the Bureau.
+(c)
+Notice to applicants
+(1)
+In general
+A creditor described under subsection (a) shall provide each applicant for a mortgage loan with a notice that includesâ
+(A)
+an explanation of the applicantâs right under this section to authorize the provision of additional credit information to the creditor for consideration, including examples of such additional information, as well as the benefits of providing such information; and
+(B)
+the right of the creditor to disregard any such information if the creditor determines, according to regulations provided by the Director of the Bureau, that the information is the result of a material misrepresentation.
+(2)
+Notice languages
+Notices required under paragraph (1) shall be made available in each of the 8 languages most commonly spoken by individuals with limited English proficiency, as determined by the Director of the Bureau using information published by the Director of the Bureau of the Census.
+(3)
+Form language
+The Director of the Bureau shall establish form language, which shall be used by each creditor when providing the notices required under this subsection, providingâ
+(A)
+the examples described under paragraph (1)(A);
+(B)
+the description of the benefits described under paragraph (1)(A); and
+(C)
+the non-English language versions of the notices described under paragraph (2).
+(d)
+Consideration of alternative data
+A creditor shall ensure that the alternative data provided under the requirements of subsection (a) shall be considered as part of the decisioning process.
+(e)
+Treatment of underwriting systems
+(1)
+In general
+Any person, including any Federal agency that insures, guarantees, supplements, or assists a Federally backed single-family or multifamily mortgage loan, who develops or maintains an underwriting system for mortgage loans shall ensure such system complies with the requirements described under subsection (a).
+(2)
+Rulemaking
+The Director of the Bureau (in consultation with the Director of the Federal Housing Finance Agency, the Secretary of Housing and Urban Development, and any other Federal agency that insures, guarantees, supplements, or assists a Federally backed single-family or multifamily mortgage loan) may issue such regulations as, in the judgement of the Director, may be necessary to capture consumer-permissioned data in automated underwriting systems.
+(f)
+Consumer reporting agency defined
+In this section, the term
+consumer reporting agency
+has the meaning given that term under section 603 of the Fair Credit Reporting Act.
+.
+(b)
+Clerical amendment
+The table of contents for the Equal Credit Opportunity Act is amended by inserting after the item relating to section 701 the following:
+701A. Requirement to consider additional credit information when making mortgage loans.
+.
+(c)
+Rulemaking; application date
+Not later than the end of the 18-month period beginning on the date of enactment of this Act, the Director of the Bureau of Consumer Financial Protection shall issue final rules to carry out the amendments made by this section, and such amendments shall apply to creditors on and after the effective date of such final rules.

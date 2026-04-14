@@ -1,0 +1,154 @@
+1.
+Short title
+This Act may be cited as the
+Stop Illegal Online Sales of Controlled Substances Act
+.
+2.
+Domain names used to facilitate the online sale of controlled substances illegally
+(a)
+In general
+Section 311 of the Controlled Substances Act (
+21 U.S.C. 831
+) is amended by adding at the end the following:
+(k)
+Domain names used To facilitate the online sale of controlled substances illegally
+(1)
+Definitions
+In this subsection:
+(A)
+Domain name
+The term
+domain name
+means a name thatâ
+(i)
+identifies a specific location on the internet that belongs to a particular person; and
+(ii)
+consists of 2 or more textual segments separated by dots.
+(B)
+Domain name used to facilitate the online sale of controlled substances illegally
+The term
+domain name used to facilitate the online sale of controlled substances illegally
+means a domain name that identifies a location on the internet, a primary or significant purpose of which is to introduce or deliver for introduction into interstate commerce a controlled substance in violation of this title.
+(C)
+Lock
+The term
+lock
+means, with respect to a domain name, for the registry operator or registrar to systematically prevent the domain name from being updated, transferred, or deleted during the balance of the registration of the domain name, which may be achieved using domain name registration protocols.
+(D)
+Registrar
+The term
+registrar
+means an organization thatâ
+(i)
+manages the registration of domain names; and
+(ii)
+during the registration processâ
+(I)
+verifies that the requested domain name meets registry requirements; and
+(II)
+submits the name to the appropriate registry operator.
+(E)
+Registry
+The term
+registry
+means an authoritative master database of the domain names registered in a top-level domain.
+(F)
+Registry operator
+The term
+registry operator
+means an organization that maintains a registry, including byâ
+(i)
+receiving requests from registrars to add, delete, or modify domain names; and
+(ii)
+making the requested changes in the registry.
+(G)
+Suspend
+The term
+suspend
+means, with respect to a domain name, for the registry operator or registrar to systematically disable the functionality of the domain name through a hold or suspension during the balance of the registration of the domain name, which may be achieved using domain name registration protocols.
+(H)
+Trusted notifier
+The term
+trusted notifier
+includes the following (and the designees and agents thereof):
+(i)
+The Food and Drug Administration.
+(ii)
+The Department of Justice, including the Drug Enforcement Administration.
+(iii)
+The Department of Homeland Security.
+(iv)
+A State attorney general.
+(v)
+A State board of pharmacy.
+(2)
+Locking and suspension of domain names
+A registry operator or registrar shallâ
+(A)
+not later than 24 hours after receipt of a notification from a trusted notifier respecting a domain name that is used to facilitate the online sale of controlled substances illegally and that is under the control of the registry operator or registrar, lock the domain name; and
+(B)
+not later than 7 days after receipt of such notification, suspend the domain name.
+(3)
+Notice
+Paragraph (2) shall apply in the case of a notification by a trusted notifier that includes, at a minimumâ
+(A)
+the domain name being reported to the appropriate registry operator or registrar;
+(B)
+the date of observation that the domain name was used to facilitate the online sale of controlled substances illegally;
+(C)
+a summary of the alleged activities that constitute a domain name being used to facilitate the online sale of controlled substances illegally; and
+(D)
+a statement that evidence of offering controlled substances illegally, such as a screenshot, has been retained, and is available to be shared with the registry operator or registrar.
+(4)
+Registrant appeal
+(A)
+In general
+Any registrant whose domain name is locked and suspended pursuant to paragraph (2) may appeal such action to the trusted notifier pursuant to subparagraph (B).
+(B)
+Appeals
+(i)
+In general
+In bringing such an appeal, the registrant for the locked and suspended domain name may do any of the following:
+(I)
+Contact the applicable registry operator or registrar to request information regarding the business name, or personal name if the trusted notifier is not a business, and the email address, of the trusted notifier who submitted the notification regarding the domain name.
+(II)
+Dispute the notification by submitting any relevant records and information to the applicable trusted notifier.
+(ii)
+Provision of information
+Not later than 15 days after receiving a request under clause (i)(I), a registry operator or registrar shall provide the requested information.
+(iii)
+Investigation
+The applicable trusted notifier shallâ
+(I)
+conduct a reasonable investigation regarding the registrant and its domain name to determine whether notification under paragraph (2) was improper; and
+(II)
+in conducting such investigation, consider the information provided by the registrant under clause (i).
+(iv)
+Successful appeal
+If the appeal is successful, the registry operator or registrar shall lift the suspension and unlock the domain name within 15 days.
+(5)
+Authority to lock or suspend a domain name
+A registry operator or registrar may lock and suspend a domain name used to facilitate the online sale of controlled substances illegally before receipt of a notification under this section from a trusted notifier.
+.
+(b)
+Prohibited act
+Part D of the Controlled Substances Act (
+21 U.S.C. 841 et seq.
+) is amended by adding at the end the following:
+424.
+Locking and suspension of domain names
+(a)
+Offense
+It shall be unlawful for a registry operator or registrar to knowingly fail to lock and suspend any domain name in its control in violation of section 311(k).
+(b)
+Penalty
+(1)
+In general
+Any registry operator or registrar that violates subsection (a) shall be fined not more than $1,000.
+(2)
+Subsequent offense; intent to defraud or mislead
+Any registry operator or registrar that violates subsection (a) after a conviction of that registry operator or registrar under this section has become final shall be fined not more than $10,000, or both.
+.
+(c)
+Applicability
+Sections 311(k) and 424 of the Controlled Substances Act, as added by this section, shall apply beginning on the date that is 60 days after the date of enactment of this Act.

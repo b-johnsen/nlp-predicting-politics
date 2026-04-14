@@ -1,0 +1,122 @@
+1.
+Short title
+This Act may be cited as the
+Learning Excellence and Good Examples from New Developers Act of 2019
+or the
+LEGEND Act of 2019
+.
+2.
+Definitions
+In this Act:
+(1)
+Administration
+The term
+Administration
+means the National Oceanic and Atmospheric Administration.
+(2)
+Administrator
+The term
+Administrator
+means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+(3)
+Model
+The term
+model
+means any numerical model of the Earth's system or its components produced by scientists employed by the Administration.
+(4)
+Operational model
+The term
+operational model
+means any model that has an output used by the Administration for operational or public service functions.
+(5)
+Open source code
+The term
+open source code
+means computer code or programming language that is available for public use or modification.
+3.
+Purposes
+The purposes of this Act areâ
+(1)
+to support innovation in modeling by allowing interested stakeholders to have easy and complete access to the models used by the Administration; and
+(2)
+to use vetted innovations arising from access provided under paragraph (1) to improve modeling by the Administration.
+4.
+Requirement to make certain operational models available to the public
+(a)
+In general
+The Administrator shall make available to the public the following:
+(1)
+Current and future operational models developed by the Administration, in the form of open source code for a period consistent with applicable records retention requirements.
+(2)
+All Government-owned data, subject to redistribution rights, associated with such models and used in operational forecasting by the Administration, includingâ
+(A)
+relevant metadata;
+(B)
+data used for current operational forecasts; and
+(C)
+a description of intended model outputs.
+(b)
+Discretion To make experimental or development models available
+The Administrator may make experimental or developmental models associated with development projects funded by the Administration available to the public as open source code.
+(c)
+Platform
+In carrying out subsections (a) and (b), the Administrator may use government servers, contracts or agreements with a private vendor, or any other platform consistent with the purpose of this Act.
+(d)
+Technical correction
+Section 102(b) of the Weather Research Forecasting and Innovation Act of 2017 (
+15 U.S.C. 8512(b)
+) is amended by redesignating the second paragraph (4) (as added by section 4(a) of the National Integrated Drought Information System Reauthorization Act of 2018 (
+Public Law 115â423
+)) as paragraph (5).
+(e)
+Phased implementation
+(1)
+Immediate effect for certain models
+For operational models that, as of the date of the enactment of this Act, meet the requirements described in paragraph (5)(E)(ii) of section 102(b) of the Weather Research Forecasting and Innovation Act of 2017 (
+15 U.S.C. 8512(b)
+), as redesignated by subsection (d), the Administrator shall implement the requirements of subsection (a) as soon as practicable after such date of enactment.
+(2)
+New models
+For operational models that meet the requirements described in paragraph (1) and are created or substantially updated after the date of the enactment of this Act, the Administrator shall implement the requirements of subsection (a) not later than 1 year after such date of enactment.
+5.
+Requirement to review models and leverage innovations
+The Administrator shallâ
+(1)
+consistent with the mission of the Earth Prediction Innovation Center, periodically review innovations and improvements made by persons outside the Administration to the operational models made available to the public under section 4 in order to improve the accuracy and timeliness of forecasts of the Administration; and
+(2)
+if the Administrator identifies an innovation for such a model the Administrator considers suitable, develop and implement a plan to use the innovation to improve the model.
+6.
+Report on implementation
+(a)
+In general
+Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit to the appropriate congressional committees a report on the implementation of this Act that includes a description ofâ
+(1)
+how operational models have been made publicly available as required by section 4(a); and
+(2)
+the process of the Administration under section 5â
+(A)
+for engaging with interested stakeholders to learn what innovations those stakeholders have found;
+(B)
+for reviewing those innovations; and
+(C)
+for operationalizing innovations the Administrator considers suitable.
+(b)
+Appropriate congressional committees defined
+In this section, the term
+appropriate congressional committees
+meansâ
+(1)
+the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and
+(2)
+the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
+7.
+Protection of national security interests
+(a)
+In general
+Notwithstanding any other provision of this Act, the Administrator may withhold models or data used in operational weather forecasting if the Administrator determines doing so to be necessary to protect the national security interests of the United States.
+(b)
+Rule of construction
+Nothing in this Act shall be construed to supersede any other provision of law governing the protection of the national security interests of the United States.
+8.
+Authorization of appropriations
+There are authorized to be appropriated to the Administration for each of fiscal years 2021 through 2026 such sums as may be necessary to carry out this Act.

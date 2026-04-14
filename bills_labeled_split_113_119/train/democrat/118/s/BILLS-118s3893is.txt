@@ -1,0 +1,343 @@
+1.
+Short title
+This Act may be cited as the
+Enhanced Cybersecurity for SNAP Act of 2024
+.
+2.
+Enhanced cybersecurity for EBT cards
+Section 7(h) of the Food and Nutrition Act of 2008 (
+7 U.S.C. 2016(h)
+) is amended by adding at the end the following:
+(15)
+Cybersecurity of EBT cards
+(A)
+Definitions
+In this paragraph:
+(i)
+Chip-enabled
+(I)
+In general
+The term
+chip-enabled
+, with respect to a payment card, means a payment card that uses industry standard secure payment technology, as identified by the Administrator of the Food and Nutrition Service in consultation with the Secretary of the Treasury and the Director of the National Institute of Standards and Technology, thatâ
+(aa)
+provides for secure card-based payment; and
+(bb)
+is resistant to cloning.
+(II)
+EMV chip
+The Administrator of the Food and Nutrition Service, in consultation with the Secretary of the Treasury and the Director of the National Institute of Standards and Technology, shall consider whether the secure payment technology described in subclause (I) should meet the standards published by EMVCo for contact and contactless payments.
+(ii)
+Mobile friendly
+The term âmobile friendlyâ has the meaning given the term in section 3559(b) of title 44, United States Code.
+(iii)
+NIST PIN and password standards
+The term
+NIST PIN and password standards
+means the PIN and password standards described in Special Publication 800â63B entitled
+Digital Identity Guidelines
+(or a successor document) of the National Institute of Standards and Technology.
+(iv)
+PIN
+The term
+PIN
+has the meaning given the term
+personal identification number (PIN)
+in section 271.2 of title 7, Code of Federal Regulations (or successor regulations).
+(B)
+Regulations
+(i)
+In general
+Not later than 2 years after the date of enactment of this paragraph, the Secretary shall promulgate, and every 5 years thereafter, the Secretary shall review and update as necessary, cybersecurity and digital service regulations relating to EBT cards and mobile payments under the supplemental nutrition assistance program, including, at a minimum, to ensure that cybersecurity measures for EBT cards and mobile payments keep pace with security safeguards used by the private sector and required by Federal agencies for credit, debit, and other payment cards and mobile payments.
+(ii)
+Requirements
+The Secretary shall ensure that the cybersecurity and digital service regulations described in clause (i) require the following:
+(I)
+(aa)
+Each State shall operate the user interfaces listed on the list of required user interfaces maintained by the Secretary under item (dd)(AA), in accordance with this subclause, 1 or more user interfaces of which households in the State may, at the election of the applicable household, use to manage the EBT account of the applicable household.
+(bb)
+(AA)
+A State may operate other user interfaces under item (aa) in addition to the required user interfaces on the list maintained by the Secretary under item (dd)(AA).
+(BB)
+Any web-based online portal operated by a State as a user interface shall be mobile friendly.
+(cc)
+Each user interface offered by a State under items (aa) and (bb), as applicable, shallâ
+(AA)
+provide information in each language in which the State agency is required to make material available pursuant to section 272.4(b) of title 7, Code of Federal Regulations (or successor regulations);
+(BB)
+be available to households at least 99 percent of the time; and
+(CC)
+include any other features required by the Secretary.
+(dd)
+(AA)
+The Secretary shall maintain a list of required user interfaces for purposes of item (aa), which may include a web-based online portal and a mobile application.
+(BB)
+The list under subitem (AA) shall include an application programming interface through which at least 1 user interface offered by a State under item (aa) allows households to delegate access to some or all account features identified by the Secretary to third-party provided software. No fee shall be charged to any party for the use of that application programming interface.
+(CC)
+During the 10-year period following the date on which the regulations promulgated pursuant to clause (i) become final, unless the Secretary extends that period, the Secretary shall maintain on the list under subitem (AA) the following user interfaces: text message, voice telephone service, and a nondigital user interface that does not require the use of a phone or computer by the household.
+(II)
+(aa)
+Each State shall provide households on an opt-in basisâ
+(AA)
+through each digital user interface offered under subclause (I), timely electronic notice of transactions using the EBT account of the household; and
+(BB)
+through each user interface offered under subclause (I), access to, including the ability to search, historical transactions for not less than the preceding 12 months.
+(bb)
+Transaction information under subitems (AA) and (BB) of item (aa) shall include the amount of the transaction, the merchant for the transaction, the city and State of the merchant for an in-person transaction, and the delivery address or collection address for an online transaction.
+(cc)
+Each State shall offer households the ability, through each user interface offered under subclause (I), to report a fraudulent transaction to the State.
+(dd)
+A State shall not require a household to respond to or acknowledge a notice of transaction delivered pursuant to item (aa)(AA).
+(ee)
+A State shall notify a household that has received reimbursement for EBT card fraud pursuant to section 501(b)(2) of division HH of the Consolidated Appropriations Act, 2023 (
+7 U.S.C. 2016a(b)(2)
+), of the ability of the household to opt in to restricting the use of the EBT card as described in subclause (III) and of the remaining funds that may be reimbursed if the household experiences fraud again.
+(III)
+Each State shall provide households issued an EBT card the ability, through each user interface offered under subclause (I)â
+(aa)
+to make the use of that EBT card for online transactions workable only through virtual card numbers or other tokenization technology, such as through a mobile payment service, which shall require a different virtual card number for each individual online merchant;
+(bb)
+to freeze and unfreeze the EBT account of the household for transactions in which the card number printed on the EBT card is manually entered, either for an in-person transaction or an online transaction; and
+(cc)
+to check the enrollment status of the household, including the date on which the household is required to apply for recertification.
+(IV)
+The requirements described in items (aa) and (bb) of subclause (III) shall terminate 5 years after the date on which the regulation promulgated pursuant to that subclause becomes final, unless the Secretary extends that period.
+(V)
+A State may opt to make ineffective the use of the card number printed on the EBT card to complete an online transaction, and require online transactions to occur only in accordance with subclause (III)(aa).
+(VI)
+Not later than 2 years after the date on which the regulations promulgated pursuant to clause (i) become final, States shall begin issuing chip-enabled EBT cards.
+(VII)
+Not later than 4 years after the date on which the regulations promulgated pursuant to clause (i) become final, States may not issue new EBT cards with magnetic stripes.
+(VIII)
+Not later than 5 years after the date on which the regulations promulgated pursuant to clause (i) become final, States shall be required to reissue any existing valid EBT cards with magnetic stripes as chip-enabled EBT cards without magnetic stripes.
+(IX)
+In the case of a chip-enabled EBT card reissued pursuant to any of subclauses (VI) through (VIII), absent suspicion of fraud, as applicable, a State shallâ
+(aa)
+reissue a new chip-enabled EBT card; and
+(bb)
+deactivate the current chip-enabled EBT card on the date that is the earlier ofâ
+(AA)
+the date on which the new chip-enabled EBT card is activated; and
+(BB)
+30 days after the date on which the new chip-enabled EBT card is sent to the household.
+(iii)
+Sunset for requirement to use chip technology
+Under the cybersecurity regulations described in clause (i), all EBT cards issued during the 5-year period following the deadline for carrying out clause (ii)(VIII) shall be chip-enabled, unless the Secretary extends that period.
+(C)
+Reimbursements
+Each State upgrading EBT cards to comply with the regulations promulgated under subparagraph (B)(i) shall receive reimbursement from the Secretary in an amount determined by the Secretary to cover all reasonable costs incurred by the State, includingâ
+(i)
+the 1-time up-front costs paid by the State to card vendors;
+(ii)
+the additional annual fees associated with chip-enabled cards paid by States to card vendors; and
+(iii)
+postage or other delivery-related costs.
+(D)
+Prohibition on password and PIN requirements inconsistent with federal cybersecurity standards
+Beginning 60 days after the date of enactment of this paragraph, a State agency may not require, with respect to a PIN for use of an EBT card or a password for access to an online account or mobile application managing the EBT cardâ
+(i)
+that the PIN or password be periodically changed in circumstances that are prohibited by the NIST PIN and password standards; or
+(ii)
+that the password meet complexity requirements that are prohibited by the NIST PIN and password standards.
+(E)
+Grant program for chip-enabled EBT cards
+(i)
+Definitions
+In this subparagraph:
+(I)
+Administering entity
+The term
+administering entity
+means an entity awarded a grant under clause (ii) to provide subgrants to eligible entities.
+(II)
+Eligible entity
+The term
+eligible entity
+meansâ
+(aa)
+an entity described in paragraph (1) or (3) of section 3(o) thatâ
+(AA)
+is authorized to participate in the supplemental nutrition assistance program under section 9;
+(BB)
+does not have payment terminals that accept chip-enabled EBT cards; and
+(CC)
+is located in an area with limited grocery access, as determined by the Secretary; and
+(bb)
+an entity described in paragraph (2), (4), or (5) of section 3(o) that meets the requirements described in subitems (AA) and (BB) of item (aa).
+(ii)
+Grants
+The Secretary shall establish a grant program to award a grant to an administering entity to provide subgrants to eligible entities to upgrade to chip-compatible payment terminals that support contact and contactless payment card technology.
+(F)
+Data collection
+The Secretary shallâ
+(i)
+collect, and publish on the website of the Department of Agriculture, data onâ
+(I)
+the length of time each user interface offered by each State pursuant to subparagraph (B)(ii)(I) was unavailable for use, including due to technical problems or maintenance needs; and
+(II)
+cybersecurity measures adopted for EBT cards in each State; and
+(ii)
+maintain and annually update the data collected under clause (i) to support States in implementing any regulations promulgated pursuant to subparagraph (B)(i).
+(G)
+Public report
+(i)
+In general
+Not later than 1 year after the date of enactment of this paragraph, and every 2 years thereafter, the Secretary shall submit to the Committees on Appropriations and Agriculture, Nutrition, and Forestry of the Senate and the Committees on Appropriations and Agriculture of the House of Representatives, and make publicly available on the website of the Department of Agriculture, a report thatâ
+(I)
+identifies trends relating to the theft of benefits, including the frequency of theft of benefits and the location of those thefts;
+(II)
+evaluates the effectiveness of existing cybersecurity regulations for the supplemental nutrition assistance program, including identifying ineffective measures and the compliance burden borne by individual benefit recipients;
+(III)
+describes the efforts of Statesâ
+(aa)
+to update cybersecurity measures for EBT cards; and
+(bb)
+to reimburse stolen benefits; and
+(IV)
+examines usability issues of EBT cards, including issues that present barriers to households using benefits or affect fraud prevention goals.
+(ii)
+Restricted annex
+The report under clause (i) may include a nonpublicly available annex containing classified or law enforcement-sensitive information.
+.
+3.
+Ensuring no loss of access to benefits due to EBT card damage, loss, or fraud
+Section 7(h)(7) of the Food and Nutrition Act of 2008 (
+7 U.S.C. 2016(h)(7)
+) is amendedâ
+(1)
+by striking
+Regulations
+and inserting the following:
+(A)
+In general
+Regulations
+; and
+(2)
+by adding at the end the following:
+(B)
+Ensuring no loss of access to benefits due to EBT card damage, loss, or fraud
+Not later than 180 days after the date of enactment of the
+Enhanced Cybersecurity for SNAP Act of 2024
+, the Secretary shall promulgate regulations requiring the following:
+(i)
+If an EBT card is damaged, no longer functions properly, is stolen, or is frozen due to fraud, the applicable State shall take the necessary steps to ensure that the household receives a replacement card, either by mail or in person, as selected by the household, not later than 3 business days after the household submits to the State a request for a replacement EBT card.
+(ii)
+A State shall not require, but shall offer as an option, in-person collection of a new or replacement EBT card.
+.
+4.
+No replacement fees for certain EBT cards
+Section 7(h)(8)(A) of the Food and Nutrition Act of 2008 (
+7 U.S.C. 2016(h)(8)(A)
+) is amendedâ
+(1)
+by striking
+A State agency
+and inserting the following:
+(i)
+In general
+Except as provided in clause (ii), a State agency
+; and
+(2)
+by adding at the end the following:
+(ii)
+Exceptions
+Beginning 60 days after the date of enactment of the
+Enhanced Cybersecurity for SNAP Act of 2024
+, a State agency may not collect a charge under clause (i) if the replacement of the EBT card is due toâ
+(I)
+the EBT card malfunctioning;
+(II)
+suspected or reported fraud relating to that EBT card by an individual outside of the household to which the EBT card belongs;
+(III)
+the expiration of the EBT card; or
+(IV)
+required replacement of the EBT card in compliance with regulations promulgated pursuant to paragraph (15)(B).
+.
+5.
+Requirement for retailer use of chip-enabled payment terminals as a condition of SNAP participation
+Section 9(a) of the Food and Nutrition Act of 2008 (
+7 U.S.C. 2018(a)
+) is amendedâ
+(1)
+in paragraph (2)â
+(A)
+by striking
+(2) The Secretary
+and inserting the following:
+(2)
+Regulations
+The Secretary
+; and
+(B)
+by indenting the margins of subparagraphs (A) and (B) appropriately;
+(2)
+by indenting the margin of paragraph (3) appropriately; and
+(3)
+by adding at the end the following:
+(5)
+Chip-enabled payment terminals
+Beginning not later than 180 days after the date on which the regulations promulgated pursuant to section 7(h)(15)(B)(i) become final, the Secretary shall require retail food stores and wholesale food concerns seeking authorization or reauthorization to accept and redeem benefits under the supplemental nutrition assistance program to have a chip-enabled (as defined in section 7(h)(15)(A)) payment terminal at each retail location of the retail food store or wholesale food concern.
+.
+6.
+Report
+(a)
+In general
+Not later than 1 year after the date of enactment of this Act, the Secretary of Agriculture shall submit to the Committees on Appropriations and Agriculture, Nutrition, and Forestry of the Senate and the Committees on Appropriations and Agriculture of the House of Representatives, and make publicly available on the website of the Department of Agriculture, a report on the security of EBT cards (as defined in section 3 of the Food and Nutrition Act of 2008 (
+7 U.S.C. 2012
+)) issued in the Commonwealth of Puerto Rico, includingâ
+(1)
+the resistance of those EBT cards to cloning; and
+(2)
+if appropriate, recommendations for improving the security of the electronic benefit transfer system against EBT card cloning-based fraud.
+(b)
+Restricted annex
+The report under subsection (a) may include a nonpublicly available annex containing classified or law enforcement-sensitive information.
+7.
+Conforming amendments
+Section 501 of division HH of the Consolidated Appropriations Act, 2023 (
+7 U.S.C. 2016a
+), is amendedâ
+(1)
+in subsection (a)â
+(A)
+by striking paragraphs (1) and (2);
+(B)
+by redesignating paragraphs (3) through (5) as paragraphs (1) through (3), respectively; and
+(C)
+in paragraph (3) (as so redesignated)â
+(i)
+in subparagraph (B), by adding
+and
+at the end;
+(ii)
+by striking subparagraph (C); and
+(iii)
+by redesignating subparagraph (D) as subparagraph (C); and
+(2)
+in subsection (b)â
+(A)
+in paragraph (1)â
+(i)
+in subparagraph (A)(vi), by striking
+measures
+and all that follows through
+(a)(1)
+and inserting
+measures
+;
+(ii)
+in subparagraph (B), by adding
+and
+at the end;
+(iii)
+in subparagraph (C), by striking
+and
+at the end; and
+(iv)
+by striking subparagraph (D); and
+(B)
+in paragraph (3), by striking
+subsection (a)(3)
+and inserting
+subsection (a)(1)
+.
