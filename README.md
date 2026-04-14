@@ -1,4 +1,5 @@
 # nlp-predicting-politics
+
 Predicting Politics and Ideology Final Project with Jack Houck, Brady Johnsen, and Jack Timmermans.
 
 
@@ -14,6 +15,17 @@ The Congressional bill corpus consists of one text file per bill from GovInfo Bu
 ## Data Processing
 
 TODO: Describe data processing steps
+
+
+# TODO:
+
+- Jack H: Finish NER
+- Jack T: Data script
+- Jack T: word map
+- Jack T: Statistical models graphs, word2vec
+- Jack H: CNN
+- Brady: DistillBERT
+- Jack H: Tranformer (Huggingface)
 
 
 # Setup
