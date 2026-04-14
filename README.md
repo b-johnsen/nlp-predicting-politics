@@ -8,11 +8,17 @@ Predicting Politics and Ideology Final Project with Jack Houck, Brady Johnsen, a
 
 # Setup
 1) Clone the repo
+```bash
   git clone https://github.com/b-johnsen/nlp-predicting-politics.git
-2) Install dependencies
+```
+3) Install dependencies (use conda env or venv if preferred)
+```bash
   pip install -r requirements.txt
-  (or use conda env)
-3) Download the spacy language model
+```
+
+5) Download the spacy language model (needed for NER)
+```bash
   python -m spacy download en_core_web_sm
-  (needed for NER)
+```
+
 
