@@ -1,0 +1,712 @@
+1.
+Short title
+This Act may be cited as the
+Computer Science in STEM Act of
+ 
+.
+2.
+Findings
+The   finds the following:
+(1)
+Computer science
+is transforming industry, creating new fields of commerce, driving innovation
+in all fields of science, and bolstering productivity in established economic
+sectors.
+(2)
+Computer science
+underpins the information technology sector of   economy, which
+is a significant contributor to the economic output of  .
+(3)
+  projects that from   through   more than 1,500,000
+high-wage computing jobs will be created in   economy, making
+high-wage computing one of the fastest growing occupational fields.
+(4)
+The breadth of industries requiring
+computing professionals is diverse, two-thirds of computing jobs are in sectors
+other than information technology, including manufacturing, defense, health
+care, finance, and government.
+(5)
+Providing students with computer science
+education in elementary and secondary school is critical for student success in
+  and for strengthening the workforce.
+(6)
+  and secondary computer science
+education gives students a deeper knowledge of the fundamentals of computing,
+yielding critical thinking skills that will serve them throughout their lives
+in numerous fields.
+(7)
+Computer science
+courses in elementary and secondary schools are fading from the national
+landscape at a time when they are most needed.   (CSTA) has found that introductory secondary school computer
+science courses have decreased in number by 17 percent since   and the
+number of   ( ) computer science courses has decreased by 33
+percent.
+(8)
+Significant
+disparities in access to computer science education exist for minorities.
+Research in  , the second largest and one
+of the most diverse school districts in  , found
+college-preparatory computer science courses were commonly missing in schools
+with high numbers of   and   students.
+(9)
+Only 14 States allow computer science
+courses to count toward a studentâs secondary school graduation requirements,
+chilling student interest in computer science courses.
+(10)
+The CSTA has
+found that many   do not have a certification or licensure process for
+computer science teachers, and where certification processes do exist, such
+processes often have no connection to computer science content.
+(11)
+Computer science
+education has been encumbered by confusion regarding the related but distinct
+concepts of computer science education, technology education, and the use of
+technology in education.
+(12)
+Computer science
+education courses have often been placed within the vocational education
+pathways in schools, creating a focus on applied information technology skills
+rather than a focus on developing core computer science knowledge.
+(13)
+With the growing importance of computing in
+society, the need for students to understand the fundamentals of computing, and
+the significant challenges computer science education faces in elementary and
+secondary education, broad support for computer science education is needed to
+catalyze reform.
+3.
+Amendment to the
+America COMPETES Reauthorization Act of  
+Section 2(2) of   of 2010 (
+42 U.S.C. 6621
+note) is amended by inserting
+, and computer science
+after
+and
+mathematics
+.
+4.
+State
+comprehensive planning grants
+(a)
+Program
+authorized
+The Secretary of
+Education shall award grants to   educational agencies to develop
+comprehensive plans to strengthen elementary and secondary computer science
+education in accordance with this section.
+(b)
+ 
+A
+comprehensive plan developed under this section shall outline strategies for
+achieving the following objectives:
+(1)
+Provide an
+engaging and rigorous computer science education intended to ensure students
+are prepared for  .
+(2)
+Assess the Stateâs
+needs for computer science education, particularly for underrepresented
+populations.
+(3)
+Ensure access to
+computer science courses, particularly at low-performing schools and for
+low-income students and students underrepresented in computing.
+(4)
+Ensure that students are exposed to
+grade-appropriate computer science concepts in kindergarten through grade 12
+and that computer science courses at the secondary level are viewed as part of
+the core curriculum students need to be ready for postsecondary education and
+careers.
+(5)
+Ensure that
+teachers have the appropriate background, skills, and access to resources to
+teach computer science.
+(c)
+Contents of
+comprehensive plans
+A  
+educational agency that receives a grant under subsection (a) shall develop a
+comprehensive plan that meets the objectives described in subsection (b) and
+includes the following:
+(1)
+An assessment of
+elementary and secondary computer science education in such  .
+(2)
+Proposals to
+improve elementary and secondary computer science education in such  
+through the development and implementation ofâ
+(A)
+challenging and
+grade-appropriate academic content standards for computer science at elementary
+and secondary education levels;
+(B)
+grade-appropriate
+assessments of computer science learning;
+(C)
+programs to
+increase access to computer science courses for students at low-performing
+schools and students underrepresented in computing;
+(D)
+improved computer science teacher
+certification or licensure requirements and processes;
+(E)
+professional
+development programs for computer science teachers; and
+(F)
+programs for
+ensuring that computer science courses at the secondary level are considered an
+integral part of the curriculum students need to be well prepared for higher
+education and employment.
+(d)
+Consultation
+In
+developing a comprehensive plan under this section, a   educational agency
+shall collaborate with representatives of institutions of higher education,
+with other interested parties, and, where they exist in such  , with  
+Pâ16 or Pâ20 councils.
+(e)
+Duration of
+grants
+The Secretary shall
+award each grant under subsection (a) for a period of  .
+(f)
+Funding
+structure
+(1)
+In
+general
+The Secretary shall
+award grants under subsection (a) proportionally among the   educational
+agencies that apply for grant funding under this section based on the number of
+low-income children served by the   educational agency compared to the
+total number of low-income children served by all of the   educational
+agencies that apply for grant funding under this section.
+(2)
+Counting
+low-income children
+(A)
+Categories of
+children
+The number of low-income children to be counted for
+purposes of this section is the aggregate ofâ
+(i)
+the
+number of children aged  , inclusive, in the   from families below
+the poverty level, as determined by the Secretary on the basis of the most
+recent satisfactory data;
+(ii)
+the
+number of children (determined for either   or for the second
+preceding year, as the Secretary finds appropriate) aged  , inclusive, in
+the   in institutions for neglected and delinquent children (other than
+such institutions operated by  ); and
+(iii)
+the number of
+children aged  , inclusive, in the   from families above the poverty
+level as determined under paragraph (4)(A) of section 1124(c) of the  
+and Secondary Education Act of   (
+20 U.S.C. 6333(c)(4)
+).
+(B)
+Methodology
+In making computations under subparagraph
+(A), the Secretary shall use the methodology described in paragraphs (3)
+through (5) of section 1124(c) of the Elementary and Secondary Education Act of
+  (20 U.S.C.
+6333(c)).
+(3)
+Minimum
+grant
+Notwithstanding paragraph (1), each   educational
+agency approved by the Secretary to receive a grant under this section shall
+receive a minimum grant of $250,000.
+(g)
+Authorization of
+appropriations
+There is
+authorized to be appropriated such sums as necessary, subject to the
+availability of appropriations, to carry out this section.
+5.
+Implementation
+grants
+(a)
+Program
+authorized
+The Secretary
+shall award grants to   educational agencies in accordance with this
+section to implement computer science education improvements proposed in
+comprehensive plans that meet the requirements of subsections (b) and (c) of
+section 4.
+(b)
+ 
+Each
+State educational agency applying for a grant under this section shallâ
+(1)
+develop
+quantifiable benchmarks for the activities supported under such grant, which
+may include benchmarks for increasingâ
+(A)
+student knowledge
+and competency of grade-appropriate computer science concepts;
+(B)
+the number of
+students that take computer science courses;
+(C)
+the diversity of
+students who take computer science courses;
+(D)
+the number of
+students who plan to pursue postsecondary computer science degrees;
+(E)
+the diversity of
+students who plan to pursue postsecondary computer science degrees; and
+(F)
+the number of
+teachers who are certified to teach computer science; and
+(2)
+submit such
+quantifiable benchmarks to the Secretary for approval.
+(c)
+Activities
+Grant
+funds received under this section shall be used by each   educational
+agency for the development and implementation ofâ
+(1)
+challenging and
+grade-appropriate academic content standards for computer science;
+(2)
+grade-appropriate
+assessments of computer science learning;
+(3)
+programs to
+increase access to computer science courses for students at low-performing
+schools and students underrepresented in computing;
+(4)
+improved computer
+science teacher certification requirements and processes;
+(5)
+professional
+development programs for computer science teachers;
+(6)
+programs for ensuring that computer science
+courses at the secondary level are considered an integral part of the
+curriculum students need to be well prepared for higher education and
+employment;
+(7)
+effective computer
+science curricula;
+(8)
+computer science distance learning
+programs; and
+(9)
+such other
+activities that strengthen computer science education and that such State
+educational agency considers appropriate.
+(d)
+Administrative
+expenses
+A   educational agency may use not more than five
+percent of a grant received under this section for administrative
+expenses.
+(e)
+Partnerships
+In performing the activities required under
+subsection (c), each   educational agency shall partner with institutions
+of higher education and local educational agencies, and may partner with
+nonprofit organizations, businesses, and other   educational
+agencies.
+(f)
+ 
+share
+(1)
+In
+general
+Each  
+educational agency receiving a grant under this section shall provide a
+non-Federal share, in cash or in-kind, of the funding for the activities
+described in subsection (c) of not less than 20 percent of the total cost of
+such activities in  .
+(2)
+Financial
+hardship waiver
+The Secretary may reduce or waive the requirement
+to provide a non-Federal share under paragraph (1) for a   educational
+agency if such   educational agency demonstrates a need for such waiver or
+reduction due to extreme financial hardship.
+(g)
+Duration of
+grants
+The Secretary shall
+award each grant under subsection (a) for a period of  .
+(h)
+Subsequent
+grants
+At     period for a grant, the grant
+recipient may apply for an additional grant under this section by submitting an
+updated comprehensive plan that meets the requirements of subsections (b) and
+(c) of section 4. In considering an application for a subsequent grant under
+this section, the Secretary shall take into consideration the reports filed
+under subsection (l).
+(i)
+Competitive
+basis; priority
+The Secretary shallâ
+(1)
+award grants for   on a competitive basis among   educational agencies that meet
+the requirements for funding under this section; and
+(2)
+give priority to
+  educational agency proposals that include an emphasis on serving
+low-performing schools and on increasing participation in computer science by
+students underrepresented in computing.
+(j)
+Funding
+Priority
+In allocating grant funds received under this section, a
+  educational agency shall give priority to proposals that include an
+emphasis on serving low-performing schools and on increasing participation in
+computer science by students underrepresented in computing.
+(k)
+Supplement, not
+supplant
+Funds made available
+to carry out this section shall be used to supplement, and not supplant, other
+  funds available to carry out the activities described in this
+section.
+(l)
+Reports
+Each
+State educational agency receiving a grant under this section shallâ
+(1)
+measure the
+progress of such   educational agency in achieving the benchmarks developed
+under subsection (b)(1);
+(2)
+collect data
+relating to student-related benchmarks developed under subsection (b)(1) in a
+form that is disaggregated by student race, ethnicity, gender, disability
+status, migrant status,   proficiency status, and low-income status,
+except that such disaggregation shall not be required when the number of
+students in a category is insufficient to yield statistically reliable results
+or the results would reveal personally identifiable information about an
+individual student;
+(3)
+collect such other
+performance information as the Secretary may reasonably require for the
+national evaluation conducted under section 6;
+(4)
+submit a report to
+the Secretary addressing each item in paragraphs (1) through (3) not later than
+  after the date on which the   educational agency receives an
+initial grant under this section; and
+(5)
+not later than two
+years after the date of the submission of the report required under paragraph
+(4), and biennially thereafter until the   educational agency no longer
+receives grant funding under this section, submit to the Secretary an update of
+such report.
+(m)
+Guidance
+The
+Secretary shall provide guidance to   educational agencies regarding
+acceptable data sources and methodologies forâ
+(1)
+establishing
+performance benchmarks; and
+(2)
+measuring progress
+by   educational agencies receiving grants under this section.
+6.
+National
+evaluation
+(a)
+In
+general
+Not   after the date of the enactment
+of this Act, the Secretary shall contract with an independent organization for
+a comprehensive, scientifically valid, and quantitative evaluation of the
+performance and effectiveness of the activities funded by grants received under
+this Act in improving the availability and quality of computer science
+education, the overall participation rate of students in computer science
+courses, and the participation rate of students underrepresented in computing
+in computer science courses.
+(b)
+Reporting
+requirements
+(1)
+Initial
+report
+Not   after the date of the enactment of
+this Act, the Secretary shall submit to   a report on the results of the
+evaluation described in subsection (a).
+(2)
+Report
+updates
+Not later than   after the date on which the Secretary submits the report required under
+paragraph (1), and biennially thereafter, the Secretary shall submit to
+  an update of such report.
+7.
+Expanding teacher
+preparation programs for computer science teachers
+(a)
+Subpart
+heading
+Part B of title II of
+the Elementary and Secondary Education Act of   (
+20 U.S.C.   et seq.
+) is
+amended by inserting at the end the following:
+2
+Model Teacher
+Preparation
+Program
+.
+(b)
+Computer science
+model teacher preparation program
+  after the subpart 2
+heading the following:
+ .
+Computer
+science model teacher preparation program
+(a)
+Establishment
+The Secretary is authorized to award grants
+to institutions of higher education to improve training for elementary school
+and secondary school computer science teachers.
+(b)
+Eligibility
+The
+Secretary shall award a grant under this section to an institution of higher
+education thatâ
+(1)
+has, at
+minimumâ
+(A)
+a program in
+teacher education; and
+(B)
+a program in
+computer science or informatics; and
+(2)
+submits an
+application at such time, in such form, and containing such information and
+assurances as the Secretary may require.
+(c)
+Use of
+funds
+An institution of higher education that receives a grant
+under the section shall use the grant funds to carry out not less than one of
+the following activities:
+(1)
+Develop courses
+for undergraduate students thatâ
+(A)
+prepare such
+students to teach computer science in elementary schools and secondary
+schools;
+(B)
+address content
+and pedagogy in informatics or computer science education; and
+(C)
+engage the teacher
+education department and other relevant departments at the institution of
+higher education.
+(2)
+  and fund teacher mentoring programs
+to support elementary school and secondary school computer science teachers who
+are new to the profession.
+(d)
+Duration of
+grants
+Each grant awarded by the Secretary under this section
+shall be for  .
+(e)
+Report
+Not
+  after the conclusion of the grant period described under
+subsection (d), an institution of higher education that receives a grant under
+this section shall submit to the Secretary and   a report thatâ
+(1)
+identifies the number of teachers served
+under the grant;
+(2)
+identifies the number of teachers described
+in paragraph (1) who obtain a teaching position in a computer science
+classroom; and
+(3)
+evaluates the activities carried out under
+this section.
+.
+(c)
+Technical
+amendment
+The table of
+contents for such Act is amended by inserting before the item relating to part
+C of title II the following:
+Subpart 2âModel teacher preparation
+program
+ .  . Computer science model teacher
+preparation
+program.
+.
+8.
+Computer science
+in the   teacher scholarship program
+Section 10 of   of 2002 (
+42 U.S.C. 1862nâ1
+) is amendedâ
+(1)
+by striking
+and mathematics
+and inserting
+mathematics, informatics,
+and computer science
+in each place it appears;
+(2)
+in subsection
+(a)(3)(B), by striking
+or mathematics
+and inserting
+mathematics, informatics, and computer science
+;
+(3)
+in subsections
+(b)(1)(D)(i), (c)(1)(A), (d)(1), and (i)(7) by striking
+or
+mathematics
+in each place it appears and inserting
+mathematics,
+informatics, or computer science
+; and
+(4)
+in subsection (i)(5), by striking
+or
+mathematics
+and inserting
+mathematics, or computer
+science
+.
+9.
+Definitions
+In this Act:
+(1)
+Computer
+science
+The term
+computer science
+means the study of
+computers and algorithmic processes and includes the study of computing
+principles, computer hardware and software design, computer applications, and
+the impact of computers on society.
+(2)
+Computer science
+education
+The term
+computer science education
+includes computing education in any of the following:
+(A)
+Software
+design.
+(B)
+Hardware
+design.
+(C)
+Creation of
+digital artifacts.
+(D)
+Abstraction.
+(E)
+Logic.
+(F)
+ 
+development and implementation.
+(G)
+Programming
+paradigms and languages.
+(H)
+Theoretical
+foundations.
+(I)
+Networks.
+(J)
+Graphics.
+(K)
+Databases and
+information retrieval.
+(L)
+Information
+security and privacy.
+(M)
+Artificial
+intelligence.
+(N)
+The relationship
+between computing and mathematics.
+(O)
+The limits of
+computation.
+(P)
+Applications in
+information technology and information systems.
+(Q)
+The social impacts
+of computing.
+(3)
+Institution of
+higher education
+The term
+institution of higher
+education
+has the meaning given that term in section 101(a) of the
+Higher Education Act of   (
+20 U.S.C. 1001(a)
+).
+(4)
+Local
+educational agency
+The term
+local educational
+agency
+â
+(A)
+subject to
+subparagraph (B), has the meaning given that term in section 9101(26) of the
+Elementary and Secondary Education Act of   (
+20 U.S.C. 7801(26)
+); and
+(B)
+includes any
+charter school (as defined in section 5210(1) of the   and Secondary
+Education Act of   (
+20 U.S.C. 7221i(1)
+)) that
+constitutes a local educational agency under   law.
+(5)
+Secretary
+The
+term
+Secretary
+means the Secretary of  .
+(6)
+State
+educational agency
+The term
+  educational agency
+has the meaning given that term in section 9101(41) of the   and
+Secondary Education Act of   (
+20 U.S.C. 7801(41)
+).
+(7)
+Students
+underrepresented in computing
+The term
+students
+underrepresented in computing
+â
+(A)
+means populations
+historically underrepresented in computer science disciplines; and
+(B)
+includes females,
+racial minorities, and low-income students.
