@@ -1,0 +1,167 @@
+Executive Order  —Structural Reforms To Improve the Security of Classified Networks and the Responsible Sharing and Safeguarding of Classified Information
+ 
+ 
+
+By the authority vested in me as President by the Constitution and the laws of   and in order to ensure the responsible sharing and safeguarding of classified national security information (classified information) on computer networks, it is hereby ordered as follows:
+
+Section 1.
+
+Policy.
+
+Our Nation's security requires classified information to be shared immediately with authorized users around the world but also requires sophisticated and vigilant means to ensure it is shared securely. Computer networks have individual and common vulnerabilities that require coordinated decisions on risk management.
+
+This order directs structural reforms to ensure responsible sharing and safeguarding of classified information on computer networks that shall be consistent with appropriate protections for privacy and civil liberties. Agencies bear the primary responsibility for meeting these twin goals. These structural reforms will ensure coordinated interagency development and reliable implementation of policies and minimum standards regarding information security, personnel security, and systems security; address both internal and external security threats and vulnerabilities; and provide policies and minimum standards for sharing classified information both within and outside  . These policies and minimum standards will address all agencies that operate or access classified computer networks, all users of classified computer networks (including contractors and others who operate or access classified computer networks controlled by  ), and all classified information on those networks.
+
+ . 2.
+
+General Responsibilities of Agencies.
+
+ . 2.1.
+
+The heads of agencies that operate or access classified computer networks shall have responsibility for appropriately sharing and safeguarding classified information on computer networks. As part of this responsibility, they shall:
+
+(a) designate a senior official to be charged with overseeing classified information sharing and safeguarding efforts for the agency;
+
+(b) implement an insider threat detection and prevention program consistent with guidance and standards developed by   established in section 6 of this order;
+
+(c) perform self-assessments of compliance with policies and standards issued pursuant to sections 3.3, 5.2, and 6.3 of this order, as well as other applicable policies and standards, the results of which shall be reported   to the Senior Information Sharing and   established in section 3 of this order;
+
+(d) provide information and access, as warranted and consistent with law and section 7(d) of this order, to enable independent assessments by the Executive Agent for   and   of compliance with relevant established policies and standards; and
+
+(e) detail or assign staff as appropriate and necessary to   and   on an ongoing basis.
+
+ . 3.
+
+Senior Information Sharing and Safeguarding Steering Committee.
+
+ . 3.1.
+
+There is established a Senior Information Sharing and   (Steering Committee) to exercise overall responsibility and ensure senior-level accountability for the coordinated interagency development and implementation of policies and standards regarding the sharing and safeguarding of classified information on computer networks.
+
+ . 3.2.
+
+The   shall be co-chaired by senior representatives of   and  . Members of the committee shall be officers of   as designated by the heads of    , Justice,  , and  ,  ,  , and   within   (ISOO), as well as such additional agencies as the co-chairs of   may designate.
+
+ . 3.3.
+
+The responsibilities of the   shall include:
+
+(a) establishing Government-wide classified information sharing and safeguarding goals and   reviewing executive branch successes and shortcomings in achieving those goals;
+
+(b) preparing within   of the date of this order and at least annually thereafter, a report for the President assessing the executive branch's successes and shortcomings in sharing and safeguarding classified information on computer networks and discussing potential future vulnerabilities;
+
+(c) developing program and budget recommendations to achieve Government-wide classified information sharing and safeguarding goals;
+
+(d) coordinating the interagency development and implementation of priorities, policies, and standards for sharing and safeguarding classified information on computer networks;
+
+(e) recommending overarching policies, when appropriate, for promulgation by   or the ISOO;
+
+(f) coordinating efforts by agencies, the Executive Agent, and   to assess compliance with established policies and standards and recommending corrective actions needed to ensure compliance;
+
+(g) providing overall mission guidance for the   Manager-Information Sharing Environment (PM-ISE) with respect to the functions to be performed by   established in section 4 of this order; and
+
+(h) referring policy and compliance issues that cannot be resolved by   to     in accordance with Presidential Policy Directive/PPD-1 of   ( ).
+
+ . 4.
+
+Classified Information Sharing and Safeguarding Office.
+
+ . 4.1.
+
+There shall be established a Classified Information Sharing and Safeguarding Office (CISSO) within and subordinate to the office of the PM-ISE to provide expert, full-time, sustained focus on responsible sharing and safeguarding of classified information on computer networks. Staff of the   shall include detailees, as needed and appropriate, from agencies represented on  .
+
+ . 4.2.
+
+The responsibilities of CISSO shall include:
+
+(a) providing staff support for  ;
+
+(b) advising the Executive Agent for   and   on the development of an effective program to monitor compliance with established policies and standards needed to achieve classified information sharing and safeguarding goals; and
+
+(c) consulting with    , and  , the ISOO,  , and others, as appropriate, to ensure consistency with policies and standards under Executive Order  , Executive Order  , as amended, Executive Order   of  , and Executive Order   of  .
+
+ . 5.
+
+Executive Agent for  .
+
+ . 5.1.
+
+The Secretary of   and the Director,  , shall jointly act as the Executive Agent for   (the "Executive Agent"), exercising the existing authorities of the Executive Agent and National Manager for national security systems, respectively, under   of  , as supplemented by and subject to this order.
+
+ . 5.2.
+
+The Executive Agent's responsibilities, in addition to those specified by  , shall include the following:
+
+(a) developing effective technical safeguarding policies and standards in coordination with   (CNSS), as re-designated by Executive Orders  , and   of  , that address the safeguarding of classified information within national security systems, as well as the safeguarding of national security systems themselves;
+
+(b) referring to   for resolution any unresolved issues delaying the Executive Agent's timely development and issuance of technical policies and standards;
+
+(c) reporting at least annually to   on the work of  , including recommendations for any changes needed to improve the timeliness and effectiveness of that work; and
+
+(d) conducting independent assessments of agency compliance with established safeguarding policies and standards, and reporting the results of such assessments to  .
+
+ . 6.
+
+Insider Threat Task Force.
+
+ . 6.1.
+
+There is established an interagency   that shall develop a Government-wide program (insider threat program) for deterring, detecting, and mitigating insider threats, including the safeguarding of classified information from exploitation, compromise, or other unauthorized disclosure, taking into account risk levels, as well as the distinct needs, missions, and systems of individual agencies. This program shall include development of policies, objectives, and priorities for establishing and integrating security, counterintelligence, user audits and monitoring, and other safeguarding capabilities and practices within agencies.
+
+ . 6.2.
+
+The Task Force shall be co-chaired by the Attorney General and the Director of  , or their designees. Membership on the Task Force shall be composed of officers of   from, and designated by the heads of,  ,  , Justice,  , and  ,  ,  , and the ISOO, as well as such additional agencies as the co-chairs of   may designate. It shall be staffed by personnel from   and   (ONCIX), and other agencies, as determined by the co-chairs for their respective agencies and to the extent permitted by law. Such personnel must be officers or full-time or permanent part-time employees of  . To the extent permitted by law, ONCIX shall provide an appropriate work site and administrative support for  .
+
+ . 6.3.
+
+  responsibilities shall include the following:
+
+(a) developing, in coordination with the Executive Agent, a Government-wide policy for the deterrence, detection, and mitigation of insider threats, which shall be submitted to   for appropriate review;
+
+(b) in coordination with appropriate agencies, developing minimum standards and guidance for implementation of the insider threat program's Government-wide policy and, within   of the date of this order, issuing those minimum standards and guidance, which shall be binding on the executive branch;
+
+(c) if sufficient appropriations or authorizations are obtained, continuing in coordination with appropriate agencies after   from the date of this order to add to or modify those minimum standards and guidance, as appropriate;
+
+(d) if sufficient appropriations or authorizations are not obtained, recommending for promulgation by   or the ISOO any additional or modified minimum standards and guidance developed   after the date of this order;
+
+(e) referring to   for resolution any unresolved issues delaying the timely development and issuance of minimum standards;
+
+(f) conducting, in accordance with procedures to be developed by  , independent assessments of the adequacy of agency programs to implement established policies and minimum standards, and reporting the results of such assessments to  ;
+
+(g) providing assistance to agencies, as requested, including through the dissemination of best practices; and
+
+(h) providing analysis of new and continuing insider threat challenges facing  .
+
+ . 7.
+
+General Provisions.
+
+(a) For the purposes of this order, the word "agencies" shall have the meaning set forth in section 6.1(b) of Executive Order  .
+
+(b) Nothing in this order shall be construed to change the requirements of Executive Orders     of     of     of  ,  ,   of  , and their successor orders and directives.
+
+(c) Nothing in this order shall be construed to supersede or change the authorities of the Secretary of Energy or   under the Atomic Energy Act of  , as amended; the Secretary of   under Executive Order  , as amended; the Secretary of   under Executive Order  ; the Secretary of   under title  , United States Code, and the Omnibus Diplomatic Security and Antiterrorism Act of  ; the Director of ISOO under Executive Orders  , as amended; the PM-ISE under Executive Order   or   of  , as amended; the Director,   under NSD-42 and Executive Order  , as amended;  , under the Counterintelligence Enhancement Act of  ; or the Director of   under the National Security Act of  , as amended,   of  , as amended,  , and Executive Orders  , as amended,  , as amended,  , as amended,  , and  .
+
+(d) Nothing in this order shall authorize  , CISSO, CNSS, or   to examine the facilities or systems of other agencies, without advance consultation with the head of such agency, nor to collect information for any purpose not provided herein.
+
+(e) The entities created and the activities directed by this order shall not seek to deter, detect, or mitigate disclosures of information by Government employees or contractors that are lawful under and protected by   of  , Whistleblower Protection Act of  , Inspector General Act of  , or similar statutes, regulations, or policies.
+
+(f) With respect to  , the Director of  , after consultation with the heads of affected agencies, may issue such policy directives and guidance as the Director of   deems necessary to implement this order.
+
+(g) Nothing in this order shall be construed to impair or otherwise affect:
+
+(1) the authority granted by law to an agency, or the head thereof; or
+
+(2) the functions of the Director of   relating to budgetary, administrative, or legislative proposals.
+
+(h) This order shall be implemented consistent with applicable law and appropriate protections for privacy and civil liberties, and subject to the availability of appropriations.
+
+(i) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against  , its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+ 
+
+ ,
+
+ .
+
+NOTE: This Executive order was published in  on  .

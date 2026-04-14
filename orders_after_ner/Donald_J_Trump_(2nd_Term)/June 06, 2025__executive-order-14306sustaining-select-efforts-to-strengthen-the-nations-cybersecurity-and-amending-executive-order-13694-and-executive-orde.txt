@@ -1,0 +1,128 @@
+Executive Order  —Sustaining Select Efforts To Strengthen the Nation's Cybersecurity and Amending Executive Order   and Executive Order  
+  (2nd Term)
+
+By the authority vested in me as President by the Constitution and the laws of  , including   (50 U.S.C.  
+
+et seq
+
+.),   (50 U.S.C.  
+
+et seq
+
+.), section 212(f) of   1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code, it is hereby ordered:
+
+Section 1. Amendments to Executive Order  
+
+. Executive Order   of   (Strengthening and Promoting Innovation in the Nation's Cybersecurity), is hereby amended by:
+
+(a) striking subsections 2(a)–(b) and redesignating subsections 2(c), 2(d), and 2(e) as subsections 2(a), 2(b), and 2(c), respectively;
+
+(b) striking the first sentence of subsection 2(e);
+
+(c) striking subsections 3(a)–(b) and redesignating subsections 3(c), 3(d), and 3(e) as subsections 3(a), 3(b), and 3(c), respectively;
+
+(d) striking from subsection 3(c) the phrase "In Executive Order  , I directed the Secretary of   and the Secretary of   to establish procedures to immediately share threat information to strengthen the collective defense of   and civilian networks.";
+
+(e) striking from subsection 3(c)(i)(A) the word "novel";
+
+(f) striking subsection  );
+
+(g) striking subsections 4(d)(ii)–(iii);
+
+(h) striking section 5 and redesignating sections 6,  ,  ,  ,  , and 11 as sections 5,  ,  ,  ,  , and 10, respectively; and
+
+(i) striking from subsection 8(c) the phrase "in the areas of intrusion detection, use of hardware roots of trust for secure booting, and development and deployment of security patches.".
+
+ . 2. Further Amendments to Executive Order  
+
+. Executive   is hereby amended by:
+
+(a) striking section 1 and inserting, in lieu thereof, the following:
+
+"
+
+Section 1. Policy
+
+. Foreign nations and criminals continue to conduct cyber campaigns targeting   and  .   presents the most active and persistent cyber threat to  , private sector, and critical infrastructure networks, but significant threats also emanate from  ,  ,  , and others who undermine   cybersecurity. These campaigns disrupt the delivery of critical services across the  , cost billions of dollars, and undermine  ' security and privacy. More must be done to improve the  's cybersecurity against these threats. I am ordering additional actions to improve our  's cybersecurity, focusing on defending our digital infrastructure, securing the services and capabilities most vital to the digital domain, and building our capability to address key threats.";
+
+(b) striking subsection 2(c) and inserting, in lieu thereof, the following:
+
+"(c) Relevant executive departments and agencies (agencies) shall take the following actions:
+
+(i) By  , the Secretary of  , acting through the Director of NIST, shall establish a consortium with industry at   to develop guidance, informed by the consortium as appropriate, that demonstrates the implementation of secure software development, security, and operations practices based on NIST Special Publication 800–218 (Secure Software Development Framework (SSDF)).
+
+(ii) By  , the Secretary of  , acting through the Director of NIST, shall update NIST Special Publication 800–53 (Security and Privacy Controls for Information Systems and Organizations) to provide guidance on how to securely and reliably deploy patches and updates.
+
+(iii) By  , the Secretary of  , acting through the Director of  , in consultation with the heads of such agencies as the Director of NIST deems appropriate, shall develop and publish a preliminary update to the SSDF. This preliminary update shall include practices, procedures, controls, and implementation examples regarding the secure and reliable development and delivery of software as well as the security of the software itself. Within   of publishing the preliminary update, the Secretary of  , acting through the Director of NIST, shall publish a final version of the updated  .";
+
+(c) striking from subsection 4(b) the phrase "The security of Internet traffic depends on data being correctly routed and delivered to the intended recipient network. Routing information originated and propagated across the Internet, utilizing the Border Gateway Protocol ( ), is vulnerable to attack and misconfiguration." and inserting, in lieu thereof, the following:
+
+"Relevant agencies shall take the following actions:";
+
+(d) striking subsection 4(f) and inserting, in lieu thereof, the following:
+
+"(f) A quantum computer of sufficient size and sophistication—also known as a cryptanalytically relevant quantum computer (CRQC)—will be capable of breaking much of the public-key cryptography used on digital systems across   and around the world.   Memorandum 10 of   (  States Leadership in Quantum Computing While Mitigating Risks to Vulnerable Cryptographic Systems), directed   to prepare for a transition to cryptographic algorithms that would not be vulnerable to a CRQC.
+
+(i) By  , the Secretary of  , acting through the Director of   (CISA), and in consultation with the Director of  , shall release and thereafter regularly update a list of product categories in which products that support post-quantum cryptography ( ) are widely available.
+
+(ii) By  , to prepare for transition to  , the Director of   with respect to   ( ), and the Director of OMB with respect to  , shall each issue requirements for agencies to support, as soon as practicable, but not   January 2,  ,   protocol version 1.3 or a successor version.";
+
+(e) striking former section 6 (newly designated section 5) and inserting, in lieu thereof, the following:
+
+"
+
+Sec. 5. Promoting Security with and in  
+
+. Artificial intelligence (AI) has the potential to transform cyber defense by rapidly identifying vulnerabilities, increasing the scale of threat detection techniques, and automating cyber defense.
+
+(a) By  , the Secretary of  , acting through the Director of  ; the Secretary of  ; the Secretary of  , acting through the Under Secretary for  ; and the Director of   shall ensure that existing datasets for cyber defense research have been made accessible to the broader academic research community (either securely or publicly) to the maximum extent feasible, in consideration of business confidentiality and national security.
+
+(b) By  , the Secretary of  , the Secretary of  , and the Director of  , in coordination with appropriate officials within   of the President, to include officials within  ,  , and the Director of OMB, shall incorporate management of   software vulnerabilities and compromises into their respective agencies' existing processes and interagency coordination mechanisms for vulnerability management, including through incident tracking, response, and reporting, and by sharing indicators of compromise for   systems.";
+
+(f) striking section 7 and inserting, in lieu thereof, the following:
+
+"
+
+Sec. 7. Aligning Policy to Practice
+
+. Agencies' policies must align investments and priorities to improve network visibility and security controls to reduce cyber risks. In consultation with the National Cyber Director, agencies shall take the following actions:
+
+(a) Within   of this order, the Director of OMB shall issue guidance, including any necessary revision to OMB Circular A–130, to address critical risks and adapt modern practices and architectures across Federal information systems and networks.
+
+(b) Within   of this order, the Secretary of  , acting through the Director of  ; the Secretary of  , acting through the Director of CISA; and the Director of OMB shall establish a pilot program of a rules-as- code approach for machine-readable versions of policy and guidance that OMB,  , and   publish and manage regarding cybersecurity.
+
+(c) Within   of this order, agency members of the FAR Council shall, as appropriate and consistent with applicable law, jointly take steps to amend the FAR to adopt requirements for agencies to, by  , require vendors to   of consumer Internet-of-Things products, as defined by 47 CFR 8.203(b), to carry   labeling for those products."; and
+
+(g) striking subsection 8(a) and inserting, in lieu thereof, the following:
+
+"(a) Except as specifically provided for in subsection 4(f) of this order, sections 1 through 7 of this order shall not apply to Federal information systems that are   or are otherwise identified by   or   as debilitating impact systems.".
+
+ . 3. Amendments to Executive Order  
+
+. Executive Order   of   (Blocking   in Significant Malicious Cyber-Enabled Activities), as amended by Executive Order   of   (Taking Additional Steps to Address the National Emergency With Respect to Significant Malicious Cyber-Enabled Activities), Executive Order 13984 of   (  the National Emergency With Respect to Significant Malicious Cyber-Enabled Activities), and Executive Order  , is hereby further amended by:
+
+(a) striking from subsection 1(a)(ii) the phrase "any person" and inserting in lieu thereof "any foreign person"; and
+
+(b) striking from subsection 1(a)(iii) the phrase "any person" and inserting in lieu thereof "any foreign person.".
+
+ . 4. General Provisions
+
+. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against  , its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The costs for publication of this order shall be borne by  .
+
+ 
+
+ ,
+
+ .
+
+NOTE: This Executive order was published in  on  .
