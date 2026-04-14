@@ -32,7 +32,7 @@ def load_text_dataset(folder_0, folder_1):
     return df
 
 def main():
-  folder = Path("/Users/jacktimmermans/Documents/BC Spring 2026/NLP/nlp-predicting-politics/scripts/statistical modeling scripts/word2veceomodel")
+  folder = Path("nlp-predicting-politics/scripts/statistical modeling scripts/word2veceomodel")
   os.makedirs(folder, exist_ok=True)
 
   train_path = Path("nlp-predicting-politics/clean_data/clean_eo_split/train")
