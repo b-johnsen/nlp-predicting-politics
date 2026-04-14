@@ -3,7 +3,7 @@
 
 The script selects a subset of presidents from two in-script lists
 (`DEMOCRAT_PRESIDENT_DIRS` and `REPUBLICAN_PRESIDENT_DIRS`), cleans each
-document to body text using the same cleaner as `clean_executive_orders.py`,
+document to body text using an inlined body-text cleaner,
 and writes an NLP-friendly directory layout:
 
     <output_dir>/train/<label>/<president_dir>/<file>.txt
@@ -27,8 +27,6 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 
-from clean_executive_orders import clean_executive_order_text
-
 INPUT_DIR_DEFAULT = Path("all_executive_orders_txt_clean")
 OUTPUT_DIR_DEFAULT = Path("eo_labeled_split")
 TRAIN_RATIO_DEFAULT = 0.8
@@ -46,6 +44,204 @@ LEADING_DATELINE_RE = re.compile(
     r"^\s*[A-Z][A-Z\-'. ]+,\s*(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\.?\s*$"
 )
 TRAILING_SOURCE_RE = re.compile(r"^\s*SOURCE\s*:\s*", re.IGNORECASE)
+
+# Core body-cleaning patterns migrated from the former clean_executive_orders.py.
+HEADER_AUTHORITY_RE = re.compile(r"^\s*By the authority vested in me\b", re.IGNORECASE)
+HEADER_SECTION_RE = re.compile(
+    r"^\s*(Section|Sec\.?|Part)\s+[0-9IVXLC]+\b", re.IGNORECASE
+)
+HEADER_CORRECTION_RE = re.compile(r"^\s*Correction\s*$", re.IGNORECASE)
+HEADER_PRES_DOC_RE = re.compile(r"^\s*In Presidential document\b", re.IGNORECASE)
+
+HEADER_TITLE3_RE = re.compile(r"^\s*Title\s+3\b", re.IGNORECASE)
+HEADER_PRESIDENT_RE = re.compile(r"^\s*The President\s*$", re.IGNORECASE)
+HEADER_EXEC_ORDER_RE = re.compile(r"^\s*Executive Order\s+\d+", re.IGNORECASE)
+
+FOOTER_WHITE_HOUSE_RE = re.compile(r"^\s*THE WHITE HOUSE,?\s*$", re.IGNORECASE)
+FOOTER_FR_DOC_RE = re.compile(r"^\s*\[?\s*FR Doc\.", re.IGNORECASE)
+FOOTER_FILED_RE = re.compile(r"^\s*Filed\s+\d", re.IGNORECASE)
+FOOTER_BILLING_RE = re.compile(r"^\s*Billing\s+code\b", re.IGNORECASE)
+FOOTER_EPS_RE = re.compile(r"^\s*[A-Za-z0-9#._-]+\.EPS\s*$")
+FOOTER_SIGNATURE_RE = re.compile(r"^\s*[A-Za-z]{1,4}[.#]?\s*$")
+
+
+def _is_noise_separator_line(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped:
+        return False
+    if len(stripped) <= 12 and all(ord(ch) > 127 for ch in stripped):
+        return True
+    if any(ch.isalnum() for ch in stripped):
+        return False
+    return len(stripped) <= 12
+
+
+def _find_body_start(lines: list[str]) -> int:
+    if not lines:
+        return 0
+
+    search_limit = min(len(lines), 160)
+
+    body_anchors: list[int] = []
+    for i in range(search_limit):
+        line = lines[i]
+        if (
+            HEADER_AUTHORITY_RE.match(line)
+            or HEADER_SECTION_RE.match(line)
+            or HEADER_CORRECTION_RE.match(line)
+            or HEADER_PRES_DOC_RE.match(line)
+        ):
+            body_anchors.append(i)
+
+    if body_anchors:
+        return min(body_anchors)
+
+    # Conservative fallback for files that only contain EO header metadata.
+    has_header_shape = any(
+        HEADER_TITLE3_RE.match(lines[i])
+        or HEADER_PRESIDENT_RE.match(lines[i])
+        or HEADER_EXEC_ORDER_RE.match(lines[i])
+        for i in range(min(search_limit, 12))
+    )
+    if not has_header_shape:
+        return 0
+
+    i = 0
+    while i < search_limit and not lines[i].strip():
+        i += 1
+
+    while i < search_limit and (
+        HEADER_TITLE3_RE.match(lines[i])
+        or HEADER_PRESIDENT_RE.match(lines[i])
+        or HEADER_EXEC_ORDER_RE.match(lines[i])
+    ):
+        i += 1
+
+    while i < search_limit and not lines[i].strip():
+        i += 1
+
+    # Skip one likely subject/title line (e.g., EO name) when no stronger anchor exists.
+    if i < search_limit:
+        i += 1
+
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+
+    return min(i, len(lines))
+
+
+def _is_footer_marker(line: str) -> bool:
+    return bool(
+        FOOTER_WHITE_HOUSE_RE.match(line)
+        or FOOTER_FR_DOC_RE.match(line)
+        or FOOTER_BILLING_RE.match(line)
+        or FOOTER_EPS_RE.match(line)
+    )
+
+
+def _trim_footer(lines: list[str]) -> list[str]:
+    if not lines:
+        return lines
+
+    end = len(lines)
+    while end > 0 and not lines[end - 1].strip():
+        end -= 1
+
+    if end == 0:
+        return []
+
+    tail_start = max(0, end - 100)
+    cut_index: int | None = None
+    for i in range(tail_start, end):
+        if _is_footer_marker(lines[i]):
+            cut_index = i
+            break
+
+    if cut_index is not None:
+        # Remove nearby signature initials directly above the footer marker.
+        while cut_index > 0:
+            prev = lines[cut_index - 1].strip()
+            if not prev:
+                cut_index -= 1
+                continue
+            if FOOTER_SIGNATURE_RE.match(prev):
+                cut_index -= 1
+                continue
+            if _is_noise_separator_line(prev):
+                cut_index -= 1
+                continue
+            break
+        end = cut_index
+    else:
+        while end > 0:
+            line = lines[end - 1]
+            if not line.strip():
+                end -= 1
+                continue
+            if (
+                FOOTER_FILED_RE.match(line)
+                or FOOTER_BILLING_RE.match(line)
+                or FOOTER_FR_DOC_RE.match(line)
+                or FOOTER_EPS_RE.match(line)
+                or _is_noise_separator_line(line)
+            ):
+                end -= 1
+                continue
+            break
+
+    while end > 0 and not lines[end - 1].strip():
+        end -= 1
+
+    while end > 0 and _is_noise_separator_line(lines[end - 1]):
+        end -= 1
+
+    return lines[:end]
+
+
+def _trim_leading_authority_preamble(lines: list[str]) -> list[str]:
+    if not lines:
+        return lines
+
+    i = 0
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+
+    if i >= len(lines) or not HEADER_AUTHORITY_RE.match(lines[i]):
+        return lines
+
+    j = i + 1
+    while j < len(lines):
+        line = lines[j]
+        if (
+            HEADER_SECTION_RE.match(line)
+            or HEADER_CORRECTION_RE.match(line)
+            or HEADER_PRES_DOC_RE.match(line)
+        ):
+            return lines[j:]
+        j += 1
+
+    # Fallback: if no clear body anchor is found, remove only the authority line.
+    trimmed = lines[:i] + lines[i + 1 :]
+    while trimmed and not trimmed[0].strip():
+        trimmed = trimmed[1:]
+    return trimmed
+
+
+def clean_executive_order_text(text: str) -> str:
+    lines = text.splitlines()
+    if not lines:
+        return ""
+
+    start = _find_body_start(lines)
+    body_lines = lines[start:]
+    body_lines = _trim_leading_authority_preamble(body_lines)
+    body_lines = _trim_footer(body_lines)
+
+    if not body_lines:
+        return "\n".join(lines).strip()
+
+    return "\n".join(body_lines).strip()
+
 
 # Edit these lists to control which president directories are included.
 DEMOCRAT_PRESIDENT_DIRS = [
