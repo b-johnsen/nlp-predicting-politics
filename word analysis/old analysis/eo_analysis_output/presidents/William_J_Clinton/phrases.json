@@ -1,0 +1,530 @@
+{
+  "president": "William_J_Clinton",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "agency",
+      1763
+    ],
+    [
+      "sec",
+      1521
+    ],
+    [
+      "agencies",
+      1322
+    ],
+    [
+      "secretary",
+      1141
+    ],
+    [
+      "information",
+      1121
+    ],
+    [
+      "national",
+      861
+    ],
+    [
+      "usc",
+      777
+    ],
+    [
+      "william",
+      757
+    ],
+    [
+      "clinton",
+      756
+    ],
+    [
+      "amended",
+      715
+    ],
+    [
+      "department",
+      703
+    ],
+    [
+      "office",
+      682
+    ],
+    [
+      "appropriate",
+      632
+    ],
+    [
+      "committee",
+      617
+    ],
+    [
+      "management",
+      588
+    ],
+    [
+      "public",
+      557
+    ],
+    [
+      "council",
+      550
+    ],
+    [
+      "services",
+      549
+    ],
+    [
+      "policy",
+      517
+    ],
+    [
+      "provide",
+      513
+    ],
+    [
+      "state",
+      512
+    ],
+    [
+      "general",
+      472
+    ],
+    [
+      "person",
+      469
+    ],
+    [
+      "extent",
+      463
+    ],
+    [
+      "review",
+      461
+    ],
+    [
+      "follows",
+      460
+    ],
+    [
+      "use",
+      449
+    ],
+    [
+      "laws",
+      448
+    ],
+    [
+      "house",
+      434
+    ],
+    [
+      "white",
+      430
+    ],
+    [
+      "programs",
+      430
+    ],
+    [
+      "report",
+      429
+    ],
+    [
+      "commission",
+      421
+    ],
+    [
+      "energy",
+      417
+    ],
+    [
+      "board",
+      417
+    ],
+    [
+      "vested",
+      411
+    ],
+    [
+      "defense",
+      411
+    ],
+    [
+      "members",
+      409
+    ],
+    [
+      "date",
+      405
+    ],
+    [
+      "security",
+      398
+    ],
+    [
+      "regulations",
+      389
+    ],
+    [
+      "environmental",
+      381
+    ],
+    [
+      "constitution",
+      377
+    ],
+    [
+      "director",
+      377
+    ],
+    [
+      "means",
+      375
+    ],
+    [
+      "employees",
+      374
+    ],
+    [
+      "development",
+      367
+    ],
+    [
+      "health",
+      354
+    ],
+    [
+      "activities",
+      340
+    ],
+    [
+      "established",
+      337
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "william clinton",
+      753
+    ],
+    [
+      "white house",
+      425
+    ],
+    [
+      "vested constitution",
+      360
+    ],
+    [
+      "clinton white",
+      360
+    ],
+    [
+      "constitution laws",
+      359
+    ],
+    [
+      "clinton vested",
+      318
+    ],
+    [
+      "task force",
+      255
+    ],
+    [
+      "filed office",
+      240
+    ],
+    [
+      "office register",
+      240
+    ],
+    [
+      "ordered follows",
+      238
+    ],
+    [
+      "advisory committee",
+      208
+    ],
+    [
+      "national security",
+      202
+    ],
+    [
+      "departments agencies",
+      182
+    ],
+    [
+      "extent permitted",
+      176
+    ],
+    [
+      "usc seq",
+      173
+    ],
+    [
+      "department agency",
+      172
+    ],
+    [
+      "classified information",
+      158
+    ],
+    [
+      "amended usc",
+      155
+    ],
+    [
+      "state local",
+      148
+    ],
+    [
+      "read follows",
+      143
+    ],
+    [
+      "substantive procedural",
+      142
+    ],
+    [
+      "secretary state",
+      140
+    ],
+    [
+      "office management",
+      136
+    ],
+    [
+      "management budget",
+      136
+    ],
+    [
+      "right benefit",
+      136
+    ],
+    [
+      "create right",
+      135
+    ],
+    [
+      "procedural enforceable",
+      135
+    ],
+    [
+      "secretary defense",
+      133
+    ],
+    [
+      "secretary treasury",
+      133
+    ],
+    [
+      "military judge",
+      132
+    ],
+    [
+      "director office",
+      127
+    ],
+    [
+      "party agencies",
+      126
+    ],
+    [
+      "effective date",
+      119
+    ],
+    [
+      "amended read",
+      114
+    ],
+    [
+      "attorney general",
+      113
+    ],
+    [
+      "benefit substantive",
+      103
+    ],
+    [
+      "health human",
+      99
+    ],
+    [
+      "working group",
+      99
+    ],
+    [
+      "officers employees",
+      98
+    ],
+    [
+      "judicial review",
+      98
+    ],
+    [
+      "human services",
+      97
+    ],
+    [
+      "agency head",
+      96
+    ],
+    [
+      "enforceable party",
+      91
+    ],
+    [
+      "extent practicable",
+      90
+    ],
+    [
+      "general services",
+      89
+    ],
+    [
+      "department defense",
+      86
+    ],
+    [
+      "usc app",
+      80
+    ],
+    [
+      "person william",
+      79
+    ],
+    [
+      "committee amended",
+      79
+    ],
+    [
+      "rcm amended",
+      79
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "clinton white house",
+      360
+    ],
+    [
+      "vested constitution laws",
+      359
+    ],
+    [
+      "william clinton white",
+      358
+    ],
+    [
+      "william clinton vested",
+      317
+    ],
+    [
+      "clinton vested constitution",
+      317
+    ],
+    [
+      "filed office register",
+      240
+    ],
+    [
+      "office management budget",
+      136
+    ],
+    [
+      "substantive procedural enforceable",
+      135
+    ],
+    [
+      "create right benefit",
+      124
+    ],
+    [
+      "amended read follows",
+      110
+    ],
+    [
+      "right benefit substantive",
+      103
+    ],
+    [
+      "benefit substantive procedural",
+      103
+    ],
+    [
+      "health human services",
+      97
+    ],
+    [
+      "procedural enforceable party",
+      91
+    ],
+    [
+      "enforceable party agencies",
+      85
+    ],
+    [
+      "director office management",
+      80
+    ],
+    [
+      "person william clinton",
+      79
+    ],
+    [
+      "advisory committee amended",
+      79
+    ],
+    [
+      "officers employees person",
+      77
+    ],
+    [
+      "amended usc app",
+      68
+    ],
+    [
+      "party agencies officers",
+      66
+    ],
+    [
+      "administrator general services",
+      62
+    ],
+    [
+      "sec judicial review",
+      61
+    ],
+    [
+      "committee amended usc",
+      60
+    ],
+    [
+      "office personnel management",
+      60
+    ],
+    [
+      "housing urban development",
+      60
+    ],
+    [
+      "intended improve internal",
+      59
+    ],
+    [
+      "improve internal management",
+      59
+    ],
+    [
+      "access classified information",
+      59
+    ],
+    [
+      "party agencies instrumentalities",
+      58
+    ]
+  ]
+}

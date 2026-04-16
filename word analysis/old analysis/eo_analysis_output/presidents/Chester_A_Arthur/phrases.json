@@ -1,0 +1,530 @@
+{
+  "president": "Chester_A_Arthur",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "thence",
+      157
+    ],
+    [
+      "service",
+      156
+    ],
+    [
+      "chester",
+      138
+    ],
+    [
+      "arthur",
+      138
+    ],
+    [
+      "south",
+      121
+    ],
+    [
+      "east",
+      117
+    ],
+    [
+      "west",
+      101
+    ],
+    [
+      "range",
+      99
+    ],
+    [
+      "north",
+      96
+    ],
+    [
+      "township",
+      93
+    ],
+    [
+      "examination",
+      86
+    ],
+    [
+      "rule",
+      85
+    ],
+    [
+      "person",
+      76
+    ],
+    [
+      "department",
+      74
+    ],
+    [
+      "commission",
+      74
+    ],
+    [
+      "indian",
+      74
+    ],
+    [
+      "reservation",
+      70
+    ],
+    [
+      "line",
+      69
+    ],
+    [
+      "corner",
+      68
+    ],
+    [
+      "boundary",
+      65
+    ],
+    [
+      "classified",
+      62
+    ],
+    [
+      "river",
+      61
+    ],
+    [
+      "along",
+      59
+    ],
+    [
+      "territory",
+      51
+    ],
+    [
+      "laws",
+      49
+    ],
+    [
+      "place",
+      48
+    ],
+    [
+      "following",
+      47
+    ],
+    [
+      "one",
+      46
+    ],
+    [
+      "new",
+      45
+    ],
+    [
+      "public",
+      45
+    ],
+    [
+      "ordered",
+      44
+    ],
+    [
+      "meridian",
+      44
+    ],
+    [
+      "washington",
+      43
+    ],
+    [
+      "indians",
+      42
+    ],
+    [
+      "beginning",
+      41
+    ],
+    [
+      "officer",
+      41
+    ],
+    [
+      "made",
+      41
+    ],
+    [
+      "apart",
+      40
+    ],
+    [
+      "examinations",
+      39
+    ],
+    [
+      "office",
+      38
+    ],
+    [
+      "approved",
+      37
+    ],
+    [
+      "mansion",
+      37
+    ],
+    [
+      "source",
+      37
+    ],
+    [
+      "kappler",
+      37
+    ],
+    [
+      "affairs",
+      37
+    ],
+    [
+      "treaties",
+      37
+    ],
+    [
+      "gpo",
+      37
+    ],
+    [
+      "appointment",
+      36
+    ],
+    [
+      "register",
+      35
+    ],
+    [
+      "board",
+      33
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "chester arthur",
+      138
+    ],
+    [
+      "south range",
+      56
+    ],
+    [
+      "township south",
+      54
+    ],
+    [
+      "range east",
+      51
+    ],
+    [
+      "corner township",
+      43
+    ],
+    [
+      "arthur source",
+      37
+    ],
+    [
+      "source kappler",
+      37
+    ],
+    [
+      "kappler indian",
+      37
+    ],
+    [
+      "indian affairs",
+      37
+    ],
+    [
+      "affairs laws",
+      37
+    ],
+    [
+      "laws treaties",
+      37
+    ],
+    [
+      "treaties gpo",
+      37
+    ],
+    [
+      "thence north",
+      36
+    ],
+    [
+      "arthur mansion",
+      31
+    ],
+    [
+      "east thence",
+      31
+    ],
+    [
+      "thence west",
+      26
+    ],
+    [
+      "thence south",
+      25
+    ],
+    [
+      "north range",
+      23
+    ],
+    [
+      "range line",
+      23
+    ],
+    [
+      "new mexico",
+      23
+    ],
+    [
+      "civil service",
+      22
+    ],
+    [
+      "place beginning",
+      22
+    ],
+    [
+      "range west",
+      22
+    ],
+    [
+      "river thence",
+      21
+    ],
+    [
+      "revised statutes",
+      20
+    ],
+    [
+      "thence east",
+      20
+    ],
+    [
+      "thence due",
+      20
+    ],
+    [
+      "line ranges",
+      19
+    ],
+    [
+      "public domain",
+      18
+    ],
+    [
+      "ranges east",
+      18
+    ],
+    [
+      "ordered followingdescribed",
+      17
+    ],
+    [
+      "tract country",
+      17
+    ],
+    [
+      "withdrawn sale",
+      17
+    ],
+    [
+      "degrees minutes",
+      17
+    ],
+    [
+      "township north",
+      17
+    ],
+    [
+      "northeast corner",
+      16
+    ],
+    [
+      "northwest corner",
+      16
+    ],
+    [
+      "sale settlement",
+      16
+    ],
+    [
+      "north along",
+      16
+    ],
+    [
+      "postal service",
+      16
+    ],
+    [
+      "classified service",
+      16
+    ],
+    [
+      "southeast corner",
+      16
+    ],
+    [
+      "southwest corner",
+      16
+    ],
+    [
+      "gila river",
+      16
+    ],
+    [
+      "approved january",
+      15
+    ],
+    [
+      "apart use",
+      15
+    ],
+    [
+      "customs service",
+      15
+    ],
+    [
+      "public service",
+      15
+    ],
+    [
+      "west along",
+      15
+    ],
+    [
+      "power vested",
+      14
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "township south range",
+      51
+    ],
+    [
+      "south range east",
+      50
+    ],
+    [
+      "chester arthur source",
+      37
+    ],
+    [
+      "arthur source kappler",
+      37
+    ],
+    [
+      "source kappler indian",
+      37
+    ],
+    [
+      "kappler indian affairs",
+      37
+    ],
+    [
+      "indian affairs laws",
+      37
+    ],
+    [
+      "affairs laws treaties",
+      37
+    ],
+    [
+      "laws treaties gpo",
+      37
+    ],
+    [
+      "chester arthur mansion",
+      31
+    ],
+    [
+      "corner township south",
+      28
+    ],
+    [
+      "range east thence",
+      27
+    ],
+    [
+      "north range west",
+      20
+    ],
+    [
+      "township north range",
+      17
+    ],
+    [
+      "thence north along",
+      16
+    ],
+    [
+      "range line ranges",
+      16
+    ],
+    [
+      "power vested constitution",
+      14
+    ],
+    [
+      "exercise power vested",
+      13
+    ],
+    [
+      "vested constitution virtue",
+      13
+    ],
+    [
+      "constitution virtue seventeen",
+      13
+    ],
+    [
+      "virtue seventeen hundred",
+      13
+    ],
+    [
+      "seventeen hundred fiftythird",
+      13
+    ],
+    [
+      "hundred fiftythird revised",
+      13
+    ],
+    [
+      "fiftythird revised statutes",
+      13
+    ],
+    [
+      "revised statutes civilservice",
+      13
+    ],
+    [
+      "statutes civilservice approved",
+      13
+    ],
+    [
+      "civilservice approved january",
+      13
+    ],
+    [
+      "approved january following",
+      13
+    ],
+    [
+      "regulation improvement civil",
+      13
+    ],
+    [
+      "improvement civil service",
+      13
+    ]
+  ]
+}

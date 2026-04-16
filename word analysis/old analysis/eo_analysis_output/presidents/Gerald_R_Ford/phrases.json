@@ -1,0 +1,530 @@
+{
+  "president": "Gerald_R_Ford",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "secretary",
+      441
+    ],
+    [
+      "sec",
+      392
+    ],
+    [
+      "amended",
+      391
+    ],
+    [
+      "ford",
+      340
+    ],
+    [
+      "gerald",
+      339
+    ],
+    [
+      "usc",
+      236
+    ],
+    [
+      "intelligence",
+      229
+    ],
+    [
+      "agency",
+      220
+    ],
+    [
+      "follows",
+      204
+    ],
+    [
+      "committee",
+      199
+    ],
+    [
+      "national",
+      199
+    ],
+    [
+      "house",
+      199
+    ],
+    [
+      "vested",
+      196
+    ],
+    [
+      "foreign",
+      193
+    ],
+    [
+      "white",
+      192
+    ],
+    [
+      "commission",
+      191
+    ],
+    [
+      "department",
+      186
+    ],
+    [
+      "service",
+      185
+    ],
+    [
+      "director",
+      183
+    ],
+    [
+      "defense",
+      176
+    ],
+    [
+      "energy",
+      173
+    ],
+    [
+      "agencies",
+      167
+    ],
+    [
+      "virtue",
+      166
+    ],
+    [
+      "appropriate",
+      162
+    ],
+    [
+      "functions",
+      161
+    ],
+    [
+      "board",
+      152
+    ],
+    [
+      "code",
+      149
+    ],
+    [
+      "international",
+      146
+    ],
+    [
+      "provisions",
+      144
+    ],
+    [
+      "general",
+      144
+    ],
+    [
+      "administration",
+      140
+    ],
+    [
+      "regulations",
+      134
+    ],
+    [
+      "information",
+      132
+    ],
+    [
+      "council",
+      127
+    ],
+    [
+      "january",
+      126
+    ],
+    [
+      "state",
+      125
+    ],
+    [
+      "policy",
+      124
+    ],
+    [
+      "services",
+      121
+    ],
+    [
+      "activities",
+      119
+    ],
+    [
+      "stat",
+      118
+    ],
+    [
+      "administrator",
+      117
+    ],
+    [
+      "office",
+      116
+    ],
+    [
+      "respect",
+      113
+    ],
+    [
+      "trade",
+      109
+    ],
+    [
+      "made",
+      109
+    ],
+    [
+      "health",
+      105
+    ],
+    [
+      "ordered",
+      104
+    ],
+    [
+      "public",
+      104
+    ],
+    [
+      "provide",
+      103
+    ],
+    [
+      "special",
+      103
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "gerald ford",
+      339
+    ],
+    [
+      "white house",
+      188
+    ],
+    [
+      "ford white",
+      169
+    ],
+    [
+      "virtue vested",
+      165
+    ],
+    [
+      "ford virtue",
+      139
+    ],
+    [
+      "ordered follows",
+      83
+    ],
+    [
+      "stat usc",
+      80
+    ],
+    [
+      "read follows",
+      72
+    ],
+    [
+      "secretary state",
+      71
+    ],
+    [
+      "secretary defense",
+      63
+    ],
+    [
+      "amended usc",
+      61
+    ],
+    [
+      "foreign intelligence",
+      61
+    ],
+    [
+      "vested constitution",
+      60
+    ],
+    [
+      "secretary treasury",
+      58
+    ],
+    [
+      "national security",
+      58
+    ],
+    [
+      "departments agencies",
+      56
+    ],
+    [
+      "amended read",
+      56
+    ],
+    [
+      "office management",
+      55
+    ],
+    [
+      "management budget",
+      55
+    ],
+    [
+      "director office",
+      50
+    ],
+    [
+      "military judge",
+      50
+    ],
+    [
+      "hereinafter referred",
+      49
+    ],
+    [
+      "secretary commerce",
+      49
+    ],
+    [
+      "civil service",
+      48
+    ],
+    [
+      "special representative",
+      46
+    ],
+    [
+      "central intelligence",
+      43
+    ],
+    [
+      "health education",
+      42
+    ],
+    [
+      "education welfare",
+      42
+    ],
+    [
+      "constitution statutes",
+      42
+    ],
+    [
+      "january gerald",
+      41
+    ],
+    [
+      "general services",
+      38
+    ],
+    [
+      "advisory committee",
+      38
+    ],
+    [
+      "usc seq",
+      37
+    ],
+    [
+      "research development",
+      37
+    ],
+    [
+      "intelligence community",
+      36
+    ],
+    [
+      "house january",
+      36
+    ],
+    [
+      "energy administration",
+      35
+    ],
+    [
+      "attorney general",
+      35
+    ],
+    [
+      "mandatory retirement",
+      34
+    ],
+    [
+      "energy research",
+      33
+    ],
+    [
+      "code ordered",
+      32
+    ],
+    [
+      "service commission",
+      32
+    ],
+    [
+      "administrator energy",
+      31
+    ],
+    [
+      "vested code",
+      31
+    ],
+    [
+      "intelligence agency",
+      31
+    ],
+    [
+      "rules regulations",
+      30
+    ],
+    [
+      "foreign policy",
+      30
+    ],
+    [
+      "economic policy",
+      30
+    ],
+    [
+      "administrator general",
+      29
+    ],
+    [
+      "secretary transportation",
+      28
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "gerald ford white",
+      169
+    ],
+    [
+      "ford white house",
+      169
+    ],
+    [
+      "gerald ford virtue",
+      139
+    ],
+    [
+      "ford virtue vested",
+      139
+    ],
+    [
+      "virtue vested constitution",
+      59
+    ],
+    [
+      "office management budget",
+      55
+    ],
+    [
+      "amended read follows",
+      48
+    ],
+    [
+      "director office management",
+      46
+    ],
+    [
+      "health education welfare",
+      42
+    ],
+    [
+      "vested constitution statutes",
+      42
+    ],
+    [
+      "january gerald ford",
+      41
+    ],
+    [
+      "white house january",
+      36
+    ],
+    [
+      "energy research development",
+      33
+    ],
+    [
+      "code ordered follows",
+      31
+    ],
+    [
+      "civil service commission",
+      31
+    ],
+    [
+      "administrator general services",
+      29
+    ],
+    [
+      "virtue vested code",
+      29
+    ],
+    [
+      "october gerald ford",
+      27
+    ],
+    [
+      "therefore virtue vested",
+      26
+    ],
+    [
+      "occupational safety health",
+      25
+    ],
+    [
+      "research development administration",
+      25
+    ],
+    [
+      "director central intelligence",
+      25
+    ],
+    [
+      "generalized system preferences",
+      24
+    ],
+    [
+      "attached hereto made",
+      23
+    ],
+    [
+      "placing certain positions",
+      23
+    ],
+    [
+      "beneficiary developing countries",
+      22
+    ],
+    [
+      "secretary state secretary",
+      22
+    ],
+    [
+      "september gerald ford",
+      22
+    ],
+    [
+      "hereto made hereof",
+      21
+    ],
+    [
+      "june gerald ford",
+      21
+    ]
+  ]
+}

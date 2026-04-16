@@ -1,0 +1,530 @@
+{
+  "president": "James_K_Polk",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "duties",
+      60
+    ],
+    [
+      "mexico",
+      50
+    ],
+    [
+      "war",
+      49
+    ],
+    [
+      "military",
+      34
+    ],
+    [
+      "ports",
+      27
+    ],
+    [
+      "secretary",
+      26
+    ],
+    [
+      "mexican",
+      25
+    ],
+    [
+      "navy",
+      23
+    ],
+    [
+      "duty",
+      22
+    ],
+    [
+      "would",
+      22
+    ],
+    [
+      "treasury",
+      18
+    ],
+    [
+      "revenue",
+      18
+    ],
+    [
+      "possession",
+      16
+    ],
+    [
+      "people",
+      15
+    ],
+    [
+      "commerce",
+      15
+    ],
+    [
+      "peace",
+      14
+    ],
+    [
+      "imports",
+      14
+    ],
+    [
+      "system",
+      14
+    ],
+    [
+      "army",
+      13
+    ],
+    [
+      "day",
+      13
+    ],
+    [
+      "collected",
+      13
+    ],
+    [
+      "goods",
+      13
+    ],
+    [
+      "james",
+      12
+    ],
+    [
+      "polk",
+      12
+    ],
+    [
+      "port",
+      12
+    ],
+    [
+      "orders",
+      11
+    ],
+    [
+      "department",
+      11
+    ],
+    [
+      "nations",
+      11
+    ],
+    [
+      "general",
+      10
+    ],
+    [
+      "country",
+      10
+    ],
+    [
+      "paid",
+      10
+    ],
+    [
+      "regulations",
+      10
+    ],
+    [
+      "recommended",
+      10
+    ],
+    [
+      "proper",
+      9
+    ],
+    [
+      "contribution",
+      9
+    ],
+    [
+      "articles",
+      9
+    ],
+    [
+      "tariff",
+      9
+    ],
+    [
+      "contributions",
+      9
+    ],
+    [
+      "kinds",
+      9
+    ],
+    [
+      "death",
+      8
+    ],
+    [
+      "officers",
+      8
+    ],
+    [
+      "proposed",
+      8
+    ],
+    [
+      "naval",
+      8
+    ],
+    [
+      "levied",
+      8
+    ],
+    [
+      "great",
+      7
+    ],
+    [
+      "one",
+      7
+    ],
+    [
+      "life",
+      7
+    ],
+    [
+      "necessary",
+      7
+    ],
+    [
+      "effect",
+      7
+    ],
+    [
+      "departments",
+      7
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "james polk",
+      12
+    ],
+    [
+      "secretary treasury",
+      11
+    ],
+    [
+      "secretary war",
+      9
+    ],
+    [
+      "war navy",
+      9
+    ],
+    [
+      "army navy",
+      8
+    ],
+    [
+      "ports mexico",
+      8
+    ],
+    [
+      "people mexico",
+      8
+    ],
+    [
+      "expenses war",
+      7
+    ],
+    [
+      "military contributions",
+      7
+    ],
+    [
+      "secretary navy",
+      6
+    ],
+    [
+      "military possession",
+      6
+    ],
+    [
+      "military contribution",
+      6
+    ],
+    [
+      "mexican ports",
+      6
+    ],
+    [
+      "war mexico",
+      5
+    ],
+    [
+      "officers army",
+      5
+    ],
+    [
+      "war secretary",
+      5
+    ],
+    [
+      "ports places",
+      5
+    ],
+    [
+      "precious metals",
+      5
+    ],
+    [
+      "john quincy",
+      4
+    ],
+    [
+      "quincy adams",
+      4
+    ],
+    [
+      "war department",
+      4
+    ],
+    [
+      "andrew jackson",
+      4
+    ],
+    [
+      "mexican tariff",
+      4
+    ],
+    [
+      "scale duties",
+      4
+    ],
+    [
+      "give proper",
+      4
+    ],
+    [
+      "polk treasury",
+      4
+    ],
+    [
+      "treasury department",
+      4
+    ],
+    [
+      "collected military",
+      4
+    ],
+    [
+      "new system",
+      4
+    ],
+    [
+      "mexican port",
+      4
+    ],
+    [
+      "commerce world",
+      4
+    ],
+    [
+      "export duty",
+      4
+    ],
+    [
+      "neutral powers",
+      4
+    ],
+    [
+      "walker secretary",
+      4
+    ],
+    [
+      "recommended secretary",
+      4
+    ],
+    [
+      "orders carry",
+      4
+    ],
+    [
+      "effect james",
+      4
+    ],
+    [
+      "march last",
+      4
+    ],
+    [
+      "per cent",
+      4
+    ],
+    [
+      "orders war",
+      3
+    ],
+    [
+      "army death",
+      3
+    ],
+    [
+      "death illustrious",
+      3
+    ],
+    [
+      "announces army",
+      3
+    ],
+    [
+      "guns fired",
+      3
+    ],
+    [
+      "put mourning",
+      3
+    ],
+    [
+      "six months",
+      3
+    ],
+    [
+      "tonnage imports",
+      3
+    ],
+    [
+      "neutral nations",
+      3
+    ],
+    [
+      "military naval",
+      3
+    ],
+    [
+      "amount revenue",
+      3
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "secretary war secretary",
+      5
+    ],
+    [
+      "war secretary navy",
+      5
+    ],
+    [
+      "john quincy adams",
+      4
+    ],
+    [
+      "officers army navy",
+      4
+    ],
+    [
+      "james polk treasury",
+      4
+    ],
+    [
+      "polk treasury department",
+      4
+    ],
+    [
+      "walker secretary treasury",
+      4
+    ],
+    [
+      "recommended secretary treasury",
+      4
+    ],
+    [
+      "effect james polk",
+      4
+    ],
+    [
+      "war navy departments",
+      3
+    ],
+    [
+      "collected military contribution",
+      3
+    ],
+    [
+      "interior transit duties",
+      3
+    ],
+    [
+      "duty coin bullion",
+      3
+    ],
+    [
+      "secretaries war navy",
+      3
+    ],
+    [
+      "per cent valorem",
+      3
+    ],
+    [
+      "secretary treasury approved",
+      3
+    ],
+    [
+      "treasury approved secretary",
+      3
+    ],
+    [
+      "approved secretary war",
+      3
+    ],
+    [
+      "secretary navy give",
+      3
+    ],
+    [
+      "navy give proper",
+      3
+    ],
+    [
+      "give proper orders",
+      3
+    ],
+    [
+      "proper orders carry",
+      3
+    ],
+    [
+      "orders carry effect",
+      3
+    ],
+    [
+      "carry effect james",
+      3
+    ],
+    [
+      "flags standards colors",
+      2
+    ],
+    [
+      "standards colors taken",
+      2
+    ],
+    [
+      "colors taken army",
+      2
+    ],
+    [
+      "death john quincy",
+      2
+    ],
+    [
+      "james polk general",
+      2
+    ],
+    [
+      "polk general orders",
+      2
+    ]
+  ]
+}

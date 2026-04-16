@@ -1,0 +1,530 @@
+{
+  "president": "Theodore_Roosevelt",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "roosevelt",
+      189
+    ],
+    [
+      "theodore",
+      186
+    ],
+    [
+      "thence",
+      117
+    ],
+    [
+      "north",
+      109
+    ],
+    [
+      "west",
+      87
+    ],
+    [
+      "corner",
+      85
+    ],
+    [
+      "township",
+      84
+    ],
+    [
+      "line",
+      74
+    ],
+    [
+      "range",
+      73
+    ],
+    [
+      "reservation",
+      70
+    ],
+    [
+      "east",
+      62
+    ],
+    [
+      "sec",
+      51
+    ],
+    [
+      "service",
+      49
+    ],
+    [
+      "south",
+      47
+    ],
+    [
+      "lands",
+      41
+    ],
+    [
+      "ordered",
+      39
+    ],
+    [
+      "indian",
+      39
+    ],
+    [
+      "state",
+      36
+    ],
+    [
+      "southeast",
+      35
+    ],
+    [
+      "department",
+      34
+    ],
+    [
+      "secretary",
+      34
+    ],
+    [
+      "july",
+      33
+    ],
+    [
+      "boundary",
+      30
+    ],
+    [
+      "land",
+      29
+    ],
+    [
+      "meridian",
+      29
+    ],
+    [
+      "along",
+      29
+    ],
+    [
+      "apart",
+      28
+    ],
+    [
+      "rules",
+      28
+    ],
+    [
+      "made",
+      28
+    ],
+    [
+      "new",
+      28
+    ],
+    [
+      "without",
+      26
+    ],
+    [
+      "january",
+      24
+    ],
+    [
+      "examination",
+      24
+    ],
+    [
+      "mexico",
+      24
+    ],
+    [
+      "beginning",
+      24
+    ],
+    [
+      "november",
+      24
+    ],
+    [
+      "addition",
+      22
+    ],
+    [
+      "townships",
+      22
+    ],
+    [
+      "purposes",
+      21
+    ],
+    [
+      "northwest",
+      20
+    ],
+    [
+      "one",
+      20
+    ],
+    [
+      "appointed",
+      20
+    ],
+    [
+      "civilservice",
+      20
+    ],
+    [
+      "school",
+      20
+    ],
+    [
+      "office",
+      20
+    ],
+    [
+      "commission",
+      20
+    ],
+    [
+      "white",
+      19
+    ],
+    [
+      "provisions",
+      19
+    ],
+    [
+      "approved",
+      18
+    ],
+    [
+      "reserved",
+      18
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "theodore roosevelt",
+      186
+    ],
+    [
+      "north range",
+      61
+    ],
+    [
+      "corner township",
+      53
+    ],
+    [
+      "township north",
+      52
+    ],
+    [
+      "sec sec",
+      43
+    ],
+    [
+      "range west",
+      38
+    ],
+    [
+      "west thence",
+      32
+    ],
+    [
+      "southeast corner",
+      31
+    ],
+    [
+      "roosevelt ordered",
+      27
+    ],
+    [
+      "thence north",
+      26
+    ],
+    [
+      "new mexico",
+      24
+    ],
+    [
+      "thence south",
+      23
+    ],
+    [
+      "thence west",
+      22
+    ],
+    [
+      "thence east",
+      22
+    ],
+    [
+      "indian reservation",
+      21
+    ],
+    [
+      "corner thence",
+      21
+    ],
+    [
+      "range east",
+      20
+    ],
+    [
+      "line townships",
+      19
+    ],
+    [
+      "civilservice rules",
+      18
+    ],
+    [
+      "township line",
+      18
+    ],
+    [
+      "northwest corner",
+      18
+    ],
+    [
+      "july theodore",
+      18
+    ],
+    [
+      "white house",
+      17
+    ],
+    [
+      "northeast corner",
+      17
+    ],
+    [
+      "principal meridian",
+      16
+    ],
+    [
+      "without examination",
+      15
+    ],
+    [
+      "roosevelt white",
+      14
+    ],
+    [
+      "east thence",
+      14
+    ],
+    [
+      "townships north",
+      13
+    ],
+    [
+      "november theodore",
+      13
+    ],
+    [
+      "civil service",
+      12
+    ],
+    [
+      "place beginning",
+      12
+    ],
+    [
+      "meridian thence",
+      12
+    ],
+    [
+      "would established",
+      12
+    ],
+    [
+      "line ranges",
+      12
+    ],
+    [
+      "march theodore",
+      12
+    ],
+    [
+      "roosevelt july",
+      11
+    ],
+    [
+      "examination civilservice",
+      11
+    ],
+    [
+      "secretary interior",
+      11
+    ],
+    [
+      "revised statutes",
+      11
+    ],
+    [
+      "land district",
+      11
+    ],
+    [
+      "west principal",
+      10
+    ],
+    [
+      "january theodore",
+      10
+    ],
+    [
+      "unsurveyed lands",
+      10
+    ],
+    [
+      "rules theodore",
+      9
+    ],
+    [
+      "withdrawn sale",
+      9
+    ],
+    [
+      "one hundred",
+      9
+    ],
+    [
+      "range line",
+      9
+    ],
+    [
+      "east along",
+      9
+    ],
+    [
+      "indian school",
+      9
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "township north range",
+      52
+    ],
+    [
+      "corner township north",
+      45
+    ],
+    [
+      "sec sec sec",
+      38
+    ],
+    [
+      "north range west",
+      36
+    ],
+    [
+      "theodore roosevelt ordered",
+      27
+    ],
+    [
+      "range west thence",
+      27
+    ],
+    [
+      "southeast corner township",
+      18
+    ],
+    [
+      "july theodore roosevelt",
+      18
+    ],
+    [
+      "north range east",
+      17
+    ],
+    [
+      "northwest corner township",
+      16
+    ],
+    [
+      "roosevelt white house",
+      14
+    ],
+    [
+      "range east thence",
+      14
+    ],
+    [
+      "theodore roosevelt white",
+      13
+    ],
+    [
+      "line townships north",
+      13
+    ],
+    [
+      "northeast corner township",
+      13
+    ],
+    [
+      "november theodore roosevelt",
+      13
+    ],
+    [
+      "march theodore roosevelt",
+      12
+    ],
+    [
+      "theodore roosevelt july",
+      11
+    ],
+    [
+      "examination civilservice rules",
+      11
+    ],
+    [
+      "southeast corner thence",
+      11
+    ],
+    [
+      "township line townships",
+      11
+    ],
+    [
+      "west principal meridian",
+      10
+    ],
+    [
+      "without examination civilservice",
+      10
+    ],
+    [
+      "january theodore roosevelt",
+      10
+    ],
+    [
+      "roosevelt july theodore",
+      10
+    ],
+    [
+      "rules theodore roosevelt",
+      9
+    ],
+    [
+      "west thence west",
+      9
+    ],
+    [
+      "theodore roosevelt march",
+      9
+    ],
+    [
+      "theodore roosevelt mrs",
+      8
+    ],
+    [
+      "civilservice rules theodore",
+      8
+    ]
+  ]
+}

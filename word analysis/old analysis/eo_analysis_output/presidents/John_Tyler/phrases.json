@@ -1,0 +1,530 @@
+{
+  "president": "John_Tyler",
+  "party": "Whig",
+  "top_unigrams": [
+    [
+      "department",
+      7
+    ],
+    [
+      "state",
+      6
+    ],
+    [
+      "secretary",
+      6
+    ],
+    [
+      "navy",
+      6
+    ],
+    [
+      "february",
+      4
+    ],
+    [
+      "hon",
+      4
+    ],
+    [
+      "war",
+      4
+    ],
+    [
+      "army",
+      4
+    ],
+    [
+      "officers",
+      3
+    ],
+    [
+      "upshur",
+      3
+    ],
+    [
+      "guns",
+      3
+    ],
+    [
+      "respect",
+      3
+    ],
+    [
+      "memory",
+      3
+    ],
+    [
+      "day",
+      3
+    ],
+    [
+      "duties",
+      3
+    ],
+    [
+      "country",
+      3
+    ],
+    [
+      "command",
+      3
+    ],
+    [
+      "john",
+      2
+    ],
+    [
+      "tyler",
+      2
+    ],
+    [
+      "diplomatic",
+      2
+    ],
+    [
+      "consular",
+      2
+    ],
+    [
+      "washington",
+      2
+    ],
+    [
+      "sir",
+      2
+    ],
+    [
+      "painful",
+      2
+    ],
+    [
+      "announce",
+      2
+    ],
+    [
+      "late",
+      2
+    ],
+    [
+      "yesterday",
+      2
+    ],
+    [
+      "great",
+      2
+    ],
+    [
+      "board",
+      2
+    ],
+    [
+      "steamship",
+      2
+    ],
+    [
+      "princeton",
+      2
+    ],
+    [
+      "distinguished",
+      2
+    ],
+    [
+      "citizens",
+      2
+    ],
+    [
+      "secretaries",
+      2
+    ],
+    [
+      "killed",
+      2
+    ],
+    [
+      "wounded",
+      2
+    ],
+    [
+      "either",
+      2
+    ],
+    [
+      "wear",
+      2
+    ],
+    [
+      "badge",
+      2
+    ],
+    [
+      "mourning",
+      2
+    ],
+    [
+      "grief",
+      2
+    ],
+    [
+      "days",
+      2
+    ],
+    [
+      "time",
+      2
+    ],
+    [
+      "pleased",
+      2
+    ],
+    [
+      "charge",
+      2
+    ],
+    [
+      "interim",
+      2
+    ],
+    [
+      "accordingly",
+      2
+    ],
+    [
+      "general",
+      2
+    ],
+    [
+      "orders",
+      2
+    ],
+    [
+      "undersigned",
+      2
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "war department",
+      3
+    ],
+    [
+      "secretary navy",
+      3
+    ],
+    [
+      "john tyler",
+      2
+    ],
+    [
+      "diplomatic consular",
+      2
+    ],
+    [
+      "department state",
+      2
+    ],
+    [
+      "secretary state",
+      2
+    ],
+    [
+      "board steamship",
+      2
+    ],
+    [
+      "steamship princeton",
+      2
+    ],
+    [
+      "badge mourning",
+      2
+    ],
+    [
+      "respect memory",
+      2
+    ],
+    [
+      "general orders",
+      2
+    ],
+    [
+      "orders war",
+      2
+    ],
+    [
+      "department february",
+      2
+    ],
+    [
+      "day receipt",
+      2
+    ],
+    [
+      "sunrise sunset",
+      2
+    ],
+    [
+      "three months",
+      2
+    ],
+    [
+      "february john",
+      1
+    ],
+    [
+      "tyler circular",
+      1
+    ],
+    [
+      "circular sent",
+      1
+    ],
+    [
+      "sent diplomatic",
+      1
+    ],
+    [
+      "consular officers",
+      1
+    ],
+    [
+      "officers department",
+      1
+    ],
+    [
+      "state washington",
+      1
+    ],
+    [
+      "washington february",
+      1
+    ],
+    [
+      "february sir",
+      1
+    ],
+    [
+      "sir become",
+      1
+    ],
+    [
+      "become painful",
+      1
+    ],
+    [
+      "painful duty",
+      1
+    ],
+    [
+      "duty announce",
+      1
+    ],
+    [
+      "announce sudden",
+      1
+    ],
+    [
+      "sudden violent",
+      1
+    ],
+    [
+      "violent death",
+      1
+    ],
+    [
+      "death hon",
+      1
+    ],
+    [
+      "hon abel",
+      1
+    ],
+    [
+      "abel upshur",
+      1
+    ],
+    [
+      "upshur late",
+      1
+    ],
+    [
+      "late secretary",
+      1
+    ],
+    [
+      "state afflicting",
+      1
+    ],
+    [
+      "afflicting dispensation",
+      1
+    ],
+    [
+      "dispensation occurred",
+      1
+    ],
+    [
+      "occurred afternoon",
+      1
+    ],
+    [
+      "afternoon yesterday",
+      1
+    ],
+    [
+      "yesterday bursting",
+      1
+    ],
+    [
+      "bursting one",
+      1
+    ],
+    [
+      "one great",
+      1
+    ],
+    [
+      "great guns",
+      1
+    ],
+    [
+      "guns board",
+      1
+    ],
+    [
+      "princeton near",
+      1
+    ],
+    [
+      "near alexandria",
+      1
+    ],
+    [
+      "alexandria return",
+      1
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "board steamship princeton",
+      2
+    ],
+    [
+      "general orders war",
+      2
+    ],
+    [
+      "orders war department",
+      2
+    ],
+    [
+      "february john tyler",
+      1
+    ],
+    [
+      "john tyler circular",
+      1
+    ],
+    [
+      "tyler circular sent",
+      1
+    ],
+    [
+      "circular sent diplomatic",
+      1
+    ],
+    [
+      "sent diplomatic consular",
+      1
+    ],
+    [
+      "diplomatic consular officers",
+      1
+    ],
+    [
+      "consular officers department",
+      1
+    ],
+    [
+      "officers department state",
+      1
+    ],
+    [
+      "department state washington",
+      1
+    ],
+    [
+      "state washington february",
+      1
+    ],
+    [
+      "washington february sir",
+      1
+    ],
+    [
+      "february sir become",
+      1
+    ],
+    [
+      "sir become painful",
+      1
+    ],
+    [
+      "become painful duty",
+      1
+    ],
+    [
+      "painful duty announce",
+      1
+    ],
+    [
+      "duty announce sudden",
+      1
+    ],
+    [
+      "announce sudden violent",
+      1
+    ],
+    [
+      "sudden violent death",
+      1
+    ],
+    [
+      "violent death hon",
+      1
+    ],
+    [
+      "death hon abel",
+      1
+    ],
+    [
+      "hon abel upshur",
+      1
+    ],
+    [
+      "abel upshur late",
+      1
+    ],
+    [
+      "upshur late secretary",
+      1
+    ],
+    [
+      "late secretary state",
+      1
+    ],
+    [
+      "secretary state afflicting",
+      1
+    ],
+    [
+      "state afflicting dispensation",
+      1
+    ],
+    [
+      "afflicting dispensation occurred",
+      1
+    ]
+  ]
+}

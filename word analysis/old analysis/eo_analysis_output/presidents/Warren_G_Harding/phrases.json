@@ -1,0 +1,530 @@
+{
+  "president": "Warren_G_Harding",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "harding",
+      59
+    ],
+    [
+      "warren",
+      58
+    ],
+    [
+      "secretary",
+      57
+    ],
+    [
+      "department",
+      47
+    ],
+    [
+      "budget",
+      38
+    ],
+    [
+      "office",
+      33
+    ],
+    [
+      "director",
+      31
+    ],
+    [
+      "white",
+      30
+    ],
+    [
+      "service",
+      30
+    ],
+    [
+      "house",
+      29
+    ],
+    [
+      "congress",
+      27
+    ],
+    [
+      "bureau",
+      27
+    ],
+    [
+      "interior",
+      26
+    ],
+    [
+      "state",
+      26
+    ],
+    [
+      "commission",
+      25
+    ],
+    [
+      "departments",
+      23
+    ],
+    [
+      "purposes",
+      22
+    ],
+    [
+      "relief",
+      22
+    ],
+    [
+      "public",
+      21
+    ],
+    [
+      "subject",
+      20
+    ],
+    [
+      "appointed",
+      20
+    ],
+    [
+      "time",
+      19
+    ],
+    [
+      "approved",
+      18
+    ],
+    [
+      "general",
+      18
+    ],
+    [
+      "chief",
+      18
+    ],
+    [
+      "war",
+      17
+    ],
+    [
+      "papers",
+      17
+    ],
+    [
+      "provisions",
+      17
+    ],
+    [
+      "treasury",
+      17
+    ],
+    [
+      "civil",
+      16
+    ],
+    [
+      "following",
+      15
+    ],
+    [
+      "made",
+      15
+    ],
+    [
+      "regulations",
+      15
+    ],
+    [
+      "administration",
+      15
+    ],
+    [
+      "business",
+      15
+    ],
+    [
+      "information",
+      14
+    ],
+    [
+      "sale",
+      14
+    ],
+    [
+      "offices",
+      14
+    ],
+    [
+      "superintendent",
+      14
+    ],
+    [
+      "quarter",
+      14
+    ],
+    [
+      "patents",
+      13
+    ],
+    [
+      "march",
+      13
+    ],
+    [
+      "known",
+      13
+    ],
+    [
+      "estimates",
+      13
+    ],
+    [
+      "make",
+      12
+    ],
+    [
+      "estimated",
+      12
+    ],
+    [
+      "board",
+      11
+    ],
+    [
+      "certain",
+      11
+    ],
+    [
+      "one",
+      11
+    ],
+    [
+      "right",
+      11
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "warren harding",
+      58
+    ],
+    [
+      "white house",
+      28
+    ],
+    [
+      "harding white",
+      27
+    ],
+    [
+      "secretary interior",
+      22
+    ],
+    [
+      "director budget",
+      17
+    ],
+    [
+      "civil service",
+      16
+    ],
+    [
+      "department state",
+      10
+    ],
+    [
+      "relief administration",
+      9
+    ],
+    [
+      "secretary treasury",
+      9
+    ],
+    [
+      "library congress",
+      8
+    ],
+    [
+      "fiscal year",
+      8
+    ],
+    [
+      "secretary state",
+      8
+    ],
+    [
+      "appointed secretary",
+      8
+    ],
+    [
+      "bureau budget",
+      8
+    ],
+    [
+      "director bureau",
+      7
+    ],
+    [
+      "alaskan engineering",
+      7
+    ],
+    [
+      "engineering commission",
+      7
+    ],
+    [
+      "heretofore known",
+      7
+    ],
+    [
+      "departments establishments",
+      7
+    ],
+    [
+      "chief coordinator",
+      7
+    ],
+    [
+      "congress approved",
+      6
+    ],
+    [
+      "rules regulations",
+      6
+    ],
+    [
+      "state department",
+      6
+    ],
+    [
+      "harding virtue",
+      6
+    ],
+    [
+      "public sale",
+      6
+    ],
+    [
+      "office heretofore",
+      6
+    ],
+    [
+      "southwest quarter",
+      6
+    ],
+    [
+      "quarter containing",
+      6
+    ],
+    [
+      "containing acres",
+      6
+    ],
+    [
+      "harding ordered",
+      5
+    ],
+    [
+      "declaration independence",
+      5
+    ],
+    [
+      "people russia",
+      5
+    ],
+    [
+      "classified service",
+      5
+    ],
+    [
+      "service commission",
+      5
+    ],
+    [
+      "secretary navy",
+      5
+    ],
+    [
+      "postmaster general",
+      5
+    ],
+    [
+      "preference right",
+      5
+    ],
+    [
+      "office superintendent",
+      5
+    ],
+    [
+      "northwest quarter",
+      5
+    ],
+    [
+      "ensuing fiscal",
+      5
+    ],
+    [
+      "routine business",
+      5
+    ],
+    [
+      "world war",
+      4
+    ],
+    [
+      "inventions patents",
+      4
+    ],
+    [
+      "several departments",
+      4
+    ],
+    [
+      "time time",
+      4
+    ],
+    [
+      "indian reservation",
+      4
+    ],
+    [
+      "december warren",
+      4
+    ],
+    [
+      "feet thence",
+      4
+    ],
+    [
+      "relief distressed",
+      4
+    ],
+    [
+      "authorize direct",
+      4
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "warren harding white",
+      27
+    ],
+    [
+      "harding white house",
+      27
+    ],
+    [
+      "alaskan engineering commission",
+      7
+    ],
+    [
+      "warren harding virtue",
+      6
+    ],
+    [
+      "office heretofore known",
+      6
+    ],
+    [
+      "quarter containing acres",
+      6
+    ],
+    [
+      "warren harding ordered",
+      5
+    ],
+    [
+      "civil service commission",
+      5
+    ],
+    [
+      "december warren harding",
+      4
+    ],
+    [
+      "bureau engraving printing",
+      4
+    ],
+    [
+      "medicines medical surgical",
+      4
+    ],
+    [
+      "medical surgical hospital",
+      4
+    ],
+    [
+      "surgical hospital supplies",
+      4
+    ],
+    [
+      "quarter southwest quarter",
+      4
+    ],
+    [
+      "southwest quarter containing",
+      4
+    ],
+    [
+      "director bureau budget",
+      4
+    ],
+    [
+      "ensuing fiscal year",
+      4
+    ],
+    [
+      "interdepartmental patents board",
+      3
+    ],
+    [
+      "white house december",
+      3
+    ],
+    [
+      "transferred department state",
+      3
+    ],
+    [
+      "custody library congress",
+      3
+    ],
+    [
+      "detailed list hereunto",
+      3
+    ],
+    [
+      "list hereunto appended",
+      3
+    ],
+    [
+      "november warren harding",
+      3
+    ],
+    [
+      "january warren harding",
+      3
+    ],
+    [
+      "june warren harding",
+      3
+    ],
+    [
+      "harding virtue vested",
+      3
+    ],
+    [
+      "white house june",
+      3
+    ],
+    [
+      "discretion secretary interior",
+      3
+    ],
+    [
+      "heretofore known foreman",
+      3
+    ]
+  ]
+}

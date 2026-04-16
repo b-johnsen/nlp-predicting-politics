@@ -1,0 +1,530 @@
+{
+  "president": "Benjamin_Harrison",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "harrison",
+      120
+    ],
+    [
+      "service",
+      101
+    ],
+    [
+      "rule",
+      80
+    ],
+    [
+      "forfeiture",
+      66
+    ],
+    [
+      "benjamin",
+      62
+    ],
+    [
+      "benj",
+      58
+    ],
+    [
+      "civil",
+      54
+    ],
+    [
+      "rules",
+      53
+    ],
+    [
+      "following",
+      51
+    ],
+    [
+      "indian",
+      51
+    ],
+    [
+      "officer",
+      51
+    ],
+    [
+      "amended",
+      50
+    ],
+    [
+      "commission",
+      43
+    ],
+    [
+      "department",
+      41
+    ],
+    [
+      "confinement",
+      40
+    ],
+    [
+      "examination",
+      37
+    ],
+    [
+      "office",
+      37
+    ],
+    [
+      "one",
+      37
+    ],
+    [
+      "months",
+      37
+    ],
+    [
+      "labor",
+      37
+    ],
+    [
+      "hard",
+      36
+    ],
+    [
+      "noncommissioned",
+      35
+    ],
+    [
+      "general",
+      33
+    ],
+    [
+      "made",
+      33
+    ],
+    [
+      "public",
+      33
+    ],
+    [
+      "secretary",
+      32
+    ],
+    [
+      "war",
+      32
+    ],
+    [
+      "reduction",
+      29
+    ],
+    [
+      "pay",
+      28
+    ],
+    [
+      "days",
+      27
+    ],
+    [
+      "amendment",
+      26
+    ],
+    [
+      "departmental",
+      25
+    ],
+    [
+      "approved",
+      25
+    ],
+    [
+      "january",
+      25
+    ],
+    [
+      "thereto",
+      25
+    ],
+    [
+      "departments",
+      25
+    ],
+    [
+      "allowances",
+      25
+    ],
+    [
+      "places",
+      24
+    ],
+    [
+      "appointment",
+      24
+    ],
+    [
+      "day",
+      24
+    ],
+    [
+      "period",
+      24
+    ],
+    [
+      "discharge",
+      24
+    ],
+    [
+      "years",
+      23
+    ],
+    [
+      "special",
+      22
+    ],
+    [
+      "employed",
+      22
+    ],
+    [
+      "dishonorable",
+      22
+    ],
+    [
+      "clause",
+      21
+    ],
+    [
+      "state",
+      21
+    ],
+    [
+      "washington",
+      20
+    ],
+    [
+      "assistant",
+      20
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "benjamin harrison",
+      62
+    ],
+    [
+      "benj harrison",
+      58
+    ],
+    [
+      "civil service",
+      49
+    ],
+    [
+      "service rules",
+      37
+    ],
+    [
+      "confinement hard",
+      36
+    ],
+    [
+      "hard labor",
+      36
+    ],
+    [
+      "noncommissioned officer",
+      31
+    ],
+    [
+      "rule amended",
+      27
+    ],
+    [
+      "amendment civil",
+      26
+    ],
+    [
+      "departmental rule",
+      25
+    ],
+    [
+      "forfeiture pay",
+      25
+    ],
+    [
+      "pay allowances",
+      23
+    ],
+    [
+      "discharge forfeiture",
+      23
+    ],
+    [
+      "dishonorable discharge",
+      22
+    ],
+    [
+      "officer reduction",
+      22
+    ],
+    [
+      "months confinement",
+      20
+    ],
+    [
+      "special departmental",
+      18
+    ],
+    [
+      "harrison amendment",
+      18
+    ],
+    [
+      "harrison special",
+      17
+    ],
+    [
+      "six months",
+      17
+    ],
+    [
+      "addition thereto",
+      17
+    ],
+    [
+      "article war",
+      16
+    ],
+    [
+      "reduction addition",
+      16
+    ],
+    [
+      "excepted examination",
+      14
+    ],
+    [
+      "indian service",
+      14
+    ],
+    [
+      "indian affairs",
+      14
+    ],
+    [
+      "labor forfeiture",
+      14
+    ],
+    [
+      "places excepted",
+      13
+    ],
+    [
+      "amended adding",
+      13
+    ],
+    [
+      "per month",
+      13
+    ],
+    [
+      "month period",
+      13
+    ],
+    [
+      "allowances years",
+      13
+    ],
+    [
+      "years imprisonment",
+      13
+    ],
+    [
+      "railway mail",
+      12
+    ],
+    [
+      "corporal sergeant",
+      12
+    ],
+    [
+      "among places",
+      11
+    ],
+    [
+      "rule iii",
+      11
+    ],
+    [
+      "day funeral",
+      11
+    ],
+    [
+      "indian rule",
+      11
+    ],
+    [
+      "office secretary",
+      10
+    ],
+    [
+      "amendments civil",
+      10
+    ],
+    [
+      "period noncommissioned",
+      10
+    ],
+    [
+      "january benjamin",
+      10
+    ],
+    [
+      "amended include",
+      9
+    ],
+    [
+      "include among",
+      9
+    ],
+    [
+      "harrison amendments",
+      9
+    ],
+    [
+      "classified indian",
+      9
+    ],
+    [
+      "thirty days",
+      9
+    ],
+    [
+      "commissioner indian",
+      9
+    ],
+    [
+      "forfeiture corporal",
+      9
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "civil service rules",
+      36
+    ],
+    [
+      "confinement hard labor",
+      36
+    ],
+    [
+      "amendment civil service",
+      26
+    ],
+    [
+      "forfeiture pay allowances",
+      23
+    ],
+    [
+      "discharge forfeiture pay",
+      23
+    ],
+    [
+      "dishonorable discharge forfeiture",
+      22
+    ],
+    [
+      "noncommissioned officer reduction",
+      21
+    ],
+    [
+      "months confinement hard",
+      20
+    ],
+    [
+      "special departmental rule",
+      18
+    ],
+    [
+      "benj harrison amendment",
+      18
+    ],
+    [
+      "harrison amendment civil",
+      18
+    ],
+    [
+      "benjamin harrison special",
+      17
+    ],
+    [
+      "departmental rule amended",
+      17
+    ],
+    [
+      "officer reduction addition",
+      16
+    ],
+    [
+      "reduction addition thereto",
+      16
+    ],
+    [
+      "harrison special departmental",
+      15
+    ],
+    [
+      "hard labor forfeiture",
+      14
+    ],
+    [
+      "places excepted examination",
+      13
+    ],
+    [
+      "per month period",
+      13
+    ],
+    [
+      "allowances years imprisonment",
+      13
+    ],
+    [
+      "pay allowances years",
+      12
+    ],
+    [
+      "rule amended adding",
+      11
+    ],
+    [
+      "amendments civil service",
+      10
+    ],
+    [
+      "month period noncommissioned",
+      10
+    ],
+    [
+      "january benjamin harrison",
+      10
+    ],
+    [
+      "amended include among",
+      9
+    ],
+    [
+      "among places excepted",
+      9
+    ],
+    [
+      "benj harrison amendments",
+      9
+    ],
+    [
+      "harrison amendments civil",
+      9
+    ],
+    [
+      "classified indian service",
+      9
+    ]
+  ]
+}

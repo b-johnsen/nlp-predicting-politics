@@ -1,0 +1,530 @@
+{
+  "president": "Rutherford_B_Hayes",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "thence",
+      148
+    ],
+    [
+      "reservation",
+      83
+    ],
+    [
+      "south",
+      81
+    ],
+    [
+      "east",
+      75
+    ],
+    [
+      "north",
+      74
+    ],
+    [
+      "hayes",
+      70
+    ],
+    [
+      "west",
+      65
+    ],
+    [
+      "indian",
+      57
+    ],
+    [
+      "line",
+      57
+    ],
+    [
+      "river",
+      54
+    ],
+    [
+      "boundary",
+      50
+    ],
+    [
+      "along",
+      46
+    ],
+    [
+      "due",
+      43
+    ],
+    [
+      "beginning",
+      39
+    ],
+    [
+      "rutherford",
+      37
+    ],
+    [
+      "township",
+      37
+    ],
+    [
+      "point",
+      36
+    ],
+    [
+      "indians",
+      35
+    ],
+    [
+      "miles",
+      35
+    ],
+    [
+      "range",
+      31
+    ],
+    [
+      "corner",
+      28
+    ],
+    [
+      "degrees",
+      28
+    ],
+    [
+      "mansion",
+      27
+    ],
+    [
+      "ordered",
+      27
+    ],
+    [
+      "source",
+      27
+    ],
+    [
+      "affairs",
+      27
+    ],
+    [
+      "laws",
+      27
+    ],
+    [
+      "kappler",
+      26
+    ],
+    [
+      "treaties",
+      26
+    ],
+    [
+      "gpo",
+      26
+    ],
+    [
+      "place",
+      25
+    ],
+    [
+      "minutes",
+      24
+    ],
+    [
+      "apart",
+      23
+    ],
+    [
+      "sale",
+      23
+    ],
+    [
+      "marked",
+      23
+    ],
+    [
+      "viz",
+      22
+    ],
+    [
+      "post",
+      22
+    ],
+    [
+      "country",
+      21
+    ],
+    [
+      "territory",
+      21
+    ],
+    [
+      "feet",
+      21
+    ],
+    [
+      "station",
+      20
+    ],
+    [
+      "boundaries",
+      19
+    ],
+    [
+      "withdrawn",
+      19
+    ],
+    [
+      "public",
+      18
+    ],
+    [
+      "following",
+      18
+    ],
+    [
+      "middle",
+      18
+    ],
+    [
+      "creek",
+      18
+    ],
+    [
+      "bank",
+      18
+    ],
+    [
+      "lands",
+      18
+    ],
+    [
+      "lying",
+      17
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "rutherford hayes",
+      37
+    ],
+    [
+      "thence due",
+      27
+    ],
+    [
+      "boundary line",
+      27
+    ],
+    [
+      "hayes mansion",
+      26
+    ],
+    [
+      "hayes source",
+      26
+    ],
+    [
+      "source kappler",
+      26
+    ],
+    [
+      "kappler indian",
+      26
+    ],
+    [
+      "indian affairs",
+      26
+    ],
+    [
+      "affairs laws",
+      26
+    ],
+    [
+      "laws treaties",
+      26
+    ],
+    [
+      "treaties gpo",
+      26
+    ],
+    [
+      "thence north",
+      25
+    ],
+    [
+      "thence south",
+      25
+    ],
+    [
+      "place beginning",
+      24
+    ],
+    [
+      "degrees minutes",
+      24
+    ],
+    [
+      "reservation thence",
+      23
+    ],
+    [
+      "range east",
+      23
+    ],
+    [
+      "township south",
+      22
+    ],
+    [
+      "river thence",
+      22
+    ],
+    [
+      "indian reservation",
+      20
+    ],
+    [
+      "south range",
+      20
+    ],
+    [
+      "feet post",
+      20
+    ],
+    [
+      "post marked",
+      20
+    ],
+    [
+      "marked station",
+      20
+    ],
+    [
+      "thence along",
+      18
+    ],
+    [
+      "station thence",
+      18
+    ],
+    [
+      "withdrawn sale",
+      16
+    ],
+    [
+      "south degrees",
+      15
+    ],
+    [
+      "north boundary",
+      13
+    ],
+    [
+      "due east",
+      13
+    ],
+    [
+      "viz beginning",
+      13
+    ],
+    [
+      "township north",
+      13
+    ],
+    [
+      "due south",
+      12
+    ],
+    [
+      "apart reservation",
+      12
+    ],
+    [
+      "sale settlement",
+      12
+    ],
+    [
+      "minutes west",
+      12
+    ],
+    [
+      "public domain",
+      11
+    ],
+    [
+      "thence west",
+      11
+    ],
+    [
+      "settlement apart",
+      11
+    ],
+    [
+      "minutes east",
+      11
+    ],
+    [
+      "north degrees",
+      11
+    ],
+    [
+      "tract country",
+      10
+    ],
+    [
+      "due west",
+      10
+    ],
+    [
+      "military reservation",
+      10
+    ],
+    [
+      "northwest corner",
+      10
+    ],
+    [
+      "east feet",
+      10
+    ],
+    [
+      "west feet",
+      10
+    ],
+    [
+      "line reservation",
+      9
+    ],
+    [
+      "thence east",
+      9
+    ],
+    [
+      "west along",
+      9
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "rutherford hayes mansion",
+      26
+    ],
+    [
+      "hayes source kappler",
+      26
+    ],
+    [
+      "source kappler indian",
+      26
+    ],
+    [
+      "kappler indian affairs",
+      26
+    ],
+    [
+      "indian affairs laws",
+      26
+    ],
+    [
+      "affairs laws treaties",
+      26
+    ],
+    [
+      "laws treaties gpo",
+      26
+    ],
+    [
+      "township south range",
+      20
+    ],
+    [
+      "feet post marked",
+      20
+    ],
+    [
+      "post marked station",
+      20
+    ],
+    [
+      "marked station thence",
+      18
+    ],
+    [
+      "south range east",
+      17
+    ],
+    [
+      "thence south degrees",
+      14
+    ],
+    [
+      "south degrees minutes",
+      13
+    ],
+    [
+      "withdrawn sale settlement",
+      12
+    ],
+    [
+      "degrees minutes west",
+      12
+    ],
+    [
+      "river thence along",
+      11
+    ],
+    [
+      "sale settlement apart",
+      11
+    ],
+    [
+      "degrees minutes east",
+      11
+    ],
+    [
+      "thence north degrees",
+      11
+    ],
+    [
+      "minutes east feet",
+      10
+    ],
+    [
+      "east feet post",
+      10
+    ],
+    [
+      "minutes west feet",
+      10
+    ],
+    [
+      "west feet post",
+      10
+    ],
+    [
+      "station thence south",
+      10
+    ],
+    [
+      "range east township",
+      9
+    ],
+    [
+      "east township south",
+      9
+    ],
+    [
+      "township north range",
+      9
+    ],
+    [
+      "north degrees minutes",
+      9
+    ],
+    [
+      "thence due south",
+      8
+    ]
+  ]
+}

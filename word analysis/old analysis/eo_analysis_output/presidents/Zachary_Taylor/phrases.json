@@ -1,0 +1,530 @@
+{
+  "president": "Zachary_Taylor",
+  "party": "Whig",
+  "top_unigrams": [
+    [
+      "war",
+      5
+    ],
+    [
+      "army",
+      5
+    ],
+    [
+      "death",
+      4
+    ],
+    [
+      "james",
+      4
+    ],
+    [
+      "polk",
+      4
+    ],
+    [
+      "june",
+      4
+    ],
+    [
+      "orders",
+      4
+    ],
+    [
+      "honors",
+      4
+    ],
+    [
+      "day",
+      4
+    ],
+    [
+      "washington",
+      3
+    ],
+    [
+      "memory",
+      3
+    ],
+    [
+      "military",
+      3
+    ],
+    [
+      "taylor",
+      2
+    ],
+    [
+      "general",
+      2
+    ],
+    [
+      "department",
+      2
+    ],
+    [
+      "secretary",
+      2
+    ],
+    [
+      "late",
+      2
+    ],
+    [
+      "deep",
+      2
+    ],
+    [
+      "regret",
+      2
+    ],
+    [
+      "announces",
+      2
+    ],
+    [
+      "nashville",
+      2
+    ],
+    [
+      "instant",
+      2
+    ],
+    [
+      "history",
+      2
+    ],
+    [
+      "distinguished",
+      2
+    ],
+    [
+      "highest",
+      2
+    ],
+    [
+      "ordered",
+      2
+    ],
+    [
+      "several",
+      2
+    ],
+    [
+      "departments",
+      2
+    ],
+    [
+      "mourning",
+      2
+    ],
+    [
+      "paid",
+      2
+    ],
+    [
+      "died",
+      2
+    ],
+    [
+      "left",
+      2
+    ],
+    [
+      "adjutantgeneral",
+      2
+    ],
+    [
+      "national",
+      2
+    ],
+    [
+      "guns",
+      2
+    ],
+    [
+      "thirty",
+      2
+    ],
+    [
+      "zachary",
+      1
+    ],
+    [
+      "adjutantgenerals",
+      1
+    ],
+    [
+      "office",
+      1
+    ],
+    [
+      "following",
+      1
+    ],
+    [
+      "communicate",
+      1
+    ],
+    [
+      "expresident",
+      1
+    ],
+    [
+      "people",
+      1
+    ],
+    [
+      "occurred",
+      1
+    ],
+    [
+      "nation",
+      1
+    ],
+    [
+      "suddenly",
+      1
+    ],
+    [
+      "called",
+      1
+    ],
+    [
+      "mourn",
+      1
+    ],
+    [
+      "loss",
+      1
+    ],
+    [
+      "one",
+      1
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "james polk",
+      4
+    ],
+    [
+      "death james",
+      3
+    ],
+    [
+      "war department",
+      2
+    ],
+    [
+      "washington june",
+      2
+    ],
+    [
+      "secretary war",
+      2
+    ],
+    [
+      "army death",
+      2
+    ],
+    [
+      "june deep",
+      2
+    ],
+    [
+      "deep regret",
+      2
+    ],
+    [
+      "regret announces",
+      2
+    ],
+    [
+      "nashville instant",
+      2
+    ],
+    [
+      "highest honors",
+      2
+    ],
+    [
+      "honors paid",
+      2
+    ],
+    [
+      "polk june",
+      1
+    ],
+    [
+      "june zachary",
+      1
+    ],
+    [
+      "zachary taylor",
+      1
+    ],
+    [
+      "taylor general",
+      1
+    ],
+    [
+      "general orders",
+      1
+    ],
+    [
+      "orders war",
+      1
+    ],
+    [
+      "department adjutantgenerals",
+      1
+    ],
+    [
+      "adjutantgenerals office",
+      1
+    ],
+    [
+      "office washington",
+      1
+    ],
+    [
+      "june following",
+      1
+    ],
+    [
+      "following orders",
+      1
+    ],
+    [
+      "orders secretary",
+      1
+    ],
+    [
+      "war communicate",
+      1
+    ],
+    [
+      "communicate army",
+      1
+    ],
+    [
+      "death late",
+      1
+    ],
+    [
+      "late expresident",
+      1
+    ],
+    [
+      "expresident james",
+      1
+    ],
+    [
+      "polk washington",
+      1
+    ],
+    [
+      "announces people",
+      1
+    ],
+    [
+      "people death",
+      1
+    ],
+    [
+      "polk late",
+      1
+    ],
+    [
+      "late occurred",
+      1
+    ],
+    [
+      "occurred nashville",
+      1
+    ],
+    [
+      "instant nation",
+      1
+    ],
+    [
+      "nation suddenly",
+      1
+    ],
+    [
+      "suddenly called",
+      1
+    ],
+    [
+      "called mourn",
+      1
+    ],
+    [
+      "mourn loss",
+      1
+    ],
+    [
+      "loss one",
+      1
+    ],
+    [
+      "one recollection",
+      1
+    ],
+    [
+      "recollection whose",
+      1
+    ],
+    [
+      "whose long",
+      1
+    ],
+    [
+      "long services",
+      1
+    ],
+    [
+      "services councils",
+      1
+    ],
+    [
+      "councils forever",
+      1
+    ],
+    [
+      "forever preserved",
+      1
+    ],
+    [
+      "preserved tablets",
+      1
+    ],
+    [
+      "tablets history",
+      1
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "death james polk",
+      3
+    ],
+    [
+      "june deep regret",
+      2
+    ],
+    [
+      "deep regret announces",
+      2
+    ],
+    [
+      "james polk june",
+      1
+    ],
+    [
+      "polk june zachary",
+      1
+    ],
+    [
+      "june zachary taylor",
+      1
+    ],
+    [
+      "zachary taylor general",
+      1
+    ],
+    [
+      "taylor general orders",
+      1
+    ],
+    [
+      "general orders war",
+      1
+    ],
+    [
+      "orders war department",
+      1
+    ],
+    [
+      "war department adjutantgenerals",
+      1
+    ],
+    [
+      "department adjutantgenerals office",
+      1
+    ],
+    [
+      "adjutantgenerals office washington",
+      1
+    ],
+    [
+      "office washington june",
+      1
+    ],
+    [
+      "washington june following",
+      1
+    ],
+    [
+      "june following orders",
+      1
+    ],
+    [
+      "following orders secretary",
+      1
+    ],
+    [
+      "orders secretary war",
+      1
+    ],
+    [
+      "secretary war communicate",
+      1
+    ],
+    [
+      "war communicate army",
+      1
+    ],
+    [
+      "communicate army death",
+      1
+    ],
+    [
+      "army death late",
+      1
+    ],
+    [
+      "death late expresident",
+      1
+    ],
+    [
+      "late expresident james",
+      1
+    ],
+    [
+      "expresident james polk",
+      1
+    ],
+    [
+      "james polk washington",
+      1
+    ],
+    [
+      "polk washington june",
+      1
+    ],
+    [
+      "washington june deep",
+      1
+    ],
+    [
+      "regret announces people",
+      1
+    ],
+    [
+      "announces people death",
+      1
+    ]
+  ]
+}

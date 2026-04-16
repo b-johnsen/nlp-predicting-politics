@@ -1,0 +1,530 @@
+{
+  "president": "Jimmy_Carter",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "amended",
+      890
+    ],
+    [
+      "agency",
+      875
+    ],
+    [
+      "secretary",
+      854
+    ],
+    [
+      "office",
+      806
+    ],
+    [
+      "usc",
+      725
+    ],
+    [
+      "commission",
+      667
+    ],
+    [
+      "functions",
+      649
+    ],
+    [
+      "jimmy",
+      638
+    ],
+    [
+      "carter",
+      638
+    ],
+    [
+      "information",
+      592
+    ],
+    [
+      "director",
+      585
+    ],
+    [
+      "agencies",
+      550
+    ],
+    [
+      "general",
+      532
+    ],
+    [
+      "department",
+      505
+    ],
+    [
+      "committee",
+      487
+    ],
+    [
+      "council",
+      476
+    ],
+    [
+      "vested",
+      470
+    ],
+    [
+      "rule",
+      452
+    ],
+    [
+      "house",
+      431
+    ],
+    [
+      "evidence",
+      416
+    ],
+    [
+      "intelligence",
+      414
+    ],
+    [
+      "white",
+      410
+    ],
+    [
+      "foreign",
+      409
+    ],
+    [
+      "sec",
+      400
+    ],
+    [
+      "management",
+      393
+    ],
+    [
+      "provisions",
+      387
+    ],
+    [
+      "military",
+      387
+    ],
+    [
+      "national",
+      382
+    ],
+    [
+      "defense",
+      365
+    ],
+    [
+      "follows",
+      364
+    ],
+    [
+      "service",
+      351
+    ],
+    [
+      "register",
+      349
+    ],
+    [
+      "members",
+      345
+    ],
+    [
+      "made",
+      339
+    ],
+    [
+      "state",
+      332
+    ],
+    [
+      "filed",
+      310
+    ],
+    [
+      "appropriate",
+      309
+    ],
+    [
+      "public",
+      305
+    ],
+    [
+      "regulations",
+      286
+    ],
+    [
+      "person",
+      277
+    ],
+    [
+      "services",
+      274
+    ],
+    [
+      "policy",
+      271
+    ],
+    [
+      "effective",
+      260
+    ],
+    [
+      "ordered",
+      258
+    ],
+    [
+      "provide",
+      257
+    ],
+    [
+      "development",
+      254
+    ],
+    [
+      "necessary",
+      252
+    ],
+    [
+      "judge",
+      251
+    ],
+    [
+      "code",
+      248
+    ],
+    [
+      "procedures",
+      244
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "jimmy carter",
+      638
+    ],
+    [
+      "white house",
+      408
+    ],
+    [
+      "carter white",
+      317
+    ],
+    [
+      "filed office",
+      300
+    ],
+    [
+      "office register",
+      300
+    ],
+    [
+      "military judge",
+      222
+    ],
+    [
+      "ordered follows",
+      217
+    ],
+    [
+      "director office",
+      199
+    ],
+    [
+      "vested constitution",
+      188
+    ],
+    [
+      "amended usc",
+      186
+    ],
+    [
+      "office management",
+      171
+    ],
+    [
+      "management budget",
+      171
+    ],
+    [
+      "attorney general",
+      165
+    ],
+    [
+      "advisory committee",
+      137
+    ],
+    [
+      "national security",
+      131
+    ],
+    [
+      "carter vested",
+      129
+    ],
+    [
+      "secretary state",
+      119
+    ],
+    [
+      "constitution statutes",
+      118
+    ],
+    [
+      "secretary defense",
+      118
+    ],
+    [
+      "virtue vested",
+      113
+    ],
+    [
+      "stat usc",
+      113
+    ],
+    [
+      "foreign intelligence",
+      110
+    ],
+    [
+      "usc app",
+      106
+    ],
+    [
+      "reorganization plan",
+      102
+    ],
+    [
+      "general services",
+      100
+    ],
+    [
+      "functions vested",
+      97
+    ],
+    [
+      "central intelligence",
+      96
+    ],
+    [
+      "usc seq",
+      95
+    ],
+    [
+      "civil service",
+      94
+    ],
+    [
+      "classified information",
+      88
+    ],
+    [
+      "extent permitted",
+      85
+    ],
+    [
+      "secretary treasury",
+      81
+    ],
+    [
+      "departments agencies",
+      79
+    ],
+    [
+      "secretary commerce",
+      79
+    ],
+    [
+      "foreign service",
+      77
+    ],
+    [
+      "head agency",
+      76
+    ],
+    [
+      "amended read",
+      76
+    ],
+    [
+      "secretary labor",
+      74
+    ],
+    [
+      "director central",
+      73
+    ],
+    [
+      "administrator general",
+      71
+    ],
+    [
+      "equal employment",
+      71
+    ],
+    [
+      "secretary energy",
+      69
+    ],
+    [
+      "amended amended",
+      68
+    ],
+    [
+      "read follows",
+      66
+    ],
+    [
+      "paragraph amended",
+      66
+    ],
+    [
+      "department defense",
+      66
+    ],
+    [
+      "employment opportunity",
+      65
+    ],
+    [
+      "emergency management",
+      64
+    ],
+    [
+      "department state",
+      63
+    ],
+    [
+      "amended deleting",
+      63
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "jimmy carter white",
+      317
+    ],
+    [
+      "carter white house",
+      316
+    ],
+    [
+      "filed office register",
+      300
+    ],
+    [
+      "office management budget",
+      171
+    ],
+    [
+      "director office management",
+      130
+    ],
+    [
+      "jimmy carter vested",
+      129
+    ],
+    [
+      "vested constitution statutes",
+      115
+    ],
+    [
+      "carter vested constitution",
+      81
+    ],
+    [
+      "director central intelligence",
+      73
+    ],
+    [
+      "administrator general services",
+      71
+    ],
+    [
+      "virtue vested constitution",
+      69
+    ],
+    [
+      "equal employment opportunity",
+      65
+    ],
+    [
+      "white house press",
+      62
+    ],
+    [
+      "emergency management agency",
+      61
+    ],
+    [
+      "housing urban development",
+      56
+    ],
+    [
+      "advisory committee usc",
+      51
+    ],
+    [
+      "committee usc app",
+      51
+    ],
+    [
+      "civil service commission",
+      51
+    ],
+    [
+      "attached hereto made",
+      51
+    ],
+    [
+      "january jimmy carter",
+      51
+    ],
+    [
+      "national foreign intelligence",
+      51
+    ],
+    [
+      "hereto made hereof",
+      50
+    ],
+    [
+      "amended read follows",
+      49
+    ],
+    [
+      "office personnel management",
+      47
+    ],
+    [
+      "paragraph amended striking",
+      46
+    ],
+    [
+      "ordered follows establishment",
+      45
+    ],
+    [
+      "environmental protection agency",
+      44
+    ],
+    [
+      "health education welfare",
+      44
+    ],
+    [
+      "white house january",
+      44
+    ],
+    [
+      "director emergency management",
+      44
+    ]
+  ]
+}

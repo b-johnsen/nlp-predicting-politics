@@ -1,0 +1,530 @@
+{
+  "president": "Ronald_Reagan",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "sec",
+      1142
+    ],
+    [
+      "amended",
+      1084
+    ],
+    [
+      "secretary",
+      899
+    ],
+    [
+      "office",
+      838
+    ],
+    [
+      "reagan",
+      774
+    ],
+    [
+      "ronald",
+      772
+    ],
+    [
+      "national",
+      725
+    ],
+    [
+      "board",
+      700
+    ],
+    [
+      "agency",
+      673
+    ],
+    [
+      "usc",
+      633
+    ],
+    [
+      "commission",
+      601
+    ],
+    [
+      "functions",
+      586
+    ],
+    [
+      "emergency",
+      582
+    ],
+    [
+      "agencies",
+      567
+    ],
+    [
+      "vested",
+      554
+    ],
+    [
+      "committee",
+      517
+    ],
+    [
+      "security",
+      507
+    ],
+    [
+      "director",
+      478
+    ],
+    [
+      "information",
+      470
+    ],
+    [
+      "follows",
+      458
+    ],
+    [
+      "department",
+      456
+    ],
+    [
+      "service",
+      451
+    ],
+    [
+      "members",
+      440
+    ],
+    [
+      "defense",
+      438
+    ],
+    [
+      "house",
+      433
+    ],
+    [
+      "register",
+      430
+    ],
+    [
+      "white",
+      423
+    ],
+    [
+      "management",
+      412
+    ],
+    [
+      "state",
+      408
+    ],
+    [
+      "general",
+      401
+    ],
+    [
+      "services",
+      399
+    ],
+    [
+      "filed",
+      382
+    ],
+    [
+      "labor",
+      374
+    ],
+    [
+      "intelligence",
+      372
+    ],
+    [
+      "dispute",
+      368
+    ],
+    [
+      "foreign",
+      366
+    ],
+    [
+      "provide",
+      362
+    ],
+    [
+      "ordered",
+      357
+    ],
+    [
+      "report",
+      331
+    ],
+    [
+      "public",
+      319
+    ],
+    [
+      "constitution",
+      316
+    ],
+    [
+      "council",
+      311
+    ],
+    [
+      "appropriate",
+      306
+    ],
+    [
+      "made",
+      298
+    ],
+    [
+      "investigate",
+      287
+    ],
+    [
+      "advisory",
+      279
+    ],
+    [
+      "international",
+      274
+    ],
+    [
+      "provisions",
+      274
+    ],
+    [
+      "military",
+      273
+    ],
+    [
+      "regulations",
+      271
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "ronald reagan",
+      772
+    ],
+    [
+      "white house",
+      418
+    ],
+    [
+      "reagan white",
+      381
+    ],
+    [
+      "filed office",
+      375
+    ],
+    [
+      "office register",
+      372
+    ],
+    [
+      "national security",
+      372
+    ],
+    [
+      "vested constitution",
+      297
+    ],
+    [
+      "reagan vested",
+      285
+    ],
+    [
+      "emergency board",
+      283
+    ],
+    [
+      "ordered follows",
+      270
+    ],
+    [
+      "board investigate",
+      255
+    ],
+    [
+      "departments agencies",
+      210
+    ],
+    [
+      "advisory committee",
+      199
+    ],
+    [
+      "amended usc",
+      191
+    ],
+    [
+      "creating emergency",
+      191
+    ],
+    [
+      "constitution laws",
+      179
+    ],
+    [
+      "secretary defense",
+      179
+    ],
+    [
+      "labor dispute",
+      177
+    ],
+    [
+      "investigate railroad",
+      169
+    ],
+    [
+      "railroad labor",
+      169
+    ],
+    [
+      "inserting lieu",
+      154
+    ],
+    [
+      "extent permitted",
+      151
+    ],
+    [
+      "secretary state",
+      150
+    ],
+    [
+      "management budget",
+      144
+    ],
+    [
+      "office management",
+      143
+    ],
+    [
+      "director office",
+      141
+    ],
+    [
+      "functions vested",
+      132
+    ],
+    [
+      "task force",
+      130
+    ],
+    [
+      "private sector",
+      129
+    ],
+    [
+      "committee amended",
+      115
+    ],
+    [
+      "state local",
+      108
+    ],
+    [
+      "security emergency",
+      108
+    ],
+    [
+      "amended amended",
+      104
+    ],
+    [
+      "attorney general",
+      100
+    ],
+    [
+      "department agency",
+      100
+    ],
+    [
+      "central intelligence",
+      97
+    ],
+    [
+      "usc app",
+      97
+    ],
+    [
+      "sec amended",
+      95
+    ],
+    [
+      "security emergencies",
+      95
+    ],
+    [
+      "constitution statutes",
+      91
+    ],
+    [
+      "members appointed",
+      89
+    ],
+    [
+      "dispute creating",
+      89
+    ],
+    [
+      "general services",
+      87
+    ],
+    [
+      "emergency preparedness",
+      83
+    ],
+    [
+      "office press",
+      83
+    ],
+    [
+      "released office",
+      82
+    ],
+    [
+      "read follows",
+      81
+    ],
+    [
+      "amended striking",
+      81
+    ],
+    [
+      "follows establishment",
+      80
+    ],
+    [
+      "press secretary",
+      80
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "ronald reagan white",
+      381
+    ],
+    [
+      "reagan white house",
+      381
+    ],
+    [
+      "filed office register",
+      372
+    ],
+    [
+      "ronald reagan vested",
+      285
+    ],
+    [
+      "emergency board investigate",
+      255
+    ],
+    [
+      "reagan vested constitution",
+      234
+    ],
+    [
+      "creating emergency board",
+      191
+    ],
+    [
+      "vested constitution laws",
+      173
+    ],
+    [
+      "board investigate railroad",
+      169
+    ],
+    [
+      "investigate railroad labor",
+      169
+    ],
+    [
+      "office management budget",
+      142
+    ],
+    [
+      "railroad labor dispute",
+      127
+    ],
+    [
+      "advisory committee amended",
+      114
+    ],
+    [
+      "national security emergency",
+      108
+    ],
+    [
+      "national security emergencies",
+      95
+    ],
+    [
+      "amended usc app",
+      93
+    ],
+    [
+      "director office management",
+      91
+    ],
+    [
+      "vested constitution statutes",
+      90
+    ],
+    [
+      "labor dispute creating",
+      89
+    ],
+    [
+      "dispute creating emergency",
+      84
+    ],
+    [
+      "released office press",
+      82
+    ],
+    [
+      "committee amended usc",
+      80
+    ],
+    [
+      "office press secretary",
+      80
+    ],
+    [
+      "administrator general services",
+      78
+    ],
+    [
+      "ordered follows establishment",
+      78
+    ],
+    [
+      "health human services",
+      68
+    ],
+    [
+      "attached hereto made",
+      66
+    ],
+    [
+      "security emergency preparedness",
+      66
+    ],
+    [
+      "hereto made hereof",
+      65
+    ],
+    [
+      "amended read follows",
+      62
+    ]
+  ]
+}

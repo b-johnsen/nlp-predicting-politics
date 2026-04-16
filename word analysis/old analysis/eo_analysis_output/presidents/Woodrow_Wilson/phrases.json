@@ -1,0 +1,530 @@
+{
+  "president": "Woodrow_Wilson",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "wilson",
+      310
+    ],
+    [
+      "woodrow",
+      309
+    ],
+    [
+      "canal",
+      191
+    ],
+    [
+      "secretary",
+      180
+    ],
+    [
+      "service",
+      168
+    ],
+    [
+      "board",
+      156
+    ],
+    [
+      "house",
+      152
+    ],
+    [
+      "white",
+      148
+    ],
+    [
+      "enemy",
+      143
+    ],
+    [
+      "time",
+      137
+    ],
+    [
+      "vessel",
+      137
+    ],
+    [
+      "person",
+      132
+    ],
+    [
+      "war",
+      131
+    ],
+    [
+      "department",
+      130
+    ],
+    [
+      "foreign",
+      126
+    ],
+    [
+      "approved",
+      108
+    ],
+    [
+      "panama",
+      108
+    ],
+    [
+      "regulations",
+      103
+    ],
+    [
+      "authorized",
+      100
+    ],
+    [
+      "zone",
+      100
+    ],
+    [
+      "made",
+      99
+    ],
+    [
+      "august",
+      91
+    ],
+    [
+      "provisions",
+      90
+    ],
+    [
+      "necessary",
+      81
+    ],
+    [
+      "persons",
+      80
+    ],
+    [
+      "congress",
+      78
+    ],
+    [
+      "seaman",
+      77
+    ],
+    [
+      "date",
+      76
+    ],
+    [
+      "one",
+      76
+    ],
+    [
+      "officer",
+      76
+    ],
+    [
+      "treasury",
+      75
+    ],
+    [
+      "leave",
+      75
+    ],
+    [
+      "state",
+      74
+    ],
+    [
+      "employees",
+      74
+    ],
+    [
+      "june",
+      73
+    ],
+    [
+      "following",
+      72
+    ],
+    [
+      "public",
+      68
+    ],
+    [
+      "sec",
+      68
+    ],
+    [
+      "national",
+      67
+    ],
+    [
+      "wages",
+      67
+    ],
+    [
+      "ordered",
+      66
+    ],
+    [
+      "port",
+      66
+    ],
+    [
+      "reserve",
+      66
+    ],
+    [
+      "navy",
+      65
+    ],
+    [
+      "take",
+      64
+    ],
+    [
+      "use",
+      64
+    ],
+    [
+      "consular",
+      64
+    ],
+    [
+      "entitled",
+      62
+    ],
+    [
+      "commission",
+      61
+    ],
+    [
+      "required",
+      61
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "woodrow wilson",
+      309
+    ],
+    [
+      "wilson white",
+      146
+    ],
+    [
+      "white house",
+      146
+    ],
+    [
+      "canal zone",
+      100
+    ],
+    [
+      "panama canal",
+      71
+    ],
+    [
+      "enemy ally",
+      53
+    ],
+    [
+      "secretary treasury",
+      52
+    ],
+    [
+      "ally enemy",
+      52
+    ],
+    [
+      "reserve board",
+      47
+    ],
+    [
+      "virtue vested",
+      40
+    ],
+    [
+      "civil service",
+      35
+    ],
+    [
+      "congress approved",
+      35
+    ],
+    [
+      "trading enemy",
+      35
+    ],
+    [
+      "rules regulations",
+      34
+    ],
+    [
+      "secretary navy",
+      33
+    ],
+    [
+      "wilson virtue",
+      32
+    ],
+    [
+      "take effect",
+      28
+    ],
+    [
+      "secretary war",
+      28
+    ],
+    [
+      "secretary state",
+      27
+    ],
+    [
+      "consular officer",
+      27
+    ],
+    [
+      "wilson ordered",
+      27
+    ],
+    [
+      "national forest",
+      24
+    ],
+    [
+      "grain corporation",
+      23
+    ],
+    [
+      "alien property",
+      23
+    ],
+    [
+      "property custodian",
+      23
+    ],
+    [
+      "september woodrow",
+      23
+    ],
+    [
+      "nineteen hundred",
+      22
+    ],
+    [
+      "approved august",
+      22
+    ],
+    [
+      "war trade",
+      22
+    ],
+    [
+      "house september",
+      22
+    ],
+    [
+      "august woodrow",
+      21
+    ],
+    [
+      "cumulative leave",
+      21
+    ],
+    [
+      "foreign exchange",
+      21
+    ],
+    [
+      "foreign country",
+      21
+    ],
+    [
+      "shipping board",
+      21
+    ],
+    [
+      "house august",
+      20
+    ],
+    [
+      "approved june",
+      20
+    ],
+    [
+      "time time",
+      20
+    ],
+    [
+      "effect date",
+      19
+    ],
+    [
+      "date woodrow",
+      19
+    ],
+    [
+      "governor panama",
+      19
+    ],
+    [
+      "virgin islands",
+      19
+    ],
+    [
+      "april woodrow",
+      18
+    ],
+    [
+      "entitled provide",
+      18
+    ],
+    [
+      "war department",
+      18
+    ],
+    [
+      "master vessel",
+      18
+    ],
+    [
+      "public domain",
+      18
+    ],
+    [
+      "trade board",
+      18
+    ],
+    [
+      "eight hours",
+      17
+    ],
+    [
+      "one year",
+      17
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "woodrow wilson white",
+      146
+    ],
+    [
+      "wilson white house",
+      146
+    ],
+    [
+      "enemy ally enemy",
+      52
+    ],
+    [
+      "woodrow wilson virtue",
+      32
+    ],
+    [
+      "wilson virtue vested",
+      28
+    ],
+    [
+      "woodrow wilson ordered",
+      27
+    ],
+    [
+      "alien property custodian",
+      23
+    ],
+    [
+      "september woodrow wilson",
+      23
+    ],
+    [
+      "white house september",
+      22
+    ],
+    [
+      "august woodrow wilson",
+      21
+    ],
+    [
+      "white house august",
+      20
+    ],
+    [
+      "take effect date",
+      19
+    ],
+    [
+      "date woodrow wilson",
+      19
+    ],
+    [
+      "governor panama canal",
+      19
+    ],
+    [
+      "april woodrow wilson",
+      18
+    ],
+    [
+      "war trade board",
+      18
+    ],
+    [
+      "effect date woodrow",
+      17
+    ],
+    [
+      "june woodrow wilson",
+      17
+    ],
+    [
+      "civil service commission",
+      15
+    ],
+    [
+      "amended read follows",
+      15
+    ],
+    [
+      "white house april",
+      14
+    ],
+    [
+      "october woodrow wilson",
+      14
+    ],
+    [
+      "coin bullion currency",
+      13
+    ],
+    [
+      "july woodrow wilson",
+      13
+    ],
+    [
+      "white house july",
+      13
+    ],
+    [
+      "provisions trading enemy",
+      13
+    ],
+    [
+      "white house october",
+      13
+    ],
+    [
+      "virtue vested establish",
+      12
+    ],
+    [
+      "establish following canal",
+      12
+    ],
+    [
+      "following canal zone",
+      12
+    ]
+  ]
+}

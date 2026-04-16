@@ -1,0 +1,530 @@
+{
+  "president": "Millard_Fillmore",
+  "party": "Whig",
+  "top_unigrams": [
+    [
+      "point",
+      16
+    ],
+    [
+      "millard",
+      12
+    ],
+    [
+      "fillmore",
+      12
+    ],
+    [
+      "san",
+      9
+    ],
+    [
+      "francisco",
+      7
+    ],
+    [
+      "jose",
+      6
+    ],
+    [
+      "island",
+      6
+    ],
+    [
+      "california",
+      5
+    ],
+    [
+      "sir",
+      5
+    ],
+    [
+      "secretary",
+      5
+    ],
+    [
+      "land",
+      5
+    ],
+    [
+      "extremity",
+      5
+    ],
+    [
+      "southern",
+      5
+    ],
+    [
+      "war",
+      4
+    ],
+    [
+      "washington",
+      4
+    ],
+    [
+      "respectfully",
+      4
+    ],
+    [
+      "fort",
+      4
+    ],
+    [
+      "presidio",
+      4
+    ],
+    [
+      "yards",
+      4
+    ],
+    [
+      "line",
+      4
+    ],
+    [
+      "obedient",
+      4
+    ],
+    [
+      "servant",
+      4
+    ],
+    [
+      "departments",
+      4
+    ],
+    [
+      "bay",
+      4
+    ],
+    [
+      "state",
+      4
+    ],
+    [
+      "straits",
+      4
+    ],
+    [
+      "reservation",
+      3
+    ],
+    [
+      "harbor",
+      3
+    ],
+    [
+      "december",
+      3
+    ],
+    [
+      "honor",
+      3
+    ],
+    [
+      "entrance",
+      3
+    ],
+    [
+      "november",
+      3
+    ],
+    [
+      "eight",
+      3
+    ],
+    [
+      "hundred",
+      3
+    ],
+    [
+      "pond",
+      3
+    ],
+    [
+      "channel",
+      3
+    ],
+    [
+      "sad",
+      3
+    ],
+    [
+      "public",
+      3
+    ],
+    [
+      "general",
+      3
+    ],
+    [
+      "boundary",
+      3
+    ],
+    [
+      "eastern",
+      3
+    ],
+    [
+      "side",
+      3
+    ],
+    [
+      "mare",
+      3
+    ],
+    [
+      "modifying",
+      2
+    ],
+    [
+      "reducing",
+      2
+    ],
+    [
+      "port",
+      2
+    ],
+    [
+      "department",
+      2
+    ],
+    [
+      "herewith",
+      2
+    ],
+    [
+      "chief",
+      2
+    ],
+    [
+      "obt",
+      2
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "millard fillmore",
+      12
+    ],
+    [
+      "san francisco",
+      7
+    ],
+    [
+      "point point",
+      5
+    ],
+    [
+      "point jose",
+      5
+    ],
+    [
+      "fort point",
+      4
+    ],
+    [
+      "obedient servant",
+      4
+    ],
+    [
+      "servant millard",
+      4
+    ],
+    [
+      "eight hundred",
+      3
+    ],
+    [
+      "hundred yards",
+      3
+    ],
+    [
+      "bay san",
+      3
+    ],
+    [
+      "southern boundary",
+      3
+    ],
+    [
+      "eastern side",
+      3
+    ],
+    [
+      "mare island",
+      3
+    ],
+    [
+      "secretary state",
+      3
+    ],
+    [
+      "modifying reducing",
+      2
+    ],
+    [
+      "reducing reservation",
+      2
+    ],
+    [
+      "reservation port",
+      2
+    ],
+    [
+      "port point",
+      2
+    ],
+    [
+      "jose san",
+      2
+    ],
+    [
+      "francisco harbor",
+      2
+    ],
+    [
+      "harbor california",
+      2
+    ],
+    [
+      "washington december",
+      2
+    ],
+    [
+      "respectfully obt",
+      2
+    ],
+    [
+      "obt servt",
+      2
+    ],
+    [
+      "secretary war",
+      2
+    ],
+    [
+      "francisco california",
+      2
+    ],
+    [
+      "northern extremity",
+      2
+    ],
+    [
+      "presidio tract",
+      2
+    ],
+    [
+      "southern extremity",
+      2
+    ],
+    [
+      "extremity pond",
+      2
+    ],
+    [
+      "point lobos",
+      2
+    ],
+    [
+      "pond outlet",
+      2
+    ],
+    [
+      "outlet channel",
+      2
+    ],
+    [
+      "channel entrance",
+      2
+    ],
+    [
+      "sale public",
+      2
+    ],
+    [
+      "public purposes",
+      2
+    ],
+    [
+      "point eight",
+      2
+    ],
+    [
+      "high hills",
+      2
+    ],
+    [
+      "acting secretary",
+      2
+    ],
+    [
+      "california december",
+      1
+    ],
+    [
+      "december millard",
+      1
+    ],
+    [
+      "fillmore war",
+      1
+    ],
+    [
+      "war department",
+      1
+    ],
+    [
+      "department washington",
+      1
+    ],
+    [
+      "december sir",
+      1
+    ],
+    [
+      "sir honor",
+      1
+    ],
+    [
+      "honor submit",
+      1
+    ],
+    [
+      "submit herewith",
+      1
+    ],
+    [
+      "herewith consideration",
+      1
+    ],
+    [
+      "consideration draught",
+      1
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "obedient servant millard",
+      4
+    ],
+    [
+      "servant millard fillmore",
+      4
+    ],
+    [
+      "point point jose",
+      3
+    ],
+    [
+      "fort point point",
+      3
+    ],
+    [
+      "eight hundred yards",
+      3
+    ],
+    [
+      "modifying reducing reservation",
+      2
+    ],
+    [
+      "reducing reservation port",
+      2
+    ],
+    [
+      "reservation port point",
+      2
+    ],
+    [
+      "port point point",
+      2
+    ],
+    [
+      "point jose san",
+      2
+    ],
+    [
+      "jose san francisco",
+      2
+    ],
+    [
+      "san francisco harbor",
+      2
+    ],
+    [
+      "francisco harbor california",
+      2
+    ],
+    [
+      "respectfully obt servt",
+      2
+    ],
+    [
+      "san francisco california",
+      2
+    ],
+    [
+      "southern extremity pond",
+      2
+    ],
+    [
+      "point point lobos",
+      2
+    ],
+    [
+      "pond outlet channel",
+      2
+    ],
+    [
+      "sale public purposes",
+      2
+    ],
+    [
+      "bay san francisco",
+      2
+    ],
+    [
+      "point eight hundred",
+      2
+    ],
+    [
+      "acting secretary state",
+      2
+    ],
+    [
+      "harbor california december",
+      1
+    ],
+    [
+      "california december millard",
+      1
+    ],
+    [
+      "december millard fillmore",
+      1
+    ],
+    [
+      "millard fillmore war",
+      1
+    ],
+    [
+      "fillmore war department",
+      1
+    ],
+    [
+      "war department washington",
+      1
+    ],
+    [
+      "department washington december",
+      1
+    ],
+    [
+      "washington december sir",
+      1
+    ]
+  ]
+}

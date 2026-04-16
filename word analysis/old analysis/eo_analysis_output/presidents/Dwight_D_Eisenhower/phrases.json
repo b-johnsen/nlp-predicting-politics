@@ -1,0 +1,530 @@
+{
+  "president": "Dwight_D_Eisenhower",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "feet",
+      1728
+    ],
+    [
+      "amended",
+      1086
+    ],
+    [
+      "dwight",
+      965
+    ],
+    [
+      "eisenhower",
+      965
+    ],
+    [
+      "sec",
+      943
+    ],
+    [
+      "service",
+      895
+    ],
+    [
+      "board",
+      895
+    ],
+    [
+      "secretary",
+      894
+    ],
+    [
+      "railway",
+      797
+    ],
+    [
+      "stat",
+      771
+    ],
+    [
+      "railroad",
+      770
+    ],
+    [
+      "vested",
+      715
+    ],
+    [
+      "department",
+      642
+    ],
+    [
+      "follows",
+      624
+    ],
+    [
+      "defense",
+      622
+    ],
+    [
+      "line",
+      614
+    ],
+    [
+      "state",
+      585
+    ],
+    [
+      "provisions",
+      562
+    ],
+    [
+      "functions",
+      549
+    ],
+    [
+      "national",
+      545
+    ],
+    [
+      "agency",
+      538
+    ],
+    [
+      "house",
+      533
+    ],
+    [
+      "white",
+      528
+    ],
+    [
+      "land",
+      528
+    ],
+    [
+      "point",
+      496
+    ],
+    [
+      "company",
+      496
+    ],
+    [
+      "virtue",
+      480
+    ],
+    [
+      "usc",
+      469
+    ],
+    [
+      "commission",
+      450
+    ],
+    [
+      "registrant",
+      447
+    ],
+    [
+      "agencies",
+      438
+    ],
+    [
+      "director",
+      418
+    ],
+    [
+      "boundary",
+      411
+    ],
+    [
+      "committee",
+      410
+    ],
+    [
+      "made",
+      404
+    ],
+    [
+      "local",
+      400
+    ],
+    [
+      "regulations",
+      390
+    ],
+    [
+      "certain",
+      388
+    ],
+    [
+      "employees",
+      385
+    ],
+    [
+      "described",
+      382
+    ],
+    [
+      "ordered",
+      371
+    ],
+    [
+      "administration",
+      365
+    ],
+    [
+      "respect",
+      364
+    ],
+    [
+      "civil",
+      349
+    ],
+    [
+      "june",
+      332
+    ],
+    [
+      "contour",
+      329
+    ],
+    [
+      "except",
+      326
+    ],
+    [
+      "along",
+      320
+    ],
+    [
+      "foreign",
+      319
+    ],
+    [
+      "forces",
+      306
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "dwight eisenhower",
+      965
+    ],
+    [
+      "white house",
+      496
+    ],
+    [
+      "eisenhower white",
+      480
+    ],
+    [
+      "virtue vested",
+      476
+    ],
+    [
+      "eisenhower virtue",
+      347
+    ],
+    [
+      "local board",
+      337
+    ],
+    [
+      "armed forces",
+      283
+    ],
+    [
+      "feet feet",
+      281
+    ],
+    [
+      "metal marker",
+      272
+    ],
+    [
+      "foot contour",
+      249
+    ],
+    [
+      "stat usc",
+      242
+    ],
+    [
+      "feet along",
+      234
+    ],
+    [
+      "ordered follows",
+      231
+    ],
+    [
+      "center line",
+      222
+    ],
+    [
+      "secs inclusive",
+      202
+    ],
+    [
+      "civil service",
+      201
+    ],
+    [
+      "sss form",
+      200
+    ],
+    [
+      "railroad company",
+      197
+    ],
+    [
+      "feet point",
+      195
+    ],
+    [
+      "read follows",
+      194
+    ],
+    [
+      "amended read",
+      187
+    ],
+    [
+      "secretary state",
+      178
+    ],
+    [
+      "secretary defense",
+      172
+    ],
+    [
+      "feet metal",
+      161
+    ],
+    [
+      "purchase boundary",
+      160
+    ],
+    [
+      "ustva purchase",
+      153
+    ],
+    [
+      "stat amended",
+      141
+    ],
+    [
+      "point beginning",
+      134
+    ],
+    [
+      "defense mobilization",
+      129
+    ],
+    [
+      "amended usc",
+      128
+    ],
+    [
+      "marker feet",
+      128
+    ],
+    [
+      "railway company",
+      127
+    ],
+    [
+      "therefore virtue",
+      125
+    ],
+    [
+      "monument feet",
+      123
+    ],
+    [
+      "inclusive secs",
+      123
+    ],
+    [
+      "department agency",
+      121
+    ],
+    [
+      "selective service",
+      121
+    ],
+    [
+      "new york",
+      117
+    ],
+    [
+      "approximately feet",
+      117
+    ],
+    [
+      "line feet",
+      112
+    ],
+    [
+      "territory hawaii",
+      110
+    ],
+    [
+      "concrete monument",
+      109
+    ],
+    [
+      "acres less",
+      109
+    ],
+    [
+      "ustva monument",
+      106
+    ],
+    [
+      "service commission",
+      104
+    ],
+    [
+      "railway labor",
+      102
+    ],
+    [
+      "described follows",
+      101
+    ],
+    [
+      "functions conferred",
+      101
+    ],
+    [
+      "foreign service",
+      101
+    ],
+    [
+      "office defense",
+      99
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "dwight eisenhower white",
+      480
+    ],
+    [
+      "eisenhower white house",
+      480
+    ],
+    [
+      "dwight eisenhower virtue",
+      347
+    ],
+    [
+      "eisenhower virtue vested",
+      347
+    ],
+    [
+      "amended read follows",
+      168
+    ],
+    [
+      "feet metal marker",
+      161
+    ],
+    [
+      "ustva purchase boundary",
+      153
+    ],
+    [
+      "feet feet feet",
+      139
+    ],
+    [
+      "metal marker feet",
+      128
+    ],
+    [
+      "therefore virtue vested",
+      125
+    ],
+    [
+      "secs inclusive secs",
+      123
+    ],
+    [
+      "inclusive secs inclusive",
+      104
+    ],
+    [
+      "civil service commission",
+      99
+    ],
+    [
+      "railway labor amended",
+      93
+    ],
+    [
+      "office defense mobilization",
+      86
+    ],
+    [
+      "director selective service",
+      86
+    ],
+    [
+      "internal revenue code",
+      84
+    ],
+    [
+      "point foot contour",
+      84
+    ],
+    [
+      "described follows beginning",
+      83
+    ],
+    [
+      "americas boundary line",
+      81
+    ],
+    [
+      "marker feet metal",
+      81
+    ],
+    [
+      "passing metal marker",
+      78
+    ],
+    [
+      "metal marker foot",
+      78
+    ],
+    [
+      "marker foot contour",
+      77
+    ],
+    [
+      "feet ustva monument",
+      75
+    ],
+    [
+      "feet passing metal",
+      72
+    ],
+    [
+      "director office defense",
+      70
+    ],
+    [
+      "foot contour feet",
+      68
+    ],
+    [
+      "land described parcel",
+      65
+    ],
+    [
+      "director bureau budget",
+      64
+    ]
+  ]
+}

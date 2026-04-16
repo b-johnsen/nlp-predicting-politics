@@ -1,0 +1,529 @@
+{
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "sec",
+      11170
+    ],
+    [
+      "secretary",
+      9619
+    ],
+    [
+      "department",
+      5625
+    ],
+    [
+      "amended",
+      5578
+    ],
+    [
+      "national",
+      5574
+    ],
+    [
+      "agency",
+      5414
+    ],
+    [
+      "agencies",
+      4800
+    ],
+    [
+      "service",
+      4799
+    ],
+    [
+      "office",
+      4392
+    ],
+    [
+      "house",
+      4032
+    ],
+    [
+      "white",
+      3971
+    ],
+    [
+      "state",
+      3960
+    ],
+    [
+      "public",
+      3812
+    ],
+    [
+      "security",
+      3717
+    ],
+    [
+      "director",
+      3691
+    ],
+    [
+      "usc",
+      3499
+    ],
+    [
+      "general",
+      3236
+    ],
+    [
+      "appropriate",
+      3191
+    ],
+    [
+      "vested",
+      3147
+    ],
+    [
+      "functions",
+      3132
+    ],
+    [
+      "commission",
+      3077
+    ],
+    [
+      "board",
+      2867
+    ],
+    [
+      "ordered",
+      2841
+    ],
+    [
+      "provisions",
+      2821
+    ],
+    [
+      "regulations",
+      2820
+    ],
+    [
+      "information",
+      2816
+    ],
+    [
+      "defense",
+      2765
+    ],
+    [
+      "foreign",
+      2753
+    ],
+    [
+      "follows",
+      2745
+    ],
+    [
+      "policy",
+      2702
+    ],
+    [
+      "date",
+      2661
+    ],
+    [
+      "feet",
+      2563
+    ],
+    [
+      "council",
+      2555
+    ],
+    [
+      "committee",
+      2488
+    ],
+    [
+      "subject",
+      2483
+    ],
+    [
+      "employees",
+      2448
+    ],
+    [
+      "person",
+      2434
+    ],
+    [
+      "services",
+      2351
+    ],
+    [
+      "management",
+      2347
+    ],
+    [
+      "stat",
+      2345
+    ],
+    [
+      "emergency",
+      2194
+    ],
+    [
+      "departments",
+      2193
+    ],
+    [
+      "made",
+      2171
+    ],
+    [
+      "laws",
+      2128
+    ],
+    [
+      "applicable",
+      2085
+    ],
+    [
+      "officers",
+      2074
+    ],
+    [
+      "june",
+      2071
+    ],
+    [
+      "following",
+      2068
+    ],
+    [
+      "consistent",
+      2045
+    ],
+    [
+      "hoover",
+      2018
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "white house",
+      3854
+    ],
+    [
+      "sec sec",
+      2094
+    ],
+    [
+      "herbert hoover",
+      2014
+    ],
+    [
+      "departments agencies",
+      1640
+    ],
+    [
+      "national security",
+      1565
+    ],
+    [
+      "secretary state",
+      1455
+    ],
+    [
+      "vested constitution",
+      1393
+    ],
+    [
+      "director office",
+      1297
+    ],
+    [
+      "ordered follows",
+      1232
+    ],
+    [
+      "virtue vested",
+      1155
+    ],
+    [
+      "constitution laws",
+      1140
+    ],
+    [
+      "department agency",
+      1103
+    ],
+    [
+      "management budget",
+      1083
+    ],
+    [
+      "office management",
+      1082
+    ],
+    [
+      "secretary treasury",
+      1023
+    ],
+    [
+      "secretary defense",
+      1008
+    ],
+    [
+      "homeland security",
+      1006
+    ],
+    [
+      "hoover white",
+      1001
+    ],
+    [
+      "consistent applicable",
+      997
+    ],
+    [
+      "dwight eisenhower",
+      967
+    ],
+    [
+      "george bush",
+      967
+    ],
+    [
+      "donald trump",
+      954
+    ],
+    [
+      "days date",
+      926
+    ],
+    [
+      "attorney general",
+      913
+    ],
+    [
+      "civil service",
+      873
+    ],
+    [
+      "officers employees",
+      835
+    ],
+    [
+      "published register",
+      814
+    ],
+    [
+      "ronald reagan",
+      777
+    ],
+    [
+      "agency head",
+      762
+    ],
+    [
+      "read follows",
+      727
+    ],
+    [
+      "amended usc",
+      716
+    ],
+    [
+      "richard nixon",
+      690
+    ],
+    [
+      "secretary commerce",
+      672
+    ],
+    [
+      "task force",
+      667
+    ],
+    [
+      "extent permitted",
+      666
+    ],
+    [
+      "substantive procedural",
+      664
+    ],
+    [
+      "procedural enforceable",
+      650
+    ],
+    [
+      "create right",
+      645
+    ],
+    [
+      "right benefit",
+      645
+    ],
+    [
+      "intended create",
+      630
+    ],
+    [
+      "state local",
+      617
+    ],
+    [
+      "amended read",
+      613
+    ],
+    [
+      "subject availability",
+      613
+    ],
+    [
+      "note published",
+      613
+    ],
+    [
+      "benefit substantive",
+      607
+    ],
+    [
+      "armed forces",
+      605
+    ],
+    [
+      "secretary homeland",
+      605
+    ],
+    [
+      "enforceable equity",
+      601
+    ],
+    [
+      "entities officers",
+      592
+    ],
+    [
+      "sec general",
+      587
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "sec sec sec",
+      1529
+    ],
+    [
+      "vested constitution laws",
+      1111
+    ],
+    [
+      "office management budget",
+      1078
+    ],
+    [
+      "herbert hoover white",
+      1001
+    ],
+    [
+      "hoover white house",
+      1001
+    ],
+    [
+      "director office management",
+      897
+    ],
+    [
+      "substantive procedural enforceable",
+      649
+    ],
+    [
+      "create right benefit",
+      641
+    ],
+    [
+      "note published register",
+      612
+    ],
+    [
+      "intended create right",
+      610
+    ],
+    [
+      "right benefit substantive",
+      607
+    ],
+    [
+      "benefit substantive procedural",
+      606
+    ],
+    [
+      "secretary homeland security",
+      604
+    ],
+    [
+      "procedural enforceable equity",
+      599
+    ],
+    [
+      "entities officers employees",
+      592
+    ],
+    [
+      "enforceable equity party",
+      574
+    ],
+    [
+      "filed office register",
+      558
+    ],
+    [
+      "subject availability appropriations",
+      545
+    ],
+    [
+      "equity party departments",
+      540
+    ],
+    [
+      "party departments agencies",
+      540
+    ],
+    [
+      "amended read follows",
+      538
+    ],
+    [
+      "officers employees agents",
+      527
+    ],
+    [
+      "employees agents person",
+      523
+    ],
+    [
+      "departments agencies entities",
+      516
+    ],
+    [
+      "agencies entities officers",
+      510
+    ],
+    [
+      "construed impair otherwise",
+      500
+    ],
+    [
+      "impair otherwise affect",
+      498
+    ],
+    [
+      "sec general provisions",
+      494
+    ],
+    [
+      "nothing construed impair",
+      492
+    ],
+    [
+      "administrative legislative proposals",
+      482
+    ]
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "president": "George_W_Bush",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "secretary",
+      1561
+    ],
+    [
+      "sec",
+      1359
+    ],
+    [
+      "agency",
+      1021
+    ],
+    [
+      "security",
+      1007
+    ],
+    [
+      "information",
+      943
+    ],
+    [
+      "agencies",
+      889
+    ],
+    [
+      "national",
+      865
+    ],
+    [
+      "office",
+      849
+    ],
+    [
+      "amended",
+      838
+    ],
+    [
+      "department",
+      692
+    ],
+    [
+      "director",
+      630
+    ],
+    [
+      "intelligence",
+      628
+    ],
+    [
+      "usc",
+      623
+    ],
+    [
+      "george",
+      615
+    ],
+    [
+      "bush",
+      615
+    ],
+    [
+      "appropriate",
+      588
+    ],
+    [
+      "person",
+      510
+    ],
+    [
+      "register",
+      497
+    ],
+    [
+      "council",
+      481
+    ],
+    [
+      "functions",
+      466
+    ],
+    [
+      "homeland",
+      466
+    ],
+    [
+      "management",
+      445
+    ],
+    [
+      "departments",
+      444
+    ],
+    [
+      "public",
+      415
+    ],
+    [
+      "inserting",
+      414
+    ],
+    [
+      "policy",
+      412
+    ],
+    [
+      "general",
+      411
+    ],
+    [
+      "state",
+      410
+    ],
+    [
+      "services",
+      409
+    ],
+    [
+      "service",
+      397
+    ],
+    [
+      "laws",
+      385
+    ],
+    [
+      "follows",
+      385
+    ],
+    [
+      "house",
+      374
+    ],
+    [
+      "white",
+      367
+    ],
+    [
+      "consistent",
+      361
+    ],
+    [
+      "officers",
+      340
+    ],
+    [
+      "property",
+      337
+    ],
+    [
+      "vested",
+      329
+    ],
+    [
+      "means",
+      322
+    ],
+    [
+      "provide",
+      319
+    ],
+    [
+      "activities",
+      318
+    ],
+    [
+      "community",
+      318
+    ],
+    [
+      "members",
+      313
+    ],
+    [
+      "published",
+      311
+    ],
+    [
+      "employees",
+      310
+    ],
+    [
+      "constitution",
+      309
+    ],
+    [
+      "emergency",
+      309
+    ],
+    [
+      "foreign",
+      302
+    ],
+    [
+      "extent",
+      293
+    ],
+    [
+      "support",
+      292
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "george bush",
+      615
+    ],
+    [
+      "homeland security",
+      459
+    ],
+    [
+      "departments agencies",
+      374
+    ],
+    [
+      "white house",
+      367
+    ],
+    [
+      "published register",
+      306
+    ],
+    [
+      "constitution laws",
+      297
+    ],
+    [
+      "vested constitution",
+      292
+    ],
+    [
+      "bush white",
+      289
+    ],
+    [
+      "national security",
+      284
+    ],
+    [
+      "bush vested",
+      282
+    ],
+    [
+      "officers employees",
+      204
+    ],
+    [
+      "secretary homeland",
+      202
+    ],
+    [
+      "secretary treasury",
+      199
+    ],
+    [
+      "ordered follows",
+      195
+    ],
+    [
+      "note published",
+      195
+    ],
+    [
+      "task force",
+      194
+    ],
+    [
+      "secretary state",
+      191
+    ],
+    [
+      "attorney general",
+      184
+    ],
+    [
+      "substantive procedural",
+      181
+    ],
+    [
+      "procedural enforceable",
+      175
+    ],
+    [
+      "create right",
+      169
+    ],
+    [
+      "filed office",
+      169
+    ],
+    [
+      "office register",
+      169
+    ],
+    [
+      "right benefit",
+      166
+    ],
+    [
+      "director office",
+      166
+    ],
+    [
+      "intended create",
+      164
+    ],
+    [
+      "enforceable equity",
+      158
+    ],
+    [
+      "extent permitted",
+      156
+    ],
+    [
+      "entities officers",
+      151
+    ],
+    [
+      "management budget",
+      150
+    ],
+    [
+      "office management",
+      149
+    ],
+    [
+      "inserting lieu",
+      142
+    ],
+    [
+      "department agency",
+      139
+    ],
+    [
+      "equity party",
+      132
+    ],
+    [
+      "benefit substantive",
+      131
+    ],
+    [
+      "secretary defense",
+      130
+    ],
+    [
+      "read follows",
+      126
+    ],
+    [
+      "intelligence community",
+      126
+    ],
+    [
+      "national emergency",
+      121
+    ],
+    [
+      "amended striking",
+      118
+    ],
+    [
+      "person george",
+      116
+    ],
+    [
+      "usc seq",
+      114
+    ],
+    [
+      "working group",
+      114
+    ],
+    [
+      "agencies instrumentalities",
+      108
+    ],
+    [
+      "health human",
+      106
+    ],
+    [
+      "human services",
+      106
+    ],
+    [
+      "consistent applicable",
+      105
+    ],
+    [
+      "amended amended",
+      104
+    ],
+    [
+      "inserting secretary",
+      102
+    ],
+    [
+      "department homeland",
+      101
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "vested constitution laws",
+      292
+    ],
+    [
+      "george bush white",
+      289
+    ],
+    [
+      "bush white house",
+      289
+    ],
+    [
+      "george bush vested",
+      282
+    ],
+    [
+      "bush vested constitution",
+      279
+    ],
+    [
+      "secretary homeland security",
+      202
+    ],
+    [
+      "note published register",
+      195
+    ],
+    [
+      "substantive procedural enforceable",
+      175
+    ],
+    [
+      "filed office register",
+      169
+    ],
+    [
+      "create right benefit",
+      166
+    ],
+    [
+      "procedural enforceable equity",
+      156
+    ],
+    [
+      "entities officers employees",
+      151
+    ],
+    [
+      "office management budget",
+      148
+    ],
+    [
+      "intended create right",
+      145
+    ],
+    [
+      "enforceable equity party",
+      132
+    ],
+    [
+      "right benefit substantive",
+      131
+    ],
+    [
+      "benefit substantive procedural",
+      131
+    ],
+    [
+      "person george bush",
+      116
+    ],
+    [
+      "director office management",
+      112
+    ],
+    [
+      "health human services",
+      104
+    ],
+    [
+      "department homeland security",
+      101
+    ],
+    [
+      "equity party departments",
+      99
+    ],
+    [
+      "party departments agencies",
+      99
+    ],
+    [
+      "property interests property",
+      95
+    ],
+    [
+      "inserting secretary homeland",
+      93
+    ],
+    [
+      "amended read follows",
+      92
+    ],
+    [
+      "officers employees person",
+      90
+    ],
+    [
+      "officers employees agents",
+      85
+    ],
+    [
+      "consultation secretary state",
+      85
+    ],
+    [
+      "employees agents person",
+      82
+    ]
+  ]
+}

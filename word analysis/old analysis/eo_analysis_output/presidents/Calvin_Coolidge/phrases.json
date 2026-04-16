@@ -1,0 +1,530 @@
+{
+  "president": "Calvin_Coolidge",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "calvin",
+      163
+    ],
+    [
+      "coolidge",
+      163
+    ],
+    [
+      "service",
+      138
+    ],
+    [
+      "stat",
+      84
+    ],
+    [
+      "white",
+      82
+    ],
+    [
+      "house",
+      80
+    ],
+    [
+      "sec",
+      78
+    ],
+    [
+      "civil",
+      76
+    ],
+    [
+      "february",
+      73
+    ],
+    [
+      "state",
+      69
+    ],
+    [
+      "department",
+      68
+    ],
+    [
+      "without",
+      65
+    ],
+    [
+      "consular",
+      61
+    ],
+    [
+      "officers",
+      59
+    ],
+    [
+      "rules",
+      59
+    ],
+    [
+      "diplomatic",
+      58
+    ],
+    [
+      "secretary",
+      57
+    ],
+    [
+      "passport",
+      57
+    ],
+    [
+      "march",
+      54
+    ],
+    [
+      "passports",
+      52
+    ],
+    [
+      "foreign",
+      51
+    ],
+    [
+      "january",
+      51
+    ],
+    [
+      "amended",
+      49
+    ],
+    [
+      "officer",
+      48
+    ],
+    [
+      "june",
+      48
+    ],
+    [
+      "congress",
+      46
+    ],
+    [
+      "citizenship",
+      46
+    ],
+    [
+      "issued",
+      46
+    ],
+    [
+      "citizens",
+      44
+    ],
+    [
+      "made",
+      43
+    ],
+    [
+      "regard",
+      42
+    ],
+    [
+      "citizen",
+      41
+    ],
+    [
+      "person",
+      40
+    ],
+    [
+      "time",
+      39
+    ],
+    [
+      "lands",
+      38
+    ],
+    [
+      "required",
+      38
+    ],
+    [
+      "deceased",
+      37
+    ],
+    [
+      "canal",
+      37
+    ],
+    [
+      "period",
+      36
+    ],
+    [
+      "years",
+      34
+    ],
+    [
+      "regulations",
+      33
+    ],
+    [
+      "general",
+      33
+    ],
+    [
+      "naturalization",
+      33
+    ],
+    [
+      "following",
+      32
+    ],
+    [
+      "authorized",
+      32
+    ],
+    [
+      "persons",
+      30
+    ],
+    [
+      "aircraft",
+      30
+    ],
+    [
+      "south",
+      29
+    ],
+    [
+      "august",
+      29
+    ],
+    [
+      "military",
+      29
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "calvin coolidge",
+      163
+    ],
+    [
+      "coolidge white",
+      78
+    ],
+    [
+      "white house",
+      78
+    ],
+    [
+      "civil service",
+      72
+    ],
+    [
+      "service rules",
+      44
+    ],
+    [
+      "without regard",
+      40
+    ],
+    [
+      "june stat",
+      31
+    ],
+    [
+      "canal zone",
+      28
+    ],
+    [
+      "february calvin",
+      28
+    ],
+    [
+      "house february",
+      27
+    ],
+    [
+      "regard civil",
+      27
+    ],
+    [
+      "panama canal",
+      26
+    ],
+    [
+      "secretary state",
+      23
+    ],
+    [
+      "service commission",
+      22
+    ],
+    [
+      "house january",
+      22
+    ],
+    [
+      "consular officers",
+      21
+    ],
+    [
+      "sec sec",
+      21
+    ],
+    [
+      "stat amended",
+      20
+    ],
+    [
+      "lot sec",
+      20
+    ],
+    [
+      "january calvin",
+      20
+    ],
+    [
+      "consular officer",
+      19
+    ],
+    [
+      "trust period",
+      19
+    ],
+    [
+      "military naval",
+      19
+    ],
+    [
+      "lots sec",
+      19
+    ],
+    [
+      "department state",
+      18
+    ],
+    [
+      "coolidge ordered",
+      18
+    ],
+    [
+      "diplomatic consular",
+      18
+    ],
+    [
+      "sec lots",
+      18
+    ],
+    [
+      "congress approved",
+      17
+    ],
+    [
+      "period allotments",
+      16
+    ],
+    [
+      "august stat",
+      16
+    ],
+    [
+      "amended august",
+      15
+    ],
+    [
+      "south east",
+      15
+    ],
+    [
+      "authorizing appointment",
+      15
+    ],
+    [
+      "sec lot",
+      15
+    ],
+    [
+      "march stat",
+      14
+    ],
+    [
+      "february authorizing",
+      14
+    ],
+    [
+      "rules february",
+      14
+    ],
+    [
+      "private aircraft",
+      14
+    ],
+    [
+      "described lands",
+      13
+    ],
+    [
+      "allotments made",
+      12
+    ],
+    [
+      "foreign service",
+      12
+    ],
+    [
+      "certain described",
+      12
+    ],
+    [
+      "full force",
+      12
+    ],
+    [
+      "force effect",
+      12
+    ],
+    [
+      "effect unless",
+      12
+    ],
+    [
+      "unless revoked",
+      12
+    ],
+    [
+      "revoked congress",
+      12
+    ],
+    [
+      "congress calvin",
+      12
+    ],
+    [
+      "classified service",
+      12
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "calvin coolidge white",
+      78
+    ],
+    [
+      "coolidge white house",
+      78
+    ],
+    [
+      "civil service rules",
+      44
+    ],
+    [
+      "february calvin coolidge",
+      28
+    ],
+    [
+      "white house february",
+      27
+    ],
+    [
+      "without regard civil",
+      27
+    ],
+    [
+      "regard civil service",
+      27
+    ],
+    [
+      "civil service commission",
+      22
+    ],
+    [
+      "white house january",
+      22
+    ],
+    [
+      "january calvin coolidge",
+      20
+    ],
+    [
+      "calvin coolidge ordered",
+      18
+    ],
+    [
+      "sec lots sec",
+      18
+    ],
+    [
+      "panama canal zone",
+      18
+    ],
+    [
+      "trust period allotments",
+      15
+    ],
+    [
+      "june stat amended",
+      15
+    ],
+    [
+      "sec lot sec",
+      15
+    ],
+    [
+      "amended august stat",
+      14
+    ],
+    [
+      "house february authorizing",
+      14
+    ],
+    [
+      "service rules february",
+      14
+    ],
+    [
+      "rules february calvin",
+      14
+    ],
+    [
+      "stat amended august",
+      13
+    ],
+    [
+      "certain described lands",
+      12
+    ],
+    [
+      "full force effect",
+      12
+    ],
+    [
+      "force effect unless",
+      12
+    ],
+    [
+      "effect unless revoked",
+      12
+    ],
+    [
+      "unless revoked congress",
+      12
+    ],
+    [
+      "revoked congress calvin",
+      12
+    ],
+    [
+      "congress calvin coolidge",
+      12
+    ],
+    [
+      "calvin coolidge mrs",
+      12
+    ],
+    [
+      "march calvin coolidge",
+      12
+    ]
+  ]
+}

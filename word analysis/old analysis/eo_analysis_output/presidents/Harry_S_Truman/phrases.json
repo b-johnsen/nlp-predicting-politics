@@ -1,0 +1,530 @@
+{
+  "president": "Harry_S_Truman",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "service",
+      2795
+    ],
+    [
+      "board",
+      2614
+    ],
+    [
+      "harry",
+      1781
+    ],
+    [
+      "truman",
+      1776
+    ],
+    [
+      "amended",
+      1590
+    ],
+    [
+      "secretary",
+      1548
+    ],
+    [
+      "sec",
+      1413
+    ],
+    [
+      "registrant",
+      1225
+    ],
+    [
+      "officer",
+      1224
+    ],
+    [
+      "company",
+      1169
+    ],
+    [
+      "local",
+      1150
+    ],
+    [
+      "provisions",
+      1135
+    ],
+    [
+      "vested",
+      1115
+    ],
+    [
+      "feet",
+      1114
+    ],
+    [
+      "war",
+      1112
+    ],
+    [
+      "department",
+      1110
+    ],
+    [
+      "regulations",
+      1105
+    ],
+    [
+      "stat",
+      978
+    ],
+    [
+      "state",
+      975
+    ],
+    [
+      "general",
+      967
+    ],
+    [
+      "form",
+      965
+    ],
+    [
+      "white",
+      915
+    ],
+    [
+      "railway",
+      901
+    ],
+    [
+      "house",
+      894
+    ],
+    [
+      "military",
+      891
+    ],
+    [
+      "virtue",
+      889
+    ],
+    [
+      "time",
+      884
+    ],
+    [
+      "public",
+      872
+    ],
+    [
+      "railroad",
+      871
+    ],
+    [
+      "duty",
+      861
+    ],
+    [
+      "commission",
+      852
+    ],
+    [
+      "director",
+      843
+    ],
+    [
+      "defense",
+      831
+    ],
+    [
+      "made",
+      823
+    ],
+    [
+      "national",
+      818
+    ],
+    [
+      "functions",
+      801
+    ],
+    [
+      "follows",
+      786
+    ],
+    [
+      "necessary",
+      785
+    ],
+    [
+      "employees",
+      768
+    ],
+    [
+      "officers",
+      757
+    ],
+    [
+      "agency",
+      746
+    ],
+    [
+      "armed",
+      736
+    ],
+    [
+      "certain",
+      728
+    ],
+    [
+      "one",
+      720
+    ],
+    [
+      "class",
+      717
+    ],
+    [
+      "forces",
+      712
+    ],
+    [
+      "date",
+      708
+    ],
+    [
+      "report",
+      700
+    ],
+    [
+      "authorized",
+      696
+    ],
+    [
+      "new",
+      692
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "harry truman",
+      1776
+    ],
+    [
+      "local board",
+      1022
+    ],
+    [
+      "white house",
+      874
+    ],
+    [
+      "truman white",
+      869
+    ],
+    [
+      "virtue vested",
+      835
+    ],
+    [
+      "armed forces",
+      644
+    ],
+    [
+      "selective service",
+      627
+    ],
+    [
+      "sss form",
+      607
+    ],
+    [
+      "truman virtue",
+      586
+    ],
+    [
+      "feet along",
+      456
+    ],
+    [
+      "railroad company",
+      409
+    ],
+    [
+      "director selective",
+      375
+    ],
+    [
+      "ordered follows",
+      358
+    ],
+    [
+      "civil service",
+      346
+    ],
+    [
+      "new york",
+      320
+    ],
+    [
+      "active duty",
+      278
+    ],
+    [
+      "therefore virtue",
+      273
+    ],
+    [
+      "coast guard",
+      272
+    ],
+    [
+      "stat usc",
+      270
+    ],
+    [
+      "territory hawaii",
+      267
+    ],
+    [
+      "railway labor",
+      260
+    ],
+    [
+      "sec sec",
+      257
+    ],
+    [
+      "amended read",
+      255
+    ],
+    [
+      "labor amended",
+      251
+    ],
+    [
+      "read follows",
+      248
+    ],
+    [
+      "plants facilities",
+      246
+    ],
+    [
+      "railway company",
+      245
+    ],
+    [
+      "surgeon general",
+      239
+    ],
+    [
+      "air force",
+      222
+    ],
+    [
+      "military reservation",
+      220
+    ],
+    [
+      "public health",
+      214
+    ],
+    [
+      "appeal board",
+      212
+    ],
+    [
+      "secretary state",
+      208
+    ],
+    [
+      "state director",
+      208
+    ],
+    [
+      "physical examination",
+      208
+    ],
+    [
+      "secretary navy",
+      205
+    ],
+    [
+      "located around",
+      195
+    ],
+    [
+      "public congress",
+      194
+    ],
+    [
+      "vested constitution",
+      194
+    ],
+    [
+      "health service",
+      190
+    ],
+    [
+      "company located",
+      190
+    ],
+    [
+      "thirty days",
+      187
+    ],
+    [
+      "stat amended",
+      187
+    ],
+    [
+      "secretary interior",
+      184
+    ],
+    [
+      "certain employees",
+      178
+    ],
+    [
+      "secretary war",
+      178
+    ],
+    [
+      "army navy",
+      176
+    ],
+    [
+      "regular corps",
+      167
+    ],
+    [
+      "secs inclusive",
+      163
+    ],
+    [
+      "regulations governing",
+      155
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "harry truman white",
+      869
+    ],
+    [
+      "truman white house",
+      869
+    ],
+    [
+      "harry truman virtue",
+      586
+    ],
+    [
+      "truman virtue vested",
+      582
+    ],
+    [
+      "director selective service",
+      375
+    ],
+    [
+      "railway labor amended",
+      250
+    ],
+    [
+      "therefore virtue vested",
+      238
+    ],
+    [
+      "amended read follows",
+      233
+    ],
+    [
+      "state director selective",
+      194
+    ],
+    [
+      "public health service",
+      189
+    ],
+    [
+      "company located around",
+      171
+    ],
+    [
+      "virtue vested constitution",
+      162
+    ],
+    [
+      "sec sec sec",
+      145
+    ],
+    [
+      "july harry truman",
+      126
+    ],
+    [
+      "civil service commission",
+      124
+    ],
+    [
+      "service armed forces",
+      123
+    ],
+    [
+      "june harry truman",
+      121
+    ],
+    [
+      "armed forces physical",
+      120
+    ],
+    [
+      "forces physical examination",
+      120
+    ],
+    [
+      "feet along remainder",
+      114
+    ],
+    [
+      "feet along feet",
+      113
+    ],
+    [
+      "along feet along",
+      113
+    ],
+    [
+      "september harry truman",
+      107
+    ],
+    [
+      "vested constitution statutes",
+      106
+    ],
+    [
+      "white house june",
+      101
+    ],
+    [
+      "azimuth distance feet",
+      99
+    ],
+    [
+      "schofield barracks military",
+      97
+    ],
+    [
+      "barracks military reservation",
+      97
+    ],
+    [
+      "january harry truman",
+      96
+    ],
+    [
+      "certain employees represented",
+      94
+    ]
+  ]
+}

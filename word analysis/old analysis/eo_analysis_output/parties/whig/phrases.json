@@ -1,0 +1,529 @@
+{
+  "party": "Whig",
+  "top_unigrams": [
+    [
+      "point",
+      16
+    ],
+    [
+      "secretary",
+      13
+    ],
+    [
+      "war",
+      13
+    ],
+    [
+      "millard",
+      12
+    ],
+    [
+      "fillmore",
+      12
+    ],
+    [
+      "department",
+      11
+    ],
+    [
+      "state",
+      10
+    ],
+    [
+      "washington",
+      9
+    ],
+    [
+      "army",
+      9
+    ],
+    [
+      "san",
+      9
+    ],
+    [
+      "navy",
+      8
+    ],
+    [
+      "memory",
+      8
+    ],
+    [
+      "day",
+      8
+    ],
+    [
+      "sir",
+      7
+    ],
+    [
+      "death",
+      7
+    ],
+    [
+      "general",
+      7
+    ],
+    [
+      "francisco",
+      7
+    ],
+    [
+      "respect",
+      6
+    ],
+    [
+      "orders",
+      6
+    ],
+    [
+      "country",
+      6
+    ],
+    [
+      "military",
+      6
+    ],
+    [
+      "jose",
+      6
+    ],
+    [
+      "june",
+      6
+    ],
+    [
+      "departments",
+      6
+    ],
+    [
+      "island",
+      6
+    ],
+    [
+      "officers",
+      5
+    ],
+    [
+      "hon",
+      5
+    ],
+    [
+      "guns",
+      5
+    ],
+    [
+      "distinguished",
+      5
+    ],
+    [
+      "mourning",
+      5
+    ],
+    [
+      "obedient",
+      5
+    ],
+    [
+      "servant",
+      5
+    ],
+    [
+      "public",
+      5
+    ],
+    [
+      "honors",
+      5
+    ],
+    [
+      "california",
+      5
+    ],
+    [
+      "land",
+      5
+    ],
+    [
+      "extremity",
+      5
+    ],
+    [
+      "southern",
+      5
+    ],
+    [
+      "february",
+      4
+    ],
+    [
+      "painful",
+      4
+    ],
+    [
+      "late",
+      4
+    ],
+    [
+      "several",
+      4
+    ],
+    [
+      "wear",
+      4
+    ],
+    [
+      "thirty",
+      4
+    ],
+    [
+      "duties",
+      4
+    ],
+    [
+      "honor",
+      4
+    ],
+    [
+      "history",
+      4
+    ],
+    [
+      "citizen",
+      4
+    ],
+    [
+      "high",
+      4
+    ],
+    [
+      "national",
+      4
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "millard fillmore",
+      12
+    ],
+    [
+      "san francisco",
+      7
+    ],
+    [
+      "war department",
+      6
+    ],
+    [
+      "secretary state",
+      5
+    ],
+    [
+      "obedient servant",
+      5
+    ],
+    [
+      "secretary war",
+      5
+    ],
+    [
+      "point point",
+      5
+    ],
+    [
+      "point jose",
+      5
+    ],
+    [
+      "fort point",
+      4
+    ],
+    [
+      "servant millard",
+      4
+    ],
+    [
+      "james polk",
+      4
+    ],
+    [
+      "respect memory",
+      3
+    ],
+    [
+      "general orders",
+      3
+    ],
+    [
+      "orders war",
+      3
+    ],
+    [
+      "secretary navy",
+      3
+    ],
+    [
+      "war navy",
+      3
+    ],
+    [
+      "eight hundred",
+      3
+    ],
+    [
+      "hundred yards",
+      3
+    ],
+    [
+      "bay san",
+      3
+    ],
+    [
+      "southern boundary",
+      3
+    ],
+    [
+      "eastern side",
+      3
+    ],
+    [
+      "mare island",
+      3
+    ],
+    [
+      "death james",
+      3
+    ],
+    [
+      "john tyler",
+      2
+    ],
+    [
+      "diplomatic consular",
+      2
+    ],
+    [
+      "department state",
+      2
+    ],
+    [
+      "death hon",
+      2
+    ],
+    [
+      "board steamship",
+      2
+    ],
+    [
+      "steamship princeton",
+      2
+    ],
+    [
+      "wear usual",
+      2
+    ],
+    [
+      "badge mourning",
+      2
+    ],
+    [
+      "thirty days",
+      2
+    ],
+    [
+      "department february",
+      2
+    ],
+    [
+      "new york",
+      2
+    ],
+    [
+      "guns fired",
+      2
+    ],
+    [
+      "military post",
+      2
+    ],
+    [
+      "day receipt",
+      2
+    ],
+    [
+      "sunrise sunset",
+      2
+    ],
+    [
+      "national flag",
+      2
+    ],
+    [
+      "flag displayed",
+      2
+    ],
+    [
+      "displayed halfstaff",
+      2
+    ],
+    [
+      "officers army",
+      2
+    ],
+    [
+      "army wear",
+      2
+    ],
+    [
+      "three months",
+      2
+    ],
+    [
+      "mark respect",
+      2
+    ],
+    [
+      "left arm",
+      2
+    ],
+    [
+      "department adjutantgenerals",
+      2
+    ],
+    [
+      "adjutantgenerals office",
+      2
+    ],
+    [
+      "office washington",
+      2
+    ],
+    [
+      "jones adjutantgeneral",
+      2
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "obedient servant millard",
+      4
+    ],
+    [
+      "servant millard fillmore",
+      4
+    ],
+    [
+      "general orders war",
+      3
+    ],
+    [
+      "orders war department",
+      3
+    ],
+    [
+      "point point jose",
+      3
+    ],
+    [
+      "fort point point",
+      3
+    ],
+    [
+      "eight hundred yards",
+      3
+    ],
+    [
+      "death james polk",
+      3
+    ],
+    [
+      "board steamship princeton",
+      2
+    ],
+    [
+      "national flag displayed",
+      2
+    ],
+    [
+      "flag displayed halfstaff",
+      2
+    ],
+    [
+      "officers army wear",
+      2
+    ],
+    [
+      "mark respect memory",
+      2
+    ],
+    [
+      "war department adjutantgenerals",
+      2
+    ],
+    [
+      "department adjutantgenerals office",
+      2
+    ],
+    [
+      "adjutantgenerals office washington",
+      2
+    ],
+    [
+      "modifying reducing reservation",
+      2
+    ],
+    [
+      "reducing reservation port",
+      2
+    ],
+    [
+      "reservation port point",
+      2
+    ],
+    [
+      "port point point",
+      2
+    ],
+    [
+      "point jose san",
+      2
+    ],
+    [
+      "jose san francisco",
+      2
+    ],
+    [
+      "san francisco harbor",
+      2
+    ],
+    [
+      "francisco harbor california",
+      2
+    ],
+    [
+      "respectfully obt servt",
+      2
+    ],
+    [
+      "san francisco california",
+      2
+    ],
+    [
+      "southern extremity pond",
+      2
+    ],
+    [
+      "point point lobos",
+      2
+    ],
+    [
+      "pond outlet channel",
+      2
+    ],
+    [
+      "sale public purposes",
+      2
+    ]
+  ]
+}

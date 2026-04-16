@@ -1,0 +1,530 @@
+{
+  "president": "Barack_Obama",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "agencies",
+      1528
+    ],
+    [
+      "sec",
+      1508
+    ],
+    [
+      "agency",
+      1426
+    ],
+    [
+      "secretary",
+      1405
+    ],
+    [
+      "national",
+      1162
+    ],
+    [
+      "department",
+      1094
+    ],
+    [
+      "information",
+      976
+    ],
+    [
+      "council",
+      958
+    ],
+    [
+      "security",
+      924
+    ],
+    [
+      "person",
+      858
+    ],
+    [
+      "office",
+      780
+    ],
+    [
+      "director",
+      774
+    ],
+    [
+      "usc",
+      735
+    ],
+    [
+      "state",
+      620
+    ],
+    [
+      "appropriate",
+      616
+    ],
+    [
+      "services",
+      609
+    ],
+    [
+      "policy",
+      599
+    ],
+    [
+      "obama",
+      594
+    ],
+    [
+      "barack",
+      593
+    ],
+    [
+      "functions",
+      579
+    ],
+    [
+      "consistent",
+      575
+    ],
+    [
+      "management",
+      562
+    ],
+    [
+      "property",
+      556
+    ],
+    [
+      "departments",
+      527
+    ],
+    [
+      "general",
+      479
+    ],
+    [
+      "provide",
+      477
+    ],
+    [
+      "support",
+      470
+    ],
+    [
+      "public",
+      460
+    ],
+    [
+      "health",
+      458
+    ],
+    [
+      "employees",
+      452
+    ],
+    [
+      "date",
+      449
+    ],
+    [
+      "amended",
+      447
+    ],
+    [
+      "laws",
+      409
+    ],
+    [
+      "means",
+      405
+    ],
+    [
+      "development",
+      405
+    ],
+    [
+      "programs",
+      405
+    ],
+    [
+      "service",
+      392
+    ],
+    [
+      "defense",
+      391
+    ],
+    [
+      "extent",
+      385
+    ],
+    [
+      "subsection",
+      383
+    ],
+    [
+      "entities",
+      382
+    ],
+    [
+      "house",
+      370
+    ],
+    [
+      "activities",
+      369
+    ],
+    [
+      "officers",
+      367
+    ],
+    [
+      "consultation",
+      364
+    ],
+    [
+      "effective",
+      364
+    ],
+    [
+      "provisions",
+      361
+    ],
+    [
+      "white",
+      360
+    ],
+    [
+      "members",
+      360
+    ],
+    [
+      "subject",
+      359
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "barack obama",
+      593
+    ],
+    [
+      "departments agencies",
+      468
+    ],
+    [
+      "white house",
+      360
+    ],
+    [
+      "national security",
+      316
+    ],
+    [
+      "task force",
+      294
+    ],
+    [
+      "secretary state",
+      278
+    ],
+    [
+      "published register",
+      278
+    ],
+    [
+      "constitution laws",
+      276
+    ],
+    [
+      "vested constitution",
+      274
+    ],
+    [
+      "obama white",
+      267
+    ],
+    [
+      "department agency",
+      260
+    ],
+    [
+      "obama vested",
+      259
+    ],
+    [
+      "officers employees",
+      251
+    ],
+    [
+      "agencies entities",
+      250
+    ],
+    [
+      "homeland security",
+      245
+    ],
+    [
+      "office management",
+      243
+    ],
+    [
+      "director office",
+      242
+    ],
+    [
+      "management budget",
+      242
+    ],
+    [
+      "secretary treasury",
+      239
+    ],
+    [
+      "property interests",
+      237
+    ],
+    [
+      "interests property",
+      237
+    ],
+    [
+      "substantive procedural",
+      237
+    ],
+    [
+      "right benefit",
+      236
+    ],
+    [
+      "benefit substantive",
+      235
+    ],
+    [
+      "procedural enforceable",
+      235
+    ],
+    [
+      "intended create",
+      234
+    ],
+    [
+      "enforceable equity",
+      234
+    ],
+    [
+      "entities officers",
+      234
+    ],
+    [
+      "employees agents",
+      234
+    ],
+    [
+      "create right",
+      233
+    ],
+    [
+      "party departments",
+      232
+    ],
+    [
+      "agents person",
+      232
+    ],
+    [
+      "equity party",
+      231
+    ],
+    [
+      "consistent applicable",
+      225
+    ],
+    [
+      "note published",
+      222
+    ],
+    [
+      "agency head",
+      214
+    ],
+    [
+      "working group",
+      205
+    ],
+    [
+      "extent permitted",
+      181
+    ],
+    [
+      "ordered follows",
+      180
+    ],
+    [
+      "nothing construed",
+      177
+    ],
+    [
+      "subject availability",
+      174
+    ],
+    [
+      "sec general",
+      173
+    ],
+    [
+      "general provisions",
+      168
+    ],
+    [
+      "property blocked",
+      167
+    ],
+    [
+      "whose property",
+      166
+    ],
+    [
+      "availability appropriations",
+      166
+    ],
+    [
+      "person barack",
+      165
+    ],
+    [
+      "otherwise affect",
+      164
+    ],
+    [
+      "legislative proposals",
+      160
+    ],
+    [
+      "construed impair",
+      157
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "vested constitution laws",
+      273
+    ],
+    [
+      "barack obama white",
+      267
+    ],
+    [
+      "obama white house",
+      267
+    ],
+    [
+      "barack obama vested",
+      259
+    ],
+    [
+      "obama vested constitution",
+      258
+    ],
+    [
+      "office management budget",
+      242
+    ],
+    [
+      "property interests property",
+      237
+    ],
+    [
+      "departments agencies entities",
+      236
+    ],
+    [
+      "right benefit substantive",
+      235
+    ],
+    [
+      "benefit substantive procedural",
+      235
+    ],
+    [
+      "substantive procedural enforceable",
+      235
+    ],
+    [
+      "procedural enforceable equity",
+      234
+    ],
+    [
+      "agencies entities officers",
+      234
+    ],
+    [
+      "officers employees agents",
+      234
+    ],
+    [
+      "intended create right",
+      233
+    ],
+    [
+      "entities officers employees",
+      233
+    ],
+    [
+      "create right benefit",
+      232
+    ],
+    [
+      "party departments agencies",
+      232
+    ],
+    [
+      "employees agents person",
+      232
+    ],
+    [
+      "enforceable equity party",
+      231
+    ],
+    [
+      "equity party departments",
+      231
+    ],
+    [
+      "note published register",
+      222
+    ],
+    [
+      "director office management",
+      178
+    ],
+    [
+      "whose property interests",
+      166
+    ],
+    [
+      "interests property blocked",
+      166
+    ],
+    [
+      "person barack obama",
+      165
+    ],
+    [
+      "subject availability appropriations",
+      165
+    ],
+    [
+      "agents person barack",
+      164
+    ],
+    [
+      "sec general provisions",
+      164
+    ],
+    [
+      "construed impair otherwise",
+      157
+    ]
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "president": "George_Bush",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "secretary",
+      490
+    ],
+    [
+      "sec",
+      477
+    ],
+    [
+      "agency",
+      362
+    ],
+    [
+      "george",
+      352
+    ],
+    [
+      "bush",
+      352
+    ],
+    [
+      "amended",
+      352
+    ],
+    [
+      "national",
+      306
+    ],
+    [
+      "vested",
+      246
+    ],
+    [
+      "council",
+      240
+    ],
+    [
+      "office",
+      230
+    ],
+    [
+      "department",
+      219
+    ],
+    [
+      "agencies",
+      217
+    ],
+    [
+      "defense",
+      211
+    ],
+    [
+      "house",
+      200
+    ],
+    [
+      "white",
+      192
+    ],
+    [
+      "laws",
+      188
+    ],
+    [
+      "regulations",
+      188
+    ],
+    [
+      "functions",
+      184
+    ],
+    [
+      "commission",
+      182
+    ],
+    [
+      "service",
+      178
+    ],
+    [
+      "follows",
+      173
+    ],
+    [
+      "public",
+      172
+    ],
+    [
+      "employees",
+      171
+    ],
+    [
+      "constitution",
+      167
+    ],
+    [
+      "committee",
+      167
+    ],
+    [
+      "code",
+      160
+    ],
+    [
+      "members",
+      160
+    ],
+    [
+      "management",
+      156
+    ],
+    [
+      "general",
+      150
+    ],
+    [
+      "person",
+      140
+    ],
+    [
+      "respect",
+      128
+    ],
+    [
+      "services",
+      127
+    ],
+    [
+      "ordered",
+      125
+    ],
+    [
+      "provide",
+      124
+    ],
+    [
+      "appropriate",
+      123
+    ],
+    [
+      "effective",
+      117
+    ],
+    [
+      "date",
+      117
+    ],
+    [
+      "provisions",
+      117
+    ],
+    [
+      "director",
+      114
+    ],
+    [
+      "policy",
+      113
+    ],
+    [
+      "development",
+      112
+    ],
+    [
+      "security",
+      111
+    ],
+    [
+      "state",
+      111
+    ],
+    [
+      "foreign",
+      110
+    ],
+    [
+      "extent",
+      109
+    ],
+    [
+      "advisory",
+      108
+    ],
+    [
+      "programs",
+      108
+    ],
+    [
+      "delegated",
+      107
+    ],
+    [
+      "board",
+      107
+    ],
+    [
+      "pay",
+      105
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "george bush",
+      352
+    ],
+    [
+      "white house",
+      192
+    ],
+    [
+      "bush white",
+      165
+    ],
+    [
+      "constitution laws",
+      164
+    ],
+    [
+      "vested constitution",
+      161
+    ],
+    [
+      "bush vested",
+      147
+    ],
+    [
+      "secretary defense",
+      107
+    ],
+    [
+      "ordered follows",
+      90
+    ],
+    [
+      "advisory committee",
+      72
+    ],
+    [
+      "department agency",
+      61
+    ],
+    [
+      "secretary state",
+      60
+    ],
+    [
+      "read follows",
+      60
+    ],
+    [
+      "functions vested",
+      59
+    ],
+    [
+      "national security",
+      58
+    ],
+    [
+      "departments agencies",
+      53
+    ],
+    [
+      "director office",
+      51
+    ],
+    [
+      "republic yugoslavia",
+      50
+    ],
+    [
+      "personnel management",
+      48
+    ],
+    [
+      "office personnel",
+      47
+    ],
+    [
+      "effective date",
+      47
+    ],
+    [
+      "attorney general",
+      45
+    ],
+    [
+      "serbia montenegro",
+      45
+    ],
+    [
+      "committee amended",
+      43
+    ],
+    [
+      "extent permitted",
+      43
+    ],
+    [
+      "delegated secretary",
+      41
+    ],
+    [
+      "coast guard",
+      41
+    ],
+    [
+      "published register",
+      39
+    ],
+    [
+      "secretary treasury",
+      38
+    ],
+    [
+      "armed forces",
+      38
+    ],
+    [
+      "amended read",
+      38
+    ],
+    [
+      "yugoslavia serbia",
+      38
+    ],
+    [
+      "rules regulations",
+      37
+    ],
+    [
+      "general services",
+      37
+    ],
+    [
+      "sec secretary",
+      36
+    ],
+    [
+      "amended amended",
+      36
+    ],
+    [
+      "sec effective",
+      34
+    ],
+    [
+      "secretary transportation",
+      34
+    ],
+    [
+      "office management",
+      32
+    ],
+    [
+      "management budget",
+      32
+    ],
+    [
+      "basic pay",
+      31
+    ],
+    [
+      "members appointed",
+      29
+    ],
+    [
+      "rcm amended",
+      29
+    ],
+    [
+      "head department",
+      28
+    ],
+    [
+      "secretary education",
+      28
+    ],
+    [
+      "related programs",
+      28
+    ],
+    [
+      "private sector",
+      27
+    ],
+    [
+      "administrator general",
+      27
+    ],
+    [
+      "international development",
+      27
+    ],
+    [
+      "guard operating",
+      27
+    ],
+    [
+      "foreign operations",
+      27
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "george bush white",
+      165
+    ],
+    [
+      "bush white house",
+      165
+    ],
+    [
+      "vested constitution laws",
+      159
+    ],
+    [
+      "george bush vested",
+      147
+    ],
+    [
+      "bush vested constitution",
+      145
+    ],
+    [
+      "office personnel management",
+      47
+    ],
+    [
+      "advisory committee amended",
+      43
+    ],
+    [
+      "republic yugoslavia serbia",
+      38
+    ],
+    [
+      "yugoslavia serbia montenegro",
+      38
+    ],
+    [
+      "amended read follows",
+      33
+    ],
+    [
+      "office management budget",
+      32
+    ],
+    [
+      "administrator general services",
+      27
+    ],
+    [
+      "coast guard operating",
+      27
+    ],
+    [
+      "foreign operations export",
+      27
+    ],
+    [
+      "operations export financing",
+      27
+    ],
+    [
+      "export financing related",
+      27
+    ],
+    [
+      "financing related programs",
+      27
+    ],
+    [
+      "related programs appropriations",
+      27
+    ],
+    [
+      "industrial security program",
+      26
+    ],
+    [
+      "agency international development",
+      25
+    ],
+    [
+      "programs appropriations public",
+      25
+    ],
+    [
+      "emergency economic powers",
+      24
+    ],
+    [
+      "agricultural trade development",
+      24
+    ],
+    [
+      "national industrial security",
+      24
+    ],
+    [
+      "international emergency economic",
+      23
+    ],
+    [
+      "head department agency",
+      23
+    ],
+    [
+      "create right benefit",
+      22
+    ],
+    [
+      "right benefit substantive",
+      22
+    ],
+    [
+      "december george bush",
+      22
+    ],
+    [
+      "vested opa respecting",
+      22
+    ]
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "president": "Grover_Cleveland",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "service",
+      545
+    ],
+    [
+      "examination",
+      346
+    ],
+    [
+      "commission",
+      320
+    ],
+    [
+      "rule",
+      293
+    ],
+    [
+      "grover",
+      265
+    ],
+    [
+      "cleveland",
+      265
+    ],
+    [
+      "classified",
+      250
+    ],
+    [
+      "person",
+      225
+    ],
+    [
+      "appointment",
+      205
+    ],
+    [
+      "department",
+      203
+    ],
+    [
+      "office",
+      189
+    ],
+    [
+      "made",
+      181
+    ],
+    [
+      "one",
+      173
+    ],
+    [
+      "civil",
+      169
+    ],
+    [
+      "place",
+      163
+    ],
+    [
+      "rules",
+      144
+    ],
+    [
+      "departmental",
+      139
+    ],
+    [
+      "approved",
+      138
+    ],
+    [
+      "officer",
+      136
+    ],
+    [
+      "persons",
+      132
+    ],
+    [
+      "position",
+      127
+    ],
+    [
+      "following",
+      113
+    ],
+    [
+      "examinations",
+      112
+    ],
+    [
+      "customs",
+      107
+    ],
+    [
+      "eligible",
+      100
+    ],
+    [
+      "appointed",
+      98
+    ],
+    [
+      "district",
+      98
+    ],
+    [
+      "general",
+      95
+    ],
+    [
+      "amended",
+      94
+    ],
+    [
+      "clerk",
+      93
+    ],
+    [
+      "grade",
+      92
+    ],
+    [
+      "secretary",
+      92
+    ],
+    [
+      "clause",
+      91
+    ],
+    [
+      "every",
+      88
+    ],
+    [
+      "class",
+      87
+    ],
+    [
+      "time",
+      86
+    ],
+    [
+      "board",
+      85
+    ],
+    [
+      "civilservice",
+      82
+    ],
+    [
+      "filled",
+      80
+    ],
+    [
+      "fitness",
+      78
+    ],
+    [
+      "per",
+      78
+    ],
+    [
+      "provisions",
+      76
+    ],
+    [
+      "public",
+      76
+    ],
+    [
+      "special",
+      75
+    ],
+    [
+      "test",
+      75
+    ],
+    [
+      "register",
+      73
+    ],
+    [
+      "postoffice",
+      72
+    ],
+    [
+      "line",
+      71
+    ],
+    [
+      "promotion",
+      71
+    ],
+    [
+      "transfer",
+      70
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "grover cleveland",
+      265
+    ],
+    [
+      "civil service",
+      150
+    ],
+    [
+      "classified service",
+      78
+    ],
+    [
+      "departmental rule",
+      67
+    ],
+    [
+      "test fitness",
+      64
+    ],
+    [
+      "departmental service",
+      55
+    ],
+    [
+      "service commission",
+      49
+    ],
+    [
+      "one year",
+      48
+    ],
+    [
+      "confinement hard",
+      47
+    ],
+    [
+      "hard labor",
+      47
+    ],
+    [
+      "rule iii",
+      44
+    ],
+    [
+      "per annum",
+      44
+    ],
+    [
+      "six months",
+      43
+    ],
+    [
+      "service rules",
+      41
+    ],
+    [
+      "general rule",
+      40
+    ],
+    [
+      "revised statutes",
+      39
+    ],
+    [
+      "less per",
+      39
+    ],
+    [
+      "approved grover",
+      37
+    ],
+    [
+      "approved january",
+      36
+    ],
+    [
+      "classified departmental",
+      34
+    ],
+    [
+      "temporary appointment",
+      34
+    ],
+    [
+      "without examination",
+      32
+    ],
+    [
+      "absolute appointment",
+      32
+    ],
+    [
+      "department agriculture",
+      32
+    ],
+    [
+      "excepted examination",
+      31
+    ],
+    [
+      "customs district",
+      31
+    ],
+    [
+      "board examiners",
+      31
+    ],
+    [
+      "rule amended",
+      30
+    ],
+    [
+      "printing office",
+      30
+    ],
+    [
+      "public service",
+      29
+    ],
+    [
+      "classified customs",
+      28
+    ],
+    [
+      "appointing officer",
+      28
+    ],
+    [
+      "persons receiving",
+      28
+    ],
+    [
+      "noncommissioned officer",
+      28
+    ],
+    [
+      "amendment civil",
+      26
+    ],
+    [
+      "pay allowances",
+      26
+    ],
+    [
+      "customs service",
+      26
+    ],
+    [
+      "postal service",
+      26
+    ],
+    [
+      "amended adding",
+      25
+    ],
+    [
+      "appointment made",
+      25
+    ],
+    [
+      "general average",
+      25
+    ],
+    [
+      "rate less",
+      25
+    ],
+    [
+      "annum class",
+      25
+    ],
+    [
+      "dishonorable discharge",
+      25
+    ],
+    [
+      "head department",
+      24
+    ],
+    [
+      "cleveland amendment",
+      24
+    ],
+    [
+      "service approved",
+      24
+    ],
+    [
+      "person appointed",
+      24
+    ],
+    [
+      "competitive examination",
+      24
+    ],
+    [
+      "class persons",
+      24
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "confinement hard labor",
+      47
+    ],
+    [
+      "civil service rules",
+      40
+    ],
+    [
+      "approved grover cleveland",
+      37
+    ],
+    [
+      "civil service commission",
+      36
+    ],
+    [
+      "classified departmental service",
+      33
+    ],
+    [
+      "general rule iii",
+      29
+    ],
+    [
+      "less per annum",
+      27
+    ],
+    [
+      "amendment civil service",
+      26
+    ],
+    [
+      "rate less per",
+      25
+    ],
+    [
+      "per annum class",
+      25
+    ],
+    [
+      "grover cleveland amendment",
+      24
+    ],
+    [
+      "class persons receiving",
+      24
+    ],
+    [
+      "discharge forfeiture pay",
+      24
+    ],
+    [
+      "forfeiture pay allowances",
+      24
+    ],
+    [
+      "cleveland amendment civil",
+      23
+    ],
+    [
+      "rule iii clause",
+      23
+    ],
+    [
+      "dishonorable discharge forfeiture",
+      23
+    ],
+    [
+      "november grover cleveland",
+      23
+    ],
+    [
+      "grover cleveland civil",
+      22
+    ],
+    [
+      "cleveland civil service",
+      22
+    ],
+    [
+      "regulate improve civil",
+      21
+    ],
+    [
+      "improve civil service",
+      21
+    ],
+    [
+      "civil service approved",
+      21
+    ],
+    [
+      "service approved january",
+      21
+    ],
+    [
+      "persons receiving annual",
+      21
+    ],
+    [
+      "receiving annual salary",
+      21
+    ],
+    [
+      "annum class persons",
+      21
+    ],
+    [
+      "exercise power vested",
+      20
+    ],
+    [
+      "compensation rate less",
+      20
+    ],
+    [
+      "special departmental rule",
+      19
+    ]
+  ]
+}

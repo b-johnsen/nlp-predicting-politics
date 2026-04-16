@@ -1,0 +1,530 @@
+{
+  "president": "Herbert_Hoover",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "sec",
+      3443
+    ],
+    [
+      "hoover",
+      2016
+    ],
+    [
+      "herbert",
+      2014
+    ],
+    [
+      "lands",
+      1155
+    ],
+    [
+      "service",
+      1053
+    ],
+    [
+      "stat",
+      1041
+    ],
+    [
+      "public",
+      1040
+    ],
+    [
+      "house",
+      1034
+    ],
+    [
+      "white",
+      1025
+    ],
+    [
+      "june",
+      790
+    ],
+    [
+      "department",
+      782
+    ],
+    [
+      "corner",
+      760
+    ],
+    [
+      "feet",
+      753
+    ],
+    [
+      "thence",
+      752
+    ],
+    [
+      "lot",
+      728
+    ],
+    [
+      "congress",
+      631
+    ],
+    [
+      "marked",
+      590
+    ],
+    [
+      "ordered",
+      580
+    ],
+    [
+      "land",
+      568
+    ],
+    [
+      "secretary",
+      564
+    ],
+    [
+      "meridian",
+      531
+    ],
+    [
+      "secs",
+      520
+    ],
+    [
+      "approved",
+      506
+    ],
+    [
+      "point",
+      501
+    ],
+    [
+      "state",
+      493
+    ],
+    [
+      "subject",
+      476
+    ],
+    [
+      "lots",
+      475
+    ],
+    [
+      "revoked",
+      475
+    ],
+    [
+      "amended",
+      474
+    ],
+    [
+      "august",
+      464
+    ],
+    [
+      "beginning",
+      460
+    ],
+    [
+      "entry",
+      434
+    ],
+    [
+      "along",
+      433
+    ],
+    [
+      "officers",
+      427
+    ],
+    [
+      "described",
+      411
+    ],
+    [
+      "line",
+      397
+    ],
+    [
+      "february",
+      391
+    ],
+    [
+      "march",
+      384
+    ],
+    [
+      "date",
+      381
+    ],
+    [
+      "july",
+      376
+    ],
+    [
+      "national",
+      368
+    ],
+    [
+      "consular",
+      365
+    ],
+    [
+      "provisions",
+      361
+    ],
+    [
+      "regulations",
+      352
+    ],
+    [
+      "officer",
+      352
+    ],
+    [
+      "resurvey",
+      351
+    ],
+    [
+      "station",
+      345
+    ],
+    [
+      "period",
+      341
+    ],
+    [
+      "chs",
+      340
+    ],
+    [
+      "bears",
+      338
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "herbert hoover",
+      2014
+    ],
+    [
+      "sec sec",
+      1890
+    ],
+    [
+      "white house",
+      1007
+    ],
+    [
+      "hoover white",
+      1001
+    ],
+    [
+      "public lands",
+      482
+    ],
+    [
+      "sec lots",
+      413
+    ],
+    [
+      "june stat",
+      352
+    ],
+    [
+      "congress approved",
+      331
+    ],
+    [
+      "sec lot",
+      320
+    ],
+    [
+      "lots sec",
+      319
+    ],
+    [
+      "lot lot",
+      300
+    ],
+    [
+      "lot sec",
+      299
+    ],
+    [
+      "approved june",
+      261
+    ],
+    [
+      "foreign service",
+      256
+    ],
+    [
+      "august stat",
+      248
+    ],
+    [
+      "secs inclusive",
+      242
+    ],
+    [
+      "national forest",
+      241
+    ],
+    [
+      "civil service",
+      238
+    ],
+    [
+      "stat amended",
+      234
+    ],
+    [
+      "withdrawal public",
+      214
+    ],
+    [
+      "force effect",
+      214
+    ],
+    [
+      "full force",
+      213
+    ],
+    [
+      "revoked congress",
+      210
+    ],
+    [
+      "effect unless",
+      206
+    ],
+    [
+      "unless revoked",
+      205
+    ],
+    [
+      "congress herbert",
+      205
+    ],
+    [
+      "feet along",
+      205
+    ],
+    [
+      "pending resurvey",
+      199
+    ],
+    [
+      "continue full",
+      193
+    ],
+    [
+      "amended august",
+      193
+    ],
+    [
+      "secretary state",
+      187
+    ],
+    [
+      "ordered public",
+      179
+    ],
+    [
+      "new mexico",
+      176
+    ],
+    [
+      "meridian sec",
+      175
+    ],
+    [
+      "settlement location",
+      175
+    ],
+    [
+      "withdrawn settlement",
+      174
+    ],
+    [
+      "location sale",
+      174
+    ],
+    [
+      "sale entry",
+      174
+    ],
+    [
+      "principal meridian",
+      170
+    ],
+    [
+      "distant marked",
+      166
+    ],
+    [
+      "bears lks",
+      163
+    ],
+    [
+      "lks distant",
+      163
+    ],
+    [
+      "concrete monument",
+      155
+    ],
+    [
+      "hereinafter described",
+      151
+    ],
+    [
+      "sec secs",
+      148
+    ],
+    [
+      "stat subject",
+      147
+    ],
+    [
+      "hoover ordered",
+      144
+    ],
+    [
+      "subject conditions",
+      142
+    ],
+    [
+      "service rules",
+      140
+    ],
+    [
+      "chs chs",
+      140
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "sec sec sec",
+      1409
+    ],
+    [
+      "herbert hoover white",
+      1001
+    ],
+    [
+      "hoover white house",
+      1001
+    ],
+    [
+      "sec lots sec",
+      296
+    ],
+    [
+      "full force effect",
+      211
+    ],
+    [
+      "force effect unless",
+      205
+    ],
+    [
+      "unless revoked congress",
+      205
+    ],
+    [
+      "congress herbert hoover",
+      205
+    ],
+    [
+      "effect unless revoked",
+      204
+    ],
+    [
+      "revoked congress herbert",
+      203
+    ],
+    [
+      "june stat amended",
+      198
+    ],
+    [
+      "lot lot lot",
+      197
+    ],
+    [
+      "withdrawal public lands",
+      194
+    ],
+    [
+      "continue full force",
+      193
+    ],
+    [
+      "amended august stat",
+      193
+    ],
+    [
+      "approved june stat",
+      191
+    ],
+    [
+      "congress approved june",
+      188
+    ],
+    [
+      "stat amended august",
+      188
+    ],
+    [
+      "sec lot sec",
+      183
+    ],
+    [
+      "settlement location sale",
+      174
+    ],
+    [
+      "location sale entry",
+      173
+    ],
+    [
+      "withdrawn settlement location",
+      167
+    ],
+    [
+      "bears lks distant",
+      157
+    ],
+    [
+      "herbert hoover ordered",
+      144
+    ],
+    [
+      "lots sec lots",
+      144
+    ],
+    [
+      "sec sec lot",
+      140
+    ],
+    [
+      "civil service rules",
+      139
+    ],
+    [
+      "lands hereinafter described",
+      129
+    ],
+    [
+      "lot sec sec",
+      129
+    ],
+    [
+      "corner meander corner",
+      121
+    ]
+  ]
+}

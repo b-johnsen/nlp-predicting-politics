@@ -1,0 +1,530 @@
+{
+  "president": "Franklin_D_Roosevelt",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "roosevelt",
+      7844
+    ],
+    [
+      "franklin",
+      7843
+    ],
+    [
+      "sec",
+      6912
+    ],
+    [
+      "service",
+      5944
+    ],
+    [
+      "june",
+      4260
+    ],
+    [
+      "stat",
+      3873
+    ],
+    [
+      "house",
+      3794
+    ],
+    [
+      "white",
+      3777
+    ],
+    [
+      "public",
+      3767
+    ],
+    [
+      "vested",
+      3692
+    ],
+    [
+      "national",
+      3598
+    ],
+    [
+      "provisions",
+      3559
+    ],
+    [
+      "secretary",
+      3369
+    ],
+    [
+      "department",
+      3329
+    ],
+    [
+      "virtue",
+      3106
+    ],
+    [
+      "board",
+      2961
+    ],
+    [
+      "code",
+      2869
+    ],
+    [
+      "lands",
+      2825
+    ],
+    [
+      "war",
+      2680
+    ],
+    [
+      "amended",
+      2529
+    ],
+    [
+      "approved",
+      2388
+    ],
+    [
+      "secs",
+      2380
+    ],
+    [
+      "regulations",
+      2218
+    ],
+    [
+      "administrator",
+      2182
+    ],
+    [
+      "feet",
+      2149
+    ],
+    [
+      "inclusive",
+      2102
+    ],
+    [
+      "thence",
+      2019
+    ],
+    [
+      "fair",
+      1959
+    ],
+    [
+      "made",
+      1948
+    ],
+    [
+      "competition",
+      1910
+    ],
+    [
+      "ordered",
+      1809
+    ],
+    [
+      "person",
+      1745
+    ],
+    [
+      "state",
+      1729
+    ],
+    [
+      "retirement",
+      1723
+    ],
+    [
+      "july",
+      1716
+    ],
+    [
+      "industrial",
+      1700
+    ],
+    [
+      "august",
+      1684
+    ],
+    [
+      "necessary",
+      1674
+    ],
+    [
+      "recovery",
+      1655
+    ],
+    [
+      "civil",
+      1616
+    ],
+    [
+      "one",
+      1615
+    ],
+    [
+      "purposes",
+      1606
+    ],
+    [
+      "office",
+      1599
+    ],
+    [
+      "point",
+      1595
+    ],
+    [
+      "use",
+      1580
+    ],
+    [
+      "administration",
+      1579
+    ],
+    [
+      "march",
+      1545
+    ],
+    [
+      "line",
+      1540
+    ],
+    [
+      "age",
+      1538
+    ],
+    [
+      "commission",
+      1522
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "franklin roosevelt",
+      7833
+    ],
+    [
+      "white house",
+      3700
+    ],
+    [
+      "roosevelt white",
+      3306
+    ],
+    [
+      "virtue vested",
+      3004
+    ],
+    [
+      "sec sec",
+      2449
+    ],
+    [
+      "fair competition",
+      1877
+    ],
+    [
+      "code fair",
+      1811
+    ],
+    [
+      "roosevelt virtue",
+      1566
+    ],
+    [
+      "industrial recovery",
+      1530
+    ],
+    [
+      "june stat",
+      1480
+    ],
+    [
+      "national industrial",
+      1451
+    ],
+    [
+      "retirement age",
+      1430
+    ],
+    [
+      "civil service",
+      1403
+    ],
+    [
+      "secs inclusive",
+      1271
+    ],
+    [
+      "sec lots",
+      1232
+    ],
+    [
+      "approved june",
+      1058
+    ],
+    [
+      "compulsory retirement",
+      1032
+    ],
+    [
+      "inclusive sec",
+      980
+    ],
+    [
+      "public lands",
+      919
+    ],
+    [
+      "vested june",
+      888
+    ],
+    [
+      "usc sec",
+      853
+    ],
+    [
+      "therefore virtue",
+      791
+    ],
+    [
+      "recovery approved",
+      782
+    ],
+    [
+      "stat usc",
+      781
+    ],
+    [
+      "public interest",
+      772
+    ],
+    [
+      "stat amended",
+      748
+    ],
+    [
+      "inclusive secs",
+      683
+    ],
+    [
+      "stat ordered",
+      663
+    ],
+    [
+      "sec secs",
+      656
+    ],
+    [
+      "interest requires",
+      645
+    ],
+    [
+      "august stat",
+      645
+    ],
+    [
+      "lots inclusive",
+      628
+    ],
+    [
+      "war department",
+      583
+    ],
+    [
+      "secretary interior",
+      574
+    ],
+    [
+      "one year",
+      569
+    ],
+    [
+      "recommendations findings",
+      569
+    ],
+    [
+      "secretary agriculture",
+      535
+    ],
+    [
+      "separation service",
+      532
+    ],
+    [
+      "amended august",
+      524
+    ],
+    [
+      "automatic separation",
+      520
+    ],
+    [
+      "prescribed automatic",
+      515
+    ],
+    [
+      "age prescribed",
+      514
+    ],
+    [
+      "foreign service",
+      513
+    ],
+    [
+      "period one",
+      511
+    ],
+    [
+      "vested national",
+      508
+    ],
+    [
+      "june franklin",
+      501
+    ],
+    [
+      "secretary war",
+      474
+    ],
+    [
+      "canal zone",
+      472
+    ],
+    [
+      "department agriculture",
+      460
+    ],
+    [
+      "local board",
+      459
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "franklin roosevelt white",
+      3306
+    ],
+    [
+      "roosevelt white house",
+      3306
+    ],
+    [
+      "code fair competition",
+      1808
+    ],
+    [
+      "franklin roosevelt virtue",
+      1566
+    ],
+    [
+      "roosevelt virtue vested",
+      1537
+    ],
+    [
+      "sec sec sec",
+      1517
+    ],
+    [
+      "national industrial recovery",
+      1448
+    ],
+    [
+      "compulsory retirement age",
+      909
+    ],
+    [
+      "virtue vested june",
+      886
+    ],
+    [
+      "vested june stat",
+      861
+    ],
+    [
+      "industrial recovery approved",
+      779
+    ],
+    [
+      "recovery approved june",
+      777
+    ],
+    [
+      "therefore virtue vested",
+      752
+    ],
+    [
+      "stat usc sec",
+      687
+    ],
+    [
+      "public interest requires",
+      643
+    ],
+    [
+      "sec lots inclusive",
+      610
+    ],
+    [
+      "secs inclusive secs",
+      554
+    ],
+    [
+      "secs inclusive sec",
+      526
+    ],
+    [
+      "june stat amended",
+      521
+    ],
+    [
+      "automatic separation service",
+      520
+    ],
+    [
+      "prescribed automatic separation",
+      515
+    ],
+    [
+      "june stat usc",
+      514
+    ],
+    [
+      "age prescribed automatic",
+      514
+    ],
+    [
+      "retirement age prescribed",
+      511
+    ],
+    [
+      "amended august stat",
+      511
+    ],
+    [
+      "stat amended august",
+      510
+    ],
+    [
+      "period one year",
+      504
+    ],
+    [
+      "june franklin roosevelt",
+      501
+    ],
+    [
+      "vested national industrial",
+      501
+    ],
+    [
+      "inclusive secs inclusive",
+      493
+    ]
+  ]
+}

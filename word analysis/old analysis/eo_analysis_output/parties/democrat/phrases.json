@@ -1,0 +1,529 @@
+{
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "sec",
+      14469
+    ],
+    [
+      "secretary",
+      12330
+    ],
+    [
+      "service",
+      11920
+    ],
+    [
+      "national",
+      8907
+    ],
+    [
+      "department",
+      8639
+    ],
+    [
+      "roosevelt",
+      7854
+    ],
+    [
+      "franklin",
+      7852
+    ],
+    [
+      "board",
+      7663
+    ],
+    [
+      "agency",
+      7574
+    ],
+    [
+      "amended",
+      7494
+    ],
+    [
+      "public",
+      7299
+    ],
+    [
+      "house",
+      7185
+    ],
+    [
+      "white",
+      7092
+    ],
+    [
+      "vested",
+      6976
+    ],
+    [
+      "provisions",
+      6951
+    ],
+    [
+      "agencies",
+      6876
+    ],
+    [
+      "june",
+      5722
+    ],
+    [
+      "stat",
+      5660
+    ],
+    [
+      "office",
+      5568
+    ],
+    [
+      "state",
+      5544
+    ],
+    [
+      "commission",
+      5373
+    ],
+    [
+      "regulations",
+      5249
+    ],
+    [
+      "person",
+      5203
+    ],
+    [
+      "director",
+      5077
+    ],
+    [
+      "usc",
+      5023
+    ],
+    [
+      "virtue",
+      4766
+    ],
+    [
+      "made",
+      4650
+    ],
+    [
+      "general",
+      4612
+    ],
+    [
+      "information",
+      4611
+    ],
+    [
+      "code",
+      4410
+    ],
+    [
+      "war",
+      4237
+    ],
+    [
+      "date",
+      4185
+    ],
+    [
+      "employees",
+      4163
+    ],
+    [
+      "functions",
+      4148
+    ],
+    [
+      "necessary",
+      4102
+    ],
+    [
+      "follows",
+      4063
+    ],
+    [
+      "appropriate",
+      3915
+    ],
+    [
+      "ordered",
+      3905
+    ],
+    [
+      "administrator",
+      3861
+    ],
+    [
+      "feet",
+      3857
+    ],
+    [
+      "committee",
+      3692
+    ],
+    [
+      "defense",
+      3621
+    ],
+    [
+      "report",
+      3613
+    ],
+    [
+      "time",
+      3600
+    ],
+    [
+      "administration",
+      3597
+    ],
+    [
+      "security",
+      3597
+    ],
+    [
+      "subject",
+      3551
+    ],
+    [
+      "use",
+      3550
+    ],
+    [
+      "foreign",
+      3520
+    ],
+    [
+      "lands",
+      3505
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "franklin roosevelt",
+      7836
+    ],
+    [
+      "white house",
+      6945
+    ],
+    [
+      "virtue vested",
+      4532
+    ],
+    [
+      "roosevelt white",
+      3306
+    ],
+    [
+      "sec sec",
+      2865
+    ],
+    [
+      "civil service",
+      2266
+    ],
+    [
+      "fair competition",
+      1882
+    ],
+    [
+      "ordered follows",
+      1824
+    ],
+    [
+      "code fair",
+      1813
+    ],
+    [
+      "harry truman",
+      1776
+    ],
+    [
+      "local board",
+      1684
+    ],
+    [
+      "june stat",
+      1642
+    ],
+    [
+      "secretary state",
+      1623
+    ],
+    [
+      "secs inclusive",
+      1572
+    ],
+    [
+      "roosevelt virtue",
+      1566
+    ],
+    [
+      "industrial recovery",
+      1531
+    ],
+    [
+      "retirement age",
+      1520
+    ],
+    [
+      "departments agencies",
+      1515
+    ],
+    [
+      "national industrial",
+      1472
+    ],
+    [
+      "stat usc",
+      1434
+    ],
+    [
+      "vested constitution",
+      1431
+    ],
+    [
+      "secretary treasury",
+      1332
+    ],
+    [
+      "sec lots",
+      1302
+    ],
+    [
+      "therefore virtue",
+      1250
+    ],
+    [
+      "national security",
+      1202
+    ],
+    [
+      "department agency",
+      1195
+    ],
+    [
+      "inclusive sec",
+      1150
+    ],
+    [
+      "armed forces",
+      1149
+    ],
+    [
+      "approved june",
+      1142
+    ],
+    [
+      "compulsory retirement",
+      1124
+    ],
+    [
+      "read follows",
+      1117
+    ],
+    [
+      "secretary interior",
+      1092
+    ],
+    [
+      "attorney general",
+      1083
+    ],
+    [
+      "selective service",
+      1079
+    ],
+    [
+      "director office",
+      1044
+    ],
+    [
+      "public interest",
+      1018
+    ],
+    [
+      "stat amended",
+      1016
+    ],
+    [
+      "officers employees",
+      999
+    ],
+    [
+      "amended read",
+      999
+    ],
+    [
+      "constitution laws",
+      985
+    ],
+    [
+      "public lands",
+      982
+    ],
+    [
+      "usc sec",
+      977
+    ],
+    [
+      "rules regulations",
+      967
+    ],
+    [
+      "days date",
+      955
+    ],
+    [
+      "vested june",
+      929
+    ],
+    [
+      "effective date",
+      920
+    ],
+    [
+      "secretary agriculture",
+      897
+    ],
+    [
+      "truman white",
+      869
+    ],
+    [
+      "secretary defense",
+      859
+    ],
+    [
+      "sec secs",
+      850
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "franklin roosevelt white",
+      3306
+    ],
+    [
+      "roosevelt white house",
+      3306
+    ],
+    [
+      "code fair competition",
+      1808
+    ],
+    [
+      "sec sec sec",
+      1743
+    ],
+    [
+      "franklin roosevelt virtue",
+      1566
+    ],
+    [
+      "roosevelt virtue vested",
+      1537
+    ],
+    [
+      "national industrial recovery",
+      1449
+    ],
+    [
+      "therefore virtue vested",
+      1172
+    ],
+    [
+      "compulsory retirement age",
+      986
+    ],
+    [
+      "vested constitution laws",
+      967
+    ],
+    [
+      "virtue vested june",
+      917
+    ],
+    [
+      "vested june stat",
+      894
+    ],
+    [
+      "amended read follows",
+      875
+    ],
+    [
+      "harry truman white",
+      869
+    ],
+    [
+      "truman white house",
+      869
+    ],
+    [
+      "office management budget",
+      789
+    ],
+    [
+      "industrial recovery approved",
+      779
+    ],
+    [
+      "recovery approved june",
+      777
+    ],
+    [
+      "stat usc sec",
+      709
+    ],
+    [
+      "public interest requires",
+      687
+    ],
+    [
+      "secs inclusive sec",
+      683
+    ],
+    [
+      "civil service commission",
+      664
+    ],
+    [
+      "secs inclusive secs",
+      656
+    ],
+    [
+      "sec lots inclusive",
+      635
+    ],
+    [
+      "director office management",
+      605
+    ],
+    [
+      "white house december",
+      598
+    ],
+    [
+      "white house june",
+      597
+    ],
+    [
+      "inclusive secs inclusive",
+      587
+    ],
+    [
+      "harry truman virtue",
+      586
+    ],
+    [
+      "truman virtue vested",
+      582
+    ]
+  ]
+}

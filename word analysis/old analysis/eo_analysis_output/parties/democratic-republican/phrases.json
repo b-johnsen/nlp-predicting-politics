@@ -1,0 +1,529 @@
+{
+  "party": "Democratic-Republican",
+  "top_unigrams": [
+    [
+      "jefferson",
+      7
+    ],
+    [
+      "army",
+      6
+    ],
+    [
+      "every",
+      5
+    ],
+    [
+      "day",
+      5
+    ],
+    [
+      "adams",
+      4
+    ],
+    [
+      "mourning",
+      4
+    ],
+    [
+      "republic",
+      4
+    ],
+    [
+      "country",
+      4
+    ],
+    [
+      "thomas",
+      3
+    ],
+    [
+      "john",
+      3
+    ],
+    [
+      "orders",
+      3
+    ],
+    [
+      "war",
+      3
+    ],
+    [
+      "illustrious",
+      3
+    ],
+    [
+      "venerated",
+      3
+    ],
+    [
+      "feel",
+      3
+    ],
+    [
+      "loss",
+      3
+    ],
+    [
+      "honors",
+      3
+    ],
+    [
+      "paid",
+      3
+    ],
+    [
+      "majorgeneral",
+      3
+    ],
+    [
+      "brown",
+      3
+    ],
+    [
+      "men",
+      3
+    ],
+    [
+      "directed",
+      3
+    ],
+    [
+      "one",
+      3
+    ],
+    [
+      "quincy",
+      2
+    ],
+    [
+      "general",
+      2
+    ],
+    [
+      "department",
+      2
+    ],
+    [
+      "whose",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "earthly",
+      2
+    ],
+    [
+      "providence",
+      2
+    ],
+    [
+      "afflicting",
+      2
+    ],
+    [
+      "glory",
+      2
+    ],
+    [
+      "anniversary",
+      2
+    ],
+    [
+      "independence",
+      2
+    ],
+    [
+      "declaration",
+      2
+    ],
+    [
+      "mind",
+      2
+    ],
+    [
+      "birth",
+      2
+    ],
+    [
+      "hope",
+      2
+    ],
+    [
+      "man",
+      2
+    ],
+    [
+      "grief",
+      2
+    ],
+    [
+      "must",
+      2
+    ],
+    [
+      "express",
+      2
+    ],
+    [
+      "services",
+      2
+    ],
+    [
+      "deceased",
+      2
+    ],
+    [
+      "directs",
+      2
+    ],
+    [
+      "funeral",
+      2
+    ],
+    [
+      "military",
+      2
+    ],
+    [
+      "officers",
+      2
+    ],
+    [
+      "wear",
+      2
+    ],
+    [
+      "barbour",
+      2
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "thomas jefferson",
+      3
+    ],
+    [
+      "majorgeneral brown",
+      3
+    ],
+    [
+      "john adams",
+      2
+    ],
+    [
+      "directs funeral",
+      2
+    ],
+    [
+      "funeral honors",
+      2
+    ],
+    [
+      "honors paid",
+      2
+    ],
+    [
+      "secretary war",
+      2
+    ],
+    [
+      "announce army",
+      2
+    ],
+    [
+      "one day",
+      2
+    ],
+    [
+      "deaths thomas",
+      1
+    ],
+    [
+      "jefferson john",
+      1
+    ],
+    [
+      "adams july",
+      1
+    ],
+    [
+      "july john",
+      1
+    ],
+    [
+      "john quincy",
+      1
+    ],
+    [
+      "quincy adams",
+      1
+    ],
+    [
+      "adams adjutantgenerals",
+      1
+    ],
+    [
+      "adjutantgenerals office",
+      1
+    ],
+    [
+      "office general",
+      1
+    ],
+    [
+      "general orders",
+      1
+    ],
+    [
+      "orders general",
+      1
+    ],
+    [
+      "general chief",
+      1
+    ],
+    [
+      "chief received",
+      1
+    ],
+    [
+      "received department",
+      1
+    ],
+    [
+      "department war",
+      1
+    ],
+    [
+      "war following",
+      1
+    ],
+    [
+      "following orders",
+      1
+    ],
+    [
+      "orders deep",
+      1
+    ],
+    [
+      "deep regret",
+      1
+    ],
+    [
+      "regret announces",
+      1
+    ],
+    [
+      "announces army",
+      1
+    ],
+    [
+      "army pleased",
+      1
+    ],
+    [
+      "pleased disposer",
+      1
+    ],
+    [
+      "disposer human",
+      1
+    ],
+    [
+      "human events",
+      1
+    ],
+    [
+      "events whose",
+      1
+    ],
+    [
+      "whose hands",
+      1
+    ],
+    [
+      "hands issues",
+      1
+    ],
+    [
+      "issues life",
+      1
+    ],
+    [
+      "life remove",
+      1
+    ],
+    [
+      "remove scene",
+      1
+    ],
+    [
+      "scene earthly",
+      1
+    ],
+    [
+      "earthly existence",
+      1
+    ],
+    [
+      "existence illustrious",
+      1
+    ],
+    [
+      "illustrious venerated",
+      1
+    ],
+    [
+      "venerated fellowcitizen",
+      1
+    ],
+    [
+      "fellowcitizen thomas",
+      1
+    ],
+    [
+      "jefferson dispensation",
+      1
+    ],
+    [
+      "dispensation divine",
+      1
+    ],
+    [
+      "divine providence",
+      1
+    ],
+    [
+      "providence afflicting",
+      1
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "directs funeral honors",
+      2
+    ],
+    [
+      "funeral honors paid",
+      2
+    ],
+    [
+      "deaths thomas jefferson",
+      1
+    ],
+    [
+      "thomas jefferson john",
+      1
+    ],
+    [
+      "jefferson john adams",
+      1
+    ],
+    [
+      "john adams july",
+      1
+    ],
+    [
+      "adams july john",
+      1
+    ],
+    [
+      "july john quincy",
+      1
+    ],
+    [
+      "john quincy adams",
+      1
+    ],
+    [
+      "quincy adams adjutantgenerals",
+      1
+    ],
+    [
+      "adams adjutantgenerals office",
+      1
+    ],
+    [
+      "adjutantgenerals office general",
+      1
+    ],
+    [
+      "office general orders",
+      1
+    ],
+    [
+      "general orders general",
+      1
+    ],
+    [
+      "orders general chief",
+      1
+    ],
+    [
+      "general chief received",
+      1
+    ],
+    [
+      "chief received department",
+      1
+    ],
+    [
+      "received department war",
+      1
+    ],
+    [
+      "department war following",
+      1
+    ],
+    [
+      "war following orders",
+      1
+    ],
+    [
+      "following orders deep",
+      1
+    ],
+    [
+      "orders deep regret",
+      1
+    ],
+    [
+      "deep regret announces",
+      1
+    ],
+    [
+      "regret announces army",
+      1
+    ],
+    [
+      "announces army pleased",
+      1
+    ],
+    [
+      "army pleased disposer",
+      1
+    ],
+    [
+      "pleased disposer human",
+      1
+    ],
+    [
+      "disposer human events",
+      1
+    ],
+    [
+      "human events whose",
+      1
+    ],
+    [
+      "events whose hands",
+      1
+    ]
+  ]
+}

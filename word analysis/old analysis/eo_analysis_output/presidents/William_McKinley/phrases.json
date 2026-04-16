@@ -1,0 +1,530 @@
+{
+  "president": "William_Mckinley",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "william",
+      191
+    ],
+    [
+      "mckinley",
+      191
+    ],
+    [
+      "secretary",
+      105
+    ],
+    [
+      "military",
+      70
+    ],
+    [
+      "war",
+      69
+    ],
+    [
+      "islands",
+      67
+    ],
+    [
+      "service",
+      66
+    ],
+    [
+      "one",
+      59
+    ],
+    [
+      "south",
+      52
+    ],
+    [
+      "navy",
+      47
+    ],
+    [
+      "thence",
+      46
+    ],
+    [
+      "army",
+      43
+    ],
+    [
+      "ordered",
+      41
+    ],
+    [
+      "rule",
+      41
+    ],
+    [
+      "office",
+      40
+    ],
+    [
+      "island",
+      39
+    ],
+    [
+      "officer",
+      39
+    ],
+    [
+      "department",
+      39
+    ],
+    [
+      "public",
+      38
+    ],
+    [
+      "made",
+      37
+    ],
+    [
+      "approved",
+      35
+    ],
+    [
+      "reservation",
+      34
+    ],
+    [
+      "north",
+      34
+    ],
+    [
+      "west",
+      34
+    ],
+    [
+      "line",
+      34
+    ],
+    [
+      "treasury",
+      34
+    ],
+    [
+      "land",
+      33
+    ],
+    [
+      "purposes",
+      33
+    ],
+    [
+      "assistant",
+      33
+    ],
+    [
+      "cuba",
+      32
+    ],
+    [
+      "range",
+      32
+    ],
+    [
+      "persons",
+      32
+    ],
+    [
+      "person",
+      32
+    ],
+    [
+      "necessary",
+      31
+    ],
+    [
+      "customs",
+      31
+    ],
+    [
+      "exceeding",
+      31
+    ],
+    [
+      "east",
+      30
+    ],
+    [
+      "private",
+      29
+    ],
+    [
+      "authorized",
+      29
+    ],
+    [
+      "chief",
+      29
+    ],
+    [
+      "quarantine",
+      29
+    ],
+    [
+      "district",
+      28
+    ],
+    [
+      "puerto",
+      28
+    ],
+    [
+      "civil",
+      28
+    ],
+    [
+      "subject",
+      28
+    ],
+    [
+      "duties",
+      28
+    ],
+    [
+      "regulations",
+      28
+    ],
+    [
+      "purpose",
+      28
+    ],
+    [
+      "rico",
+      27
+    ],
+    [
+      "march",
+      27
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "william mckinley",
+      191
+    ],
+    [
+      "secretary war",
+      45
+    ],
+    [
+      "puerto rico",
+      27
+    ],
+    [
+      "exceeding one",
+      27
+    ],
+    [
+      "secretary treasury",
+      25
+    ],
+    [
+      "mckinley ordered",
+      22
+    ],
+    [
+      "south range",
+      18
+    ],
+    [
+      "philippine islands",
+      15
+    ],
+    [
+      "army navy",
+      15
+    ],
+    [
+      "march william",
+      15
+    ],
+    [
+      "mckinley secretary",
+      14
+    ],
+    [
+      "june william",
+      13
+    ],
+    [
+      "per annum",
+      13
+    ],
+    [
+      "one private",
+      13
+    ],
+    [
+      "private secretary",
+      13
+    ],
+    [
+      "secretary confidential",
+      13
+    ],
+    [
+      "confidential clerk",
+      13
+    ],
+    [
+      "military governor",
+      12
+    ],
+    [
+      "mckinley june",
+      12
+    ],
+    [
+      "mckinley march",
+      12
+    ],
+    [
+      "line dividing",
+      12
+    ],
+    [
+      "cook creek",
+      12
+    ],
+    [
+      "april william",
+      11
+    ],
+    [
+      "congress approved",
+      11
+    ],
+    [
+      "island cuba",
+      11
+    ],
+    [
+      "internal revenue",
+      11
+    ],
+    [
+      "class persons",
+      11
+    ],
+    [
+      "persons receiving",
+      11
+    ],
+    [
+      "receiving annual",
+      11
+    ],
+    [
+      "annual salary",
+      11
+    ],
+    [
+      "compensation rate",
+      11
+    ],
+    [
+      "marine hospital",
+      10
+    ],
+    [
+      "virtue vested",
+      10
+    ],
+    [
+      "rate less",
+      10
+    ],
+    [
+      "less per",
+      10
+    ],
+    [
+      "annum class",
+      10
+    ],
+    [
+      "salary compensation",
+      10
+    ],
+    [
+      "hospital service",
+      9
+    ],
+    [
+      "mckinley april",
+      9
+    ],
+    [
+      "august william",
+      9
+    ],
+    [
+      "read follows",
+      9
+    ],
+    [
+      "military occupation",
+      9
+    ],
+    [
+      "december william",
+      9
+    ],
+    [
+      "mckinley virtue",
+      9
+    ],
+    [
+      "collector customs",
+      9
+    ],
+    [
+      "mckinley william",
+      9
+    ],
+    [
+      "quarantine officer",
+      9
+    ],
+    [
+      "fiscal year",
+      9
+    ],
+    [
+      "joint resolution",
+      9
+    ],
+    [
+      "mckinley july",
+      9
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "william mckinley ordered",
+      22
+    ],
+    [
+      "march william mckinley",
+      15
+    ],
+    [
+      "william mckinley secretary",
+      14
+    ],
+    [
+      "june william mckinley",
+      13
+    ],
+    [
+      "one private secretary",
+      13
+    ],
+    [
+      "private secretary confidential",
+      13
+    ],
+    [
+      "secretary confidential clerk",
+      13
+    ],
+    [
+      "william mckinley june",
+      12
+    ],
+    [
+      "mckinley june william",
+      12
+    ],
+    [
+      "william mckinley march",
+      12
+    ],
+    [
+      "mckinley march william",
+      12
+    ],
+    [
+      "april william mckinley",
+      11
+    ],
+    [
+      "exceeding one private",
+      11
+    ],
+    [
+      "class persons receiving",
+      11
+    ],
+    [
+      "persons receiving annual",
+      11
+    ],
+    [
+      "receiving annual salary",
+      11
+    ],
+    [
+      "compensation rate less",
+      10
+    ],
+    [
+      "rate less per",
+      10
+    ],
+    [
+      "less per annum",
+      10
+    ],
+    [
+      "per annum class",
+      10
+    ],
+    [
+      "annum class persons",
+      10
+    ],
+    [
+      "annual salary compensation",
+      10
+    ],
+    [
+      "salary compensation rate",
+      10
+    ],
+    [
+      "marine hospital service",
+      9
+    ],
+    [
+      "william mckinley april",
+      9
+    ],
+    [
+      "august william mckinley",
+      9
+    ],
+    [
+      "december william mckinley",
+      9
+    ],
+    [
+      "william mckinley virtue",
+      9
+    ],
+    [
+      "mckinley virtue vested",
+      9
+    ],
+    [
+      "william mckinley william",
+      9
+    ]
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "president": "Lyndon_B_Johnson",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "secretary",
+      960
+    ],
+    [
+      "commission",
+      713
+    ],
+    [
+      "railroad",
+      703
+    ],
+    [
+      "railway",
+      688
+    ],
+    [
+      "sec",
+      675
+    ],
+    [
+      "service",
+      656
+    ],
+    [
+      "johnson",
+      650
+    ],
+    [
+      "lyndon",
+      647
+    ],
+    [
+      "company",
+      635
+    ],
+    [
+      "committee",
+      568
+    ],
+    [
+      "house",
+      525
+    ],
+    [
+      "amended",
+      517
+    ],
+    [
+      "white",
+      497
+    ],
+    [
+      "agency",
+      474
+    ],
+    [
+      "vested",
+      456
+    ],
+    [
+      "department",
+      450
+    ],
+    [
+      "board",
+      411
+    ],
+    [
+      "national",
+      404
+    ],
+    [
+      "provisions",
+      375
+    ],
+    [
+      "members",
+      367
+    ],
+    [
+      "public",
+      347
+    ],
+    [
+      "council",
+      330
+    ],
+    [
+      "virtue",
+      329
+    ],
+    [
+      "follows",
+      326
+    ],
+    [
+      "made",
+      319
+    ],
+    [
+      "regulations",
+      312
+    ],
+    [
+      "usc",
+      301
+    ],
+    [
+      "code",
+      301
+    ],
+    [
+      "functions",
+      297
+    ],
+    [
+      "state",
+      295
+    ],
+    [
+      "agencies",
+      292
+    ],
+    [
+      "chairman",
+      285
+    ],
+    [
+      "stat",
+      277
+    ],
+    [
+      "member",
+      275
+    ],
+    [
+      "labor",
+      271
+    ],
+    [
+      "time",
+      262
+    ],
+    [
+      "employees",
+      262
+    ],
+    [
+      "respect",
+      256
+    ],
+    [
+      "director",
+      235
+    ],
+    [
+      "authorized",
+      235
+    ],
+    [
+      "new",
+      230
+    ],
+    [
+      "appropriate",
+      226
+    ],
+    [
+      "ordered",
+      225
+    ],
+    [
+      "form",
+      225
+    ],
+    [
+      "general",
+      224
+    ],
+    [
+      "development",
+      223
+    ],
+    [
+      "necessary",
+      220
+    ],
+    [
+      "report",
+      219
+    ],
+    [
+      "international",
+      209
+    ],
+    [
+      "programs",
+      207
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "lyndon johnson",
+      647
+    ],
+    [
+      "white house",
+      495
+    ],
+    [
+      "virtue vested",
+      322
+    ],
+    [
+      "johnson white",
+      317
+    ],
+    [
+      "railroad company",
+      247
+    ],
+    [
+      "johnson virtue",
+      219
+    ],
+    [
+      "railway company",
+      217
+    ],
+    [
+      "department agency",
+      158
+    ],
+    [
+      "ordered follows",
+      155
+    ],
+    [
+      "armed forces",
+      152
+    ],
+    [
+      "stat usc",
+      135
+    ],
+    [
+      "house press",
+      129
+    ],
+    [
+      "press release",
+      127
+    ],
+    [
+      "made public",
+      122
+    ],
+    [
+      "form white",
+      122
+    ],
+    [
+      "public form",
+      121
+    ],
+    [
+      "secretary defense",
+      118
+    ],
+    [
+      "note made",
+      109
+    ],
+    [
+      "departments agencies",
+      106
+    ],
+    [
+      "secretary treasury",
+      103
+    ],
+    [
+      "civil service",
+      102
+    ],
+    [
+      "hereinafter referred",
+      101
+    ],
+    [
+      "therefore virtue",
+      100
+    ],
+    [
+      "read follows",
+      100
+    ],
+    [
+      "selective service",
+      92
+    ],
+    [
+      "secretary commerce",
+      91
+    ],
+    [
+      "secretary labor",
+      90
+    ],
+    [
+      "railway labor",
+      90
+    ],
+    [
+      "health education",
+      86
+    ],
+    [
+      "education welfare",
+      86
+    ],
+    [
+      "new york",
+      83
+    ],
+    [
+      "attorney general",
+      81
+    ],
+    [
+      "local board",
+      81
+    ],
+    [
+      "amended read",
+      77
+    ],
+    [
+      "vested code",
+      74
+    ],
+    [
+      "service commission",
+      72
+    ],
+    [
+      "secretary state",
+      71
+    ],
+    [
+      "rules regulations",
+      70
+    ],
+    [
+      "time time",
+      69
+    ],
+    [
+      "secretary interior",
+      65
+    ],
+    [
+      "national guard",
+      64
+    ],
+    [
+      "feet along",
+      63
+    ],
+    [
+      "pacific railroad",
+      63
+    ],
+    [
+      "internal revenue",
+      62
+    ],
+    [
+      "revenue code",
+      62
+    ],
+    [
+      "terminal railroad",
+      62
+    ],
+    [
+      "amended usc",
+      59
+    ],
+    [
+      "secretary health",
+      59
+    ],
+    [
+      "foreign service",
+      59
+    ],
+    [
+      "vested ordered",
+      57
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "lyndon johnson white",
+      317
+    ],
+    [
+      "johnson white house",
+      317
+    ],
+    [
+      "lyndon johnson virtue",
+      219
+    ],
+    [
+      "johnson virtue vested",
+      219
+    ],
+    [
+      "white house press",
+      129
+    ],
+    [
+      "house press release",
+      126
+    ],
+    [
+      "form white house",
+      122
+    ],
+    [
+      "made public form",
+      121
+    ],
+    [
+      "public form white",
+      121
+    ],
+    [
+      "note made public",
+      108
+    ],
+    [
+      "therefore virtue vested",
+      100
+    ],
+    [
+      "health education welfare",
+      86
+    ],
+    [
+      "amended read follows",
+      75
+    ],
+    [
+      "civil service commission",
+      67
+    ],
+    [
+      "internal revenue code",
+      62
+    ],
+    [
+      "virtue vested code",
+      60
+    ],
+    [
+      "secretary health education",
+      59
+    ],
+    [
+      "virtue vested ordered",
+      57
+    ],
+    [
+      "railway labor amended",
+      57
+    ],
+    [
+      "vested ordered follows",
+      49
+    ],
+    [
+      "head department agency",
+      45
+    ],
+    [
+      "code ordered follows",
+      45
+    ],
+    [
+      "director selective service",
+      44
+    ],
+    [
+      "january lyndon johnson",
+      43
+    ],
+    [
+      "director bureau budget",
+      42
+    ],
+    [
+      "housing urban development",
+      41
+    ],
+    [
+      "department agency establishment",
+      39
+    ],
+    [
+      "secretary commerce secretary",
+      37
+    ],
+    [
+      "air national guard",
+      37
+    ],
+    [
+      "march lyndon johnson",
+      37
+    ]
+  ]
+}

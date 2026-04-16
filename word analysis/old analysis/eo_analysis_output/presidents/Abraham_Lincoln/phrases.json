@@ -1,0 +1,530 @@
+{
+  "president": "Abraham_Lincoln",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "lincoln",
+      192
+    ],
+    [
+      "abraham",
+      178
+    ],
+    [
+      "war",
+      156
+    ],
+    [
+      "military",
+      114
+    ],
+    [
+      "state",
+      98
+    ],
+    [
+      "department",
+      98
+    ],
+    [
+      "secretary",
+      86
+    ],
+    [
+      "army",
+      85
+    ],
+    [
+      "general",
+      64
+    ],
+    [
+      "officers",
+      63
+    ],
+    [
+      "ordered",
+      62
+    ],
+    [
+      "service",
+      62
+    ],
+    [
+      "majorgeneral",
+      55
+    ],
+    [
+      "day",
+      52
+    ],
+    [
+      "command",
+      52
+    ],
+    [
+      "persons",
+      43
+    ],
+    [
+      "made",
+      40
+    ],
+    [
+      "necessary",
+      39
+    ],
+    [
+      "washington",
+      38
+    ],
+    [
+      "governor",
+      38
+    ],
+    [
+      "authorized",
+      35
+    ],
+    [
+      "orders",
+      35
+    ],
+    [
+      "congress",
+      33
+    ],
+    [
+      "new",
+      33
+    ],
+    [
+      "city",
+      32
+    ],
+    [
+      "forces",
+      32
+    ],
+    [
+      "commanding",
+      31
+    ],
+    [
+      "one",
+      31
+    ],
+    [
+      "regulations",
+      31
+    ],
+    [
+      "public",
+      30
+    ],
+    [
+      "july",
+      30
+    ],
+    [
+      "time",
+      27
+    ],
+    [
+      "country",
+      27
+    ],
+    [
+      "force",
+      27
+    ],
+    [
+      "navy",
+      26
+    ],
+    [
+      "office",
+      26
+    ],
+    [
+      "duty",
+      26
+    ],
+    [
+      "troops",
+      25
+    ],
+    [
+      "missouri",
+      25
+    ],
+    [
+      "naval",
+      25
+    ],
+    [
+      "first",
+      24
+    ],
+    [
+      "militia",
+      24
+    ],
+    [
+      "november",
+      24
+    ],
+    [
+      "march",
+      23
+    ],
+    [
+      "april",
+      22
+    ],
+    [
+      "stanton",
+      22
+    ],
+    [
+      "respective",
+      22
+    ],
+    [
+      "railroad",
+      22
+    ],
+    [
+      "make",
+      21
+    ],
+    [
+      "edwin",
+      21
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "abraham lincoln",
+      178
+    ],
+    [
+      "war department",
+      51
+    ],
+    [
+      "secretary war",
+      51
+    ],
+    [
+      "lincoln war",
+      21
+    ],
+    [
+      "edwin stanton",
+      21
+    ],
+    [
+      "stanton secretary",
+      20
+    ],
+    [
+      "general orders",
+      17
+    ],
+    [
+      "lincoln ordered",
+      16
+    ],
+    [
+      "state militia",
+      16
+    ],
+    [
+      "july abraham",
+      16
+    ],
+    [
+      "march abraham",
+      15
+    ],
+    [
+      "lincoln general",
+      14
+    ],
+    [
+      "new york",
+      14
+    ],
+    [
+      "february abraham",
+      13
+    ],
+    [
+      "november abraham",
+      13
+    ],
+    [
+      "writ habeas",
+      12
+    ],
+    [
+      "habeas corpus",
+      12
+    ],
+    [
+      "orders war",
+      12
+    ],
+    [
+      "adjutantgenerals office",
+      12
+    ],
+    [
+      "military naval",
+      12
+    ],
+    [
+      "january abraham",
+      12
+    ],
+    [
+      "secretary state",
+      11
+    ],
+    [
+      "army navy",
+      11
+    ],
+    [
+      "department ordered",
+      11
+    ],
+    [
+      "december abraham",
+      11
+    ],
+    [
+      "associate justice",
+      11
+    ],
+    [
+      "april abraham",
+      10
+    ],
+    [
+      "suspend writ",
+      10
+    ],
+    [
+      "general chief",
+      10
+    ],
+    [
+      "city washington",
+      10
+    ],
+    [
+      "army potomac",
+      10
+    ],
+    [
+      "william seward",
+      9
+    ],
+    [
+      "officers soldiers",
+      9
+    ],
+    [
+      "public safety",
+      9
+    ],
+    [
+      "department adjutantgenerals",
+      9
+    ],
+    [
+      "chief army",
+      8
+    ],
+    [
+      "state missouri",
+      8
+    ],
+    [
+      "washington day",
+      7
+    ],
+    [
+      "majorgeneral john",
+      7
+    ],
+    [
+      "lincoln department",
+      7
+    ],
+    [
+      "officers army",
+      7
+    ],
+    [
+      "ordered first",
+      7
+    ],
+    [
+      "munitions war",
+      7
+    ],
+    [
+      "secretary treasury",
+      7
+    ],
+    [
+      "approved july",
+      7
+    ],
+    [
+      "day march",
+      7
+    ],
+    [
+      "naval forces",
+      7
+    ],
+    [
+      "assistant adjutantgeneral",
+      7
+    ],
+    [
+      "commercial intercourse",
+      7
+    ],
+    [
+      "october abraham",
+      7
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "abraham lincoln war",
+      21
+    ],
+    [
+      "lincoln war department",
+      20
+    ],
+    [
+      "stanton secretary war",
+      20
+    ],
+    [
+      "edwin stanton secretary",
+      19
+    ],
+    [
+      "abraham lincoln ordered",
+      16
+    ],
+    [
+      "july abraham lincoln",
+      16
+    ],
+    [
+      "march abraham lincoln",
+      15
+    ],
+    [
+      "abraham lincoln general",
+      14
+    ],
+    [
+      "lincoln general orders",
+      13
+    ],
+    [
+      "february abraham lincoln",
+      13
+    ],
+    [
+      "november abraham lincoln",
+      13
+    ],
+    [
+      "writ habeas corpus",
+      12
+    ],
+    [
+      "general orders war",
+      12
+    ],
+    [
+      "orders war department",
+      12
+    ],
+    [
+      "january abraham lincoln",
+      12
+    ],
+    [
+      "december abraham lincoln",
+      11
+    ],
+    [
+      "april abraham lincoln",
+      10
+    ],
+    [
+      "war department ordered",
+      10
+    ],
+    [
+      "war department adjutantgenerals",
+      9
+    ],
+    [
+      "department adjutantgenerals office",
+      9
+    ],
+    [
+      "suspend writ habeas",
+      8
+    ],
+    [
+      "abraham lincoln department",
+      7
+    ],
+    [
+      "october abraham lincoln",
+      7
+    ],
+    [
+      "september abraham lincoln",
+      7
+    ],
+    [
+      "seward secretary state",
+      6
+    ],
+    [
+      "commander chief army",
+      6
+    ],
+    [
+      "chief army navy",
+      6
+    ],
+    [
+      "august abraham lincoln",
+      6
+    ],
+    [
+      "william seward secretary",
+      5
+    ],
+    [
+      "majorgeneral john dix",
+      5
+    ]
+  ]
+}

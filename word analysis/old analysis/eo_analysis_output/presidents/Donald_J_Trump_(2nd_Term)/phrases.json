@@ -1,0 +1,530 @@
+{
+  "president": "Donald_J_Trump_(2Nd_Term)",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "secretary",
+      1675
+    ],
+    [
+      "sec",
+      1139
+    ],
+    [
+      "national",
+      1094
+    ],
+    [
+      "security",
+      895
+    ],
+    [
+      "agency",
+      866
+    ],
+    [
+      "agencies",
+      825
+    ],
+    [
+      "department",
+      785
+    ],
+    [
+      "applicable",
+      738
+    ],
+    [
+      "policy",
+      720
+    ],
+    [
+      "appropriate",
+      681
+    ],
+    [
+      "consistent",
+      678
+    ],
+    [
+      "director",
+      631
+    ],
+    [
+      "usc",
+      609
+    ],
+    [
+      "general",
+      598
+    ],
+    [
+      "office",
+      528
+    ],
+    [
+      "date",
+      526
+    ],
+    [
+      "state",
+      525
+    ],
+    [
+      "days",
+      494
+    ],
+    [
+      "trump",
+      483
+    ],
+    [
+      "donald",
+      482
+    ],
+    [
+      "subject",
+      466
+    ],
+    [
+      "nesoi",
+      457
+    ],
+    [
+      "management",
+      445
+    ],
+    [
+      "otherwise",
+      425
+    ],
+    [
+      "foreign",
+      425
+    ],
+    [
+      "laws",
+      407
+    ],
+    [
+      "term",
+      401
+    ],
+    [
+      "trade",
+      398
+    ],
+    [
+      "actions",
+      394
+    ],
+    [
+      "energy",
+      392
+    ],
+    [
+      "departments",
+      385
+    ],
+    [
+      "take",
+      379
+    ],
+    [
+      "defense",
+      373
+    ],
+    [
+      "action",
+      372
+    ],
+    [
+      "public",
+      363
+    ],
+    [
+      "necessary",
+      360
+    ],
+    [
+      "head",
+      359
+    ],
+    [
+      "provisions",
+      356
+    ],
+    [
+      "employees",
+      350
+    ],
+    [
+      "use",
+      347
+    ],
+    [
+      "budget",
+      342
+    ],
+    [
+      "ensure",
+      341
+    ],
+    [
+      "entities",
+      339
+    ],
+    [
+      "functions",
+      331
+    ],
+    [
+      "emergency",
+      328
+    ],
+    [
+      "note",
+      321
+    ],
+    [
+      "regulations",
+      320
+    ],
+    [
+      "person",
+      317
+    ],
+    [
+      "register",
+      314
+    ],
+    [
+      "additional",
+      312
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "donald trump",
+      482
+    ],
+    [
+      "consistent applicable",
+      457
+    ],
+    [
+      "days date",
+      406
+    ],
+    [
+      "national security",
+      406
+    ],
+    [
+      "departments agencies",
+      355
+    ],
+    [
+      "director office",
+      334
+    ],
+    [
+      "office management",
+      324
+    ],
+    [
+      "management budget",
+      324
+    ],
+    [
+      "agency head",
+      308
+    ],
+    [
+      "white house",
+      283
+    ],
+    [
+      "department agency",
+      282
+    ],
+    [
+      "homeland security",
+      268
+    ],
+    [
+      "attorney general",
+      246
+    ],
+    [
+      "subject availability",
+      246
+    ],
+    [
+      "nothing construed",
+      245
+    ],
+    [
+      "vested constitution",
+      242
+    ],
+    [
+      "constitution laws",
+      241
+    ],
+    [
+      "availability appropriations",
+      241
+    ],
+    [
+      "trump term",
+      239
+    ],
+    [
+      "secretary commerce",
+      237
+    ],
+    [
+      "legislative proposals",
+      237
+    ],
+    [
+      "otherwise affect",
+      236
+    ],
+    [
+      "officers employees",
+      236
+    ],
+    [
+      "term vested",
+      235
+    ],
+    [
+      "general provisions",
+      235
+    ],
+    [
+      "construed impair",
+      235
+    ],
+    [
+      "impair otherwise",
+      235
+    ],
+    [
+      "applicable subject",
+      234
+    ],
+    [
+      "employees agents",
+      234
+    ],
+    [
+      "trump white",
+      234
+    ],
+    [
+      "sec general",
+      233
+    ],
+    [
+      "administrative legislative",
+      233
+    ],
+    [
+      "right benefit",
+      233
+    ],
+    [
+      "benefit substantive",
+      233
+    ],
+    [
+      "substantive procedural",
+      233
+    ],
+    [
+      "procedural enforceable",
+      233
+    ],
+    [
+      "enforceable equity",
+      233
+    ],
+    [
+      "agencies entities",
+      233
+    ],
+    [
+      "budgetary administrative",
+      232
+    ],
+    [
+      "proposals implemented",
+      232
+    ],
+    [
+      "intended create",
+      232
+    ],
+    [
+      "create right",
+      232
+    ],
+    [
+      "equity party",
+      232
+    ],
+    [
+      "party departments",
+      232
+    ],
+    [
+      "entities officers",
+      232
+    ],
+    [
+      "agents person",
+      232
+    ],
+    [
+      "provisions nothing",
+      231
+    ],
+    [
+      "granted department",
+      231
+    ],
+    [
+      "head functions",
+      231
+    ],
+    [
+      "functions director",
+      231
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "office management budget",
+      324
+    ],
+    [
+      "director office management",
+      300
+    ],
+    [
+      "subject availability appropriations",
+      241
+    ],
+    [
+      "vested constitution laws",
+      240
+    ],
+    [
+      "donald trump term",
+      239
+    ],
+    [
+      "trump term vested",
+      235
+    ],
+    [
+      "term vested constitution",
+      235
+    ],
+    [
+      "construed impair otherwise",
+      235
+    ],
+    [
+      "nothing construed impair",
+      234
+    ],
+    [
+      "consistent applicable subject",
+      234
+    ],
+    [
+      "donald trump white",
+      234
+    ],
+    [
+      "trump white house",
+      234
+    ],
+    [
+      "impair otherwise affect",
+      233
+    ],
+    [
+      "applicable subject availability",
+      233
+    ],
+    [
+      "right benefit substantive",
+      233
+    ],
+    [
+      "benefit substantive procedural",
+      233
+    ],
+    [
+      "substantive procedural enforceable",
+      233
+    ],
+    [
+      "procedural enforceable equity",
+      233
+    ],
+    [
+      "officers employees agents",
+      233
+    ],
+    [
+      "budgetary administrative legislative",
+      232
+    ],
+    [
+      "administrative legislative proposals",
+      232
+    ],
+    [
+      "legislative proposals implemented",
+      232
+    ],
+    [
+      "intended create right",
+      232
+    ],
+    [
+      "create right benefit",
+      232
+    ],
+    [
+      "enforceable equity party",
+      232
+    ],
+    [
+      "equity party departments",
+      232
+    ],
+    [
+      "party departments agencies",
+      232
+    ],
+    [
+      "departments agencies entities",
+      232
+    ],
+    [
+      "agencies entities officers",
+      232
+    ],
+    [
+      "entities officers employees",
+      232
+    ]
+  ]
+}
