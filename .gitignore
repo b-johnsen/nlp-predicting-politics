@@ -4,6 +4,9 @@
 # BERT model and checkpoints (too large)
 BERT/models/
 
+# Congressional Bills dataset (too large)
+bills_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
