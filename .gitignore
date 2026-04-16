@@ -4,6 +4,12 @@
 # BERT model and checkpoints (too large)
 BERT/models/
 
+# models
+*.model
+*.bin
+*.gz
+
+
 # Congressional Bills dataset (too large)
 bills_data/
 
