@@ -1,0 +1,7 @@
+*.model
+*.bin
+*.gz
+*.pkl
+BERT/datasets/
+word2vec models/
+
