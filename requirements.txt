@@ -6,4 +6,7 @@ beautifulsoup4
 requests
 torch
 transformers
+datasets
+evaluate
+accelerate
 matplotlib

@@ -1,4 +1,8 @@
+# Mac folder attributes
 .DS_Store
+
+# BERT model and checkpoints (too large)
+BERT/models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
