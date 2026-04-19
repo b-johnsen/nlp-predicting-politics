@@ -66,7 +66,6 @@ def tfidf_tokenizer(text):
     # tokenize
     tokens = nltk.word_tokenize(text)
 
-    # light normalization (important: not too aggressive)
     tokens = [
         lemmatizer.lemmatize(t)
         for t in tokens

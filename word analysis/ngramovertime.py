@@ -75,20 +75,15 @@ base_stopwords = set(stopwords.words("english"))
 STOPWORDS = base_stopwords.union(custom_stopwords)
 
 def custom_tokenizer(text):
-    """
-    Tokenizer optimized for executive orders / policy text.
-    """
+    # custom tokenize 
 
-    # 1. Normalize text
-    text = text.lower()
-    text = re.sub(r"\n", " ", text)
-    text = re.sub(r"\d+", " ", text)  # remove numbers
-    text = re.sub(r"[^\w\s]", " ", text)  # remove punctuation
+    # Making sure text is clean
+    text = clean_text(text)
 
-    # 2. Tokenize
+    # Tokenize
     tokens = nltk.word_tokenize(text)
 
-    # 3. Filter tokens
+    # Remove tokens 
     cleaned_tokens = []
     for tok in tokens:
         if (
@@ -101,19 +96,6 @@ def custom_tokenizer(text):
     return cleaned_tokens
 
 def load_text_dataset(data_dirs):
-    """
-    data_dirs: list of root directories (e.g., ["train", "test"])
-    
-    Returns:
-        DataFrame with columns:
-        - text
-        - label (0/1)
-        - party
-        - president
-        - filepath
-        - split (train/test)
-    """
-    
     data = []
 
     # map party to label
@@ -172,12 +154,20 @@ def clean_text(text):
     return text
 
 def word_over_time(word, freq_df):
+    filename = f"freq_over_time_{word}.png"
+
     if word in freq_df.index:
-        plt.plot(freq_df.columns, freq_df.loc[word])
-        plt.title(f"Frequency Over Time: {word}")
-        plt.xlabel("Year")
-        plt.ylabel("Relative Frequency")
-        plt.show()
+        x = sorted(freq_df.columns)
+        plt.plot(x, freq_df.loc[word, x])
+        plt.title(f"Frequency Over Time: {word}", fontsize=14)
+        plt.xlabel("Year", fontsize = 12)
+        plt.ylabel("Relative Frequency", fontsize = 12)
+        plt.xticks(fontsize=12)
+        plt.yticks(fontsize=12)
+        plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi=100)
+        plt.close()
+
+
 
 def main():
     df = load_text_dataset([
@@ -190,8 +180,6 @@ def main():
     df = df.dropna(subset=["date"])
     df["year"] = df["date"].dt.year
     df["month"] = df["date"].dt.to_period("M")
-
-    df["text"] = df["text"].apply(clean_text)
 
     year_groups = df.groupby("year")["text"].apply(lambda x: " ".join(x))
 
@@ -211,9 +199,10 @@ def main():
     freq_df = freq_df.sort_index(axis=1)
     freq_df.to_csv(os.path.join(OUTPUT_DIR, "word_freq_over_time.csv"))
 
-    word_over_time("immigration", freq_df)
-    word_over_time("climate", freq_df)
-    word_over_time("security", freq_df)
+    words_to_use = ["taxes", "equality"]
+
+    for word in words_to_use:
+        word_over_time(word, freq_df)
 
     for party in df["party"].unique():
         sub = df[df["party"] == party]

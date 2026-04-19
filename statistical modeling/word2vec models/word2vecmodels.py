@@ -70,12 +70,12 @@ def normalize_for_w2v(text):
 
     tokens = [
         t for t in tokens
-        if len(t) > 2 and t not in stop_words
+        if t.isalpha() and len(t) > 1
     ]
 
     return tokens
 
-def train_word2vec_from_df(df, vector_size=200, window=10, min_count=2):
+def train_word2vec_from_df(df, vector_size=300, window=10, min_count=2):
     toksents = []
 
     for text in df["text"]:
@@ -123,26 +123,6 @@ def document_to_vector(text, model):
 
     return doc_vec
 
-def build_tfidf_vectorizer(train_df):
-    def basic_clean(text):
-        text = text.lower()
-        text = re.sub(r"http\S+", "", text)
-        text = re.sub(r"[^a-z0-9\s]", " ", text)
-        text = re.sub(r"\s+", " ", text).strip()
-        return text
-    
-    texts = [basic_clean(t) for t in train_df["text"]]
-
-    vectorizer = TfidfVectorizer(
-        tokenizer=normalize_for_w2v,
-        max_features=10000,
-        ngram_range=(1,2),
-        min_df=2,
-        max_df=0.9
-    )
-
-    vectorizer.fit(texts)
-    return vectorizer
 
 
 def add_embedding_features(df, model, tfidf_vectorizer=None):
@@ -222,26 +202,26 @@ def load_small_model(df, save_path):
 def load_big_model():
     print("Loading GoogleNews embeddings...")
     return gensim.models.KeyedVectors.load_word2vec_format(
-        "nlp-predicting-politics/statistical modeling/word2vec models/GoogleNews-vectors-negative300-SLIM.bin.gz",
+        "nlp-predicting-politics/statistical modeling/word2vec models/models/GoogleNews-vectors-negative300-SLIM.bin.gz",
         binary=True
     )
 
 def run_experiment(folder, embedding_model, model_name="model", tfidf_vectorizer=None):
-    train_path = Path("nlp-predicting-politics/clean_data/clean_eo_split/train")
+    train_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/train")
+    test_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/test")
 
     train_df = load_text_dataset(
         train_path / "democrat",
         train_path / "republican"
     )
 
-    y_train = train_df["label"]
-
-    test_path = Path("nlp-predicting-politics/clean_data/clean_eo_split/test")
-
     test_df = load_text_dataset(
         test_path / "democrat",
         test_path / "republican"
     )
+
+    y_train = train_df["label"]
+
 
     y_test = test_df["label"]
 
@@ -279,29 +259,18 @@ def main():
 
     big_model = load_big_model()
 
-    # build tfidf on training data
-    tfidf_vectorizer = build_tfidf_vectorizer(train_df)
-
-    # SMALL MODEL
+    # small contextual model
     print("\nSmall model experiment:")
     small_results = run_experiment(folder, small_model, "small")
 
-    # BIG MODEL
+    # big general model
     print("\nBig model experiment:")
     big_results = run_experiment(folder, big_model, "big")
 
-    # BIG MODEL + TFIDF WEIGHTING
-    print("\nBig model + TFIDF weighting experiment:")
-    big_tfidf_results = run_experiment(
-        folder,
-        big_model,
-        "big_tfidf",
-        tfidf_vectorizer=tfidf_vectorizer
-    )
 
     # combine
     all_results = pd.concat(
-        [small_results, big_results, big_tfidf_results],
+        [small_results, big_results],
         ignore_index=True
     )
 

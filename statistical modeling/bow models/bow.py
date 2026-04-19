@@ -77,11 +77,10 @@ def normalize_for_bow(df):
 
         # remove stopwords + lemmatize
         tokens = nltk.word_tokenize(text)
-        pos_tags = nltk.pos_tag(tokens)
 
         tokens = [
-            lemmatizer.lemmatize(word, get_wordnet_pos(pos))
-            for word, pos in pos_tags
+            lemmatizer.lemmatize(word)
+            for word in tokens
             if word not in stop_words and len(word) > 2
         ]
 
@@ -122,8 +121,8 @@ def score_model(model, model_name, X_train, y_train, X_test, y_test):
     return results
 
 def run_bow_experiment(folder, normalize = True):
-    train_path = Path("nlp-predicting-politics/clean_data/clean_eo_split/train")
-    test_path = Path("nlp-predicting-politics/clean_data/clean_eo_split/test")
+    train_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/train")
+    test_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/test")
 
     train_df = load_text_dataset(
         train_path / "democrat",

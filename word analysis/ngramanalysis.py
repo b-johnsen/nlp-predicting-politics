@@ -14,9 +14,6 @@ from sklearn.feature_extraction import text
 # nltk.download("punkt")
 # nltk.download("stopwords")
 
-############################################
-# 1. LOAD DATA
-############################################
 
 import os
 import pandas as pd
@@ -96,9 +93,6 @@ def load_text_dataset(data_dirs):
 
     return pd.DataFrame(data)
 
-############################################
-# 2. CLEANING FUNCTION - just in case
-############################################
 from nltk.corpus import stopwords
 
 def clean_text(text):
@@ -111,7 +105,7 @@ def clean_text(text):
 
 base_stopwords = set(stopwords.words("english"))
 
-# Domain-specific stopwords (VERY important for executive orders)
+# stopwords
 custom_stopwords = {
     "section", "sec", "subsection", "order", "shall", "may", "must",
     "hereby", "thereof", "therein", "whereas", "therefore",
@@ -120,7 +114,7 @@ custom_stopwords = {
     "act", "law", "provision", "title", "chapter", "paragraph",
     "provide", "provides", "provided", "including", "include",
     "said", "secretary", "ordered", "approved", "director", "stat", "authority", "pursuant",
-    "vested", "amended"
+    "vested", "amended", "public", "usc"
 }
 
 # include pursuant authority vested? frequent
@@ -128,20 +122,11 @@ custom_stopwords = {
 STOPWORDS = base_stopwords.union(custom_stopwords)
 
 def custom_tokenizer(text):
-    """
-    Tokenizer optimized for executive orders / policy text.
-    """
 
-    # 1. Normalize text
-    text = text.lower()
-    text = re.sub(r"\n", " ", text)
-    text = re.sub(r"\d+", " ", text)  # remove numbers
-    text = re.sub(r"[^\w\s]", " ", text)  # remove punctuation
+    text = clean_text(text)
 
-    # 2. Tokenize
     tokens = nltk.word_tokenize(text)
 
-    # 3. Filter tokens
     cleaned_tokens = []
     for tok in tokens:
         if (
@@ -189,7 +174,7 @@ def make_wordcloud(term_list, title, filename):
     plt.axis("off")
     plt.title(title)
     #plt.show()
-    plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight")
+    plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi = 100)
     plt.close() 
 
 def save_top_terms(terms, name):
@@ -204,105 +189,9 @@ def save_barplot(term_list, title, filename):
     plt.barh(terms[::-1], scores[::-1])
     plt.title(title)
     
-    plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight")
+    plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi = 100)
     plt.close()
 
-
-def main():
-    df = load_text_dataset([Path("nlp-predicting-politics/eo_data/clean_eo_split/train"), Path("nlp-predicting-politics/eo_data/clean_eo_split/test")])
-
-    # drop missing
-    df = df.dropna(subset=["text", "president", "party"])
-
-    df["text"] = df["text"].apply(clean_text)
-
-
-    vectorizer = TfidfVectorizer(
-        tokenizer=custom_tokenizer,
-        ngram_range=(1, 3),   # unigrams, bigrams, trigrams
-        max_features=10000,
-        min_df=5              # ignore rare terms
-    )
-
-    X = vectorizer.fit_transform(df["text"])
-
-    feature_names = np.array(vectorizer.get_feature_names_out())
-
-    ############################################
-    # 5. ANALYSIS BY PARTY
-    ############################################
-
-    parties = df["party"].values
-    unique_parties = df["party"].unique()
-
-    print("\n=== TOP TERMS BY PARTY ===\n")
-
-    party_top_terms = {}
-
-    for party in unique_parties:
-        top_terms = get_top_terms(X, parties, party, feature_names=feature_names, top_n=25)
-        party_top_terms[party] = top_terms
-        
-        print(f"\n--- {party} ---")
-        for term, score in top_terms:
-            print(f"{term:20s} {score:.4f}")
-        
-        save_top_terms(top_terms, f"party_{party}")
-
-
-    for party, terms in party_top_terms.items():
-        save_barplot(
-            terms[:15],
-            f"Top Terms - {party}",
-            f"barplot_party_{party}.png"
-        )
-
-    ############################################
-    # 6. ANALYSIS BY PRESIDENT
-    ############################################
-
-    presidents = df["president"].values
-    unique_presidents = df["president"].unique()
-
-    print("\n=== TOP TERMS BY PRESIDENT ===\n")
-
-    pres_top_terms = {}
-
-    for pres in unique_presidents:
-        top_terms = get_top_terms(X, presidents, pres, feature_names=feature_names, top_n=25)
-        pres_top_terms[pres] = top_terms
-        
-        print(f"\n--- {pres} ---")
-        for term, score in top_terms:
-            print(f"{term:20s} {score:.4f}")
-            
-        save_top_terms(top_terms, f"president_{pres}")
-
-    
-    for pres, terms in pres_top_terms.items():
-        save_barplot(
-            terms[:15],
-            f"Top Terms - {pres}",
-            f"barplot_party_{pres}.png"
-        )
-
-    ############################################
-    # 8. GENERATE WORD MAPS (WORD CLOUDS)
-    ############################################
-
-    for party, terms in party_top_terms.items():
-        make_wordcloud(
-            terms,
-            f"Top Terms - {party}",
-            f"wordcloud_party_{party}.png"
-        )
-
-    for pres, terms in pres_top_terms.items():
-        make_wordcloud(
-            terms,
-            f"Top Terms - {pres}",
-            f"wordcloud_president_{pres}.png"
-        )
 
 def main():
     df = load_text_dataset([
@@ -312,10 +201,6 @@ def main():
 
     df = df.dropna(subset=["text", "president", "party"])
 
-    df = df.dropna(subset=["date"])
-
-    df["year"] = df["date"].dt.year
-    df["month"] = df["date"].dt.to_period("M")
 
     df["text"] = df["text"].apply(clean_text)
 
@@ -330,10 +215,6 @@ def main():
 
     X = vectorizer.fit_transform(df["text"])
     feature_names = np.array(vectorizer.get_feature_names_out())
-
-    ############################################
-    # PARTY ANALYSIS
-    ############################################
 
     parties = df["party"].values
     unique_parties = df["party"].unique()
@@ -360,9 +241,6 @@ def main():
                 f"barplot_party_{party}.png"
             )
 
-    ############################################
-    # PRESIDENT ANALYSIS
-    ############################################
 
     presidents = df["president"].values
     unique_presidents = df["president"].unique()
@@ -388,10 +266,6 @@ def main():
                 f"Top Terms - {pres}",
                 f"barplot_president_{pres}.png"
             )
-
-    ############################################
-    # WORDCLOUDS
-    ############################################
 
     for party, terms in party_top_terms.items():
         if len(terms) > 0:
