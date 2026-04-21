@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-04-20T04:27:34.627963+00:00",
+  "train_ratio": 0.8,
+  "seed": 42,
+  "balance_labels": true,
+  "selected_files_before_balance": 1718,
+  "selected_files": 1604,
+  "dropped_by_balance": {
+    "democrat": 0,
+    "republican": 114
+  },
+  "skipped_empty_files": 0,
+  "split_counts": {
+    "train": 1282,
+    "test": 322
+  },
+  "split_counts_by_label": {
+    "train": {
+      "democrat": 641,
+      "republican": 641
+    },
+    "test": {
+      "democrat": 161,
+      "republican": 161
+    }
+  }
+}

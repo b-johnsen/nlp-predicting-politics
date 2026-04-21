@@ -19,6 +19,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 BERT_DIR = REPO_ROOT / "BERT"
 DATASETS_DIR = BERT_DIR / "datasets"
 RESULTS_DIR = BERT_DIR / "results"
+EO_DATA_DIR = REPO_ROOT / "eo_data" / "clean_eo_split"
 
 # Ensure imports work when this script is run directly from the BERT directory.
 if str(REPO_ROOT) not in sys.path:
@@ -29,7 +30,7 @@ from templates.dataset_template import load_text_dataset
 def create_bert_datasets():
     os.makedirs(DATASETS_DIR, exist_ok=True)
 
-    train_path = REPO_ROOT / "clean_data" / "clean_eo_split" / "train"
+    train_path = EO_DATA_DIR / "train"
 
     # First path is democrat, second is for republican
     train_df = load_text_dataset(train_path / "democrat", train_path / "republican")
@@ -37,7 +38,7 @@ def create_bert_datasets():
     # saving dataframe
     train_df.to_pickle(DATASETS_DIR / "train_dataset.pkl")
 
-    test_path = REPO_ROOT / "clean_data" / "clean_eo_split" / "test"
+    test_path = EO_DATA_DIR / "test"
 
     test_df = load_text_dataset(test_path / "democrat", test_path / "republican")
 
@@ -70,7 +71,7 @@ def _to_hf_dataset(df):
 def train_bert_model(train_df, test_df):
     set_seed(42)
 
-    tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased")
+    tokenizer = AutoTokenizer.from_pretrained("nlpaueb/legal-bert-base-uncased")
 
     def preprocess_function(examples):
         return tokenizer(examples["text"], truncation=True, max_length=512)

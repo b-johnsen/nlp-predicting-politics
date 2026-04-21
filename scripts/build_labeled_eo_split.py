@@ -27,8 +27,9 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 
-INPUT_DIR_DEFAULT = Path("all_executive_orders_txt_clean")
-OUTPUT_DIR_DEFAULT = Path("eo_labeled_split")
+BASE_DIR = Path(__file__).resolve().parents[1]
+INPUT_DIR_DEFAULT = BASE_DIR / "eo_data" / "all_executive_orders_txt_clean"
+OUTPUT_DIR_DEFAULT = BASE_DIR / "eo_data" / "eo_modern_labeled_split"
 TRAIN_RATIO_DEFAULT = 0.8
 SEED_DEFAULT = 42
 BALANCE_LABELS_DEFAULT = True
