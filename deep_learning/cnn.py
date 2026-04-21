@@ -5,6 +5,7 @@ import sys
 from pathlib import Path
 from torch.utils.data import TensorDataset, DataLoader
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+import matplotlib.pyplot as plt
 
 sys.path.append("../scripts")
 from cnn_embeddings import build_vocab, build_matrix, text_to_ids
@@ -53,16 +54,16 @@ class TextCNN(nn.Module):
 
         return x
 
-vocab = build_vocab("../eo_data/eo_labeled_split/train")
+vocab = build_vocab("../eo_data/clean_eo_split/train")
 embedding_matrix_glove = build_matrix(vocab, "../../wiki_giga_2024_100_MFT20_vectors_seed_2024_alpha_0.75_eta_0.05.050_combined.txt", embedding_dim=100)
 
 model = TextCNN(
     vocab_size=len(vocab),
     embedding_dim=100,
     num_filters=100,
-    kernel_sizes=[3, 4, 5],
+    kernel_sizes=[2, 3, 4, 5, 6],
     output_size=2,
-    dropout_prob=0.5,
+    dropout_prob=0.3,
     weights=embedding_matrix_glove
 )
 
@@ -77,16 +78,18 @@ def load_data(data_dir, vocab):
         labels.append(label)
     return torch.tensor(ids_list, dtype=torch.long), torch.tensor(labels, dtype=torch.long)
 
-train_ids, train_labels = load_data("../eo_data/eo_labeled_split/train", vocab)
-test_ids, test_labels = load_data("../eo_data/eo_labeled_split/test", vocab)
+train_ids, train_labels = load_data("../eo_data/clean_eo_split/train", vocab)
+test_ids, test_labels = load_data("../eo_data/clean_eo_split/test", vocab)
 
 train_dataset = TensorDataset(train_ids, train_labels)
 train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
 
 criterion = nn.CrossEntropyLoss()
-optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+optimizer = torch.optim.Adam(model.parameters(), lr=0.0005)
 
 num_epochs = 20
+losses = []
+
 for epoch in range(num_epochs):
     model.train()
     total_loss = 0
@@ -100,6 +103,7 @@ for epoch in range(num_epochs):
         total_loss += loss.item()
 
     avg_loss = total_loss / len(train_loader)
+    losses.append(avg_loss)
     print(f"Epoch {epoch+1}/{num_epochs}, Loss: {avg_loss:.4f}")
 
 model.eval()
@@ -118,3 +122,10 @@ print(f"Accuracy:  {accuracy:.4f}")
 print(f"Precision: {precision:.4f}")
 print(f"Recall:    {recall:.4f}")
 print(f"F1:        {f1:.4f}")
+
+plt.plot(range(1, num_epochs + 1), losses)
+plt.xlabel("Epoch")
+plt.ylabel("Loss")
+plt.title("Training Loss per Epoch")
+plt.savefig("training_loss.png")
+plt.show()
