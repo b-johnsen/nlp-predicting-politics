@@ -37,9 +37,14 @@ def build_matrix(vocab, path, embedding_dim=100):
 
     with open(path, encoding="utf-8") as f:
         for line in f:
-            parts = line.split()
+            parts = line.rstrip().split(' ')
             word = parts[0]
             if word in vocab:
-                matrix[vocab[word]] = np.array(parts[1:], dtype=np.float32)
+                try:
+                    vector = np.array(parts[1:embedding_dim+1], dtype=np.float32)
+                    if len(vector) == embedding_dim:
+                        matrix[vocab[word]] = vector
+                except ValueError:
+                    continue
 
     return matrix
