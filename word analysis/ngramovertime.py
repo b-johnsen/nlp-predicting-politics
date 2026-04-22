@@ -64,7 +64,7 @@ custom_stopwords = {
     "act", "law", "provision", "title", "chapter", "paragraph",
     "provide", "provides", "provided", "including", "include",
     "said", "secretary", "ordered", "approved", "director", "stat", "authority", "pursuant",
-    "vested", "amended"
+    "vested", "amended", "public", "usc", "service", "virtue"
 }
 
 # include pursuant authority vested? frequent
@@ -164,7 +164,7 @@ def word_over_time(word, freq_df):
         plt.ylabel("Relative Frequency", fontsize = 12)
         plt.xticks(fontsize=12)
         plt.yticks(fontsize=12)
-        plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi=100)
+        plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi=200)
         plt.close()
 
 
@@ -199,7 +199,7 @@ def main():
     freq_df = freq_df.sort_index(axis=1)
     freq_df.to_csv(os.path.join(OUTPUT_DIR, "word_freq_over_time.csv"))
 
-    words_to_use = ["taxes", "equality"]
+    words_to_use = ["taxes", "equality", "thence", "climate", "guns", "computer", "consistent"]
 
     for word in words_to_use:
         word_over_time(word, freq_df)

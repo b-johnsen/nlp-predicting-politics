@@ -107,8 +107,16 @@ CUSTOM_STOPS = {
     "title", "part", "accordance", "including", "such",
     "may", "within", "upon", "any", "also", "set",
     "forth", "thereunder", "provided", "therefor", "said",
-    "us", "president", "america", "american",
+    "us", "president", "america", "american",  "section", "sec", "subsection", "order", "shall", "may", "must",
+    "hereby", "thereof", "therein", "whereas", "therefore",
+    "president", "executive", "federal", "government", "agency", "agencies",
+    "united", "states", "state", "department",
+    "act", "law", "provision", "title", "chapter", "paragraph",
+    "provide", "provides", "provided", "including", "include",
+    "said", "secretary", "ordered", "approved", "director", "stat", "authority", "pursuant",
+    "vested", "amended", "public", "usc", "service", "virtue"
 }
+
 
 STOP_WORDS = stopwords.words("english")
 STOP_WORDS = set(STOP_WORDS) | CUSTOM_STOPS

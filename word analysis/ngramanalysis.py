@@ -114,7 +114,7 @@ custom_stopwords = {
     "act", "law", "provision", "title", "chapter", "paragraph",
     "provide", "provides", "provided", "including", "include",
     "said", "secretary", "ordered", "approved", "director", "stat", "authority", "pursuant",
-    "vested", "amended", "public", "usc"
+    "vested", "amended", "public", "usc", "service", "virtue", "thence", "consistent", "provisions"
 }
 
 # include pursuant authority vested? frequent
@@ -174,7 +174,7 @@ def make_wordcloud(term_list, title, filename):
     plt.axis("off")
     plt.title(title)
     #plt.show()
-    plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi = 100)
+    plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi = 200)
     plt.close() 
 
 def save_top_terms(terms, name):
@@ -189,7 +189,7 @@ def save_barplot(term_list, title, filename):
     plt.barh(terms[::-1], scores[::-1])
     plt.title(title)
     
-    plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi = 100)
+    plt.savefig(os.path.join(PLOTS_DIR, filename), bbox_inches="tight", dpi = 200)
     plt.close()
 
 
@@ -208,7 +208,7 @@ def main():
     vectorizer = TfidfVectorizer(
         tokenizer=custom_tokenizer,
         token_pattern=None,
-        ngram_range=(1, 3),
+        ngram_range=(1, 2),
         max_features=10000,
         min_df=5
     )
