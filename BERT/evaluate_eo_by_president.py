@@ -125,9 +125,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def infer_default_model_path(model_type: str) -> Path:
-    pattern = (
-        "distillbert_model_*" if model_type == "bert" else "model_legal_bert_*"
-    )
+    pattern = "distillbert_model_*" if model_type == "bert" else "model_legal_bert_*"
     candidates = sorted(MODELS_ROOT.glob(pattern))
     if not candidates:
         raise FileNotFoundError(
@@ -196,7 +194,9 @@ def batch_predict(
     return predictions
 
 
-def build_accuracy_plot(per_president_df: pd.DataFrame, out_path: Path, title: str) -> None:
+def build_accuracy_plot(
+    per_president_df: pd.DataFrame, out_path: Path, title: str
+) -> None:
     colors = per_president_df["true_label"].map({0: "#2C7FB8", 1: "#D7301F"}).tolist()
 
     plt.figure(figsize=(max(12, 0.45 * len(per_president_df)), 7))
@@ -250,14 +250,22 @@ def main() -> None:
 
     df["president_dir"] = df["local_path"].apply(president_dir_from_local_path)
     df["true_label"] = df["president_dir"].apply(true_label_for_president_dir)
-    df["text_path"] = df["local_path"].apply(lambda p: resolve_text_path(p, args.eo_root))
+    df["text_path"] = df["local_path"].apply(
+        lambda p: resolve_text_path(p, args.eo_root)
+    )
 
     missing_files = (~df["text_path"].apply(Path.exists)).sum()
     if missing_files:
-        print(f"Warning: {missing_files} files listed in manifest were not found on disk.")
+        print(
+            f"Warning: {missing_files} files listed in manifest were not found on disk."
+        )
 
     available_df = df[df["text_path"].apply(Path.exists)].copy()
-    texts = available_df["text_path"].apply(lambda p: p.read_text(encoding="utf-8", errors="ignore")).tolist()
+    texts = (
+        available_df["text_path"]
+        .apply(lambda p: p.read_text(encoding="utf-8", errors="ignore"))
+        .tolist()
+    )
 
     print(f"Running inference on {len(texts)} documents...")
     preds = batch_predict(
@@ -281,9 +289,9 @@ def main() -> None:
             "and are excluded from accuracy."
         )
 
-    known_df["is_correct"] = (
-        known_df["pred_label"].astype(int) == known_df["true_label"].astype(int)
-    )
+    known_df["is_correct"] = known_df["pred_label"].astype(int) == known_df[
+        "true_label"
+    ].astype(int)
     known_df["date_dt"] = pd.to_datetime(known_df["date"], errors="coerce")
 
     per_president = (
