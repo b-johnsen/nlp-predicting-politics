@@ -1,0 +1,530 @@
+{
+  "president": "James_A_Garfield",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "indian",
+      3
+    ],
+    [
+      "james",
+      3
+    ],
+    [
+      "garfield",
+      3
+    ],
+    [
+      "reservation",
+      2
+    ],
+    [
+      "purposes",
+      2
+    ],
+    [
+      "california",
+      2
+    ],
+    [
+      "march",
+      2
+    ],
+    [
+      "departments",
+      2
+    ],
+    [
+      "land",
+      1
+    ],
+    [
+      "mansion",
+      1
+    ],
+    [
+      "unsurveyed",
+      1
+    ],
+    [
+      "portions",
+      1
+    ],
+    [
+      "township",
+      1
+    ],
+    [
+      "south",
+      1
+    ],
+    [
+      "range",
+      1
+    ],
+    [
+      "east",
+      1
+    ],
+    [
+      "san",
+      1
+    ],
+    [
+      "bernardino",
+      1
+    ],
+    [
+      "meridian",
+      1
+    ],
+    [
+      "excepting",
+      1
+    ],
+    [
+      "tract",
+      1
+    ],
+    [
+      "tracts",
+      1
+    ],
+    [
+      "passed",
+      1
+    ],
+    [
+      "withdrawn",
+      1
+    ],
+    [
+      "sale",
+      1
+    ],
+    [
+      "settlement",
+      1
+    ],
+    [
+      "apart",
+      1
+    ],
+    [
+      "source",
+      1
+    ],
+    [
+      "kappler",
+      1
+    ],
+    [
+      "affairs",
+      1
+    ],
+    [
+      "laws",
+      1
+    ],
+    [
+      "treaties",
+      1
+    ],
+    [
+      "gpo",
+      1
+    ],
+    [
+      "dear",
+      1
+    ],
+    [
+      "sir",
+      1
+    ],
+    [
+      "directed",
+      1
+    ],
+    [
+      "inform",
+      1
+    ],
+    [
+      "several",
+      1
+    ],
+    [
+      "closed",
+      1
+    ],
+    [
+      "monday",
+      1
+    ],
+    [
+      "instant",
+      1
+    ],
+    [
+      "enable",
+      1
+    ],
+    [
+      "employees",
+      1
+    ],
+    [
+      "participate",
+      1
+    ],
+    [
+      "decoration",
+      1
+    ],
+    [
+      "graves",
+      1
+    ],
+    [
+      "soldiers",
+      1
+    ],
+    [
+      "fell",
+      1
+    ],
+    [
+      "rebellion",
+      1
+    ],
+    [
+      "respectfully",
+      1
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "james garfield",
+      3
+    ],
+    [
+      "indian purposes",
+      2
+    ],
+    [
+      "reservation land",
+      1
+    ],
+    [
+      "land indian",
+      1
+    ],
+    [
+      "purposes california",
+      1
+    ],
+    [
+      "california march",
+      1
+    ],
+    [
+      "march james",
+      1
+    ],
+    [
+      "garfield mansion",
+      1
+    ],
+    [
+      "mansion march",
+      1
+    ],
+    [
+      "march unsurveyed",
+      1
+    ],
+    [
+      "unsurveyed portions",
+      1
+    ],
+    [
+      "portions township",
+      1
+    ],
+    [
+      "township south",
+      1
+    ],
+    [
+      "south range",
+      1
+    ],
+    [
+      "range east",
+      1
+    ],
+    [
+      "east san",
+      1
+    ],
+    [
+      "san bernardino",
+      1
+    ],
+    [
+      "bernardino meridian",
+      1
+    ],
+    [
+      "meridian california",
+      1
+    ],
+    [
+      "california excepting",
+      1
+    ],
+    [
+      "excepting tract",
+      1
+    ],
+    [
+      "tract tracts",
+      1
+    ],
+    [
+      "tracts passed",
+      1
+    ],
+    [
+      "passed withdrawn",
+      1
+    ],
+    [
+      "withdrawn sale",
+      1
+    ],
+    [
+      "sale settlement",
+      1
+    ],
+    [
+      "settlement apart",
+      1
+    ],
+    [
+      "apart reservation",
+      1
+    ],
+    [
+      "reservation indian",
+      1
+    ],
+    [
+      "purposes james",
+      1
+    ],
+    [
+      "garfield source",
+      1
+    ],
+    [
+      "source kappler",
+      1
+    ],
+    [
+      "kappler indian",
+      1
+    ],
+    [
+      "indian affairs",
+      1
+    ],
+    [
+      "affairs laws",
+      1
+    ],
+    [
+      "laws treaties",
+      1
+    ],
+    [
+      "treaties gpo",
+      1
+    ],
+    [
+      "gpo james",
+      1
+    ],
+    [
+      "garfield dear",
+      1
+    ],
+    [
+      "dear sir",
+      1
+    ],
+    [
+      "sir directed",
+      1
+    ],
+    [
+      "directed inform",
+      1
+    ],
+    [
+      "inform several",
+      1
+    ],
+    [
+      "several departments",
+      1
+    ],
+    [
+      "departments closed",
+      1
+    ],
+    [
+      "closed monday",
+      1
+    ],
+    [
+      "monday instant",
+      1
+    ],
+    [
+      "instant enable",
+      1
+    ],
+    [
+      "enable employees",
+      1
+    ],
+    [
+      "employees participate",
+      1
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "reservation land indian",
+      1
+    ],
+    [
+      "land indian purposes",
+      1
+    ],
+    [
+      "indian purposes california",
+      1
+    ],
+    [
+      "purposes california march",
+      1
+    ],
+    [
+      "california march james",
+      1
+    ],
+    [
+      "march james garfield",
+      1
+    ],
+    [
+      "james garfield mansion",
+      1
+    ],
+    [
+      "garfield mansion march",
+      1
+    ],
+    [
+      "mansion march unsurveyed",
+      1
+    ],
+    [
+      "march unsurveyed portions",
+      1
+    ],
+    [
+      "unsurveyed portions township",
+      1
+    ],
+    [
+      "portions township south",
+      1
+    ],
+    [
+      "township south range",
+      1
+    ],
+    [
+      "south range east",
+      1
+    ],
+    [
+      "range east san",
+      1
+    ],
+    [
+      "east san bernardino",
+      1
+    ],
+    [
+      "san bernardino meridian",
+      1
+    ],
+    [
+      "bernardino meridian california",
+      1
+    ],
+    [
+      "meridian california excepting",
+      1
+    ],
+    [
+      "california excepting tract",
+      1
+    ],
+    [
+      "excepting tract tracts",
+      1
+    ],
+    [
+      "tract tracts passed",
+      1
+    ],
+    [
+      "tracts passed withdrawn",
+      1
+    ],
+    [
+      "passed withdrawn sale",
+      1
+    ],
+    [
+      "withdrawn sale settlement",
+      1
+    ],
+    [
+      "sale settlement apart",
+      1
+    ],
+    [
+      "settlement apart reservation",
+      1
+    ],
+    [
+      "apart reservation indian",
+      1
+    ],
+    [
+      "reservation indian purposes",
+      1
+    ],
+    [
+      "indian purposes james",
+      1
+    ]
+  ]
+}

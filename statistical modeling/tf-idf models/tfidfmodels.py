@@ -16,9 +16,6 @@ from nltk.corpus import stopwords
 import re
 import nltk
 
-# currently this version uses on the smallest word2vec model
-# no stop words yet
-# test with/without stop words
 
 def load_text_dataset(folder_0, folder_1):
     data = []
@@ -50,6 +47,22 @@ def load_text_dataset(folder_0, folder_1):
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words("english"))
 
+custom_stopwords = {
+    "section", "sec", "subsection", "order", "shall", "may", "must",
+    "hereby", "thereof", "therein", "whereas", "therefore",
+    "president", "executive", "federal", "government", "agency", "agencies",
+    "united", "states", "state", "department",
+    "act", "law", "provision", "title", "chapter", "paragraph",
+    "provide", "provides", "provided", "including", "include",
+    "said", "secretary", "ordered", "approved", "director", "stat", "authority", "pursuant",
+    "vested", "amended", "public", "usc", "service", "virtue", "thence", "consistent", "provisions",
+    "policy", "within"
+}
+
+# include pursuant authority vested? frequent
+
+STOPWORDS = stop_words.union(custom_stopwords)
+
 def tfidf_tokenizer(text):
     # lowercase
     text = text.lower()
@@ -69,7 +82,7 @@ def tfidf_tokenizer(text):
     tokens = [
         lemmatizer.lemmatize(t)
         for t in tokens
-        if len(t) > 2 and t not in stop_words
+        if t not in STOPWORDS
     ]
 
     return tokens
@@ -97,7 +110,7 @@ def build_tfidf_features(train_texts, test_texts, max_features=5000, ngram_range
     vectorizer = TfidfVectorizer(
         tokenizer=tfidf_tokenizer,
         max_features=10000,
-        ngram_range=(1,2),
+        ngram_range=(1,3),
         sublinear_tf=True,
         min_df=2,
         max_df=0.9,
@@ -106,7 +119,7 @@ def build_tfidf_features(train_texts, test_texts, max_features=5000, ngram_range
     if not normalize:
         vectorizer = TfidfVectorizer(
             max_features=10000,
-            ngram_range=(1,2),
+            ngram_range=(1,3),
             sublinear_tf=True,
             min_df=2,
             max_df=0.9,
@@ -120,8 +133,10 @@ def build_tfidf_features(train_texts, test_texts, max_features=5000, ngram_range
     return X_train, X_test, vectorizer
 
 def run_tfidf_experiment(folder, normalize = True):
-    train_path = Path("nlp-predicting-politics/clean_data/clean_eo_split/train")
-    test_path = Path("nlp-predicting-politics/clean_data/clean_eo_split/test")
+
+    # currently not on modern
+    train_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/train")
+    test_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/test")
 
     train_df = load_text_dataset(
         train_path / "democrat",
@@ -172,7 +187,7 @@ def main():
 
     # tf-idf experiments
     not_norm_tfidf_results = run_tfidf_experiment(folder, normalize = False)
-    norm_tfidf_results = run_tfidf_experiment(folder, normalize = False)
+    norm_tfidf_results = run_tfidf_experiment(folder, normalize = True)
 
     all_results = pd.concat([
         not_norm_tfidf_results.assign(method="notnorm_tfidf"),

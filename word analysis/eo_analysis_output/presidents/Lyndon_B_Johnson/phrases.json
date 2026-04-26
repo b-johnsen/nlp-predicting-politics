@@ -1,0 +1,530 @@
+{
+  "president": "Lyndon_B_Johnson",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "commission",
+      713
+    ],
+    [
+      "railroad",
+      703
+    ],
+    [
+      "railway",
+      688
+    ],
+    [
+      "johnson",
+      650
+    ],
+    [
+      "lyndon",
+      647
+    ],
+    [
+      "company",
+      635
+    ],
+    [
+      "committee",
+      568
+    ],
+    [
+      "house",
+      525
+    ],
+    [
+      "white",
+      497
+    ],
+    [
+      "board",
+      411
+    ],
+    [
+      "national",
+      404
+    ],
+    [
+      "provisions",
+      375
+    ],
+    [
+      "members",
+      367
+    ],
+    [
+      "council",
+      330
+    ],
+    [
+      "follows",
+      326
+    ],
+    [
+      "made",
+      319
+    ],
+    [
+      "regulations",
+      312
+    ],
+    [
+      "code",
+      301
+    ],
+    [
+      "functions",
+      297
+    ],
+    [
+      "chairman",
+      285
+    ],
+    [
+      "member",
+      275
+    ],
+    [
+      "labor",
+      271
+    ],
+    [
+      "time",
+      262
+    ],
+    [
+      "employees",
+      262
+    ],
+    [
+      "respect",
+      256
+    ],
+    [
+      "authorized",
+      235
+    ],
+    [
+      "new",
+      230
+    ],
+    [
+      "appropriate",
+      226
+    ],
+    [
+      "form",
+      225
+    ],
+    [
+      "general",
+      224
+    ],
+    [
+      "development",
+      223
+    ],
+    [
+      "necessary",
+      220
+    ],
+    [
+      "report",
+      219
+    ],
+    [
+      "international",
+      209
+    ],
+    [
+      "programs",
+      207
+    ],
+    [
+      "following",
+      204
+    ],
+    [
+      "duty",
+      202
+    ],
+    [
+      "foreign",
+      199
+    ],
+    [
+      "terminal",
+      198
+    ],
+    [
+      "defense",
+      194
+    ],
+    [
+      "certain",
+      189
+    ],
+    [
+      "date",
+      185
+    ],
+    [
+      "reserve",
+      184
+    ],
+    [
+      "designated",
+      183
+    ],
+    [
+      "health",
+      177
+    ],
+    [
+      "registrant",
+      175
+    ],
+    [
+      "pacific",
+      169
+    ],
+    [
+      "note",
+      166
+    ],
+    [
+      "effective",
+      165
+    ],
+    [
+      "armed",
+      163
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "lyndon johnson",
+      647
+    ],
+    [
+      "white house",
+      495
+    ],
+    [
+      "johnson white",
+      319
+    ],
+    [
+      "railroad company",
+      247
+    ],
+    [
+      "railway company",
+      217
+    ],
+    [
+      "armed forces",
+      152
+    ],
+    [
+      "house press",
+      129
+    ],
+    [
+      "press release",
+      127
+    ],
+    [
+      "form white",
+      122
+    ],
+    [
+      "made form",
+      121
+    ],
+    [
+      "note made",
+      109
+    ],
+    [
+      "hereinafter referred",
+      101
+    ],
+    [
+      "read follows",
+      100
+    ],
+    [
+      "railway labor",
+      90
+    ],
+    [
+      "health education",
+      86
+    ],
+    [
+      "education welfare",
+      86
+    ],
+    [
+      "new york",
+      83
+    ],
+    [
+      "attorney general",
+      81
+    ],
+    [
+      "local board",
+      81
+    ],
+    [
+      "rules regulations",
+      70
+    ],
+    [
+      "time time",
+      69
+    ],
+    [
+      "civil commission",
+      67
+    ],
+    [
+      "national guard",
+      64
+    ],
+    [
+      "feet along",
+      63
+    ],
+    [
+      "pacific railroad",
+      63
+    ],
+    [
+      "internal revenue",
+      62
+    ],
+    [
+      "revenue code",
+      62
+    ],
+    [
+      "terminal railroad",
+      62
+    ],
+    [
+      "johnson code",
+      57
+    ],
+    [
+      "terminal company",
+      56
+    ],
+    [
+      "western railroad",
+      56
+    ],
+    [
+      "southern railway",
+      55
+    ],
+    [
+      "railroad chicago",
+      53
+    ],
+    [
+      "field committee",
+      53
+    ],
+    [
+      "regulations prescribed",
+      52
+    ],
+    [
+      "active duty",
+      52
+    ],
+    [
+      "western railway",
+      50
+    ],
+    [
+      "canal zone",
+      49
+    ],
+    [
+      "effective date",
+      48
+    ],
+    [
+      "officers employees",
+      47
+    ],
+    [
+      "code follows",
+      47
+    ],
+    [
+      "members appointed",
+      47
+    ],
+    [
+      "bureau budget",
+      45
+    ],
+    [
+      "certain employees",
+      45
+    ],
+    [
+      "pacific railway",
+      45
+    ],
+    [
+      "air force",
+      44
+    ],
+    [
+      "coast guard",
+      44
+    ],
+    [
+      "central railroad",
+      44
+    ],
+    [
+      "company new",
+      44
+    ],
+    [
+      "union railway",
+      44
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "lyndon johnson white",
+      319
+    ],
+    [
+      "johnson white house",
+      319
+    ],
+    [
+      "white house press",
+      129
+    ],
+    [
+      "house press release",
+      126
+    ],
+    [
+      "form white house",
+      122
+    ],
+    [
+      "made form white",
+      121
+    ],
+    [
+      "note made form",
+      108
+    ],
+    [
+      "health education welfare",
+      86
+    ],
+    [
+      "internal revenue code",
+      62
+    ],
+    [
+      "lyndon johnson code",
+      57
+    ],
+    [
+      "january lyndon johnson",
+      43
+    ],
+    [
+      "housing urban development",
+      41
+    ],
+    [
+      "air national guard",
+      37
+    ],
+    [
+      "march lyndon johnson",
+      37
+    ],
+    [
+      "interest equalization tax",
+      36
+    ],
+    [
+      "white house january",
+      36
+    ],
+    [
+      "white house march",
+      36
+    ],
+    [
+      "august lyndon johnson",
+      35
+    ],
+    [
+      "white house august",
+      33
+    ],
+    [
+      "level salary schedule",
+      32
+    ],
+    [
+      "september lyndon johnson",
+      31
+    ],
+    [
+      "central railroad company",
+      31
+    ],
+    [
+      "railroad company new",
+      31
+    ],
+    [
+      "feet along remainder",
+      30
+    ],
+    [
+      "carriers represented national",
+      30
+    ],
+    [
+      "represented national railway",
+      30
+    ],
+    [
+      "national railway labor",
+      30
+    ],
+    [
+      "railway labor conference",
+      30
+    ],
+    [
+      "october lyndon johnson",
+      30
+    ],
+    [
+      "april lyndon johnson",
+      29
+    ]
+  ]
+}

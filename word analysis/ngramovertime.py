@@ -199,7 +199,7 @@ def main():
     freq_df = freq_df.sort_index(axis=1)
     freq_df.to_csv(os.path.join(OUTPUT_DIR, "word_freq_over_time.csv"))
 
-    words_to_use = ["taxes", "equality", "thence", "climate", "guns", "computer", "consistent"]
+    words_to_use = ["economy", "immigration", "taxes", "equality", "thence", "climate", "guns", "computer", "consistent"]
 
     for word in words_to_use:
         word_over_time(word, freq_df)

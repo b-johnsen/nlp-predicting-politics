@@ -1,0 +1,530 @@
+{
+  "president": "Calvin_Coolidge",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "calvin",
+      163
+    ],
+    [
+      "coolidge",
+      163
+    ],
+    [
+      "white",
+      82
+    ],
+    [
+      "house",
+      80
+    ],
+    [
+      "civil",
+      76
+    ],
+    [
+      "february",
+      73
+    ],
+    [
+      "without",
+      65
+    ],
+    [
+      "consular",
+      61
+    ],
+    [
+      "officers",
+      59
+    ],
+    [
+      "rules",
+      59
+    ],
+    [
+      "diplomatic",
+      58
+    ],
+    [
+      "passport",
+      57
+    ],
+    [
+      "march",
+      54
+    ],
+    [
+      "passports",
+      52
+    ],
+    [
+      "foreign",
+      51
+    ],
+    [
+      "january",
+      51
+    ],
+    [
+      "officer",
+      48
+    ],
+    [
+      "june",
+      48
+    ],
+    [
+      "congress",
+      46
+    ],
+    [
+      "citizenship",
+      46
+    ],
+    [
+      "issued",
+      46
+    ],
+    [
+      "citizens",
+      44
+    ],
+    [
+      "made",
+      43
+    ],
+    [
+      "regard",
+      42
+    ],
+    [
+      "citizen",
+      41
+    ],
+    [
+      "person",
+      40
+    ],
+    [
+      "time",
+      39
+    ],
+    [
+      "lands",
+      38
+    ],
+    [
+      "required",
+      38
+    ],
+    [
+      "deceased",
+      37
+    ],
+    [
+      "canal",
+      37
+    ],
+    [
+      "period",
+      36
+    ],
+    [
+      "years",
+      34
+    ],
+    [
+      "regulations",
+      33
+    ],
+    [
+      "general",
+      33
+    ],
+    [
+      "naturalization",
+      33
+    ],
+    [
+      "following",
+      32
+    ],
+    [
+      "authorized",
+      32
+    ],
+    [
+      "persons",
+      30
+    ],
+    [
+      "aircraft",
+      30
+    ],
+    [
+      "south",
+      29
+    ],
+    [
+      "august",
+      29
+    ],
+    [
+      "military",
+      29
+    ],
+    [
+      "provisions",
+      29
+    ],
+    [
+      "recommendation",
+      29
+    ],
+    [
+      "trust",
+      28
+    ],
+    [
+      "commerce",
+      28
+    ],
+    [
+      "zone",
+      28
+    ],
+    [
+      "appointment",
+      28
+    ],
+    [
+      "panama",
+      28
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "calvin coolidge",
+      163
+    ],
+    [
+      "coolidge white",
+      78
+    ],
+    [
+      "white house",
+      78
+    ],
+    [
+      "civil rules",
+      44
+    ],
+    [
+      "without regard",
+      40
+    ],
+    [
+      "canal zone",
+      28
+    ],
+    [
+      "february calvin",
+      28
+    ],
+    [
+      "house february",
+      27
+    ],
+    [
+      "regard civil",
+      27
+    ],
+    [
+      "panama canal",
+      26
+    ],
+    [
+      "civil commission",
+      22
+    ],
+    [
+      "house january",
+      22
+    ],
+    [
+      "consular officers",
+      21
+    ],
+    [
+      "january calvin",
+      20
+    ],
+    [
+      "consular officer",
+      19
+    ],
+    [
+      "trust period",
+      19
+    ],
+    [
+      "military naval",
+      19
+    ],
+    [
+      "diplomatic consular",
+      18
+    ],
+    [
+      "period allotments",
+      16
+    ],
+    [
+      "south east",
+      15
+    ],
+    [
+      "authorizing appointment",
+      15
+    ],
+    [
+      "february authorizing",
+      14
+    ],
+    [
+      "rules february",
+      14
+    ],
+    [
+      "private aircraft",
+      14
+    ],
+    [
+      "june august",
+      13
+    ],
+    [
+      "described lands",
+      13
+    ],
+    [
+      "allotments made",
+      12
+    ],
+    [
+      "coolidge contained",
+      12
+    ],
+    [
+      "certain described",
+      12
+    ],
+    [
+      "full force",
+      12
+    ],
+    [
+      "force effect",
+      12
+    ],
+    [
+      "effect unless",
+      12
+    ],
+    [
+      "unless revoked",
+      12
+    ],
+    [
+      "revoked congress",
+      12
+    ],
+    [
+      "congress calvin",
+      12
+    ],
+    [
+      "coolidge mrs",
+      12
+    ],
+    [
+      "march calvin",
+      12
+    ],
+    [
+      "foreign commerce",
+      11
+    ],
+    [
+      "congress june",
+      11
+    ],
+    [
+      "east south",
+      11
+    ],
+    [
+      "reserving certain",
+      11
+    ],
+    [
+      "coolidge congress",
+      11
+    ],
+    [
+      "continue full",
+      11
+    ],
+    [
+      "joint resolution",
+      11
+    ],
+    [
+      "withdrawn settlement",
+      10
+    ],
+    [
+      "passports issued",
+      10
+    ],
+    [
+      "lots lots",
+      10
+    ],
+    [
+      "house march",
+      10
+    ],
+    [
+      "extension trust",
+      9
+    ],
+    [
+      "foreign officers",
+      9
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "calvin coolidge white",
+      78
+    ],
+    [
+      "coolidge white house",
+      78
+    ],
+    [
+      "february calvin coolidge",
+      28
+    ],
+    [
+      "white house february",
+      27
+    ],
+    [
+      "without regard civil",
+      27
+    ],
+    [
+      "regard civil rules",
+      27
+    ],
+    [
+      "white house january",
+      22
+    ],
+    [
+      "january calvin coolidge",
+      20
+    ],
+    [
+      "panama canal zone",
+      18
+    ],
+    [
+      "trust period allotments",
+      15
+    ],
+    [
+      "house february authorizing",
+      14
+    ],
+    [
+      "civil rules february",
+      14
+    ],
+    [
+      "rules february calvin",
+      14
+    ],
+    [
+      "calvin coolidge contained",
+      12
+    ],
+    [
+      "certain described lands",
+      12
+    ],
+    [
+      "full force effect",
+      12
+    ],
+    [
+      "force effect unless",
+      12
+    ],
+    [
+      "effect unless revoked",
+      12
+    ],
+    [
+      "unless revoked congress",
+      12
+    ],
+    [
+      "revoked congress calvin",
+      12
+    ],
+    [
+      "congress calvin coolidge",
+      12
+    ],
+    [
+      "calvin coolidge mrs",
+      12
+    ],
+    [
+      "march calvin coolidge",
+      12
+    ],
+    [
+      "period allotments made",
+      11
+    ],
+    [
+      "south east south",
+      11
+    ],
+    [
+      "east south east",
+      11
+    ],
+    [
+      "reserving certain described",
+      11
+    ],
+    [
+      "calvin coolidge congress",
+      11
+    ],
+    [
+      "continue full force",
+      11
+    ],
+    [
+      "february authorizing appointment",
+      11
+    ]
+  ]
+}

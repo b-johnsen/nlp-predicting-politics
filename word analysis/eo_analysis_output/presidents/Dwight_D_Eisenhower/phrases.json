@@ -1,0 +1,530 @@
+{
+  "president": "Dwight_D_Eisenhower",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "feet",
+      1728
+    ],
+    [
+      "dwight",
+      965
+    ],
+    [
+      "eisenhower",
+      965
+    ],
+    [
+      "board",
+      895
+    ],
+    [
+      "railway",
+      797
+    ],
+    [
+      "railroad",
+      770
+    ],
+    [
+      "follows",
+      624
+    ],
+    [
+      "defense",
+      622
+    ],
+    [
+      "line",
+      614
+    ],
+    [
+      "provisions",
+      562
+    ],
+    [
+      "functions",
+      549
+    ],
+    [
+      "national",
+      545
+    ],
+    [
+      "house",
+      533
+    ],
+    [
+      "white",
+      528
+    ],
+    [
+      "land",
+      528
+    ],
+    [
+      "point",
+      496
+    ],
+    [
+      "company",
+      496
+    ],
+    [
+      "commission",
+      450
+    ],
+    [
+      "registrant",
+      447
+    ],
+    [
+      "boundary",
+      411
+    ],
+    [
+      "committee",
+      410
+    ],
+    [
+      "made",
+      404
+    ],
+    [
+      "local",
+      400
+    ],
+    [
+      "regulations",
+      390
+    ],
+    [
+      "certain",
+      388
+    ],
+    [
+      "employees",
+      385
+    ],
+    [
+      "described",
+      382
+    ],
+    [
+      "administration",
+      365
+    ],
+    [
+      "respect",
+      364
+    ],
+    [
+      "civil",
+      349
+    ],
+    [
+      "june",
+      332
+    ],
+    [
+      "contour",
+      329
+    ],
+    [
+      "except",
+      326
+    ],
+    [
+      "along",
+      320
+    ],
+    [
+      "foreign",
+      319
+    ],
+    [
+      "forces",
+      306
+    ],
+    [
+      "reserve",
+      305
+    ],
+    [
+      "parcel",
+      304
+    ],
+    [
+      "foot",
+      299
+    ],
+    [
+      "armed",
+      297
+    ],
+    [
+      "code",
+      287
+    ],
+    [
+      "beginning",
+      286
+    ],
+    [
+      "time",
+      286
+    ],
+    [
+      "form",
+      285
+    ],
+    [
+      "new",
+      284
+    ],
+    [
+      "date",
+      279
+    ],
+    [
+      "military",
+      278
+    ],
+    [
+      "metal",
+      277
+    ],
+    [
+      "secs",
+      274
+    ],
+    [
+      "marker",
+      272
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "dwight eisenhower",
+      965
+    ],
+    [
+      "white house",
+      496
+    ],
+    [
+      "eisenhower white",
+      480
+    ],
+    [
+      "local board",
+      337
+    ],
+    [
+      "armed forces",
+      283
+    ],
+    [
+      "feet feet",
+      281
+    ],
+    [
+      "metal marker",
+      272
+    ],
+    [
+      "foot contour",
+      249
+    ],
+    [
+      "feet along",
+      234
+    ],
+    [
+      "center line",
+      222
+    ],
+    [
+      "secs inclusive",
+      202
+    ],
+    [
+      "sss form",
+      200
+    ],
+    [
+      "railroad company",
+      197
+    ],
+    [
+      "feet point",
+      195
+    ],
+    [
+      "read follows",
+      194
+    ],
+    [
+      "feet metal",
+      161
+    ],
+    [
+      "purchase boundary",
+      160
+    ],
+    [
+      "ustva purchase",
+      153
+    ],
+    [
+      "inclusive secs",
+      138
+    ],
+    [
+      "point beginning",
+      134
+    ],
+    [
+      "defense mobilization",
+      129
+    ],
+    [
+      "marker feet",
+      128
+    ],
+    [
+      "railway company",
+      127
+    ],
+    [
+      "monument feet",
+      123
+    ],
+    [
+      "new york",
+      117
+    ],
+    [
+      "approximately feet",
+      117
+    ],
+    [
+      "line feet",
+      112
+    ],
+    [
+      "territory hawaii",
+      110
+    ],
+    [
+      "concrete monument",
+      109
+    ],
+    [
+      "acres less",
+      109
+    ],
+    [
+      "ustva monument",
+      106
+    ],
+    [
+      "railway labor",
+      102
+    ],
+    [
+      "described follows",
+      101
+    ],
+    [
+      "functions conferred",
+      101
+    ],
+    [
+      "office defense",
+      100
+    ],
+    [
+      "civil commission",
+      99
+    ],
+    [
+      "mutual security",
+      92
+    ],
+    [
+      "rules regulations",
+      90
+    ],
+    [
+      "feet passing",
+      90
+    ],
+    [
+      "air force",
+      89
+    ],
+    [
+      "boundary line",
+      88
+    ],
+    [
+      "contour feet",
+      87
+    ],
+    [
+      "internal revenue",
+      86
+    ],
+    [
+      "active duty",
+      86
+    ],
+    [
+      "follows beginning",
+      84
+    ],
+    [
+      "revenue code",
+      84
+    ],
+    [
+      "americas boundary",
+      84
+    ],
+    [
+      "point foot",
+      84
+    ],
+    [
+      "national security",
+      83
+    ],
+    [
+      "national forest",
+      81
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "dwight eisenhower white",
+      480
+    ],
+    [
+      "eisenhower white house",
+      480
+    ],
+    [
+      "feet metal marker",
+      161
+    ],
+    [
+      "ustva purchase boundary",
+      153
+    ],
+    [
+      "feet feet feet",
+      139
+    ],
+    [
+      "secs inclusive secs",
+      138
+    ],
+    [
+      "metal marker feet",
+      128
+    ],
+    [
+      "inclusive secs inclusive",
+      115
+    ],
+    [
+      "office defense mobilization",
+      87
+    ],
+    [
+      "internal revenue code",
+      84
+    ],
+    [
+      "point foot contour",
+      84
+    ],
+    [
+      "described follows beginning",
+      83
+    ],
+    [
+      "americas boundary line",
+      81
+    ],
+    [
+      "marker feet metal",
+      81
+    ],
+    [
+      "passing metal marker",
+      78
+    ],
+    [
+      "metal marker foot",
+      78
+    ],
+    [
+      "marker foot contour",
+      77
+    ],
+    [
+      "feet ustva monument",
+      75
+    ],
+    [
+      "feet passing metal",
+      72
+    ],
+    [
+      "foot contour feet",
+      68
+    ],
+    [
+      "land described parcel",
+      65
+    ],
+    [
+      "dwight eisenhower code",
+      64
+    ],
+    [
+      "foreign operations administration",
+      64
+    ],
+    [
+      "contains acres less",
+      63
+    ],
+    [
+      "ustva monument feet",
+      62
+    ],
+    [
+      "feet point foot",
+      62
+    ],
+    [
+      "concrete monument feet",
+      58
+    ],
+    [
+      "armed forces physical",
+      58
+    ],
+    [
+      "feet point beginning",
+      57
+    ],
+    [
+      "forces physical examination",
+      56
+    ]
+  ]
+}

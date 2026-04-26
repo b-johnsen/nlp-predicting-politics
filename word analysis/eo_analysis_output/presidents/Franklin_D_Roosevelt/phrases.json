@@ -1,0 +1,530 @@
+{
+  "president": "Franklin_D_Roosevelt",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "roosevelt",
+      7844
+    ],
+    [
+      "franklin",
+      7843
+    ],
+    [
+      "june",
+      4260
+    ],
+    [
+      "house",
+      3794
+    ],
+    [
+      "white",
+      3777
+    ],
+    [
+      "national",
+      3598
+    ],
+    [
+      "provisions",
+      3559
+    ],
+    [
+      "board",
+      2961
+    ],
+    [
+      "code",
+      2869
+    ],
+    [
+      "lands",
+      2825
+    ],
+    [
+      "war",
+      2680
+    ],
+    [
+      "secs",
+      2380
+    ],
+    [
+      "regulations",
+      2218
+    ],
+    [
+      "administrator",
+      2182
+    ],
+    [
+      "feet",
+      2149
+    ],
+    [
+      "inclusive",
+      2102
+    ],
+    [
+      "thence",
+      2019
+    ],
+    [
+      "fair",
+      1959
+    ],
+    [
+      "made",
+      1948
+    ],
+    [
+      "competition",
+      1910
+    ],
+    [
+      "person",
+      1745
+    ],
+    [
+      "retirement",
+      1723
+    ],
+    [
+      "july",
+      1716
+    ],
+    [
+      "industrial",
+      1700
+    ],
+    [
+      "august",
+      1684
+    ],
+    [
+      "necessary",
+      1674
+    ],
+    [
+      "recovery",
+      1655
+    ],
+    [
+      "civil",
+      1616
+    ],
+    [
+      "one",
+      1615
+    ],
+    [
+      "purposes",
+      1606
+    ],
+    [
+      "office",
+      1599
+    ],
+    [
+      "point",
+      1595
+    ],
+    [
+      "use",
+      1580
+    ],
+    [
+      "administration",
+      1579
+    ],
+    [
+      "march",
+      1545
+    ],
+    [
+      "line",
+      1540
+    ],
+    [
+      "age",
+      1538
+    ],
+    [
+      "commission",
+      1522
+    ],
+    [
+      "subject",
+      1502
+    ],
+    [
+      "land",
+      1458
+    ],
+    [
+      "lots",
+      1420
+    ],
+    [
+      "employees",
+      1411
+    ],
+    [
+      "date",
+      1383
+    ],
+    [
+      "december",
+      1364
+    ],
+    [
+      "prescribed",
+      1350
+    ],
+    [
+      "approval",
+      1321
+    ],
+    [
+      "navy",
+      1318
+    ],
+    [
+      "period",
+      1309
+    ],
+    [
+      "officers",
+      1284
+    ],
+    [
+      "emergency",
+      1278
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "franklin roosevelt",
+      7833
+    ],
+    [
+      "white house",
+      3700
+    ],
+    [
+      "roosevelt white",
+      3306
+    ],
+    [
+      "fair competition",
+      1877
+    ],
+    [
+      "code fair",
+      1811
+    ],
+    [
+      "industrial recovery",
+      1530
+    ],
+    [
+      "national industrial",
+      1451
+    ],
+    [
+      "retirement age",
+      1430
+    ],
+    [
+      "secs inclusive",
+      1274
+    ],
+    [
+      "compulsory retirement",
+      1032
+    ],
+    [
+      "inclusive secs",
+      1012
+    ],
+    [
+      "recovery june",
+      837
+    ],
+    [
+      "interest requires",
+      645
+    ],
+    [
+      "lots inclusive",
+      629
+    ],
+    [
+      "one year",
+      569
+    ],
+    [
+      "recommendations findings",
+      569
+    ],
+    [
+      "secs secs",
+      524
+    ],
+    [
+      "automatic separation",
+      520
+    ],
+    [
+      "prescribed automatic",
+      515
+    ],
+    [
+      "age prescribed",
+      514
+    ],
+    [
+      "period one",
+      511
+    ],
+    [
+      "inclusive lots",
+      509
+    ],
+    [
+      "june august",
+      506
+    ],
+    [
+      "june franklin",
+      505
+    ],
+    [
+      "roosevelt june",
+      493
+    ],
+    [
+      "canal zone",
+      472
+    ],
+    [
+      "local board",
+      459
+    ],
+    [
+      "roosevelt national",
+      453
+    ],
+    [
+      "age period",
+      442
+    ],
+    [
+      "judgment interest",
+      437
+    ],
+    [
+      "rules regulations",
+      434
+    ],
+    [
+      "effective date",
+      428
+    ],
+    [
+      "december franklin",
+      424
+    ],
+    [
+      "district columbia",
+      408
+    ],
+    [
+      "national forest",
+      397
+    ],
+    [
+      "july franklin",
+      396
+    ],
+    [
+      "civil rules",
+      393
+    ],
+    [
+      "existing rights",
+      389
+    ],
+    [
+      "valid existing",
+      388
+    ],
+    [
+      "approval code",
+      380
+    ],
+    [
+      "february franklin",
+      378
+    ],
+    [
+      "principal meridian",
+      376
+    ],
+    [
+      "separation applicable",
+      368
+    ],
+    [
+      "withdrawing lands",
+      364
+    ],
+    [
+      "feet feet",
+      363
+    ],
+    [
+      "provisions national",
+      362
+    ],
+    [
+      "september franklin",
+      362
+    ],
+    [
+      "compliance provisions",
+      360
+    ],
+    [
+      "house june",
+      358
+    ],
+    [
+      "march franklin",
+      357
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "franklin roosevelt white",
+      3306
+    ],
+    [
+      "roosevelt white house",
+      3306
+    ],
+    [
+      "code fair competition",
+      1808
+    ],
+    [
+      "national industrial recovery",
+      1448
+    ],
+    [
+      "compulsory retirement age",
+      909
+    ],
+    [
+      "secs inclusive secs",
+      870
+    ],
+    [
+      "industrial recovery june",
+      834
+    ],
+    [
+      "inclusive secs inclusive",
+      722
+    ],
+    [
+      "prescribed automatic separation",
+      515
+    ],
+    [
+      "age prescribed automatic",
+      514
+    ],
+    [
+      "retirement age prescribed",
+      511
+    ],
+    [
+      "june franklin roosevelt",
+      505
+    ],
+    [
+      "period one year",
+      504
+    ],
+    [
+      "franklin roosevelt june",
+      493
+    ],
+    [
+      "franklin roosevelt national",
+      450
+    ],
+    [
+      "roosevelt national industrial",
+      443
+    ],
+    [
+      "retirement age period",
+      442
+    ],
+    [
+      "judgment interest requires",
+      434
+    ],
+    [
+      "december franklin roosevelt",
+      424
+    ],
+    [
+      "age period one",
+      417
+    ],
+    [
+      "july franklin roosevelt",
+      396
+    ],
+    [
+      "valid existing rights",
+      384
+    ],
+    [
+      "february franklin roosevelt",
+      378
+    ],
+    [
+      "automatic separation applicable",
+      368
+    ],
+    [
+      "september franklin roosevelt",
+      362
+    ],
+    [
+      "white house june",
+      358
+    ],
+    [
+      "march franklin roosevelt",
+      357
+    ],
+    [
+      "inclusive lots inclusive",
+      355
+    ],
+    [
+      "provisions national industrial",
+      353
+    ],
+    [
+      "november franklin roosevelt",
+      353
+    ]
+  ]
+}

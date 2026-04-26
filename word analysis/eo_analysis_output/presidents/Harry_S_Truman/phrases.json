@@ -1,0 +1,530 @@
+{
+  "president": "Harry_S_Truman",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "board",
+      2614
+    ],
+    [
+      "harry",
+      1781
+    ],
+    [
+      "truman",
+      1776
+    ],
+    [
+      "registrant",
+      1225
+    ],
+    [
+      "officer",
+      1224
+    ],
+    [
+      "company",
+      1169
+    ],
+    [
+      "local",
+      1150
+    ],
+    [
+      "provisions",
+      1135
+    ],
+    [
+      "feet",
+      1114
+    ],
+    [
+      "war",
+      1112
+    ],
+    [
+      "regulations",
+      1105
+    ],
+    [
+      "general",
+      967
+    ],
+    [
+      "form",
+      965
+    ],
+    [
+      "white",
+      915
+    ],
+    [
+      "railway",
+      901
+    ],
+    [
+      "house",
+      894
+    ],
+    [
+      "military",
+      891
+    ],
+    [
+      "time",
+      884
+    ],
+    [
+      "railroad",
+      871
+    ],
+    [
+      "duty",
+      861
+    ],
+    [
+      "commission",
+      852
+    ],
+    [
+      "defense",
+      831
+    ],
+    [
+      "made",
+      823
+    ],
+    [
+      "national",
+      818
+    ],
+    [
+      "functions",
+      801
+    ],
+    [
+      "follows",
+      786
+    ],
+    [
+      "necessary",
+      785
+    ],
+    [
+      "employees",
+      768
+    ],
+    [
+      "officers",
+      757
+    ],
+    [
+      "armed",
+      736
+    ],
+    [
+      "certain",
+      728
+    ],
+    [
+      "one",
+      720
+    ],
+    [
+      "class",
+      717
+    ],
+    [
+      "forces",
+      712
+    ],
+    [
+      "date",
+      708
+    ],
+    [
+      "report",
+      700
+    ],
+    [
+      "authorized",
+      696
+    ],
+    [
+      "new",
+      692
+    ],
+    [
+      "labor",
+      685
+    ],
+    [
+      "members",
+      681
+    ],
+    [
+      "respect",
+      667
+    ],
+    [
+      "selective",
+      661
+    ],
+    [
+      "person",
+      649
+    ],
+    [
+      "june",
+      644
+    ],
+    [
+      "navy",
+      639
+    ],
+    [
+      "except",
+      638
+    ],
+    [
+      "court",
+      638
+    ],
+    [
+      "classification",
+      634
+    ],
+    [
+      "case",
+      619
+    ],
+    [
+      "transportation",
+      616
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "harry truman",
+      1776
+    ],
+    [
+      "local board",
+      1022
+    ],
+    [
+      "white house",
+      874
+    ],
+    [
+      "truman white",
+      869
+    ],
+    [
+      "armed forces",
+      644
+    ],
+    [
+      "sss form",
+      607
+    ],
+    [
+      "feet along",
+      456
+    ],
+    [
+      "railroad company",
+      409
+    ],
+    [
+      "new york",
+      320
+    ],
+    [
+      "active duty",
+      278
+    ],
+    [
+      "coast guard",
+      272
+    ],
+    [
+      "territory hawaii",
+      267
+    ],
+    [
+      "railway labor",
+      260
+    ],
+    [
+      "read follows",
+      248
+    ],
+    [
+      "plants facilities",
+      246
+    ],
+    [
+      "railway company",
+      245
+    ],
+    [
+      "surgeon general",
+      239
+    ],
+    [
+      "air force",
+      222
+    ],
+    [
+      "military reservation",
+      220
+    ],
+    [
+      "appeal board",
+      212
+    ],
+    [
+      "physical examination",
+      208
+    ],
+    [
+      "located around",
+      195
+    ],
+    [
+      "army navy",
+      191
+    ],
+    [
+      "company located",
+      190
+    ],
+    [
+      "thirty days",
+      187
+    ],
+    [
+      "certain employees",
+      178
+    ],
+    [
+      "regular corps",
+      167
+    ],
+    [
+      "secs inclusive",
+      163
+    ],
+    [
+      "regulations governing",
+      155
+    ],
+    [
+      "commander chief",
+      151
+    ],
+    [
+      "point beginning",
+      149
+    ],
+    [
+      "officers employees",
+      146
+    ],
+    [
+      "household goods",
+      140
+    ],
+    [
+      "canal zone",
+      135
+    ],
+    [
+      "investigate dispute",
+      133
+    ],
+    [
+      "rules regulations",
+      132
+    ],
+    [
+      "report induction",
+      131
+    ],
+    [
+      "distance feet",
+      127
+    ],
+    [
+      "trial counsel",
+      127
+    ],
+    [
+      "july harry",
+      126
+    ],
+    [
+      "days date",
+      126
+    ],
+    [
+      "defense production",
+      125
+    ],
+    [
+      "truman constitution",
+      124
+    ],
+    [
+      "civil commission",
+      124
+    ],
+    [
+      "deem necessary",
+      122
+    ],
+    [
+      "june harry",
+      122
+    ],
+    [
+      "authorized directed",
+      120
+    ],
+    [
+      "azimuth distance",
+      120
+    ],
+    [
+      "forces physical",
+      120
+    ],
+    [
+      "along remainder",
+      119
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "harry truman white",
+      869
+    ],
+    [
+      "truman white house",
+      869
+    ],
+    [
+      "company located around",
+      171
+    ],
+    [
+      "july harry truman",
+      126
+    ],
+    [
+      "harry truman constitution",
+      124
+    ],
+    [
+      "june harry truman",
+      122
+    ],
+    [
+      "armed forces physical",
+      120
+    ],
+    [
+      "forces physical examination",
+      120
+    ],
+    [
+      "feet along remainder",
+      114
+    ],
+    [
+      "feet along feet",
+      113
+    ],
+    [
+      "along feet along",
+      113
+    ],
+    [
+      "september harry truman",
+      107
+    ],
+    [
+      "secs inclusive secs",
+      107
+    ],
+    [
+      "white house june",
+      101
+    ],
+    [
+      "inclusive secs inclusive",
+      100
+    ],
+    [
+      "azimuth distance feet",
+      99
+    ],
+    [
+      "schofield barracks military",
+      97
+    ],
+    [
+      "barracks military reservation",
+      97
+    ],
+    [
+      "january harry truman",
+      96
+    ],
+    [
+      "certain employees represented",
+      94
+    ],
+    [
+      "first war powers",
+      94
+    ],
+    [
+      "new york new",
+      93
+    ],
+    [
+      "december harry truman",
+      91
+    ],
+    [
+      "three members appointed",
+      89
+    ],
+    [
+      "military reservation presidential",
+      88
+    ],
+    [
+      "creating emergency board",
+      85
+    ],
+    [
+      "board three members",
+      85
+    ],
+    [
+      "october harry truman",
+      85
+    ],
+    [
+      "white house july",
+      85
+    ],
+    [
+      "chord azimuth distance",
+      84
+    ]
+  ]
+}

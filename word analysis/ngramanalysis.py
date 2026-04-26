@@ -114,7 +114,8 @@ custom_stopwords = {
     "act", "law", "provision", "title", "chapter", "paragraph",
     "provide", "provides", "provided", "including", "include",
     "said", "secretary", "ordered", "approved", "director", "stat", "authority", "pursuant",
-    "vested", "amended", "public", "usc", "service", "virtue", "thence", "consistent", "provisions"
+    "vested", "amended", "public", "usc", "service", "virtue", "thence", "consistent", "provisions",
+    "policy", "within", "functions", "upon", "without", "made", "code", "subject"
 }
 
 # include pursuant authority vested? frequent
@@ -130,9 +131,9 @@ def custom_tokenizer(text):
     cleaned_tokens = []
     for tok in tokens:
         if (
-            len(tok) > 2 and              # remove tiny tokens
-            tok not in STOPWORDS and      # remove stopwords
-            tok.isalpha()                 # keep only words
+            len(tok) > 2 and              
+            tok not in STOPWORDS and      
+            tok.isalpha()                
         ):
             cleaned_tokens.append(tok)
 
@@ -142,8 +143,8 @@ def custom_tokenizer(text):
 def get_top_terms(matrix, labels, group_name, feature_names, top_n=20):
     """
     matrix: TF-IDF matrix
-    labels: group labels (party or president)
-    group_name: specific group to filter
+    labels: party/president
+    group_name- group to filter
     """
     idx = np.where(labels == group_name)[0]
     
@@ -162,10 +163,16 @@ def get_top_terms(matrix, labels, group_name, feature_names, top_n=20):
 
 def make_wordcloud(term_list, title, filename):
     freq_dict = {term: score for term, score in term_list}
+
+    coloring = "Reds"
+    if title == f"Top Terms - democrat":
+        coloring = "Blues_r"
+
     
     wc = WordCloud(
-        width=800,
+        width=600,
         height=400,
+        colormap=coloring,
         background_color="white"
     ).generate_from_frequencies(freq_dict)
     
@@ -219,7 +226,6 @@ def main():
     parties = df["party"].values
     unique_parties = df["party"].unique()
 
-    print("\n=== TOP TERMS BY PARTY ===\n")
 
     party_top_terms = {}
 
@@ -245,7 +251,7 @@ def main():
     presidents = df["president"].values
     unique_presidents = df["president"].unique()
 
-    print("\n=== TOP TERMS BY PRESIDENT ===\n")
+    print("\nTOP TERMS BY PRESIDENT\n")
 
     pres_top_terms = {}
 

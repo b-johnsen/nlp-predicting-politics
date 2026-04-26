@@ -1,0 +1,530 @@
+{
+  "president": "William_J_Clinton",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "information",
+      1121
+    ],
+    [
+      "national",
+      861
+    ],
+    [
+      "william",
+      757
+    ],
+    [
+      "clinton",
+      756
+    ],
+    [
+      "office",
+      682
+    ],
+    [
+      "appropriate",
+      632
+    ],
+    [
+      "committee",
+      617
+    ],
+    [
+      "management",
+      588
+    ],
+    [
+      "council",
+      550
+    ],
+    [
+      "services",
+      549
+    ],
+    [
+      "general",
+      472
+    ],
+    [
+      "person",
+      469
+    ],
+    [
+      "extent",
+      463
+    ],
+    [
+      "review",
+      461
+    ],
+    [
+      "follows",
+      460
+    ],
+    [
+      "use",
+      449
+    ],
+    [
+      "laws",
+      448
+    ],
+    [
+      "house",
+      434
+    ],
+    [
+      "white",
+      430
+    ],
+    [
+      "programs",
+      430
+    ],
+    [
+      "report",
+      429
+    ],
+    [
+      "commission",
+      421
+    ],
+    [
+      "energy",
+      417
+    ],
+    [
+      "board",
+      417
+    ],
+    [
+      "defense",
+      411
+    ],
+    [
+      "members",
+      409
+    ],
+    [
+      "date",
+      405
+    ],
+    [
+      "security",
+      398
+    ],
+    [
+      "regulations",
+      389
+    ],
+    [
+      "environmental",
+      381
+    ],
+    [
+      "constitution",
+      377
+    ],
+    [
+      "means",
+      375
+    ],
+    [
+      "employees",
+      374
+    ],
+    [
+      "development",
+      367
+    ],
+    [
+      "health",
+      354
+    ],
+    [
+      "activities",
+      340
+    ],
+    [
+      "established",
+      337
+    ],
+    [
+      "administration",
+      336
+    ],
+    [
+      "force",
+      335
+    ],
+    [
+      "provisions",
+      333
+    ],
+    [
+      "register",
+      330
+    ],
+    [
+      "requirements",
+      328
+    ],
+    [
+      "functions",
+      326
+    ],
+    [
+      "advisory",
+      325
+    ],
+    [
+      "effective",
+      318
+    ],
+    [
+      "international",
+      316
+    ],
+    [
+      "military",
+      313
+    ],
+    [
+      "foreign",
+      304
+    ],
+    [
+      "necessary",
+      303
+    ],
+    [
+      "subject",
+      289
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "william clinton",
+      753
+    ],
+    [
+      "white house",
+      425
+    ],
+    [
+      "clinton white",
+      360
+    ],
+    [
+      "constitution laws",
+      359
+    ],
+    [
+      "clinton constitution",
+      319
+    ],
+    [
+      "task force",
+      255
+    ],
+    [
+      "filed office",
+      240
+    ],
+    [
+      "office register",
+      240
+    ],
+    [
+      "advisory committee",
+      208
+    ],
+    [
+      "national security",
+      202
+    ],
+    [
+      "extent permitted",
+      176
+    ],
+    [
+      "classified information",
+      158
+    ],
+    [
+      "read follows",
+      143
+    ],
+    [
+      "substantive procedural",
+      142
+    ],
+    [
+      "office management",
+      137
+    ],
+    [
+      "management budget",
+      136
+    ],
+    [
+      "right benefit",
+      136
+    ],
+    [
+      "create right",
+      135
+    ],
+    [
+      "procedural enforceable",
+      135
+    ],
+    [
+      "military judge",
+      132
+    ],
+    [
+      "effective date",
+      119
+    ],
+    [
+      "attorney general",
+      113
+    ],
+    [
+      "benefit substantive",
+      103
+    ],
+    [
+      "health human",
+      99
+    ],
+    [
+      "working group",
+      99
+    ],
+    [
+      "officers employees",
+      98
+    ],
+    [
+      "judicial review",
+      98
+    ],
+    [
+      "human services",
+      97
+    ],
+    [
+      "enforceable party",
+      91
+    ],
+    [
+      "extent practicable",
+      90
+    ],
+    [
+      "general services",
+      89
+    ],
+    [
+      "private sector",
+      79
+    ],
+    [
+      "person william",
+      79
+    ],
+    [
+      "employees person",
+      77
+    ],
+    [
+      "party officers",
+      75
+    ],
+    [
+      "tribal governments",
+      69
+    ],
+    [
+      "days date",
+      68
+    ],
+    [
+      "science technology",
+      67
+    ],
+    [
+      "internal management",
+      67
+    ],
+    [
+      "trade representative",
+      67
+    ],
+    [
+      "rules regulations",
+      66
+    ],
+    [
+      "armed forces",
+      65
+    ],
+    [
+      "personnel management",
+      65
+    ],
+    [
+      "information technology",
+      64
+    ],
+    [
+      "local governments",
+      63
+    ],
+    [
+      "housing urban",
+      63
+    ],
+    [
+      "committee app",
+      62
+    ],
+    [
+      "administrator general",
+      62
+    ],
+    [
+      "office personnel",
+      61
+    ],
+    [
+      "urban development",
+      60
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "clinton white house",
+      360
+    ],
+    [
+      "william clinton white",
+      358
+    ],
+    [
+      "william clinton constitution",
+      318
+    ],
+    [
+      "clinton constitution laws",
+      318
+    ],
+    [
+      "filed office register",
+      240
+    ],
+    [
+      "office management budget",
+      136
+    ],
+    [
+      "substantive procedural enforceable",
+      135
+    ],
+    [
+      "create right benefit",
+      124
+    ],
+    [
+      "right benefit substantive",
+      103
+    ],
+    [
+      "benefit substantive procedural",
+      103
+    ],
+    [
+      "health human services",
+      97
+    ],
+    [
+      "procedural enforceable party",
+      91
+    ],
+    [
+      "person william clinton",
+      79
+    ],
+    [
+      "officers employees person",
+      77
+    ],
+    [
+      "advisory committee app",
+      62
+    ],
+    [
+      "administrator general services",
+      62
+    ],
+    [
+      "office personnel management",
+      60
+    ],
+    [
+      "housing urban development",
+      60
+    ],
+    [
+      "intended improve internal",
+      59
+    ],
+    [
+      "improve internal management",
+      59
+    ],
+    [
+      "access classified information",
+      59
+    ],
+    [
+      "party instrumentalities officers",
+      58
+    ],
+    [
+      "instrumentalities officers employees",
+      58
+    ],
+    [
+      "internal management branch",
+      56
+    ],
+    [
+      "rcm read follows",
+      53
+    ],
+    [
+      "international emergency economic",
+      49
+    ],
+    [
+      "emergency economic powers",
+      49
+    ],
+    [
+      "enforceable party instrumentalities",
+      47
+    ],
+    [
+      "party officers person",
+      47
+    ],
+    [
+      "intended create right",
+      45
+    ]
+  ]
+}

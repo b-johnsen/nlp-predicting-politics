@@ -1,0 +1,530 @@
+{
+  "president": "Martin_Van_Buren",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "expresident",
+      7
+    ],
+    [
+      "march",
+      4
+    ],
+    [
+      "van",
+      4
+    ],
+    [
+      "buren",
+      4
+    ],
+    [
+      "majorgeneral",
+      3
+    ],
+    [
+      "commanding",
+      3
+    ],
+    [
+      "chief",
+      3
+    ],
+    [
+      "tennessee",
+      3
+    ],
+    [
+      "health",
+      3
+    ],
+    [
+      "medical",
+      3
+    ],
+    [
+      "surgeongeneral",
+      3
+    ],
+    [
+      "wheeling",
+      3
+    ],
+    [
+      "residence",
+      3
+    ],
+    [
+      "different",
+      3
+    ],
+    [
+      "martin",
+      2
+    ],
+    [
+      "army",
+      2
+    ],
+    [
+      "office",
+      2
+    ],
+    [
+      "washington",
+      2
+    ],
+    [
+      "general",
+      2
+    ],
+    [
+      "war",
+      2
+    ],
+    [
+      "attendant",
+      2
+    ],
+    [
+      "directs",
+      2
+    ],
+    [
+      "accompany",
+      2
+    ],
+    [
+      "virginia",
+      2
+    ],
+    [
+      "place",
+      2
+    ],
+    [
+      "join",
+      2
+    ],
+    [
+      "hours",
+      2
+    ],
+    [
+      "persons",
+      2
+    ],
+    [
+      "headquarters",
+      1
+    ],
+    [
+      "adjutantgenerals",
+      1
+    ],
+    [
+      "received",
+      1
+    ],
+    [
+      "following",
+      1
+    ],
+    [
+      "andrew",
+      1
+    ],
+    [
+      "jackson",
+      1
+    ],
+    [
+      "depart",
+      1
+    ],
+    [
+      "city",
+      1
+    ],
+    [
+      "home",
+      1
+    ],
+    [
+      "rendering",
+      1
+    ],
+    [
+      "important",
+      1
+    ],
+    [
+      "accompanied",
+      1
+    ],
+    [
+      "relieved",
+      1
+    ],
+    [
+      "case",
+      1
+    ],
+    [
+      "expresidents",
+      1
+    ],
+    [
+      "allow",
+      1
+    ],
+    [
+      "officer",
+      1
+    ],
+    [
+      "attend",
+      1
+    ],
+    [
+      "giving",
+      1
+    ],
+    [
+      "feels",
+      1
+    ],
+    [
+      "assured",
+      1
+    ],
+    [
+      "mark",
+      1
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "van buren",
+      4
+    ],
+    [
+      "majorgeneral commanding",
+      3
+    ],
+    [
+      "commanding chief",
+      3
+    ],
+    [
+      "march martin",
+      2
+    ],
+    [
+      "martin van",
+      2
+    ],
+    [
+      "washington march",
+      2
+    ],
+    [
+      "march general",
+      2
+    ],
+    [
+      "medical attendant",
+      2
+    ],
+    [
+      "expresident wheeling",
+      2
+    ],
+    [
+      "wheeling virginia",
+      2
+    ],
+    [
+      "join expresident",
+      2
+    ],
+    [
+      "buren headquarters",
+      1
+    ],
+    [
+      "headquarters army",
+      1
+    ],
+    [
+      "army adjutantgenerals",
+      1
+    ],
+    [
+      "adjutantgenerals office",
+      1
+    ],
+    [
+      "office washington",
+      1
+    ],
+    [
+      "general majorgeneral",
+      1
+    ],
+    [
+      "chief received",
+      1
+    ],
+    [
+      "received war",
+      1
+    ],
+    [
+      "war following",
+      1
+    ],
+    [
+      "following washington",
+      1
+    ],
+    [
+      "general andrew",
+      1
+    ],
+    [
+      "andrew jackson",
+      1
+    ],
+    [
+      "jackson expresident",
+      1
+    ],
+    [
+      "expresident depart",
+      1
+    ],
+    [
+      "depart city",
+      1
+    ],
+    [
+      "city home",
+      1
+    ],
+    [
+      "home tennessee",
+      1
+    ],
+    [
+      "tennessee health",
+      1
+    ],
+    [
+      "health rendering",
+      1
+    ],
+    [
+      "rendering important",
+      1
+    ],
+    [
+      "important accompanied",
+      1
+    ],
+    [
+      "accompanied medical",
+      1
+    ],
+    [
+      "attendant directs",
+      1
+    ],
+    [
+      "directs surgeongeneral",
+      1
+    ],
+    [
+      "surgeongeneral army",
+      1
+    ],
+    [
+      "army accompany",
+      1
+    ],
+    [
+      "accompany expresident",
+      1
+    ],
+    [
+      "virginia relieved",
+      1
+    ],
+    [
+      "relieved case",
+      1
+    ],
+    [
+      "case expresidents",
+      1
+    ],
+    [
+      "expresidents health",
+      1
+    ],
+    [
+      "health allow",
+      1
+    ],
+    [
+      "allow officer",
+      1
+    ],
+    [
+      "officer medical",
+      1
+    ],
+    [
+      "medical attend",
+      1
+    ],
+    [
+      "attend expresident",
+      1
+    ],
+    [
+      "expresident place",
+      1
+    ],
+    [
+      "place residence",
+      1
+    ],
+    [
+      "residence giving",
+      1
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "majorgeneral commanding chief",
+      3
+    ],
+    [
+      "march martin van",
+      2
+    ],
+    [
+      "martin van buren",
+      2
+    ],
+    [
+      "washington march general",
+      2
+    ],
+    [
+      "van buren headquarters",
+      1
+    ],
+    [
+      "buren headquarters army",
+      1
+    ],
+    [
+      "headquarters army adjutantgenerals",
+      1
+    ],
+    [
+      "army adjutantgenerals office",
+      1
+    ],
+    [
+      "adjutantgenerals office washington",
+      1
+    ],
+    [
+      "office washington march",
+      1
+    ],
+    [
+      "march general majorgeneral",
+      1
+    ],
+    [
+      "general majorgeneral commanding",
+      1
+    ],
+    [
+      "commanding chief received",
+      1
+    ],
+    [
+      "chief received war",
+      1
+    ],
+    [
+      "received war following",
+      1
+    ],
+    [
+      "war following washington",
+      1
+    ],
+    [
+      "following washington march",
+      1
+    ],
+    [
+      "march general andrew",
+      1
+    ],
+    [
+      "general andrew jackson",
+      1
+    ],
+    [
+      "andrew jackson expresident",
+      1
+    ],
+    [
+      "jackson expresident depart",
+      1
+    ],
+    [
+      "expresident depart city",
+      1
+    ],
+    [
+      "depart city home",
+      1
+    ],
+    [
+      "city home tennessee",
+      1
+    ],
+    [
+      "home tennessee health",
+      1
+    ],
+    [
+      "tennessee health rendering",
+      1
+    ],
+    [
+      "health rendering important",
+      1
+    ],
+    [
+      "rendering important accompanied",
+      1
+    ],
+    [
+      "important accompanied medical",
+      1
+    ],
+    [
+      "accompanied medical attendant",
+      1
+    ]
+  ]
+}

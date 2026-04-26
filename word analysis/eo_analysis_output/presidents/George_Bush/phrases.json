@@ -1,0 +1,530 @@
+{
+  "president": "George_Bush",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "george",
+      352
+    ],
+    [
+      "bush",
+      352
+    ],
+    [
+      "national",
+      306
+    ],
+    [
+      "council",
+      240
+    ],
+    [
+      "office",
+      230
+    ],
+    [
+      "defense",
+      211
+    ],
+    [
+      "house",
+      200
+    ],
+    [
+      "white",
+      192
+    ],
+    [
+      "laws",
+      188
+    ],
+    [
+      "regulations",
+      188
+    ],
+    [
+      "functions",
+      184
+    ],
+    [
+      "commission",
+      182
+    ],
+    [
+      "follows",
+      173
+    ],
+    [
+      "employees",
+      171
+    ],
+    [
+      "constitution",
+      167
+    ],
+    [
+      "committee",
+      167
+    ],
+    [
+      "code",
+      160
+    ],
+    [
+      "members",
+      160
+    ],
+    [
+      "management",
+      156
+    ],
+    [
+      "general",
+      150
+    ],
+    [
+      "person",
+      140
+    ],
+    [
+      "respect",
+      128
+    ],
+    [
+      "services",
+      127
+    ],
+    [
+      "appropriate",
+      123
+    ],
+    [
+      "effective",
+      117
+    ],
+    [
+      "date",
+      117
+    ],
+    [
+      "provisions",
+      117
+    ],
+    [
+      "development",
+      112
+    ],
+    [
+      "security",
+      111
+    ],
+    [
+      "foreign",
+      110
+    ],
+    [
+      "extent",
+      109
+    ],
+    [
+      "advisory",
+      108
+    ],
+    [
+      "programs",
+      108
+    ],
+    [
+      "delegated",
+      107
+    ],
+    [
+      "board",
+      107
+    ],
+    [
+      "pay",
+      105
+    ],
+    [
+      "information",
+      105
+    ],
+    [
+      "report",
+      105
+    ],
+    [
+      "international",
+      95
+    ],
+    [
+      "presidents",
+      93
+    ],
+    [
+      "made",
+      92
+    ],
+    [
+      "emergency",
+      88
+    ],
+    [
+      "following",
+      88
+    ],
+    [
+      "sections",
+      87
+    ],
+    [
+      "administration",
+      87
+    ],
+    [
+      "established",
+      87
+    ],
+    [
+      "chairman",
+      87
+    ],
+    [
+      "schedule",
+      86
+    ],
+    [
+      "action",
+      84
+    ],
+    [
+      "necessary",
+      84
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "george bush",
+      352
+    ],
+    [
+      "white house",
+      192
+    ],
+    [
+      "bush white",
+      165
+    ],
+    [
+      "constitution laws",
+      164
+    ],
+    [
+      "bush constitution",
+      153
+    ],
+    [
+      "advisory committee",
+      72
+    ],
+    [
+      "read follows",
+      60
+    ],
+    [
+      "national security",
+      58
+    ],
+    [
+      "republic yugoslavia",
+      50
+    ],
+    [
+      "personnel management",
+      48
+    ],
+    [
+      "office personnel",
+      47
+    ],
+    [
+      "effective date",
+      47
+    ],
+    [
+      "attorney general",
+      45
+    ],
+    [
+      "serbia montenegro",
+      45
+    ],
+    [
+      "extent permitted",
+      43
+    ],
+    [
+      "coast guard",
+      41
+    ],
+    [
+      "published register",
+      39
+    ],
+    [
+      "armed forces",
+      38
+    ],
+    [
+      "yugoslavia serbia",
+      38
+    ],
+    [
+      "rules regulations",
+      37
+    ],
+    [
+      "general services",
+      37
+    ],
+    [
+      "office management",
+      32
+    ],
+    [
+      "management budget",
+      32
+    ],
+    [
+      "basic pay",
+      31
+    ],
+    [
+      "members appointed",
+      29
+    ],
+    [
+      "related programs",
+      28
+    ],
+    [
+      "private sector",
+      27
+    ],
+    [
+      "administrator general",
+      27
+    ],
+    [
+      "international development",
+      27
+    ],
+    [
+      "guard operating",
+      27
+    ],
+    [
+      "foreign operations",
+      27
+    ],
+    [
+      "operations export",
+      27
+    ],
+    [
+      "export financing",
+      27
+    ],
+    [
+      "financing related",
+      27
+    ],
+    [
+      "programs appropriations",
+      27
+    ],
+    [
+      "opa respecting",
+      27
+    ],
+    [
+      "substantive procedural",
+      26
+    ],
+    [
+      "industrial security",
+      26
+    ],
+    [
+      "security program",
+      26
+    ],
+    [
+      "litigation counsel",
+      26
+    ],
+    [
+      "laws code",
+      25
+    ],
+    [
+      "right benefit",
+      25
+    ],
+    [
+      "regulations orders",
+      25
+    ],
+    [
+      "emergency economic",
+      24
+    ],
+    [
+      "economic powers",
+      24
+    ],
+    [
+      "national emergency",
+      24
+    ],
+    [
+      "presidents commission",
+      24
+    ],
+    [
+      "agricultural trade",
+      24
+    ],
+    [
+      "trade development",
+      24
+    ],
+    [
+      "national industrial",
+      24
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "george bush white",
+      165
+    ],
+    [
+      "bush white house",
+      165
+    ],
+    [
+      "george bush constitution",
+      153
+    ],
+    [
+      "bush constitution laws",
+      151
+    ],
+    [
+      "office personnel management",
+      47
+    ],
+    [
+      "republic yugoslavia serbia",
+      38
+    ],
+    [
+      "yugoslavia serbia montenegro",
+      38
+    ],
+    [
+      "office management budget",
+      32
+    ],
+    [
+      "administrator general services",
+      27
+    ],
+    [
+      "coast guard operating",
+      27
+    ],
+    [
+      "foreign operations export",
+      27
+    ],
+    [
+      "operations export financing",
+      27
+    ],
+    [
+      "export financing related",
+      27
+    ],
+    [
+      "financing related programs",
+      27
+    ],
+    [
+      "related programs appropriations",
+      27
+    ],
+    [
+      "industrial security program",
+      26
+    ],
+    [
+      "constitution laws code",
+      25
+    ],
+    [
+      "emergency economic powers",
+      24
+    ],
+    [
+      "agricultural trade development",
+      24
+    ],
+    [
+      "national industrial security",
+      24
+    ],
+    [
+      "international emergency economic",
+      23
+    ],
+    [
+      "create right benefit",
+      22
+    ],
+    [
+      "right benefit substantive",
+      22
+    ],
+    [
+      "december george bush",
+      22
+    ],
+    [
+      "benefit substantive procedural",
+      21
+    ],
+    [
+      "historically black colleges",
+      21
+    ],
+    [
+      "black colleges universities",
+      21
+    ],
+    [
+      "march george bush",
+      21
+    ],
+    [
+      "substantive procedural enforceable",
+      20
+    ],
+    [
+      "january george bush",
+      20
+    ]
+  ]
+}

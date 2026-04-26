@@ -1,0 +1,530 @@
+{
+  "president": "John_F_Kennedy",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "emergency",
+      621
+    ],
+    [
+      "national",
+      471
+    ],
+    [
+      "feet",
+      460
+    ],
+    [
+      "committee",
+      456
+    ],
+    [
+      "john",
+      432
+    ],
+    [
+      "kennedy",
+      429
+    ],
+    [
+      "functions",
+      424
+    ],
+    [
+      "board",
+      422
+    ],
+    [
+      "provisions",
+      406
+    ],
+    [
+      "commission",
+      367
+    ],
+    [
+      "defense",
+      344
+    ],
+    [
+      "employees",
+      293
+    ],
+    [
+      "plans",
+      291
+    ],
+    [
+      "civil",
+      285
+    ],
+    [
+      "appropriate",
+      285
+    ],
+    [
+      "railway",
+      273
+    ],
+    [
+      "follows",
+      270
+    ],
+    [
+      "railroad",
+      264
+    ],
+    [
+      "programs",
+      253
+    ],
+    [
+      "respect",
+      251
+    ],
+    [
+      "labor",
+      248
+    ],
+    [
+      "house",
+      241
+    ],
+    [
+      "secs",
+      232
+    ],
+    [
+      "made",
+      230
+    ],
+    [
+      "company",
+      225
+    ],
+    [
+      "white",
+      221
+    ],
+    [
+      "time",
+      211
+    ],
+    [
+      "regulations",
+      205
+    ],
+    [
+      "members",
+      201
+    ],
+    [
+      "following",
+      192
+    ],
+    [
+      "local",
+      192
+    ],
+    [
+      "report",
+      191
+    ],
+    [
+      "office",
+      191
+    ],
+    [
+      "facilities",
+      178
+    ],
+    [
+      "develop",
+      176
+    ],
+    [
+      "necessary",
+      175
+    ],
+    [
+      "general",
+      171
+    ],
+    [
+      "information",
+      171
+    ],
+    [
+      "inclusive",
+      170
+    ],
+    [
+      "program",
+      168
+    ],
+    [
+      "organization",
+      167
+    ],
+    [
+      "authorized",
+      165
+    ],
+    [
+      "certain",
+      161
+    ],
+    [
+      "form",
+      161
+    ],
+    [
+      "chairman",
+      159
+    ],
+    [
+      "activities",
+      158
+    ],
+    [
+      "services",
+      154
+    ],
+    [
+      "assistance",
+      154
+    ],
+    [
+      "except",
+      151
+    ],
+    [
+      "commerce",
+      145
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "john kennedy",
+      429
+    ],
+    [
+      "white house",
+      214
+    ],
+    [
+      "kennedy white",
+      212
+    ],
+    [
+      "feet feet",
+      150
+    ],
+    [
+      "secs inclusive",
+      138
+    ],
+    [
+      "local board",
+      117
+    ],
+    [
+      "civil defense",
+      112
+    ],
+    [
+      "armed forces",
+      106
+    ],
+    [
+      "railroad company",
+      99
+    ],
+    [
+      "emergency planning",
+      96
+    ],
+    [
+      "inclusive secs",
+      89
+    ],
+    [
+      "foot contour",
+      82
+    ],
+    [
+      "approximately feet",
+      75
+    ],
+    [
+      "railway labor",
+      74
+    ],
+    [
+      "plans programs",
+      74
+    ],
+    [
+      "read follows",
+      73
+    ],
+    [
+      "office emergency",
+      73
+    ],
+    [
+      "certain employees",
+      70
+    ],
+    [
+      "rules regulations",
+      70
+    ],
+    [
+      "south holston",
+      70
+    ],
+    [
+      "presidents committee",
+      68
+    ],
+    [
+      "emergency preparedness",
+      68
+    ],
+    [
+      "national emergency",
+      67
+    ],
+    [
+      "develop plans",
+      66
+    ],
+    [
+      "sss form",
+      64
+    ],
+    [
+      "hereinafter referred",
+      62
+    ],
+    [
+      "feet point",
+      62
+    ],
+    [
+      "top ridge",
+      62
+    ],
+    [
+      "civil commission",
+      60
+    ],
+    [
+      "boundary line",
+      59
+    ],
+    [
+      "national forest",
+      57
+    ],
+    [
+      "described parcel",
+      57
+    ],
+    [
+      "information material",
+      55
+    ],
+    [
+      "holston lake",
+      55
+    ],
+    [
+      "time time",
+      54
+    ],
+    [
+      "railway company",
+      53
+    ],
+    [
+      "feet inch",
+      53
+    ],
+    [
+      "thirty days",
+      52
+    ],
+    [
+      "performance functions",
+      51
+    ],
+    [
+      "americas tvas",
+      51
+    ],
+    [
+      "health education",
+      50
+    ],
+    [
+      "land described",
+      50
+    ],
+    [
+      "attorney general",
+      49
+    ],
+    [
+      "education welfare",
+      48
+    ],
+    [
+      "special representative",
+      47
+    ],
+    [
+      "tvas boundary",
+      47
+    ],
+    [
+      "metal marker",
+      46
+    ],
+    [
+      "emergency plans",
+      45
+    ],
+    [
+      "acres less",
+      44
+    ],
+    [
+      "february john",
+      43
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "john kennedy white",
+      212
+    ],
+    [
+      "kennedy white house",
+      212
+    ],
+    [
+      "secs inclusive secs",
+      85
+    ],
+    [
+      "feet feet feet",
+      82
+    ],
+    [
+      "office emergency planning",
+      73
+    ],
+    [
+      "inclusive secs inclusive",
+      68
+    ],
+    [
+      "south holston lake",
+      55
+    ],
+    [
+      "land described parcel",
+      49
+    ],
+    [
+      "health education welfare",
+      48
+    ],
+    [
+      "tvas boundary line",
+      47
+    ],
+    [
+      "americas tvas boundary",
+      46
+    ],
+    [
+      "february john kennedy",
+      43
+    ],
+    [
+      "point foot contour",
+      42
+    ],
+    [
+      "white house february",
+      41
+    ],
+    [
+      "certain employees represented",
+      39
+    ],
+    [
+      "internal revenue code",
+      36
+    ],
+    [
+      "lands tva forest",
+      35
+    ],
+    [
+      "office civil defense",
+      33
+    ],
+    [
+      "approximately feet point",
+      33
+    ],
+    [
+      "feet metal marker",
+      33
+    ],
+    [
+      "boundary lands tva",
+      33
+    ],
+    [
+      "civil defense mobilization",
+      32
+    ],
+    [
+      "feet point foot",
+      27
+    ],
+    [
+      "expressly excepted excluded",
+      26
+    ],
+    [
+      "described parcel conveyance",
+      26
+    ],
+    [
+      "described parcel giving",
+      26
+    ],
+    [
+      "parcel giving effect",
+      26
+    ],
+    [
+      "giving effect exclusion",
+      26
+    ],
+    [
+      "effect exclusion noted",
+      26
+    ],
+    [
+      "national mediation board",
+      25
+    ]
+  ]
+}

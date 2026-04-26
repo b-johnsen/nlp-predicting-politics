@@ -1,0 +1,530 @@
+{
+  "president": "Andrew_Johnson",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "military",
+      116
+    ],
+    [
+      "andrew",
+      105
+    ],
+    [
+      "johnson",
+      105
+    ],
+    [
+      "aforesaid",
+      73
+    ],
+    [
+      "war",
+      66
+    ],
+    [
+      "majorgeneral",
+      62
+    ],
+    [
+      "day",
+      60
+    ],
+    [
+      "person",
+      59
+    ],
+    [
+      "general",
+      58
+    ],
+    [
+      "office",
+      57
+    ],
+    [
+      "command",
+      54
+    ],
+    [
+      "orders",
+      52
+    ],
+    [
+      "brevet",
+      46
+    ],
+    [
+      "army",
+      43
+    ],
+    [
+      "persons",
+      41
+    ],
+    [
+      "commission",
+      40
+    ],
+    [
+      "district",
+      39
+    ],
+    [
+      "guilty",
+      39
+    ],
+    [
+      "congress",
+      38
+    ],
+    [
+      "john",
+      37
+    ],
+    [
+      "rebellion",
+      36
+    ],
+    [
+      "assistant",
+      33
+    ],
+    [
+      "grant",
+      32
+    ],
+    [
+      "washington",
+      32
+    ],
+    [
+      "officers",
+      30
+    ],
+    [
+      "oath",
+      30
+    ],
+    [
+      "george",
+      29
+    ],
+    [
+      "adjutantgeneral",
+      29
+    ],
+    [
+      "spangler",
+      29
+    ],
+    [
+      "special",
+      28
+    ],
+    [
+      "abraham",
+      27
+    ],
+    [
+      "lincoln",
+      27
+    ],
+    [
+      "officer",
+      27
+    ],
+    [
+      "edward",
+      27
+    ],
+    [
+      "vicepresident",
+      27
+    ],
+    [
+      "electors",
+      27
+    ],
+    [
+      "william",
+      26
+    ],
+    [
+      "samuel",
+      26
+    ],
+    [
+      "acts",
+      25
+    ],
+    [
+      "time",
+      25
+    ],
+    [
+      "adjutantgenerals",
+      24
+    ],
+    [
+      "aid",
+      24
+    ],
+    [
+      "except",
+      24
+    ],
+    [
+      "seward",
+      23
+    ],
+    [
+      "laws",
+      23
+    ],
+    [
+      "march",
+      23
+    ],
+    [
+      "conspiracy",
+      23
+    ],
+    [
+      "election",
+      23
+    ],
+    [
+      "april",
+      22
+    ],
+    [
+      "navy",
+      22
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "andrew johnson",
+      105
+    ],
+    [
+      "brevet majorgeneral",
+      30
+    ],
+    [
+      "abraham lincoln",
+      27
+    ],
+    [
+      "edward spangler",
+      27
+    ],
+    [
+      "adjutantgenerals office",
+      24
+    ],
+    [
+      "assistant adjutantgeneral",
+      24
+    ],
+    [
+      "townsend assistant",
+      21
+    ],
+    [
+      "general grant",
+      19
+    ],
+    [
+      "general orders",
+      19
+    ],
+    [
+      "john wilkes",
+      18
+    ],
+    [
+      "wilkes booth",
+      18
+    ],
+    [
+      "william seward",
+      17
+    ],
+    [
+      "lewis payne",
+      17
+    ],
+    [
+      "michael olaughlin",
+      17
+    ],
+    [
+      "guilty except",
+      17
+    ],
+    [
+      "samuel arnold",
+      15
+    ],
+    [
+      "johnson war",
+      15
+    ],
+    [
+      "combining confederating",
+      15
+    ],
+    [
+      "confederating conspiring",
+      15
+    ],
+    [
+      "kill murder",
+      15
+    ],
+    [
+      "military naval",
+      14
+    ],
+    [
+      "army navy",
+      13
+    ],
+    [
+      "acts congress",
+      13
+    ],
+    [
+      "edwin stanton",
+      13
+    ],
+    [
+      "military district",
+      13
+    ],
+    [
+      "david herold",
+      13
+    ],
+    [
+      "war adjutantgenerals",
+      13
+    ],
+    [
+      "day april",
+      13
+    ],
+    [
+      "military lines",
+      13
+    ],
+    [
+      "except combining",
+      13
+    ],
+    [
+      "conspiring edward",
+      13
+    ],
+    [
+      "spangler guilty",
+      13
+    ],
+    [
+      "headquarters army",
+      12
+    ],
+    [
+      "mary surratt",
+      12
+    ],
+    [
+      "lines aforesaid",
+      12
+    ],
+    [
+      "june andrew",
+      12
+    ],
+    [
+      "ulysses grant",
+      11
+    ],
+    [
+      "johnson headquarters",
+      11
+    ],
+    [
+      "army adjutantgenerals",
+      11
+    ],
+    [
+      "command general",
+      11
+    ],
+    [
+      "north range",
+      11
+    ],
+    [
+      "range west",
+      11
+    ],
+    [
+      "samuel mudd",
+      11
+    ],
+    [
+      "military military",
+      11
+    ],
+    [
+      "stanton war",
+      10
+    ],
+    [
+      "grant townsend",
+      10
+    ],
+    [
+      "george atzerodt",
+      10
+    ],
+    [
+      "special orders",
+      10
+    ],
+    [
+      "refugees freedmen",
+      10
+    ],
+    [
+      "south carolina",
+      9
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "townsend assistant adjutantgeneral",
+      21
+    ],
+    [
+      "john wilkes booth",
+      18
+    ],
+    [
+      "andrew johnson war",
+      15
+    ],
+    [
+      "combining confederating conspiring",
+      15
+    ],
+    [
+      "war adjutantgenerals office",
+      13
+    ],
+    [
+      "except combining confederating",
+      13
+    ],
+    [
+      "confederating conspiring edward",
+      13
+    ],
+    [
+      "conspiring edward spangler",
+      13
+    ],
+    [
+      "edward spangler guilty",
+      13
+    ],
+    [
+      "military lines aforesaid",
+      12
+    ],
+    [
+      "guilty except combining",
+      12
+    ],
+    [
+      "june andrew johnson",
+      12
+    ],
+    [
+      "andrew johnson headquarters",
+      11
+    ],
+    [
+      "johnson headquarters army",
+      11
+    ],
+    [
+      "headquarters army adjutantgenerals",
+      11
+    ],
+    [
+      "army adjutantgenerals office",
+      11
+    ],
+    [
+      "command general grant",
+      11
+    ],
+    [
+      "north range west",
+      11
+    ],
+    [
+      "johnson war adjutantgenerals",
+      11
+    ],
+    [
+      "military military lines",
+      11
+    ],
+    [
+      "edwin stanton war",
+      10
+    ],
+    [
+      "general grant townsend",
+      10
+    ],
+    [
+      "grant townsend assistant",
+      10
+    ],
+    [
+      "assistant adjutantgeneral general",
+      9
+    ],
+    [
+      "adjutantgeneral general orders",
+      9
+    ],
+    [
+      "township north range",
+      9
+    ],
+    [
+      "hon edwin stanton",
+      8
+    ],
+    [
+      "respectfully andrew johnson",
+      8
+    ],
+    [
+      "july andrew johnson",
+      8
+    ],
+    [
+      "commission maturely considered",
+      8
+    ]
+  ]
+}

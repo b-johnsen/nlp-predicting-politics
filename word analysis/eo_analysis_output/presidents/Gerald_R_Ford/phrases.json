@@ -1,0 +1,530 @@
+{
+  "president": "Gerald_R_Ford",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "ford",
+      340
+    ],
+    [
+      "gerald",
+      339
+    ],
+    [
+      "intelligence",
+      229
+    ],
+    [
+      "follows",
+      204
+    ],
+    [
+      "committee",
+      199
+    ],
+    [
+      "national",
+      199
+    ],
+    [
+      "house",
+      199
+    ],
+    [
+      "foreign",
+      193
+    ],
+    [
+      "white",
+      192
+    ],
+    [
+      "commission",
+      191
+    ],
+    [
+      "defense",
+      176
+    ],
+    [
+      "energy",
+      173
+    ],
+    [
+      "appropriate",
+      162
+    ],
+    [
+      "functions",
+      161
+    ],
+    [
+      "board",
+      152
+    ],
+    [
+      "code",
+      149
+    ],
+    [
+      "international",
+      146
+    ],
+    [
+      "provisions",
+      144
+    ],
+    [
+      "general",
+      144
+    ],
+    [
+      "administration",
+      140
+    ],
+    [
+      "regulations",
+      134
+    ],
+    [
+      "information",
+      132
+    ],
+    [
+      "council",
+      127
+    ],
+    [
+      "january",
+      126
+    ],
+    [
+      "services",
+      121
+    ],
+    [
+      "activities",
+      119
+    ],
+    [
+      "administrator",
+      117
+    ],
+    [
+      "office",
+      116
+    ],
+    [
+      "respect",
+      113
+    ],
+    [
+      "trade",
+      109
+    ],
+    [
+      "made",
+      109
+    ],
+    [
+      "health",
+      105
+    ],
+    [
+      "special",
+      103
+    ],
+    [
+      "security",
+      102
+    ],
+    [
+      "chairman",
+      95
+    ],
+    [
+      "necessary",
+      95
+    ],
+    [
+      "october",
+      95
+    ],
+    [
+      "military",
+      92
+    ],
+    [
+      "development",
+      91
+    ],
+    [
+      "members",
+      89
+    ],
+    [
+      "june",
+      88
+    ],
+    [
+      "advisory",
+      88
+    ],
+    [
+      "management",
+      85
+    ],
+    [
+      "read",
+      85
+    ],
+    [
+      "established",
+      84
+    ],
+    [
+      "following",
+      84
+    ],
+    [
+      "authorized",
+      83
+    ],
+    [
+      "representative",
+      82
+    ],
+    [
+      "designated",
+      82
+    ],
+    [
+      "labor",
+      81
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "gerald ford",
+      339
+    ],
+    [
+      "white house",
+      188
+    ],
+    [
+      "ford white",
+      169
+    ],
+    [
+      "read follows",
+      72
+    ],
+    [
+      "foreign intelligence",
+      61
+    ],
+    [
+      "national security",
+      58
+    ],
+    [
+      "office management",
+      55
+    ],
+    [
+      "management budget",
+      55
+    ],
+    [
+      "ford constitution",
+      50
+    ],
+    [
+      "military judge",
+      50
+    ],
+    [
+      "hereinafter referred",
+      49
+    ],
+    [
+      "special representative",
+      46
+    ],
+    [
+      "central intelligence",
+      43
+    ],
+    [
+      "health education",
+      42
+    ],
+    [
+      "education welfare",
+      42
+    ],
+    [
+      "constitution statutes",
+      42
+    ],
+    [
+      "january gerald",
+      41
+    ],
+    [
+      "general services",
+      38
+    ],
+    [
+      "advisory committee",
+      38
+    ],
+    [
+      "research development",
+      37
+    ],
+    [
+      "intelligence community",
+      36
+    ],
+    [
+      "house january",
+      36
+    ],
+    [
+      "energy administration",
+      35
+    ],
+    [
+      "attorney general",
+      35
+    ],
+    [
+      "mandatory retirement",
+      34
+    ],
+    [
+      "energy research",
+      33
+    ],
+    [
+      "code follows",
+      32
+    ],
+    [
+      "administrator energy",
+      32
+    ],
+    [
+      "civil commission",
+      31
+    ],
+    [
+      "rules regulations",
+      30
+    ],
+    [
+      "administrator general",
+      29
+    ],
+    [
+      "extent permitted",
+      28
+    ],
+    [
+      "ford code",
+      28
+    ],
+    [
+      "safety health",
+      28
+    ],
+    [
+      "october gerald",
+      27
+    ],
+    [
+      "certain positions",
+      27
+    ],
+    [
+      "beneficiary developing",
+      26
+    ],
+    [
+      "occupational safety",
+      26
+    ],
+    [
+      "development administration",
+      25
+    ],
+    [
+      "time time",
+      24
+    ],
+    [
+      "generalized system",
+      24
+    ],
+    [
+      "system preferences",
+      24
+    ],
+    [
+      "energy conservation",
+      23
+    ],
+    [
+      "attached hereto",
+      23
+    ],
+    [
+      "hereto made",
+      23
+    ],
+    [
+      "developing countries",
+      23
+    ],
+    [
+      "level schedule",
+      23
+    ],
+    [
+      "placing certain",
+      23
+    ],
+    [
+      "international trade",
+      22
+    ],
+    [
+      "made hereof",
+      22
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "gerald ford white",
+      169
+    ],
+    [
+      "ford white house",
+      169
+    ],
+    [
+      "office management budget",
+      55
+    ],
+    [
+      "gerald ford constitution",
+      50
+    ],
+    [
+      "health education welfare",
+      42
+    ],
+    [
+      "january gerald ford",
+      41
+    ],
+    [
+      "ford constitution statutes",
+      37
+    ],
+    [
+      "white house january",
+      36
+    ],
+    [
+      "energy research development",
+      33
+    ],
+    [
+      "administrator general services",
+      29
+    ],
+    [
+      "gerald ford code",
+      28
+    ],
+    [
+      "october gerald ford",
+      27
+    ],
+    [
+      "occupational safety health",
+      25
+    ],
+    [
+      "research development administration",
+      25
+    ],
+    [
+      "generalized system preferences",
+      24
+    ],
+    [
+      "attached hereto made",
+      23
+    ],
+    [
+      "placing certain positions",
+      23
+    ],
+    [
+      "beneficiary developing countries",
+      22
+    ],
+    [
+      "september gerald ford",
+      22
+    ],
+    [
+      "hereto made hereof",
+      21
+    ],
+    [
+      "june gerald ford",
+      21
+    ],
+    [
+      "administrator energy administration",
+      20
+    ],
+    [
+      "national security council",
+      20
+    ],
+    [
+      "white house september",
+      19
+    ],
+    [
+      "white house october",
+      19
+    ],
+    [
+      "international trade commission",
+      18
+    ],
+    [
+      "december gerald ford",
+      17
+    ],
+    [
+      "amend read follows",
+      17
+    ],
+    [
+      "nuclear regulatory commission",
+      16
+    ],
+    [
+      "assistant economic affairs",
+      16
+    ]
+  ]
+}

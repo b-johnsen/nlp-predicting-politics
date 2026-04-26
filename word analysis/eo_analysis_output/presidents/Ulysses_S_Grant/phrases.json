@@ -1,0 +1,530 @@
+{
+  "president": "Ulysses_S_Grant",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "thence",
+      238
+    ],
+    [
+      "grant",
+      194
+    ],
+    [
+      "indian",
+      172
+    ],
+    [
+      "river",
+      160
+    ],
+    [
+      "reservation",
+      157
+    ],
+    [
+      "south",
+      122
+    ],
+    [
+      "ulysses",
+      110
+    ],
+    [
+      "north",
+      104
+    ],
+    [
+      "east",
+      99
+    ],
+    [
+      "point",
+      99
+    ],
+    [
+      "indians",
+      94
+    ],
+    [
+      "affairs",
+      93
+    ],
+    [
+      "west",
+      86
+    ],
+    [
+      "line",
+      83
+    ],
+    [
+      "office",
+      82
+    ],
+    [
+      "beginning",
+      75
+    ],
+    [
+      "territory",
+      74
+    ],
+    [
+      "place",
+      74
+    ],
+    [
+      "apart",
+      73
+    ],
+    [
+      "source",
+      72
+    ],
+    [
+      "mansion",
+      70
+    ],
+    [
+      "laws",
+      70
+    ],
+    [
+      "washington",
+      68
+    ],
+    [
+      "treaties",
+      65
+    ],
+    [
+      "kappler",
+      64
+    ],
+    [
+      "gpo",
+      64
+    ],
+    [
+      "township",
+      63
+    ],
+    [
+      "due",
+      63
+    ],
+    [
+      "range",
+      62
+    ],
+    [
+      "country",
+      62
+    ],
+    [
+      "military",
+      61
+    ],
+    [
+      "made",
+      58
+    ],
+    [
+      "along",
+      56
+    ],
+    [
+      "march",
+      54
+    ],
+    [
+      "tract",
+      54
+    ],
+    [
+      "miles",
+      54
+    ],
+    [
+      "boundary",
+      54
+    ],
+    [
+      "departments",
+      54
+    ],
+    [
+      "general",
+      52
+    ],
+    [
+      "following",
+      50
+    ],
+    [
+      "lands",
+      47
+    ],
+    [
+      "district",
+      47
+    ],
+    [
+      "sale",
+      46
+    ],
+    [
+      "viz",
+      45
+    ],
+    [
+      "war",
+      44
+    ],
+    [
+      "persons",
+      43
+    ],
+    [
+      "rules",
+      42
+    ],
+    [
+      "day",
+      42
+    ],
+    [
+      "army",
+      42
+    ],
+    [
+      "board",
+      41
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "ulysses grant",
+      110
+    ],
+    [
+      "indian affairs",
+      91
+    ],
+    [
+      "grant source",
+      64
+    ],
+    [
+      "source kappler",
+      64
+    ],
+    [
+      "kappler indian",
+      64
+    ],
+    [
+      "affairs laws",
+      64
+    ],
+    [
+      "laws treaties",
+      64
+    ],
+    [
+      "treaties gpo",
+      64
+    ],
+    [
+      "indian reservation",
+      53
+    ],
+    [
+      "grant mansion",
+      53
+    ],
+    [
+      "place beginning",
+      52
+    ],
+    [
+      "tract country",
+      46
+    ],
+    [
+      "thence due",
+      42
+    ],
+    [
+      "river thence",
+      42
+    ],
+    [
+      "withdrawn sale",
+      35
+    ],
+    [
+      "range east",
+      34
+    ],
+    [
+      "brevet majorgeneral",
+      32
+    ],
+    [
+      "township south",
+      29
+    ],
+    [
+      "south range",
+      29
+    ],
+    [
+      "thence south",
+      26
+    ],
+    [
+      "viz commencing",
+      25
+    ],
+    [
+      "sections township",
+      21
+    ],
+    [
+      "thence north",
+      21
+    ],
+    [
+      "sale apart",
+      20
+    ],
+    [
+      "thence west",
+      19
+    ],
+    [
+      "march ulysses",
+      19
+    ],
+    [
+      "north range",
+      18
+    ],
+    [
+      "due east",
+      18
+    ],
+    [
+      "due south",
+      18
+    ],
+    [
+      "general orders",
+      18
+    ],
+    [
+      "adjutantgenerals office",
+      18
+    ],
+    [
+      "apart use",
+      18
+    ],
+    [
+      "colorado river",
+      17
+    ],
+    [
+      "commissioner indian",
+      16
+    ],
+    [
+      "commencing point",
+      16
+    ],
+    [
+      "south bank",
+      16
+    ],
+    [
+      "military reservation",
+      16
+    ],
+    [
+      "thence along",
+      16
+    ],
+    [
+      "east sections",
+      15
+    ],
+    [
+      "obedient servant",
+      15
+    ],
+    [
+      "missouri river",
+      15
+    ],
+    [
+      "rules regulations",
+      15
+    ],
+    [
+      "white mountain",
+      15
+    ],
+    [
+      "restored domain",
+      15
+    ],
+    [
+      "military district",
+      15
+    ],
+    [
+      "new mexico",
+      14
+    ],
+    [
+      "due north",
+      14
+    ],
+    [
+      "thence east",
+      14
+    ],
+    [
+      "hamilton fish",
+      14
+    ],
+    [
+      "heads departments",
+      14
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "grant source kappler",
+      64
+    ],
+    [
+      "source kappler indian",
+      64
+    ],
+    [
+      "kappler indian affairs",
+      64
+    ],
+    [
+      "indian affairs laws",
+      64
+    ],
+    [
+      "affairs laws treaties",
+      64
+    ],
+    [
+      "laws treaties gpo",
+      64
+    ],
+    [
+      "ulysses grant mansion",
+      53
+    ],
+    [
+      "township south range",
+      28
+    ],
+    [
+      "south range east",
+      27
+    ],
+    [
+      "march ulysses grant",
+      19
+    ],
+    [
+      "withdrawn sale apart",
+      18
+    ],
+    [
+      "commissioner indian affairs",
+      16
+    ],
+    [
+      "range east sections",
+      15
+    ],
+    [
+      "viz commencing point",
+      15
+    ],
+    [
+      "thence due east",
+      14
+    ],
+    [
+      "ulysses grant general",
+      14
+    ],
+    [
+      "headquarters army adjutantgenerals",
+      14
+    ],
+    [
+      "army adjutantgenerals office",
+      14
+    ],
+    [
+      "tract country territory",
+      13
+    ],
+    [
+      "place beginning grant",
+      13
+    ],
+    [
+      "beginning grant source",
+      13
+    ],
+    [
+      "restored domain grant",
+      13
+    ],
+    [
+      "domain grant source",
+      13
+    ],
+    [
+      "grant general orders",
+      13
+    ],
+    [
+      "november ulysses grant",
+      13
+    ],
+    [
+      "township north range",
+      12
+    ],
+    [
+      "orders headquarters army",
+      12
+    ],
+    [
+      "october ulysses grant",
+      12
+    ],
+    [
+      "valley indian reservation",
+      11
+    ],
+    [
+      "thence due north",
+      11
+    ]
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "president": "Jimmy_Carter",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "office",
+      806
+    ],
+    [
+      "commission",
+      667
+    ],
+    [
+      "functions",
+      649
+    ],
+    [
+      "jimmy",
+      638
+    ],
+    [
+      "carter",
+      638
+    ],
+    [
+      "information",
+      592
+    ],
+    [
+      "general",
+      532
+    ],
+    [
+      "committee",
+      487
+    ],
+    [
+      "council",
+      476
+    ],
+    [
+      "rule",
+      452
+    ],
+    [
+      "house",
+      431
+    ],
+    [
+      "evidence",
+      416
+    ],
+    [
+      "intelligence",
+      414
+    ],
+    [
+      "white",
+      410
+    ],
+    [
+      "foreign",
+      409
+    ],
+    [
+      "management",
+      393
+    ],
+    [
+      "provisions",
+      387
+    ],
+    [
+      "military",
+      387
+    ],
+    [
+      "national",
+      382
+    ],
+    [
+      "defense",
+      365
+    ],
+    [
+      "follows",
+      364
+    ],
+    [
+      "register",
+      349
+    ],
+    [
+      "members",
+      345
+    ],
+    [
+      "made",
+      339
+    ],
+    [
+      "filed",
+      310
+    ],
+    [
+      "appropriate",
+      309
+    ],
+    [
+      "regulations",
+      286
+    ],
+    [
+      "person",
+      277
+    ],
+    [
+      "services",
+      274
+    ],
+    [
+      "effective",
+      260
+    ],
+    [
+      "development",
+      254
+    ],
+    [
+      "necessary",
+      252
+    ],
+    [
+      "judge",
+      251
+    ],
+    [
+      "code",
+      248
+    ],
+    [
+      "procedures",
+      244
+    ],
+    [
+      "energy",
+      239
+    ],
+    [
+      "administrator",
+      237
+    ],
+    [
+      "delegated",
+      237
+    ],
+    [
+      "january",
+      236
+    ],
+    [
+      "security",
+      235
+    ],
+    [
+      "activities",
+      234
+    ],
+    [
+      "accused",
+      233
+    ],
+    [
+      "authorized",
+      231
+    ],
+    [
+      "except",
+      231
+    ],
+    [
+      "report",
+      229
+    ],
+    [
+      "administration",
+      226
+    ],
+    [
+      "international",
+      223
+    ],
+    [
+      "programs",
+      222
+    ],
+    [
+      "subject",
+      220
+    ],
+    [
+      "budget",
+      219
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "jimmy carter",
+      638
+    ],
+    [
+      "white house",
+      408
+    ],
+    [
+      "carter white",
+      317
+    ],
+    [
+      "filed office",
+      302
+    ],
+    [
+      "office register",
+      300
+    ],
+    [
+      "military judge",
+      222
+    ],
+    [
+      "office management",
+      171
+    ],
+    [
+      "management budget",
+      171
+    ],
+    [
+      "attorney general",
+      165
+    ],
+    [
+      "advisory committee",
+      137
+    ],
+    [
+      "national security",
+      131
+    ],
+    [
+      "constitution statutes",
+      118
+    ],
+    [
+      "foreign intelligence",
+      110
+    ],
+    [
+      "carter constitution",
+      108
+    ],
+    [
+      "reorganization plan",
+      102
+    ],
+    [
+      "general services",
+      100
+    ],
+    [
+      "central intelligence",
+      96
+    ],
+    [
+      "classified information",
+      89
+    ],
+    [
+      "extent permitted",
+      85
+    ],
+    [
+      "administrator general",
+      71
+    ],
+    [
+      "equal employment",
+      71
+    ],
+    [
+      "committee app",
+      70
+    ],
+    [
+      "read follows",
+      66
+    ],
+    [
+      "employment opportunity",
+      65
+    ],
+    [
+      "emergency management",
+      64
+    ],
+    [
+      "house press",
+      62
+    ],
+    [
+      "armed forces",
+      59
+    ],
+    [
+      "effective date",
+      57
+    ],
+    [
+      "hereinafter referred",
+      57
+    ],
+    [
+      "housing urban",
+      56
+    ],
+    [
+      "urban development",
+      56
+    ],
+    [
+      "intelligence community",
+      56
+    ],
+    [
+      "personnel management",
+      55
+    ],
+    [
+      "functions delegated",
+      54
+    ],
+    [
+      "made hereof",
+      53
+    ],
+    [
+      "general rule",
+      53
+    ],
+    [
+      "national foreign",
+      52
+    ],
+    [
+      "civil commission",
+      51
+    ],
+    [
+      "attached hereto",
+      51
+    ],
+    [
+      "hereto made",
+      51
+    ],
+    [
+      "january jimmy",
+      51
+    ],
+    [
+      "presidents commission",
+      49
+    ],
+    [
+      "small business",
+      48
+    ],
+    [
+      "rules regulations",
+      48
+    ],
+    [
+      "international development",
+      47
+    ],
+    [
+      "text released",
+      47
+    ],
+    [
+      "general provisions",
+      47
+    ],
+    [
+      "office personnel",
+      47
+    ],
+    [
+      "claim privilege",
+      47
+    ],
+    [
+      "follows establishment",
+      45
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "jimmy carter white",
+      317
+    ],
+    [
+      "carter white house",
+      316
+    ],
+    [
+      "filed office register",
+      300
+    ],
+    [
+      "office management budget",
+      171
+    ],
+    [
+      "jimmy carter constitution",
+      108
+    ],
+    [
+      "administrator general services",
+      71
+    ],
+    [
+      "advisory committee app",
+      70
+    ],
+    [
+      "equal employment opportunity",
+      65
+    ],
+    [
+      "white house press",
+      62
+    ],
+    [
+      "carter constitution statutes",
+      56
+    ],
+    [
+      "housing urban development",
+      56
+    ],
+    [
+      "attached hereto made",
+      51
+    ],
+    [
+      "january jimmy carter",
+      51
+    ],
+    [
+      "national foreign intelligence",
+      51
+    ],
+    [
+      "hereto made hereof",
+      50
+    ],
+    [
+      "office personnel management",
+      47
+    ],
+    [
+      "health education welfare",
+      44
+    ],
+    [
+      "white house january",
+      44
+    ],
+    [
+      "december jimmy carter",
+      43
+    ],
+    [
+      "note text released",
+      42
+    ],
+    [
+      "office register january",
+      40
+    ],
+    [
+      "house january filed",
+      39
+    ],
+    [
+      "january filed office",
+      39
+    ],
+    [
+      "september jimmy carter",
+      37
+    ],
+    [
+      "white house december",
+      37
+    ],
+    [
+      "december filed office",
+      37
+    ],
+    [
+      "functions advisory committee",
+      36
+    ],
+    [
+      "house december filed",
+      36
+    ],
+    [
+      "employment opportunity commission",
+      36
+    ],
+    [
+      "national security council",
+      36
+    ]
+  ]
+}

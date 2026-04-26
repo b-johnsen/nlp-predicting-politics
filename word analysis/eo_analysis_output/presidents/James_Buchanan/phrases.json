@@ -1,0 +1,530 @@
+{
+  "president": "James_Buchanan",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "navy",
+      6
+    ],
+    [
+      "war",
+      5
+    ],
+    [
+      "march",
+      3
+    ],
+    [
+      "general",
+      3
+    ],
+    [
+      "day",
+      3
+    ],
+    [
+      "washington",
+      2
+    ],
+    [
+      "announces",
+      2
+    ],
+    [
+      "army",
+      2
+    ],
+    [
+      "hon",
+      2
+    ],
+    [
+      "brown",
+      2
+    ],
+    [
+      "postmastergeneral",
+      2
+    ],
+    [
+      "city",
+      2
+    ],
+    [
+      "statesman",
+      2
+    ],
+    [
+      "distinguished",
+      2
+    ],
+    [
+      "post",
+      2
+    ],
+    [
+      "left",
+      2
+    ],
+    [
+      "great",
+      2
+    ],
+    [
+      "every",
+      2
+    ],
+    [
+      "respect",
+      2
+    ],
+    [
+      "national",
+      2
+    ],
+    [
+      "guns",
+      2
+    ],
+    [
+      "fired",
+      2
+    ],
+    [
+      "sunrise",
+      2
+    ],
+    [
+      "sunset",
+      2
+    ],
+    [
+      "military",
+      2
+    ],
+    [
+      "succeeding",
+      2
+    ],
+    [
+      "receipt",
+      2
+    ],
+    [
+      "officers",
+      2
+    ],
+    [
+      "wear",
+      2
+    ],
+    [
+      "mourning",
+      2
+    ],
+    [
+      "closed",
+      2
+    ],
+    [
+      "funeral",
+      2
+    ],
+    [
+      "marine",
+      2
+    ],
+    [
+      "corps",
+      2
+    ],
+    [
+      "james",
+      1
+    ],
+    [
+      "buchanan",
+      1
+    ],
+    [
+      "instructions",
+      1
+    ],
+    [
+      "unfeigned",
+      1
+    ],
+    [
+      "sorrow",
+      1
+    ],
+    [
+      "decease",
+      1
+    ],
+    [
+      "occurred",
+      1
+    ],
+    [
+      "early",
+      1
+    ],
+    [
+      "hour",
+      1
+    ],
+    [
+      "morning",
+      1
+    ],
+    [
+      "enlightened",
+      1
+    ],
+    [
+      "able",
+      1
+    ],
+    [
+      "member",
+      1
+    ],
+    [
+      "thus",
+      1
+    ],
+    [
+      "stricken",
+      1
+    ],
+    [
+      "nation",
+      1
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "brown postmastergeneral",
+      2
+    ],
+    [
+      "guns fired",
+      2
+    ],
+    [
+      "sunrise sunset",
+      2
+    ],
+    [
+      "day succeeding",
+      2
+    ],
+    [
+      "navy marine",
+      2
+    ],
+    [
+      "marine corps",
+      2
+    ],
+    [
+      "march james",
+      1
+    ],
+    [
+      "james buchanan",
+      1
+    ],
+    [
+      "buchanan general",
+      1
+    ],
+    [
+      "general war",
+      1
+    ],
+    [
+      "war washington",
+      1
+    ],
+    [
+      "washington march",
+      1
+    ],
+    [
+      "march instructions",
+      1
+    ],
+    [
+      "instructions war",
+      1
+    ],
+    [
+      "war unfeigned",
+      1
+    ],
+    [
+      "unfeigned sorrow",
+      1
+    ],
+    [
+      "sorrow announces",
+      1
+    ],
+    [
+      "announces army",
+      1
+    ],
+    [
+      "army decease",
+      1
+    ],
+    [
+      "decease hon",
+      1
+    ],
+    [
+      "hon brown",
+      1
+    ],
+    [
+      "postmastergeneral occurred",
+      1
+    ],
+    [
+      "occurred city",
+      1
+    ],
+    [
+      "city early",
+      1
+    ],
+    [
+      "early hour",
+      1
+    ],
+    [
+      "hour morning",
+      1
+    ],
+    [
+      "morning enlightened",
+      1
+    ],
+    [
+      "enlightened statesman",
+      1
+    ],
+    [
+      "statesman distinguished",
+      1
+    ],
+    [
+      "distinguished able",
+      1
+    ],
+    [
+      "able member",
+      1
+    ],
+    [
+      "member general",
+      1
+    ],
+    [
+      "general thus",
+      1
+    ],
+    [
+      "thus stricken",
+      1
+    ],
+    [
+      "stricken post",
+      1
+    ],
+    [
+      "post nation",
+      1
+    ],
+    [
+      "nation mourn",
+      1
+    ],
+    [
+      "mourn afflicting",
+      1
+    ],
+    [
+      "afflicting dispensation",
+      1
+    ],
+    [
+      "dispensation left",
+      1
+    ],
+    [
+      "left great",
+      1
+    ],
+    [
+      "great void",
+      1
+    ],
+    [
+      "void councils",
+      1
+    ],
+    [
+      "councils worthy",
+      1
+    ],
+    [
+      "worthy estimable",
+      1
+    ],
+    [
+      "estimable citizen",
+      1
+    ],
+    [
+      "citizen removed",
+      1
+    ],
+    [
+      "removed circle",
+      1
+    ],
+    [
+      "circle numerous",
+      1
+    ],
+    [
+      "numerous friends",
+      1
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "navy marine corps",
+      2
+    ],
+    [
+      "march james buchanan",
+      1
+    ],
+    [
+      "james buchanan general",
+      1
+    ],
+    [
+      "buchanan general war",
+      1
+    ],
+    [
+      "general war washington",
+      1
+    ],
+    [
+      "war washington march",
+      1
+    ],
+    [
+      "washington march instructions",
+      1
+    ],
+    [
+      "march instructions war",
+      1
+    ],
+    [
+      "instructions war unfeigned",
+      1
+    ],
+    [
+      "war unfeigned sorrow",
+      1
+    ],
+    [
+      "unfeigned sorrow announces",
+      1
+    ],
+    [
+      "sorrow announces army",
+      1
+    ],
+    [
+      "announces army decease",
+      1
+    ],
+    [
+      "army decease hon",
+      1
+    ],
+    [
+      "decease hon brown",
+      1
+    ],
+    [
+      "hon brown postmastergeneral",
+      1
+    ],
+    [
+      "brown postmastergeneral occurred",
+      1
+    ],
+    [
+      "postmastergeneral occurred city",
+      1
+    ],
+    [
+      "occurred city early",
+      1
+    ],
+    [
+      "city early hour",
+      1
+    ],
+    [
+      "early hour morning",
+      1
+    ],
+    [
+      "hour morning enlightened",
+      1
+    ],
+    [
+      "morning enlightened statesman",
+      1
+    ],
+    [
+      "enlightened statesman distinguished",
+      1
+    ],
+    [
+      "statesman distinguished able",
+      1
+    ],
+    [
+      "distinguished able member",
+      1
+    ],
+    [
+      "able member general",
+      1
+    ],
+    [
+      "member general thus",
+      1
+    ],
+    [
+      "general thus stricken",
+      1
+    ],
+    [
+      "thus stricken post",
+      1
+    ]
+  ]
+}

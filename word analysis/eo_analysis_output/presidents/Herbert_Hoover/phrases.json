@@ -1,0 +1,530 @@
+{
+  "president": "Herbert_Hoover",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "hoover",
+      2016
+    ],
+    [
+      "herbert",
+      2014
+    ],
+    [
+      "lands",
+      1155
+    ],
+    [
+      "house",
+      1034
+    ],
+    [
+      "white",
+      1025
+    ],
+    [
+      "june",
+      790
+    ],
+    [
+      "corner",
+      760
+    ],
+    [
+      "feet",
+      753
+    ],
+    [
+      "thence",
+      752
+    ],
+    [
+      "lot",
+      728
+    ],
+    [
+      "congress",
+      631
+    ],
+    [
+      "marked",
+      590
+    ],
+    [
+      "land",
+      568
+    ],
+    [
+      "meridian",
+      531
+    ],
+    [
+      "secs",
+      520
+    ],
+    [
+      "point",
+      501
+    ],
+    [
+      "subject",
+      476
+    ],
+    [
+      "lots",
+      475
+    ],
+    [
+      "revoked",
+      475
+    ],
+    [
+      "august",
+      464
+    ],
+    [
+      "beginning",
+      460
+    ],
+    [
+      "entry",
+      434
+    ],
+    [
+      "along",
+      433
+    ],
+    [
+      "officers",
+      427
+    ],
+    [
+      "described",
+      411
+    ],
+    [
+      "line",
+      397
+    ],
+    [
+      "february",
+      391
+    ],
+    [
+      "march",
+      384
+    ],
+    [
+      "date",
+      381
+    ],
+    [
+      "july",
+      376
+    ],
+    [
+      "national",
+      368
+    ],
+    [
+      "consular",
+      365
+    ],
+    [
+      "provisions",
+      361
+    ],
+    [
+      "regulations",
+      352
+    ],
+    [
+      "officer",
+      352
+    ],
+    [
+      "resurvey",
+      351
+    ],
+    [
+      "station",
+      345
+    ],
+    [
+      "period",
+      341
+    ],
+    [
+      "chs",
+      340
+    ],
+    [
+      "bears",
+      338
+    ],
+    [
+      "rules",
+      335
+    ],
+    [
+      "withdrawal",
+      331
+    ],
+    [
+      "foreign",
+      331
+    ],
+    [
+      "without",
+      326
+    ],
+    [
+      "following",
+      325
+    ],
+    [
+      "forest",
+      315
+    ],
+    [
+      "december",
+      311
+    ],
+    [
+      "general",
+      311
+    ],
+    [
+      "made",
+      309
+    ],
+    [
+      "inclusive",
+      306
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "herbert hoover",
+      2014
+    ],
+    [
+      "white house",
+      1007
+    ],
+    [
+      "hoover white",
+      1001
+    ],
+    [
+      "lot lot",
+      471
+    ],
+    [
+      "secs inclusive",
+      242
+    ],
+    [
+      "national forest",
+      241
+    ],
+    [
+      "force effect",
+      214
+    ],
+    [
+      "full force",
+      213
+    ],
+    [
+      "revoked congress",
+      210
+    ],
+    [
+      "withdrawal lands",
+      206
+    ],
+    [
+      "effect unless",
+      206
+    ],
+    [
+      "unless revoked",
+      205
+    ],
+    [
+      "congress herbert",
+      205
+    ],
+    [
+      "feet along",
+      205
+    ],
+    [
+      "lots lots",
+      203
+    ],
+    [
+      "pending resurvey",
+      199
+    ],
+    [
+      "congress june",
+      196
+    ],
+    [
+      "continue full",
+      193
+    ],
+    [
+      "june august",
+      189
+    ],
+    [
+      "new mexico",
+      176
+    ],
+    [
+      "settlement location",
+      175
+    ],
+    [
+      "withdrawn settlement",
+      174
+    ],
+    [
+      "location sale",
+      174
+    ],
+    [
+      "sale entry",
+      174
+    ],
+    [
+      "secs secs",
+      171
+    ],
+    [
+      "principal meridian",
+      170
+    ],
+    [
+      "distant marked",
+      166
+    ],
+    [
+      "bears lks",
+      163
+    ],
+    [
+      "lks distant",
+      163
+    ],
+    [
+      "inclusive secs",
+      162
+    ],
+    [
+      "hoover congress",
+      157
+    ],
+    [
+      "concrete monument",
+      155
+    ],
+    [
+      "hereinafter described",
+      151
+    ],
+    [
+      "subject conditions",
+      142
+    ],
+    [
+      "chs chs",
+      140
+    ],
+    [
+      "civil rules",
+      139
+    ],
+    [
+      "marked whs",
+      137
+    ],
+    [
+      "station marked",
+      135
+    ],
+    [
+      "lands hereinafter",
+      131
+    ],
+    [
+      "military reservation",
+      131
+    ],
+    [
+      "corner meander",
+      130
+    ],
+    [
+      "meander corner",
+      128
+    ],
+    [
+      "diam bears",
+      123
+    ],
+    [
+      "subject valid",
+      122
+    ],
+    [
+      "affects lands",
+      120
+    ],
+    [
+      "beginning containing",
+      120
+    ],
+    [
+      "february herbert",
+      120
+    ],
+    [
+      "described revoked",
+      119
+    ],
+    [
+      "page jpg",
+      114
+    ],
+    [
+      "without regard",
+      113
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "herbert hoover white",
+      1001
+    ],
+    [
+      "hoover white house",
+      1001
+    ],
+    [
+      "lot lot lot",
+      422
+    ],
+    [
+      "full force effect",
+      211
+    ],
+    [
+      "force effect unless",
+      205
+    ],
+    [
+      "unless revoked congress",
+      205
+    ],
+    [
+      "congress herbert hoover",
+      205
+    ],
+    [
+      "effect unless revoked",
+      204
+    ],
+    [
+      "revoked congress herbert",
+      203
+    ],
+    [
+      "continue full force",
+      193
+    ],
+    [
+      "settlement location sale",
+      174
+    ],
+    [
+      "location sale entry",
+      173
+    ],
+    [
+      "withdrawn settlement location",
+      167
+    ],
+    [
+      "herbert hoover congress",
+      157
+    ],
+    [
+      "bears lks distant",
+      157
+    ],
+    [
+      "secs inclusive secs",
+      156
+    ],
+    [
+      "lands hereinafter described",
+      129
+    ],
+    [
+      "inclusive secs inclusive",
+      128
+    ],
+    [
+      "corner meander corner",
+      121
+    ],
+    [
+      "february herbert hoover",
+      120
+    ],
+    [
+      "affects lands hereinafter",
+      119
+    ],
+    [
+      "hereinafter described revoked",
+      119
+    ],
+    [
+      "lks distant marked",
+      113
+    ],
+    [
+      "white house february",
+      113
+    ],
+    [
+      "june august subject",
+      112
+    ],
+    [
+      "lots lots lots",
+      110
+    ],
+    [
+      "page jpg page",
+      109
+    ],
+    [
+      "jpg page jpg",
+      109
+    ],
+    [
+      "august subject conditions",
+      108
+    ],
+    [
+      "diam bears lks",
+      107
+    ]
+  ]
+}

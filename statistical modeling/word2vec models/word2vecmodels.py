@@ -207,8 +207,9 @@ def load_big_model():
     )
 
 def run_experiment(folder, embedding_model, model_name="model", tfidf_vectorizer=None):
-    train_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/train")
-    test_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/test")
+    # currently using modern
+    train_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/train")
+    test_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/test")
 
     train_df = load_text_dataset(
         train_path / "democrat",
@@ -247,14 +248,14 @@ def run_experiment(folder, embedding_model, model_name="model", tfidf_vectorizer
 def main():
     folder = Path("nlp-predicting-politics/statistical modeling/word2vec models/word2vec results")
 
-    train_path = Path("nlp-predicting-politics/clean_data/clean_eo_split/train")
+    train_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/train")
     train_df = load_text_dataset(
         train_path / "democrat",
         train_path / "republican"
     )
 
     # small word2vec
-    small_model_path = folder / "word2vec_small.model"
+    small_model_path = folder / "modern_word2vec_small.model"
     small_model = load_small_model(train_df, small_model_path)
 
     big_model = load_big_model()
@@ -277,7 +278,7 @@ def main():
     print("\n===== COMBINED RESULTS =====")
     print(all_results)
 
-    all_results.to_csv(folder / "embedding_comparison_results.csv", index=False)
+    all_results.to_csv(folder / "modern_embedding_comparison_results.csv", index=False)
 
 if __name__ == "__main__":
   nltk.download('punkt')

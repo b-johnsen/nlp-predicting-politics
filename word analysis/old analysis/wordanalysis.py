@@ -114,7 +114,7 @@ CUSTOM_STOPS = {
     "act", "law", "provision", "title", "chapter", "paragraph",
     "provide", "provides", "provided", "including", "include",
     "said", "secretary", "ordered", "approved", "director", "stat", "authority", "pursuant",
-    "vested", "amended", "public", "usc", "service", "virtue"
+    "vested", "amended", "public", "usc", "service", "virtue", "policy", "within"
 }
 
 
@@ -234,16 +234,12 @@ def plot_phrase_heatmap(phrase_matrix: pd.DataFrame, title: str, out_path: Path,
     plt.close(fig)
 
 
-# ═══════════════════════════════════════════════════════════════════════════════
-# MAIN ANALYSIS
-# ═══════════════════════════════════════════════════════════════════════════════
-
 def main():
-    print("\n📂  Loading executive orders …")
+    print("\nLoading executive orders …")
     president_texts = load_president_texts(DATA_DIR)
 
     # ── tokenise every president ──────────────────────────────────────────────
-    print("\n🔤  Tokenising …")
+    print("\nTokenising …")
     president_tokens: dict[str, list[str]] = {}
     for slug, raw in president_texts.items():
         president_tokens[slug] = tokenize(clean_text(raw))
@@ -256,10 +252,8 @@ def main():
         party_tokens[party].extend(tokens)
         party_raw[party] += " " + president_texts[slug]
 
-    # ─────────────────────────────────────────────────────────────────────────
     # PER-PRESIDENT ANALYSIS
-    # ─────────────────────────────────────────────────────────────────────────
-    print("\n📊  Generating per-president charts …")
+    print("\nGenerating per-president charts …")
     bigram_all: dict[str, Counter] = {}
 
     for slug, tokens in president_tokens.items():

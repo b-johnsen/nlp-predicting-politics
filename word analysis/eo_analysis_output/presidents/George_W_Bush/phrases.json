@@ -1,0 +1,530 @@
+{
+  "president": "George_W_Bush",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "security",
+      1007
+    ],
+    [
+      "information",
+      943
+    ],
+    [
+      "national",
+      865
+    ],
+    [
+      "office",
+      849
+    ],
+    [
+      "intelligence",
+      628
+    ],
+    [
+      "george",
+      615
+    ],
+    [
+      "bush",
+      615
+    ],
+    [
+      "appropriate",
+      588
+    ],
+    [
+      "person",
+      510
+    ],
+    [
+      "register",
+      497
+    ],
+    [
+      "council",
+      481
+    ],
+    [
+      "functions",
+      466
+    ],
+    [
+      "homeland",
+      466
+    ],
+    [
+      "management",
+      445
+    ],
+    [
+      "departments",
+      444
+    ],
+    [
+      "inserting",
+      414
+    ],
+    [
+      "general",
+      411
+    ],
+    [
+      "services",
+      409
+    ],
+    [
+      "laws",
+      385
+    ],
+    [
+      "follows",
+      385
+    ],
+    [
+      "house",
+      374
+    ],
+    [
+      "white",
+      367
+    ],
+    [
+      "consistent",
+      361
+    ],
+    [
+      "officers",
+      340
+    ],
+    [
+      "property",
+      337
+    ],
+    [
+      "means",
+      322
+    ],
+    [
+      "activities",
+      318
+    ],
+    [
+      "community",
+      318
+    ],
+    [
+      "members",
+      313
+    ],
+    [
+      "published",
+      311
+    ],
+    [
+      "employees",
+      310
+    ],
+    [
+      "constitution",
+      309
+    ],
+    [
+      "emergency",
+      309
+    ],
+    [
+      "foreign",
+      302
+    ],
+    [
+      "extent",
+      293
+    ],
+    [
+      "support",
+      292
+    ],
+    [
+      "persons",
+      292
+    ],
+    [
+      "programs",
+      291
+    ],
+    [
+      "note",
+      290
+    ],
+    [
+      "striking",
+      290
+    ],
+    [
+      "lieu",
+      288
+    ],
+    [
+      "board",
+      284
+    ],
+    [
+      "report",
+      278
+    ],
+    [
+      "defense",
+      278
+    ],
+    [
+      "respect",
+      274
+    ],
+    [
+      "provisions",
+      272
+    ],
+    [
+      "intended",
+      268
+    ],
+    [
+      "committee",
+      267
+    ],
+    [
+      "date",
+      266
+    ],
+    [
+      "december",
+      256
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "george bush",
+      615
+    ],
+    [
+      "homeland security",
+      459
+    ],
+    [
+      "white house",
+      367
+    ],
+    [
+      "published register",
+      306
+    ],
+    [
+      "constitution laws",
+      297
+    ],
+    [
+      "bush white",
+      289
+    ],
+    [
+      "national security",
+      284
+    ],
+    [
+      "bush constitution",
+      279
+    ],
+    [
+      "officers employees",
+      204
+    ],
+    [
+      "note published",
+      195
+    ],
+    [
+      "task force",
+      194
+    ],
+    [
+      "attorney general",
+      184
+    ],
+    [
+      "substantive procedural",
+      181
+    ],
+    [
+      "procedural enforceable",
+      175
+    ],
+    [
+      "create right",
+      169
+    ],
+    [
+      "filed office",
+      169
+    ],
+    [
+      "office register",
+      169
+    ],
+    [
+      "right benefit",
+      166
+    ],
+    [
+      "intended create",
+      164
+    ],
+    [
+      "enforceable equity",
+      158
+    ],
+    [
+      "extent permitted",
+      156
+    ],
+    [
+      "entities officers",
+      151
+    ],
+    [
+      "management budget",
+      150
+    ],
+    [
+      "office management",
+      149
+    ],
+    [
+      "inserting lieu",
+      146
+    ],
+    [
+      "equity party",
+      132
+    ],
+    [
+      "benefit substantive",
+      131
+    ],
+    [
+      "inserting homeland",
+      131
+    ],
+    [
+      "read follows",
+      126
+    ],
+    [
+      "intelligence community",
+      126
+    ],
+    [
+      "national emergency",
+      121
+    ],
+    [
+      "person george",
+      116
+    ],
+    [
+      "working group",
+      114
+    ],
+    [
+      "health human",
+      106
+    ],
+    [
+      "human services",
+      106
+    ],
+    [
+      "consistent applicable",
+      105
+    ],
+    [
+      "party departments",
+      100
+    ],
+    [
+      "central intelligence",
+      98
+    ],
+    [
+      "property interests",
+      96
+    ],
+    [
+      "interests property",
+      95
+    ],
+    [
+      "faithbased community",
+      95
+    ],
+    [
+      "armed forces",
+      93
+    ],
+    [
+      "classified information",
+      91
+    ],
+    [
+      "employees person",
+      90
+    ],
+    [
+      "employees agents",
+      85
+    ],
+    [
+      "agents person",
+      82
+    ],
+    [
+      "emergency declared",
+      82
+    ],
+    [
+      "instrumentalities entities",
+      82
+    ],
+    [
+      "subject availability",
+      81
+    ],
+    [
+      "heads departments",
+      80
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "george bush white",
+      289
+    ],
+    [
+      "bush white house",
+      289
+    ],
+    [
+      "george bush constitution",
+      279
+    ],
+    [
+      "bush constitution laws",
+      279
+    ],
+    [
+      "note published register",
+      195
+    ],
+    [
+      "substantive procedural enforceable",
+      175
+    ],
+    [
+      "filed office register",
+      169
+    ],
+    [
+      "create right benefit",
+      166
+    ],
+    [
+      "procedural enforceable equity",
+      156
+    ],
+    [
+      "entities officers employees",
+      151
+    ],
+    [
+      "office management budget",
+      148
+    ],
+    [
+      "intended create right",
+      145
+    ],
+    [
+      "enforceable equity party",
+      132
+    ],
+    [
+      "right benefit substantive",
+      131
+    ],
+    [
+      "benefit substantive procedural",
+      131
+    ],
+    [
+      "inserting homeland security",
+      131
+    ],
+    [
+      "person george bush",
+      116
+    ],
+    [
+      "health human services",
+      104
+    ],
+    [
+      "equity party departments",
+      99
+    ],
+    [
+      "property interests property",
+      95
+    ],
+    [
+      "officers employees person",
+      90
+    ],
+    [
+      "officers employees agents",
+      85
+    ],
+    [
+      "employees agents person",
+      82
+    ],
+    [
+      "instrumentalities entities officers",
+      82
+    ],
+    [
+      "national emergency declared",
+      80
+    ],
+    [
+      "homeland security lieu",
+      80
+    ],
+    [
+      "subject availability appropriations",
+      72
+    ],
+    [
+      "released office press",
+      65
+    ],
+    [
+      "construed impair otherwise",
+      65
+    ],
+    [
+      "impair otherwise affect",
+      65
+    ]
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "president": "Andrew_Jackson",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "court",
+      46
+    ],
+    [
+      "majorgeneral",
+      21
+    ],
+    [
+      "opinion",
+      21
+    ],
+    [
+      "general",
+      16
+    ],
+    [
+      "evidence",
+      16
+    ],
+    [
+      "proceedings",
+      15
+    ],
+    [
+      "campaign",
+      15
+    ],
+    [
+      "andrew",
+      13
+    ],
+    [
+      "jackson",
+      13
+    ],
+    [
+      "war",
+      13
+    ],
+    [
+      "army",
+      12
+    ],
+    [
+      "subject",
+      11
+    ],
+    [
+      "would",
+      10
+    ],
+    [
+      "volunteers",
+      10
+    ],
+    [
+      "country",
+      10
+    ],
+    [
+      "facts",
+      10
+    ],
+    [
+      "made",
+      9
+    ],
+    [
+      "letter",
+      9
+    ],
+    [
+      "delay",
+      9
+    ],
+    [
+      "scott",
+      9
+    ],
+    [
+      "requisition",
+      8
+    ],
+    [
+      "one",
+      8
+    ],
+    [
+      "indians",
+      8
+    ],
+    [
+      "case",
+      8
+    ],
+    [
+      "tennessee",
+      7
+    ],
+    [
+      "congress",
+      7
+    ],
+    [
+      "called",
+      7
+    ],
+    [
+      "received",
+      7
+    ],
+    [
+      "creek",
+      7
+    ],
+    [
+      "washington",
+      7
+    ],
+    [
+      "opening",
+      7
+    ],
+    [
+      "apportionment",
+      6
+    ],
+    [
+      "could",
+      6
+    ],
+    [
+      "force",
+      6
+    ],
+    [
+      "field",
+      6
+    ],
+    [
+      "information",
+      6
+    ],
+    [
+      "paid",
+      6
+    ],
+    [
+      "georgia",
+      6
+    ],
+    [
+      "military",
+      6
+    ],
+    [
+      "inquiry",
+      6
+    ],
+    [
+      "referred",
+      6
+    ],
+    [
+      "causes",
+      6
+    ],
+    [
+      "found",
+      6
+    ],
+    [
+      "june",
+      6
+    ],
+    [
+      "report",
+      5
+    ],
+    [
+      "necessary",
+      5
+    ],
+    [
+      "well",
+      5
+    ],
+    [
+      "command",
+      5
+    ],
+    [
+      "ought",
+      5
+    ],
+    [
+      "operations",
+      5
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "andrew jackson",
+      13
+    ],
+    [
+      "majorgeneral scott",
+      9
+    ],
+    [
+      "proceedings court",
+      7
+    ],
+    [
+      "creek indians",
+      7
+    ],
+    [
+      "opening prosecuting",
+      5
+    ],
+    [
+      "prosecuting campaign",
+      5
+    ],
+    [
+      "opinion court",
+      5
+    ],
+    [
+      "general wool",
+      4
+    ],
+    [
+      "georgia alabama",
+      4
+    ],
+    [
+      "military operations",
+      4
+    ],
+    [
+      "alexander macomb",
+      4
+    ],
+    [
+      "court inquiry",
+      4
+    ],
+    [
+      "campaign creek",
+      4
+    ],
+    [
+      "documentary evidence",
+      4
+    ],
+    [
+      "causes delay",
+      4
+    ],
+    [
+      "delay opening",
+      4
+    ],
+    [
+      "constituting court",
+      4
+    ],
+    [
+      "court opinion",
+      4
+    ],
+    [
+      "apportionment made",
+      3
+    ],
+    [
+      "volunteers authorized",
+      3
+    ],
+    [
+      "western frontier",
+      3
+    ],
+    [
+      "majorgeneral alexander",
+      3
+    ],
+    [
+      "macomb court",
+      3
+    ],
+    [
+      "evidence referred",
+      3
+    ],
+    [
+      "war interim",
+      3
+    ],
+    [
+      "campaign georgia",
+      3
+    ],
+    [
+      "alabama hostile",
+      3
+    ],
+    [
+      "hostile creek",
+      3
+    ],
+    [
+      "indians year",
+      3
+    ],
+    [
+      "court subject",
+      3
+    ],
+    [
+      "operations campaign",
+      3
+    ],
+    [
+      "case court",
+      3
+    ],
+    [
+      "made majorgeneral",
+      3
+    ],
+    [
+      "majorgeneral jesup",
+      3
+    ],
+    [
+      "facts case",
+      3
+    ],
+    [
+      "required constituting",
+      3
+    ],
+    [
+      "end court",
+      3
+    ],
+    [
+      "april andrew",
+      2
+    ],
+    [
+      "august andrew",
+      2
+    ],
+    [
+      "acting war",
+      2
+    ],
+    [
+      "war sir",
+      2
+    ],
+    [
+      "respectfully andrew",
+      2
+    ],
+    [
+      "general gaines",
+      2
+    ],
+    [
+      "kentucky mississippi",
+      2
+    ],
+    [
+      "mississippi louisiana",
+      2
+    ],
+    [
+      "made volunteers",
+      2
+    ],
+    [
+      "authorized congress",
+      2
+    ],
+    [
+      "apportionment volunteers",
+      2
+    ],
+    [
+      "requisition made",
+      2
+    ],
+    [
+      "tennessee already",
+      2
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "opening prosecuting campaign",
+      5
+    ],
+    [
+      "campaign creek indians",
+      4
+    ],
+    [
+      "delay opening prosecuting",
+      4
+    ],
+    [
+      "majorgeneral alexander macomb",
+      3
+    ],
+    [
+      "alexander macomb court",
+      3
+    ],
+    [
+      "proceedings court inquiry",
+      3
+    ],
+    [
+      "documentary evidence referred",
+      3
+    ],
+    [
+      "causes delay opening",
+      3
+    ],
+    [
+      "prosecuting campaign georgia",
+      3
+    ],
+    [
+      "campaign georgia alabama",
+      3
+    ],
+    [
+      "georgia alabama hostile",
+      3
+    ],
+    [
+      "alabama hostile creek",
+      3
+    ],
+    [
+      "hostile creek indians",
+      3
+    ],
+    [
+      "creek indians year",
+      3
+    ],
+    [
+      "military operations campaign",
+      3
+    ],
+    [
+      "april andrew jackson",
+      2
+    ],
+    [
+      "august andrew jackson",
+      2
+    ],
+    [
+      "acting war sir",
+      2
+    ],
+    [
+      "respectfully andrew jackson",
+      2
+    ],
+    [
+      "kentucky mississippi louisiana",
+      2
+    ],
+    [
+      "apportionment made volunteers",
+      2
+    ],
+    [
+      "volunteers authorized congress",
+      2
+    ],
+    [
+      "letter general wool",
+      2
+    ],
+    [
+      "andrew jackson february",
+      2
+    ],
+    [
+      "jackson february andrew",
+      2
+    ],
+    [
+      "february andrew jackson",
+      2
+    ],
+    [
+      "court inquiry recently",
+      2
+    ],
+    [
+      "frederick orders nos",
+      2
+    ],
+    [
+      "orders nos far",
+      2
+    ],
+    [
+      "nos far relate",
+      2
+    ]
+  ]
+}

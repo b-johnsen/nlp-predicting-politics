@@ -1,0 +1,530 @@
+{
+  "president": "Franklin_Pierce",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "war",
+      7
+    ],
+    [
+      "day",
+      7
+    ],
+    [
+      "people",
+      5
+    ],
+    [
+      "guns",
+      5
+    ],
+    [
+      "april",
+      4
+    ],
+    [
+      "franklin",
+      4
+    ],
+    [
+      "pierce",
+      4
+    ],
+    [
+      "vicepresident",
+      4
+    ],
+    [
+      "william",
+      4
+    ],
+    [
+      "king",
+      4
+    ],
+    [
+      "navy",
+      4
+    ],
+    [
+      "army",
+      4
+    ],
+    [
+      "officers",
+      4
+    ],
+    [
+      "corps",
+      4
+    ],
+    [
+      "deep",
+      3
+    ],
+    [
+      "sorrow",
+      3
+    ],
+    [
+      "died",
+      3
+    ],
+    [
+      "instant",
+      3
+    ],
+    [
+      "residence",
+      3
+    ],
+    [
+      "respect",
+      3
+    ],
+    [
+      "career",
+      3
+    ],
+    [
+      "usefulness",
+      3
+    ],
+    [
+      "appropriate",
+      3
+    ],
+    [
+      "honors",
+      3
+    ],
+    [
+      "memory",
+      3
+    ],
+    [
+      "closed",
+      3
+    ],
+    [
+      "mourning",
+      3
+    ],
+    [
+      "washington",
+      3
+    ],
+    [
+      "general",
+      3
+    ],
+    [
+      "office",
+      3
+    ],
+    [
+      "announces",
+      3
+    ],
+    [
+      "death",
+      3
+    ],
+    [
+      "rufus",
+      3
+    ],
+    [
+      "period",
+      3
+    ],
+    [
+      "oclock",
+      3
+    ],
+    [
+      "national",
+      3
+    ],
+    [
+      "received",
+      2
+    ],
+    [
+      "alabama",
+      2
+    ],
+    [
+      "station",
+      2
+    ],
+    [
+      "departments",
+      2
+    ],
+    [
+      "orders",
+      2
+    ],
+    [
+      "military",
+      2
+    ],
+    [
+      "naval",
+      2
+    ],
+    [
+      "one",
+      2
+    ],
+    [
+      "evening",
+      2
+    ],
+    [
+      "monday",
+      2
+    ],
+    [
+      "called",
+      2
+    ],
+    [
+      "country",
+      2
+    ],
+    [
+      "life",
+      2
+    ],
+    [
+      "prepared",
+      2
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "franklin pierce",
+      4
+    ],
+    [
+      "deep sorrow",
+      3
+    ],
+    [
+      "instant residence",
+      3
+    ],
+    [
+      "death william",
+      3
+    ],
+    [
+      "william rufus",
+      3
+    ],
+    [
+      "rufus king",
+      3
+    ],
+    [
+      "residence alabama",
+      2
+    ],
+    [
+      "washington april",
+      2
+    ],
+    [
+      "announces army",
+      2
+    ],
+    [
+      "army death",
+      2
+    ],
+    [
+      "april deep",
+      2
+    ],
+    [
+      "sorrow announces",
+      2
+    ],
+    [
+      "king vicepresident",
+      2
+    ],
+    [
+      "vicepresident died",
+      2
+    ],
+    [
+      "died evening",
+      2
+    ],
+    [
+      "evening monday",
+      2
+    ],
+    [
+      "monday instant",
+      2
+    ],
+    [
+      "called country",
+      2
+    ],
+    [
+      "country period",
+      2
+    ],
+    [
+      "period life",
+      2
+    ],
+    [
+      "life prepared",
+      2
+    ],
+    [
+      "prepared enter",
+      2
+    ],
+    [
+      "enter realities",
+      2
+    ],
+    [
+      "realities long",
+      2
+    ],
+    [
+      "long career",
+      2
+    ],
+    [
+      "career usefulness",
+      2
+    ],
+    [
+      "usefulness home",
+      2
+    ],
+    [
+      "home abroad",
+      2
+    ],
+    [
+      "abroad always",
+      2
+    ],
+    [
+      "always honored",
+      2
+    ],
+    [
+      "honored confidence",
+      2
+    ],
+    [
+      "confidence closed",
+      2
+    ],
+    [
+      "closed second",
+      2
+    ],
+    [
+      "second office",
+      2
+    ],
+    [
+      "office gift",
+      2
+    ],
+    [
+      "gift people",
+      2
+    ],
+    [
+      "people sympathy",
+      2
+    ],
+    [
+      "sympathy relatives",
+      2
+    ],
+    [
+      "relatives people",
+      2
+    ],
+    [
+      "people loss",
+      2
+    ],
+    [
+      "loss respect",
+      2
+    ],
+    [
+      "respect distinguished",
+      2
+    ],
+    [
+      "distinguished services",
+      2
+    ],
+    [
+      "services directs",
+      2
+    ],
+    [
+      "directs appropriate",
+      2
+    ],
+    [
+      "appropriate honors",
+      2
+    ],
+    [
+      "dawn day",
+      2
+    ],
+    [
+      "day thirteen",
+      2
+    ],
+    [
+      "thirteen guns",
+      2
+    ],
+    [
+      "guns fired",
+      2
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "death william rufus",
+      3
+    ],
+    [
+      "william rufus king",
+      3
+    ],
+    [
+      "instant residence alabama",
+      2
+    ],
+    [
+      "announces army death",
+      2
+    ],
+    [
+      "army death william",
+      2
+    ],
+    [
+      "april deep sorrow",
+      2
+    ],
+    [
+      "deep sorrow announces",
+      2
+    ],
+    [
+      "rufus king vicepresident",
+      2
+    ],
+    [
+      "king vicepresident died",
+      2
+    ],
+    [
+      "vicepresident died evening",
+      2
+    ],
+    [
+      "died evening monday",
+      2
+    ],
+    [
+      "evening monday instant",
+      2
+    ],
+    [
+      "monday instant residence",
+      2
+    ],
+    [
+      "called country period",
+      2
+    ],
+    [
+      "country period life",
+      2
+    ],
+    [
+      "period life prepared",
+      2
+    ],
+    [
+      "life prepared enter",
+      2
+    ],
+    [
+      "prepared enter realities",
+      2
+    ],
+    [
+      "enter realities long",
+      2
+    ],
+    [
+      "realities long career",
+      2
+    ],
+    [
+      "long career usefulness",
+      2
+    ],
+    [
+      "career usefulness home",
+      2
+    ],
+    [
+      "usefulness home abroad",
+      2
+    ],
+    [
+      "home abroad always",
+      2
+    ],
+    [
+      "abroad always honored",
+      2
+    ],
+    [
+      "always honored confidence",
+      2
+    ],
+    [
+      "honored confidence closed",
+      2
+    ],
+    [
+      "confidence closed second",
+      2
+    ],
+    [
+      "closed second office",
+      2
+    ],
+    [
+      "second office gift",
+      2
+    ]
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "president": "Joseph_R_Biden_Jr",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "security",
+      1151
+    ],
+    [
+      "national",
+      1116
+    ],
+    [
+      "appropriate",
+      981
+    ],
+    [
+      "consistent",
+      832
+    ],
+    [
+      "health",
+      701
+    ],
+    [
+      "applicable",
+      694
+    ],
+    [
+      "data",
+      677
+    ],
+    [
+      "services",
+      676
+    ],
+    [
+      "date",
+      617
+    ],
+    [
+      "information",
+      602
+    ],
+    [
+      "office",
+      574
+    ],
+    [
+      "person",
+      555
+    ],
+    [
+      "support",
+      555
+    ],
+    [
+      "use",
+      532
+    ],
+    [
+      "days",
+      528
+    ],
+    [
+      "general",
+      520
+    ],
+    [
+      "council",
+      514
+    ],
+    [
+      "communities",
+      469
+    ],
+    [
+      "access",
+      468
+    ],
+    [
+      "equity",
+      463
+    ],
+    [
+      "consultation",
+      454
+    ],
+    [
+      "actions",
+      436
+    ],
+    [
+      "management",
+      432
+    ],
+    [
+      "development",
+      426
+    ],
+    [
+      "programs",
+      425
+    ],
+    [
+      "ensure",
+      422
+    ],
+    [
+      "economic",
+      421
+    ],
+    [
+      "report",
+      404
+    ],
+    [
+      "foreign",
+      386
+    ],
+    [
+      "heads",
+      383
+    ],
+    [
+      "homeland",
+      380
+    ],
+    [
+      "term",
+      358
+    ],
+    [
+      "joseph",
+      347
+    ],
+    [
+      "biden",
+      347
+    ],
+    [
+      "administration",
+      346
+    ],
+    [
+      "tribal",
+      346
+    ],
+    [
+      "means",
+      340
+    ],
+    [
+      "environmental",
+      340
+    ],
+    [
+      "relevant",
+      337
+    ],
+    [
+      "iii",
+      335
+    ],
+    [
+      "white",
+      334
+    ],
+    [
+      "house",
+      331
+    ],
+    [
+      "guidance",
+      329
+    ],
+    [
+      "described",
+      328
+    ],
+    [
+      "energy",
+      328
+    ],
+    [
+      "policies",
+      325
+    ],
+    [
+      "employees",
+      319
+    ],
+    [
+      "persons",
+      317
+    ],
+    [
+      "practices",
+      312
+    ],
+    [
+      "climate",
+      311
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "consistent applicable",
+      563
+    ],
+    [
+      "days date",
+      422
+    ],
+    [
+      "national security",
+      410
+    ],
+    [
+      "homeland security",
+      379
+    ],
+    [
+      "joseph biden",
+      347
+    ],
+    [
+      "white house",
+      323
+    ],
+    [
+      "attorney general",
+      277
+    ],
+    [
+      "office management",
+      240
+    ],
+    [
+      "management budget",
+      238
+    ],
+    [
+      "appropriate consistent",
+      216
+    ],
+    [
+      "subject availability",
+      168
+    ],
+    [
+      "availability appropriations",
+      166
+    ],
+    [
+      "constitution laws",
+      165
+    ],
+    [
+      "environmental justice",
+      162
+    ],
+    [
+      "biden white",
+      158
+    ],
+    [
+      "biden constitution",
+      157
+    ],
+    [
+      "task force",
+      157
+    ],
+    [
+      "human services",
+      156
+    ],
+    [
+      "published register",
+      155
+    ],
+    [
+      "health human",
+      155
+    ],
+    [
+      "applicable subject",
+      151
+    ],
+    [
+      "nothing construed",
+      150
+    ],
+    [
+      "officers employees",
+      150
+    ],
+    [
+      "legislative proposals",
+      148
+    ],
+    [
+      "otherwise affect",
+      147
+    ],
+    [
+      "intended create",
+      147
+    ],
+    [
+      "create right",
+      147
+    ],
+    [
+      "right benefit",
+      147
+    ],
+    [
+      "substantive procedural",
+      147
+    ],
+    [
+      "procedural enforceable",
+      147
+    ],
+    [
+      "enforceable equity",
+      147
+    ],
+    [
+      "equity party",
+      147
+    ],
+    [
+      "party departments",
+      147
+    ],
+    [
+      "departments entities",
+      147
+    ],
+    [
+      "entities officers",
+      147
+    ],
+    [
+      "employees agents",
+      147
+    ],
+    [
+      "construed impair",
+      146
+    ],
+    [
+      "impair otherwise",
+      146
+    ],
+    [
+      "affect granted",
+      146
+    ],
+    [
+      "granted head",
+      146
+    ],
+    [
+      "head functions",
+      146
+    ],
+    [
+      "relating budgetary",
+      146
+    ],
+    [
+      "budgetary administrative",
+      146
+    ],
+    [
+      "administrative legislative",
+      146
+    ],
+    [
+      "benefit substantive",
+      146
+    ],
+    [
+      "functions office",
+      144
+    ],
+    [
+      "budget relating",
+      144
+    ],
+    [
+      "agents person",
+      144
+    ],
+    [
+      "note published",
+      144
+    ],
+    [
+      "proposals implemented",
+      143
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "office management budget",
+      238
+    ],
+    [
+      "appropriate consistent applicable",
+      204
+    ],
+    [
+      "subject availability appropriations",
+      165
+    ],
+    [
+      "joseph biden white",
+      158
+    ],
+    [
+      "biden white house",
+      158
+    ],
+    [
+      "joseph biden constitution",
+      157
+    ],
+    [
+      "biden constitution laws",
+      157
+    ],
+    [
+      "health human services",
+      155
+    ],
+    [
+      "consistent applicable subject",
+      149
+    ],
+    [
+      "applicable subject availability",
+      149
+    ],
+    [
+      "intended create right",
+      147
+    ],
+    [
+      "create right benefit",
+      147
+    ],
+    [
+      "substantive procedural enforceable",
+      147
+    ],
+    [
+      "procedural enforceable equity",
+      147
+    ],
+    [
+      "enforceable equity party",
+      147
+    ],
+    [
+      "equity party departments",
+      147
+    ],
+    [
+      "party departments entities",
+      147
+    ],
+    [
+      "departments entities officers",
+      147
+    ],
+    [
+      "entities officers employees",
+      147
+    ],
+    [
+      "officers employees agents",
+      147
+    ],
+    [
+      "nothing construed impair",
+      146
+    ],
+    [
+      "construed impair otherwise",
+      146
+    ],
+    [
+      "impair otherwise affect",
+      146
+    ],
+    [
+      "otherwise affect granted",
+      146
+    ],
+    [
+      "affect granted head",
+      146
+    ],
+    [
+      "granted head functions",
+      146
+    ],
+    [
+      "relating budgetary administrative",
+      146
+    ],
+    [
+      "budgetary administrative legislative",
+      146
+    ],
+    [
+      "administrative legislative proposals",
+      146
+    ],
+    [
+      "right benefit substantive",
+      146
+    ]
+  ]
+}

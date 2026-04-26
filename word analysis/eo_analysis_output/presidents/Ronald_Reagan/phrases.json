@@ -1,0 +1,530 @@
+{
+  "president": "Ronald_Reagan",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "office",
+      838
+    ],
+    [
+      "reagan",
+      774
+    ],
+    [
+      "ronald",
+      772
+    ],
+    [
+      "national",
+      725
+    ],
+    [
+      "board",
+      700
+    ],
+    [
+      "commission",
+      601
+    ],
+    [
+      "functions",
+      586
+    ],
+    [
+      "emergency",
+      582
+    ],
+    [
+      "committee",
+      517
+    ],
+    [
+      "security",
+      507
+    ],
+    [
+      "information",
+      470
+    ],
+    [
+      "follows",
+      458
+    ],
+    [
+      "members",
+      440
+    ],
+    [
+      "defense",
+      438
+    ],
+    [
+      "house",
+      433
+    ],
+    [
+      "register",
+      430
+    ],
+    [
+      "white",
+      423
+    ],
+    [
+      "management",
+      412
+    ],
+    [
+      "general",
+      401
+    ],
+    [
+      "services",
+      399
+    ],
+    [
+      "filed",
+      382
+    ],
+    [
+      "labor",
+      374
+    ],
+    [
+      "intelligence",
+      372
+    ],
+    [
+      "dispute",
+      368
+    ],
+    [
+      "foreign",
+      366
+    ],
+    [
+      "report",
+      331
+    ],
+    [
+      "constitution",
+      316
+    ],
+    [
+      "council",
+      311
+    ],
+    [
+      "appropriate",
+      306
+    ],
+    [
+      "made",
+      298
+    ],
+    [
+      "investigate",
+      287
+    ],
+    [
+      "advisory",
+      279
+    ],
+    [
+      "international",
+      274
+    ],
+    [
+      "provisions",
+      274
+    ],
+    [
+      "military",
+      273
+    ],
+    [
+      "regulations",
+      271
+    ],
+    [
+      "presidents",
+      270
+    ],
+    [
+      "effective",
+      269
+    ],
+    [
+      "extent",
+      266
+    ],
+    [
+      "activities",
+      264
+    ],
+    [
+      "inserting",
+      263
+    ],
+    [
+      "review",
+      261
+    ],
+    [
+      "employees",
+      261
+    ],
+    [
+      "programs",
+      252
+    ],
+    [
+      "respect",
+      249
+    ],
+    [
+      "private",
+      248
+    ],
+    [
+      "code",
+      245
+    ],
+    [
+      "following",
+      245
+    ],
+    [
+      "necessary",
+      245
+    ],
+    [
+      "administration",
+      243
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "ronald reagan",
+      772
+    ],
+    [
+      "white house",
+      418
+    ],
+    [
+      "reagan white",
+      381
+    ],
+    [
+      "filed office",
+      375
+    ],
+    [
+      "office register",
+      372
+    ],
+    [
+      "national security",
+      372
+    ],
+    [
+      "reagan constitution",
+      285
+    ],
+    [
+      "emergency board",
+      283
+    ],
+    [
+      "board investigate",
+      255
+    ],
+    [
+      "advisory committee",
+      199
+    ],
+    [
+      "creating emergency",
+      191
+    ],
+    [
+      "labor dispute",
+      182
+    ],
+    [
+      "constitution laws",
+      179
+    ],
+    [
+      "investigate railroad",
+      169
+    ],
+    [
+      "railroad labor",
+      169
+    ],
+    [
+      "inserting lieu",
+      155
+    ],
+    [
+      "extent permitted",
+      151
+    ],
+    [
+      "management budget",
+      144
+    ],
+    [
+      "office management",
+      143
+    ],
+    [
+      "task force",
+      130
+    ],
+    [
+      "private sector",
+      130
+    ],
+    [
+      "security emergency",
+      108
+    ],
+    [
+      "attorney general",
+      100
+    ],
+    [
+      "central intelligence",
+      97
+    ],
+    [
+      "security emergencies",
+      95
+    ],
+    [
+      "constitution statutes",
+      91
+    ],
+    [
+      "members appointed",
+      89
+    ],
+    [
+      "dispute creating",
+      89
+    ],
+    [
+      "general services",
+      87
+    ],
+    [
+      "emergency preparedness",
+      83
+    ],
+    [
+      "office press",
+      83
+    ],
+    [
+      "released office",
+      82
+    ],
+    [
+      "read follows",
+      81
+    ],
+    [
+      "committee app",
+      81
+    ],
+    [
+      "follows establishment",
+      80
+    ],
+    [
+      "administrator general",
+      78
+    ],
+    [
+      "attached hereto",
+      72
+    ],
+    [
+      "human services",
+      72
+    ],
+    [
+      "health human",
+      68
+    ],
+    [
+      "functions delegated",
+      68
+    ],
+    [
+      "foreign intelligence",
+      68
+    ],
+    [
+      "hereto made",
+      66
+    ],
+    [
+      "presidents commission",
+      66
+    ],
+    [
+      "made hereof",
+      65
+    ],
+    [
+      "develop plans",
+      63
+    ],
+    [
+      "labor disputes",
+      62
+    ],
+    [
+      "presidents committee",
+      61
+    ],
+    [
+      "personnel management",
+      59
+    ],
+    [
+      "heads departments",
+      55
+    ],
+    [
+      "office personnel",
+      55
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "ronald reagan white",
+      381
+    ],
+    [
+      "reagan white house",
+      381
+    ],
+    [
+      "filed office register",
+      372
+    ],
+    [
+      "ronald reagan constitution",
+      285
+    ],
+    [
+      "emergency board investigate",
+      255
+    ],
+    [
+      "creating emergency board",
+      191
+    ],
+    [
+      "board investigate railroad",
+      169
+    ],
+    [
+      "investigate railroad labor",
+      169
+    ],
+    [
+      "reagan constitution laws",
+      165
+    ],
+    [
+      "office management budget",
+      142
+    ],
+    [
+      "railroad labor dispute",
+      127
+    ],
+    [
+      "national security emergency",
+      108
+    ],
+    [
+      "national security emergencies",
+      95
+    ],
+    [
+      "labor dispute creating",
+      89
+    ],
+    [
+      "reagan constitution statutes",
+      86
+    ],
+    [
+      "dispute creating emergency",
+      84
+    ],
+    [
+      "released office press",
+      82
+    ],
+    [
+      "advisory committee app",
+      81
+    ],
+    [
+      "administrator general services",
+      78
+    ],
+    [
+      "health human services",
+      68
+    ],
+    [
+      "attached hereto made",
+      66
+    ],
+    [
+      "security emergency preparedness",
+      66
+    ],
+    [
+      "hereto made hereof",
+      65
+    ],
+    [
+      "office personnel management",
+      55
+    ],
+    [
+      "text released office",
+      51
+    ],
+    [
+      "march ronald reagan",
+      50
+    ],
+    [
+      "january ronald reagan",
+      49
+    ],
+    [
+      "february ronald reagan",
+      49
+    ],
+    [
+      "note text released",
+      48
+    ],
+    [
+      "office register january",
+      47
+    ]
+  ]
+}

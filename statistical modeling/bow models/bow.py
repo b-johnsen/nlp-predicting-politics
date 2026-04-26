@@ -121,8 +121,8 @@ def score_model(model, model_name, X_train, y_train, X_test, y_test):
     return results
 
 def run_bow_experiment(folder, normalize = True):
-    train_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/train")
-    test_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/test")
+    train_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/train")
+    test_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/test")
 
     train_df = load_text_dataset(
         train_path / "democrat",
@@ -183,7 +183,7 @@ def main():
 
     all_bow_results = pd.concat([bow_not_normalized_results, bow_normalized_results], ignore_index=True)
 
-    all_bow_results.to_csv(folder / "bow_comparison_results.csv", index=False)
+    all_bow_results.to_csv(folder / "modern_bow_comparison_results.csv", index=False)
 
 if __name__ == "__main__":
   nltk.download('stopwords')

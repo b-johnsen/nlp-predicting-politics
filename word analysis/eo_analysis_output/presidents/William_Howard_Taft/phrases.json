@@ -1,0 +1,530 @@
+{
+  "president": "William_Howard_Taft",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "taft",
+      150
+    ],
+    [
+      "lands",
+      89
+    ],
+    [
+      "indian",
+      86
+    ],
+    [
+      "reservation",
+      86
+    ],
+    [
+      "william",
+      75
+    ],
+    [
+      "howard",
+      75
+    ],
+    [
+      "white",
+      59
+    ],
+    [
+      "indians",
+      58
+    ],
+    [
+      "house",
+      56
+    ],
+    [
+      "meridian",
+      50
+    ],
+    [
+      "march",
+      46
+    ],
+    [
+      "east",
+      40
+    ],
+    [
+      "south",
+      38
+    ],
+    [
+      "river",
+      38
+    ],
+    [
+      "described",
+      36
+    ],
+    [
+      "use",
+      34
+    ],
+    [
+      "township",
+      34
+    ],
+    [
+      "june",
+      33
+    ],
+    [
+      "settlement",
+      31
+    ],
+    [
+      "congress",
+      30
+    ],
+    [
+      "purposes",
+      30
+    ],
+    [
+      "range",
+      30
+    ],
+    [
+      "land",
+      30
+    ],
+    [
+      "entry",
+      29
+    ],
+    [
+      "existing",
+      29
+    ],
+    [
+      "fractional",
+      29
+    ],
+    [
+      "national",
+      29
+    ],
+    [
+      "reserved",
+      28
+    ],
+    [
+      "sale",
+      28
+    ],
+    [
+      "valid",
+      28
+    ],
+    [
+      "north",
+      28
+    ],
+    [
+      "forest",
+      28
+    ],
+    [
+      "persons",
+      27
+    ],
+    [
+      "examination",
+      27
+    ],
+    [
+      "quarter",
+      27
+    ],
+    [
+      "rights",
+      27
+    ],
+    [
+      "prior",
+      26
+    ],
+    [
+      "secs",
+      26
+    ],
+    [
+      "february",
+      26
+    ],
+    [
+      "proclamation",
+      26
+    ],
+    [
+      "subject",
+      25
+    ],
+    [
+      "except",
+      25
+    ],
+    [
+      "west",
+      25
+    ],
+    [
+      "civil",
+      24
+    ],
+    [
+      "salt",
+      24
+    ],
+    [
+      "following",
+      23
+    ],
+    [
+      "thence",
+      23
+    ],
+    [
+      "reserving",
+      22
+    ],
+    [
+      "acres",
+      22
+    ],
+    [
+      "arizona",
+      22
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "william howard",
+      75
+    ],
+    [
+      "howard taft",
+      75
+    ],
+    [
+      "indian reservation",
+      59
+    ],
+    [
+      "taft white",
+      50
+    ],
+    [
+      "white house",
+      50
+    ],
+    [
+      "national forest",
+      28
+    ],
+    [
+      "settlement entry",
+      23
+    ],
+    [
+      "salt river",
+      23
+    ],
+    [
+      "entry sale",
+      22
+    ],
+    [
+      "range east",
+      17
+    ],
+    [
+      "gila salt",
+      17
+    ],
+    [
+      "rights persons",
+      17
+    ],
+    [
+      "new mexico",
+      17
+    ],
+    [
+      "proclamation march",
+      17
+    ],
+    [
+      "river meridian",
+      16
+    ],
+    [
+      "february william",
+      16
+    ],
+    [
+      "sale disposition",
+      14
+    ],
+    [
+      "valid rights",
+      14
+    ],
+    [
+      "apache indian",
+      14
+    ],
+    [
+      "containing acres",
+      13
+    ],
+    [
+      "township south",
+      13
+    ],
+    [
+      "south range",
+      13
+    ],
+    [
+      "fractional fractional",
+      13
+    ],
+    [
+      "following described",
+      13
+    ],
+    [
+      "taft following",
+      12
+    ],
+    [
+      "river indian",
+      12
+    ],
+    [
+      "mount diablo",
+      11
+    ],
+    [
+      "reserved settlement",
+      11
+    ],
+    [
+      "valid existing",
+      11
+    ],
+    [
+      "withdrawn settlement",
+      11
+    ],
+    [
+      "fort mojave",
+      11
+    ],
+    [
+      "east gila",
+      11
+    ],
+    [
+      "congress june",
+      11
+    ],
+    [
+      "described lands",
+      11
+    ],
+    [
+      "lands california",
+      10
+    ],
+    [
+      "subject prior",
+      10
+    ],
+    [
+      "prior valid",
+      10
+    ],
+    [
+      "fractional secs",
+      10
+    ],
+    [
+      "papago indians",
+      10
+    ],
+    [
+      "taft congress",
+      10
+    ],
+    [
+      "township north",
+      10
+    ],
+    [
+      "north range",
+      10
+    ],
+    [
+      "forest proclamation",
+      10
+    ],
+    [
+      "read follows",
+      9
+    ],
+    [
+      "indian purposes",
+      9
+    ],
+    [
+      "certain lands",
+      9
+    ],
+    [
+      "diablo meridian",
+      9
+    ],
+    [
+      "persons thereto",
+      9
+    ],
+    [
+      "principal meridian",
+      9
+    ],
+    [
+      "northeast quarter",
+      9
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "william howard taft",
+      75
+    ],
+    [
+      "taft white house",
+      50
+    ],
+    [
+      "settlement entry sale",
+      19
+    ],
+    [
+      "gila salt river",
+      17
+    ],
+    [
+      "salt river meridian",
+      16
+    ],
+    [
+      "february william howard",
+      16
+    ],
+    [
+      "apache indian reservation",
+      14
+    ],
+    [
+      "entry sale disposition",
+      13
+    ],
+    [
+      "township south range",
+      13
+    ],
+    [
+      "south range east",
+      12
+    ],
+    [
+      "howard taft following",
+      12
+    ],
+    [
+      "river indian reservation",
+      12
+    ],
+    [
+      "east gila salt",
+      11
+    ],
+    [
+      "reserved settlement entry",
+      10
+    ],
+    [
+      "subject prior valid",
+      10
+    ],
+    [
+      "taft following described",
+      10
+    ],
+    [
+      "howard taft congress",
+      10
+    ],
+    [
+      "township north range",
+      10
+    ],
+    [
+      "national forest proclamation",
+      10
+    ],
+    [
+      "mount diablo meridian",
+      9
+    ],
+    [
+      "withdrawn settlement entry",
+      9
+    ],
+    [
+      "valid existing rights",
+      9
+    ],
+    [
+      "fort mojave indian",
+      9
+    ],
+    [
+      "mojave indian reservation",
+      9
+    ],
+    [
+      "indian reservation included",
+      9
+    ],
+    [
+      "existing valid rights",
+      9
+    ],
+    [
+      "taft congress june",
+      9
+    ],
+    [
+      "range east gila",
+      9
+    ],
+    [
+      "forest proclamation march",
+      9
+    ],
+    [
+      "following described lands",
+      9
+    ]
+  ]
+}

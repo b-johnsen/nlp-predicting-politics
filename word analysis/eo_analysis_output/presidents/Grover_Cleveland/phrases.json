@@ -1,0 +1,530 @@
+{
+  "president": "Grover_Cleveland",
+  "party": "Democrat",
+  "top_unigrams": [
+    [
+      "examination",
+      346
+    ],
+    [
+      "commission",
+      320
+    ],
+    [
+      "rule",
+      293
+    ],
+    [
+      "grover",
+      265
+    ],
+    [
+      "cleveland",
+      265
+    ],
+    [
+      "classified",
+      250
+    ],
+    [
+      "person",
+      225
+    ],
+    [
+      "appointment",
+      205
+    ],
+    [
+      "office",
+      189
+    ],
+    [
+      "made",
+      181
+    ],
+    [
+      "one",
+      173
+    ],
+    [
+      "civil",
+      169
+    ],
+    [
+      "place",
+      163
+    ],
+    [
+      "rules",
+      144
+    ],
+    [
+      "departmental",
+      139
+    ],
+    [
+      "officer",
+      136
+    ],
+    [
+      "persons",
+      132
+    ],
+    [
+      "position",
+      127
+    ],
+    [
+      "following",
+      113
+    ],
+    [
+      "examinations",
+      112
+    ],
+    [
+      "customs",
+      107
+    ],
+    [
+      "eligible",
+      100
+    ],
+    [
+      "appointed",
+      98
+    ],
+    [
+      "district",
+      98
+    ],
+    [
+      "general",
+      95
+    ],
+    [
+      "clerk",
+      93
+    ],
+    [
+      "grade",
+      92
+    ],
+    [
+      "clause",
+      91
+    ],
+    [
+      "every",
+      88
+    ],
+    [
+      "class",
+      87
+    ],
+    [
+      "time",
+      86
+    ],
+    [
+      "board",
+      85
+    ],
+    [
+      "civilservice",
+      82
+    ],
+    [
+      "filled",
+      80
+    ],
+    [
+      "fitness",
+      78
+    ],
+    [
+      "per",
+      78
+    ],
+    [
+      "provisions",
+      76
+    ],
+    [
+      "special",
+      75
+    ],
+    [
+      "test",
+      75
+    ],
+    [
+      "register",
+      73
+    ],
+    [
+      "postoffice",
+      72
+    ],
+    [
+      "line",
+      71
+    ],
+    [
+      "promotion",
+      71
+    ],
+    [
+      "transfer",
+      70
+    ],
+    [
+      "employed",
+      70
+    ],
+    [
+      "year",
+      69
+    ],
+    [
+      "follows",
+      68
+    ],
+    [
+      "months",
+      68
+    ],
+    [
+      "certification",
+      68
+    ],
+    [
+      "forfeiture",
+      67
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "grover cleveland",
+      265
+    ],
+    [
+      "departmental rule",
+      67
+    ],
+    [
+      "test fitness",
+      64
+    ],
+    [
+      "one year",
+      48
+    ],
+    [
+      "confinement hard",
+      47
+    ],
+    [
+      "hard labor",
+      47
+    ],
+    [
+      "rule iii",
+      44
+    ],
+    [
+      "per annum",
+      44
+    ],
+    [
+      "six months",
+      43
+    ],
+    [
+      "civil rules",
+      40
+    ],
+    [
+      "general rule",
+      40
+    ],
+    [
+      "revised statutes",
+      39
+    ],
+    [
+      "less per",
+      39
+    ],
+    [
+      "classified customs",
+      37
+    ],
+    [
+      "classified departmental",
+      36
+    ],
+    [
+      "civil commission",
+      36
+    ],
+    [
+      "temporary appointment",
+      34
+    ],
+    [
+      "customs district",
+      33
+    ],
+    [
+      "without examination",
+      32
+    ],
+    [
+      "absolute appointment",
+      32
+    ],
+    [
+      "excepted examination",
+      31
+    ],
+    [
+      "board examiners",
+      31
+    ],
+    [
+      "printing office",
+      30
+    ],
+    [
+      "appointing officer",
+      28
+    ],
+    [
+      "persons receiving",
+      28
+    ],
+    [
+      "noncommissioned officer",
+      28
+    ],
+    [
+      "amendment civil",
+      26
+    ],
+    [
+      "pay allowances",
+      26
+    ],
+    [
+      "appointment made",
+      25
+    ],
+    [
+      "general average",
+      25
+    ],
+    [
+      "rate less",
+      25
+    ],
+    [
+      "annum class",
+      25
+    ],
+    [
+      "dishonorable discharge",
+      25
+    ],
+    [
+      "cleveland amendment",
+      24
+    ],
+    [
+      "person appointed",
+      24
+    ],
+    [
+      "november grover",
+      24
+    ],
+    [
+      "competitive examination",
+      24
+    ],
+    [
+      "class persons",
+      24
+    ],
+    [
+      "discharge forfeiture",
+      24
+    ],
+    [
+      "forfeiture pay",
+      24
+    ],
+    [
+      "rule vii",
+      23
+    ],
+    [
+      "civilservice rules",
+      23
+    ],
+    [
+      "iii clause",
+      23
+    ],
+    [
+      "nominating officer",
+      23
+    ],
+    [
+      "cleveland civil",
+      22
+    ],
+    [
+      "noncompetitive examination",
+      22
+    ],
+    [
+      "receiving annual",
+      22
+    ],
+    [
+      "compensation rate",
+      22
+    ],
+    [
+      "regulate improve",
+      21
+    ],
+    [
+      "improve civil",
+      21
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "confinement hard labor",
+      47
+    ],
+    [
+      "general rule iii",
+      29
+    ],
+    [
+      "less per annum",
+      27
+    ],
+    [
+      "amendment civil rules",
+      26
+    ],
+    [
+      "rate less per",
+      25
+    ],
+    [
+      "per annum class",
+      25
+    ],
+    [
+      "grover cleveland amendment",
+      24
+    ],
+    [
+      "november grover cleveland",
+      24
+    ],
+    [
+      "class persons receiving",
+      24
+    ],
+    [
+      "discharge forfeiture pay",
+      24
+    ],
+    [
+      "forfeiture pay allowances",
+      24
+    ],
+    [
+      "cleveland amendment civil",
+      23
+    ],
+    [
+      "rule iii clause",
+      23
+    ],
+    [
+      "dishonorable discharge forfeiture",
+      23
+    ],
+    [
+      "grover cleveland civil",
+      22
+    ],
+    [
+      "regulate improve civil",
+      21
+    ],
+    [
+      "improve civil january",
+      21
+    ],
+    [
+      "persons receiving annual",
+      21
+    ],
+    [
+      "receiving annual salary",
+      21
+    ],
+    [
+      "annum class persons",
+      21
+    ],
+    [
+      "compensation rate less",
+      20
+    ],
+    [
+      "special departmental rule",
+      19
+    ],
+    [
+      "months confinement hard",
+      19
+    ],
+    [
+      "hard labor forfeiture",
+      19
+    ],
+    [
+      "august grover cleveland",
+      18
+    ],
+    [
+      "grover cleveland exercise",
+      17
+    ],
+    [
+      "seventeen hundred fiftythird",
+      17
+    ],
+    [
+      "hundred fiftythird revised",
+      17
+    ],
+    [
+      "fiftythird revised statutes",
+      17
+    ],
+    [
+      "march grover cleveland",
+      17
+    ]
+  ]
+}

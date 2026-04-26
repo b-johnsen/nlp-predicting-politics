@@ -1,0 +1,530 @@
+{
+  "president": "Richard_Nixon",
+  "party": "Republican",
+  "top_unigrams": [
+    [
+      "nixon",
+      691
+    ],
+    [
+      "richard",
+      690
+    ],
+    [
+      "council",
+      672
+    ],
+    [
+      "commission",
+      560
+    ],
+    [
+      "house",
+      505
+    ],
+    [
+      "national",
+      493
+    ],
+    [
+      "committee",
+      493
+    ],
+    [
+      "white",
+      465
+    ],
+    [
+      "office",
+      444
+    ],
+    [
+      "emergency",
+      419
+    ],
+    [
+      "functions",
+      364
+    ],
+    [
+      "regulations",
+      354
+    ],
+    [
+      "chairman",
+      351
+    ],
+    [
+      "labor",
+      337
+    ],
+    [
+      "employees",
+      336
+    ],
+    [
+      "code",
+      332
+    ],
+    [
+      "follows",
+      330
+    ],
+    [
+      "appropriate",
+      318
+    ],
+    [
+      "time",
+      314
+    ],
+    [
+      "defense",
+      302
+    ],
+    [
+      "board",
+      298
+    ],
+    [
+      "members",
+      297
+    ],
+    [
+      "provisions",
+      288
+    ],
+    [
+      "programs",
+      284
+    ],
+    [
+      "services",
+      276
+    ],
+    [
+      "plans",
+      265
+    ],
+    [
+      "information",
+      264
+    ],
+    [
+      "established",
+      258
+    ],
+    [
+      "management",
+      256
+    ],
+    [
+      "general",
+      253
+    ],
+    [
+      "respect",
+      253
+    ],
+    [
+      "organization",
+      249
+    ],
+    [
+      "necessary",
+      239
+    ],
+    [
+      "action",
+      229
+    ],
+    [
+      "facilities",
+      224
+    ],
+    [
+      "following",
+      223
+    ],
+    [
+      "development",
+      218
+    ],
+    [
+      "foreign",
+      212
+    ],
+    [
+      "administration",
+      211
+    ],
+    [
+      "relating",
+      205
+    ],
+    [
+      "effective",
+      203
+    ],
+    [
+      "economic",
+      203
+    ],
+    [
+      "departments",
+      201
+    ],
+    [
+      "use",
+      198
+    ],
+    [
+      "made",
+      196
+    ],
+    [
+      "administrator",
+      196
+    ],
+    [
+      "activities",
+      195
+    ],
+    [
+      "issued",
+      195
+    ],
+    [
+      "assistance",
+      194
+    ],
+    [
+      "note",
+      191
+    ]
+  ],
+  "top_bigrams": [
+    [
+      "richard nixon",
+      690
+    ],
+    [
+      "white house",
+      461
+    ],
+    [
+      "nixon white",
+      343
+    ],
+    [
+      "minimum maximum",
+      116
+    ],
+    [
+      "emergency preparedness",
+      115
+    ],
+    [
+      "time time",
+      113
+    ],
+    [
+      "hereinafter referred",
+      105
+    ],
+    [
+      "economic stabilization",
+      99
+    ],
+    [
+      "office management",
+      92
+    ],
+    [
+      "management budget",
+      91
+    ],
+    [
+      "health education",
+      89
+    ],
+    [
+      "house press",
+      88
+    ],
+    [
+      "education welfare",
+      88
+    ],
+    [
+      "press release",
+      86
+    ],
+    [
+      "grade minimum",
+      85
+    ],
+    [
+      "form white",
+      84
+    ],
+    [
+      "office emergency",
+      84
+    ],
+    [
+      "rules regulations",
+      79
+    ],
+    [
+      "issued form",
+      79
+    ],
+    [
+      "labor organization",
+      76
+    ],
+    [
+      "railway company",
+      76
+    ],
+    [
+      "cost living",
+      75
+    ],
+    [
+      "chairman council",
+      75
+    ],
+    [
+      "note issued",
+      75
+    ],
+    [
+      "civil commission",
+      74
+    ],
+    [
+      "national security",
+      74
+    ],
+    [
+      "living council",
+      73
+    ],
+    [
+      "urban development",
+      71
+    ],
+    [
+      "information material",
+      71
+    ],
+    [
+      "housing urban",
+      68
+    ],
+    [
+      "railroad company",
+      68
+    ],
+    [
+      "code follows",
+      67
+    ],
+    [
+      "internal revenue",
+      62
+    ],
+    [
+      "nixon code",
+      61
+    ],
+    [
+      "plans programs",
+      59
+    ],
+    [
+      "develop plans",
+      59
+    ],
+    [
+      "effective date",
+      59
+    ],
+    [
+      "general services",
+      59
+    ],
+    [
+      "attorney general",
+      57
+    ],
+    [
+      "presidents committee",
+      55
+    ],
+    [
+      "railway labor",
+      55
+    ],
+    [
+      "read follows",
+      54
+    ],
+    [
+      "armed forces",
+      53
+    ],
+    [
+      "revenue code",
+      52
+    ],
+    [
+      "certain positions",
+      52
+    ],
+    [
+      "foreign affairs",
+      52
+    ],
+    [
+      "without approval",
+      51
+    ],
+    [
+      "ratification action",
+      51
+    ],
+    [
+      "regulations prescribed",
+      51
+    ],
+    [
+      "approval ratification",
+      50
+    ]
+  ],
+  "top_trigrams": [
+    [
+      "richard nixon white",
+      343
+    ],
+    [
+      "nixon white house",
+      343
+    ],
+    [
+      "office management budget",
+      91
+    ],
+    [
+      "white house press",
+      88
+    ],
+    [
+      "health education welfare",
+      88
+    ],
+    [
+      "house press release",
+      86
+    ],
+    [
+      "grade minimum maximum",
+      85
+    ],
+    [
+      "form white house",
+      84
+    ],
+    [
+      "office emergency preparedness",
+      82
+    ],
+    [
+      "issued form white",
+      79
+    ],
+    [
+      "note issued form",
+      75
+    ],
+    [
+      "cost living council",
+      73
+    ],
+    [
+      "housing urban development",
+      68
+    ],
+    [
+      "richard nixon code",
+      61
+    ],
+    [
+      "internal revenue code",
+      52
+    ],
+    [
+      "without approval ratification",
+      50
+    ],
+    [
+      "approval ratification action",
+      50
+    ],
+    [
+      "march richard nixon",
+      48
+    ],
+    [
+      "placing certain positions",
+      46
+    ],
+    [
+      "white house march",
+      45
+    ],
+    [
+      "see preceding item",
+      44
+    ],
+    [
+      "designated empowered exercise",
+      43
+    ],
+    [
+      "less years percent",
+      42
+    ],
+    [
+      "june richard nixon",
+      42
+    ],
+    [
+      "december richard nixon",
+      41
+    ],
+    [
+      "january richard nixon",
+      41
+    ],
+    [
+      "years percent least",
+      40
+    ],
+    [
+      "percent least years",
+      40
+    ],
+    [
+      "least years less",
+      40
+    ],
+    [
+      "years less years",
+      40
+    ]
+  ]
+}
