@@ -30,8 +30,13 @@ Working from the cloned repo, each script should be able to be run via its main 
 
 ## Links to models
 
+* google news word2vec: https://huggingface.co/fse/word2vec-google-news-300
 
 ## Links to notebooks/tutorials
+
+* tf-idf wordcloud: https://ayselaydin.medium.com/6-creating-a-word-cloud-using-tf-idf-in-python-2554742d86d9
+* tf-idf vectorizer: https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html
+* bow vs tf-idf: https://www.analyticsvidhya.com/blog/2021/07/bag-of-words-vs-tfidf-vectorization-a-hands-on-tutorial/
 
 
 ## ITEMS NEEDED (DELETE LATE)
