@@ -18,9 +18,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import os
 import pandas as pd
 
-# currently this version uses on the smallest word2vec model
-# no stop words yet
-# test with/without stop words
 
 def load_text_dataset(folder_0, folder_1):
     data = []
