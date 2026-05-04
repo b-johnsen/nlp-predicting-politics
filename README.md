@@ -33,15 +33,17 @@ Working from the cloned repo, each script should be able to be run via its main 
 
 ## Links to notebooks/tutorials
 
-explain the directory structure
-where to look for code
-where to look for data files
-how I would run the code if I wanted to (I won't run it unless it looks totally wonky)
-what order to run the programs in (if applicable)
-links to where you got the data 
-links to any non-standard libraries or APIs you used (e.g., don't tell me about scikit or pandas, but do tell me about the Genius API or the Mistral library)
-links to where you found any models you used
-links to notebooks or tutorials you used that I did not provide
+
+## ITEMS NEEDED (DELETE LATE)
+* explain the directory structure
+* where to look for code
+* where to look for data files
+* how I would run the code if I wanted to (I won't run it unless it looks totally wonky)
+* what order to run the programs in (if applicable)
+* links to where you got the data
+* links to any non-standard libraries or APIs you used (e.g., don't tell me about scikit or pandas, but do tell me about the Genius API or the Mistral library)
+* links to where you found any models you used
+* links to notebooks or tutorials you used that I did not provide
 
 
 # Setup
