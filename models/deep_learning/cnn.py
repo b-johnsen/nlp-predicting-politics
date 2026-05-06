@@ -8,10 +8,20 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import matplotlib.pyplot as plt
 
 sys.path.append("../scripts")
-from cnn_embeddings import build_vocab, build_matrix, text_to_ids
+from models.deep_learning.cnn_embeddings import build_vocab, build_matrix, text_to_ids
+
 
 class TextCNN(nn.Module):
-    def __init__(self, vocab_size, embedding_dim, num_filters, kernel_sizes, output_size, dropout_prob, weights):
+    def __init__(
+        self,
+        vocab_size,
+        embedding_dim,
+        num_filters,
+        kernel_sizes,
+        output_size,
+        dropout_prob,
+        weights,
+    ):
         super(TextCNN, self).__init__()
 
         # embedding layer, initialized with GloVe weights
@@ -19,10 +29,14 @@ class TextCNN(nn.Module):
         self.embedding.weight = nn.Parameter(torch.tensor(weights, dtype=torch.float32))
 
         # parallel conv layers with different kernel sizes
-        self.convs = nn.ModuleList([
-            nn.Conv1d(in_channels=embedding_dim, out_channels=num_filters, kernel_size=k)
-            for k in kernel_sizes
-        ])
+        self.convs = nn.ModuleList(
+            [
+                nn.Conv1d(
+                    in_channels=embedding_dim, out_channels=num_filters, kernel_size=k
+                )
+                for k in kernel_sizes
+            ]
+        )
 
         self.dropout = nn.Dropout(dropout_prob)
         self.fc = nn.Linear(num_filters * len(kernel_sizes), output_size)
@@ -54,8 +68,13 @@ class TextCNN(nn.Module):
 
         return x
 
+
 vocab = build_vocab("../eo_data/clean_eo_split/train")
-embedding_matrix_glove = build_matrix(vocab, "../../wiki_giga_2024_100_MFT20_vectors_seed_2024_alpha_0.75_eta_0.05.050_combined.txt", embedding_dim=100)
+embedding_matrix_glove = build_matrix(
+    vocab,
+    "../../wiki_giga_2024_100_MFT20_vectors_seed_2024_alpha_0.75_eta_0.05.050_combined.txt",
+    embedding_dim=100,
+)
 
 model = TextCNN(
     vocab_size=len(vocab),
@@ -64,8 +83,9 @@ model = TextCNN(
     kernel_sizes=[2, 3, 4, 5, 6],
     output_size=2,
     dropout_prob=0.3,
-    weights=embedding_matrix_glove
+    weights=embedding_matrix_glove,
 )
+
 
 def load_data(data_dir, vocab):
     ids_list = []
@@ -76,7 +96,10 @@ def load_data(data_dir, vocab):
         label = 0 if "democrat" in str(txt_file).lower() else 1
         ids_list.append(ids)
         labels.append(label)
-    return torch.tensor(ids_list, dtype=torch.long), torch.tensor(labels, dtype=torch.long)
+    return torch.tensor(ids_list, dtype=torch.long), torch.tensor(
+        labels, dtype=torch.long
+    )
+
 
 train_ids, train_labels = load_data("../eo_data/clean_eo_split/train", vocab)
 test_ids, test_labels = load_data("../eo_data/clean_eo_split/test", vocab)

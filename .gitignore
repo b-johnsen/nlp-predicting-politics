@@ -2,7 +2,7 @@
 .DS_Store
 
 # BERT model and checkpoints (too large)
-BERT/models/
+models/BERT/models/
 
 # models
 *.model
@@ -11,7 +11,7 @@ BERT/models/
 
 
 # Congressional Bills dataset (too large)
-bills_data/extracted_bills/
+data/bills_data/extracted_bills/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

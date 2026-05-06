@@ -25,7 +25,7 @@ EO_DATA_DIR = REPO_ROOT / "eo_data" / "clean_modern_eo_split"
 # Ensure imports work when this script is run directly from the BERT directory.
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
-from templates.dataset_template import load_text_dataset
+from resources.templates.dataset_template import load_text_dataset
 
 
 def create_bert_datasets():

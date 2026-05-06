@@ -5,21 +5,25 @@ Predicting Politics and Ideology Final Project with Jack Houck, Brady Johnsen, a
 
 ## Directory Structure
 
-The repo contains 3 main experiment directories: BERT, deep_learning, and statical modeling. These contain the scripts corresponding to the type of model used for classication: BERT has distilBERT and legalBERT models, deep_learning is the CNN, and staticial modeling is the bag of words, tfidf, and word2vec models. 
+The repository contains 4 main directories that contain relevant subdirectories.
 
-The eo_data directory contains the full dataset of executive orders, including the cleaned versions, the test/training split, and the modern presidents dataset, including scripts to web scrape the data and clean/split the data.
+data directory:
+- The eo_data directory contains the full dataset of executive orders, including the cleaned versions, the test/training split, and the modern presidents dataset, including scripts to web scrape the data and clean/split the data.
+- Tbe bills_data directory contains a compressed file of all bills from the 113th through 119th Congresses, as well as the scripts to retrieve the data and clean/split the data.
 
-Tbe bills_data directory contains a compressed file of all bills from the 113th through 119th Congresses, as well as the scripts to retrieve the data and clean/split the data.
+data_analysis directory:
+- The word analysis directory contains the code used to do term frequency analysis of the text in the dataset. 
+- The eo_count_analysis directory contains the scripts to create visualizations of the EO counts over time.
 
-The NER directory contains all scripts to mask certain entities in the bills/EO datasets using named-entity recognition.
+models directory:
+- The baselines directory contains the script to run the most_frequent, stratified, and uniform baselines.
+- The BERT directory contains scripts to train the distilBERT and legalBERT models, as well as a script to test them for each president.
+- The deep_learning directory contains scripts to train the CNN and create its embeddings.
+- The statistical modeling directory contains the scripts to train the bag of words, tfidf, and word2vec models. 
 
-The baselines directory contains the script to run the most_frequent, stratified, and uniform baselines.
-
-The templates directory includes a single template file initially used for consistency of constructing the dataset.
-
-The word analysis directory contains the code used to do term frequency analysis of the text in the dataset. 
-
-The eo_count_analysis directory contains the scripts to create visualizations of the EO counts over time.
+resources directory:
+- The NER directory contains all scripts to mask certain entities in the bills/EO datasets using named-entity recognition.
+- The templates directory includes a single template file initially used for consistency of constructing the dataset.
 
 
 ## Data Collection
@@ -35,7 +39,9 @@ The Congressional bill corpus consists of one text file per bill from GovInfo Bu
 
 Provided the dependencies are installed from `requirements.txt`, each script should be able to be run via its main function with no conflicts. Ensure that the path variables are correct for your configuration.  
 
-For NER, be sure to install the relevant spacy model using `python -m spacy download en_core_web_sm`.
+For NER, be sure to install the relevant spacy model using `python -m spacy download en_core_web_sm`.  
+
+Since the `bills_data.zip` file is so large, you may need to install [Git LFS](https://git-lfs.com) to interact with the repository.
 
 
 ## Links to models

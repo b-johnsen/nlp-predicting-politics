@@ -14,7 +14,6 @@ from transformers import (
     set_seed,
 )
 
-
 REPO_ROOT = Path(__file__).resolve().parents[1]
 BERT_DIR = REPO_ROOT / "BERT"
 DATASETS_DIR = BERT_DIR / "datasets-no-ner"
@@ -24,7 +23,7 @@ EO_DATA_DIR = REPO_ROOT / "eo_data" / "eo_labeled_split"
 # Ensure imports work when this script is run directly from the BERT directory.
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
-from templates.dataset_template import load_text_dataset
+from resources.templates.dataset_template import load_text_dataset
 
 
 def create_bert_datasets():
