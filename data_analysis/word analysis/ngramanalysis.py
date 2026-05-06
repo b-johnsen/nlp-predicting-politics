@@ -19,7 +19,7 @@ import os
 import pandas as pd
 
 
-OUTPUT_DIR = "nlp-predicting-politics/word analysis/results"
+OUTPUT_DIR = "nlp-predicting-politics/data_analysis/word analysis/results"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 PLOTS_DIR = os.path.join(OUTPUT_DIR, "plots")
@@ -31,18 +31,6 @@ os.makedirs(TABLES_DIR, exist_ok=True)
 os.makedirs(DATA_DIR, exist_ok=True)
 
 def load_text_dataset(data_dirs):
-    """
-    data_dirs: list of root directories (e.g., ["train", "test"])
-    
-    Returns:
-        DataFrame with columns:
-        - text
-        - label (0/1)
-        - party
-        - president
-        - filepath
-        - split (train/test)
-    """
     
     data = []
 
@@ -141,11 +129,6 @@ def custom_tokenizer(text):
 
 
 def get_top_terms(matrix, labels, group_name, feature_names, top_n=20):
-    """
-    matrix: TF-IDF matrix
-    labels: party/president
-    group_name- group to filter
-    """
     idx = np.where(labels == group_name)[0]
     
     if len(idx) == 0:
@@ -202,8 +185,8 @@ def save_barplot(term_list, title, filename):
 
 def main():
     df = load_text_dataset([
-        Path("nlp-predicting-politics/eo_data/clean_eo_split/train"),
-        Path("nlp-predicting-politics/eo_data/clean_eo_split/test")
+        Path("nlp-predicting-politics/data/eo_data/clean_eo_split/train"),
+        Path("nlp-predicting-politics/data/eo_data/clean_eo_split/test")
     ])
 
     df = df.dropna(subset=["text", "president", "party"])

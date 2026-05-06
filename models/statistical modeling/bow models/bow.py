@@ -121,8 +121,8 @@ def score_model(model, model_name, X_train, y_train, X_test, y_test):
     return results
 
 def run_bow_experiment(folder, normalize = True):
-    train_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/train")
-    test_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/test")
+    train_path = Path("nlp-predicting-politics/data/eo_data/clean_eo_split/train")
+    test_path = Path("nlp-predicting-politics/data/eo_data/clean_eo_split/test")
 
     train_df = load_text_dataset(
         train_path / "democrat",

@@ -46,12 +46,19 @@ def count_files(folder_path):
 def main():
 
     rep_subdirs = []
-    for entry in os.scandir(rep_dir):
+    for entry in os.scandir("nlp-predicting-politics/data/eo_data/eo_labeled_split/test/republican"):
+        if entry.is_dir():
+            rep_subdirs.append(entry.path)
+    for entry in os.scandir("nlp-predicting-politics/data/eo_data/eo_labeled_split/train/republican"):
         if entry.is_dir():
             rep_subdirs.append(entry.path)
 
+
     dem_subdirs = []
-    for entry in os.scandir(dem_dir):
+    for entry in os.scandir("nlp-predicting-politics/data/eo_data/eo_labeled_split/test/democrat"):
+        if entry.is_dir():
+            dem_subdirs.append(entry.path)
+    for entry in os.scandir("nlp-predicting-politics/data/eo_data/eo_labeled_split/train/democrat"):
         if entry.is_dir():
             dem_subdirs.append(entry.path)
 

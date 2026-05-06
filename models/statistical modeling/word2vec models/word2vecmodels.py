@@ -204,9 +204,9 @@ def load_big_model():
     )
 
 def run_experiment(folder, embedding_model, model_name="model", tfidf_vectorizer=None):
-    # currently using modern
-    train_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/train")
-    test_path = Path("nlp-predicting-politics/eo_data/clean_modern_eo_split/test")
+    # currently not using modern
+    train_path = Path("nlp-predicting-politics/data/eo_data/clean_eo_split/train")
+    test_path = Path("nlp-predicting-politics/data/eo_data/clean_eo_split/test")
 
     train_df = load_text_dataset(
         train_path / "democrat",

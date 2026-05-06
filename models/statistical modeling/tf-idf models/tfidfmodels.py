@@ -135,8 +135,8 @@ def build_tfidf_features(train_texts, test_texts, max_features=5000, ngram_range
 def run_tfidf_experiment(folder, normalize = True):
 
     # currently not on modern
-    train_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/train")
-    test_path = Path("nlp-predicting-politics/eo_data/clean_eo_split/test")
+    train_path = Path("nlp-predicting-politics/data/eo_data/clean_eo_split/train")
+    test_path = Path("nlp-predicting-politics/data/eo_data/clean_eo_split/test")
 
     train_df = load_text_dataset(
         train_path / "democrat",

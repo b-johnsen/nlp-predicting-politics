@@ -171,8 +171,8 @@ def word_over_time(word, freq_df):
 
 def main():
     df = load_text_dataset([
-        Path("nlp-predicting-politics/eo_data/clean_eo_split/train"),
-        Path("nlp-predicting-politics/eo_data/clean_eo_split/test")
+        Path("nlp-predicting-politics/data/eo_data/clean_eo_split/train"),
+        Path("nlp-predicting-politics/data/eo_data/clean_eo_split/test")
     ])
 
     df = df.dropna(subset=["text", "president", "party"])
