@@ -1,0 +1,37 @@
+president_dir,president,party,eo_count,total_tokens,avg_tokens_per_eo,median_tokens_per_eo,total_sentences,avg_sentences_per_eo,avg_words_per_sentence,total_characters,avg_characters_per_eo
+Andrew_Jackson,Andrew Jackson,Democrat,7,3831,547.29,414.0,116,16.57,33.03,22482,3211.71
+Martin_van_Buren,Martin van Buren,Democrat,2,455,227.5,227.5,24,12.0,18.96,2736,1368.0
+James_K_Polk,James K Polk,Democrat,4,6169,1542.25,742.0,197,49.25,31.31,36402,9100.5
+Franklin_Pierce,Franklin Pierce,Democrat,2,772,386.0,386.0,37,18.5,20.86,4467,2233.5
+James_Buchanan,James Buchanan,Democrat,1,418,418.0,418.0,25,25.0,16.72,2444,2444.0
+Abraham_Lincoln,Abraham Lincoln,Republican,111,22761,205.05,169.0,928,8.36,24.53,137823,1241.65
+Andrew_Johnson,Andrew Johnson,Democrat,65,19485,299.77,153.0,871,13.4,22.37,118773,1827.28
+Ulysses_S_Grant,Ulysses S Grant,Republican,110,29814,271.04,207.5,1272,11.56,23.44,177349,1612.26
+Rutherford_B_Hayes,Rutherford B Hayes,Republican,37,7484,202.27,176.0,351,9.49,21.32,43522,1176.27
+James_A_Garfield,James A Garfield,Republican,2,163,81.5,81.5,11,5.5,14.82,1004,502.0
+Chester_A_Arthur,Chester A Arthur,Republican,70,22559,322.27,200.0,808,11.54,27.92,135353,1933.61
+Grover_Cleveland,Grover Cleveland,Democrat,138,51667,374.4,145.5,1928,13.97,26.8,316817,2295.78
+Benjamin_Harrison,Benjamin Harrison,Republican,62,13329,214.98,126.5,584,9.42,22.82,82101,1324.21
+William_McKinley,William McKinley,Republican,97,21329,219.89,117.0,678,6.99,31.46,129308,1333.07
+Theodore_Roosevelt,Theodore Roosevelt,Republican,95,13228,139.24,90.0,623,6.56,21.23,78418,825.45
+William_Howard_Taft,William Howard Taft,Republican,75,15557,207.43,149.0,1055,14.07,14.75,87928,1172.37
+Woodrow_Wilson,Woodrow Wilson,Democrat,150,58412,389.41,208.0,2414,16.09,24.2,346312,2308.75
+Warren_G_Harding,Warren G Harding,Republican,27,9617,356.19,222.0,361,13.37,26.64,59267,2195.07
+Calvin_Coolidge,Calvin Coolidge,Republican,80,23829,297.86,138.0,1164,14.55,20.47,142808,1785.1
+Herbert_Hoover,Herbert Hoover,Republican,1002,305170,304.56,146.0,27408,27.35,11.13,1716912,1713.49
+Franklin_D_Roosevelt,Franklin D Roosevelt,Democrat,3703,1410388,380.88,226.0,75114,20.28,18.78,8410790,2271.34
+Harry_S_Truman,Harry S Truman,Democrat,906,622683,687.29,283.0,28132,31.05,22.13,3758966,4148.97
+Dwight_D_Eisenhower,Dwight D Eisenhower,Republican,482,294789,611.6,284.0,14343,29.76,20.55,1751683,3634.2
+John_F_Kennedy,John F Kennedy,Democrat,214,168703,788.33,364.5,8609,40.23,19.6,1043520,4876.26
+Lyndon_B_Johnson,Lyndon B Johnson,Democrat,325,184740,568.43,342.0,7506,23.1,24.61,1147370,3530.37
+Richard_Nixon,Richard Nixon,Republican,344,193899,563.66,293.5,7881,22.91,24.6,1226889,3566.54
+Gerald_R_Ford,Gerald R Ford,Republican,169,81142,480.13,265.0,3922,23.21,20.69,505816,2992.99
+Jimmy_Carter,Jimmy Carter,Democrat,320,223076,697.11,378.5,11811,36.91,18.89,1387670,4336.47
+Ronald_Reagan,Ronald Reagan,Republican,381,227337,596.69,375.0,10618,27.87,21.41,1432088,3758.76
+George_Bush,George Bush,Republican,166,90508,545.23,337.0,3971,23.92,22.79,571879,3445.05
+William_J_Clinton,William J Clinton,Democrat,364,325867,895.24,578.0,15457,42.46,21.08,2087443,5734.73
+George_W_Bush,George W Bush,Republican,291,257849,886.08,640.0,10426,35.83,24.73,1640013,5635.78
+Barack_Obama,Barack Obama,Democrat,276,342314,1240.27,985.0,12599,45.65,27.17,2230000,8079.71
+Donald_J_Trump_(1st_Term),Donald J Trump (1st Term),Republican,220,296155,1346.16,1101.0,11132,50.6,26.6,1919979,8727.18
+Joseph_R_Biden_Jr,Joseph R Biden Jr,Democrat,162,326999,2018.51,1307.5,10658,65.79,30.68,2163647,13355.85
+Donald_J_Trump_(2nd_Term),Donald J Trump (2nd Term),Republican,239,315359,1319.49,1043.0,12078,50.54,26.11,2050897,8581.16
