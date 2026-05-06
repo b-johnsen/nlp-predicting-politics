@@ -2,17 +2,25 @@
 
 Predicting Politics and Ideology Final Project with Jack Houck, Brady Johnsen, and Jack Timmermans.
 
+
 ## Directory Structure
 
-The repo contains 3 main experiment directories: BERT, deep_learning, and statical modeling. These contain the scripts corresponding to the type of model used for classication: BERT is distilBERT and legalBERT, deep_learning is the CNN, and staticial modeling is the bag of words, tfidf, and word2vec models. 
+The repo contains 3 main experiment directories: BERT, deep_learning, and statical modeling. These contain the scripts corresponding to the type of model used for classication: BERT has distilBERT and legalBERT models, deep_learning is the CNN, and staticial modeling is the bag of words, tfidf, and word2vec models. 
 
-The eo_data directory contains the full dataset of executive orders, including the cleaned versions, the test/training split, and the modern presidents dataset.
+The eo_data directory contains the full dataset of executive orders, including the cleaned versions, the test/training split, and the modern presidents dataset, including scripts to web scrape the data and clean/split the data.
 
-The scripts directory contains miscellanous scripts, namely the initial baselines script, the webscraping/dataset script, and the named-entity recognition script(s).
+Tbe bills_data directory contains a compressed file of all bills from the 113th through 119th Congresses, as well as the scripts to retrieve the data and clean/split the data.
+
+The NER directory contains all scripts to mask certain entities in the bills/EO datasets using named-entity recognition.
+
+The baselines directory contains the script to run the most_frequent, stratified, and uniform baselines.
 
 The templates directory includes a single template file initially used for consistency of constructing the dataset.
 
 The word analysis directory contains the code used to do term frequency analysis of the text in the dataset. 
+
+The eo_count_analysis directory contains the scripts to create visualizations of the EO counts over time.
+
 
 ## Data Collection
 
@@ -22,15 +30,19 @@ The executive order corpus consists of one text file of every executive order, s
 
 The Congressional bill corpus consists of one text file per bill from GovInfo Bulk Data for the 113th through 119th Congresses (2013-2026). It includes 103,905 bills introduced in both the House and Senate. The data can be found at https://www.govinfo.gov/bulkdata/BILLS.
 
+
 ## How to run code
 
-Working from the cloned repo, each script should be able to be run via its main function with no conflicts. If errors occur, it is likely due to changes in the organization of the repo overtime, which may require copying the correct relative path to the dataset split directories.
+Provided the dependencies are installed from `requirements.txt`, each script should be able to be run via its main function with no conflicts. Ensure that the path variables are correct for your configuration.  
 
-## Non-standard Libraries or APIS
+For NER, be sure to install the relevant spacy model using `python -m spacy download en_core_web_sm`.
+
 
 ## Links to models
 
 * google news word2vec: https://huggingface.co/fse/word2vec-google-news-300
+* legalBERT: https://huggingface.co/nlpaueb/legal-bert-base-uncased
+
 
 ## Links to notebooks/tutorials
 
@@ -39,7 +51,7 @@ Working from the cloned repo, each script should be able to be run via its main 
 * bow vs tf-idf: https://www.analyticsvidhya.com/blog/2021/07/bag-of-words-vs-tfidf-vectorization-a-hands-on-tutorial/
 
 
-## ITEMS NEEDED (DELETE LATE)
+## ITEMS NEEDED (DELETE LATER)
 * explain the directory structure
 * where to look for code
 * where to look for data files
@@ -49,21 +61,3 @@ Working from the cloned repo, each script should be able to be run via its main 
 * links to any non-standard libraries or APIs you used (e.g., don't tell me about scikit or pandas, but do tell me about the Genius API or the Mistral library)
 * links to where you found any models you used
 * links to notebooks or tutorials you used that I did not provide
-
-
-# Setup
-1) Clone the repo
-```bash
-  git clone https://github.com/b-johnsen/nlp-predicting-politics.git
-```
-2) Install dependencies (use conda env or venv if preferred)
-```bash
-  pip install -r requirements.txt
-```
-
-3) Download the spacy language model (needed for NER)
-```bash
-  python -m spacy download en_core_web_sm
-```
-
-

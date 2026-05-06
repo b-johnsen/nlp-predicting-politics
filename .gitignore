@@ -11,7 +11,7 @@ BERT/models/
 
 
 # Congressional Bills dataset (too large)
-bills_data/
+bills_data/extracted_bills/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
