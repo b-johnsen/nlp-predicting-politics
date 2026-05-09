@@ -18,11 +18,10 @@ import torch
 from matplotlib.patches import Patch
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
-
-REPO_ROOT = Path(__file__).resolve().parents[1]
-EO_ROOT = REPO_ROOT / "eo_data"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+EO_ROOT = REPO_ROOT / "data" / "eo_data"
 MANIFEST_DEFAULT = EO_ROOT / "all_executive_orders_txt_clean" / "manifest.csv"
-MODELS_ROOT = REPO_ROOT / "BERT" / "models"
+MODELS_ROOT = REPO_ROOT / "models" / "BERT" / "models"
 
 # Label mapping follows templates/dataset_template.py:
 # folder_0 -> label 0 (democrat), folder_1 -> label 1 (republican)

@@ -16,11 +16,11 @@ from transformers import (
 
 os.environ["PYTORCH_MPS_HIGH_WATERMARK_RATIO"] = "0.0"
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-BERT_DIR = REPO_ROOT / "BERT"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+BERT_DIR = REPO_ROOT / "models" / "BERT"
 DATASETS_DIR = BERT_DIR / "datasets-legal-bert-modern"
 RESULTS_DIR = BERT_DIR / "results-legal-bert"
-EO_DATA_DIR = REPO_ROOT / "eo_data" / "clean_modern_eo_split"
+EO_DATA_DIR = REPO_ROOT / "data" / "eo_data" / "clean_modern_eo_split"
 
 # Ensure imports work when this script is run directly from the BERT directory.
 if str(REPO_ROOT) not in sys.path:

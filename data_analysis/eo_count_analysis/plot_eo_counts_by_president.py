@@ -21,10 +21,9 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from matplotlib.patches import Patch
 
-
-REPO_ROOT = Path(__file__).resolve().parents[1]
-INPUT_DIR_DEFAULT = REPO_ROOT / "eo_data" / "all_executive_orders_txt_clean"
-OUTPUT_DIR_DEFAULT = REPO_ROOT / "eo_data" / "analysis"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+INPUT_DIR_DEFAULT = REPO_ROOT / "data" / "eo_data" / "all_executive_orders_txt_clean"
+OUTPUT_DIR_DEFAULT = REPO_ROOT / "data" / "eo_data" / "analysis"
 
 DEMOCRAT_PRESIDENT_DIRS = [
     "Andrew_Jackson",
@@ -222,9 +221,9 @@ def collect_president_stats(input_dir: Path, party_map: dict[str, str]) -> pd.Da
                 "eo_count": eo_count,
                 "total_tokens": total_tokens,
                 "avg_tokens_per_eo": avg_tokens,
-                "median_tokens_per_eo": float(pd.Series(token_counts).median())
-                if token_counts
-                else 0.0,
+                "median_tokens_per_eo": (
+                    float(pd.Series(token_counts).median()) if token_counts else 0.0
+                ),
                 "total_sentences": total_sentences,
                 "avg_sentences_per_eo": avg_sentences,
                 "avg_words_per_sentence": avg_words_per_sentence,
@@ -261,9 +260,7 @@ def save_plot(df: pd.DataFrame, output_path: Path) -> None:
     plt.figure(figsize=(fig_width, 10))
     bars = plt.bar(df["president"], df["eo_count"], color=bar_colors)
     plt.xlabel("President", fontsize=AXIS_LABEL_FONT_SIZE)
-    plt.ylabel(
-        "Number of Executive Orders (.txt files)", fontsize=AXIS_LABEL_FONT_SIZE
-    )
+    plt.ylabel("Number of Executive Orders (.txt files)", fontsize=AXIS_LABEL_FONT_SIZE)
     plt.title("Executive Order Count by President", fontsize=TITLE_FONT_SIZE)
     plt.xticks(rotation=55, ha="right", fontsize=PRESIDENT_TICK_FONT_SIZE)
     plt.yticks(fontsize=TICK_FONT_SIZE)

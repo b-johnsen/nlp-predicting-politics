@@ -28,7 +28,7 @@ resources directory:
 
 ## Data Collection
 
-We have two datasets for US Presidential executive orders and Congressional bills found in `clean_data` and `unclean_data`, for processed and unprocessed data respectively.
+We have two datasets for US Presidential executive orders and Congressional bills found in the `data` directory.
 
 The executive order corpus consists of one text file of every executive order, spanning 200 years, organized by president, dating back to John Quincy Adams's announcement of the deaths of Thomas Jefferson and John Adams in 1826 all the way to Donald Trump's latest order on April 03, 2026. There are 10818 orders within this corpus. The orders can be found at https://www.presidency.ucsb.edu/documents/app-categories/written-presidential-orders/presidential/executive-orders.
 

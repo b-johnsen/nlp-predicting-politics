@@ -14,11 +14,11 @@ from transformers import (
     set_seed,
 )
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-BERT_DIR = REPO_ROOT / "BERT"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+BERT_DIR = REPO_ROOT / "models" / "BERT"
 DATASETS_DIR = BERT_DIR / "datasets-no-ner"
 RESULTS_DIR = BERT_DIR / "results-no-ner"
-EO_DATA_DIR = REPO_ROOT / "eo_data" / "eo_labeled_split"
+EO_DATA_DIR = REPO_ROOT / "data" / "eo_data" / "eo_labeled_split"
 
 # Ensure imports work when this script is run directly from the BERT directory.
 if str(REPO_ROOT) not in sys.path:

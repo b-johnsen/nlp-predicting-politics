@@ -21,8 +21,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
-INPUT_DIR_DEFAULT = REPO_ROOT / "eo_data" / "all_executive_orders_txt_clean"
-OUTPUT_DIR_DEFAULT = REPO_ROOT / "eo_data" / "analysis"
+INPUT_DIR_DEFAULT = REPO_ROOT / "data" / "eo_data" / "all_executive_orders_txt_clean"
+OUTPUT_DIR_DEFAULT = REPO_ROOT / "data" / "eo_data" / "analysis"
 
 DEMOCRAT_PRESIDENT_DIRS = [
     "Andrew_Jackson",
