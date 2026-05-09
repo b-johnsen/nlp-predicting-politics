@@ -55,15 +55,3 @@ Since the `bills_data.zip` file is so large, you may need to install [Git LFS](h
 * tf-idf wordcloud: https://ayselaydin.medium.com/6-creating-a-word-cloud-using-tf-idf-in-python-2554742d86d9
 * tf-idf vectorizer: https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html
 * bow vs tf-idf: https://www.analyticsvidhya.com/blog/2021/07/bag-of-words-vs-tfidf-vectorization-a-hands-on-tutorial/
-
-
-## ITEMS NEEDED (DELETE LATER)
-* explain the directory structure
-* where to look for code
-* where to look for data files
-* how I would run the code if I wanted to (I won't run it unless it looks totally wonky)
-* what order to run the programs in (if applicable)
-* links to where you got the data
-* links to any non-standard libraries or APIs you used (e.g., don't tell me about scikit or pandas, but do tell me about the Genius API or the Mistral library)
-* links to where you found any models you used
-* links to notebooks or tutorials you used that I did not provide
